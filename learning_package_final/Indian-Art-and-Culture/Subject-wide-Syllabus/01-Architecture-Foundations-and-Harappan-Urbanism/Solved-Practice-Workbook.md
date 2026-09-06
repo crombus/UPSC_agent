@@ -1,1095 +1,433 @@
 ---
-title: "Architecture Foundations and Harappan Urbanism — Solved Practice Workbook"
+title: "Architecture Foundations and Harappan Urbanism - Solved Practice Workbook"
 topic_key: indian-art-and-culture-01
 ---
-# Architecture Foundations and Harappan Urbanism — Solved Practice Workbook
+# Architecture Foundations and Harappan Urbanism - Solved Practice Workbook
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Architecture reading axes?
+### CORE UPSC MCQS
 
-A. Architecture is read through material, plan, elevation and function; patronage, ecology and evidence limits convert description into analysis.
-B. Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference.
-C. The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste.
-D. Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm.
+### Q1. Which site-feature pair is correctly matched?
 
-**Answer: A.**
-**Explanation:** Architecture is read through material, plan, elevation and function; patronage, ecology and evidence limits convert description into analysis. The remaining options belong to different chronology, actor or analytical categories.
+A. Mohenjo-daro - Great Bath and integrated drainage emphasis  
+B. Lothal - securely identified royal palace  
+C. Dholavira - absence of reservoirs  
+D. Kalibangan - exact copy of Mohenjo-daro in all details  
 
-### Q2. Which chronology card should be filed under Architecture reading axes?
+**Answer: A.**  
+**Explanation:** Mohenjo-daro is the classic site for the Great Bath and strong drainage evidence. Lothal's famous basin is debated, Dholavira is well known for reservoirs, and Kalibangan represents regional variation rather than perfect duplication.
 
-A. House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system.
-B. Architecture is read through material, plan, elevation and function; patronage, ecology and evidence limits convert description into analysis.
-C. Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm.
-D. The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste.
+### Q2. Which sequence keeps archaeological phase history separate from modern recovery history?
 
-**Answer: B.**
-**Explanation:** Architecture is read through material, plan, elevation and function; patronage, ecology and evidence limits convert description into analysis. The remaining options belong to different chronology, actor or analytical categories.
+A. Early Harappan -> 1921 Harappa excavation -> Mature Urban phase -> 2021 UNESCO  
+B. Early Harappan -> Mature Urban phase -> Late/Post-Urban change; separately, 1853 seal notice -> 1921 Harappa excavation -> 2021 UNESCO  
+C. 1921 Harappa excavation -> Late Harappan phase -> 1853 seal notice  
+D. UNESCO 2021 -> Early Harappan -> Cunningham 1853  
 
-### Q3. Which option preserves the source-bounded meaning of Architecture reading axes?
+**Answer: B.**  
+**Explanation:** The first chain is the civilisation's own chronology; the second is the modern discovery and heritage chronology. The other options collapse two different timelines into one.
 
-A. Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture.
-B. Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm.
-C. Architecture is read through material, plan, elevation and function; patronage, ecology and evidence limits convert description into analysis.
-D. House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system.
+### Q3. Which of the following best represents the classification given for Harappan buildings in this topic?
 
-**Answer: C.**
-**Explanation:** Architecture is read through material, plan, elevation and function; patronage, ecology and evidence limits convert description into analysis. The remaining options belong to different chronology, actor or analytical categories.
+A. Stupas, monasteries and chaityas  
+B. Temples, tanks and gopurams  
+C. Dwelling houses, public buildings and public baths  
+D. Palaces, pyramids and ziggurats  
 
-### Q4. Which statement avoids a close-option trap about Architecture reading axes?
+**Answer: C.**  
+**Explanation:** The Harappan classification in the core source is exactly this three-part division. The other options belong to later Indian architecture or other Bronze Age civilisations.
 
-A. House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system.
-B. Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture.
-C. Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact.
-D. Architecture is read through material, plan, elevation and function; patronage, ecology and evidence limits convert description into analysis.
+### Q4. A grid of streets meeting at right angles most safely supports which inference?
 
-**Answer: D.**
-**Explanation:** Architecture is read through material, plan, elevation and function; patronage, ecology and evidence limits convert description into analysis. The remaining options belong to different chronology, actor or analytical categories.
+A. One named Harappan king is known.  
+B. Every Harappan town had identical size.  
+C. Harappan religion is fully recoverable.  
+D. The settlements were pre-planned rather than organically accumulated.  
 
-### Q5. Which statement correctly identifies Rectangular grid?
+**Answer: D.**  
+**Explanation:** Right-angled street planning is strong evidence of prior layout. It does not, by itself, identify rulers, theology or identical city size.
 
-A. Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference.
-B. The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste.
-C. House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system.
-D. Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm.
+### Q5. Which statement about the citadel-lower town distinction is most defensible?
 
-**Answer: A.**
-**Explanation:** Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference. The remaining options belong to different chronology, actor or analytical categories.
+A. It suggests functional zoning within a planned settlement.  
+B. It proves a fully known caste hierarchy.  
+C. It proves a palace-temple state.  
+D. It shows that the lower town lacked planned houses.  
 
-### Q6. Which chronology card should be filed under Rectangular grid?
+**Answer: A.**  
+**Explanation:** Functional zoning is the safest inference. The other options overread the evidence or directly contradict the planned nature of Harappan settlements.
 
-A. House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system.
-B. Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference.
-C. Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture.
-D. Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm.
+### Q6. Which material wording is safest after the reopened factual correction?
 
-**Answer: B.**
-**Explanation:** Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference. The remaining options belong to different chronology, actor or analytical categories.
+A. All Harappan construction is best described only through gypsum mortar.  
+B. Harappan architecture shows standardised baked-brick construction; technical mortar or waterproofing details should stay context-specific.  
+C. Stone was the normal Harappan material.  
+D. Harappans avoided brick in public works.  
 
-### Q7. Which option preserves the source-bounded meaning of Rectangular grid?
+**Answer: B.**  
+**Explanation:** The safe general claim is standardised baked-brick construction. The source line on gypsum mortar should not be inflated into a universal formula for every structure.
 
-A. House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system.
-B. Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact.
-C. Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference.
-D. Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture.
+### Q7. Which sequence best captures the drainage logic?
 
-**Answer: C.**
-**Explanation:** Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference. The remaining options belong to different chronology, actor or analytical categories.
+A. Great Bath -> granary -> stepwell -> temple tank  
+B. reservoir -> palace -> shrine -> moat  
+C. house drain -> covered street drain -> cleaning point / cesspit  
+D. private well -> inscription -> fort wall -> dock  
 
-### Q8. Which statement avoids a close-option trap about Rectangular grid?
+**Answer: C.**  
+**Explanation:** The Harappan drainage system is meaningful because household outflow linked into a larger street network with built-in maintenance points.
 
-A. Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact.
-B. Raised platforms and ventilation support a storage interpretation, but 'granary' remains a modern archaeological label rather than an ancient attested name.
-C. Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture.
-D. Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference.
+### Q8. Which statement is least acceptable in a careful answer on the Great Bath?
 
-**Answer: D.**
-**Explanation:** Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference. The remaining options belong to different chronology, actor or analytical categories.
+A. It is a major public water structure at Mohenjo-daro.  
+B. It is surrounded by associated rooms and galleries.  
+C. It may support an inference of ritual cleansing.  
+D. It is inscriptionally confirmed as a royal temple-tank of a named priesthood.  
 
-### Q9. Which statement correctly identifies Citadel and lower town?
+**Answer: D.**  
+**Explanation:** The Great Bath's ritual meaning is inferential, not inscriptionally proven, and neither a named priesthood nor a secure temple label is available.
 
-A. The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste.
-B. House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system.
-C. Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture.
-D. Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm.
+### Q9. What is the safest way to use the word "granary" in Topic 1?
 
-**Answer: A.**
-**Explanation:** The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste. The remaining options belong to different chronology, actor or analytical categories.
+A. As a conventional archaeological label supported by storage-friendly form but still open to caution  
+B. As a securely deciphered Harappan self-name  
+C. As proof of a known royal tax office  
+D. As identical in meaning at every site and phase  
 
-### Q10. Which chronology card should be filed under Citadel and lower town?
+**Answer: A.**  
+**Explanation:** Raised platforms and ventilation support a storage interpretation, but "granary" remains a modern label rather than a deciphered ancient building name.
 
-A. House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system.
-B. The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste.
-C. Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture.
-D. Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact.
+### Q10. What does the finding "no confirmed palace or temple" most directly imply?
 
-**Answer: B.**
-**Explanation:** The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste. The remaining options belong to different chronology, actor or analytical categories.
+A. Harappans had no religion.  
+B. Harappan authority and belief are not monumentally named in the surviving architectural record.  
+C. Harappans had no authority.  
+D. Egyptian and Mesopotamian evidence is irrelevant.  
 
-### Q11. Which option preserves the source-bounded meaning of Citadel and lower town?
+**Answer: B.**  
+**Explanation:** The absence is an evidentiary limit, not a proof of cultural emptiness. It sharpens the comparison with cultures where royal-sacred monuments are explicitly identifiable.
 
-A. Raised platforms and ventilation support a storage interpretation, but 'granary' remains a modern archaeological label rather than an ancient attested name.
-B. Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact.
-C. The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste.
-D. Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture.
+### Q11. Why is Dholavira indispensable in a serious Topic 1 answer?
 
-**Answer: C.**
-**Explanation:** The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste. The remaining options belong to different chronology, actor or analytical categories.
+A. It proves every Harappan city was identical.  
+B. It replaces the need to discuss Mohenjo-daro.  
+C. It shows standardisation through regional adaptation, especially via fortifications and reservoirs.  
+D. It disproves Harappan drainage.  
 
-### Q12. Which statement avoids a close-option trap about Citadel and lower town?
+**Answer: C.**  
+**Explanation:** Dholavira broadens the civilisation-wide thesis from simple uniformity to shared planning norms solved differently in different ecological settings.
 
-A. No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality.
-B. Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact.
-C. Raised platforms and ventilation support a storage interpretation, but 'granary' remains a modern archaeological label rather than an ancient attested name.
-D. The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste.
+### Q12. Which statement about Lothal is safest?
 
-**Answer: D.**
-**Explanation:** The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste. The remaining options belong to different chronology, actor or analytical categories.
+A. It is irrelevant to Harappan architecture.  
+B. It had no connection with water questions.  
+C. It proves a deciphered maritime bureaucracy.  
+D. It contains a basin conventionally called a dockyard, but the exact function remains debated.  
 
-### Q13. Which statement correctly identifies Standardised burnt brick?
+**Answer: D.**  
+**Explanation:** Lothal matters, but the architecture answer must preserve the debated status of the basin's function.
 
-A. Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm.
-B. Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact.
-C. Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture.
-D. House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system.
+### Q13. Which statement about domestic architecture is correct?
 
-**Answer: A.**
-**Explanation:** Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm. The remaining options belong to different chronology, actor or analytical categories.
+A. Private wells, designated bathing areas and some stairways show planning reached ordinary houses.  
+B. Domestic architecture was architecturally insignificant.  
+C. Every Harappan house was identical in size and status.  
+D. Domestic evidence exists only at Dholavira.  
 
-### Q14. Which chronology card should be filed under Standardised burnt brick?
+**Answer: A.**  
+**Explanation:** The sources use household wells, bathing spaces and stairs to show that water and planning were distributed into domestic life, though houses did vary.
 
-A. Raised platforms and ventilation support a storage interpretation, but 'granary' remains a modern archaeological label rather than an ancient attested name.
-B. Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm.
-C. Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture.
-D. Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact.
+### Q14. Which statement about Meluha is most careful?
 
-**Answer: B.**
-**Explanation:** Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm. The remaining options belong to different chronology, actor or analytical categories.
+A. Meluha is the deciphered Harappan word for their own state.  
+B. Many scholars connect Meluha with the civilisation through Mesopotamian references and seal finds, but it remains an interpretive identification.  
+C. Meluha proves a temple economy.  
+D. Meluha is irrelevant to Harappan urbanism.  
 
-### Q15. Which option preserves the source-bounded meaning of Standardised burnt brick?
+**Answer: B.**  
+**Explanation:** Trade contact is well supported, but the name remains interpretive rather than a securely recovered self-description from a deciphered Harappan text.
 
-A. No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality.
-B. Raised platforms and ventilation support a storage interpretation, but 'granary' remains a modern archaeological label rather than an ancient attested name.
-C. Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm.
-D. Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact.
+### Q15. Which statement most accurately reflects the script ceiling?
 
-**Answer: C.**
-**Explanation:** Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm. The remaining options belong to different chronology, actor or analytical categories.
+A. The undeciphered script lets us confidently name Harappan rulers.  
+B. The script ceiling applies only to sculpture, not architecture.  
+C. The undeciphered script is a major reason architecture cannot by itself settle questions of religion, polity or named institutions.  
+D. The script has no importance for interpretive caution.  
 
-### Q16. Which statement avoids a close-option trap about Standardised burnt brick?
+**Answer: C.**  
+**Explanation:** Architecture gives strong formal evidence, but the unread script and unnamed buildings sharply limit what can be claimed about institutions, kingship and worship.
 
-A. No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality.
-B. Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation.
-C. Raised platforms and ventilation support a storage interpretation, but 'granary' remains a modern archaeological label rather than an ancient attested name.
-D. Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm.
+### Q16. Which comparison is sharpest for a Mains answer?
 
-**Answer: D.**
-**Explanation:** Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm. The remaining options belong to different chronology, actor or analytical categories.
+A. Harappan cities had nothing impressive because they lacked pyramids.  
+B. Egypt and Mesopotamia had no planning at all.  
+C. Harappan and Egyptian architecture were identical civic systems.  
+D. Harappan visible surplus is strongest in civic works, whereas Egyptian and Mesopotamian evidence foregrounds royal-sacred monumentality.  
 
-### Q17. Which statement correctly identifies Maintainable drainage?
+**Answer: D.**  
+**Explanation:** This is the comparative point that turns description into analysis without making false civilisational judgments.
 
-A. House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system.
-B. Raised platforms and ventilation support a storage interpretation, but 'granary' remains a modern archaeological label rather than an ancient attested name.
-C. Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture.
-D. Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact.
+### Q17. Which statement best preserves the water-architecture firewall?
 
-**Answer: A.**
-**Explanation:** House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system. The remaining options belong to different chronology, actor or analytical categories.
+A. Harappan civic water systems and later stepwells or temple tanks should be kept distinct because similar concern with water does not prove one uninterrupted architectural lineage.  
+B. Harappan drains evolved directly into every later Indian stepwell.  
+C. Rani-ki-Vav is a Harappan monument.  
+D. Temple tanks are identical in function to covered street drains.  
 
-### Q18. Which chronology card should be filed under Maintainable drainage?
+**Answer: A.**  
+**Explanation:** The key is functional distinction: civic sanitation and settlement-wide water planning are not the same as much later ritual, commemorative or patron-centred water architecture.
 
-A. No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality.
-B. House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system.
-C. Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact.
-D. Raised platforms and ventilation support a storage interpretation, but 'granary' remains a modern archaeological label rather than an ancient attested name.
+### Q18. Which is locally verified for Rani-ki-Vav in this topic's approved source bank?
 
-**Answer: B.**
-**Explanation:** House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system. The remaining options belong to different chronology, actor or analytical categories.
+A. Exact step count, depth and sculptural programme  
+B. It is a stepwell in Gujarat and a UNESCO World Heritage property  
+C. Full construction date and patron with inscription  
+D. Its direct descent from Harappan drainage  
 
-### Q19. Which option preserves the source-bounded meaning of Maintainable drainage?
+**Answer: B.**  
+**Explanation:** The local approved knowledge bank deliberately limits the safe facts here to stepwell, Gujarat and UNESCO status, precisely to avoid invention.
 
-A. No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality.
-B. Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation.
-C. House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system.
-D. Raised platforms and ventilation support a storage interpretation, but 'granary' remains a modern archaeological label rather than an ancient attested name.
+### Q19. Which feature is specifically attached to Modhera's Surya Kund in the approved source bank?
 
-**Answer: C.**
-**Explanation:** House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system. The remaining options belong to different chronology, actor or analytical categories.
+A. It is a Mauryan reservoir repaired by Skandagupta.  
+B. It is a Harappan household well.  
+C. It is a step tank near the temple and a distinctive feature of the Solanki school.  
+D. It is the debated basin at Lothal.  
 
-### Q20. Which statement avoids a close-option trap about Maintainable drainage?
+**Answer: C.**  
+**Explanation:** Modhera's Surya Kund belongs to a much later temple setting and is explicitly presented as a school-defining step tank in the approved Nitin bank.
 
-A. Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation.
-B. Lothal's basin is conventionally called a dockyard, but its precise function remains debated and must be presented conditionally.
-C. No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality.
-D. House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system.
+### Q20. Why is the Junagadh/Sudarshana lake record useful in an expanded water answer?
 
-**Answer: D.**
-**Explanation:** House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system. The remaining options belong to different chronology, actor or analytical categories.
+A. It proves Harappan script decipherment.  
+B. It turns every reservoir into a temple tank.  
+C. It removes the need for Dholavira.  
+D. It gives a long inscription-based history of construction and repair across dynasties, showing water maintenance as a durable state concern.  
 
-### Q21. Which statement correctly identifies Domestic water design?
+**Answer: D.**  
+**Explanation:** The Junagadh record is valuable because it provides rare long-duration evidence for water works as maintained public obligations, though it belongs to a different chronology from Harappan urbanism.
 
-A. Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture.
-B. No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality.
-C. Raised platforms and ventilation support a storage interpretation, but 'granary' remains a modern archaeological label rather than an ancient attested name.
-D. Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact.
+### Q21. Which statement about late/post-urban change is safest for Topic 1?
 
-**Answer: A.**
-**Explanation:** Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture. The remaining options belong to different chronology, actor or analytical categories.
+A. Urban planning features weaken, but Topic 1 should not become a single-cause decline argument.  
+B. Late/post-urban change proves one invasion theory.  
+C. The late phase is irrelevant to architecture.  
+D. The late phase makes early and mature distinctions useless.  
 
-### Q22. Which chronology card should be filed under Domestic water design?
+**Answer: A.**  
+**Explanation:** The topic may note weakening of the classic urban package, but full decline debates belong elsewhere and should not dominate an architecture answer.
 
-A. No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality.
-B. Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture.
-C. Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation.
-D. Raised platforms and ventilation support a storage interpretation, but 'granary' remains a modern archaeological label rather than an ancient attested name.
+### Q22. Which opening line best fits the verified 2025 PYQ?
 
-**Answer: B.**
-**Explanation:** Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture. The remaining options belong to different chronology, actor or analytical categories.
+A. Harappan trade with Mesopotamia proves a merchant monarchy.  
+B. Harappan architecture is salient because planned grids, zoned settlement, maintainable drains and standardised baked-brick construction together reveal advanced civic urbanism.  
+C. Harappan seals alone explain the architecture.  
+D. The safest answer is to ignore site names entirely.  
 
-### Q23. Which option preserves the source-bounded meaning of Domestic water design?
+**Answer: B.**  
+**Explanation:** This line selects the main architectural features, frames them analytically and stays inside the evidence.
 
-A. Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation.
-B. No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality.
-C. Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture.
-D. Lothal's basin is conventionally called a dockyard, but its precise function remains debated and must be presented conditionally.
+### Q23. Which keyword bundle is most useful to memorise for a direct 10-mark answer?
 
-**Answer: C.**
-**Explanation:** Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture. The remaining options belong to different chronology, actor or analytical categories.
+A. Gopuram, shikhara, mandapa, pradakshina  
+B. horde, janapada, mahajanapada, sangha  
+C. rectangular grid, functional zoning, maintainable drainage, standardised baked-brick construction, evidentiary caution  
+D. cave chaitya, vihara, stupa, torana  
 
-### Q24. Which statement avoids a close-option trap about Domestic water design?
+**Answer: C.**  
+**Explanation:** This set belongs precisely to Harappan architecture and already builds description plus conclusion into the answer plan.
 
-A. Harappa's large brick platforms and Kalibangan's distinctive planning prevent Mohenjo-daro from becoming an identical template for every settlement.
-B. Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation.
-C. Lothal's basin is conventionally called a dockyard, but its precise function remains debated and must be presented conditionally.
-D. Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture.
+### Q24. Which order best represents the paragraph-building method used in the repaired learning session?
 
-**Answer: D.**
-**Explanation:** Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture. The remaining options belong to different chronology, actor or analytical categories.
+A. Qualification -> Claim -> Evidence -> Analysis  
+B. Analysis -> Evidence -> Qualification -> Claim  
+C. Evidence -> Qualification -> Claim -> Analysis  
+D. Claim -> Evidence -> Analysis -> Qualification/Link  
 
-### Q25. Which statement correctly identifies Great Bath?
+**Answer: D.**  
+**Explanation:** This sequence helps the student move from a defensible point to named support, then to significance, and finally to a careful limit or direct link to the demand.
 
-A. Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact.
-B. Raised platforms and ventilation support a storage interpretation, but 'granary' remains a modern archaeological label rather than an ancient attested name.
-C. No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality.
-D. Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation.
+### Q25. Which modern-recovery statement is correct?
 
-**Answer: A.**
-**Explanation:** Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact. The remaining options belong to different chronology, actor or analytical categories.
+A. Cunningham noticed a Harappan seal in 1853, and Daya Ram Sahni began excavating Harappa in 1921.  
+B. UNESCO discovered Harappa in 2021.  
+C. Dholavira was first excavated by Banerjee in 1921.  
+D. Marshall noticed the first seal before Cunningham.  
 
-### Q26. Which chronology card should be filed under Great Bath?
+**Answer: A.**  
+**Explanation:** This is the core discovery-history pair the student must remember; the other options distort recovery chronology.
 
-A. Lothal's basin is conventionally called a dockyard, but its precise function remains debated and must be presented conditionally.
-B. Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact.
-C. No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality.
-D. Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation.
+### Q26. Which statement about Dholavira's official heritage anchor is correct?
 
-**Answer: B.**
-**Explanation:** Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact. The remaining options belong to different chronology, actor or analytical categories.
+A. UNESCO's official note treats Dholavira only as a temple complex.  
+B. UNESCO's official note recognises Dholavira as a Harappan city with planned urban areas, reservoirs and all three Harappan phases.  
+C. UNESCO says Dholavira belongs only to the late phase.  
+D. UNESCO rejects its water-management significance.  
 
-### Q27. Which option preserves the source-bounded meaning of Great Bath?
+**Answer: B.**  
+**Explanation:** The official UNESCO page highlights planned areas, fortifications, reservoirs and early, mature and late Harappan phases.
 
-A. Lothal's basin is conventionally called a dockyard, but its precise function remains debated and must be presented conditionally.
-B. Harappa's large brick platforms and Kalibangan's distinctive planning prevent Mohenjo-daro from becoming an identical template for every settlement.
-C. Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact.
-D. Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation.
+### Q27. Which evidence set most directly supports the civic-priority thesis?
 
-**Answer: C.**
-**Explanation:** Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact. The remaining options belong to different chronology, actor or analytical categories.
+A. Pyramids, imperial inscriptions and royal tombs  
+B. only seals and figurines  
+C. right-angled streets, covered drains, wells, the Great Bath and Dholavira reservoirs  
+D. only the debated basin at Lothal  
 
-### Q28. Which statement avoids a close-option trap about Great Bath?
+**Answer: C.**  
+**Explanation:** This set shows why Harappan visible investment appears strongest in the organisation of urban life rather than in named royal-sacred monumentality.
 
-A. Harappa's large brick platforms and Kalibangan's distinctive planning prevent Mohenjo-daro from becoming an identical template for every settlement.
-B. Lothal's basin is conventionally called a dockyard, but its precise function remains debated and must be presented conditionally.
-C. Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire.
-D. Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact.
+### Q28. Which statement should stay outside the core architectural answer unless the question explicitly asks for it?
 
-**Answer: D.**
-**Explanation:** Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact. The remaining options belong to different chronology, actor or analytical categories.
+A. The Great Bath is a public structure whose ritual meaning is inferential.  
+B. Dholavira shows regional adaptation within shared Harappan norms.  
+C. The drainage system is maintainable and city-linked.  
+D. A fully developed single-cause decline theory with detailed political history.  
 
-### Q29. Which statement correctly identifies Conventional granary label?
+**Answer: D.**  
+**Explanation:** Decline theories and extended political chronology belong to other topic boundaries unless the wording specifically demands them.
 
-A. Raised platforms and ventilation support a storage interpretation, but 'granary' remains a modern archaeological label rather than an ancient attested name.
-B. Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation.
-C. No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality.
-D. Lothal's basin is conventionally called a dockyard, but its precise function remains debated and must be presented conditionally.
+### REMEDIAL PRACTICE - TRAP-FOCUSED DRILLS
 
-**Answer: A.**
-**Explanation:** Raised platforms and ventilation support a storage interpretation, but 'granary' remains a modern archaeological label rather than an ancient attested name. The remaining options belong to different chronology, actor or analytical categories.
+#### Drill 1. What is the best repair for the claim "The citadel proves caste"?
 
-### Q30. Which chronology card should be filed under Conventional granary label?
+A. Replace it with "the citadel-lower town split is best read as functional zoning."  
+B. Replace it with "the citadel proves a single universal monarchy."  
+C. Replace it with "the citadel is useless evidence."  
+D. Replace it with "the citadel proves temple domination."  
 
-A. Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation.
-B. Raised platforms and ventilation support a storage interpretation, but 'granary' remains a modern archaeological label rather than an ancient attested name.
-C. Harappa's large brick platforms and Kalibangan's distinctive planning prevent Mohenjo-daro from becoming an identical template for every settlement.
-D. Lothal's basin is conventionally called a dockyard, but its precise function remains debated and must be presented conditionally.
+**Answer: A.**  
+**Explanation:** The corrected line preserves the strength of the evidence without forcing it into a rigid social map.
 
-**Answer: B.**
-**Explanation:** Raised platforms and ventilation support a storage interpretation, but 'granary' remains a modern archaeological label rather than an ancient attested name. The remaining options belong to different chronology, actor or analytical categories.
+#### Drill 2. What is the best repair for the claim "The Great Bath proves a known priesthood"?
 
-### Q31. Which option preserves the source-bounded meaning of Conventional granary label?
+A. Keep it unchanged because the ritual role is certain.  
+B. Repair it to: "The Great Bath is a major public water structure; ritual cleansing is plausible, not inscriptionally confirmed."  
+C. Repair it to: "The Great Bath had no public role at all."  
+D. Repair it to: "The Great Bath was definitely a palace moat."  
 
-A. Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire.
-B. Harappa's large brick platforms and Kalibangan's distinctive planning prevent Mohenjo-daro from becoming an identical template for every settlement.
-C. Raised platforms and ventilation support a storage interpretation, but 'granary' remains a modern archaeological label rather than an ancient attested name.
-D. Lothal's basin is conventionally called a dockyard, but its precise function remains debated and must be presented conditionally.
+**Answer: B.**  
+**Explanation:** This is the disciplined way to preserve both the structure and the inferential limit.
 
-**Answer: C.**
-**Explanation:** Raised platforms and ventilation support a storage interpretation, but 'granary' remains a modern archaeological label rather than an ancient attested name. The remaining options belong to different chronology, actor or analytical categories.
+#### Drill 3. What is the best repair for the claim "All Harappan construction can be described through gypsum mortar"?
 
-### Q32. Which statement avoids a close-option trap about Conventional granary label?
+A. Replace it with "all Harappan construction was stone-built."  
+B. Replace it with "brick evidence is unimportant."  
+C. Replace it with "standardised baked-brick construction is the safe general claim; technical mortar or waterproofing detail must remain context-specific."  
+D. Replace it with "gypsum mortar proves a named dynasty."  
 
-A. Harappa's large brick platforms and Kalibangan's distinctive planning prevent Mohenjo-daro from becoming an identical template for every settlement.
-B. Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire.
-C. The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded.
-D. Raised platforms and ventilation support a storage interpretation, but 'granary' remains a modern archaeological label rather than an ancient attested name.
+**Answer: C.**  
+**Explanation:** The reopened correction specifically requires the general claim to remain on brick standardisation, not on universalised mortar language.
 
-**Answer: D.**
-**Explanation:** Raised platforms and ventilation support a storage interpretation, but 'granary' remains a modern archaeological label rather than an ancient attested name. The remaining options belong to different chronology, actor or analytical categories.
+#### Drill 4. What is the best repair for the claim "Stepwells continue Harappan drains directly"?
 
-### Q33. Which statement correctly identifies No confirmed palace or temple?
+A. Replace it with "all later tanks are Harappan."  
+B. Replace it with "Rani-ki-Vav is a Harappan bath."  
+C. Replace it with "water architecture is not worth comparing."  
+D. Replace it with "Harappan and later water structures answer related but distinct problems and should not be merged into one unbroken lineage."  
 
-A. No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality.
-B. Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation.
-C. Harappa's large brick platforms and Kalibangan's distinctive planning prevent Mohenjo-daro from becoming an identical template for every settlement.
-D. Lothal's basin is conventionally called a dockyard, but its precise function remains debated and must be presented conditionally.
-
-**Answer: A.**
-**Explanation:** No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q34. Which chronology card should be filed under No confirmed palace or temple?
-
-A. Lothal's basin is conventionally called a dockyard, but its precise function remains debated and must be presented conditionally.
-B. No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality.
-C. Harappa's large brick platforms and Kalibangan's distinctive planning prevent Mohenjo-daro from becoming an identical template for every settlement.
-D. Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire.
-
-**Answer: B.**
-**Explanation:** No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q35. Which option preserves the source-bounded meaning of No confirmed palace or temple?
-
-A. Harappa's large brick platforms and Kalibangan's distinctive planning prevent Mohenjo-daro from becoming an identical template for every settlement.
-B. Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire.
-C. No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality.
-D. The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded.
-
-**Answer: C.**
-**Explanation:** No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about No confirmed palace or temple?
-
-A. The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded.
-B. Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire.
-C. Indus seals in Mesopotamia support long-distance trade contact; the identification of the Harappans with Mesopotamian Meluha remains a scholarly argument.
-D. No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality.
-
-**Answer: D.**
-**Explanation:** No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies Dholavira adaptation?
-
-A. Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation.
-B. Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire.
-C. Harappa's large brick platforms and Kalibangan's distinctive planning prevent Mohenjo-daro from becoming an identical template for every settlement.
-D. Lothal's basin is conventionally called a dockyard, but its precise function remains debated and must be presented conditionally.
-
-**Answer: A.**
-**Explanation:** Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under Dholavira adaptation?
-
-A. The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded.
-B. Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation.
-C. Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire.
-D. Harappa's large brick platforms and Kalibangan's distinctive planning prevent Mohenjo-daro from becoming an identical template for every settlement.
-
-**Answer: B.**
-**Explanation:** Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q39. Which option preserves the source-bounded meaning of Dholavira adaptation?
-
-A. The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded.
-B. Indus seals in Mesopotamia support long-distance trade contact; the identification of the Harappans with Mesopotamian Meluha remains a scholarly argument.
-C. Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation.
-D. Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire.
-
-**Answer: C.**
-**Explanation:** Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Dholavira adaptation?
-
-A. The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded.
-B. Harappan surplus is most visible in streets, drains, wells, baths and storage rather than confirmed royal tombs or temples.
-C. Indus seals in Mesopotamia support long-distance trade contact; the identification of the Harappans with Mesopotamian Meluha remains a scholarly argument.
-D. Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation.
-
-**Answer: D.**
-**Explanation:** Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Lothal basin caution?
-
-A. Lothal's basin is conventionally called a dockyard, but its precise function remains debated and must be presented conditionally.
-B. Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire.
-C. The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded.
-D. Harappa's large brick platforms and Kalibangan's distinctive planning prevent Mohenjo-daro from becoming an identical template for every settlement.
-
-**Answer: A.**
-**Explanation:** Lothal's basin is conventionally called a dockyard, but its precise function remains debated and must be presented conditionally. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Lothal basin caution?
-
-A. Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire.
-B. Lothal's basin is conventionally called a dockyard, but its precise function remains debated and must be presented conditionally.
-C. Indus seals in Mesopotamia support long-distance trade contact; the identification of the Harappans with Mesopotamian Meluha remains a scholarly argument.
-D. The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded.
-
-**Answer: B.**
-**Explanation:** Lothal's basin is conventionally called a dockyard, but its precise function remains debated and must be presented conditionally. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Lothal basin caution?
-
-A. Indus seals in Mesopotamia support long-distance trade contact; the identification of the Harappans with Mesopotamian Meluha remains a scholarly argument.
-B. The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded.
-C. Lothal's basin is conventionally called a dockyard, but its precise function remains debated and must be presented conditionally.
-D. Harappan surplus is most visible in streets, drains, wells, baths and storage rather than confirmed royal tombs or temples.
-
-**Answer: C.**
-**Explanation:** Lothal's basin is conventionally called a dockyard, but its precise function remains debated and must be presented conditionally. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about Lothal basin caution?
-
-A. The verified 2025 GS-I question asks for the salient features of Harappan architecture in 150 words, making selection and evidentiary caution essential.
-B. Harappan surplus is most visible in streets, drains, wells, baths and storage rather than confirmed royal tombs or temples.
-C. Indus seals in Mesopotamia support long-distance trade contact; the identification of the Harappans with Mesopotamian Meluha remains a scholarly argument.
-D. Lothal's basin is conventionally called a dockyard, but its precise function remains debated and must be presented conditionally.
-
-**Answer: D.**
-**Explanation:** Lothal's basin is conventionally called a dockyard, but its precise function remains debated and must be presented conditionally. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Harappa and Kalibangan variation?
-
-A. Harappa's large brick platforms and Kalibangan's distinctive planning prevent Mohenjo-daro from becoming an identical template for every settlement.
-B. The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded.
-C. Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire.
-D. Indus seals in Mesopotamia support long-distance trade contact; the identification of the Harappans with Mesopotamian Meluha remains a scholarly argument.
-
-**Answer: A.**
-**Explanation:** Harappa's large brick platforms and Kalibangan's distinctive planning prevent Mohenjo-daro from becoming an identical template for every settlement. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Harappa and Kalibangan variation?
-
-A. The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded.
-B. Harappa's large brick platforms and Kalibangan's distinctive planning prevent Mohenjo-daro from becoming an identical template for every settlement.
-C. Harappan surplus is most visible in streets, drains, wells, baths and storage rather than confirmed royal tombs or temples.
-D. Indus seals in Mesopotamia support long-distance trade contact; the identification of the Harappans with Mesopotamian Meluha remains a scholarly argument.
-
-**Answer: B.**
-**Explanation:** Harappa's large brick platforms and Kalibangan's distinctive planning prevent Mohenjo-daro from becoming an identical template for every settlement. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Harappa and Kalibangan variation?
-
-A. Indus seals in Mesopotamia support long-distance trade contact; the identification of the Harappans with Mesopotamian Meluha remains a scholarly argument.
-B. Harappan surplus is most visible in streets, drains, wells, baths and storage rather than confirmed royal tombs or temples.
-C. Harappa's large brick platforms and Kalibangan's distinctive planning prevent Mohenjo-daro from becoming an identical template for every settlement.
-D. The verified 2025 GS-I question asks for the salient features of Harappan architecture in 150 words, making selection and evidentiary caution essential.
-
-**Answer: C.**
-**Explanation:** Harappa's large brick platforms and Kalibangan's distinctive planning prevent Mohenjo-daro from becoming an identical template for every settlement. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Harappa and Kalibangan variation?
-
-A. Harappan surplus is most visible in streets, drains, wells, baths and storage rather than confirmed royal tombs or temples.
-B. Harappan water works were settlement-wide civic infrastructure; later stepwells and temple tanks served different ritual, commemorative or storage purposes.
-C. The verified 2025 GS-I question asks for the salient features of Harappan architecture in 150 words, making selection and evidentiary caution essential.
-D. Harappa's large brick platforms and Kalibangan's distinctive planning prevent Mohenjo-daro from becoming an identical template for every settlement.
-
-**Answer: D.**
-**Explanation:** Harappa's large brick platforms and Kalibangan's distinctive planning prevent Mohenjo-daro from becoming an identical template for every settlement. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Standardisation inference?
-
-A. Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire.
-B. Indus seals in Mesopotamia support long-distance trade contact; the identification of the Harappans with Mesopotamian Meluha remains a scholarly argument.
-C. Harappan surplus is most visible in streets, drains, wells, baths and storage rather than confirmed royal tombs or temples.
-D. The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded.
-
-**Answer: A.**
-**Explanation:** Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Standardisation inference?
-
-A. Indus seals in Mesopotamia support long-distance trade contact; the identification of the Harappans with Mesopotamian Meluha remains a scholarly argument.
-B. Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire.
-C. Harappan surplus is most visible in streets, drains, wells, baths and storage rather than confirmed royal tombs or temples.
-D. The verified 2025 GS-I question asks for the salient features of Harappan architecture in 150 words, making selection and evidentiary caution essential.
-
-**Answer: B.**
-**Explanation:** Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Standardisation inference?
-
-A. The verified 2025 GS-I question asks for the salient features of Harappan architecture in 150 words, making selection and evidentiary caution essential.
-B. Harappan surplus is most visible in streets, drains, wells, baths and storage rather than confirmed royal tombs or temples.
-C. Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire.
-D. Harappan water works were settlement-wide civic infrastructure; later stepwells and temple tanks served different ritual, commemorative or storage purposes.
-
-**Answer: C.**
-**Explanation:** Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Standardisation inference?
-
-A. Harappan water works were settlement-wide civic infrastructure; later stepwells and temple tanks served different ritual, commemorative or storage purposes.
-B. The verified 2025 GS-I question asks for the salient features of Harappan architecture in 150 words, making selection and evidentiary caution essential.
-C. UNESCO's official Dholavira property page describes planned urban areas, fortifications, reservoirs and drainage; it is used only as current official corroboration.
-D. Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire.
-
-**Answer: D.**
-**Explanation:** Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Undeciphered-script boundary?
-
-A. The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded.
-B. Indus seals in Mesopotamia support long-distance trade contact; the identification of the Harappans with Mesopotamian Meluha remains a scholarly argument.
-C. The verified 2025 GS-I question asks for the salient features of Harappan architecture in 150 words, making selection and evidentiary caution essential.
-D. Harappan surplus is most visible in streets, drains, wells, baths and storage rather than confirmed royal tombs or temples.
-
-**Answer: A.**
-**Explanation:** The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Undeciphered-script boundary?
-
-A. Harappan surplus is most visible in streets, drains, wells, baths and storage rather than confirmed royal tombs or temples.
-B. The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded.
-C. The verified 2025 GS-I question asks for the salient features of Harappan architecture in 150 words, making selection and evidentiary caution essential.
-D. Harappan water works were settlement-wide civic infrastructure; later stepwells and temple tanks served different ritual, commemorative or storage purposes.
-
-**Answer: B.**
-**Explanation:** The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Undeciphered-script boundary?
-
-A. The verified 2025 GS-I question asks for the salient features of Harappan architecture in 150 words, making selection and evidentiary caution essential.
-B. Harappan water works were settlement-wide civic infrastructure; later stepwells and temple tanks served different ritual, commemorative or storage purposes.
-C. The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded.
-D. UNESCO's official Dholavira property page describes planned urban areas, fortifications, reservoirs and drainage; it is used only as current official corroboration.
-
-**Answer: C.**
-**Explanation:** The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Undeciphered-script boundary?
-
-A. A high-value answer moves from grid to zoning, public works, drainage, material and regional variation, then closes with the palace-temple evidence limit.
-B. Harappan water works were settlement-wide civic infrastructure; later stepwells and temple tanks served different ritual, commemorative or storage purposes.
-C. UNESCO's official Dholavira property page describes planned urban areas, fortifications, reservoirs and drainage; it is used only as current official corroboration.
-D. The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded.
-
-**Answer: D.**
-**Explanation:** The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Meluha and external contact?
-
-A. Indus seals in Mesopotamia support long-distance trade contact; the identification of the Harappans with Mesopotamian Meluha remains a scholarly argument.
-B. Harappan surplus is most visible in streets, drains, wells, baths and storage rather than confirmed royal tombs or temples.
-C. The verified 2025 GS-I question asks for the salient features of Harappan architecture in 150 words, making selection and evidentiary caution essential.
-D. Harappan water works were settlement-wide civic infrastructure; later stepwells and temple tanks served different ritual, commemorative or storage purposes.
-
-**Answer: A.**
-**Explanation:** Indus seals in Mesopotamia support long-distance trade contact; the identification of the Harappans with Mesopotamian Meluha remains a scholarly argument. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Meluha and external contact?
-
-A. Harappan water works were settlement-wide civic infrastructure; later stepwells and temple tanks served different ritual, commemorative or storage purposes.
-B. Indus seals in Mesopotamia support long-distance trade contact; the identification of the Harappans with Mesopotamian Meluha remains a scholarly argument.
-C. The verified 2025 GS-I question asks for the salient features of Harappan architecture in 150 words, making selection and evidentiary caution essential.
-D. UNESCO's official Dholavira property page describes planned urban areas, fortifications, reservoirs and drainage; it is used only as current official corroboration.
-
-**Answer: B.**
-**Explanation:** Indus seals in Mesopotamia support long-distance trade contact; the identification of the Harappans with Mesopotamian Meluha remains a scholarly argument. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Meluha and external contact?
-
-A. UNESCO's official Dholavira property page describes planned urban areas, fortifications, reservoirs and drainage; it is used only as current official corroboration.
-B. Harappan water works were settlement-wide civic infrastructure; later stepwells and temple tanks served different ritual, commemorative or storage purposes.
-C. Indus seals in Mesopotamia support long-distance trade contact; the identification of the Harappans with Mesopotamian Meluha remains a scholarly argument.
-D. A high-value answer moves from grid to zoning, public works, drainage, material and regional variation, then closes with the palace-temple evidence limit.
-
-**Answer: C.**
-**Explanation:** Indus seals in Mesopotamia support long-distance trade contact; the identification of the Harappans with Mesopotamian Meluha remains a scholarly argument. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Meluha and external contact?
-
-A. A high-value answer moves from grid to zoning, public works, drainage, material and regional variation, then closes with the palace-temple evidence limit.
-B. UNESCO's official Dholavira property page describes planned urban areas, fortifications, reservoirs and drainage; it is used only as current official corroboration.
-C. Architecture is read through material, plan, elevation and function; patronage, ecology and evidence limits convert description into analysis.
-D. Indus seals in Mesopotamia support long-distance trade contact; the identification of the Harappans with Mesopotamian Meluha remains a scholarly argument.
-
-**Answer: D.**
-**Explanation:** Indus seals in Mesopotamia support long-distance trade contact; the identification of the Harappans with Mesopotamian Meluha remains a scholarly argument. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Civic versus monumental priority?
-
-A. Harappan surplus is most visible in streets, drains, wells, baths and storage rather than confirmed royal tombs or temples.
-B. The verified 2025 GS-I question asks for the salient features of Harappan architecture in 150 words, making selection and evidentiary caution essential.
-C. Harappan water works were settlement-wide civic infrastructure; later stepwells and temple tanks served different ritual, commemorative or storage purposes.
-D. UNESCO's official Dholavira property page describes planned urban areas, fortifications, reservoirs and drainage; it is used only as current official corroboration.
-
-**Answer: A.**
-**Explanation:** Harappan surplus is most visible in streets, drains, wells, baths and storage rather than confirmed royal tombs or temples. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Civic versus monumental priority?
-
-A. UNESCO's official Dholavira property page describes planned urban areas, fortifications, reservoirs and drainage; it is used only as current official corroboration.
-B. Harappan surplus is most visible in streets, drains, wells, baths and storage rather than confirmed royal tombs or temples.
-C. Harappan water works were settlement-wide civic infrastructure; later stepwells and temple tanks served different ritual, commemorative or storage purposes.
-D. A high-value answer moves from grid to zoning, public works, drainage, material and regional variation, then closes with the palace-temple evidence limit.
-
-**Answer: B.**
-**Explanation:** Harappan surplus is most visible in streets, drains, wells, baths and storage rather than confirmed royal tombs or temples. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Civic versus monumental priority?
-
-A. UNESCO's official Dholavira property page describes planned urban areas, fortifications, reservoirs and drainage; it is used only as current official corroboration.
-B. Architecture is read through material, plan, elevation and function; patronage, ecology and evidence limits convert description into analysis.
-C. Harappan surplus is most visible in streets, drains, wells, baths and storage rather than confirmed royal tombs or temples.
-D. A high-value answer moves from grid to zoning, public works, drainage, material and regional variation, then closes with the palace-temple evidence limit.
-
-**Answer: C.**
-**Explanation:** Harappan surplus is most visible in streets, drains, wells, baths and storage rather than confirmed royal tombs or temples. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Civic versus monumental priority?
-
-A. Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference.
-B. A high-value answer moves from grid to zoning, public works, drainage, material and regional variation, then closes with the palace-temple evidence limit.
-C. Architecture is read through material, plan, elevation and function; patronage, ecology and evidence limits convert description into analysis.
-D. Harappan surplus is most visible in streets, drains, wells, baths and storage rather than confirmed royal tombs or temples.
-
-**Answer: D.**
-**Explanation:** Harappan surplus is most visible in streets, drains, wells, baths and storage rather than confirmed royal tombs or temples. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Verified 2025 Mains demand?
-
-A. The verified 2025 GS-I question asks for the salient features of Harappan architecture in 150 words, making selection and evidentiary caution essential.
-B. UNESCO's official Dholavira property page describes planned urban areas, fortifications, reservoirs and drainage; it is used only as current official corroboration.
-C. Harappan water works were settlement-wide civic infrastructure; later stepwells and temple tanks served different ritual, commemorative or storage purposes.
-D. A high-value answer moves from grid to zoning, public works, drainage, material and regional variation, then closes with the palace-temple evidence limit.
-
-**Answer: A.**
-**Explanation:** The verified 2025 GS-I question asks for the salient features of Harappan architecture in 150 words, making selection and evidentiary caution essential. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Verified 2025 Mains demand?
-
-A. A high-value answer moves from grid to zoning, public works, drainage, material and regional variation, then closes with the palace-temple evidence limit.
-B. The verified 2025 GS-I question asks for the salient features of Harappan architecture in 150 words, making selection and evidentiary caution essential.
-C. Architecture is read through material, plan, elevation and function; patronage, ecology and evidence limits convert description into analysis.
-D. UNESCO's official Dholavira property page describes planned urban areas, fortifications, reservoirs and drainage; it is used only as current official corroboration.
-
-**Answer: B.**
-**Explanation:** The verified 2025 GS-I question asks for the salient features of Harappan architecture in 150 words, making selection and evidentiary caution essential. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Verified 2025 Mains demand?
-
-A. Architecture is read through material, plan, elevation and function; patronage, ecology and evidence limits convert description into analysis.
-B. Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference.
-C. The verified 2025 GS-I question asks for the salient features of Harappan architecture in 150 words, making selection and evidentiary caution essential.
-D. A high-value answer moves from grid to zoning, public works, drainage, material and regional variation, then closes with the palace-temple evidence limit.
-
-**Answer: C.**
-**Explanation:** The verified 2025 GS-I question asks for the salient features of Harappan architecture in 150 words, making selection and evidentiary caution essential. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Verified 2025 Mains demand?
-
-A. The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste.
-B. Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference.
-C. Architecture is read through material, plan, elevation and function; patronage, ecology and evidence limits convert description into analysis.
-D. The verified 2025 GS-I question asks for the salient features of Harappan architecture in 150 words, making selection and evidentiary caution essential.
-
-**Answer: D.**
-**Explanation:** The verified 2025 GS-I question asks for the salient features of Harappan architecture in 150 words, making selection and evidentiary caution essential. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Water-architecture firewall?
-
-A. Harappan water works were settlement-wide civic infrastructure; later stepwells and temple tanks served different ritual, commemorative or storage purposes.
-B. UNESCO's official Dholavira property page describes planned urban areas, fortifications, reservoirs and drainage; it is used only as current official corroboration.
-C. Architecture is read through material, plan, elevation and function; patronage, ecology and evidence limits convert description into analysis.
-D. A high-value answer moves from grid to zoning, public works, drainage, material and regional variation, then closes with the palace-temple evidence limit.
-
-**Answer: A.**
-**Explanation:** Harappan water works were settlement-wide civic infrastructure; later stepwells and temple tanks served different ritual, commemorative or storage purposes. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Water-architecture firewall?
-
-A. Architecture is read through material, plan, elevation and function; patronage, ecology and evidence limits convert description into analysis.
-B. Harappan water works were settlement-wide civic infrastructure; later stepwells and temple tanks served different ritual, commemorative or storage purposes.
-C. Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference.
-D. A high-value answer moves from grid to zoning, public works, drainage, material and regional variation, then closes with the palace-temple evidence limit.
-
-**Answer: B.**
-**Explanation:** Harappan water works were settlement-wide civic infrastructure; later stepwells and temple tanks served different ritual, commemorative or storage purposes. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Water-architecture firewall?
-
-A. The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste.
-B. Architecture is read through material, plan, elevation and function; patronage, ecology and evidence limits convert description into analysis.
-C. Harappan water works were settlement-wide civic infrastructure; later stepwells and temple tanks served different ritual, commemorative or storage purposes.
-D. Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference.
-
-**Answer: C.**
-**Explanation:** Harappan water works were settlement-wide civic infrastructure; later stepwells and temple tanks served different ritual, commemorative or storage purposes. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Water-architecture firewall?
-
-A. Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference.
-B. The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste.
-C. Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm.
-D. Harappan water works were settlement-wide civic infrastructure; later stepwells and temple tanks served different ritual, commemorative or storage purposes.
-
-**Answer: D.**
-**Explanation:** Harappan water works were settlement-wide civic infrastructure; later stepwells and temple tanks served different ritual, commemorative or storage purposes. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Official Dholavira linkage?
-
-A. UNESCO's official Dholavira property page describes planned urban areas, fortifications, reservoirs and drainage; it is used only as current official corroboration.
-B. A high-value answer moves from grid to zoning, public works, drainage, material and regional variation, then closes with the palace-temple evidence limit.
-C. Architecture is read through material, plan, elevation and function; patronage, ecology and evidence limits convert description into analysis.
-D. Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference.
-
-**Answer: A.**
-**Explanation:** UNESCO's official Dholavira property page describes planned urban areas, fortifications, reservoirs and drainage; it is used only as current official corroboration. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Official Dholavira linkage?
-
-A. Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference.
-B. UNESCO's official Dholavira property page describes planned urban areas, fortifications, reservoirs and drainage; it is used only as current official corroboration.
-C. Architecture is read through material, plan, elevation and function; patronage, ecology and evidence limits convert description into analysis.
-D. The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste.
-
-**Answer: B.**
-**Explanation:** UNESCO's official Dholavira property page describes planned urban areas, fortifications, reservoirs and drainage; it is used only as current official corroboration. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Official Dholavira linkage?
-
-A. Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference.
-B. Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm.
-C. UNESCO's official Dholavira property page describes planned urban areas, fortifications, reservoirs and drainage; it is used only as current official corroboration.
-D. The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste.
-
-**Answer: C.**
-**Explanation:** UNESCO's official Dholavira property page describes planned urban areas, fortifications, reservoirs and drainage; it is used only as current official corroboration. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Official Dholavira linkage?
-
-A. House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system.
-B. Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm.
-C. The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste.
-D. UNESCO's official Dholavira property page describes planned urban areas, fortifications, reservoirs and drainage; it is used only as current official corroboration.
-
-**Answer: D.**
-**Explanation:** UNESCO's official Dholavira property page describes planned urban areas, fortifications, reservoirs and drainage; it is used only as current official corroboration. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Harappan answer spine?
-
-A. A high-value answer moves from grid to zoning, public works, drainage, material and regional variation, then closes with the palace-temple evidence limit.
-B. Architecture is read through material, plan, elevation and function; patronage, ecology and evidence limits convert description into analysis.
-C. The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste.
-D. Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference.
-
-**Answer: A.**
-**Explanation:** A high-value answer moves from grid to zoning, public works, drainage, material and regional variation, then closes with the palace-temple evidence limit. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Harappan answer spine?
-
-A. Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference.
-B. A high-value answer moves from grid to zoning, public works, drainage, material and regional variation, then closes with the palace-temple evidence limit.
-C. The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste.
-D. Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm.
-
-**Answer: B.**
-**Explanation:** A high-value answer moves from grid to zoning, public works, drainage, material and regional variation, then closes with the palace-temple evidence limit. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Harappan answer spine?
-
-A. House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system.
-B. The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste.
-C. A high-value answer moves from grid to zoning, public works, drainage, material and regional variation, then closes with the palace-temple evidence limit.
-D. Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm.
-
-**Answer: C.**
-**Explanation:** A high-value answer moves from grid to zoning, public works, drainage, material and regional variation, then closes with the palace-temple evidence limit. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Harappan answer spine?
-
-A. House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system.
-B. Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm.
-C. Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture.
-D. A high-value answer moves from grid to zoning, public works, drainage, material and regional variation, then closes with the palace-temple evidence limit.
-
-**Answer: D.**
-**Explanation:** A high-value answer moves from grid to zoning, public works, drainage, material and regional variation, then closes with the palace-temple evidence limit. The remaining options belong to different chronology, actor or analytical categories.
+**Answer: D.**  
+**Explanation:** The correction preserves comparative value while restoring the functional firewall between civic Harappan systems and later ritual or patron-driven structures.
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ OWNERSHIP AUDIT
+### VERIFIED PYQ - 2025 GS-I
 
-One direct Mains demand is verified: 2025 GS-I on the salient features of Harappan architecture. Its wording is reproduced only from the routed repository owner; no additional PYQ is invented.
+**Question:** Discuss the salient features of the Harappan architecture. (Answer in 150 words.)  
+**Directive focus:** Discuss = select the main features, arrange them in order, support them with named evidence and end with a qualification.
 
-### OWNER PYQ LEDGER EXTRACTS
+**Examiner-ready model answer:**  
+Harappan architecture is best understood as planned civic urbanism. Cities such as Harappa and Mohenjo-daro followed rectangular grids, with roads crossing at right angles, showing deliberate pre-planning. Their raised citadels and larger lower towns indicate functional zoning within the settlement. Public works such as the Great Bath at Mohenjo-daro and structures conventionally identified as granaries reveal organised collective construction. Standardised baked-brick construction, together with private wells, bathing spaces and some stairways in houses, shows that planning extended into domestic life. The drainage system is the most striking feature: house drains linked into covered street drains with cleaning points, proving maintainable civic sanitation. Regional variation strengthens the picture, especially at Dholavira, where reservoirs and fortifications adapted Harappan planning to a different ecology. A careful conclusion must add that no large building has been securely identified as a palace or temple, so Harappan architecture remains impressive but evidence-bound.
 
-#### 7. Exact PYQ application
+**Why this earns marks:** The answer ranks the features correctly, keeps the language evidence-bound, and uses Dholavira plus the final caveat to move beyond rote textbook listing.
 
-✅ **2025 Q1, verbatim:** "Discuss the salient features of the Harappan
-architecture. (Answer in 150 words)" (`UPSC Mains 2025 GS Paper 1.txt:8-10`).
-⚠️ A strong 150-word answer should: (i) open by naming the grid-plan town
-layout; (ii) describe citadel/lower-town differentiation with the
-granary/Great Bath example; (iii) describe the drainage system as the
-civilisation's most distinctive feature; (iv) close with the standardised-
-brick observation and the honest caveat that no confirmed palace or temple
-structure has been identified. ❌ No 2024 Mains question directly tests this
-topic.
+### ORIGINAL MAINS 1 - 10 MARKS
 
-#### 8. Exact PYQ application
+**Question:** Why is drainage central to an assessment of Harappan urbanism? Answer in about 150 words.  
+**Demand focus:** Explain significance, not just physical description.
 
-✅ **2025 Q1, verbatim:** "Discuss the salient features of the Harappan
-architecture. (Answer in 150 words)" (`UPSC Mains 2025 GS Paper 1.txt:8-10`).
-⚠️ An advanced-tier answer should differentiate itself from a basic answer
-by explicitly noting the evidentiary caution around "palace"/"temple"
-labelling, and by using the comparative point (functional civic
-investment vs. Egyptian/Mesopotamian monumentalism) as its analytical
-edge — while still keeping to the 150-word limit by stating this in one
-tight sentence rather than an extended digression. ❌ No 2024 Mains
-question tests this topic directly.
+**Examiner-ready model answer:**  
+Drainage is central because it reveals how Harappan cities organised ordinary urban life into a civic system. The crucial point is not simply that drains existed, but that they were linked and maintainable. Small drains ran from houses into larger street drains, and cleaning points or cesspits were provided at intervals, showing that waste disposal was planned as an urban service rather than left to individual households. This connects private bathing spaces and wells to a larger civic logic. It also explains why Harappan architecture appears more civic than dynastic-monumental in its visible investment: the strongest remains regulate daily life through water control, hygiene and maintenance. Drainage therefore becomes an index of planning, labour coordination and public concern for cleanliness. At the same time, one must avoid overclaim: the system proves coordinated urban management more clearly than it proves the exact institution or political authority that supervised it.
 
-### PYQ DEMAND CARD 1 — 2025 GS-I
+**Why this earns marks:** The answer moves from form to significance, uses the linked-network logic, and ends with the required qualification.
 
-**Demand:** Discuss the salient features of the Harappan architecture. (Answer in 150 words)
+### ORIGINAL MAINS 2 - 10 MARKS
 
-**Status:** Verified verbatim in the Basic and Advanced owners.
+**Question:** Explain why Dholavira is indispensable to any account of Harappan architecture. Answer in about 150 words.  
+**Demand focus:** Show how Dholavira changes the civilisational reading, not just why it is famous.
 
-**Model solution:** Open with planned grid and zoning; add standardised burnt brick, public works and the house-to-street drainage network; qualify labels such as granary; conclude that no palace or temple is securely identified.
+**Examiner-ready model answer:**  
+Dholavira is indispensable because it prevents Harappan architecture from being reduced to a single Mohenjo-daro template. The site preserves a fortified, multi-part settlement together with an elaborate system of reservoirs and water harvesting, showing that Harappan planning could be adapted to a very different ecology. This widens the civilisational thesis from mere uniformity to standardisation through adaptation. The same broad concerns with order, controlled movement, public works and water management remain visible, but they do not produce identical city plans at every site. UNESCO's official account strengthens this interpretation by recognising Dholavira as a planned Harappan city spanning early, mature and late phases and by highlighting its water systems. Thus Dholavira is not decorative extra knowledge; it is the evidence that makes the larger Harappan argument more flexible, regional and analytically precise.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2025 GS-I”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
+**Why this earns marks:** It uses Dholavira to change the thesis, not merely to add another example.
 
-**Detailed examiner-grade model answer:**
+### ORIGINAL MAINS 3 - 10 MARKS
 
-**Introduction and thesis:** Open with planned grid and zoning; add standardised burnt brick, public works and the house-to-street drainage network; qualify labels such as granary; conclude that no palace or temple is securely identified.
+**Question:** Why must the chronology of Harappan phases be kept distinct from the chronology of discovery and excavation? Answer in about 150 words.  
+**Demand focus:** Prevent anachronism and show methodological clarity.
 
-**Qualification:** Bound the claim by period, region, medium, patronage and evidence status; do not convert similarity into direct descent or a commissioned representation into a social census.
+**Examiner-ready model answer:**  
+The chronology of Harappan phases and the chronology of discovery must be kept separate because they answer different questions. Early, Mature Urban and Late/Post-Urban Harappan phases describe the civilisation's own historical development and therefore help explain the rise, peak and weakening of its urban architecture. Discovery chronology, by contrast, explains when modern scholarship recovered that evidence: Cunningham noticed a Harappan seal in 1853, Daya Ram Sahni excavated Harappa in 1921, Mohenjo-daro was excavated in the early 1920s, and later work extended the picture to sites such as Dholavira. If the two timelines are merged, students begin to treat excavation dates as if they were civilisational dates or treat modern labels as if they were ancient self-descriptions. Keeping the timelines distinct therefore protects both factual accuracy and interpretive discipline in a Harappan answer.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
+**Why this earns marks:** It directly addresses the methodological issue reopened by the user and turns chronology into exam value.
 
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
+### ORIGINAL MAINS 4 - 15 MARKS
 
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2025 GS-I”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
+**Question:** "Harappan standardisation operated through regional adaptation." Analyse. Answer in about 250 words.  
+**Demand focus:** Show common norms and local difference together.
 
-### ORIGINAL MAINS 1 — 10 MARKS
+**Examiner-ready model answer:**  
+Harappan standardisation is visible first in repeated architectural principles. Across major sites one finds right-angled street planning, differentiated settlement zones, repeated brick norms, domestic wells, bathing spaces and linked drainage. These features show that the civilisation possessed a recognisable urban vocabulary. However, the strongest interpretation is not rigid sameness but standardisation through regional adaptation. Mohenjo-daro presents the best-known combination of the Great Bath and sophisticated drainage. Harappa contributes major public platforms and the granary-complex tradition. Dholavira, in a different ecological setting, expands the same planning logic through fortifications, reservoirs and water harvesting. Lothal contributes a basin traditionally called a dockyard, but its debated function itself teaches caution about local forms. Kalibangan confirms that distinctive planning existed within the Harappan world and that regional trajectories mattered. The analytical gain is important. Shared norms suggest coordination or a common technical culture, yet the differences between sites show that Harappan urbanism was never a civilisational photocopy. It solved recurring problems of movement, storage, water and settlement order through local material and ecological choices. Therefore, Harappan architecture should be explained neither as total uniformity nor as disconnected localism, but as a coherent urban tradition capable of regional adjustment.
 
-**Question:** Discuss the salient features of Harappan architecture. Answer in about 150 words.
+**Why this earns marks:** It compares sites under common headings and ends with a balanced thesis.
 
-**Model thesis:** Harappan architecture was civic rather than dynastic-monumental: a grid, functional zoning, standardised brick, public water works and maintainable drainage reveal coordinated urban norms, while no palace or temple is securely identified.
+### ORIGINAL MAINS 5 - 15 MARKS
 
-**Claim → named evidence → analysis → qualification:**
+**Question:** To what extent can architecture reconstruct Harappan society? Answer in about 250 words.  
+**Demand focus:** Grade the evidence; do not give a binary yes/no answer.
 
-- Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference.
-- The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste.
-- Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm.
-- House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system.
-- Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact.
-- No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality.
+**Examiner-ready model answer:**  
+Architecture can reconstruct Harappan society to a significant but limited extent. It strongly reveals a society capable of planned urban life. Right-angled streets, citadel-lower town division, standardised brick construction, household wells, bathing spaces, linked drains and, at Dholavira, extensive reservoir planning all point to coordinated norms, engineering competence and public concern for water management. Architecture also allows some guarded social inference. Variation in house size and the division between raised public zones and larger residential quarters suggest functional differentiation and possibly unequal access to resources. Large public structures such as the Great Bath or conventionally identified granaries imply collective institutions of some kind. Yet the evidence rapidly weakens when the question shifts from organisation to exact identity. The script remains undeciphered, buildings are not inscriptionally named and the sources explicitly deny confirmed palaces or temples. As a result, architecture cannot securely name rulers, prove a state religion or settle the nature of social hierarchy. The correct answer is therefore graded: architecture reconstructs civic order and technical capability strongly, social differentiation cautiously, and named political or ritual institutions only very weakly. Its real strength lies in showing how Harappans organised urban life, not in answering every question that their unread script leaves open.
 
-**Qualified conclusion:** Harappan architecture was civic rather than dynastic-monumental: a grid, functional zoning, standardised brick, public water works and maintainable drainage reveal coordinated urban norms, while no palace or temple is securely identified.
+**Why this earns marks:** It follows a strong-to-weak evidence ladder and answers the exact wording "to what extent".
 
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss the salient features of Harappan architecture. Answer in about 150 words.”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
+### ORIGINAL MAINS 6 - 20 MARKS
 
-**Detailed examiner-grade model answer:**
+**Question:** Compare Harappan urban priorities with contemporary monumental traditions. Answer in about 300 words.  
+**Demand focus:** Compare visible investment, not civilisational worth.
 
-**Introduction and thesis:** Harappan architecture was civic rather than dynastic-monumental: a grid, functional zoning, standardised brick, public water works and maintainable drainage reveal coordinated urban norms, while no palace or temple is securely identified.
+**Examiner-ready model answer:**  
+The contrast between Harappan urbanism and contemporary monumental traditions is best understood as a difference in visible architectural priority rather than a simple contrast between "advanced" and "backward" cultures. In the Harappan case, the strongest evidence lies in planned civic infrastructure. Right-angled streets, citadel-lower town zoning, standardised baked-brick construction, house-linked drainage, wells, bathing spaces, public baths and, at Dholavira, large reservoirs show a civilisation that invested heavily in regulating everyday urban life. Even the Great Bath, the most famous Harappan public structure, fits a collective water-and-civic setting more than a securely identified royal or temple complex. By contrast, the most famous Egyptian and Mesopotamian remains foreground pyramids, ziggurats and palace-temple systems that make dynastic or sacred authority archaeologically explicit. This difference matters analytically. Harappan planning still implies coordination, labour mobilisation and institutional order, but because the script is undeciphered and buildings remain unnamed, the exact political form behind that order cannot be recovered with equal confidence. Therefore the safest comparative conclusion is not that Harappans lacked power or belief, but that their surviving architecture projects civic order more strongly than named dynasty or cult. Judged by monumental display, Harappan architecture can seem restrained; judged by the engineering of everyday urban life, it is one of the most systematic traditions of the Bronze Age.
 
-**Analytical body:**
+**Why this earns marks:** It compares like with like, preserves evidentiary caution and converts description into argument.
 
-1. **Claim and named evidence:** Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-5. **Claim and named evidence:** Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-6. **Claim and named evidence:** No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
+### ORIGINAL MAINS 7 - 20 MARKS
 
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
+**Question:** Examine water architecture in the Harappan city and distinguish it from later Indian water structures. Answer in about 300 words.  
+**Demand focus:** Explain the Harappan system first, then establish the firewall against false continuity.
 
-**Qualified conclusion:** Harappan architecture was civic rather than dynastic-monumental: a grid, functional zoning, standardised brick, public water works and maintainable drainage reveal coordinated urban norms, while no palace or temple is securely identified.
+**Examiner-ready model answer:**  
+Water architecture in the Harappan city was civic, distributed and infrastructural. At the domestic level, houses frequently included private wells and designated bathing spaces. At the street level, small drains connected these spaces to larger covered drains with cleaning points, proving that sanitation was designed as a maintainable urban system. At the public level, Mohenjo-daro's Great Bath demonstrates carefully organised collective water architecture, while Dholavira expands the scale through dams, reservoirs and water harvesting adapted to a difficult ecology. Together these features show that Harappan water architecture addressed supply, circulation, storage and cleanliness across the settlement as a whole. Later Indian water structures often answered different architectural questions. Rani-ki-Vav represents the stepwell tradition; Modhera's Surya Kund, the Hoysala kalyani and Potramarai Kulam belong to temple-centred or ceremonial settings; Mandu's baulis highlight storage within later palace-fort environments; and the Sudarshana lake record at Junagadh shows long-duration state repair of a water reservoir. The crucial distinction is functional and chronological. Harappan systems were embedded in city planning and everyday civic regulation, whereas later stepwells, temple tanks and baulis were often ritual, commemorative, patron-specific or regionally hydraulic structures. Similar concern with water does not establish a single uninterrupted lineage. A good answer therefore compares purposes, settings and users rather than forcing a neat line from Harappan drains to all later Indian water monuments.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence definition and thesis; organise three named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
+**Why this earns marks:** It keeps Harappan evidence central, then distinguishes later categories through function and chronology rather than through vague similarity.
 
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
+### TIMELINE, KEYWORD AND PARAGRAPH-BUILDING DRILLS
 
-**How to improve this answer:** For “Discuss the salient features of Harappan architecture. Answer in about 150 words.”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
+#### Drill A - Timeline sorting
 
-### ORIGINAL MAINS 2 — 10 MARKS
+**Task:** Arrange these cards into two correct rails: 1853 seal notice; Mature Urban Harappan peak; 2021 UNESCO inscription for Dholavira; Early Harappan foundations; 1921 Harappa excavation; Late/Post-Urban change.  
+**Solved answer:**  
+- Archaeological rail: Early Harappan foundations -> Mature Urban Harappan peak -> Late/Post-Urban change.  
+- Modern recovery / heritage rail: 1853 seal notice -> 1921 Harappa excavation -> 2021 UNESCO inscription for Dholavira.
 
-**Question:** Why is drainage central to an assessment of Harappan urbanism? Answer in about 150 words.
+#### Drill B - Must-write keyword bank for the 2025 PYQ
 
-**Model thesis:** Its importance lies in the network from house to street and in provisions for cleaning, which show continuing civic maintenance rather than an isolated engineering object.
+**Task:** Pick five must-write expressions for a 150-word answer.  
+**Solved answer:** rectangular grid; functional zoning; maintainable drainage; standardised baked-brick construction; evidentiary caution.
 
-**Claim → named evidence → analysis → qualification:**
+#### Drill C - Build one paragraph from notes
 
-- House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system.
-- Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture.
-
-**Qualified conclusion:** Its importance lies in the network from house to street and in provisions for cleaning, which show continuing civic maintenance rather than an isolated engineering object.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why is drainage central to an assessment of Harappan urbanism? Answer in about 150 words.”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Its importance lies in the network from house to street and in provisions for cleaning, which show continuing civic maintenance rather than an isolated engineering object.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Its importance lies in the network from house to street and in provisions for cleaning, which show continuing civic maintenance rather than an isolated engineering object.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence definition and thesis; organise three named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Why is drainage central to an assessment of Harappan urbanism? Answer in about 150 words.”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Harappan standardisation operated through regional adaptation. Analyse. Answer in about 250 words.
-
-**Model thesis:** Shared grids, bricks and water logic were translated into Mohenjo-daro's bath, Dholavira's reservoirs, Lothal's basin and regional plans rather than copied identically.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference.
-- Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm.
-- Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation.
-- Lothal's basin is conventionally called a dockyard, but its precise function remains debated and must be presented conditionally.
-- Harappa's large brick platforms and Kalibangan's distinctive planning prevent Mohenjo-daro from becoming an identical template for every settlement.
-- Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire.
-
-**Qualified conclusion:** Shared grids, bricks and water logic were translated into Mohenjo-daro's bath, Dholavira's reservoirs, Lothal's basin and regional plans rather than copied identically.
-
-**Demand decoding:** The directive **analyse** requires a direct position on “Harappan standardisation operated through regional adaptation. Analyse. Answer in about 250…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Shared grids, bricks and water logic were translated into Mohenjo-daro's bath, Dholavira's reservoirs, Lothal's basin and regional plans rather than copied identically.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Harappan streets commonly ran north-south and east-west and met at right angles, making pre-planning rather than organic accretion the central inference. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Harappan builders used standardised burnt mud bricks laid in layers and joined with gypsum mortar, indicating a shared technical norm. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** Lothal's basin is conventionally called a dockyard, but its precise function remains debated and must be presented conditionally. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-5. **Claim and named evidence:** Harappa's large brick platforms and Kalibangan's distinctive planning prevent Mohenjo-daro from becoming an identical template for every settlement. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-6. **Claim and named evidence:** Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Shared grids, bricks and water logic were translated into Mohenjo-daro's bath, Dholavira's reservoirs, Lothal's basin and regional plans rather than copied identically.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Harappan standardisation operated through regional adaptation. Analyse. Answer in about 250…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** To what extent can architecture reconstruct Harappan society? Answer in about 250 words.
-
-**Model thesis:** Built form supports strong claims about planning, labour and hygiene, weaker claims about differentiation, and no settled claims about named rulers or religion because the script is undeciphered.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste.
-- Raised platforms and ventilation support a storage interpretation, but 'granary' remains a modern archaeological label rather than an ancient attested name.
-- No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality.
-- The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded.
-
-**Qualified conclusion:** Built form supports strong claims about planning, labour and hygiene, weaker claims about differentiation, and no settled claims about named rulers or religion because the script is undeciphered.
-
-**Demand decoding:** The directive **answer** requires a direct position on “To what extent can architecture reconstruct Harappan society? Answer in about 250 words.”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Built form supports strong claims about planning, labour and hygiene, weaker claims about differentiation, and no settled claims about named rulers or religion because the script is undeciphered.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The upraised western citadel held large public structures, while the larger lower town was predominantly residential; this is functional zoning, not proof of caste. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Raised platforms and ventilation support a storage interpretation, but 'granary' remains a modern archaeological label rather than an ancient attested name. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Built form supports strong claims about planning, labour and hygiene, weaker claims about differentiation, and no settled claims about named rulers or religion because the script is undeciphered.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “To what extent can architecture reconstruct Harappan society? Answer in about 250 words.”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Compare Harappan urban priorities with contemporary monumental traditions. Answer in about 300 words.
-
-**Model thesis:** The contrast is between repeated civic infrastructure and securely attested royal-sacred monumentality elsewhere; it suggests different visible priorities without proving Harappan irreligion or egalitarianism.
-
-**Claim → named evidence → analysis → qualification:**
-
-- No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality.
-- Harappan surplus is most visible in streets, drains, wells, baths and storage rather than confirmed royal tombs or temples.
-- Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire.
-- The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded.
-
-**Qualified conclusion:** The contrast is between repeated civic infrastructure and securely attested royal-sacred monumentality elsewhere; it suggests different visible priorities without proving Harappan irreligion or egalitarianism.
-
-**Demand decoding:** The directive **compare** requires a direct position on “Compare Harappan urban priorities with contemporary monumental traditions. Answer in about…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The contrast is between repeated civic infrastructure and securely attested royal-sacred monumentality elsewhere; it suggests different visible priorities without proving Harappan irreligion or egalitarianism.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** No large structure has been securely identified as a Harappan palace or temple, distinguishing the evidence from Egyptian and Mesopotamian royal-sacred monumentality. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Harappan surplus is most visible in streets, drains, wells, baths and storage rather than confirmed royal tombs or temples. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Repeated bricks, grids and drainage imply coordination or a shared technical culture, but do not by themselves prove one centralised empire. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** The undeciphered-script boundary is the evidentiary limit created by the absence of readable Harappan texts and securely named buildings; reconstructions of rulers, religion and social order therefore remain graded. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** The contrast is between repeated civic infrastructure and securely attested royal-sacred monumentality elsewhere; it suggests different visible priorities without proving Harappan irreligion or egalitarianism.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence definition and thesis; organise six to eight named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Compare Harappan urban priorities with contemporary monumental traditions. Answer in about…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Examine water architecture in the Harappan city and distinguish it from later Indian water structures. Answer in about 300 words.
-
-**Model thesis:** Harappan wells, baths, drains and reservoirs formed settlement systems; later stepwells and temple tanks answered aridity, patronage and ritual, so resemblance of medium does not establish continuity of function.
-
-**Claim → named evidence → analysis → qualification:**
-
-- House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system.
-- Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture.
-- Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact.
-- Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation.
-- Harappan water works were settlement-wide civic infrastructure; later stepwells and temple tanks served different ritual, commemorative or storage purposes.
-
-**Qualified conclusion:** Harappan wells, baths, drains and reservoirs formed settlement systems; later stepwells and temple tanks answered aridity, patronage and ritual, so resemblance of medium does not establish continuity of function.
-
-**Demand decoding:** The directive **examine** requires a direct position on “Examine water architecture in the Harappan city and distinguish it from later Indian water…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Harappan wells, baths, drains and reservoirs formed settlement systems; later stepwells and temple tanks answered aridity, patronage and ritual, so resemblance of medium does not establish continuity of function.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** House drains joined larger covered street drains with cesspits and removable covers, so maintenance was built into the civic system. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Private wells, ventilated bathrooms and stairs indicating some double-storeyed houses placed water and hygiene within ordinary domestic architecture. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Mohenjo-daro's Great Bath was a large public water structure surrounded by rooms and galleries; ritual cleansing is a plausible inference, not an inscriptional fact. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** Dholavira combined a fortified multi-part settlement with reservoirs and water-harnessing systems, proving that shared Harappan norms allowed regional adaptation. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-5. **Claim and named evidence:** Harappan water works were settlement-wide civic infrastructure; later stepwells and temple tanks served different ritual, commemorative or storage purposes. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Harappan wells, baths, drains and reservoirs formed settlement systems; later stepwells and temple tanks answered aridity, patronage and ritual, so resemblance of medium does not establish continuity of function.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence definition and thesis; organise six to eight named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Examine water architecture in the Harappan city and distinguish it from later Indian water…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
+**Task notes:** right-angled roads; citadel/lower town; Great Bath; no confirmed palace or temple.  
+**Model paragraph:**  
+Harappan architecture reveals deliberate urban order through right-angled roads and a clear distinction between an upraised citadel and a larger lower town. This zoned plan is reinforced by public structures such as the Great Bath at Mohenjo-daro, which shows substantial collective investment in water architecture. Yet the same evidence requires caution, because no major structure has been securely identified as a palace or temple. Thus the architecture strongly proves planning and civic organisation, while leaving the exact nature of political and religious institutions only partly inferential.

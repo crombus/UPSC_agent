@@ -28,6 +28,9 @@ CURRENT LEDGER CHECKED 6 SEP 2026
 Article 343 -> official language of the Union
 Eighth Schedule -> 22
 classical languages -> 11 after Oct 2024 additions
+revised criteria -> antiquity 1500-2000 years -> heritage corpus
+                 -> prose + epigraphical / inscriptional evidence
+                 -> distinct or discontinuous from later forms
 Sahitya Akademi working field -> 24
 Bakhshali / place-value -> date discipline, not slogan history
 Gyan Bharatam survey -> identify -> verify -> metadata -> conserve / digitise

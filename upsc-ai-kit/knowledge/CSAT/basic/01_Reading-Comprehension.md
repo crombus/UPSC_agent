@@ -652,3 +652,47 @@ passage. Return only when a text-based discriminator is available.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+---
+
+## Semantic-completeness closure — 2026-09-06
+
+### Literal syllabus and canonical ownership
+
+- **Literal clause:** Comprehension.
+- **Canonical scope:** Owns passage-only reading, central idea, stated detail, inference, assumption, conclusion, tone, purpose, scope, statement sets and paired passages.
+- **Cross-topic boundary:** Formal syllogisms belong to Topic 06; Topic 01 uses only the logic needed to test what a passage states, entails or assumes.
+
+### Complete learner route
+
+1. **Passage contract:** Use only the text and the exact stem.
+2. **Stem taxonomy:** Classify detail, main idea, inference, assumption, tone or statement-set.
+3. **Claim map:** Separate claim, reason, example, qualifier and contrast.
+4. **Central idea:** Cover the whole passage without importing a policy leap.
+5. **Inference:** Choose the least extended conclusion licensed by the words.
+6. **Assumption:** Negate the hidden bridge and test whether the argument collapses.
+7. **Tone and purpose:** Read attitude from wording, not from subject matter.
+8. **Quantifiers:** Preserve some, many, can, must, only, unless and necessary/sufficient.
+9. **Distractors:** Reject scope creep, reversal, half-truth and outside knowledge.
+10. **Paired passages:** Map each claim to passage 1, passage 2, both or neither.
+11. **Timed execution:** Predict, match, eliminate, discriminate and park at the ceiling.
+12. **Audit and retry:** Quote the supporting phrase and code every miss before retry.
+
+### Verification and hostile-query gate
+
+Every correct option must be supported by the supplied passage. External knowledge cannot rescue an unsupported option; assumptions must pass a precise negation test.
+
+The hostile absence search explicitly tested these families and close-option terms:
+**central idea; inference; assumption; tone; scope; quantifier; negation test; passage-only**. A shortcut is usable only when its stated condition survives; otherwise return to
+the first-principles representation. Every worked answer must finish with an independent check:
+passage support, substitution, enumeration, units, bounds, reverse operation or option elimination.
+
+### Difficulty and timed progression
+
+1. Foundation: recognise the family and state the governing definition or relation.
+2. Core: solve a direct item with a visible representation and one verification.
+3. Advanced: combine two mechanisms, test edge cases and reject close distractors.
+4. Timed: use classify → extract → represent → execute → verify → decide.
+5. Remediation: log the error as concept, application, calculation, reading, passage, time or guess;
+   return to the owning subtopic before retesting.
+

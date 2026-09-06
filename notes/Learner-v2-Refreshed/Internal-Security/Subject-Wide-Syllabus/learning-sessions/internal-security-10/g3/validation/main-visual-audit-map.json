@@ -1,0 +1,1778 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-10\\g3\\internal-security-10_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-10\\g3\\internal-security-10_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "internal-security-10",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Terror Financing, Money Laundering and FATF - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 28,
+      "markdown_body_line_end": 39,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 417.89
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-10\\g3\\assets\\internal-security-10_Teaching-Navigation_2026-09-04.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 573.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 265.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 79,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Terror financing provides or moves value for a terrorist purpose and may use lawful or unlawful origins, whereas money laundering disguises proceeds of crime; the two can intersect but are not the same offence or evidentiary chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 94,
+      "markdown_body_line_end": 101,
+      "heading": "VISUAL FIRST",
+      "preview": "TERROR FINANCING AND MONEY LAUNDERING DISTINCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 462.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 138,
+      "markdown_body_line_end": 155,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - TERROR FINANCING AND MONEY LAUNDERING DISTINCTION",
+      "preview": "START / CONCEPT: FOUNDATION — Terror financing and money laundering distinction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 271
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 166,
+      "markdown_body_line_end": 166,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Predicate offence and proceeds of crime as a sequence: identify Placement typology, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 360.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 293.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 181,
+      "markdown_body_line_end": 185,
+      "heading": "VISUAL FIRST",
+      "preview": "PREDICATE OFFENCE AND PROCEEDS OF CRIME",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 221,
+      "markdown_body_line_end": 238,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - PREDICATE OFFENCE AND PROCEEDS OF CRIME",
+      "preview": "START / CONCEPT: FOUNDATION — Predicate offence and proceeds of crime",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 249
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 338.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 117.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 249,
+      "markdown_body_line_end": 249,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The decisive boundary is Do not present placement, layering or integration as evasion instructions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 264,
+      "markdown_body_line_end": 268,
+      "heading": "VISUAL FIRST",
+      "preview": "PLACEMENT LAYERING AND INTEGRATION TYPOLOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 362.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 304,
+      "markdown_body_line_end": 321,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - PLACEMENT LAYERING AND INTEGRATION TYPOLOGY",
+      "preview": "START / CONCEPT: FOUNDATION — Placement layering and integration typology",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 245
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 509.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 332,
+      "markdown_body_line_end": 332,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Trade-Based Money Laundering boundary as a sequence: identify Integration typology, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 355.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 289.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 347,
+      "markdown_body_line_end": 351,
+      "heading": "VISUAL FIRST",
+      "preview": "TRADE-BASED MONEY LAUNDERING BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 106
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 387,
+      "markdown_body_line_end": 404,
+      "heading": "CLOSING RECALL FLOW - CORE - TRADE-BASED MONEY LAUNDERING BOUNDARY",
+      "preview": "START / CONCEPT: CORE — Trade-Based Money Laundering boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 249
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 338.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 107.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 415,
+      "markdown_body_line_end": 415,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Clean-clean and dirty-clean detection problem as a sequence: identify TBML boundary, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 430,
+      "markdown_body_line_end": 434,
+      "heading": "VISUAL FIRST",
+      "preview": "CLEAN-CLEAN AND DIRTY-CLEAN DETECTION PROBLEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 357.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 470,
+      "markdown_body_line_end": 487,
+      "heading": "CLOSING RECALL FLOW - CORE - CLEAN-CLEAN AND DIRTY-CLEAN DETECTION PROBLEM",
+      "preview": "START / CONCEPT: CORE — Clean-clean and dirty-clean detection problem",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 250
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 452.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 498,
+      "markdown_body_line_end": 498,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Customer due diligence beneficial ownership and STRs as a sequence: identify Clean-clean dirty-clean distinction, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the n",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 284.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 203.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 513,
+      "markdown_body_line_end": 520,
+      "heading": "VISUAL FIRST",
+      "preview": "CUSTOMER DUE DILIGENCE BENEFICIAL OWNERSHIP AND STRS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 106
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 681.091
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 557,
+      "markdown_body_line_end": 574,
+      "heading": "CLOSING RECALL FLOW - CORE - CUSTOMER DUE DILIGENCE BENEFICIAL OWNERSHIP AND STRS",
+      "preview": "START / CONCEPT: CORE — Customer due diligence beneficial ownership and STRs",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 279
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 585,
+      "markdown_body_line_end": 585,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "FIU-IND under the Department of Revenue receives, analyses and disseminates specified financial intelligence; an STR is an intelligence lead, not an FIR, charge or conviction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 401.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 334.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 600,
+      "markdown_body_line_end": 604,
+      "heading": "VISUAL FIRST",
+      "preview": "FIU-IND FINANCIAL-INTELLIGENCE FUNCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 640,
+      "markdown_body_line_end": 657,
+      "heading": "CLOSING RECALL FLOW - CORE - FIU-IND FINANCIAL-INTELLIGENCE FUNCTION",
+      "preview": "START / CONCEPT: CORE — FIU-IND financial-intelligence function",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 239
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 338.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 97.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 668,
+      "markdown_body_line_end": 668,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Enforcement Directorate investigates money laundering within PMLA's statutory gateway and may seek provisional attachment; it does not adjudicate guilt or convert every unexplained asset into proceeds of crime.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 683,
+      "markdown_body_line_end": 687,
+      "heading": "VISUAL FIRST",
+      "preview": "ED INVESTIGATION AND PROVISIONAL ATTACHMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 357.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 723,
+      "markdown_body_line_end": 740,
+      "heading": "CLOSING RECALL FLOW - CORE - ED INVESTIGATION AND PROVISIONAL ATTACHMENT",
+      "preview": "START / CONCEPT: CORE — ED investigation and provisional attachment",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 243
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 751,
+      "markdown_body_line_end": 751,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The property chain runs ED provisional attachment, Adjudicating Authority confirmation or release, Special Court adjudication and confiscation on the legally required outcome; attachment and confiscation are different rungs.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 331.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 265.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 766,
+      "markdown_body_line_end": 770,
+      "heading": "VISUAL FIRST",
+      "preview": "ADJUDICATING AUTHORITY SPECIAL COURT AND CONFISCATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 101
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 806,
+      "markdown_body_line_end": 823,
+      "heading": "CLOSING RECALL FLOW - CORE - ADJUDICATING AUTHORITY SPECIAL COURT AND CONFISCATION",
+      "preview": "START / CONCEPT: CORE — Adjudicating Authority Special Court and confiscation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 258
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 324.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 93.091
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 834,
+      "markdown_body_line_end": 834,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read UAPA Section 51A and terror-finance sanctions as a sequence: identify Investigation-prosecution boundary, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stag",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 849,
+      "markdown_body_line_end": 853,
+      "heading": "VISUAL FIRST",
+      "preview": "UAPA SECTION 51A AND TERROR-FINANCE SANCTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 343.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 889,
+      "markdown_body_line_end": 906,
+      "heading": "CLOSING RECALL FLOW - CORE - UAPA SECTION 51A AND TERROR-FINANCE SANCTIONS",
+      "preview": "START / CONCEPT: CORE — UAPA Section 51A and terror-finance sanctions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 271
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 442.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 917,
+      "markdown_body_line_end": 917,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read UN listing delisting and due-process safeguards as a sequence: identify UAPA terror-finance route, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 288.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 207.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 932,
+      "markdown_body_line_end": 939,
+      "heading": "VISUAL FIRST",
+      "preview": "UN LISTING DELISTING AND DUE-PROCESS SAFEGUARDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 976,
+      "markdown_body_line_end": 993,
+      "heading": "CLOSING RECALL FLOW - CORE - UN LISTING DELISTING AND DUE-PROCESS SAFEGUARDS",
+      "preview": "START / CONCEPT: CORE — UN listing delisting and due-process safeguards",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 264
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1004,
+      "markdown_body_line_end": 1004,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read WMD proliferation-financing limb as a sequence: identify Proliferation-finance limb, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 411.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 344.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1019,
+      "markdown_body_line_end": 1023,
+      "heading": "VISUAL FIRST",
+      "preview": "WMD PROLIFERATION-FINANCING LIMB",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 126
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1059,
+      "markdown_body_line_end": 1076,
+      "heading": "CLOSING RECALL FLOW - CORE - WMD PROLIFERATION-FINANCING LIMB",
+      "preview": "START / CONCEPT: CORE — WMD proliferation-financing limb",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 250
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 309.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 78.891
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1087,
+      "markdown_body_line_end": 1087,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "FATF sets international AML, CFT and proliferation-financing standards through its Recommendations and assesses legal, institutional and effectiveness performance; it is not a supranational criminal court.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1102,
+      "markdown_body_line_end": 1106,
+      "heading": "VISUAL FIRST",
+      "preview": "FATF STANDARDS MUTUAL EVALUATION AND EFFECTIVENESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 343.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1142,
+      "markdown_body_line_end": 1159,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - FATF STANDARDS MUTUAL EVALUATION AND EFFECTIVENESS",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — FATF standards Mutual Evaluation and effectiveness",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 254
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 650.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 409.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1170,
+      "markdown_body_line_end": 1170,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Jurisdictions under increased monitoring and high-risk jurisdictions subject to a call for action are listing processes, while regular or enhanced follow-up describes post-Mutual-Evaluation reporting frequency; grey list, black list and reg",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 241.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 160.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1185,
+      "markdown_body_line_end": 1192,
+      "heading": "VISUAL FIRST",
+      "preview": "GREY LIST BLACK LIST AND FOLLOW-UP CATEGORIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 652.691
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1229,
+      "markdown_body_line_end": 1246,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - GREY LIST BLACK LIST AND FOLLOW-UP CATEGORIES",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Grey list black list and follow-up categories",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 301
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1257,
+      "markdown_body_line_end": 1257,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read India MER 2024 and implementation-outcome verdict as a sequence: identify India MER 2024, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 372.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 291.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1272,
+      "markdown_body_line_end": 1279,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA MER 2024 AND IMPLEMENTATION-OUTCOME VERDICT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1315,
+      "markdown_body_line_end": 1327,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Internal Security | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III. **Core area:** Terror-financing sources and mechanisms; the money- laundering process (placement-layering-integration); trade-based money laundering (TB",
+      "metadata": {
+        "line_count": 13
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 213.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 47.624
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1331,
+      "markdown_body_line_end": 1361,
+      "heading": "1. Visual foundation",
+      "preview": "TERROR-FINANCING SOURCES",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1371,
+      "markdown_body_line_end": 1381,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 421.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 479.89
+        }
+      },
+      "pdf_pages": [
+        33,
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1573,
+      "markdown_body_line_end": 1575,
+      "heading": "12. Core answer architecture - financial channels, disruption and adjudicated outcome",
+      "preview": "**Core firewall:** This Core section independently supports the 2021 and 2023 Mains routes. Advanced material may deepen virtual-asset and jurisprudential analysis but is not paper-essential.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 523.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 456.824
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1623,
+      "markdown_body_line_end": 1628,
+      "heading": "Claim -> evidence -> analysis -> qualification bank",
+      "preview": "Claim | Named evidence/example | What it proves | Qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Named evidence/example",
+          "What it proves",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 576.39
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1652,
+      "markdown_body_line_end": 1669,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - INDIA MER 2024 AND IMPLEMENTATION-OUTCOME VERDICT",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — India MER 2024 and implementation-outcome verdict",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 604
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2844,
+      "markdown_body_line_end": 2855,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Internal Security | **Tier:** Advanced | **GS Paper:** GS-III. **Core area:** The \"follow the money\" doctrine and its prosecution-speed constraint; virtual-asset laundering as an emerging TBML-adjacent channel; the FATF Mutual ",
+      "metadata": {
+        "line_count": 12
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 650.424
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2873,
+      "markdown_body_line_end": 2880,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 187.49
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2884,
+      "markdown_body_line_end": 2918,
+      "heading": "3. Causal model",
+      "preview": "FUNDING SOURCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 33,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 446.291
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3158,
+      "markdown_body_line_end": 3167,
+      "heading": "Terror Financing, Money Laundering and FATF: FATF MUTUAL EVALUATION AND THREE CONSERVATIVE PYQ SPINES",
+      "preview": "DISTINGUISH FUNDING PURPOSE FROM CRIMINAL ORIGIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 771.291
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 680.291
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3177,
+      "markdown_body_line_end": 3182,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Finance-purpose matrix",
+      "preview": "MONEY LAUNDERING -> DISGUISE PROCEEDS OF CRIME",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 532.491
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 480.691
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3186,
+      "markdown_body_line_end": 3192,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Predicate-proceeds gateway",
+      "preview": "SCHEDULED PREDICATE OFFENCE REGISTERED",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 458.691
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 396.691
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3196,
+      "markdown_body_line_end": 3201,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Laundering-stage typology",
+      "preview": "PLACEMENT -> VALUE ENTERS A CHANNEL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 374.691
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 322.891
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3205,
+      "markdown_body_line_end": 3210,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Channel distinction map",
+      "preview": "TBML -> TRADE VALUE / DOCUMENT MANIPULATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 300.891
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 249.091
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3214,
+      "markdown_body_line_end": 3220,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Preventive-control chain",
+      "preview": "CDD / KYC -> BENEFICIAL OWNER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 35
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3224,
+      "markdown_body_line_end": 3230,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: PMLA institution ladder",
+      "preview": "PREDICATE AGENCY -> UNDERLYING OFFENCE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3234,
+      "markdown_body_line_end": 3240,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Property-status firewall",
+      "preview": "TRACE / IDENTIFY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3244,
+      "markdown_body_line_end": 3249,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Terror-sanctions route",
+      "preview": "TERROR-FUND OFFENCE? -> UAPA INVESTIGATION / TRIAL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 483.491
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3253,
+      "markdown_body_line_end": 3258,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Three-finance-limbs",
+      "preview": "AML -> PROCEEDS OF CRIME",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 461.491
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 409.691
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3262,
+      "markdown_body_line_end": 3269,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: FATF assessment architecture",
+      "preview": "FATF RECOMMENDATIONS -> INTERNATIONAL STANDARDS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 387.691
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 315.491
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3273,
+      "markdown_body_line_end": 3281,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: India 2024 balanced scorecard",
+      "preview": "STRENGTH -> RISK UNDERSTANDING / FINANCIAL INTELLIGENCE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3285,
+      "markdown_body_line_end": 3293,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: PYQ and effectiveness rail",
+      "preview": "2021 -> TECHNOLOGY / GLOBALISATION + MATCHED CONTROLS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    }
+  ]
+}

@@ -13,10 +13,10 @@
   },
   "statistics": {
     "total_topics": 479,
-    "completed": 265,
-    "pending": 214
+    "completed": 479,
+    "pending": 0
   },
-  "next_pending": "social-justice-16",
+  "next_pending": null,
   "topics": [
     {
       "sequence": 1,
@@ -3461,7 +3461,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\16_Urban-Poor-Homeless-and-Migrant-Workers.md",
       "output_path": "quick_galance\\Social-Justice\\16_Urban-Poor-Homeless-and-Migrant-Workers_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 266,
@@ -3474,7 +3474,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture.md",
       "output_path": "quick_galance\\Social-Justice\\17_Scheme-Performance-Convergence-Targeting-and-Data-Architecture_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 267,
@@ -3487,7 +3487,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\01_Foreign-Policy-Foundations-and-Strategic-Autonomy.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\International-Relations\\basic\\01_Foreign-Policy-Foundations-and-Strategic-Autonomy.md",
       "output_path": "quick_galance\\International-Relations\\01_Foreign-Policy-Foundations-and-Strategic-Autonomy_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 268,
@@ -3500,7 +3500,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\02_India-and-the-Neighbourhood.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\International-Relations\\basic\\02_India-and-the-Neighbourhood.md",
       "output_path": "quick_galance\\International-Relations\\02_India-and-the-Neighbourhood_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 269,
@@ -3513,7 +3513,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\International-Relations\\basic\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
       "output_path": "quick_galance\\International-Relations\\03_India-China-Major-Powers-and-Resilient-Supply-Chains_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 270,
@@ -3526,7 +3526,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\International-Relations\\basic\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md",
       "output_path": "quick_galance\\International-Relations\\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 271,
@@ -3539,7 +3539,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\05_Central-Asia-Eurasia-and-Connectivity.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\International-Relations\\basic\\05_Central-Asia-Eurasia-and-Connectivity.md",
       "output_path": "quick_galance\\International-Relations\\05_Central-Asia-Eurasia-and-Connectivity_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 272,
@@ -3552,7 +3552,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\06_West-Asia-Energy-Security-and-Connectivity.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\International-Relations\\basic\\06_West-Asia-Energy-Security-and-Connectivity.md",
       "output_path": "quick_galance\\International-Relations\\06_West-Asia-Energy-Security-and-Connectivity_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 273,
@@ -3565,7 +3565,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\07_India-Africa-Development-and-Digital-Partnership.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\International-Relations\\basic\\07_India-Africa-Development-and-Digital-Partnership.md",
       "output_path": "quick_galance\\International-Relations\\07_India-Africa-Development-and-Digital-Partnership_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 274,
@@ -3578,7 +3578,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\08_Global-South-and-Development-Partnering.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\International-Relations\\basic\\08_Global-South-and-Development-Partnering.md",
       "output_path": "quick_galance\\International-Relations\\08_Global-South-and-Development-Partnering_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 275,
@@ -3591,7 +3591,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\International-Relations\\basic\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power.md",
       "output_path": "quick_galance\\International-Relations\\09_Indian-Diaspora-Consular-Protection-and-Soft-Power_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 276,
@@ -3604,7 +3604,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\10_Regional-Global-and-Minilateral-Groupings.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\International-Relations\\basic\\10_Regional-Global-and-Minilateral-Groupings.md",
       "output_path": "quick_galance\\International-Relations\\10_Regional-Global-and-Minilateral-Groupings_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 277,
@@ -3617,7 +3617,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\International-Relations\\basic\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md",
       "output_path": "quick_galance\\International-Relations\\11_Globalisation-Trade-Agreements-and-External-Policy-Effects_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 278,
@@ -3630,7 +3630,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\12_UN-and-International-Institutions-Global-Governance.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\International-Relations\\basic\\12_UN-and-International-Institutions-Global-Governance.md",
       "output_path": "quick_galance\\International-Relations\\12_UN-and-International-Institutions-Global-Governance_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 279,
@@ -3643,7 +3643,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\01_National-Income-GDP-GVA-and-Measurement.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\01_National-Income-GDP-GVA-and-Measurement.md",
       "output_path": "quick_galance\\Economy\\01_National-Income-GDP-GVA-and-Measurement_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 280,
@@ -3656,7 +3656,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\02_Growth-Development-HDI-IHDI-and-MPI.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\02_Growth-Development-HDI-IHDI-and-MPI.md",
       "output_path": "quick_galance\\Economy\\02_Growth-Development-HDI-IHDI-and-MPI_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 281,
@@ -3669,7 +3669,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
       "output_path": "quick_galance\\Economy\\03_Inflation-Price-Indices-and-Business-Cycles_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 282,
@@ -3682,7 +3682,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
       "output_path": "quick_galance\\Economy\\04_RBI-Monetary-Policy-and-Liquidity-Management_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 283,
@@ -3695,7 +3695,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
       "output_path": "quick_galance\\Economy\\05_Banking-Structure-NBFCs-and-Financial-Regulation_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 284,
@@ -3708,7 +3708,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md",
       "output_path": "quick_galance\\Economy\\06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 285,
@@ -3721,7 +3721,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
       "output_path": "quick_galance\\Economy\\07_Money-Market-Capital-Market-and-Financial-Instruments_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 286,
@@ -3734,7 +3734,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
       "output_path": "quick_galance\\Economy\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 287,
@@ -3747,7 +3747,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md",
       "output_path": "quick_galance\\Economy\\09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 288,
@@ -3760,7 +3760,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
       "output_path": "quick_galance\\Economy\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 289,
@@ -3773,7 +3773,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
       "output_path": "quick_galance\\Economy\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 290,
@@ -3786,7 +3786,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md",
       "output_path": "quick_galance\\Economy\\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 291,
@@ -3799,7 +3799,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md",
       "output_path": "quick_galance\\Economy\\13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 292,
@@ -3812,7 +3812,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md",
       "output_path": "quick_galance\\Economy\\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 293,
@@ -3825,7 +3825,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
       "output_path": "quick_galance\\Economy\\15_Food-Processing-Cold-Chains-and-Value-Addition_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 294,
@@ -3838,7 +3838,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
       "output_path": "quick_galance\\Economy\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 295,
@@ -3851,7 +3851,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md",
       "output_path": "quick_galance\\Economy\\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 296,
@@ -3864,7 +3864,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md",
       "output_path": "quick_galance\\Economy\\18_Infrastructure-PPPs-Logistics-and-Public-Investment_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 297,
@@ -3877,7 +3877,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md",
       "output_path": "quick_galance\\Economy\\19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 298,
@@ -3890,7 +3890,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md",
       "output_path": "quick_galance\\Economy\\20_Foreign-Trade-WTO-FTAs-and-Protectionism_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 299,
@@ -3903,7 +3903,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
       "output_path": "quick_galance\\Economy\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 300,
@@ -3916,7 +3916,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md",
       "output_path": "quick_galance\\Economy\\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 301,
@@ -3929,7 +3929,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md",
       "output_path": "quick_galance\\Economy\\23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 302,
@@ -3942,7 +3942,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md",
       "output_path": "quick_galance\\Economy\\24_Services-Digital-Economy-Fintech-and-Platform-Markets_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 303,
@@ -3955,7 +3955,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
       "output_path": "quick_galance\\Economy\\25_Climate-Economics-Green-Finance-and-Circular-Economy_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 304,
@@ -3968,7 +3968,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
       "output_path": "quick_galance\\Economy\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 305,
@@ -3981,7 +3981,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md",
       "output_path": "quick_galance\\Economy\\27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 306,
@@ -3994,7 +3994,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
       "output_path": "quick_galance\\Economy\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 307,
@@ -4007,7 +4007,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
       "output_path": "quick_galance\\Economy\\29_Agricultural-Technology-Missions-and-Mission-Mode-Policy_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 308,
@@ -4020,7 +4020,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
       "output_path": "quick_galance\\Economy\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 309,
@@ -4033,7 +4033,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
       "output_path": "quick_galance\\Economy\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 310,
@@ -4046,7 +4046,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\01_Ecosystem-Structure-and-Function.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\01_Ecosystem-Structure-and-Function.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\01_Ecosystem-Structure-and-Function_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 311,
@@ -4059,7 +4059,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\02_Biogeochemical-Cycles-and-Ecological-Pyramids_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 312,
@@ -4072,7 +4072,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\03_Ecological-Succession-and-Biomes.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\03_Ecological-Succession-and-Biomes.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\03_Ecological-Succession-and-Biomes_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 313,
@@ -4085,7 +4085,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\04_Biodiversity-Levels-and-Hotspots_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 314,
@@ -4098,7 +4098,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\05_IUCN-Red-List-and-Endemism.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\05_IUCN-Red-List-and-Endemism.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\05_IUCN-Red-List-and-Endemism_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 315,
@@ -4111,7 +4111,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\06_Protected-Area-Network-India.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\06_Protected-Area-Network-India.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\06_Protected-Area-Network-India_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 316,
@@ -4124,7 +4124,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\07_Biosphere-Reserves-and-Ramsar-Sites.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\07_Biosphere-Reserves-and-Ramsar-Sites_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 317,
@@ -4137,7 +4137,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\08_Wildlife-Protection-Act-and-Schedules.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\08_Wildlife-Protection-Act-and-Schedules.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\08_Wildlife-Protection-Act-and-Schedules_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 318,
@@ -4150,7 +4150,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\09_CITES-and-Wildlife-Trade_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 319,
@@ -4163,7 +4163,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\10_CMS-Bonn-Convention-Migratory-Species_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 320,
@@ -4176,7 +4176,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\11_Forest-Types-and-Forest-Rights-Act.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\11_Forest-Types-and-Forest-Rights-Act.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\11_Forest-Types-and-Forest-Rights-Act_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 321,
@@ -4189,7 +4189,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\12_Forest-Governance-CAMPA-and-Green-India-Mission.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\12_Forest-Governance-CAMPA-and-Green-India-Mission.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\12_Forest-Governance-CAMPA-and-Green-India-Mission_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 322,
@@ -4202,7 +4202,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\13_Air-Pollution-and-CPCB-Standards.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\13_Air-Pollution-and-CPCB-Standards.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\13_Air-Pollution-and-CPCB-Standards_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 323,
@@ -4215,7 +4215,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\14_Water-Pollution-and-River-Cleaning-Missions.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\14_Water-Pollution-and-River-Cleaning-Missions.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\14_Water-Pollution-and-River-Cleaning-Missions_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 324,
@@ -4228,7 +4228,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\15_Solid-Plastic-and-E-Waste-Rules.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\15_Solid-Plastic-and-E-Waste-Rules.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\15_Solid-Plastic-and-E-Waste-Rules_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 325,
@@ -4241,7 +4241,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\16_Environmental-Impact-Assessment-and-NGT.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\16_Environmental-Impact-Assessment-and-NGT.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\16_Environmental-Impact-Assessment-and-NGT_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 326,
@@ -4254,7 +4254,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\17_Climate-Change-Science-Greenhouse-Effect.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\17_Climate-Change-Science-Greenhouse-Effect.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\17_Climate-Change-Science-Greenhouse-Effect_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 327,
@@ -4267,7 +4267,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\18_IPCC-Assessment-Reports_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 328,
@@ -4280,7 +4280,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\19_UNFCCC-COP-Kyoto-Paris-Agreement_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 329,
@@ -4293,7 +4293,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 330,
@@ -4306,7 +4306,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 331,
@@ -4319,7 +4319,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\22_Multilateral-Environmental-Conventions-CBD-Basel-Stockholm-Montreal.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\22_Multilateral-Environmental-Conventions-CBD-Basel-Stockholm-Montreal.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\22_Multilateral-Environmental-Conventions-CBD-Basel-Stockholm-Montreal_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 332,
@@ -4332,7 +4332,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\23_Desertification-UNCCD-and-Land-Degradation.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\23_Desertification-UNCCD-and-Land-Degradation.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\23_Desertification-UNCCD-and-Land-Degradation_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 333,
@@ -4345,7 +4345,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 334,
@@ -4358,7 +4358,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\25_Renewable-Energy-and-Green-Hydrogen.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\25_Renewable-Energy-and-Green-Hydrogen.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\25_Renewable-Energy-and-Green-Hydrogen_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 335,
@@ -4371,7 +4371,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\26_Disaster-Management-Framework-and-Sendai.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\26_Disaster-Management-Framework-and-Sendai.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\26_Disaster-Management-Framework-and-Sendai_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 336,
@@ -4384,7 +4384,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 337,
@@ -4397,7 +4397,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\28_Species-and-Current-Affairs-Tracker.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\28_Species-and-Current-Affairs-Tracker.md",
       "output_path": "quick_galance\\Environment-and-Ecology\\28_Species-and-Current-Affairs-Tracker_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 338,
@@ -4410,7 +4410,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\01_Space-Programme-ISRO-Launch-Vehicles.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\01_Space-Programme-ISRO-Launch-Vehicles.md",
       "output_path": "quick_galance\\Science-and-Technology\\01_Space-Programme-ISRO-Launch-Vehicles_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 339,
@@ -4423,7 +4423,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\02_Satellites-NavIC-GAGAN-and-Applications.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\02_Satellites-NavIC-GAGAN-and-Applications.md",
       "output_path": "quick_galance\\Science-and-Technology\\02_Satellites-NavIC-GAGAN-and-Applications_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 340,
@@ -4436,7 +4436,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions.md",
       "output_path": "quick_galance\\Science-and-Technology\\03_Human-Spaceflight-Gaganyaan-and-Planetary-Missions_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 341,
@@ -4449,7 +4449,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\04_Nuclear-Power-and-Three-Stage-Programme.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\04_Nuclear-Power-and-Three-Stage-Programme.md",
       "output_path": "quick_galance\\Science-and-Technology\\04_Nuclear-Power-and-Three-Stage-Programme_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 342,
@@ -4462,7 +4462,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\05_Nuclear-Fusion-and-ITER.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\05_Nuclear-Fusion-and-ITER.md",
       "output_path": "quick_galance\\Science-and-Technology\\05_Nuclear-Fusion-and-ITER_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 343,
@@ -4475,7 +4475,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\06_Defence-RandD-DRDO-and-Missile-Systems.md",
       "output_path": "quick_galance\\Science-and-Technology\\06_Defence-RandD-DRDO-and-Missile-Systems_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 344,
@@ -4488,7 +4488,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\07_Defence-Indigenization-Atmanirbhar-and-Procurement.md",
       "output_path": "quick_galance\\Science-and-Technology\\07_Defence-Indigenization-Atmanirbhar-and-Procurement_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 345,
@@ -4501,7 +4501,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\08_Digital-India-and-India-Stack-UPI-Aadhaar.md",
       "output_path": "quick_galance\\Science-and-Technology\\08_Digital-India-and-India-Stack-UPI-Aadhaar_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 346,
@@ -4514,7 +4514,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\09_Artificial-Intelligence-Governance-and-IndiaAI.md",
       "output_path": "quick_galance\\Science-and-Technology\\09_Artificial-Intelligence-Governance-and-IndiaAI_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 347,
@@ -4527,7 +4527,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\10_National-Quantum-Mission-and-Quantum-Tech.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\10_National-Quantum-Mission-and-Quantum-Tech.md",
       "output_path": "quick_galance\\Science-and-Technology\\10_National-Quantum-Mission-and-Quantum-Tech_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 348,
@@ -4540,7 +4540,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\11_Semiconductor-Mission-and-Electronics-Manufacturing.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\11_Semiconductor-Mission-and-Electronics-Manufacturing.md",
       "output_path": "quick_galance\\Science-and-Technology\\11_Semiconductor-Mission-and-Electronics-Manufacturing_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 349,
@@ -4553,7 +4553,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\12_Data-Protection-DPDP-Act-and-Cybersecurity.md",
       "output_path": "quick_galance\\Science-and-Technology\\12_Data-Protection-DPDP-Act-and-Cybersecurity_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 350,
@@ -4566,7 +4566,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\13_Biotechnology-Fundamentals-and-DBT-Missions.md",
       "output_path": "quick_galance\\Science-and-Technology\\13_Biotechnology-Fundamentals-and-DBT-Missions_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 351,
@@ -4579,7 +4579,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\14_Genetic-Engineering-GM-Crops-and-CRISPR.md",
       "output_path": "quick_galance\\Science-and-Technology\\14_Genetic-Engineering-GM-Crops-and-CRISPR_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 352,
@@ -4592,7 +4592,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma.md",
       "output_path": "quick_galance\\Science-and-Technology\\15_Vaccines-Monoclonal-Antibodies-and-Biopharma_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 353,
@@ -4605,7 +4605,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\16_Nanotechnology-and-Applications.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\16_Nanotechnology-and-Applications.md",
       "output_path": "quick_galance\\Science-and-Technology\\16_Nanotechnology-and-Applications_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 354,
@@ -4618,7 +4618,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\17_Intellectual-Property-Rights-and-Patents.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\17_Intellectual-Property-Rights-and-Patents.md",
       "output_path": "quick_galance\\Science-and-Technology\\17_Intellectual-Property-Rights-and-Patents_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 355,
@@ -4631,7 +4631,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels.md",
       "output_path": "quick_galance\\Science-and-Technology\\18_Electric-Vehicles-Batteries-and-Alternative-Fuels_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 356,
@@ -4644,7 +4644,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\19_Drones-UAVs-and-Robotics-Policy.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\19_Drones-UAVs-and-Robotics-Policy.md",
       "output_path": "quick_galance\\Science-and-Technology\\19_Drones-UAVs-and-Robotics-Policy_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 357,
@@ -4657,7 +4657,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md",
       "output_path": "quick_galance\\Science-and-Technology\\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 358,
@@ -4670,7 +4670,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\21_General-Science-Physics-Fundamentals.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\21_General-Science-Physics-Fundamentals.md",
       "output_path": "quick_galance\\Science-and-Technology\\21_General-Science-Physics-Fundamentals_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 359,
@@ -4683,7 +4683,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\22_General-Science-Chemistry-Fundamentals.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\22_General-Science-Chemistry-Fundamentals.md",
       "output_path": "quick_galance\\Science-and-Technology\\22_General-Science-Chemistry-Fundamentals_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 360,
@@ -4696,7 +4696,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\23_General-Science-Biology-and-Physiology.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\23_General-Science-Biology-and-Physiology.md",
       "output_path": "quick_galance\\Science-and-Technology\\23_General-Science-Biology-and-Physiology_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 361,
@@ -4709,7 +4709,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\24_S-and-T-Institutions-DST-CSIR-ANRF.md",
       "output_path": "quick_galance\\Science-and-Technology\\24_S-and-T-Institutions-DST-CSIR-ANRF_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 362,
@@ -4722,7 +4722,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\25_Computer-Architecture-Distributed-Systems-and-Emerging-Computing.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\25_Computing-Fundamentals-Hardware-Software-Networks-and-Cloud.md",
       "output_path": "quick_galance\\Science-and-Technology\\25_Computing-Fundamentals-Hardware-Software-Networks-and-Cloud_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 363,
@@ -4735,7 +4735,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Science-and-Technology\\advanced\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Science-and-Technology\\basic\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists.md",
       "output_path": "quick_galance\\Science-and-Technology\\26_Scientific-Discoveries-Nobel-Prizes-and-Scientists_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 364,
@@ -4748,7 +4748,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\01_Internal-Security-Foundations-and-Governance.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\01_Internal-Security-Foundations-and-Governance.md",
       "output_path": "quick_galance\\Internal-Security\\01_Internal-Security-Foundations-and-Governance_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 365,
@@ -4774,7 +4774,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\03_Left-Wing-Extremism-and-Integrated-Response.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\03_Left-Wing-Extremism-and-Integrated-Response.md",
       "output_path": "quick_galance\\Internal-Security\\03_Left-Wing-Extremism-and-Integrated-Response_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 367,
@@ -4787,7 +4787,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\04_North-East-Insurgency-and-Peace-Processes.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\04_North-East-Insurgency-and-Peace-Processes.md",
       "output_path": "quick_galance\\Internal-Security\\04_North-East-Insurgency-and-Peace-Processes_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 368,
@@ -4800,7 +4800,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\05_Jammu-Kashmir-and-Cross-Border-Terrorism.md",
       "output_path": "quick_galance\\Internal-Security\\05_Jammu-Kashmir-and-Cross-Border-Terrorism_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 369,
@@ -4813,7 +4813,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\06_Border-Management-and-Border-Area-Development.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\06_Border-Management-and-Border-Area-Development.md",
       "output_path": "quick_galance\\Internal-Security\\06_Border-Management-and-Border-Area-Development_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 370,
@@ -4826,7 +4826,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\07_Maritime-and-Coastal-Security.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\07_Maritime-and-Coastal-Security.md",
       "output_path": "quick_galance\\Internal-Security\\07_Maritime-and-Coastal-Security_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 371,
@@ -4839,7 +4839,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\08_Cyber-Security-CII-and-Cybercrime.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\08_Cyber-Security-CII-and-Cybercrime.md",
       "output_path": "quick_galance\\Internal-Security\\08_Cyber-Security-CII-and-Cybercrime_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 372,
@@ -4852,7 +4852,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\09_Social-Media-Encrypted-Messaging-and-Information-Warfare.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\09_Social-Media-Encrypted-Messaging-and-Information-Warfare.md",
       "output_path": "quick_galance\\Internal-Security\\09_Social-Media-Encrypted-Messaging-and-Information-Warfare_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 373,
@@ -4865,7 +4865,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\10_Terror-Financing-Money-Laundering-and-FATF.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\10_Terror-Financing-Money-Laundering-and-FATF.md",
       "output_path": "quick_galance\\Internal-Security\\10_Terror-Financing-Money-Laundering-and-FATF_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 374,
@@ -4878,7 +4878,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\11_Organised-Crime-Narco-Terrorism-and-Trafficking.md",
       "output_path": "quick_galance\\Internal-Security\\11_Organised-Crime-Narco-Terrorism-and-Trafficking_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 375,
@@ -4891,7 +4891,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Internal-Security\\advanced\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Internal-Security\\basic\\12_Security-Forces-Intelligence-Coordination-and-Rights.md",
       "output_path": "quick_galance\\Internal-Security\\12_Security-Forces-Intelligence-Coordination-and-Rights_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 376,
@@ -4904,7 +4904,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\01_Concepts-Risk-Resilience-and-Sendai.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\01_Concepts-Risk-Resilience-and-Sendai.md",
       "output_path": "quick_galance\\Disaster-Management\\01_Concepts-Risk-Resilience-and-Sendai_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 377,
@@ -4917,7 +4917,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\02_Indian-Legal-and-Institutional-Architecture.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\02_Indian-Legal-and-Institutional-Architecture.md",
       "output_path": "quick_galance\\Disaster-Management\\02_Indian-Legal-and-Institutional-Architecture_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 378,
@@ -4930,7 +4930,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\03_Community-Based-DRR-and-Inclusive-Protection.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\03_Community-Based-DRR-and-Inclusive-Protection.md",
       "output_path": "quick_galance\\Disaster-Management\\03_Community-Based-DRR-and-Inclusive-Protection_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 379,
@@ -4943,7 +4943,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md",
       "output_path": "quick_galance\\Disaster-Management\\04_Multi-Hazard-Early-Warning-and-Disaster-Technology_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 380,
@@ -4956,7 +4956,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\05_Earthquake-Risk-and-Resilient-Construction.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\05_Earthquake-Risk-and-Resilient-Construction.md",
       "output_path": "quick_galance\\Disaster-Management\\05_Earthquake-Risk-and-Resilient-Construction_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 381,
@@ -4969,7 +4969,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\06_Tsunami-and-Coastal-Hazard-Management.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\06_Tsunami-and-Coastal-Hazard-Management.md",
       "output_path": "quick_galance\\Disaster-Management\\06_Tsunami-and-Coastal-Hazard-Management_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 382,
@@ -4982,7 +4982,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md",
       "output_path": "quick_galance\\Disaster-Management\\07_Cyclones-Storm-Surge-and-Coastal-Preparedness_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 383,
@@ -4995,7 +4995,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\08_Riverine-Floods-and-Urban-Flood-Resilience.md",
       "output_path": "quick_galance\\Disaster-Management\\08_Riverine-Floods-and-Urban-Flood-Resilience_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 384,
@@ -5008,7 +5008,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md",
       "output_path": "quick_galance\\Disaster-Management\\09_Drought-Heat-Waves-and-Slow-Onset-Risk_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 385,
@@ -5021,7 +5021,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\10_Landslides-Avalanches-and-GLOF-Risk.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\10_Landslides-Avalanches-and-GLOF-Risk.md",
       "output_path": "quick_galance\\Disaster-Management\\10_Landslides-Avalanches-and-GLOF-Risk_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 386,
@@ -5034,7 +5034,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\11_Forest-Fire-Risk-Management.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\11_Forest-Fire-Risk-Management.md",
       "output_path": "quick_galance\\Disaster-Management\\11_Forest-Fire-Risk-Management_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 387,
@@ -5047,7 +5047,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies.md",
       "output_path": "quick_galance\\Disaster-Management\\12_Industrial-Chemical-Nuclear-and-CBRN-Emergencies_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 388,
@@ -5060,7 +5060,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\13_Epidemics-and-Public-Health-Emergencies.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\13_Epidemics-and-Public-Health-Emergencies.md",
       "output_path": "quick_galance\\Disaster-Management\\13_Epidemics-and-Public-Health-Emergencies_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 389,
@@ -5073,7 +5073,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\14_Urban-and-Critical-Infrastructure-Resilience.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\14_Urban-and-Critical-Infrastructure-Resilience.md",
       "output_path": "quick_galance\\Disaster-Management\\14_Urban-and-Critical-Infrastructure-Resilience_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 390,
@@ -5086,7 +5086,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\15_Climate-Risk-Adaptation-and-Loss-and-Damage.md",
       "output_path": "quick_galance\\Disaster-Management\\15_Climate-Risk-Adaptation-and-Loss-and-Damage_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 391,
@@ -5099,7 +5099,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md",
       "output_path": "quick_galance\\Disaster-Management\\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 392,
@@ -5112,7 +5112,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\17_Humanitarian-Logistics-Relief-Rehabilitation-and-Recovery.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\17_Humanitarian-Logistics-Relief-Rehabilitation-and-Recovery.md",
       "output_path": "quick_galance\\Disaster-Management\\17_Humanitarian-Logistics-Relief-Rehabilitation-and-Recovery_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 393,
@@ -5125,7 +5125,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Disaster-Management\\advanced\\18_Governance-Capacity-and-International-Cooperation.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Disaster-Management\\basic\\18_Governance-Capacity-and-International-Cooperation.md",
       "output_path": "quick_galance\\Disaster-Management\\18_Governance-Capacity-and-International-Cooperation_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 394,
@@ -5138,7 +5138,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\01_Ethics-and-Human-Interface.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\01_Ethics-and-Human-Interface.md",
       "output_path": "quick_galance\\Ethics\\01_Ethics-and-Human-Interface_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 395,
@@ -5151,7 +5151,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\02_Human-Values-and-Lessons-from-Leaders.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\02_Human-Values-and-Lessons-from-Leaders.md",
       "output_path": "quick_galance\\Ethics\\02_Human-Values-and-Lessons-from-Leaders_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 396,
@@ -5164,7 +5164,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\03_Attitude-Content-Structure-and-Persuasion.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\03_Attitude-Content-Structure-and-Persuasion.md",
       "output_path": "quick_galance\\Ethics\\03_Attitude-Content-Structure-and-Persuasion_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 397,
@@ -5177,7 +5177,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\04_Aptitude-and-Foundational-Values-for-Civil-Service.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\04_Aptitude-and-Foundational-Values-for-Civil-Service.md",
       "output_path": "quick_galance\\Ethics\\04_Aptitude-and-Foundational-Values-for-Civil-Service_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 398,
@@ -5190,7 +5190,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\05_Emotional-Intelligence-in-Administration.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\05_Emotional-Intelligence-in-Administration.md",
       "output_path": "quick_galance\\Ethics\\05_Emotional-Intelligence-in-Administration_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 399,
@@ -5203,7 +5203,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\06_Indian-Moral-Thinkers-and-Philosophers.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\06_Indian-Moral-Thinkers-and-Philosophers.md",
       "output_path": "quick_galance\\Ethics\\06_Indian-Moral-Thinkers-and-Philosophers_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 400,
@@ -5216,7 +5216,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\07_Western-Moral-Philosophers-and-Thinkers.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\07_Western-Moral-Philosophers-and-Thinkers.md",
       "output_path": "quick_galance\\Ethics\\07_Western-Moral-Philosophers-and-Thinkers_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 401,
@@ -5229,7 +5229,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md",
       "output_path": "quick_galance\\Ethics\\08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 402,
@@ -5242,7 +5242,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\09_Public-Service-Values-Status-and-Ethical-Dilemmas.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\09_Public-Service-Values-Status-and-Ethical-Dilemmas.md",
       "output_path": "quick_galance\\Ethics\\09_Public-Service-Values-Status-and-Ethical-Dilemmas_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 403,
@@ -5255,7 +5255,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md",
       "output_path": "quick_galance\\Ethics\\10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 404,
@@ -5268,7 +5268,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\11_Accountability-and-Ethical-Governance.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\11_Accountability-and-Ethical-Governance.md",
       "output_path": "quick_galance\\Ethics\\11_Accountability-and-Ethical-Governance_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 405,
@@ -5281,7 +5281,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\12_Corporate-Governance-and-International-Ethics.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\12_Corporate-Governance-and-International-Ethics.md",
       "output_path": "quick_galance\\Ethics\\12_Corporate-Governance-and-International-Ethics_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 406,
@@ -5294,7 +5294,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\13_Emerging-Ethics-Technology-AI-and-Environment.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\13_Emerging-Ethics-Technology-AI-and-Environment.md",
       "output_path": "quick_galance\\Ethics\\13_Emerging-Ethics-Technology-AI-and-Environment_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 407,
@@ -5307,7 +5307,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\14_Probity-Concept-and-Philosophical-Basis-of-Governance.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\14_Probity-Concept-and-Philosophical-Basis-of-Governance.md",
       "output_path": "quick_galance\\Ethics\\14_Probity-Concept-and-Philosophical-Basis-of-Governance_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 408,
@@ -5320,7 +5320,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\15_Transparency-RTI-and-Information-Sharing.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\15_Transparency-RTI-and-Information-Sharing.md",
       "output_path": "quick_galance\\Ethics\\15_Transparency-RTI-and-Information-Sharing_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 409,
@@ -5333,7 +5333,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\16_Codes-of-Ethics-and-Codes-of-Conduct.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\16_Codes-of-Ethics-and-Codes-of-Conduct.md",
       "output_path": "quick_galance\\Ethics\\16_Codes-of-Ethics-and-Codes-of-Conduct_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 410,
@@ -5346,7 +5346,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\17_Citizens-Charters-Work-Culture-and-Service-Delivery.md",
       "output_path": "quick_galance\\Ethics\\17_Citizens-Charters-Work-Culture-and-Service-Delivery_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 411,
@@ -5359,7 +5359,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md",
       "output_path": "quick_galance\\Ethics\\18_Utilization-of-Public-Funds-and-Challenges-of-Corruption_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 412,
@@ -5372,7 +5372,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\19_Corruption-Legal-Framework.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\19_Corruption-Legal-Framework.md",
       "output_path": "quick_galance\\Ethics\\19_Corruption-Legal-Framework_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 413,
@@ -5385,7 +5385,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\20_Anti-Corruption-Institutions.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\20_Anti-Corruption-Institutions.md",
       "output_path": "quick_galance\\Ethics\\20_Anti-Corruption-Institutions_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 414,
@@ -5398,7 +5398,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\21_Protecting-Honest-Officials-and-Vigilance-Administration.md",
       "output_path": "quick_galance\\Ethics\\21_Protecting-Honest-Officials-and-Vigilance-Administration_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 415,
@@ -5411,7 +5411,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\22_Case-Study-Method-and-Answer-Architecture.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\22_Case-Study-Method-and-Answer-Architecture.md",
       "output_path": "quick_galance\\Ethics\\22_Case-Study-Method-and-Answer-Architecture_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 416,
@@ -5424,7 +5424,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Ethics\\advanced\\23_Comparative-and-Named-Real-Case-Studies.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Ethics\\basic\\23_Comparative-and-Named-Real-Case-Studies.md",
       "output_path": "quick_galance\\Ethics\\23_Comparative-and-Named-Real-Case-Studies_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 417,
@@ -5437,7 +5437,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\01_Nature-and-Significance-of-Political-Theory.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\01_Nature-and-Significance-of-Political-Theory.md",
       "output_path": "quick_galance\\Political-Theory\\01_Nature-and-Significance-of-Political-Theory_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 418,
@@ -5450,7 +5450,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\02_Ideology-and-End-of-Ideology.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\02_Ideology-and-End-of-Ideology.md",
       "output_path": "quick_galance\\Political-Theory\\02_Ideology-and-End-of-Ideology_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 419,
@@ -5463,7 +5463,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\03_Liberalism-and-Neoliberalism.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\03_Liberalism-and-Neoliberalism.md",
       "output_path": "quick_galance\\Political-Theory\\03_Liberalism-and-Neoliberalism_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 420,
@@ -5476,7 +5476,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\04_Marxism-and-Neo-Marxism.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\04_Marxism-and-Neo-Marxism.md",
       "output_path": "quick_galance\\Political-Theory\\04_Marxism-and-Neo-Marxism_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 421,
@@ -5489,7 +5489,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\05_Socialism-Fascism-Anarchism-and-Gandhism.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\05_Socialism-Fascism-Anarchism-and-Gandhism.md",
       "output_path": "quick_galance\\Political-Theory\\05_Socialism-Fascism-Anarchism-and-Gandhism_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 422,
@@ -5502,7 +5502,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\06_Feminism-Sex-and-Gender.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\06_Feminism-Sex-and-Gender.md",
       "output_path": "quick_galance\\Political-Theory\\06_Feminism-Sex-and-Gender_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 423,
@@ -5515,7 +5515,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\07_Nature-of-Politics-and-Communitarianism.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\07_Nature-of-Politics-and-Communitarianism.md",
       "output_path": "quick_galance\\Political-Theory\\07_Nature-of-Politics-and-Communitarianism_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 424,
@@ -5528,7 +5528,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\08_Approaches-Behaviouralism-and-Post-Behaviouralism.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\08_Approaches-Behaviouralism-and-Post-Behaviouralism.md",
       "output_path": "quick_galance\\Political-Theory\\08_Approaches-Behaviouralism-and-Post-Behaviouralism_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 425,
@@ -5541,7 +5541,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\09_Interdisciplinary-Political-Analysis.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\09_Interdisciplinary-Political-Analysis.md",
       "output_path": "quick_galance\\Political-Theory\\09_Interdisciplinary-Political-Analysis_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 426,
@@ -5554,7 +5554,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\10_State-Civil-Society-Nation-and-Internationalism.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\10_State-Civil-Society-Nation-and-Internationalism.md",
       "output_path": "quick_galance\\Political-Theory\\10_State-Civil-Society-Nation-and-Internationalism_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 427,
@@ -5567,7 +5567,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\11_Sovereignty-and-Pluralism.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\11_Sovereignty-and-Pluralism.md",
       "output_path": "quick_galance\\Political-Theory\\11_Sovereignty-and-Pluralism_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 428,
@@ -5580,7 +5580,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\12_Globalisation-and-Challenges-to-Sovereignty.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\12_Globalisation-and-Challenges-to-Sovereignty.md",
       "output_path": "quick_galance\\Political-Theory\\12_Globalisation-and-Challenges-to-Sovereignty_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 429,
@@ -5593,7 +5593,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\13_Diverse-Perspectives-on-the-State.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\13_Diverse-Perspectives-on-the-State.md",
       "output_path": "quick_galance\\Political-Theory\\13_Diverse-Perspectives-on-the-State_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 430,
@@ -5606,7 +5606,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\14_Political-Obligation-Resistance-and-Law.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\14_Political-Obligation-Resistance-and-Law.md",
       "output_path": "quick_galance\\Political-Theory\\14_Political-Obligation-Resistance-and-Law_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 431,
@@ -5619,7 +5619,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\15_Power-Authority-and-Legitimacy.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\15_Power-Authority-and-Legitimacy.md",
       "output_path": "quick_galance\\Political-Theory\\15_Power-Authority-and-Legitimacy_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 432,
@@ -5632,7 +5632,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\16_Citizenship-and-Its-Critiques.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\16_Citizenship-and-Its-Critiques.md",
       "output_path": "quick_galance\\Political-Theory\\16_Citizenship-and-Its-Critiques_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 433,
@@ -5645,7 +5645,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\17_Human-Rights-Civil-Liberties-and-Democratic-Rights.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\17_Human-Rights-Civil-Liberties-and-Democratic-Rights.md",
       "output_path": "quick_galance\\Political-Theory\\17_Human-Rights-Civil-Liberties-and-Democratic-Rights_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 434,
@@ -5658,7 +5658,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\18_Liberty-Equality-and-Property.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\18_Liberty-Equality-and-Property.md",
       "output_path": "quick_galance\\Political-Theory\\18_Liberty-Equality-and-Property_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 435,
@@ -5671,7 +5671,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\19_Justice-Concepts-and-Dimensions.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\19_Justice-Concepts-and-Dimensions.md",
       "output_path": "quick_galance\\Political-Theory\\19_Justice-Concepts-and-Dimensions_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 436,
@@ -5684,7 +5684,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\20_Diverse-Perspectives-on-Justice.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\20_Diverse-Perspectives-on-Justice.md",
       "output_path": "quick_galance\\Political-Theory\\20_Diverse-Perspectives-on-Justice_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 437,
@@ -5697,7 +5697,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\21_Common-Good-and-Community.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\21_Common-Good-and-Community.md",
       "output_path": "quick_galance\\Political-Theory\\21_Common-Good-and-Community_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 438,
@@ -5710,7 +5710,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\22_Democracy-Representation-and-Liberal-Democracy.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\22_Democracy-Representation-and-Liberal-Democracy.md",
       "output_path": "quick_galance\\Political-Theory\\22_Democracy-Representation-and-Liberal-Democracy_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 439,
@@ -5723,7 +5723,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Political-Theory\\advanced\\23_Contemporary-Democracy-Social-Change-and-Development.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\23_Contemporary-Democracy-Social-Change-and-Development.md",
       "output_path": "quick_galance\\Political-Theory\\23_Contemporary-Democracy-Social-Change-and-Development_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 440,
@@ -5736,7 +5736,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Plato-Aristotle.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-i-western-philosophy-01_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 441,
@@ -5749,7 +5749,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Rationalism.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-i-western-philosophy-02_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 442,
@@ -5762,7 +5762,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Empiricism.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-i-western-philosophy-03_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 443,
@@ -5775,7 +5775,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Kant.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-i-western-philosophy-04_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 444,
@@ -5788,7 +5788,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Hegel.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-i-western-philosophy-05_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 445,
@@ -5801,7 +5801,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Moore-Russell-EarlyWittgenstein.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-i-western-philosophy-06_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 446,
@@ -5814,7 +5814,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Logical-Positivism.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-i-western-philosophy-07_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 447,
@@ -5827,7 +5827,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Later-Wittgenstein.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-i-western-philosophy-08_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 448,
@@ -5840,7 +5840,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Phenomenology-Husserl.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-i-western-philosophy-09_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 449,
@@ -5853,7 +5853,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Existentialism.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-i-western-philosophy-10_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 450,
@@ -5866,7 +5866,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Western-Philosophy-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\western\\Quine-Strawson.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-i-western-philosophy-11_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 451,
@@ -5879,7 +5879,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Indian-Philosophy-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Carvaka.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-i-indian-philosophy-01_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 452,
@@ -5892,7 +5892,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Indian-Philosophy-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Jainism.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-i-indian-philosophy-02_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 453,
@@ -5905,7 +5905,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Indian-Philosophy-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Buddhism.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-i-indian-philosophy-03_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 454,
@@ -5918,7 +5918,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Indian-Philosophy-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Nyaya-Vaisesika.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-i-indian-philosophy-04_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 455,
@@ -5931,7 +5931,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Indian-Philosophy-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Samkhya.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-i-indian-philosophy-05_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 456,
@@ -5944,7 +5944,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Indian-Philosophy-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Yoga.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-i-indian-philosophy-06_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 457,
@@ -5957,7 +5957,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Indian-Philosophy-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Mimamsa.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-i-indian-philosophy-07_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 458,
@@ -5970,7 +5970,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Indian-Philosophy-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Vedanta.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-i-indian-philosophy-08_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 459,
@@ -5983,7 +5983,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Indian-Philosophy-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-1\\indian\\Aurobindo.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-i-indian-philosophy-09_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 460,
@@ -5996,7 +5996,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Social-Political-Ideals.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-ii-socio-political-philosophy-01_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 461,
@@ -6009,7 +6009,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Sovereignty.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-ii-socio-political-philosophy-02_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 462,
@@ -6022,7 +6022,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Individual-and-State.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-ii-socio-political-philosophy-03_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 463,
@@ -6035,7 +6035,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Forms-of-Government.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-ii-socio-political-philosophy-04_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 464,
@@ -6048,7 +6048,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Political-Ideologies.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-ii-socio-political-philosophy-05_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 465,
@@ -6061,7 +6061,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Humanism-Secularism-Multiculturalism.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-ii-socio-political-philosophy-06_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 466,
@@ -6074,7 +6074,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Crime-and-Punishment.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-ii-socio-political-philosophy-07_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 467,
@@ -6087,7 +6087,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Development-Social-Progress.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-ii-socio-political-philosophy-08_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 468,
@@ -6100,7 +6100,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Gender-Discrimination.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-ii-socio-political-philosophy-09_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 469,
@@ -6113,7 +6113,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Socio-Political-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\socio-political\\Caste-Gandhi-Ambedkar.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-ii-socio-political-philosophy-10_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 470,
@@ -6126,7 +6126,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Notions-of-God.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-ii-philosophy-of-religion-01_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 471,
@@ -6139,7 +6139,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Proofs-for-God.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-ii-philosophy-of-religion-02_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 472,
@@ -6152,7 +6152,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Problem-of-Evil.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-ii-philosophy-of-religion-03_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 473,
@@ -6165,7 +6165,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Soul-Immortality-Rebirth.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-ii-philosophy-of-religion-04_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 474,
@@ -6178,7 +6178,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Reason-Revelation-Faith.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-ii-philosophy-of-religion-05_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 475,
@@ -6191,7 +6191,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Religious-Experience.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-ii-philosophy-of-religion-06_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 476,
@@ -6204,7 +6204,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Religion-without-God.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-ii-philosophy-of-religion-07_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 477,
@@ -6217,7 +6217,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Religion-and-Morality.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-ii-philosophy-of-religion-08_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 478,
@@ -6230,7 +6230,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Religious-Pluralism.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-ii-philosophy-of-religion-09_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "sequence": 479,
@@ -6243,7 +6243,7 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Philosophy\\_advanced\\Philosophy-of-Religion-Dossier.md",
       "source_canonical": "upsc-ai-kit\\knowledge\\Philosophy\\paper-2\\philosophy-of-religion\\Religious-Language.md",
       "output_path": "quick_galance\\Philosophy\\philosophy-paper-ii-philosophy-of-religion-10_Tree-Chart.md",
-      "status": "pending"
+      "status": "completed"
     }
   ]
 }

@@ -1,0 +1,71 @@
+ASCII MASTER FLOW — PANEL 1/12: Official paper boundary
+2024 PAPER -> clean two-essay and one-per-section instruction
+2025 PAPER -> garbled English line but two sections remain clear
+SCHEME -> three-hour duration
+FIREWALL -> audited fact is not a prediction of a future paper
+
+ASCII MASTER FLOW — PANEL 2/12: Section-choice constraint
+SECTION A -> scan four prompts -> choose one
+SECTION B -> scan four prompts -> choose one
+PAIR -> two essays
+INVALID -> both choices from the same Section
+
+ASCII MASTER FLOW — PANEL 3/12: Paper-layout cautions
+BILINGUAL -> Hindi then English
+2024 B NUMBERING -> restarts
+2025 B NUMBERING -> continues
+ACTION -> read headings before relying on numbers
+
+ASCII MASTER FLOW — PANEL 4/12: Official versus strategic
+OFFICIAL -> attempt structure and audited wording
+STRATEGY -> scan, score, allocate and commit
+NOT PRINTED -> granular rubric or paragraph count
+RULE -> never promote a heuristic into an instruction
+
+ASCII MASTER FLOW — PANEL 5/12: Prompt viability gate
+RESTATABLE CLAIM?
+QUALIFIED THESIS?
+DISTINCT DIMENSIONS?
+SAFE EVIDENCE? -> if any answer is no, raise risk
+
+ASCII MASTER FLOW — PANEL 6/12: Familiarity test
+FAMILIAR + THESIS-FIT -> usable
+FAMILIAR + FACT STACK -> unsafe
+UNFAMILIAR + CLEAR TENSION -> potentially safer
+DECISION -> tractability outranks comfort
+
+ASCII MASTER FLOW — PANEL 7/12: Originality boundary
+PLAIN READING -> faithful but contestable
+ORIGINAL MOVE -> qualified connection or synthesis
+ECCENTRIC MOVE -> loses the printed relation
+KEEP -> originality that remains text-bound
+
+ASCII MASTER FLOW — PANEL 8/12: Evidence-risk screen
+GREEN -> named and safely recallable illustration
+AMBER -> useful but detail uncertain
+RED -> invented number, author or forced example
+CHOICE -> prefer the prompt with stronger evidence safety
+
+ASCII MASTER FLOW — PANEL 9/12: Conclusion feasibility
+THESIS -> DIMENSIONS -> COUNTER-VIEW
+COUNTER-VIEW -> QUALIFICATION
+QUALIFICATION -> EARNED SYNTHESIS
+FORCED ENDING -> warning that choice may be weak
+
+ASCII MASTER FLOW — PANEL 10/12: Two-essay portfolio
+ESSAY A -> clarity + depth + evidence
+ESSAY B -> clarity + depth + evidence
+SHARED BUDGET -> planning + drafting + revision
+PAIR TEST -> neither choice should impoverish the other
+
+ASCII MASTER FLOW — PANEL 11/12: Commitment rule
+BOUNDED SCAN -> viability passed -> commit
+EARLY FAILURE -> switch once before drafting expands
+LATE DOUBT -> return to thesis and evidence map
+DISCIPLINE -> do not chase a fashionable alternative
+
+ASCII MASTER FLOW — PANEL 12/12: Selection answer spine
+READ RULE -> SCAN EACH SECTION -> CLASSIFY PROMPTS
+TEST THESIS -> TEST DIMENSIONS -> TEST EVIDENCE
+SCREEN RISK -> TEST THE PAIR -> ALLOCATE TIME
+COMMIT -> DECODE OR SCOPE -> PLAN

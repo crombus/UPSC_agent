@@ -1,1217 +1,454 @@
 ---
-title: "Languages, Scripts, Literature and Manuscripts — Solved Practice Workbook"
+title: "Languages, Scripts, Literature and Manuscripts - Solved Practice Workbook"
 topic_key: indian-art-and-culture-11
 ---
-# Languages, Scripts, Literature and Manuscripts — Solved Practice Workbook
+# Languages, Scripts, Literature and Manuscripts - Solved Practice Workbook
+
+> This standalone workbook carries exactly 32 original MCQs with strict ABCD rotation, 4 objective/application PYQs, 1 cross-owned direct/application Mains PYQ and 6 full original Mains answers.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Classification firewall?
+### CORE UPSC MCQS
 
-A. Language family, script, literary register, constitutional status, classical-language recognition and documentary-heritage recognition are separate classifications; none may be inferred from another.
-B. Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another.
-C. Pali is associated with the Theravada canon, Ardhamagadhi especially with the Svetambara Jain canon, and Shauraseni and Maharashtri with major dramatic or literary uses; historical speech cannot be reduced to one neat branch chart.
-D. Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit.
+### Q1. Which statement is the safest opening for an Indian-language answer?
 
-**Answer: A.**
-**Explanation:** Language family, script, literary register, constitutional status, classical-language recognition and documentary-heritage recognition are separate classifications; none may be inferred from another. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q2. Which chronology card should be filed under Classification firewall?
-
-A. Panini's Ashtadhyayi systematised Sanskrit grammar, while Rudradaman I's Junagarh inscription around 150 CE is the earliest extensive datable Sanskrit inscriptional evidence in the owner; literary antiquity and epigraphic chronology are different questions.
-B. Language family, script, literary register, constitutional status, classical-language recognition and documentary-heritage recognition are separate classifications; none may be inferred from another.
-C. Pali is associated with the Theravada canon, Ardhamagadhi especially with the Svetambara Jain canon, and Shauraseni and Maharashtri with major dramatic or literary uses; historical speech cannot be reduced to one neat branch chart.
-D. Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit.
-
-**Answer: B.**
-**Explanation:** Language family, script, literary register, constitutional status, classical-language recognition and documentary-heritage recognition are separate classifications; none may be inferred from another. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q3. Which option preserves the source-bounded meaning of Classification firewall?
-
-A. Panini's Ashtadhyayi systematised Sanskrit grammar, while Rudradaman I's Junagarh inscription around 150 CE is the earliest extensive datable Sanskrit inscriptional evidence in the owner; literary antiquity and epigraphic chronology are different questions.
-B. Ashokan edicts are mostly Prakrit in Brahmi, use Kharoshthi in the northwest, and include Greek and Aramaic at Kandahar; describing them as Sanskrit in Devanagari is false.
-C. Language family, script, literary register, constitutional status, classical-language recognition and documentary-heritage recognition are separate classifications; none may be inferred from another.
-D. Pali is associated with the Theravada canon, Ardhamagadhi especially with the Svetambara Jain canon, and Shauraseni and Maharashtri with major dramatic or literary uses; historical speech cannot be reduced to one neat branch chart.
-
-**Answer: C.**
-**Explanation:** Language family, script, literary register, constitutional status, classical-language recognition and documentary-heritage recognition are separate classifications; none may be inferred from another. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q4. Which statement avoids a close-option trap about Classification firewall?
-
-A. Panini's Ashtadhyayi systematised Sanskrit grammar, while Rudradaman I's Junagarh inscription around 150 CE is the earliest extensive datable Sanskrit inscriptional evidence in the owner; literary antiquity and epigraphic chronology are different questions.
-B. Ashokan edicts are mostly Prakrit in Brahmi, use Kharoshthi in the northwest, and include Greek and Aramaic at Kandahar; describing them as Sanskrit in Devanagari is false.
-C. Brahmi is an ancestral script with many regional descendants, while Kharoshthi ran right-to-left and was used especially in the northwest; neither name denotes a language family.
-D. Language family, script, literary register, constitutional status, classical-language recognition and documentary-heritage recognition are separate classifications; none may be inferred from another.
-
-**Answer: D.**
-**Explanation:** Language family, script, literary register, constitutional status, classical-language recognition and documentary-heritage recognition are separate classifications; none may be inferred from another. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q5. Which statement correctly identifies Four major language families?
-
-A. Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another.
-B. Pali is associated with the Theravada canon, Ardhamagadhi especially with the Svetambara Jain canon, and Shauraseni and Maharashtri with major dramatic or literary uses; historical speech cannot be reduced to one neat branch chart.
-C. Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit.
-D. Panini's Ashtadhyayi systematised Sanskrit grammar, while Rudradaman I's Junagarh inscription around 150 CE is the earliest extensive datable Sanskrit inscriptional evidence in the owner; literary antiquity and epigraphic chronology are different questions.
+A. Language family, script, register and legal-cultural status should be treated as separate classifications before examples are added.  
+B. Every Indian script corresponds to exactly one language family.  
+C. Classical-language status and Eighth Schedule status are interchangeable labels.  
+D. Religious community can usually be inferred directly from script choice.  
 
 **Answer: A.**
-**Explanation:** Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q6. Which chronology card should be filed under Four major language families?
+**Explanation:** A is correct because category separation is the first safety rule of the topic. B and C falsely merge different classifications, while D communalises a linguistic fact that the sources explicitly treat more cautiously.
 
-A. Pali is associated with the Theravada canon, Ardhamagadhi especially with the Svetambara Jain canon, and Shauraseni and Maharashtri with major dramatic or literary uses; historical speech cannot be reduced to one neat branch chart.
-B. Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another.
-C. Ashokan edicts are mostly Prakrit in Brahmi, use Kharoshthi in the northwest, and include Greek and Aramaic at Kandahar; describing them as Sanskrit in Devanagari is false.
-D. Panini's Ashtadhyayi systematised Sanskrit grammar, while Rudradaman I's Junagarh inscription around 150 CE is the earliest extensive datable Sanskrit inscriptional evidence in the owner; literary antiquity and epigraphic chronology are different questions.
+### Q2. Which pair correctly belongs to the major language-family map used in this topic?
+
+A. Grantha and Sharada  
+B. Indo-Aryan and Dravidian  
+C. Article 343 and the Eighth Schedule  
+D. Nastaliq and Modi  
 
 **Answer: B.**
-**Explanation:** Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q7. Which option preserves the source-bounded meaning of Four major language families?
+**Explanation:** B is correct because Indo-Aryan and Dravidian are language families. A and D are scripts, while C contains constitutional categories rather than language families.
 
-A. Brahmi is an ancestral script with many regional descendants, while Kharoshthi ran right-to-left and was used especially in the northwest; neither name denotes a language family.
-B. Ashokan edicts are mostly Prakrit in Brahmi, use Kharoshthi in the northwest, and include Greek and Aramaic at Kandahar; describing them as Sanskrit in Devanagari is false.
-C. Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another.
-D. Panini's Ashtadhyayi systematised Sanskrit grammar, while Rudradaman I's Junagarh inscription around 150 CE is the earliest extensive datable Sanskrit inscriptional evidence in the owner; literary antiquity and epigraphic chronology are different questions.
+### Q3. Which statement best preserves the relation between Sanskrit and Prakrit?
+
+A. Prakrit is simply a corrupted form of Sanskrit and requires no further qualification.  
+B. Sanskrit disappeared before Prakrit literature expanded.  
+C. Sanskrit and Prakrit functioned in overlapping literary and social domains; coexistence is safer than a degeneration story.  
+D. Prakrit can never be linked to Buddhist or Jain textual worlds.  
 
 **Answer: C.**
-**Explanation:** Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q8. Which statement avoids a close-option trap about Four major language families?
+**Explanation:** C is correct. A turns an old value judgement into fact, B invents a clean replacement chronology, and D ignores Pali, Ardhamagadhi and other Prakrit-linked traditions in Buddhist and Jain literature.
 
-A. Brahmi is an ancestral script with many regional descendants, while Kharoshthi ran right-to-left and was used especially in the northwest; neither name denotes a language family.
-B. Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement.
-C. Ashokan edicts are mostly Prakrit in Brahmi, use Kharoshthi in the northwest, and include Greek and Aramaic at Kandahar; describing them as Sanskrit in Devanagari is false.
-D. Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another.
+### Q4. Which statement about Pali and Ardhamagadhi is safest?
+
+A. Both labels can be used as certain audio records of exactly what the Buddha and Mahavira spoke every day.  
+B. Pali belongs only to courtly Sanskrit kavya.  
+C. Ardhamagadhi has no Jain connection in the source bank.  
+D. Pali is tied to the Theravada canonical field, while Ardhamagadhi is important to Jain textual tradition; actual speech history remains more complex.  
 
 **Answer: D.**
-**Explanation:** Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q9. Which statement correctly identifies Sanskrit and Prakrit coexistence?
+**Explanation:** D is correct because it keeps both the association and the qualification. A overstates certainty, B misplaces Pali, and C erases a major Jain link.
 
-A. Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit.
-B. Pali is associated with the Theravada canon, Ardhamagadhi especially with the Svetambara Jain canon, and Shauraseni and Maharashtri with major dramatic or literary uses; historical speech cannot be reduced to one neat branch chart.
-C. Panini's Ashtadhyayi systematised Sanskrit grammar, while Rudradaman I's Junagarh inscription around 150 CE is the earliest extensive datable Sanskrit inscriptional evidence in the owner; literary antiquity and epigraphic chronology are different questions.
-D. Ashokan edicts are mostly Prakrit in Brahmi, use Kharoshthi in the northwest, and include Greek and Aramaic at Kandahar; describing them as Sanskrit in Devanagari is false.
+### Q5. Which statement about Ashokan inscriptions is safest?
+
+A. They are mostly in Prakrit and Brahmi, with Kharoshthi in the north-west and Greek-Aramaic examples in the frontier zone.  
+B. They are all in Sanskrit and Devanagari.  
+C. They prove that Harappan script was already deciphered in the Mauryan age.  
+D. They were the first modern printed editions of Indian literature.  
 
 **Answer: A.**
-**Explanation:** Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q10. Which chronology card should be filed under Sanskrit and Prakrit coexistence?
+**Explanation:** A is correct and covers the major inscriptional distribution. B is the classic prelims trap, C invents a relation to Harappan decipherment, and D confuses inscriptions with print history.
 
-A. Ashokan edicts are mostly Prakrit in Brahmi, use Kharoshthi in the northwest, and include Greek and Aramaic at Kandahar; describing them as Sanskrit in Devanagari is false.
-B. Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit.
-C. Brahmi is an ancestral script with many regional descendants, while Kharoshthi ran right-to-left and was used especially in the northwest; neither name denotes a language family.
-D. Panini's Ashtadhyayi systematised Sanskrit grammar, while Rudradaman I's Junagarh inscription around 150 CE is the earliest extensive datable Sanskrit inscriptional evidence in the owner; literary antiquity and epigraphic chronology are different questions.
+### Q6. Which statement about Kharoshthi is correct?
+
+A. It was the standard script for all south Indian temple walls.  
+B. It was mostly written right-to-left and is especially associated with the north-western zone.  
+C. It is another name for Grantha.  
+D. It is a modern alphabet created in 1925 for Santali.  
 
 **Answer: B.**
-**Explanation:** Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q11. Which option preserves the source-bounded meaning of Sanskrit and Prakrit coexistence?
+**Explanation:** B is correct. A wrongly relocates Kharoshthi to the south, C merges unrelated scripts, and D describes Ol Chiki instead.
 
-A. Brahmi is an ancestral script with many regional descendants, while Kharoshthi ran right-to-left and was used especially in the northwest; neither name denotes a language family.
-B. Ashokan edicts are mostly Prakrit in Brahmi, use Kharoshthi in the northwest, and include Greek and Aramaic at Kandahar; describing them as Sanskrit in Devanagari is false.
-C. Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit.
-D. Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement.
+### Q7. Which chronology is safest for Sanskrit grammar and datable Sanskrit epigraphy?
+
+A. James Prinsep composed the Ashtadhyayi and Rudradaman deciphered it in 1837.  
+B. The earliest Sanskrit inscription is the Harappan seal corpus.  
+C. Panini systematised Sanskrit grammar long before the earliest extensive datable Sanskrit inscription at Junagarh under Rudradaman I.  
+D. Junagarh proves that all early inscriptions in India were Sanskrit.  
 
 **Answer: C.**
-**Explanation:** Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q12. Which statement avoids a close-option trap about Sanskrit and Prakrit coexistence?
+**Explanation:** C is correct because Panini's grammatical system belongs to an earlier horizon than Rudradaman I's Junagarh inscription, which is an inscriptional milestone rather than the birth of Sanskrit itself. A and C reverse people or periods, while D falsely universalises one inscriptional example.
 
-A. Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement.
-B. The Vedas, Brahmanas, Aranyakas, early Upanishads, epics and Puranas have layered oral, compositional, redactional and manuscript histories and should not be assigned one publication date.
-C. Brahmi is an ancestral script with many regional descendants, while Kharoshthi ran right-to-left and was used especially in the northwest; neither name denotes a language family.
-D. Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit.
+### Q8. Which statement about the Chebrolu inscription is safest for this topic?
+
+A. It is the same as the Gwalior zero inscription of 876 CE.  
+B. It proves every South Indian literary text was written in Sanskrit.  
+C. It belongs to the undeciphered Harappan corpus.  
+D. It is treated in the source bank as the earliest datable South Indian Sanskrit inscription, issued in 207 CE and discovered in 2019.  
 
 **Answer: D.**
-**Explanation:** Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q13. Which statement correctly identifies Middle Indo-Aryan registers?
+**Explanation:** D is correct because the keyed statement identifies Chebrolu exactly as the topic bank uses it: a datable South Indian Sanskrit inscription of 207 CE, discovered in 2019. The remaining options confuse it with unrelated inscriptions or misplace it into Harappan archaeology.
 
-A. Pali is associated with the Theravada canon, Ardhamagadhi especially with the Svetambara Jain canon, and Shauraseni and Maharashtri with major dramatic or literary uses; historical speech cannot be reduced to one neat branch chart.
-B. Ashokan edicts are mostly Prakrit in Brahmi, use Kharoshthi in the northwest, and include Greek and Aramaic at Kandahar; describing them as Sanskrit in Devanagari is false.
-C. Brahmi is an ancestral script with many regional descendants, while Kharoshthi ran right-to-left and was used especially in the northwest; neither name denotes a language family.
-D. Panini's Ashtadhyayi systematised Sanskrit grammar, while Rudradaman I's Junagarh inscription around 150 CE is the earliest extensive datable Sanskrit inscriptional evidence in the owner; literary antiquity and epigraphic chronology are different questions.
+### Q9. Which statement about Vatteluttu and Grantha is safest?
+
+A. Vatteluttu served southern writing traditions, while the Pallava court later preferred Grantha for its own scribal-cultural purposes.  
+B. Vatteluttu and Grantha are two names for the same modern Hindi script.  
+C. Grantha was created only for Urdu poetry.  
+D. Vatteluttu is a constitutional category under Article 343.  
 
 **Answer: A.**
-**Explanation:** Pali is associated with the Theravada canon, Ardhamagadhi especially with the Svetambara Jain canon, and Shauraseni and Maharashtri with major dramatic or literary uses; historical speech cannot be reduced to one neat branch chart. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q14. Which chronology card should be filed under Middle Indo-Aryan registers?
+**Explanation:** A is correct because it preserves the useful court-level distinction: Vatteluttu belonged to southern writing practice, while Pallava-Grantha became important in Pallava court usage. The other options confuse scripts with languages or constitutional categories.
 
-A. Brahmi is an ancestral script with many regional descendants, while Kharoshthi ran right-to-left and was used especially in the northwest; neither name denotes a language family.
-B. Pali is associated with the Theravada canon, Ardhamagadhi especially with the Svetambara Jain canon, and Shauraseni and Maharashtri with major dramatic or literary uses; historical speech cannot be reduced to one neat branch chart.
-C. Ashokan edicts are mostly Prakrit in Brahmi, use Kharoshthi in the northwest, and include Greek and Aramaic at Kandahar; describing them as Sanskrit in Devanagari is false.
-D. Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement.
+### Q10. Which statement about Grantha is correct?
+
+A. It is the oldest undeciphered script of Harappan seals.  
+B. It was widely used in the Tamil-Kerala zone to write Sanskrit and Manipravalam and is historically linked to Malayalam's script development.  
+C. It was standardised by Guru Angad for the Guru Granth Sahib.  
+D. It is a true alphabet invented in 1925 by Raghunath Murmu.  
 
 **Answer: B.**
-**Explanation:** Pali is associated with the Theravada canon, Ardhamagadhi especially with the Svetambara Jain canon, and Shauraseni and Maharashtri with major dramatic or literary uses; historical speech cannot be reduced to one neat branch chart. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q15. Which option preserves the source-bounded meaning of Middle Indo-Aryan registers?
+**Explanation:** B is correct. A describes Harappan script, C describes Gurmukhi, and D describes Ol Chiki.
 
-A. The Vedas, Brahmanas, Aranyakas, early Upanishads, epics and Puranas have layered oral, compositional, redactional and manuscript histories and should not be assigned one publication date.
-B. Brahmi is an ancestral script with many regional descendants, while Kharoshthi ran right-to-left and was used especially in the northwest; neither name denotes a language family.
-C. Pali is associated with the Theravada canon, Ardhamagadhi especially with the Svetambara Jain canon, and Shauraseni and Maharashtri with major dramatic or literary uses; historical speech cannot be reduced to one neat branch chart.
-D. Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement.
+### Q11. Which pair is correctly matched?
+
+A. Sharada - modern shorthand script for Marathi revenue writing  
+B. Modi - dedicated 1925 alphabet for Santali  
+C. Gurmukhi - standardised in the 16th century by Guru Angad  
+D. Ol Chiki - south Indian Sanskrit copper-plate script of Vijayanagara  
 
 **Answer: C.**
-**Explanation:** Pali is associated with the Theravada canon, Ardhamagadhi especially with the Svetambara Jain canon, and Shauraseni and Maharashtri with major dramatic or literary uses; historical speech cannot be reduced to one neat branch chart. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q16. Which statement avoids a close-option trap about Middle Indo-Aryan registers?
+**Explanation:** C is correct because Gurmukhi is linked to standardisation by Guru Angad in the 16th century. The other pairs confuse Sharada, Modi and Ol Chiki with functions or periods that do not belong to them.
 
-A. Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement.
-B. The Vedas, Brahmanas, Aranyakas, early Upanishads, epics and Puranas have layered oral, compositional, redactional and manuscript histories and should not be assigned one publication date.
-C. Buddhist literature spans Pali, Prakrits, Buddhist Hybrid Sanskrit and Sanskrit, while Jain literature spans Ardhamagadhi and other Prakrits with later Sanskrit, Apabhramsha and regional-language production.
-D. Pali is associated with the Theravada canon, Ardhamagadhi especially with the Svetambara Jain canon, and Shauraseni and Maharashtri with major dramatic or literary uses; historical speech cannot be reduced to one neat branch chart.
+### Q12. Which statement about Ol Chiki is safest?
+
+A. It is simply another name for Devanagari.  
+B. It is a late-medieval Perso-Arabic hand used for Urdu poetry.  
+C. It was created for Sanskrit manuscripts of Vijayanagara copper plates.  
+D. It was created in 1925 by Raghunath Murmu for Santali and is treated as a true alphabet rather than an abugida.  
 
 **Answer: D.**
-**Explanation:** Pali is associated with the Theravada canon, Ardhamagadhi especially with the Svetambara Jain canon, and Shauraseni and Maharashtri with major dramatic or literary uses; historical speech cannot be reduced to one neat branch chart. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q17. Which statement correctly identifies Grammar and Sanskrit epigraphy?
+**Explanation:** D is correct. A and B collapse it into unrelated scripts, while C confuses it with Nandinagari-style manuscript usage.
 
-A. Panini's Ashtadhyayi systematised Sanskrit grammar, while Rudradaman I's Junagarh inscription around 150 CE is the earliest extensive datable Sanskrit inscriptional evidence in the owner; literary antiquity and epigraphic chronology are different questions.
-B. Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement.
-C. Brahmi is an ancestral script with many regional descendants, while Kharoshthi ran right-to-left and was used especially in the northwest; neither name denotes a language family.
-D. Ashokan edicts are mostly Prakrit in Brahmi, use Kharoshthi in the northwest, and include Greek and Aramaic at Kandahar; describing them as Sanskrit in Devanagari is false.
+### Q13. Which statement about manuscripts is safest?
+
+A. Ancient Indian manuscripts were often made on palm leaves and had to be recopied repeatedly because of fragility.  
+B. Manuscripts in India were always printed books from the beginning.  
+C. Palm-leaf manuscripts could not carry commentary around the main text.  
+D. The age of a surviving manuscript is automatically the age of the original composition.  
 
 **Answer: A.**
-**Explanation:** Panini's Ashtadhyayi systematised Sanskrit grammar, while Rudradaman I's Junagarh inscription around 150 CE is the earliest extensive datable Sanskrit inscriptional evidence in the owner; literary antiquity and epigraphic chronology are different questions. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q18. Which chronology card should be filed under Grammar and Sanskrit epigraphy?
+**Explanation:** A is correct and follows Upinder's description closely. B confuses manuscript culture with print, C ignores the commentarial layout described by Upinder, and D collapses copy date and composition date.
 
-A. The Vedas, Brahmanas, Aranyakas, early Upanishads, epics and Puranas have layered oral, compositional, redactional and manuscript histories and should not be assigned one publication date.
-B. Panini's Ashtadhyayi systematised Sanskrit grammar, while Rudradaman I's Junagarh inscription around 150 CE is the earliest extensive datable Sanskrit inscriptional evidence in the owner; literary antiquity and epigraphic chronology are different questions.
-C. Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement.
-D. Brahmi is an ancestral script with many regional descendants, while Kharoshthi ran right-to-left and was used especially in the northwest; neither name denotes a language family.
+### Q14. Which description of palm-leaf production is correct?
+
+A. Leaves were cast in bronze moulds and stamped with movable type.  
+B. Leaves were cut, pierced, strung, inscribed with a stylus and darkened with soot or charcoal mix to reveal the letters.  
+C. Texts were painted only on silk cloth in the earliest phase.  
+D. Palm leaves were unaffected by insects, water or fire.  
 
 **Answer: B.**
-**Explanation:** Panini's Ashtadhyayi systematised Sanskrit grammar, while Rudradaman I's Junagarh inscription around 150 CE is the earliest extensive datable Sanskrit inscriptional evidence in the owner; literary antiquity and epigraphic chronology are different questions. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q19. Which option preserves the source-bounded meaning of Grammar and Sanskrit epigraphy?
+**Explanation:** B is correct because it summarises Upinder's material description. A is print-era fantasy, C narrows manuscript culture falsely, and D denies the very preservation problem that created copying traditions.
 
-A. Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement.
-B. The Vedas, Brahmanas, Aranyakas, early Upanishads, epics and Puranas have layered oral, compositional, redactional and manuscript histories and should not be assigned one publication date.
-C. Panini's Ashtadhyayi systematised Sanskrit grammar, while Rudradaman I's Junagarh inscription around 150 CE is the earliest extensive datable Sanskrit inscriptional evidence in the owner; literary antiquity and epigraphic chronology are different questions.
-D. Buddhist literature spans Pali, Prakrits, Buddhist Hybrid Sanskrit and Sanskrit, while Jain literature spans Ardhamagadhi and other Prakrits with later Sanskrit, Apabhramsha and regional-language production.
+### Q15. Which statement best captures a critical edition?
+
+A. A critical edition destroys all variant readings so that one editor's preference becomes the text.  
+B. A critical edition is only a government gazette notification.  
+C. A critical edition compares manuscripts to identify common core and records variants in an apparatus.  
+D. A critical edition means converting a script into spoken performance.  
 
 **Answer: C.**
-**Explanation:** Panini's Ashtadhyayi systematised Sanskrit grammar, while Rudradaman I's Junagarh inscription around 150 CE is the earliest extensive datable Sanskrit inscriptional evidence in the owner; literary antiquity and epigraphic chronology are different questions. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q20. Which statement avoids a close-option trap about Grammar and Sanskrit epigraphy?
+**Explanation:** C is correct because a critical edition compares multiple manuscripts, reconstructs common readings and preserves variants in an apparatus. The other options turn textual criticism into censorship, gazette publication or performance conversion.
 
-A. The Sangam corpus, compiled around CE 300-600 with older layers, illuminates towns, trade, crafts, war, ranking and hero-stone culture but is not a connected dynastic chronicle.
-B. The Vedas, Brahmanas, Aranyakas, early Upanishads, epics and Puranas have layered oral, compositional, redactional and manuscript histories and should not be assigned one publication date.
-C. Buddhist literature spans Pali, Prakrits, Buddhist Hybrid Sanskrit and Sanskrit, while Jain literature spans Ardhamagadhi and other Prakrits with later Sanskrit, Apabhramsha and regional-language production.
-D. Panini's Ashtadhyayi systematised Sanskrit grammar, while Rudradaman I's Junagarh inscription around 150 CE is the earliest extensive datable Sanskrit inscriptional evidence in the owner; literary antiquity and epigraphic chronology are different questions.
+### Q16. Which statement about colophons is safest?
+
+A. A colophon means the script is definitely Brahmi.  
+B. A colophon is identical to the Eighth Schedule.  
+C. A colophon proves that no textual interpolation ever occurred.  
+D. A colophon can carry transmission clues such as author, editor or scribal claims, but it should not be equated automatically with original composition date.  
 
 **Answer: D.**
-**Explanation:** Panini's Ashtadhyayi systematised Sanskrit grammar, while Rudradaman I's Junagarh inscription around 150 CE is the earliest extensive datable Sanskrit inscriptional evidence in the owner; literary antiquity and epigraphic chronology are different questions. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q21. Which statement correctly identifies Ashokan multilingual record?
+**Explanation:** D is correct because colophons can preserve transmission clues yet still cannot be treated as automatic proof of original composition date. The other options confuse colophons with script identity, constitutional categories or total textual certainty.
 
-A. Ashokan edicts are mostly Prakrit in Brahmi, use Kharoshthi in the northwest, and include Greek and Aramaic at Kandahar; describing them as Sanskrit in Devanagari is false.
-B. The Vedas, Brahmanas, Aranyakas, early Upanishads, epics and Puranas have layered oral, compositional, redactional and manuscript histories and should not be assigned one publication date.
-C. Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement.
-D. Brahmi is an ancestral script with many regional descendants, while Kharoshthi ran right-to-left and was used especially in the northwest; neither name denotes a language family.
+### Q17. Which statement about Sangam literature is safest?
+
+A. It is the earliest known literature of South India and is powerful but bounded evidence, not a complete dynastic chronicle.  
+B. It contains no social or material references at all.  
+C. It belongs wholly to Persian court culture.  
+D. It can be dated to one undisputed year of publication.  
 
 **Answer: A.**
-**Explanation:** Ashokan edicts are mostly Prakrit in Brahmi, use Kharoshthi in the northwest, and include Greek and Aramaic at Kandahar; describing them as Sanskrit in Devanagari is false. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q22. Which chronology card should be filed under Ashokan multilingual record?
+**Explanation:** A is correct because it combines source value and caution. B ignores evidence on trade, war and society; C mislocates the corpus; D misreads a layered tradition as a single publication event.
 
-A. Buddhist literature spans Pali, Prakrits, Buddhist Hybrid Sanskrit and Sanskrit, while Jain literature spans Ardhamagadhi and other Prakrits with later Sanskrit, Apabhramsha and regional-language production.
-B. Ashokan edicts are mostly Prakrit in Brahmi, use Kharoshthi in the northwest, and include Greek and Aramaic at Kandahar; describing them as Sanskrit in Devanagari is false.
-C. The Vedas, Brahmanas, Aranyakas, early Upanishads, epics and Puranas have layered oral, compositional, redactional and manuscript histories and should not be assigned one publication date.
-D. Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement.
+### Q18. Which pair is correctly matched in the Sangam bank?
+
+A. Agam - outer public field of war and statecraft only  
+B. Tolkappiyam - Tamil grammar and cultural classification text  
+C. Pattuppattu - Perso-Arabic calligraphic style  
+D. Vatakkiruttal - Buddhist commentary on Vinaya rules  
 
 **Answer: B.**
-**Explanation:** Ashokan edicts are mostly Prakrit in Brahmi, use Kharoshthi in the northwest, and include Greek and Aramaic at Kandahar; describing them as Sanskrit in Devanagari is false. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q23. Which option preserves the source-bounded meaning of Ashokan multilingual record?
+**Explanation:** B is correct. Agam is the inner field, Pattuppattu belongs to the Ten Idylls corpus, and Vatakkiruttal is a Sangam-age ritual practice rather than a Buddhist commentary.
 
-A. The Sangam corpus, compiled around CE 300-600 with older layers, illuminates towns, trade, crafts, war, ranking and hero-stone culture but is not a connected dynastic chronicle.
-B. The Vedas, Brahmanas, Aranyakas, early Upanishads, epics and Puranas have layered oral, compositional, redactional and manuscript histories and should not be assigned one publication date.
-C. Ashokan edicts are mostly Prakrit in Brahmi, use Kharoshthi in the northwest, and include Greek and Aramaic at Kandahar; describing them as Sanskrit in Devanagari is false.
-D. Buddhist literature spans Pali, Prakrits, Buddhist Hybrid Sanskrit and Sanskrit, while Jain literature spans Ardhamagadhi and other Prakrits with later Sanskrit, Apabhramsha and regional-language production.
+### Q19. Which statement about Vatakkiruttal is safest?
+
+A. It refers to a Deccan revenue script.  
+B. It names a Mauryan law book.  
+C. It denotes a Tamil ritual of fasting to death, especially linked in the source bank with honour after defeat.  
+D. It is the title of Bhasa's best-known play.  
 
 **Answer: C.**
-**Explanation:** Ashokan edicts are mostly Prakrit in Brahmi, use Kharoshthi in the northwest, and include Greek and Aramaic at Kandahar; describing them as Sanskrit in Devanagari is false. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q24. Which statement avoids a close-option trap about Ashokan multilingual record?
+**Explanation:** C is correct. The other three options confuse a Sangam cultural practice with script, statecraft or classical drama.
 
-A. The Sangam corpus, compiled around CE 300-600 with older layers, illuminates towns, trade, crafts, war, ranking and hero-stone culture but is not a connected dynastic chronicle.
-B. Bhasa, Kalidasa, Shudraka, Bharavi and Dandin belong to the classical Sanskrit evidence bank, but each work-author pair must be verified; the 2021 and 2024 objective routes are attribution tests, not licence to guess.
-C. Buddhist literature spans Pali, Prakrits, Buddhist Hybrid Sanskrit and Sanskrit, while Jain literature spans Ardhamagadhi and other Prakrits with later Sanskrit, Apabhramsha and regional-language production.
-D. Ashokan edicts are mostly Prakrit in Brahmi, use Kharoshthi in the northwest, and include Greek and Aramaic at Kandahar; describing them as Sanskrit in Devanagari is false.
+### Q20. Which statement about classical Sanskrit authorship is safest?
+
+A. Attribution questions should be answered by guessing the most famous poet.  
+B. No Sanskrit dramatist is relevant to this topic.  
+C. The 2024 Bhasa question was about an inscriptional script, not a literary work.  
+D. Bhasa, Kalidasa, Shudraka, Bharavi, Dandin and Bhavabhuti belong to the dramatic-kavya-poetics bank, and author-work pairs must be checked carefully.  
 
 **Answer: D.**
-**Explanation:** Ashokan edicts are mostly Prakrit in Brahmi, use Kharoshthi in the northwest, and include Greek and Aramaic at Kandahar; describing them as Sanskrit in Devanagari is false. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q25. Which statement correctly identifies Brahmi and Kharoshthi?
+**Explanation:** D is correct because the safest rule in this bank is verification of the author-work pair rather than guessing by fame. The other options either invite lazy attribution or deny the obvious relevance of classical Sanskrit authorship to Topic 11.
 
-A. Brahmi is an ancestral script with many regional descendants, while Kharoshthi ran right-to-left and was used especially in the northwest; neither name denotes a language family.
-B. The Vedas, Brahmanas, Aranyakas, early Upanishads, epics and Puranas have layered oral, compositional, redactional and manuscript histories and should not be assigned one publication date.
-C. Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement.
-D. Buddhist literature spans Pali, Prakrits, Buddhist Hybrid Sanskrit and Sanskrit, while Jain literature spans Ardhamagadhi and other Prakrits with later Sanskrit, Apabhramsha and regional-language production.
+### Q21. Which work is safest to associate with the 2024 Bhasa attribution route?
+
+A. Madhyama-vyayoga  
+B. Mahabhashya  
+C. Kavyalankara  
+D. Natyashastra  
 
 **Answer: A.**
-**Explanation:** Brahmi is an ancestral script with many regional descendants, while Kharoshthi ran right-to-left and was used especially in the northwest; neither name denotes a language family. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q26. Which chronology card should be filed under Brahmi and Kharoshthi?
+**Explanation:** A is correct because the official local 2024 key confirms Madhyama-vyayoga as the work attributed to Bhasa. Mahabhashya is Patanjali's grammatical work, Natyashastra is attributed to Bharata, and Kavyalankara belongs elsewhere in poetics.
 
-A. The Vedas, Brahmanas, Aranyakas, early Upanishads, epics and Puranas have layered oral, compositional, redactional and manuscript histories and should not be assigned one publication date.
-B. Brahmi is an ancestral script with many regional descendants, while Kharoshthi ran right-to-left and was used especially in the northwest; neither name denotes a language family.
-C. The Sangam corpus, compiled around CE 300-600 with older layers, illuminates towns, trade, crafts, war, ranking and hero-stone culture but is not a connected dynastic chronicle.
-D. Buddhist literature spans Pali, Prakrits, Buddhist Hybrid Sanskrit and Sanskrit, while Jain literature spans Ardhamagadhi and other Prakrits with later Sanskrit, Apabhramsha and regional-language production.
+### Q22. Which statement best captures the Pallava literature route?
+
+A. It depends only on saying that rulers supported literature.  
+B. It is built through Dandin, bilingual Tamil-Sanskrit inscriptions, Kanchipuram's scholarly setting and Pallava-Grantha court use.  
+C. It can be answered without any named evidence.  
+D. It belongs only to modern Hindi print history.  
 
 **Answer: B.**
-**Explanation:** Brahmi is an ancestral script with many regional descendants, while Kharoshthi ran right-to-left and was used especially in the northwest; neither name denotes a language family. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q27. Which option preserves the source-bounded meaning of Brahmi and Kharoshthi?
+**Explanation:** B is correct. A and C are the very weaknesses the repair avoids, while D is unrelated chronologically and linguistically.
 
-A. The Sangam corpus, compiled around CE 300-600 with older layers, illuminates towns, trade, crafts, war, ranking and hero-stone culture but is not a connected dynastic chronicle.
-B. Buddhist literature spans Pali, Prakrits, Buddhist Hybrid Sanskrit and Sanskrit, while Jain literature spans Ardhamagadhi and other Prakrits with later Sanskrit, Apabhramsha and regional-language production.
-C. Brahmi is an ancestral script with many regional descendants, while Kharoshthi ran right-to-left and was used especially in the northwest; neither name denotes a language family.
-D. Bhasa, Kalidasa, Shudraka, Bharavi and Dandin belong to the classical Sanskrit evidence bank, but each work-author pair must be verified; the 2021 and 2024 objective routes are attribution tests, not licence to guess.
+### Q23. Which statement about Hindi's literary rise is safest?
+
+A. Hindi was the official language of the Mauryan empire under Article 343.  
+B. Hindi has no relation to Prakrit or Apabhramsha in the source bank.  
+C. Hindi emerged through a long process involving Apabhramsha and received major literary momentum through Bhakti.  
+D. Hindi literature began only after electronic media.  
 
 **Answer: C.**
-**Explanation:** Brahmi is an ancestral script with many regional descendants, while Kharoshthi ran right-to-left and was used especially in the northwest; neither name denotes a language family. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q28. Which statement avoids a close-option trap about Brahmi and Kharoshthi?
+**Explanation:** C is correct because the keyed statement captures Hindi's long emergence through Apabhramsha and its later literary expansion through Bhakti. The other options are anachronistic or deny the very transition the sources describe.
 
-A. Bhasa, Kalidasa, Shudraka, Bharavi and Dandin belong to the classical Sanskrit evidence bank, but each work-author pair must be verified; the 2021 and 2024 objective routes are attribution tests, not licence to guess.
-B. Dandin's Avantisundari Katha, bilingual Tamil-Sanskrit inscriptions and Pallava-Grantha court use supply the literature-and-script side of the 2024 Pallava demand; court usage must not be generalised to all writing in the region.
-C. The Sangam corpus, compiled around CE 300-600 with older layers, illuminates towns, trade, crafts, war, ranking and hero-stone culture but is not a connected dynastic chronicle.
-D. Brahmi is an ancestral script with many regional descendants, while Kharoshthi ran right-to-left and was used especially in the northwest; neither name denotes a language family.
+### Q24. Which statement about Urdu is safest?
+
+A. It is a foreign import with no Indian literary development.  
+B. It can never be associated with Dakkani usage.  
+C. Its script history is identical to Brahmi's.  
+D. It is treated in the source bank as an Indo-Aryan language shaped through Persian-Hindi interaction within India.  
 
 **Answer: D.**
-**Explanation:** Brahmi is an ancestral script with many regional descendants, while Kharoshthi ran right-to-left and was used especially in the northwest; neither name denotes a language family. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q29. Which statement correctly identifies Kushana coexistence?
+**Explanation:** D is correct because Urdu is treated in the source bank as an Indo-Aryan language shaped in India through Persian-Hindi interaction. The other options either foreignise it, deny its Dakkani connection or confuse its script history with Brahmi.
 
-A. Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement.
-B. The Vedas, Brahmanas, Aranyakas, early Upanishads, epics and Puranas have layered oral, compositional, redactional and manuscript histories and should not be assigned one publication date.
-C. Buddhist literature spans Pali, Prakrits, Buddhist Hybrid Sanskrit and Sanskrit, while Jain literature spans Ardhamagadhi and other Prakrits with later Sanskrit, Apabhramsha and regional-language production.
-D. The Sangam corpus, compiled around CE 300-600 with older layers, illuminates towns, trade, crafts, war, ranking and hero-stone culture but is not a connected dynastic chronicle.
+### Q25. Which pair is correctly matched?
+
+A. Qaseeda - praise-oriented poetic form built around a single presiding subject  
+B. Ginan - Mauryan copper-plate donation formula  
+C. Shahr Ashob - Sangam love classification  
+D. Nastaliq - palm-leaf preservation chemical  
 
 **Answer: A.**
-**Explanation:** Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q30. Which chronology card should be filed under Kushana coexistence?
+**Explanation:** A is correct. Ginan refers to Nizari Ismaili devotional hymns, Shahr Ashob is an Urdu poetic genre of social-political anguish, and Nastaliq is a calligraphic hand rather than a preservation chemical.
 
-A. The Sangam corpus, compiled around CE 300-600 with older layers, illuminates towns, trade, crafts, war, ranking and hero-stone culture but is not a connected dynastic chronicle.
-B. Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement.
-C. Buddhist literature spans Pali, Prakrits, Buddhist Hybrid Sanskrit and Sanskrit, while Jain literature spans Ardhamagadhi and other Prakrits with later Sanskrit, Apabhramsha and regional-language production.
-D. Bhasa, Kalidasa, Shudraka, Bharavi and Dandin belong to the classical Sanskrit evidence bank, but each work-author pair must be verified; the 2021 and 2024 objective routes are attribution tests, not licence to guess.
+### Q26. Which statement about status categories is correct as checked on 6 September 2026?
+
+A. India has only six classical languages because no later official revision occurred.  
+B. India has 11 classical languages after the October 2024 additions of Marathi, Pali, Prakrit, Assamese and Bengali.  
+C. Pali and Prakrit are Scheduled languages in the Eighth Schedule.  
+D. Rajasthani is a classical language because it appears in Sahitya Akademi's award list.  
 
 **Answer: B.**
-**Explanation:** Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q31. Which option preserves the source-bounded meaning of Kushana coexistence?
+**Explanation:** B is correct because the official October 2024 notification raised the classical-language total to 11 by adding Marathi, Pali, Prakrit, Assamese and Bengali. The other choices freeze the earlier position or confuse classical status with other ledgers.
 
-A. Dandin's Avantisundari Katha, bilingual Tamil-Sanskrit inscriptions and Pallava-Grantha court use supply the literature-and-script side of the 2024 Pallava demand; court usage must not be generalised to all writing in the region.
-B. The Sangam corpus, compiled around CE 300-600 with older layers, illuminates towns, trade, crafts, war, ranking and hero-stone culture but is not a connected dynastic chronicle.
-C. Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement.
-D. Bhasa, Kalidasa, Shudraka, Bharavi and Dandin belong to the classical Sanskrit evidence bank, but each work-author pair must be verified; the 2021 and 2024 objective routes are attribution tests, not licence to guess.
+### Q27. Which statement distinguishes the Eighth Schedule most safely?
+
+A. It is identical to the list of classical languages.  
+B. It lists only the official language of the Union.  
+C. It contains 22 Scheduled languages and should not be confused with classical-language status or with Sahitya Akademi's 24-language recognition field.  
+D. It is a UNESCO documentary-heritage register.  
 
 **Answer: C.**
-**Explanation:** Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q32. Which statement avoids a close-option trap about Kushana coexistence?
+**Explanation:** C is correct because the Eighth Schedule lists 22 Scheduled languages and is not interchangeable with classical-language status or Sahitya Akademi's 24-language field. The other options confuse constitutional categories with UNESCO or with the Union's official language alone.
 
-A. Bhasa, Kalidasa, Shudraka, Bharavi and Dandin belong to the classical Sanskrit evidence bank, but each work-author pair must be verified; the 2021 and 2024 objective routes are attribution tests, not licence to guess.
-B. Dandin's Avantisundari Katha, bilingual Tamil-Sanskrit inscriptions and Pallava-Grantha court use supply the literature-and-script side of the 2024 Pallava demand; court usage must not be generalised to all writing in the region.
-C. The rise of Hindi and other regional literatures expanded literary publics through Bhakti, court and translation networks without causing the disappearance of Sanskrit or Persian.
-D. Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement.
+### Q28. Which statement about Article 343 is safest in this topic?
+
+A. It declares Sanskrit to be the national language of India.  
+B. It creates the Sahitya Akademi award list.  
+C. It added Marathi, Pali and Prakrit to the classical-language list in 2024.  
+D. It says the official language of the Union shall be Hindi in Devanagari script; this is not the same as a national-language declaration.  
 
 **Answer: D.**
-**Explanation:** Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q33. Which statement correctly identifies Layered early corpora?
+**Explanation:** D is correct because Article 343 concerns the official language of the Union: Hindi in Devanagari script, not a national-language declaration. The other options misassign it to Sanskrit, Sahitya Akademi or the 2024 classical-language notification.
 
-A. The Vedas, Brahmanas, Aranyakas, early Upanishads, epics and Puranas have layered oral, compositional, redactional and manuscript histories and should not be assigned one publication date.
-B. Buddhist literature spans Pali, Prakrits, Buddhist Hybrid Sanskrit and Sanskrit, while Jain literature spans Ardhamagadhi and other Prakrits with later Sanskrit, Apabhramsha and regional-language production.
-C. Bhasa, Kalidasa, Shudraka, Bharavi and Dandin belong to the classical Sanskrit evidence bank, but each work-author pair must be verified; the 2021 and 2024 objective routes are attribution tests, not licence to guess.
-D. The Sangam corpus, compiled around CE 300-600 with older layers, illuminates towns, trade, crafts, war, ranking and hero-stone culture but is not a connected dynastic chronicle.
+### Q29. Which statement about Sahitya Akademi is safest?
+
+A. Its 2023-24 annual report shows a 24-language award/working field, including English and Rajasthani in addition to the 22 Scheduled languages.  
+B. Its language list is the same as the current classical-language list.  
+C. It is the constitutional appendix that defines Article 343.  
+D. It replaced the National Mission for Manuscripts in 2026.  
 
 **Answer: A.**
-**Explanation:** The Vedas, Brahmanas, Aranyakas, early Upanishads, epics and Puranas have layered oral, compositional, redactional and manuscript histories and should not be assigned one publication date. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q34. Which chronology card should be filed under Layered early corpora?
+**Explanation:** A is correct and is precisely why Topic 11 must separate institutional ledgers. B, C and D collapse unrelated bodies and functions.
 
-A. Bhasa, Kalidasa, Shudraka, Bharavi and Dandin belong to the classical Sanskrit evidence bank, but each work-author pair must be verified; the 2021 and 2024 objective routes are attribution tests, not licence to guess.
-B. The Vedas, Brahmanas, Aranyakas, early Upanishads, epics and Puranas have layered oral, compositional, redactional and manuscript histories and should not be assigned one publication date.
-C. Dandin's Avantisundari Katha, bilingual Tamil-Sanskrit inscriptions and Pallava-Grantha court use supply the literature-and-script side of the 2024 Pallava demand; court usage must not be generalised to all writing in the region.
-D. The Sangam corpus, compiled around CE 300-600 with older layers, illuminates towns, trade, crafts, war, ranking and hero-stone culture but is not a connected dynastic chronicle.
+> **Current criteria revision box - PIB PRID 2061660**
+> 1. High antiquity of early texts / recorded history over **1,500-2,000 years**.  
+> 2. A **body of ancient literature/texts** treated as heritage by generations of speakers.  
+> 3. **Knowledge texts**, especially **prose** in addition to poetry, plus **epigraphical and inscriptional evidence**.  
+> 4. The classical language / literature may be **distinct from the current form** or **discontinuous with later forms / offshoots**.  
+> Historical caution: do **not** write the older 2005-style **'original and not borrowed'** formula as a current criterion.
 
-**Answer: B.**
-**Explanation:** The Vedas, Brahmanas, Aranyakas, early Upanishads, epics and Puranas have layered oral, compositional, redactional and manuscript histories and should not be assigned one publication date. The remaining options belong to different chronology, actor or analytical categories.
+### Q30. Which statement about the Bakhshali manuscript is safest?
 
-### Q35. Which option preserves the source-bounded meaning of Layered early corpora?
-
-A. The rise of Hindi and other regional literatures expanded literary publics through Bhakti, court and translation networks without causing the disappearance of Sanskrit or Persian.
-B. Dandin's Avantisundari Katha, bilingual Tamil-Sanskrit inscriptions and Pallava-Grantha court use supply the literature-and-script side of the 2024 Pallava demand; court usage must not be generalised to all writing in the region.
-C. The Vedas, Brahmanas, Aranyakas, early Upanishads, epics and Puranas have layered oral, compositional, redactional and manuscript histories and should not be assigned one publication date.
-D. Bhasa, Kalidasa, Shudraka, Bharavi and Dandin belong to the classical Sanskrit evidence bank, but each work-author pair must be verified; the 2021 and 2024 objective routes are attribution tests, not licence to guess.
-
-**Answer: C.**
-**Explanation:** The Vedas, Brahmanas, Aranyakas, early Upanishads, epics and Puranas have layered oral, compositional, redactional and manuscript histories and should not be assigned one publication date. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about Layered early corpora?
-
-A. Dandin's Avantisundari Katha, bilingual Tamil-Sanskrit inscriptions and Pallava-Grantha court use supply the literature-and-script side of the 2024 Pallava demand; court usage must not be generalised to all writing in the region.
-B. The rise of Hindi and other regional literatures expanded literary publics through Bhakti, court and translation networks without causing the disappearance of Sanskrit or Persian.
-C. The owner classes Urdu as Indo-Aryan, structured on Khari Boli and shaped through Persian-Hindi interaction in India; Dakkani, qaseeda, shahr ashob and ginan must be used as distinct historical labels.
-D. The Vedas, Brahmanas, Aranyakas, early Upanishads, epics and Puranas have layered oral, compositional, redactional and manuscript histories and should not be assigned one publication date.
-
-**Answer: D.**
-**Explanation:** The Vedas, Brahmanas, Aranyakas, early Upanishads, epics and Puranas have layered oral, compositional, redactional and manuscript histories and should not be assigned one publication date. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies Buddhist and Jain textual worlds?
-
-A. Buddhist literature spans Pali, Prakrits, Buddhist Hybrid Sanskrit and Sanskrit, while Jain literature spans Ardhamagadhi and other Prakrits with later Sanskrit, Apabhramsha and regional-language production.
-B. Bhasa, Kalidasa, Shudraka, Bharavi and Dandin belong to the classical Sanskrit evidence bank, but each work-author pair must be verified; the 2021 and 2024 objective routes are attribution tests, not licence to guess.
-C. Dandin's Avantisundari Katha, bilingual Tamil-Sanskrit inscriptions and Pallava-Grantha court use supply the literature-and-script side of the 2024 Pallava demand; court usage must not be generalised to all writing in the region.
-D. The Sangam corpus, compiled around CE 300-600 with older layers, illuminates towns, trade, crafts, war, ranking and hero-stone culture but is not a connected dynastic chronicle.
-
-**Answer: A.**
-**Explanation:** Buddhist literature spans Pali, Prakrits, Buddhist Hybrid Sanskrit and Sanskrit, while Jain literature spans Ardhamagadhi and other Prakrits with later Sanskrit, Apabhramsha and regional-language production. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under Buddhist and Jain textual worlds?
-
-A. The rise of Hindi and other regional literatures expanded literary publics through Bhakti, court and translation networks without causing the disappearance of Sanskrit or Persian.
-B. Buddhist literature spans Pali, Prakrits, Buddhist Hybrid Sanskrit and Sanskrit, while Jain literature spans Ardhamagadhi and other Prakrits with later Sanskrit, Apabhramsha and regional-language production.
-C. Bhasa, Kalidasa, Shudraka, Bharavi and Dandin belong to the classical Sanskrit evidence bank, but each work-author pair must be verified; the 2021 and 2024 objective routes are attribution tests, not licence to guess.
-D. Dandin's Avantisundari Katha, bilingual Tamil-Sanskrit inscriptions and Pallava-Grantha court use supply the literature-and-script side of the 2024 Pallava demand; court usage must not be generalised to all writing in the region.
+A. It is a palm-leaf Tamil medical manuscript from 1997.  
+B. It is a birch-bark mathematical manuscript whose surviving copy is debated in date and should be separated from the older work it transmits.  
+C. It is the same as the Charaka Samhita colophon tradition.  
+D. It proves that every zero symbol in India first appears in 876 CE.  
 
 **Answer: B.**
-**Explanation:** Buddhist literature spans Pali, Prakrits, Buddhist Hybrid Sanskrit and Sanskrit, while Jain literature spans Ardhamagadhi and other Prakrits with later Sanskrit, Apabhramsha and regional-language production. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q39. Which option preserves the source-bounded meaning of Buddhist and Jain textual worlds?
+**Explanation:** Under the required rotation B contains the correct Bakhshali caution in the authored ordering. The distractors confuse it with other manuscript traditions or flatten the chronology of zero evidence.
 
-A. The owner classes Urdu as Indo-Aryan, structured on Khari Boli and shaped through Persian-Hindi interaction in India; Dakkani, qaseeda, shahr ashob and ginan must be used as distinct historical labels.
-B. The rise of Hindi and other regional literatures expanded literary publics through Bhakti, court and translation networks without causing the disappearance of Sanskrit or Persian.
-C. Buddhist literature spans Pali, Prakrits, Buddhist Hybrid Sanskrit and Sanskrit, while Jain literature spans Ardhamagadhi and other Prakrits with later Sanskrit, Apabhramsha and regional-language production.
-D. Dandin's Avantisundari Katha, bilingual Tamil-Sanskrit inscriptions and Pallava-Grantha court use supply the literature-and-script side of the 2024 Pallava demand; court usage must not be generalised to all writing in the region.
+### Q31. Which statement about place-value evidence is safest?
 
-**Answer: C.**
-**Explanation:** Buddhist literature spans Pali, Prakrits, Buddhist Hybrid Sanskrit and Sanskrit, while Jain literature spans Ardhamagadhi and other Prakrits with later Sanskrit, Apabhramsha and regional-language production. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Buddhist and Jain textual worlds?
-
-A. The Sanskrit-Prakrit speech convention in Gupta-period drama marks social position on stage; it is direct textual evidence for hierarchy but cannot be universalised to every period and genre.
-B. The rise of Hindi and other regional literatures expanded literary publics through Bhakti, court and translation networks without causing the disappearance of Sanskrit or Persian.
-C. The owner classes Urdu as Indo-Aryan, structured on Khari Boli and shaped through Persian-Hindi interaction in India; Dakkani, qaseeda, shahr ashob and ginan must be used as distinct historical labels.
-D. Buddhist literature spans Pali, Prakrits, Buddhist Hybrid Sanskrit and Sanskrit, while Jain literature spans Ardhamagadhi and other Prakrits with later Sanskrit, Apabhramsha and regional-language production.
-
-**Answer: D.**
-**Explanation:** Buddhist literature spans Pali, Prakrits, Buddhist Hybrid Sanskrit and Sanskrit, while Jain literature spans Ardhamagadhi and other Prakrits with later Sanskrit, Apabhramsha and regional-language production. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Sangam evidence boundary?
-
-A. The Sangam corpus, compiled around CE 300-600 with older layers, illuminates towns, trade, crafts, war, ranking and hero-stone culture but is not a connected dynastic chronicle.
-B. Dandin's Avantisundari Katha, bilingual Tamil-Sanskrit inscriptions and Pallava-Grantha court use supply the literature-and-script side of the 2024 Pallava demand; court usage must not be generalised to all writing in the region.
-C. The rise of Hindi and other regional literatures expanded literary publics through Bhakti, court and translation networks without causing the disappearance of Sanskrit or Persian.
-D. Bhasa, Kalidasa, Shudraka, Bharavi and Dandin belong to the classical Sanskrit evidence bank, but each work-author pair must be verified; the 2021 and 2024 objective routes are attribution tests, not licence to guess.
-
-**Answer: A.**
-**Explanation:** The Sangam corpus, compiled around CE 300-600 with older layers, illuminates towns, trade, crafts, war, ranking and hero-stone culture but is not a connected dynastic chronicle. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Sangam evidence boundary?
-
-A. The rise of Hindi and other regional literatures expanded literary publics through Bhakti, court and translation networks without causing the disappearance of Sanskrit or Persian.
-B. The Sangam corpus, compiled around CE 300-600 with older layers, illuminates towns, trade, crafts, war, ranking and hero-stone culture but is not a connected dynastic chronicle.
-C. The owner classes Urdu as Indo-Aryan, structured on Khari Boli and shaped through Persian-Hindi interaction in India; Dakkani, qaseeda, shahr ashob and ginan must be used as distinct historical labels.
-D. Dandin's Avantisundari Katha, bilingual Tamil-Sanskrit inscriptions and Pallava-Grantha court use supply the literature-and-script side of the 2024 Pallava demand; court usage must not be generalised to all writing in the region.
-
-**Answer: B.**
-**Explanation:** The Sangam corpus, compiled around CE 300-600 with older layers, illuminates towns, trade, crafts, war, ranking and hero-stone culture but is not a connected dynastic chronicle. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Sangam evidence boundary?
-
-A. The owner classes Urdu as Indo-Aryan, structured on Khari Boli and shaped through Persian-Hindi interaction in India; Dakkani, qaseeda, shahr ashob and ginan must be used as distinct historical labels.
-B. The Sanskrit-Prakrit speech convention in Gupta-period drama marks social position on stage; it is direct textual evidence for hierarchy but cannot be universalised to every period and genre.
-C. The Sangam corpus, compiled around CE 300-600 with older layers, illuminates towns, trade, crafts, war, ranking and hero-stone culture but is not a connected dynastic chronicle.
-D. The rise of Hindi and other regional literatures expanded literary publics through Bhakti, court and translation networks without causing the disappearance of Sanskrit or Persian.
+A. Zero, decimal notation and inscriptional evidence all appear in one uncontested moment and place.  
+B. The topic has no connection with epigraphy.  
+C. The question must be handled through dated evidence, including debated manuscript chronology, early Southeast Asian inscriptions and later Indian inscriptional milestones.  
+D. A provisional 2026 key can be treated as final official proof in the workbook.  
 
 **Answer: C.**
-**Explanation:** The Sangam corpus, compiled around CE 300-600 with older layers, illuminates towns, trade, crafts, war, ranking and hero-stone culture but is not a connected dynastic chronicle. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q44. Which statement avoids a close-option trap about Sangam evidence boundary?
+**Explanation:** C is correct because the safest way to handle place-value history is through dated evidence, not through slogan-history or a provisional key. The other options flatten chronology, deny the epigraphic dimension or misuse provisional answer material.
 
-A. Composition, redaction, earliest surviving manuscript, critical edition and UNESCO Memory of the World inscription are different dates; the Rigveda's 2007 inscription does not date its composition.
-B. The Sanskrit-Prakrit speech convention in Gupta-period drama marks social position on stage; it is direct textual evidence for hierarchy but cannot be universalised to every period and genre.
-C. The owner classes Urdu as Indo-Aryan, structured on Khari Boli and shaped through Persian-Hindi interaction in India; Dakkani, qaseeda, shahr ashob and ginan must be used as distinct historical labels.
-D. The Sangam corpus, compiled around CE 300-600 with older layers, illuminates towns, trade, crafts, war, ranking and hero-stone culture but is not a connected dynastic chronicle.
+### Q32. Which statement about current manuscript policy is safest?
 
-**Answer: D.**
-**Explanation:** The Sangam corpus, compiled around CE 300-600 with older layers, illuminates towns, trade, crafts, war, ranking and hero-stone culture but is not a connected dynastic chronicle. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Classical attribution discipline?
-
-A. Bhasa, Kalidasa, Shudraka, Bharavi and Dandin belong to the classical Sanskrit evidence bank, but each work-author pair must be verified; the 2021 and 2024 objective routes are attribution tests, not licence to guess.
-B. The rise of Hindi and other regional literatures expanded literary publics through Bhakti, court and translation networks without causing the disappearance of Sanskrit or Persian.
-C. Dandin's Avantisundari Katha, bilingual Tamil-Sanskrit inscriptions and Pallava-Grantha court use supply the literature-and-script side of the 2024 Pallava demand; court usage must not be generalised to all writing in the region.
-D. The owner classes Urdu as Indo-Aryan, structured on Khari Boli and shaped through Persian-Hindi interaction in India; Dakkani, qaseeda, shahr ashob and ginan must be used as distinct historical labels.
-
-**Answer: A.**
-**Explanation:** Bhasa, Kalidasa, Shudraka, Bharavi and Dandin belong to the classical Sanskrit evidence bank, but each work-author pair must be verified; the 2021 and 2024 objective routes are attribution tests, not licence to guess. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Classical attribution discipline?
-
-A. The rise of Hindi and other regional literatures expanded literary publics through Bhakti, court and translation networks without causing the disappearance of Sanskrit or Persian.
-B. Bhasa, Kalidasa, Shudraka, Bharavi and Dandin belong to the classical Sanskrit evidence bank, but each work-author pair must be verified; the 2021 and 2024 objective routes are attribution tests, not licence to guess.
-C. The Sanskrit-Prakrit speech convention in Gupta-period drama marks social position on stage; it is direct textual evidence for hierarchy but cannot be universalised to every period and genre.
-D. The owner classes Urdu as Indo-Aryan, structured on Khari Boli and shaped through Persian-Hindi interaction in India; Dakkani, qaseeda, shahr ashob and ginan must be used as distinct historical labels.
-
-**Answer: B.**
-**Explanation:** Bhasa, Kalidasa, Shudraka, Bharavi and Dandin belong to the classical Sanskrit evidence bank, but each work-author pair must be verified; the 2021 and 2024 objective routes are attribution tests, not licence to guess. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Classical attribution discipline?
-
-A. The owner classes Urdu as Indo-Aryan, structured on Khari Boli and shaped through Persian-Hindi interaction in India; Dakkani, qaseeda, shahr ashob and ginan must be used as distinct historical labels.
-B. Composition, redaction, earliest surviving manuscript, critical edition and UNESCO Memory of the World inscription are different dates; the Rigveda's 2007 inscription does not date its composition.
-C. Bhasa, Kalidasa, Shudraka, Bharavi and Dandin belong to the classical Sanskrit evidence bank, but each work-author pair must be verified; the 2021 and 2024 objective routes are attribution tests, not licence to guess.
-D. The Sanskrit-Prakrit speech convention in Gupta-period drama marks social position on stage; it is direct textual evidence for hierarchy but cannot be universalised to every period and genre.
-
-**Answer: C.**
-**Explanation:** Bhasa, Kalidasa, Shudraka, Bharavi and Dandin belong to the classical Sanskrit evidence bank, but each work-author pair must be verified; the 2021 and 2024 objective routes are attribution tests, not licence to guess. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Classical attribution discipline?
-
-A. Composition, redaction, earliest surviving manuscript, critical edition and UNESCO Memory of the World inscription are different dates; the Rigveda's 2007 inscription does not date its composition.
-B. The Sanskrit-Prakrit speech convention in Gupta-period drama marks social position on stage; it is direct textual evidence for hierarchy but cannot be universalised to every period and genre.
-C. India's Memory of the World entries include religious, aesthetic, medical, administrative, Persian-chronicle and folk-performance records, so documentary heritage is not synonymous with ancient scripture.
-D. Bhasa, Kalidasa, Shudraka, Bharavi and Dandin belong to the classical Sanskrit evidence bank, but each work-author pair must be verified; the 2021 and 2024 objective routes are attribution tests, not licence to guess.
+A. The survey automatically transfers ownership of manuscripts to the state.  
+B. The survey is only a UNESCO site-management plan.  
+C. The survey makes all manuscript dating disputes disappear.  
+D. The Gyan Bharatam National Manuscript Survey launched on 16 March 2026 and follows identification, verification, metadata creation and conservation/digitisation stages.  
 
 **Answer: D.**
-**Explanation:** Bhasa, Kalidasa, Shudraka, Bharavi and Dandin belong to the classical Sanskrit evidence bank, but each work-author pair must be verified; the 2021 and 2024 objective routes are attribution tests, not licence to guess. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q49. Which statement correctly identifies Pallava literary route?
-
-A. Dandin's Avantisundari Katha, bilingual Tamil-Sanskrit inscriptions and Pallava-Grantha court use supply the literature-and-script side of the 2024 Pallava demand; court usage must not be generalised to all writing in the region.
-B. The owner classes Urdu as Indo-Aryan, structured on Khari Boli and shaped through Persian-Hindi interaction in India; Dakkani, qaseeda, shahr ashob and ginan must be used as distinct historical labels.
-C. The rise of Hindi and other regional literatures expanded literary publics through Bhakti, court and translation networks without causing the disappearance of Sanskrit or Persian.
-D. The Sanskrit-Prakrit speech convention in Gupta-period drama marks social position on stage; it is direct textual evidence for hierarchy but cannot be universalised to every period and genre.
-
-**Answer: A.**
-**Explanation:** Dandin's Avantisundari Katha, bilingual Tamil-Sanskrit inscriptions and Pallava-Grantha court use supply the literature-and-script side of the 2024 Pallava demand; court usage must not be generalised to all writing in the region. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Pallava literary route?
-
-A. The owner classes Urdu as Indo-Aryan, structured on Khari Boli and shaped through Persian-Hindi interaction in India; Dakkani, qaseeda, shahr ashob and ginan must be used as distinct historical labels.
-B. Dandin's Avantisundari Katha, bilingual Tamil-Sanskrit inscriptions and Pallava-Grantha court use supply the literature-and-script side of the 2024 Pallava demand; court usage must not be generalised to all writing in the region.
-C. Composition, redaction, earliest surviving manuscript, critical edition and UNESCO Memory of the World inscription are different dates; the Rigveda's 2007 inscription does not date its composition.
-D. The Sanskrit-Prakrit speech convention in Gupta-period drama marks social position on stage; it is direct textual evidence for hierarchy but cannot be universalised to every period and genre.
-
-**Answer: B.**
-**Explanation:** Dandin's Avantisundari Katha, bilingual Tamil-Sanskrit inscriptions and Pallava-Grantha court use supply the literature-and-script side of the 2024 Pallava demand; court usage must not be generalised to all writing in the region. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Pallava literary route?
-
-A. India's Memory of the World entries include religious, aesthetic, medical, administrative, Persian-chronicle and folk-performance records, so documentary heritage is not synonymous with ancient scripture.
-B. The Sanskrit-Prakrit speech convention in Gupta-period drama marks social position on stage; it is direct textual evidence for hierarchy but cannot be universalised to every period and genre.
-C. Dandin's Avantisundari Katha, bilingual Tamil-Sanskrit inscriptions and Pallava-Grantha court use supply the literature-and-script side of the 2024 Pallava demand; court usage must not be generalised to all writing in the region.
-D. Composition, redaction, earliest surviving manuscript, critical edition and UNESCO Memory of the World inscription are different dates; the Rigveda's 2007 inscription does not date its composition.
-
-**Answer: C.**
-**Explanation:** Dandin's Avantisundari Katha, bilingual Tamil-Sanskrit inscriptions and Pallava-Grantha court use supply the literature-and-script side of the 2024 Pallava demand; court usage must not be generalised to all writing in the region. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Pallava literary route?
-
-A. The Ministry of Culture's Gyan Bharatam National Manuscript Survey, launched 16 March 2026, uses identification, expert verification, metadata creation and conservation or digitisation as four stages without transferring ownership from custodians.
-B. Composition, redaction, earliest surviving manuscript, critical edition and UNESCO Memory of the World inscription are different dates; the Rigveda's 2007 inscription does not date its composition.
-C. India's Memory of the World entries include religious, aesthetic, medical, administrative, Persian-chronicle and folk-performance records, so documentary heritage is not synonymous with ancient scripture.
-D. Dandin's Avantisundari Katha, bilingual Tamil-Sanskrit inscriptions and Pallava-Grantha court use supply the literature-and-script side of the 2024 Pallava demand; court usage must not be generalised to all writing in the region.
-
-**Answer: D.**
-**Explanation:** Dandin's Avantisundari Katha, bilingual Tamil-Sanskrit inscriptions and Pallava-Grantha court use supply the literature-and-script side of the 2024 Pallava demand; court usage must not be generalised to all writing in the region. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Vernacular expansion?
-
-A. The rise of Hindi and other regional literatures expanded literary publics through Bhakti, court and translation networks without causing the disappearance of Sanskrit or Persian.
-B. The Sanskrit-Prakrit speech convention in Gupta-period drama marks social position on stage; it is direct textual evidence for hierarchy but cannot be universalised to every period and genre.
-C. The owner classes Urdu as Indo-Aryan, structured on Khari Boli and shaped through Persian-Hindi interaction in India; Dakkani, qaseeda, shahr ashob and ginan must be used as distinct historical labels.
-D. Composition, redaction, earliest surviving manuscript, critical edition and UNESCO Memory of the World inscription are different dates; the Rigveda's 2007 inscription does not date its composition.
-
-**Answer: A.**
-**Explanation:** The rise of Hindi and other regional literatures expanded literary publics through Bhakti, court and translation networks without causing the disappearance of Sanskrit or Persian. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Vernacular expansion?
-
-A. India's Memory of the World entries include religious, aesthetic, medical, administrative, Persian-chronicle and folk-performance records, so documentary heritage is not synonymous with ancient scripture.
-B. The rise of Hindi and other regional literatures expanded literary publics through Bhakti, court and translation networks without causing the disappearance of Sanskrit or Persian.
-C. Composition, redaction, earliest surviving manuscript, critical edition and UNESCO Memory of the World inscription are different dates; the Rigveda's 2007 inscription does not date its composition.
-D. The Sanskrit-Prakrit speech convention in Gupta-period drama marks social position on stage; it is direct textual evidence for hierarchy but cannot be universalised to every period and genre.
-
-**Answer: B.**
-**Explanation:** The rise of Hindi and other regional literatures expanded literary publics through Bhakti, court and translation networks without causing the disappearance of Sanskrit or Persian. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Vernacular expansion?
-
-A. India's Memory of the World entries include religious, aesthetic, medical, administrative, Persian-chronicle and folk-performance records, so documentary heritage is not synonymous with ancient scripture.
-B. The Ministry of Culture's Gyan Bharatam National Manuscript Survey, launched 16 March 2026, uses identification, expert verification, metadata creation and conservation or digitisation as four stages without transferring ownership from custodians.
-C. The rise of Hindi and other regional literatures expanded literary publics through Bhakti, court and translation networks without causing the disappearance of Sanskrit or Persian.
-D. Composition, redaction, earliest surviving manuscript, critical edition and UNESCO Memory of the World inscription are different dates; the Rigveda's 2007 inscription does not date its composition.
-
-**Answer: C.**
-**Explanation:** The rise of Hindi and other regional literatures expanded literary publics through Bhakti, court and translation networks without causing the disappearance of Sanskrit or Persian. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Vernacular expansion?
-
-A. The Ministry of Culture's Gyan Bharatam National Manuscript Survey, launched 16 March 2026, uses identification, expert verification, metadata creation and conservation or digitisation as four stages without transferring ownership from custodians.
-B. The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic.
-C. India's Memory of the World entries include religious, aesthetic, medical, administrative, Persian-chronicle and folk-performance records, so documentary heritage is not synonymous with ancient scripture.
-D. The rise of Hindi and other regional literatures expanded literary publics through Bhakti, court and translation networks without causing the disappearance of Sanskrit or Persian.
-
-**Answer: D.**
-**Explanation:** The rise of Hindi and other regional literatures expanded literary publics through Bhakti, court and translation networks without causing the disappearance of Sanskrit or Persian. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Urdu as Indian literary formation?
-
-A. The owner classes Urdu as Indo-Aryan, structured on Khari Boli and shaped through Persian-Hindi interaction in India; Dakkani, qaseeda, shahr ashob and ginan must be used as distinct historical labels.
-B. Composition, redaction, earliest surviving manuscript, critical edition and UNESCO Memory of the World inscription are different dates; the Rigveda's 2007 inscription does not date its composition.
-C. The Sanskrit-Prakrit speech convention in Gupta-period drama marks social position on stage; it is direct textual evidence for hierarchy but cannot be universalised to every period and genre.
-D. India's Memory of the World entries include religious, aesthetic, medical, administrative, Persian-chronicle and folk-performance records, so documentary heritage is not synonymous with ancient scripture.
-
-**Answer: A.**
-**Explanation:** The owner classes Urdu as Indo-Aryan, structured on Khari Boli and shaped through Persian-Hindi interaction in India; Dakkani, qaseeda, shahr ashob and ginan must be used as distinct historical labels. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Urdu as Indian literary formation?
-
-A. India's Memory of the World entries include religious, aesthetic, medical, administrative, Persian-chronicle and folk-performance records, so documentary heritage is not synonymous with ancient scripture.
-B. The owner classes Urdu as Indo-Aryan, structured on Khari Boli and shaped through Persian-Hindi interaction in India; Dakkani, qaseeda, shahr ashob and ginan must be used as distinct historical labels.
-C. Composition, redaction, earliest surviving manuscript, critical edition and UNESCO Memory of the World inscription are different dates; the Rigveda's 2007 inscription does not date its composition.
-D. The Ministry of Culture's Gyan Bharatam National Manuscript Survey, launched 16 March 2026, uses identification, expert verification, metadata creation and conservation or digitisation as four stages without transferring ownership from custodians.
-
-**Answer: B.**
-**Explanation:** The owner classes Urdu as Indo-Aryan, structured on Khari Boli and shaped through Persian-Hindi interaction in India; Dakkani, qaseeda, shahr ashob and ginan must be used as distinct historical labels. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Urdu as Indian literary formation?
-
-A. The Ministry of Culture's Gyan Bharatam National Manuscript Survey, launched 16 March 2026, uses identification, expert verification, metadata creation and conservation or digitisation as four stages without transferring ownership from custodians.
-B. The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic.
-C. The owner classes Urdu as Indo-Aryan, structured on Khari Boli and shaped through Persian-Hindi interaction in India; Dakkani, qaseeda, shahr ashob and ginan must be used as distinct historical labels.
-D. India's Memory of the World entries include religious, aesthetic, medical, administrative, Persian-chronicle and folk-performance records, so documentary heritage is not synonymous with ancient scripture.
-
-**Answer: C.**
-**Explanation:** The owner classes Urdu as Indo-Aryan, structured on Khari Boli and shaped through Persian-Hindi interaction in India; Dakkani, qaseeda, shahr ashob and ginan must be used as distinct historical labels. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Urdu as Indian literary formation?
-
-A. Language family, script, literary register, constitutional status, classical-language recognition and documentary-heritage recognition are separate classifications; none may be inferred from another.
-B. The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic.
-C. The Ministry of Culture's Gyan Bharatam National Manuscript Survey, launched 16 March 2026, uses identification, expert verification, metadata creation and conservation or digitisation as four stages without transferring ownership from custodians.
-D. The owner classes Urdu as Indo-Aryan, structured on Khari Boli and shaped through Persian-Hindi interaction in India; Dakkani, qaseeda, shahr ashob and ginan must be used as distinct historical labels.
-
-**Answer: D.**
-**Explanation:** The owner classes Urdu as Indo-Aryan, structured on Khari Boli and shaped through Persian-Hindi interaction in India; Dakkani, qaseeda, shahr ashob and ginan must be used as distinct historical labels. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Language as staged social marker?
-
-A. The Sanskrit-Prakrit speech convention in Gupta-period drama marks social position on stage; it is direct textual evidence for hierarchy but cannot be universalised to every period and genre.
-B. The Ministry of Culture's Gyan Bharatam National Manuscript Survey, launched 16 March 2026, uses identification, expert verification, metadata creation and conservation or digitisation as four stages without transferring ownership from custodians.
-C. Composition, redaction, earliest surviving manuscript, critical edition and UNESCO Memory of the World inscription are different dates; the Rigveda's 2007 inscription does not date its composition.
-D. India's Memory of the World entries include religious, aesthetic, medical, administrative, Persian-chronicle and folk-performance records, so documentary heritage is not synonymous with ancient scripture.
-
-**Answer: A.**
-**Explanation:** The Sanskrit-Prakrit speech convention in Gupta-period drama marks social position on stage; it is direct textual evidence for hierarchy but cannot be universalised to every period and genre. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Language as staged social marker?
-
-A. India's Memory of the World entries include religious, aesthetic, medical, administrative, Persian-chronicle and folk-performance records, so documentary heritage is not synonymous with ancient scripture.
-B. The Sanskrit-Prakrit speech convention in Gupta-period drama marks social position on stage; it is direct textual evidence for hierarchy but cannot be universalised to every period and genre.
-C. The Ministry of Culture's Gyan Bharatam National Manuscript Survey, launched 16 March 2026, uses identification, expert verification, metadata creation and conservation or digitisation as four stages without transferring ownership from custodians.
-D. The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic.
-
-**Answer: B.**
-**Explanation:** The Sanskrit-Prakrit speech convention in Gupta-period drama marks social position on stage; it is direct textual evidence for hierarchy but cannot be universalised to every period and genre. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Language as staged social marker?
-
-A. The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic.
-B. The Ministry of Culture's Gyan Bharatam National Manuscript Survey, launched 16 March 2026, uses identification, expert verification, metadata creation and conservation or digitisation as four stages without transferring ownership from custodians.
-C. The Sanskrit-Prakrit speech convention in Gupta-period drama marks social position on stage; it is direct textual evidence for hierarchy but cannot be universalised to every period and genre.
-D. Language family, script, literary register, constitutional status, classical-language recognition and documentary-heritage recognition are separate classifications; none may be inferred from another.
-
-**Answer: C.**
-**Explanation:** The Sanskrit-Prakrit speech convention in Gupta-period drama marks social position on stage; it is direct textual evidence for hierarchy but cannot be universalised to every period and genre. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Language as staged social marker?
-
-A. Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another.
-B. The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic.
-C. Language family, script, literary register, constitutional status, classical-language recognition and documentary-heritage recognition are separate classifications; none may be inferred from another.
-D. The Sanskrit-Prakrit speech convention in Gupta-period drama marks social position on stage; it is direct textual evidence for hierarchy but cannot be universalised to every period and genre.
-
-**Answer: D.**
-**Explanation:** The Sanskrit-Prakrit speech convention in Gupta-period drama marks social position on stage; it is direct textual evidence for hierarchy but cannot be universalised to every period and genre. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Text date versus recognition date?
-
-A. Composition, redaction, earliest surviving manuscript, critical edition and UNESCO Memory of the World inscription are different dates; the Rigveda's 2007 inscription does not date its composition.
-B. The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic.
-C. India's Memory of the World entries include religious, aesthetic, medical, administrative, Persian-chronicle and folk-performance records, so documentary heritage is not synonymous with ancient scripture.
-D. The Ministry of Culture's Gyan Bharatam National Manuscript Survey, launched 16 March 2026, uses identification, expert verification, metadata creation and conservation or digitisation as four stages without transferring ownership from custodians.
-
-**Answer: A.**
-**Explanation:** Composition, redaction, earliest surviving manuscript, critical edition and UNESCO Memory of the World inscription are different dates; the Rigveda's 2007 inscription does not date its composition. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Text date versus recognition date?
-
-A. Language family, script, literary register, constitutional status, classical-language recognition and documentary-heritage recognition are separate classifications; none may be inferred from another.
-B. Composition, redaction, earliest surviving manuscript, critical edition and UNESCO Memory of the World inscription are different dates; the Rigveda's 2007 inscription does not date its composition.
-C. The Ministry of Culture's Gyan Bharatam National Manuscript Survey, launched 16 March 2026, uses identification, expert verification, metadata creation and conservation or digitisation as four stages without transferring ownership from custodians.
-D. The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic.
-
-**Answer: B.**
-**Explanation:** Composition, redaction, earliest surviving manuscript, critical edition and UNESCO Memory of the World inscription are different dates; the Rigveda's 2007 inscription does not date its composition. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Text date versus recognition date?
-
-A. The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic.
-B. Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another.
-C. Composition, redaction, earliest surviving manuscript, critical edition and UNESCO Memory of the World inscription are different dates; the Rigveda's 2007 inscription does not date its composition.
-D. Language family, script, literary register, constitutional status, classical-language recognition and documentary-heritage recognition are separate classifications; none may be inferred from another.
-
-**Answer: C.**
-**Explanation:** Composition, redaction, earliest surviving manuscript, critical edition and UNESCO Memory of the World inscription are different dates; the Rigveda's 2007 inscription does not date its composition. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Text date versus recognition date?
-
-A. Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit.
-B. Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another.
-C. Language family, script, literary register, constitutional status, classical-language recognition and documentary-heritage recognition are separate classifications; none may be inferred from another.
-D. Composition, redaction, earliest surviving manuscript, critical edition and UNESCO Memory of the World inscription are different dates; the Rigveda's 2007 inscription does not date its composition.
-
-**Answer: D.**
-**Explanation:** Composition, redaction, earliest surviving manuscript, critical edition and UNESCO Memory of the World inscription are different dates; the Rigveda's 2007 inscription does not date its composition. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Documentary-heritage diversity?
-
-A. India's Memory of the World entries include religious, aesthetic, medical, administrative, Persian-chronicle and folk-performance records, so documentary heritage is not synonymous with ancient scripture.
-B. The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic.
-C. Language family, script, literary register, constitutional status, classical-language recognition and documentary-heritage recognition are separate classifications; none may be inferred from another.
-D. The Ministry of Culture's Gyan Bharatam National Manuscript Survey, launched 16 March 2026, uses identification, expert verification, metadata creation and conservation or digitisation as four stages without transferring ownership from custodians.
-
-**Answer: A.**
-**Explanation:** India's Memory of the World entries include religious, aesthetic, medical, administrative, Persian-chronicle and folk-performance records, so documentary heritage is not synonymous with ancient scripture. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Documentary-heritage diversity?
-
-A. Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another.
-B. India's Memory of the World entries include religious, aesthetic, medical, administrative, Persian-chronicle and folk-performance records, so documentary heritage is not synonymous with ancient scripture.
-C. The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic.
-D. Language family, script, literary register, constitutional status, classical-language recognition and documentary-heritage recognition are separate classifications; none may be inferred from another.
-
-**Answer: B.**
-**Explanation:** India's Memory of the World entries include religious, aesthetic, medical, administrative, Persian-chronicle and folk-performance records, so documentary heritage is not synonymous with ancient scripture. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Documentary-heritage diversity?
-
-A. Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another.
-B. Language family, script, literary register, constitutional status, classical-language recognition and documentary-heritage recognition are separate classifications; none may be inferred from another.
-C. India's Memory of the World entries include religious, aesthetic, medical, administrative, Persian-chronicle and folk-performance records, so documentary heritage is not synonymous with ancient scripture.
-D. Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit.
-
-**Answer: C.**
-**Explanation:** India's Memory of the World entries include religious, aesthetic, medical, administrative, Persian-chronicle and folk-performance records, so documentary heritage is not synonymous with ancient scripture. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Documentary-heritage diversity?
-
-A. Pali is associated with the Theravada canon, Ardhamagadhi especially with the Svetambara Jain canon, and Shauraseni and Maharashtri with major dramatic or literary uses; historical speech cannot be reduced to one neat branch chart.
-B. Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another.
-C. Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit.
-D. India's Memory of the World entries include religious, aesthetic, medical, administrative, Persian-chronicle and folk-performance records, so documentary heritage is not synonymous with ancient scripture.
-
-**Answer: D.**
-**Explanation:** India's Memory of the World entries include religious, aesthetic, medical, administrative, Persian-chronicle and folk-performance records, so documentary heritage is not synonymous with ancient scripture. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Manuscript survey and custody?
-
-A. The Ministry of Culture's Gyan Bharatam National Manuscript Survey, launched 16 March 2026, uses identification, expert verification, metadata creation and conservation or digitisation as four stages without transferring ownership from custodians.
-B. Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another.
-C. Language family, script, literary register, constitutional status, classical-language recognition and documentary-heritage recognition are separate classifications; none may be inferred from another.
-D. The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic.
-
-**Answer: A.**
-**Explanation:** The Ministry of Culture's Gyan Bharatam National Manuscript Survey, launched 16 March 2026, uses identification, expert verification, metadata creation and conservation or digitisation as four stages without transferring ownership from custodians. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Manuscript survey and custody?
-
-A. Language family, script, literary register, constitutional status, classical-language recognition and documentary-heritage recognition are separate classifications; none may be inferred from another.
-B. The Ministry of Culture's Gyan Bharatam National Manuscript Survey, launched 16 March 2026, uses identification, expert verification, metadata creation and conservation or digitisation as four stages without transferring ownership from custodians.
-C. Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit.
-D. Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another.
-
-**Answer: B.**
-**Explanation:** The Ministry of Culture's Gyan Bharatam National Manuscript Survey, launched 16 March 2026, uses identification, expert verification, metadata creation and conservation or digitisation as four stages without transferring ownership from custodians. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Manuscript survey and custody?
-
-A. Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another.
-B. Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit.
-C. The Ministry of Culture's Gyan Bharatam National Manuscript Survey, launched 16 March 2026, uses identification, expert verification, metadata creation and conservation or digitisation as four stages without transferring ownership from custodians.
-D. Pali is associated with the Theravada canon, Ardhamagadhi especially with the Svetambara Jain canon, and Shauraseni and Maharashtri with major dramatic or literary uses; historical speech cannot be reduced to one neat branch chart.
-
-**Answer: C.**
-**Explanation:** The Ministry of Culture's Gyan Bharatam National Manuscript Survey, launched 16 March 2026, uses identification, expert verification, metadata creation and conservation or digitisation as four stages without transferring ownership from custodians. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Manuscript survey and custody?
-
-A. Pali is associated with the Theravada canon, Ardhamagadhi especially with the Svetambara Jain canon, and Shauraseni and Maharashtri with major dramatic or literary uses; historical speech cannot be reduced to one neat branch chart.
-B. Panini's Ashtadhyayi systematised Sanskrit grammar, while Rudradaman I's Junagarh inscription around 150 CE is the earliest extensive datable Sanskrit inscriptional evidence in the owner; literary antiquity and epigraphic chronology are different questions.
-C. Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit.
-D. The Ministry of Culture's Gyan Bharatam National Manuscript Survey, launched 16 March 2026, uses identification, expert verification, metadata creation and conservation or digitisation as four stages without transferring ownership from custodians.
-
-**Answer: D.**
-**Explanation:** The Ministry of Culture's Gyan Bharatam National Manuscript Survey, launched 16 March 2026, uses identification, expert verification, metadata creation and conservation or digitisation as four stages without transferring ownership from custodians. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Verified language PYQ routes?
-
-A. The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic.
-B. Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another.
-C. Language family, script, literary register, constitutional status, classical-language recognition and documentary-heritage recognition are separate classifications; none may be inferred from another.
-D. Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit.
-
-**Answer: A.**
-**Explanation:** The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic. The remaining options belong to different chronology, actor or analytical categories.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Q77. Which statement correctly identifies Verified language PYQ routes?”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the cultural demand in “Q77. Which statement correctly identifies Verified language PYQ routes?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q77. Which statement correctly identifies Verified language PYQ routes? **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** A. The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** B. Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** C. Language family, script, literary register, constitutional status, classical-language recognition and documentary-heritage recognition are separate classifications; none may be inferred from another. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** The answer must resolve the cultural demand in “Q77. Which statement correctly identifies Verified language PYQ routes?”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Q77. Which statement correctly identifies Verified language PYQ routes?”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### Q78. Which chronology card should be filed under Verified language PYQ routes?
-
-A. Pali is associated with the Theravada canon, Ardhamagadhi especially with the Svetambara Jain canon, and Shauraseni and Maharashtri with major dramatic or literary uses; historical speech cannot be reduced to one neat branch chart.
-B. The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic.
-C. Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit.
-D. Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another.
-
-**Answer: B.**
-**Explanation:** The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic. The remaining options belong to different chronology, actor or analytical categories.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Q78. Which chronology card should be filed under Verified language PYQ routes?”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the cultural demand in “Q78. Which chronology card should be filed under Verified language PYQ routes?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q78. Which chronology card should be filed under Verified language PYQ routes? **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** B. The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** C. Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** D. Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** The answer must resolve the cultural demand in “Q78. Which chronology card should be filed under Verified language PYQ routes?”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Q78. Which chronology card should be filed under Verified language PYQ routes?”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### Q79. Which option preserves the source-bounded meaning of Verified language PYQ routes?
-
-A. Pali is associated with the Theravada canon, Ardhamagadhi especially with the Svetambara Jain canon, and Shauraseni and Maharashtri with major dramatic or literary uses; historical speech cannot be reduced to one neat branch chart.
-B. Panini's Ashtadhyayi systematised Sanskrit grammar, while Rudradaman I's Junagarh inscription around 150 CE is the earliest extensive datable Sanskrit inscriptional evidence in the owner; literary antiquity and epigraphic chronology are different questions.
-C. The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic.
-D. Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit.
-
-**Answer: C.**
-**Explanation:** The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic. The remaining options belong to different chronology, actor or analytical categories.
-
-**Demand decoding:** Treat “Q79. Which option preserves the source-bounded meaning of Verified language PYQ routes?” as a form, chronology, region, patron, medium and status problem. Verify every pairing independently without inventing an official key.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the cultural demand in “Q79. Which option preserves the source-bounded meaning of Verified language PYQ routes?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q79. Which option preserves the source-bounded meaning of Verified language PYQ routes? **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** C. The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** D. Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** The answer must resolve the cultural demand in “Q79. Which option preserves the source-bounded meaning of Verified language PYQ routes?”.
-
-**Executable exam-length answer / compression plan:** Fix the category and period; pair form with region, material, patron or institution; separate historical fact from later label or current recognition; eliminate the closest distractor.
-
-**Why this earns marks:** It preserves answer-text integrity and exact category mapping while keeping reasoned elimination separate from an official key.
-
-**How to improve this answer:** For “Q79. Which option preserves the source-bounded meaning of Verified language PYQ routes?”, state why the nearest distractor fails on medium, region, chronology, patronage, terminology or recognition status.
-
-### Q80. Which statement avoids a close-option trap about Verified language PYQ routes?
-
-A. Pali is associated with the Theravada canon, Ardhamagadhi especially with the Svetambara Jain canon, and Shauraseni and Maharashtri with major dramatic or literary uses; historical speech cannot be reduced to one neat branch chart.
-B. Panini's Ashtadhyayi systematised Sanskrit grammar, while Rudradaman I's Junagarh inscription around 150 CE is the earliest extensive datable Sanskrit inscriptional evidence in the owner; literary antiquity and epigraphic chronology are different questions.
-C. Ashokan edicts are mostly Prakrit in Brahmi, use Kharoshthi in the northwest, and include Greek and Aramaic at Kandahar; describing them as Sanskrit in Devanagari is false.
-D. The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic.
-
-**Answer: D.**
-**Explanation:** The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** D is correct because the keyed statement describes the Gyan Bharatam survey accurately: identification, verification, metadata and conservation/digitisation. The other options invent ownership transfer, confuse the survey with a UNESCO site plan or pretend that cataloguing erases dating disputes.
 
 ## PYQS AND ANSWER PRACTICE
 
-**Demand decoding:** Treat “Q80. Which statement avoids a close-option trap about Verified language PYQ routes?” as a form, chronology, region, patron, medium and status problem. Verify every pairing independently without inventing an official key.
+### VERIFIED OBJECTIVE / APPLICATION PYQS
 
-**Detailed examiner-grade model answer:**
+#### PYQ 1. CSE Prelims 2021 - Bhavabhuti, Hastimalla and Kshemeshvara
 
-**Introduction and thesis:** The answer must resolve the cultural demand in “Q80. Which statement avoids a close-option trap about Verified language PYQ routes?”.
+**Question:** With reference to the history of ancient India, Bhavabhuti, Hastimalla and Kshemeshvara were famous as (a) Jain monks (b) playwrights (c) temple architects (d) philosophers.
 
-**Analytical body:**
+**Answer withheld pending official UPSC key.**
 
-1. **Claim and named evidence:** Q80. Which statement avoids a close-option trap about Verified language PYQ routes? **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** C. Ashokan edicts are mostly Prakrit in Brahmi, use Kharoshthi in the northwest, and include Greek and Aramaic at Kandahar; describing them as Sanskrit in Devanagari is false. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** D. The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
+**Concept analysis:** This is an attribution trap from the drama-literature bank. Revise Bhavabhuti's dramatic corpus and remember that UPSC sometimes tests less frequently rehearsed Sanskrit/Jain dramatic names alongside better-known authors. Because the final official local key is not held in the repository, the workbook withholds the answer letter.
 
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
+#### PYQ 2. CSE Prelims 2023 - Vattakirutal in Sangam poems
 
-**Qualified conclusion:** The answer must resolve the cultural demand in “Q80. Which statement avoids a close-option trap about Verified language PYQ routes?”.
+**Question:** Which one of the following explains the practice of 'Vattakirutal' as mentioned in Sangam poems? (a) Kings employing women bodyguards (b) Learned persons assembling in royal courts to discuss religious and philosophical matters (c) Young girls keeping watch over agricultural fields and driving away birds and animals (d) A king defeated in battle committing ritual suicide by starving himself to death.
 
-**Executable exam-length answer / compression plan:** Fix the category and period; pair form with region, material, patron or institution; separate historical fact from later label or current recognition; eliminate the closest distractor.
+**Answer withheld pending official UPSC key.**
 
-**Why this earns marks:** It preserves answer-text integrity and exact category mapping while keeping reasoned elimination separate from an official key.
+**Concept analysis:** The concept tested is not generic 'Tamil custom' but a specific honour-and-defeat ritual in the Sangam cultural bank. The safest study route is to pair Vatakkiruttal with Tolkappiyam, Agam-Puram classification and the social/public field of Sangam literature. No final local-official key is available here, so the answer letter is withheld.
 
-**How to improve this answer:** For “Q80. Which statement avoids a close-option trap about Verified language PYQ routes?”, state why the nearest distractor fails on medium, region, chronology, patronage, terminology or recognition status.
+#### PYQ 3. CSE Prelims 2024 - Work attributed to Bhasa
 
-### TRANSPARENT ZERO-DIRECT-PYQ AUDIT
+**Question:** Which one of the following is a work attributed to playwright Bhasa? (a) Kavyalankara (b) Natyashastra (c) Madhyama-vyayoga (d) Mahabhashya.
 
-No direct GS-I Mains PYQ is routed solely to Topic 11. The audited objective routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa, and provisional 2026 place-value notation; the 2024 Pallava Mains demand is cross-owned through Topic 03, so no objective answer letter or fabricated direct Mains ownership is supplied.
+**Answer: C.**
 
-### OWNER PYQ LEDGER EXTRACTS
+**Concept analysis:** C is correct because the locally held official 2024 answer key marks Q63 as C. Madhyama-vyayoga belongs to the Bhasa attribution route. Kavyalankara belongs to poetics, Natyashastra to Bharata's dramaturgic tradition, and Mahabhashya to grammatical commentary.
 
-#### 7. Exact PYQ application
+#### PYQ 4. CSE Prelims 2026 - Place-value system in India
 
-✅ **2024 Q2, verbatim:** "Estimate the contribution of Pallavas of Kanchi
-for the development of art and literature of South India. (Answer in 150
-words)" (`UPSC Mains 2024 GS Paper I.txt:15-20`). ⚠️ The literature
-component of this answer should cite Kanchipuram as a centre of Sanskrit
-scholarship under Pallava patronage, referencing Dandin's *Avantisundari
-Katha* (7th-8th century Sanskrit scholar associated with the Pallava
-court, praising Mahabalipuram's artisans — cross-referenced from topic
-03) as direct textual evidence of Pallava-era literary activity alongside
-architectural patronage.
+**Question:** Consider the following statements relating to the use of the place-value system in India: (1) The earliest epigraphic use in India is found in the Mankani plates from Gujarat (AD 595-596). (2) In the ninth century, place-values become general in inscriptions all over India. (3) Place-values have been found in Sanskrit inscriptions in South-east Asia as early as the seventh century. Which of the statements given above are correct?
 
-#### 2026 PYQ Integration
+**Answer withheld pending official UPSC key.**
 
-> **Status:** 2026 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
-> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
+**Concept analysis:** This routed 2026 question tests dated numerical evidence, not slogan-history. Prepare the triad of debated manuscript chronology, early South-east Asian Sanskrit inscriptional evidence, and later Indian inscriptional milestones such as Gwalior. The repository holds only a provisional 2026 key, so no answer letter is printed.
 
-- **Year represented:** 2026
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+### VERIFIED DIRECT / APPLICATION MAINS PYQS
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2026 | Prelims GS-I | 7 | Place-value notation in Indian epigraphic and Southeast Asian inscriptions | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+#### PYQ-M1. GS-I Mains 2024 (cross-owned application) - Pallavas of Kanchi
 
-##### What this owner must now support
+**Question:** Estimate the contribution of Pallavas of Kanchi for the development of art and literature of South India. (Answer in 150 words)
 
-- Place-value notation in Indian epigraphic and Southeast Asian inscriptions
+**Model answer:** The Pallavas of Kanchi shaped South Indian culture through a linked project of monument building, script choice and literary patronage. In art, the line from Mandagapattu's experimental rock-cut phase to Mamallapuram's rathas, open-air reliefs and Shore Temple shows the movement from excavation to structural confidence. In literature, their contribution is not a vague claim of patronage alone. Kanchipuram emerged as a centre of Sanskrit learning, Dandin is linked to the Pallava court, and bilingual Tamil-Sanskrit inscriptions from the seventh century onward show a consciously layered cultural order. The Pallava court's preference for Grantha over Vatteluttu in courtly usage further indicates script intervention as part of literary history. Thus Pallava contribution lies in joining temple, text and inscription into one durable South Indian civilisational zone, though court practice should not be exaggerated into total social uniformity.
 
-> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2026 -->
+**Note:** This question is cross-owned with Topics 03 and 07. The answer here emphasises the literature-script half while keeping the art line minimally complete.
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+### ORIGINAL MAINS MODEL ANSWERS
 
-#### Recent PYQ Integration (2024-2025)
+#### Original Q1. 10 marks
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+**Question:** Distinguish language family, script, register and language status in the Indian context. Answer in about 150 words.
 
-- **Years represented:** 2024
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+**Model answer:** Indian language questions become manageable only after the main axes are separated. A language family is genealogical: Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman classify descent. A script is a writing system: Brahmi, Kharoshthi, Grantha, Sharada and Devanagari do not by themselves identify one family. A register refers to actual literary or social use - Sanskrit, Pali, Prakrit, Persian, Urdu and Tamil may function differently in ritual, court, canonical or public settings. Status is institutional: Article 343 covers the official language of the Union, the Eighth Schedule lists Scheduled languages, classical-language status is conferred by the Union government on separate criteria, and Sahitya Akademi uses its own 24-language working field. Thus the best answer begins by separating the categories and only then attaching examples; otherwise the candidate mistakes genealogy for constitutional recognition or script for speech community.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | Prelims GS-I | 63 | Work attributed to the playwright Bhasa | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+#### Original Q2. 10 marks
 
-##### What this owner must now support
+**Question:** Why must a historian distinguish composition date, manuscript date and edition date while using literary sources? Answer in about 150 words.
 
-- Work attributed to the playwright Bhasa
+**Model answer:** A literary text survives through transmission, not as a frozen original. The Vedas, epics, Sangam corpus, Charaka Samhita or Bakhshali manuscript all show that formation, copying and preservation occur at different times. A surviving manuscript may be much later than the work it preserves; the Bakhshali manuscript is the clearest example because its surviving birch-bark copy is debated in date while the mathematical material transmitted through it is older. Colophons, commentaries and scribal notes can add clues, but they do not collapse copy date into original composition. A critical edition is later still: it compares multiple manuscripts and records variants. If these distinctions are ignored, the historian converts textual transmission into false chronology. Therefore composition date, manuscript witness, discovery date and modern edition must be treated as separate historical facts.
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+#### Original Q3. 15 marks
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+**Question:** Examine the coexistence of Sanskrit, Pali, Prakrit and Apabhramsha in Indian literary history. Answer in about 250 words.
 
-#### Historical PYQ Integration (2018-2023)
+**Model answer:** Indian literary history is a field of coexistence and gradual transition rather than sharp replacement. Sanskrit, systematised through Panini's grammatical tradition, became the major codified language of elite learning, court poetry and many dramatic texts. Yet the Middle Indo-Aryan field simultaneously produced Pali and the literary Prakrits. Pali became central to the Theravada canonical world; Ardhamagadhi gained special importance in Jain textual tradition; Shauraseni and Maharashtri entered dramatic and literary usage. Nitin explicitly warns that transitions between languages and dialects were slow, which means a civilisational story built on one language replacing another is misleading. Apabhramsha then forms a bridge zone between Middle and New Indo-Aryan, eventually feeding later vernacular literary publics. The Bhakti expansion later widened Hindi and other regional-language literature without eliminating Sanskrit or Persian overnight. The best answer therefore highlights division of labour: Sanskrit for codification and courtly expression, Pali and Prakrit for canonical and public-textual roles, Apabhramsha for transition, and vernaculars for widening audiences. The needed qualification is that literary label, spoken language and social reach never map perfectly onto one another.
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+#### Original Q4. 15 marks
 
-- **Years represented:** 2021
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+**Question:** Assess Sangam literature as a historical source for early South India. Answer in about 250 words.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2021 | Prelims GS-I | 41 | Bhavabhuti Hastimalla and Kshemeshvara identification | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+**Model answer:** Sangam literature is among the richest literary sources for early South India, but it must be used with evidentiary discipline. The corpus preserved through Ettuthokai and Pattuppattu, along with Tolkappiyam and later Tamil epics, illuminates love, war, trade, ports, urban life, social ranking, landscape classification, bardic culture and rituals such as Vatakkiruttal. Its Agam-Puram distinction alone shows that the literary order already recognised different interior and public worlds. Nitin's bank also notes women poets, named rulers and the cultural role of Madurai-centred assemblies. However, R.S. Sharma's caution is indispensable: Sangam literature is powerful but bounded evidence. It was composed and compiled over a long period; the first two Sangams are partly legendary in later tradition; and the corpus does not function as a neat dynastic chronicle. Therefore the historian should use it to reconstruct social, economic and cultural life rather than to derive an uninterrupted year-by-year political history. The best answer closes with this balance: source-rich, regionally foundational, but chronologically layered and genre-conditioned.
 
-##### What this owner must now support
+#### Original Q5. 20 marks
 
-- Bhavabhuti Hastimalla and Kshemeshvara identification
+**Question:** Discuss the significance of script history and epigraphy in reconstructing India's cultural past. Answer in about 300 words.
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+**Model answer:** Script history matters because inscriptions are among the most securely dated public records of the past. Epigraphy studies inscriptions, while palaeography studies old writing. Together they allow the historian to track state communication, patronage, linguistic change, religious donation and regional power. Harappan script reminds us of the limit case: without decipherment, interpretation remains bounded. The Ashokan archive provides the opposite case - a large deciphered corpus, mostly in Prakrit and Brahmi, with Kharoshthi in the north-west and Greek-Aramaic evidence in the frontier zone. This distribution alone reveals a multilingual political field. Modern decipherment is itself part of historiography: James Prinsep's 1837 breakthrough on Mauryan Brahmi and later correlation with Piyadasi-Ashoka evidence transformed Indian history-writing. Later script histories - Grantha in the Tamil-Kerala sphere, Sharada in Kashmir, Gurmukhi in Sikh textual standardisation, Modi in Marathi administration, Nandinagari in South Indian Sanskrit manuscripts - show that scripts are shaped by use, not merely by abstract lineage. Epigraphy also disciplines chronology. Panini's grammatical antiquity and Rudradaman's Junagarh inscription answer different questions; the Chebrolu inscription anchors South Indian datable Sanskrit epigraphy; and place-value inscriptions show numerical history moving through manuscripts and inscriptions across regions. Thus script history is not decorative philology. It is a key route to dated evidence, regional variation and the material conditions of literary culture.
 
-#### 8. Exact PYQ application
+#### Original Q6. 20 marks
 
-✅ **2024 Q2 (Pallava art and literature), advanced support:** an advanced
-answer should name Dandin's *Avantisundari Katha* specifically (topic 03
-cross-reference) as direct textual evidence of Pallava-era Sanskrit
-literary activity, and may use the composition-vs-recognition distinction
-(Section 2) to note that Pallava-era texts and inscriptions require
-separate literary-historical dating from any later manuscript
-"discovery" or documentation event, avoiding the common error of treating
-a text's rediscovery date as its composition date.
+**Question:** How should India protect manuscript heritage while avoiding simplistic cultural claims? Answer in about 300 words.
 
-### ORIGINAL MAINS 1 — 10 MARKS
-
-**Question:** Distinguish language family, script, literary register and constitutional or heritage status. Answer in about 150 words.
-
-**Model thesis:** India's linguistic diversity becomes intelligible only when genealogical, graphic, social-literary and legal classifications are kept separate.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Language family, script, literary register, constitutional status, classical-language recognition and documentary-heritage recognition are separate classifications; none may be inferred from another.
-- Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another.
-- Brahmi is an ancestral script with many regional descendants, while Kharoshthi ran right-to-left and was used especially in the northwest; neither name denotes a language family.
-
-**Qualified conclusion:** India's linguistic diversity becomes intelligible only when genealogical, graphic, social-literary and legal classifications are kept separate.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish language family, script, literary register and constitutional or heritage status.…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** India's linguistic diversity becomes intelligible only when genealogical, graphic, social-literary and legal classifications are kept separate.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Language family, script, literary register, constitutional status, classical-language recognition and documentary-heritage recognition are separate classifications; none may be inferred from another. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Indo-Aryan within Indo-European, Dravidian, Austroasiatic and Tibeto-Burman are the four major family groupings used by the owner; no family is culturally more Indian than another. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Brahmi is an ancestral script with many regional descendants, while Kharoshthi ran right-to-left and was used especially in the northwest; neither name denotes a language family. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** India's linguistic diversity becomes intelligible only when genealogical, graphic, social-literary and legal classifications are kept separate.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence definition and thesis; organise three named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Distinguish language family, script, literary register and constitutional or heritage status.…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
-**Question:** Explain why Sangam literature is powerful but bounded historical evidence. Answer in about 150 words.
-
-**Model thesis:** The corpus illuminates social and material worlds through layered poems, but compilation history prevents its use as a continuous dynastic chronicle.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Vedas, Brahmanas, Aranyakas, early Upanishads, epics and Puranas have layered oral, compositional, redactional and manuscript histories and should not be assigned one publication date.
-- The Sangam corpus, compiled around CE 300-600 with older layers, illuminates towns, trade, crafts, war, ranking and hero-stone culture but is not a connected dynastic chronicle.
-
-**Qualified conclusion:** The corpus illuminates social and material worlds through layered poems, but compilation history prevents its use as a continuous dynastic chronicle.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why Sangam literature is powerful but bounded historical evidence. Answer in about…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The corpus illuminates social and material worlds through layered poems, but compilation history prevents its use as a continuous dynastic chronicle.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Vedas, Brahmanas, Aranyakas, early Upanishads, epics and Puranas have layered oral, compositional, redactional and manuscript histories and should not be assigned one publication date. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** The Sangam corpus, compiled around CE 300-600 with older layers, illuminates towns, trade, crafts, war, ranking and hero-stone culture but is not a connected dynastic chronicle. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** The corpus illuminates social and material worlds through layered poems, but compilation history prevents its use as a continuous dynastic chronicle.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence definition and thesis; organise three named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Explain why Sangam literature is powerful but bounded historical evidence. Answer in about…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Examine the coexistence of Sanskrit, Prakrit and regional literary languages. Answer in about 250 words.
-
-**Model thesis:** Indian literary history is a division of labour among overlapping registers and publics rather than a succession in which one language eliminates another.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit.
-- Pali is associated with the Theravada canon, Ardhamagadhi especially with the Svetambara Jain canon, and Shauraseni and Maharashtri with major dramatic or literary uses; historical speech cannot be reduced to one neat branch chart.
-- Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement.
-- The rise of Hindi and other regional literatures expanded literary publics through Bhakti, court and translation networks without causing the disappearance of Sanskrit or Persian.
-- The owner classes Urdu as Indo-Aryan, structured on Khari Boli and shaped through Persian-Hindi interaction in India; Dakkani, qaseeda, shahr ashob and ginan must be used as distinct historical labels.
-
-**Qualified conclusion:** Indian literary history is a division of labour among overlapping registers and publics rather than a succession in which one language eliminates another.
-
-**Demand decoding:** The directive **examine** requires a direct position on “Examine the coexistence of Sanskrit, Prakrit and regional literary languages. Answer in about…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Indian literary history is a division of labour among overlapping registers and publics rather than a succession in which one language eliminates another.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Sanskrit and the Prakrit registers performed different literary and social functions and coexisted; Prakrit is not merely a later or corrupted Sanskrit. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Pali is associated with the Theravada canon, Ardhamagadhi especially with the Svetambara Jain canon, and Shauraseni and Maharashtri with major dramatic or literary uses; historical speech cannot be reduced to one neat branch chart. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** The rise of Hindi and other regional literatures expanded literary publics through Bhakti, court and translation networks without causing the disappearance of Sanskrit or Persian. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-5. **Claim and named evidence:** The owner classes Urdu as Indo-Aryan, structured on Khari Boli and shaped through Persian-Hindi interaction in India; Dakkani, qaseeda, shahr ashob and ginan must be used as distinct historical labels. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Indian literary history is a division of labour among overlapping registers and publics rather than a succession in which one language eliminates another.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Examine the coexistence of Sanskrit, Prakrit and regional literary languages. Answer in about…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Assess Pallava contributions to literature and script culture within the wider art-and-literature demand. Answer in about 250 words.
-
-**Model thesis:** Named textual, bilingual epigraphic and court-script evidence makes Pallava literary patronage demonstrable, while the court-use limit prevents overgeneralisation.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Panini's Ashtadhyayi systematised Sanskrit grammar, while Rudradaman I's Junagarh inscription around 150 CE is the earliest extensive datable Sanskrit inscriptional evidence in the owner; literary antiquity and epigraphic chronology are different questions.
-- Dandin's Avantisundari Katha, bilingual Tamil-Sanskrit inscriptions and Pallava-Grantha court use supply the literature-and-script side of the 2024 Pallava demand; court usage must not be generalised to all writing in the region.
-
-**Qualified conclusion:** Named textual, bilingual epigraphic and court-script evidence makes Pallava literary patronage demonstrable, while the court-use limit prevents overgeneralisation.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess Pallava contributions to literature and script culture within the wider art-and-…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Named textual, bilingual epigraphic and court-script evidence makes Pallava literary patronage demonstrable, while the court-use limit prevents overgeneralisation.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Panini's Ashtadhyayi systematised Sanskrit grammar, while Rudradaman I's Junagarh inscription around 150 CE is the earliest extensive datable Sanskrit inscriptional evidence in the owner; literary antiquity and epigraphic chronology are different questions. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Dandin's Avantisundari Katha, bilingual Tamil-Sanskrit inscriptions and Pallava-Grantha court use supply the literature-and-script side of the 2024 Pallava demand; court usage must not be generalised to all writing in the region. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Named textual, bilingual epigraphic and court-script evidence makes Pallava literary patronage demonstrable, while the court-use limit prevents overgeneralisation.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Assess Pallava contributions to literature and script culture within the wider art-and-…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Discuss manuscripts as documentary heritage and the institutional tasks required for their safeguarding. Answer in about 300 words.
-
-**Model thesis:** Documentary value depends on disciplined dating, diverse custody, cataloguing, conservation, digitisation and access rather than prestige inscription alone.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Composition, redaction, earliest surviving manuscript, critical edition and UNESCO Memory of the World inscription are different dates; the Rigveda's 2007 inscription does not date its composition.
-- India's Memory of the World entries include religious, aesthetic, medical, administrative, Persian-chronicle and folk-performance records, so documentary heritage is not synonymous with ancient scripture.
-- The Ministry of Culture's Gyan Bharatam National Manuscript Survey, launched 16 March 2026, uses identification, expert verification, metadata creation and conservation or digitisation as four stages without transferring ownership from custodians.
-
-**Qualified conclusion:** Documentary value depends on disciplined dating, diverse custody, cataloguing, conservation, digitisation and access rather than prestige inscription alone.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss manuscripts as documentary heritage and the institutional tasks required for their…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Documentary value depends on disciplined dating, diverse custody, cataloguing, conservation, digitisation and access rather than prestige inscription alone.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Composition, redaction, earliest surviving manuscript, critical edition and UNESCO Memory of the World inscription are different dates; the Rigveda's 2007 inscription does not date its composition. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** India's Memory of the World entries include religious, aesthetic, medical, administrative, Persian-chronicle and folk-performance records, so documentary heritage is not synonymous with ancient scripture. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** The Ministry of Culture's Gyan Bharatam National Manuscript Survey, launched 16 March 2026, uses identification, expert verification, metadata creation and conservation or digitisation as four stages without transferring ownership from custodians. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Documentary value depends on disciplined dating, diverse custody, cataloguing, conservation, digitisation and access rather than prestige inscription alone.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence definition and thesis; organise six to eight named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Discuss manuscripts as documentary heritage and the institutional tasks required for their…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Trace how language, script and literature can be used as evidence of social and political change in India. Answer in about 300 words.
-
-**Model thesis:** Scripts and registers record authority, hierarchy and changing publics, but every inference must remain tied to a dated corpus, inscription or performance convention.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Ashokan edicts are mostly Prakrit in Brahmi, use Kharoshthi in the northwest, and include Greek and Aramaic at Kandahar; describing them as Sanskrit in Devanagari is false.
-- Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement.
-- Buddhist literature spans Pali, Prakrits, Buddhist Hybrid Sanskrit and Sanskrit, while Jain literature spans Ardhamagadhi and other Prakrits with later Sanskrit, Apabhramsha and regional-language production.
-- Bhasa, Kalidasa, Shudraka, Bharavi and Dandin belong to the classical Sanskrit evidence bank, but each work-author pair must be verified; the 2021 and 2024 objective routes are attribution tests, not licence to guess.
-- The Sanskrit-Prakrit speech convention in Gupta-period drama marks social position on stage; it is direct textual evidence for hierarchy but cannot be universalised to every period and genre.
-- The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic.
-
-**Qualified conclusion:** Scripts and registers record authority, hierarchy and changing publics, but every inference must remain tied to a dated corpus, inscription or performance convention.
-
-**Demand decoding:** The directive **trace** requires a direct position on “Trace how language, script and literature can be used as evidence of social and political…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Scripts and registers record authority, hierarchy and changing publics, but every inference must remain tied to a dated corpus, inscription or performance convention.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Ashokan edicts are mostly Prakrit in Brahmi, use Kharoshthi in the northwest, and include Greek and Aramaic at Kandahar; describing them as Sanskrit in Devanagari is false. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Kushana rulers used Greek, Kharoshthi and Brahmi scripts with Greek, Prakrit and Sanskritised registers, demonstrating multilingual coexistence rather than linear replacement. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Buddhist literature spans Pali, Prakrits, Buddhist Hybrid Sanskrit and Sanskrit, while Jain literature spans Ardhamagadhi and other Prakrits with later Sanskrit, Apabhramsha and regional-language production. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** Bhasa, Kalidasa, Shudraka, Bharavi and Dandin belong to the classical Sanskrit evidence bank, but each work-author pair must be verified; the 2021 and 2024 objective routes are attribution tests, not licence to guess. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-5. **Claim and named evidence:** The Sanskrit-Prakrit speech convention in Gupta-period drama marks social position on stage; it is direct textual evidence for hierarchy but cannot be universalised to every period and genre. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-6. **Claim and named evidence:** The audited routes are 2021 Bhavabhuti-Hastimalla-Kshemeshvara, 2024 Bhasa and provisional 2026 place-value notation objective demands; no direct GS-I Mains PYQ belongs solely to this topic. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Scripts and registers record authority, hierarchy and changing publics, but every inference must remain tied to a dated corpus, inscription or performance convention.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence definition and thesis; organise six to eight named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Trace how language, script and literature can be used as evidence of social and political…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
+**Model answer:** Manuscript protection requires both civilisational commitment and historical caution. The first task is material: manuscripts on palm leaf, birch bark, paper or mixed media deteriorate through heat, insects, fungus, water, fire and handling. Upinder's preservation notes - fumigation, cleaning, repair, oiling, restringing and careful storage - show that conservation begins with the object. The second task is documentary: cataloguing, metadata, script identification, language identification, colophon reading and digitisation convert a private or fragile object into usable historical evidence. The third task is intellectual: critical editions and comparative study must distinguish the age of a surviving manuscript from the age of the work it preserves. This is crucial in cases such as the Bakhshali manuscript or layered medical texts. The fourth task is institutional. The Ministry of Culture's Gyan Bharatam mission and the 16 March 2026 National Manuscript Survey use a four-stage route of identification, physical verification, detailed metadata and conservation/digitisation, while explicitly stating that reporting manuscripts does not transfer ownership. Finally, cultural claims must remain disciplined. Not every old manuscript proves one timeless national essence; some are religious, some medical, some mathematical, some administrative, some multilingual. The strongest answer therefore combines conservation policy with source criticism and treats manuscript heritage as plural, fragile and historically layered rather than as a slogan.

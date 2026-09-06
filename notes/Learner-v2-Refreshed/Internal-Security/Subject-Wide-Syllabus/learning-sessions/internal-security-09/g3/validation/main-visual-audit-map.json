@@ -1,0 +1,1779 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-09\\g3\\internal-security-09_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-09\\g3\\internal-security-09_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "internal-security-09",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Social Media, Encrypted Messaging and Information Warfare - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 28,
+      "markdown_body_line_end": 39,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 447.89
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-09\\g3\\assets\\internal-security-09_Teaching-Navigation_2026-09-04.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 587.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 279.956
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 79,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A social-media platform enables users to create, share and amplify content, while an intermediary's legal duties arise from the IT Act and rules; platform design, user speech and State restriction are separate analytical layers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 94,
+      "markdown_body_line_end": 101,
+      "heading": "VISUAL FIRST",
+      "preview": "SOCIAL-MEDIA PLATFORMS INTERMEDIARIES AND DUAL USE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 476.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 138,
+      "markdown_body_line_end": 155,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - SOCIAL-MEDIA PLATFORMS INTERMEDIARIES AND DUAL USE",
+      "preview": "START / CONCEPT: FOUNDATION — Social-media platforms intermediaries and dual use",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 268
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 166,
+      "markdown_body_line_end": 166,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "End-to-end encryption is designed so message content is readable at the communicating endpoints rather than by the service in transit; it protects legitimate privacy and security while complicating some lawful investigations.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 331.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 265.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 181,
+      "markdown_body_line_end": 185,
+      "heading": "VISUAL FIRST",
+      "preview": "END-TO-END ENCRYPTION AND ANONYMITY DISTINCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 103
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 221,
+      "markdown_body_line_end": 238,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - END-TO-END ENCRYPTION AND ANONYMITY DISTINCTION",
+      "preview": "START / CONCEPT: FOUNDATION — End-to-end encryption and anonymity distinction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 254
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 324.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 83.091
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 249,
+      "markdown_body_line_end": 249,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Rule 4(2) first-originator lawful-access debate as a sequence: identify Encryption-anonymity boundary, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 264,
+      "markdown_body_line_end": 268,
+      "heading": "VISUAL FIRST",
+      "preview": "RULE 4(2) FIRST-ORIGINATOR LAWFUL-ACCESS DEBATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 343.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 304,
+      "markdown_body_line_end": 321,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - RULE 4(2) FIRST-ORIGINATOR LAWFUL-ACCESS DEBATE",
+      "preview": "START / CONCEPT: FOUNDATION — Rule 4(2) first-originator lawful-access debate",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 268
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 422.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 332,
+      "markdown_body_line_end": 332,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Misinformation disinformation and malinformation as a sequence: identify Lawful-access debate, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 268.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 187.424
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 347,
+      "markdown_body_line_end": 351,
+      "heading": "VISUAL FIRST",
+      "preview": "MISINFORMATION DISINFORMATION AND MALINFORMATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 692.691
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 387,
+      "markdown_body_line_end": 404,
+      "heading": "CLOSING RECALL FLOW - CORE - MISINFORMATION DISINFORMATION AND MALINFORMATION",
+      "preview": "START / CONCEPT: CORE — Misinformation disinformation and malinformation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 260
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 266.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 45.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 415,
+      "markdown_body_line_end": 415,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Propaganda influence operations and information warfare as a sequence: identify Misinformation, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 430,
+      "markdown_body_line_end": 434,
+      "heading": "VISUAL FIRST",
+      "preview": "PROPAGANDA INFLUENCE OPERATIONS AND INFORMATION WARFARE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 103
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 470,
+      "markdown_body_line_end": 487,
+      "heading": "CLOSING RECALL FLOW - CORE - PROPAGANDA INFLUENCE OPERATIONS AND INFORMATION WARFARE",
+      "preview": "START / CONCEPT: CORE — Propaganda influence operations and information warfare",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 261
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 650.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 429.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 498,
+      "markdown_body_line_end": 498,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Information-operation actor-content-audience chain as a sequence: identify Disinformation, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 275.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 208.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 513,
+      "markdown_body_line_end": 520,
+      "heading": "VISUAL FIRST",
+      "preview": "INFORMATION-OPERATION ACTOR-CONTENT-AUDIENCE CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 101
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 557,
+      "markdown_body_line_end": 574,
+      "heading": "CLOSING RECALL FLOW - CORE - INFORMATION-OPERATION ACTOR-CONTENT-AUDIENCE CHAIN",
+      "preview": "START / CONCEPT: CORE — Information-operation actor-content-audience chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 256
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 262.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 585,
+      "markdown_body_line_end": 585,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Deepfakes provenance and evidence status as a sequence: identify Propaganda-influence-warfare ladder, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 600,
+      "markdown_body_line_end": 604,
+      "heading": "VISUAL FIRST",
+      "preview": "DEEPFAKES PROVENANCE AND EVIDENCE STATUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 640,
+      "markdown_body_line_end": 657,
+      "heading": "CLOSING RECALL FLOW - CORE - DEEPFAKES PROVENANCE AND EVIDENCE STATUS",
+      "preview": "START / CONCEPT: CORE — Deepfakes provenance and evidence status",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 267
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 442.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 668,
+      "markdown_body_line_end": 668,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Attribution confidence and foreign-operation claims as a sequence: identify Information-operation chain, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 288.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 207.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 683,
+      "markdown_body_line_end": 687,
+      "heading": "VISUAL FIRST",
+      "preview": "ATTRIBUTION CONFIDENCE AND FOREIGN-OPERATION CLAIMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 116
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 723,
+      "markdown_body_line_end": 740,
+      "heading": "CLOSING RECALL FLOW - CORE - ATTRIBUTION CONFIDENCE AND FOREIGN-OPERATION CLAIMS",
+      "preview": "START / CONCEPT: CORE — Attribution confidence and foreign-operation claims",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 270
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 324.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 83.091
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 751,
+      "markdown_body_line_end": 751,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Intermediary due diligence officers and safe harbour as a sequence: identify Deepfake boundary, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 766,
+      "markdown_body_line_end": 770,
+      "heading": "VISUAL FIRST",
+      "preview": "INTERMEDIARY DUE DILIGENCE OFFICERS AND SAFE HARBOUR",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 106
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 806,
+      "markdown_body_line_end": 823,
+      "heading": "CLOSING RECALL FLOW - CORE - INTERMEDIARY DUE DILIGENCE OFFICERS AND SAFE HARBOUR",
+      "preview": "START / CONCEPT: CORE — Intermediary due diligence officers and safe harbour",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 261
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 442.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 834,
+      "markdown_body_line_end": 834,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Section 69A blocking and procedural limits as a sequence: identify Attribution ladder, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 302.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 235.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 849,
+      "markdown_body_line_end": 853,
+      "heading": "VISUAL FIRST",
+      "preview": "SECTION 69A BLOCKING AND PROCEDURAL LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 889,
+      "markdown_body_line_end": 906,
+      "heading": "CLOSING RECALL FLOW - CORE - SECTION 69A BLOCKING AND PROCEDURAL LIMITS",
+      "preview": "START / CONCEPT: CORE — Section 69A blocking and procedural limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 252
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 137.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 917,
+      "markdown_body_line_end": 917,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Telecommunications suspension and Anuradha Bhasin as a sequence: identify Intermediary-duties map, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 932,
+      "markdown_body_line_end": 939,
+      "heading": "VISUAL FIRST",
+      "preview": "TELECOMMUNICATIONS SUSPENSION AND ANURADHA BHASIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 101
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 370.424
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 289.424
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 976,
+      "markdown_body_line_end": 993,
+      "heading": "CLOSING RECALL FLOW - CORE - TELECOMMUNICATIONS SUSPENSION AND ANURADHA BHASIN",
+      "preview": "START / CONCEPT: CORE — Telecommunications suspension and Anuradha Bhasin",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 264
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 531.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 280.091
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1004,
+      "markdown_body_line_end": 1004,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Section 66A and Shreya Singhal correction as a sequence: identify Network-restriction boundary, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1019,
+      "markdown_body_line_end": 1023,
+      "heading": "VISUAL FIRST",
+      "preview": "SECTION 66A AND SHREYA SINGHAL CORRECTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 122
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 496.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1059,
+      "markdown_body_line_end": 1076,
+      "heading": "CLOSING RECALL FLOW - CORE - SECTION 66A AND SHREYA SINGHAL CORRECTION",
+      "preview": "START / CONCEPT: CORE — Section 66A and Shreya Singhal correction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 261
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1087,
+      "markdown_body_line_end": 1087,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read CERT-In I4C State police and content-governance firewall as a sequence: identify Section 66A status, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 321.424
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1102,
+      "markdown_body_line_end": 1106,
+      "heading": "VISUAL FIRST",
+      "preview": "CERT-IN I4C STATE POLICE AND CONTENT-GOVERNANCE FIREWALL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1142,
+      "markdown_body_line_end": 1159,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - CERT-IN I4C STATE POLICE AND CONTENT-GOVERNANCE FIREWALL",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — CERT-In I4C State police and content-governance firewall",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 266
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 321.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 100.091
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1170,
+      "markdown_body_line_end": 1170,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Extraterritorial cooperation and platform jurisdiction as a sequence: identify Cyber-content firewall, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1185,
+      "markdown_body_line_end": 1192,
+      "heading": "VISUAL FIRST",
+      "preview": "EXTRATERRITORIAL COOPERATION AND PLATFORM JURISDICTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 103
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 370.424
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 289.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1229,
+      "markdown_body_line_end": 1246,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - EXTRATERRITORIAL COOPERATION AND PLATFORM JURISDICTION",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Extraterritorial cooperation and platform jurisdiction",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 277
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 503.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 252.891
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1257,
+      "markdown_body_line_end": 1257,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Rights-conscious information resilience as a sequence: identify Rights-proportionality test, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 98.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        30,
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1272,
+      "markdown_body_line_end": 1279,
+      "heading": "VISUAL FIRST",
+      "preview": "RIGHTS-CONSCIOUS INFORMATION RESILIENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 476.824
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1315,
+      "markdown_body_line_end": 1329,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Internal Security | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III. **Core area:** Social media's dual character (positive/negative use); encrypted-messaging challenges and the Rule 4(2) traceability question; hybrid war",
+      "metadata": {
+        "line_count": 15
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 572.624
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1333,
+      "markdown_body_line_end": 1364,
+      "heading": "1. Visual foundation",
+      "preview": "SOCIAL MEDIA'S DUAL CHARACTER",
+      "metadata": {
+        "language": "text",
+        "line_count": 30,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 550.624
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 239.624
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1374,
+      "markdown_body_line_end": 1382,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 278.29
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1592,
+      "markdown_body_line_end": 1594,
+      "heading": "12. Core answer architecture - information operations, encryption and proportionate remedies",
+      "preview": "**Core firewall:** This Core section independently answers the 2024 social-media/encrypted-messaging demand. Advanced material is optional elaboration, not required paper content.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 154.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 87.624
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1656,
+      "markdown_body_line_end": 1661,
+      "heading": "Claim -> evidence -> analysis -> qualification bank",
+      "preview": "Claim | Named evidence/example | What it proves | Qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Named evidence/example",
+          "What it proves",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 565.89
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1686,
+      "markdown_body_line_end": 1703,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - RIGHTS-CONSCIOUS INFORMATION RESILIENCE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Rights-conscious information resilience",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 649
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 330.89
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 39.89
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2888,
+      "markdown_body_line_end": 2901,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Internal Security | **Tier:** Advanced | **GS Paper:** GS-III. **Core area:** The encryption-versus-lawful-access design problem; platform-responsibility vs. state-censorship boundary; hybrid warfare as a state-capacity multipl",
+      "metadata": {
+        "line_count": 14
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 466.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 322.224
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2918,
+      "markdown_body_line_end": 2925,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 153.89
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2929,
+      "markdown_body_line_end": 2963,
+      "heading": "3. Causal model",
+      "preview": "TECHNOLOGICAL ENABLER",
+      "metadata": {
+        "language": "text",
+        "line_count": 33,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 446.291
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3211,
+      "markdown_body_line_end": 3220,
+      "heading": "Social Media, Encrypted Messaging and Information Warfare: DEEPFAKES, INFLUENCE OPERATIONS AND THREE CONSERVATIVE PYQ SPINES",
+      "preview": "SEPARATE USER PLATFORM INTERMEDIARY AND STATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 771.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 680.291
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3230,
+      "markdown_body_line_end": 3236,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Platform-actor map",
+      "preview": "USER -> CREATES / SHARES CONTENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 546.691
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 484.691
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3240,
+      "markdown_body_line_end": 3245,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Dual-use communication balance",
+      "preview": "GAIN -> PARTICIPATION / AWARENESS / EMERGENCY COMMUNICATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 462.691
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 410.891
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3249,
+      "markdown_body_line_end": 3255,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Encryption lawful-access matrix",
+      "preview": "E2EE -> CONTENT READABLE AT ENDPOINTS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 388.891
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 326.891
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3259,
+      "markdown_body_line_end": 3264,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Information-disorder taxonomy",
+      "preview": "MISINFORMATION -> FALSE / NO NECESSARY DECEPTIVE INTENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 304.891
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 253.091
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3268,
+      "markdown_body_line_end": 3274,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Influence-label ladder",
+      "preview": "PERSUASIVE CONTENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3278,
+      "markdown_body_line_end": 3284,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Information-operation chain",
+      "preview": "ACTOR -> NARRATIVE / CONTENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3288,
+      "markdown_body_line_end": 3294,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Deepfake evidence ladder",
+      "preview": "SYNTHETIC / MANIPULATED MEDIA DETECTED",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3298,
+      "markdown_body_line_end": 3304,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Intermediary law map",
+      "preview": "RULE 3 -> DUE DILIGENCE / GRIEVANCE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3308,
+      "markdown_body_line_end": 3314,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Restriction proportionality rail",
+      "preview": "LEGAL AUTHORITY + LEGITIMATE AIM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 389.291
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3318,
+      "markdown_body_line_end": 3325,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Incident-crime-operation firewall",
+      "preview": "CYBER INCIDENT -> CERT-In / ENTITY RESPONSE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 367.291
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 295.091
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3329,
+      "markdown_body_line_end": 3337,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Cross-border attribution ladder",
+      "preview": "CONTENT / TECHNICAL INDICATOR",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3341,
+      "markdown_body_line_end": 3349,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: PYQ and resilience rail",
+      "preview": "2024 GS-III -> MULTI-LEVEL MEASURES + OTHER REMEDIES",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    }
+  ]
+}

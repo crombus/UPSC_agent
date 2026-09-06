@@ -1,0 +1,1751 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-05\\g3\\internal-security-05_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-05\\g3\\internal-security-05_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "internal-security-05",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Jammu & Kashmir and Cross-Border Terrorism - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 28,
+      "markdown_body_line_end": 39,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 465.89
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-05\\g3\\assets\\internal-security-05_Teaching-Navigation_2026-09-04.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 675.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 368.156
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 79,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Accession LoC and constitutional scope as a sequence: identify Accession anchor, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 180.756
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 114.088
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 94,
+      "markdown_body_line_end": 101,
+      "heading": "VISUAL FIRST",
+      "preview": "ACCESSION LOC AND CONSTITUTIONAL SCOPE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 696.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 615.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 138,
+      "markdown_body_line_end": 155,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - ACCESSION LOC AND CONSTITUTIONAL SCOPE",
+      "preview": "START / CONCEPT: FOUNDATION — Accession LoC and constitutional scope",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 246
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 166,
+      "markdown_body_line_end": 166,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Proxy war actors means and objectives as a sequence: identify Proxy-war mechanism, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 335.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 181,
+      "markdown_body_line_end": 185,
+      "heading": "VISUAL FIRST",
+      "preview": "PROXY WAR ACTORS MEANS AND OBJECTIVES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 221,
+      "markdown_body_line_end": 238,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - PROXY WAR ACTORS MEANS AND OBJECTIVES",
+      "preview": "START / CONCEPT: FOUNDATION — Proxy war actors means and objectives",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 248
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 127.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 249,
+      "markdown_body_line_end": 249,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Attribution gradient and evidence status as a sequence: identify Attribution gradient, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 264,
+      "markdown_body_line_end": 268,
+      "heading": "VISUAL FIRST",
+      "preview": "ATTRIBUTION GRADIENT AND EVIDENCE STATUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 362.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 304,
+      "markdown_body_line_end": 321,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - ATTRIBUTION GRADIENT AND EVIDENCE STATUS",
+      "preview": "START / CONCEPT: FOUNDATION — Attribution gradient and evidence status",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 252
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 499.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 332,
+      "markdown_body_line_end": 332,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The November 2003 LoC ceasefire understanding was reaffirmed by the Indian and Pakistani DGMOs on 25 February 2021; it is a military-to-military arrangement, not a treaty or political settlement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 345.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 279.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 347,
+      "markdown_body_line_end": 351,
+      "heading": "VISUAL FIRST",
+      "preview": "CEASEFIRE UNDERSTANDING AND SEPARATE METRICS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 387,
+      "markdown_body_line_end": 404,
+      "heading": "CLOSING RECALL FLOW - CORE - CEASEFIRE UNDERSTANDING AND SEPARATE METRICS",
+      "preview": "START / CONCEPT: CORE — Ceasefire understanding and separate metrics",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 252
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 324.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 83.091
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 415,
+      "markdown_body_line_end": 415,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Infiltration finance information and facilitation chain as a sequence: identify Separate security metrics, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next sta",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 430,
+      "markdown_body_line_end": 434,
+      "heading": "VISUAL FIRST",
+      "preview": "INFILTRATION FINANCE INFORMATION AND FACILITATION CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 105
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 470,
+      "markdown_body_line_end": 487,
+      "heading": "CLOSING RECALL FLOW - CORE - INFILTRATION FINANCE INFORMATION AND FACILITATION CHAIN",
+      "preview": "START / CONCEPT: CORE — Infiltration finance information and facilitation chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 272
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 442.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 498,
+      "markdown_body_line_end": 498,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "An over-ground worker is an alleged non-combatant facilitator whose role must be established through admissible evidence; the label cannot lawfully substitute for proof.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 288.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 221.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 513,
+      "markdown_body_line_end": 520,
+      "heading": "VISUAL FIRST",
+      "preview": "OVER-GROUND WORKERS DEFINITION AND FUNCTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 120
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 557,
+      "markdown_body_line_end": 574,
+      "heading": "CLOSING RECALL FLOW - CORE - OVER-GROUND WORKERS DEFINITION AND FUNCTIONS",
+      "preview": "START / CONCEPT: CORE — Over-ground workers definition and functions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 253
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 585,
+      "markdown_body_line_end": 585,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Evidence-led OGW response and rights safeguard as a sequence: identify OGW response chain, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 382.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 301.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 600,
+      "markdown_body_line_end": 604,
+      "heading": "VISUAL FIRST",
+      "preview": "EVIDENCE-LED OGW RESPONSE AND RIGHTS SAFEGUARD",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 112
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 640,
+      "markdown_body_line_end": 657,
+      "heading": "CLOSING RECALL FLOW - CORE - EVIDENCE-LED OGW RESPONSE AND RIGHTS SAFEGUARD",
+      "preview": "START / CONCEPT: CORE — Evidence-led OGW response and rights safeguard",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 256
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 324.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 93.091
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 668,
+      "markdown_body_line_end": 668,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Reorganisation structure Qualified use: Explain administrative command effects without claiming constitutional adjudication.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 683,
+      "markdown_body_line_end": 687,
+      "heading": "VISUAL FIRST",
+      "preview": "2019 REORGANISATION OPERATIONAL CONSEQUENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 113
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 347.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 723,
+      "markdown_body_line_end": 740,
+      "heading": "CLOSING RECALL FLOW - CORE - 2019 REORGANISATION OPERATIONAL CONSEQUENCE",
+      "preview": "START / CONCEPT: CORE — 2019 reorganisation operational consequence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 252
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 432.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 751,
+      "markdown_body_line_end": 751,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Under the 2019 Act, public order and police are outside the J&K Assembly's legislative competence, making the operational chain Lieutenant-Governor and Union centred rather than an ordinary Centre-State chain.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 264.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 197.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 766,
+      "markdown_body_line_end": 770,
+      "heading": "VISUAL FIRST",
+      "preview": "POLICE PUBLIC ORDER AND LIEUTENANT-GOVERNOR CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 721.091
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 806,
+      "markdown_body_line_end": 823,
+      "heading": "CLOSING RECALL FLOW - CORE - POLICE PUBLIC ORDER AND LIEUTENANT-GOVERNOR CHAIN",
+      "preview": "START / CONCEPT: CORE — Police public order and Lieutenant-Governor chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 265
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 308.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 67.891
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 834,
+      "markdown_body_line_end": 834,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read J&K AFSPA and legal-instrument distinctions as a sequence: identify Constitutional-domain firewall, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 849,
+      "markdown_body_line_end": 853,
+      "heading": "VISUAL FIRST",
+      "preview": "J&K AFSPA AND LEGAL-INSTRUMENT DISTINCTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 114
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 347.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 889,
+      "markdown_body_line_end": 906,
+      "heading": "CLOSING RECALL FLOW - CORE - J&K AFSPA AND LEGAL-INSTRUMENT DISTINCTIONS",
+      "preview": "START / CONCEPT: CORE — J&K AFSPA and legal-instrument distinctions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 265
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 432.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 917,
+      "markdown_body_line_end": 917,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: J&K AFSPA distinction - Village Defence Guards boundary Qualified use: Balance local warning capacity with supervision and accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 278.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 211.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 932,
+      "markdown_body_line_end": 939,
+      "heading": "VISUAL FIRST",
+      "preview": "VILLAGE DEFENCE GUARDS AND ACCOUNTABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 102
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 976,
+      "markdown_body_line_end": 993,
+      "heading": "CLOSING RECALL FLOW - CORE - VILLAGE DEFENCE GUARDS AND ACCOUNTABILITY",
+      "preview": "START / CONCEPT: CORE — Village Defence Guards and accountability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 247
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1004,
+      "markdown_body_line_end": 1004,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Winning hearts and minds is an operational legitimacy strategy combining civilian protection, proportionate force, participation, grievance redress, service and livelihood delivery, rehabilitation and credible accountability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 378.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 311.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1019,
+      "markdown_body_line_end": 1023,
+      "heading": "VISUAL FIRST",
+      "preview": "HEARTS AND MINDS AS OPERATIONAL LEGITIMACY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 101
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1059,
+      "markdown_body_line_end": 1076,
+      "heading": "CLOSING RECALL FLOW - CORE - HEARTS AND MINDS AS OPERATIONAL LEGITIMACY",
+      "preview": "START / CONCEPT: CORE — Hearts and minds as operational legitimacy",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 254
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 324.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 93.091
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1087,
+      "markdown_body_line_end": 1087,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Rehabilitation displacement and outcome discipline as a sequence: identify Rehabilitation-evidence rung, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1102,
+      "markdown_body_line_end": 1106,
+      "heading": "VISUAL FIRST",
+      "preview": "REHABILITATION DISPLACEMENT AND OUTCOME DISCIPLINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1142,
+      "markdown_body_line_end": 1159,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - REHABILITATION DISPLACEMENT AND OUTCOME DISCIPLINE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Rehabilitation displacement and outcome discipline",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 270
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 650.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 419.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1170,
+      "markdown_body_line_end": 1170,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read CPEC sovereignty and bounded security route as a sequence: identify CPEC bounded route, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 265.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 198.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1185,
+      "markdown_body_line_end": 1192,
+      "heading": "VISUAL FIRST",
+      "preview": "CPEC SOVEREIGNTY AND BOUNDED SECURITY ROUTE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 691.091
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1229,
+      "markdown_body_line_end": 1246,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - CPEC SOVEREIGNTY AND BOUNDED SECURITY ROUTE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — CPEC sovereignty and bounded security route",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 271
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1257,
+      "markdown_body_line_end": 1257,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mechanism chain: Integrated response chain - Qualified end-state Qualified use: Conclude with disruption plus legitimacy, not a single security metric.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 382.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 315.624
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1272,
+      "markdown_body_line_end": 1279,
+      "heading": "VISUAL FIRST",
+      "preview": "INTEGRATED RESPONSE AND QUALIFIED END-STATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1315,
+      "markdown_body_line_end": 1328,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Internal Security | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III. **Core area:** Accession and its unresolved dispute; the Line of Control; ISI-sponsored proxy-war militancy; the operational (not constitutional) dimens",
+      "metadata": {
+        "line_count": 14
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 242.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 76.024
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1332,
+      "markdown_body_line_end": 1361,
+      "heading": "1. Visual foundation",
+      "preview": "1947 ACCESSION DISPUTE",
+      "metadata": {
+        "language": "text",
+        "line_count": 28,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 496.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1370,
+      "markdown_body_line_end": 1378,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 267.09
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1552,
+      "markdown_body_line_end": 1554,
+      "heading": "12. Core answer architecture - proxy war, operational boundaries and trust",
+      "preview": "**Core firewall:** This Core section independently supports the 2018 CPEC cross-link, the 2019 OGW demand and the 2023 J&K “hearts and minds” demand. The Advanced companion remains optional.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 564.691
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 498.024
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1606,
+      "markdown_body_line_end": 1611,
+      "heading": "Claim -> evidence -> analysis -> qualification bank",
+      "preview": "Claim | Named evidence/example | What it proves | Qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Named evidence/example",
+          "What it proves",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 565.89
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1641,
+      "markdown_body_line_end": 1658,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - INTEGRATED RESPONSE AND QUALIFIED END-STATE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Integrated response and qualified end-state",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 253
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2860,
+      "markdown_body_line_end": 2872,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Internal Security | **Tier:** Advanced | **GS Paper:** GS-III. **Core area:** The deniability logic of proxy war; ceasefire violations as an instrument, not incidental friction; the operational (not constitutional) consequences",
+      "metadata": {
+        "line_count": 13
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 613.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 483.424
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2890,
+      "markdown_body_line_end": 2897,
+      "heading": "2. Conceptual distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 198.69
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3147,
+      "markdown_body_line_end": 3156,
+      "heading": "Jammu & Kashmir and Cross-Border Terrorism: HEARTS-AND-MINDS, REHABILITATION AND PYQ SPINES",
+      "preview": "OPEN WITH THE EXTERNALLY ENABLED PROXY MECHANISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 410.491
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 319.491
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3166,
+      "markdown_body_line_end": 3171,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Accession-to-LoC boundary",
+      "preview": "26 OCT 1947 -> INSTRUMENT OF ACCESSION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3175,
+      "markdown_body_line_end": 3180,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Proxy-war system",
+      "preview": "EXTERNAL SPONSOR -> DENIABLE PROXY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3184,
+      "markdown_body_line_end": 3190,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Attribution ladder",
+      "preview": "1 ALLEGATION / CLAIM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 577.691
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3194,
+      "markdown_body_line_end": 3199,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Ceasefire-versus-conflict matrix",
+      "preview": "LoC FIRING -> governed by military understanding",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 555.691
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 503.891
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3203,
+      "markdown_body_line_end": 3209,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Proxy-support chain",
+      "preview": "INFILTRATION / DELIVERY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 481.891
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 419.891
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3213,
+      "markdown_body_line_end": 3219,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: OGW proof-and-response",
+      "preview": "ALLEGED FACILITATION?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 397.891
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 335.891
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3223,
+      "markdown_body_line_end": 3228,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: 2019 operational chain",
+      "preview": "J&K UT -> LEGISLATURE EXISTS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 313.891
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 262.091
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3232,
+      "markdown_body_line_end": 3237,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Legal-instrument firewall",
+      "preview": "J&K REORGANISATION ACT 2019 -> administrative / competence structure",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3241,
+      "markdown_body_line_end": 3246,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Community-security balance",
+      "preview": "VDG GAIN -> local presence / warning / self-protection",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3250,
+      "markdown_body_line_end": 3257,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Hearts-and-minds scorecard",
+      "preview": "CIVILIAN SECURITY | PROPORTIONATE FORCE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 567.491
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3261,
+      "markdown_body_line_end": 3268,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: CPEC bounded route",
+      "preview": "PRINCIPAL OWNERS -> IR / ECONOMY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 545.491
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3272,
+      "markdown_body_line_end": 3280,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: PYQ and end-state rail",
+      "preview": "2018 -> CPEC SOVEREIGNTY / SECURITY LEG",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 368.891
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    }
+  ]
+}

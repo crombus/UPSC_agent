@@ -39,3 +39,34 @@ Total copied Markdown files: **967**
 
 See `MANIFEST.json` for every destination, canonical source path, file size,
 and SHA-256 checksum.
+
+## Repository-wide review and repair scope
+
+For the sequential topic-by-topic review, modify artifacts only in these folders:
+
+1. `learning_package_final`
+   - Learning-session Markdown
+   - Solved-practice workbook Markdown
+2. `notes\Final-Learning-Packages`
+   - Learning-session PDF
+   - Solved-practice workbook PDF
+   - ASCII flowchart
+   - Graphical flowchart
+3. `quick_galance`
+   - Quick-glance tree-flowchart Markdown
+
+Do not modify canonical knowledge files, manifests, trackers, historical generation
+folders, or artifacts outside these three locations. Repair existing files in place;
+do not create new generation folders or suffixed parallel packages.
+
+### Review gates
+
+- After completing and validating each topic, stop and notify the user so the repaired
+  package can be reviewed. Do not begin the next topic automatically.
+- After completing a subject, provide the complete list of subjects that remain.
+- Wait for the user to select the next subject before continuing.
+
+The full mandatory source hierarchy, artifact checks and pass/fail completion
+record are maintained in `REVIEW-AND-REPAIR-INSTRUCTIONS.md`. Read that file
+before every topic review and do not mark a topic complete while any mandatory
+check remains unresolved.

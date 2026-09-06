@@ -1,1344 +1,477 @@
 ---
-title: "Temple Architecture and Chandella Khajuraho — Solved Practice Workbook"
+title: "Temple Architecture and Chandella-Khajuraho - Solved Practice Workbook"
 topic_key: indian-art-and-culture-03
 ---
-# Temple Architecture and Chandella Khajuraho — Solved Practice Workbook
+# Temple Architecture and Chandella-Khajuraho - Solved Practice Workbook
+
+> This standalone workbook carries exactly 32 original MCQs with strict ABCD rotation, the owned PYQs for this topic, two verification-pending objective PYQs with withheld answers, and six full original Mains answers.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Temple spatial lexicon?
+### CORE UPSC MCQS
 
-A. Garbhagriha, mandapa, antarala, ardhamandapa, pradakshina patha, vahana and platform describe a ritual sequence rather than decorative labels.
-B. Vesara is best used after describing Deccan plan, tower and material; it is not a mechanically equal mixture of Nagara and Dravida.
-C. Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram.
-D. Early structural temples moved from flat-roofed square shrines through raised and circumambulatory plans toward shikhara, panchayatana and varied ground plans.
+### Q1. Which statement best captures why temple vocabulary matters in an answer?
 
-**Answer: A.**
-**Explanation:** Garbhagriha, mandapa, antarala, ardhamandapa, pradakshina patha, vahana and platform describe a ritual sequence rather than decorative labels. The remaining options belong to different chronology, actor or analytical categories.
+A. Garbhagriha, antarala, mandapa and jagati together describe a hierarchy of access and movement, not a random list of parts.  
+B. Temple parts are mostly decorative labels and can be skipped if one remembers the dynasty.  
+C. Only the tower matters in temple classification; internal spaces are secondary.  
+D. The safest way to describe a temple is to avoid technical vocabulary altogether.  
 
-### Q2. Which chronology card should be filed under Temple spatial lexicon?
+**Answer: A.**  
+**Explanation:** A is correct because temple form is organised as approach, transition and sanctity. B, C and D remove the very spatial logic that UPSC expects you to explain.
 
-A. Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram.
-B. Garbhagriha, mandapa, antarala, ardhamandapa, pradakshina patha, vahana and platform describe a ritual sequence rather than decorative labels.
-C. Jejabhukti's Chandellas used temple patronage during political self-assertion, with Dhanga's maharajadhiraja title providing the key sovereignty context.
-D. Vesara is best used after describing Deccan plan, tower and material; it is not a mechanically equal mixture of Nagara and Dravida.
+### Q2. Which sequence best represents the usual movement through a mature Khajuraho temple?
 
-**Answer: B.**
-**Explanation:** Garbhagriha, mandapa, antarala, ardhamandapa, pradakshina patha, vahana and platform describe a ritual sequence rather than decorative labels. The remaining options belong to different chronology, actor or analytical categories.
+A. Garbhagriha -> mandapa -> ardhamandapa -> antarala  
+B. Ardhamandapa -> mandapa -> antarala -> garbhagriha  
+C. Jagati -> shikhara -> mandapa -> pradakshina  
+D. Torana -> vedika -> harmika -> chattra  
 
-### Q3. Which option preserves the source-bounded meaning of Temple spatial lexicon?
+**Answer: B.**  
+**Explanation:** B is the safe axial sequence recorded by UNESCO for the Khajuraho plan. A reverses the inward movement, C mixes vertical and horizontal elements, and D belongs to stupa vocabulary, not temple architecture.
 
-A. Jejabhukti's Chandellas used temple patronage during political self-assertion, with Dhanga's maharajadhiraja title providing the key sovereignty context.
-B. A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas.
-C. Garbhagriha, mandapa, antarala, ardhamandapa, pradakshina patha, vahana and platform describe a ritual sequence rather than decorative labels.
-D. Vesara is best used after describing Deccan plan, tower and material; it is not a mechanically equal mixture of Nagara and Dravida.
+### Q3. Which statement is most careful about Vesara?
 
-**Answer: C.**
-**Explanation:** Garbhagriha, mandapa, antarala, ardhamandapa, pradakshina patha, vahana and platform describe a ritual sequence rather than decorative labels. The remaining options belong to different chronology, actor or analytical categories.
+A. Vesara is simply another name for every South Indian temple.  
+B. Vesara means any temple with sculpture on the outer wall.  
+C. Vesara is best used after describing Deccan experimentation in plan and superstructure; it is not a rigid fifty-fifty formula.  
+D. Vesara should replace both Nagara and Dravida as the only valid category.  
 
-### Q4. Which statement avoids a close-option trap about Temple spatial lexicon?
+**Answer: C.**  
+**Explanation:** C keeps the label subordinate to observable form. A, B and D flatten a debated classificatory term into an absolute rule.
 
-A. Jejabhukti's Chandellas used temple patronage during political self-assertion, with Dhanga's maharajadhiraja title providing the key sovereignty context.
-B. A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas.
-C. Most temples use fine-grained sandstone on open terraces without an enclosure wall, while granite exceptions prevent a uniform-material claim.
-D. Garbhagriha, mandapa, antarala, ardhamandapa, pradakshina patha, vahana and platform describe a ritual sequence rather than decorative labels.
+### Q4. Which pair is correctly matched?
 
-**Answer: D.**
-**Explanation:** Garbhagriha, mandapa, antarala, ardhamandapa, pradakshina patha, vahana and platform describe a ritual sequence rather than decorative labels. The remaining options belong to different chronology, actor or analytical categories.
+A. Khajuraho - boundary-wall-dominated walled enclosure as its main external identity  
+B. Konark - no external sculptural programme and plain walls  
+C. Modhera - free-standing granite gopuram as the core identifier  
+D. Odisha/Kalinga - rekha deul sanctum with pidha deul hall as a recurring regional combination  
 
-### Q5. Which statement correctly identifies Gupta developmental stages?
+**Answer: D.**  
+**Explanation:** D is correct for the Odisha/Kalinga school. Khajuraho is instead known for high jagati terraces without enclosure walls, Konark is richly carved, and Modhera belongs to the Nagara-Solanki world rather than a gopuram-centred granite formula.
 
-A. Early structural temples moved from flat-roofed square shrines through raised and circumambulatory plans toward shikhara, panchayatana and varied ground plans.
-B. Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram.
-C. Jejabhukti's Chandellas used temple patronage during political self-assertion, with Dhanga's maharajadhiraja title providing the key sovereignty context.
-D. Vesara is best used after describing Deccan plan, tower and material; it is not a mechanically equal mixture of Nagara and Dravida.
+### Q5. Which statement best identifies mature Khajuraho architecture?
 
-**Answer: A.**
-**Explanation:** Early structural temples moved from flat-roofed square shrines through raised and circumambulatory plans toward shikhara, panchayatana and varied ground plans. The remaining options belong to different chronology, actor or analytical categories.
+A. Temples rise on a high jagati, link their halls axially, and culminate in a clustered shikhara mass integrated with sculpture.  
+B. The defining device is a single gigantic entrance gopuram dwarfing a low sanctum.  
+C. The temples are rock-cut monoliths excavated from a hillside.  
+D. Their chief identity lies in circular plans inspired by Buddhist stupas.  
 
-### Q6. Which chronology card should be filed under Gupta developmental stages?
+**Answer: A.**  
+**Explanation:** A brings together plan, elevation and sculptural integration. B describes the late Dravida gateway emphasis, C suits Ellora/Kailasa logic, and D misdescribes Khajuraho.
 
-A. A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas.
-B. Early structural temples moved from flat-roofed square shrines through raised and circumambulatory plans toward shikhara, panchayatana and varied ground plans.
-C. Vesara is best used after describing Deccan plan, tower and material; it is not a mechanically equal mixture of Nagara and Dravida.
-D. Jejabhukti's Chandellas used temple patronage during political self-assertion, with Dhanga's maharajadhiraja title providing the key sovereignty context.
+### Q6. Why is the Khajuraho erotic-imagery stereotype unsafe?
 
-**Answer: B.**
-**Explanation:** Early structural temples moved from flat-roofed square shrines through raised and circumambulatory plans toward shikhara, panchayatana and varied ground plans. The remaining options belong to different chronology, actor or analytical categories.
+A. Because Khajuraho contains no erotic imagery at all.  
+B. Because erotic scenes are only one register within a much wider sculptural programme of deities, worship, musicians, dancers and social life.  
+C. Because erotic imagery occurs only in Jain temples there.  
+D. Because any mention of erotic imagery automatically makes the answer wrong.  
 
-### Q7. Which option preserves the source-bounded meaning of Gupta developmental stages?
+**Answer: B.**  
+**Explanation:** B is the source-safe formulation. A and C are factually wrong, while D overcorrects and throws away an examinable but bounded feature.
 
-A. A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas.
-B. Jejabhukti's Chandellas used temple patronage during political self-assertion, with Dhanga's maharajadhiraja title providing the key sovereignty context.
-C. Early structural temples moved from flat-roofed square shrines through raised and circumambulatory plans toward shikhara, panchayatana and varied ground plans.
-D. Most temples use fine-grained sandstone on open terraces without an enclosure wall, while granite exceptions prevent a uniform-material claim.
+### Q7. Which line best explains the political use of Chandella temple building?
 
-**Answer: C.**
-**Explanation:** Early structural temples moved from flat-roofed square shrines through raised and circumambulatory plans toward shikhara, panchayatana and varied ground plans. The remaining options belong to different chronology, actor or analytical categories.
+A. Temple construction automatically proves a democratic social order.  
+B. Every Khajuraho temple can be tied to one named military victory.  
+C. Temple building in Jejabhukti visibly accompanied Chandella political self-assertion, especially after the weakening of older overlordships.  
+D. Khajuraho grew before Chandella power and therefore had no link to state formation.  
 
-### Q8. Which statement avoids a close-option trap about Gupta developmental stages?
+**Answer: C.**  
+**Explanation:** C is correct because the Chandella building surge is safest when tied to political self-assertion after declining overlordships. A and D deny the state-formation link, while B overclaims that every temple can be matched to one specific victory.
 
-A. Most temples use fine-grained sandstone on open terraces without an enclosure wall, while granite exceptions prevent a uniform-material claim.
-B. Shaiva, Vaishnava, Surya, Ganesha and Jain dedications share the Khajuraho landscape and regional architectural idiom.
-C. A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas.
-D. Early structural temples moved from flat-roofed square shrines through raised and circumambulatory plans toward shikhara, panchayatana and varied ground plans.
+### Q8. Which statement most accurately describes the Chausath Yogini caution for this topic?
 
-**Answer: D.**
-**Explanation:** Early structural temples moved from flat-roofed square shrines through raised and circumambulatory plans toward shikhara, panchayatana and varied ground plans. The remaining options belong to different chronology, actor or analytical categories.
+A. Khajuraho and Morena refer to the same Chausath Yogini temple.  
+B. Every Chausath Yogini temple is circular and Vaishnava.  
+C. The Parliament-design claim is an officially settled architectural fact.  
+D. The Khajuraho shrine is a granite open-air Yogini monument, while the Morena objective demand concerns a different circular Kachchhapaghata-period temple.  
 
-### Q9. Which statement correctly identifies Nagara and Dravida?
+**Answer: D.**  
+**Explanation:** D is correct because the safe caution is to separate the Khajuraho Yogini shrine from the Morena/Mitaoli objective demand. A and B merge distinct monuments or sects, and C turns a popular-belief statement into certainty.
 
-A. Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram.
-B. A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas.
-C. Vesara is best used after describing Deccan plan, tower and material; it is not a mechanically equal mixture of Nagara and Dravida.
-D. Jejabhukti's Chandellas used temple patronage during political self-assertion, with Dhanga's maharajadhiraja title providing the key sovereignty context.
+### Q9. Which option best captures the Pallava contribution?
 
-**Answer: A.**
-**Explanation:** Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram. The remaining options belong to different chronology, actor or analytical categories.
+A. They initiated a visible sequence from rock-cut excavation to monolithic experiment and then structural temple construction in South India.  
+B. They built only brick village shrines without sculptural ambition.  
+C. They are remembered solely for bronzes and not for architecture.  
+D. Their monuments show no experimentation in plan or elevation.  
 
-### Q10. Which chronology card should be filed under Nagara and Dravida?
+**Answer: A.**  
+**Explanation:** A is correct because Mahendravarman, Mamalla and Rajasimha together show the shift from cave to ratha to structural temple. B, C and D erase the very developmental logic that makes the Pallavas important.
 
-A. Most temples use fine-grained sandstone on open terraces without an enclosure wall, while granite exceptions prevent a uniform-material claim.
-B. Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram.
-C. Jejabhukti's Chandellas used temple patronage during political self-assertion, with Dhanga's maharajadhiraja title providing the key sovereignty context.
-D. A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas.
+### Q10. Which monument pair most clearly demonstrates the Pallava move from monolithic experiment to structural temple?
 
-**Answer: B.**
-**Explanation:** Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram. The remaining options belong to different chronology, actor or analytical categories.
+A. Barabar and Nagarjuni  
+B. Pancha Rathas and Shore Temple  
+C. Brihadishvara and Airavatesvara  
+D. Virupaksha, Hampi and Vitthala, Hampi  
 
-### Q11. Which option preserves the source-bounded meaning of Nagara and Dravida?
+**Answer: B.**  
+**Explanation:** B is correct: the Pancha Rathas are the monolithic experiment and the Shore Temple is the structural turn. The other pairs belong to different regions, chronologies or themes.
 
-A. A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas.
-B. Most temples use fine-grained sandstone on open terraces without an enclosure wall, while granite exceptions prevent a uniform-material claim.
-C. Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram.
-D. Shaiva, Vaishnava, Surya, Ganesha and Jain dedications share the Khajuraho landscape and regional architectural idiom.
+### Q11. Which statement about Chola architecture is safest?
 
-**Answer: C.**
-**Explanation:** Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram. The remaining options belong to different chronology, actor or analytical categories.
+A. Chola achievement is best reduced to a single temple at Thanjavur.  
+B. The Cholas abandoned sculptural ornament in favour of plain granite surfaces.  
+C. The Chola sequence runs from early shrines through Brihadishvara to later gopura-dominant phases, with inscriptions linking architecture to administration and ritual.  
+D. Chola temples contain no evidence of literary or sectarian plurality.  
 
-### Q12. Which statement avoids a close-option trap about Nagara and Dravida?
+**Answer: C.**  
+**Explanation:** C keeps development, scale and inscriptional life together. A compresses the dynasty into one monument, B is false, and D ignores Nayanar and multi-sect evidence.
 
-A. Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth.
-B. Shaiva, Vaishnava, Surya, Ganesha and Jain dedications share the Khajuraho landscape and regional architectural idiom.
-C. Most temples use fine-grained sandstone on open terraces without an enclosure wall, while granite exceptions prevent a uniform-material claim.
-D. Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram.
+### Q12. Which statement best avoids a Brihadishvara trap?
 
-**Answer: D.**
-**Explanation:** Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram. The remaining options belong to different chronology, actor or analytical categories.
+A. Brihadishvara is a rock-cut shrine at Mamallapuram.  
+B. Brihadishvara proves that later Chola architecture had no enclosure walls or gopurams.  
+C. Brihadishvara should be written without any link to inscriptions, murals or Nandi mandapa.  
+D. Brihadishvara is the Chola technical climax, but Chola achievement also includes bronzes, murals, administration and later gopura emphasis.  
 
-### Q13. Which statement correctly identifies Vesara caution?
+**Answer: D.**  
+**Explanation:** D is correct because it places Thanjavur inside a larger Chola achievement. A, B and C are direct distortions.
 
-A. Vesara is best used after describing Deccan plan, tower and material; it is not a mechanically equal mixture of Nagara and Dravida.
-B. Most temples use fine-grained sandstone on open terraces without an enclosure wall, while granite exceptions prevent a uniform-material claim.
-C. A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas.
-D. Jejabhukti's Chandellas used temple patronage during political self-assertion, with Dhanga's maharajadhiraja title providing the key sovereignty context.
+### Q13. Which statement best explains Vijayanagara temple planning?
 
-**Answer: A.**
-**Explanation:** Vesara is best used after describing Deccan plan, tower and material; it is not a mechanically equal mixture of Nagara and Dravida. The remaining options belong to different chronology, actor or analytical categories.
+A. Its temple complexes emphasize chariot streets, pillared mandapas and monumental gateways within a capital-wide sacred-royal landscape.  
+B. Vijayanagara architecture is entirely identical to Hoysala stellate soapstone temples.  
+C. Its main monuments are all rock-cut caves of the Mauryan age.  
+D. The tradition rejected all earlier South Indian influences.  
 
-### Q14. Which chronology card should be filed under Vesara caution?
+**Answer: A.**  
+**Explanation:** A captures the urban-temple logic of Hampi. B ignores clear differences, C is chronologically impossible, and D erases the stated synthesis of earlier southern styles.
 
-A. Shaiva, Vaishnava, Surya, Ganesha and Jain dedications share the Khajuraho landscape and regional architectural idiom.
-B. Vesara is best used after describing Deccan plan, tower and material; it is not a mechanically equal mixture of Nagara and Dravida.
-C. Most temples use fine-grained sandstone on open terraces without an enclosure wall, while granite exceptions prevent a uniform-material claim.
-D. A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas.
+### Q14. Which monument-feature pair is correctly matched?
 
-**Answer: B.**
-**Explanation:** Vesara is best used after describing Deccan plan, tower and material; it is not a mechanically equal mixture of Nagara and Dravida. The remaining options belong to different chronology, actor or analytical categories.
+A. Virupaksha, Hampi - queen Lokmahadevi's 8th-century Chalukya victory temple  
+B. Vitthala, Hampi - stone chariot and musical-pillar fame within a Vijayanagara temple complex  
+C. Mahanavami Dibba - principal sanctum of the Virupaksha temple  
+D. Lotus Mahal - granite Nagara shikhara of a Chandella shrine  
 
-### Q15. Which option preserves the source-bounded meaning of Vesara caution?
+**Answer: B.**  
+**Explanation:** B is correct. A confuses Hampi Virupaksha with Pattadakal Virupaksha, C turns a royal platform into a temple sanctum, and D misplaces a secular Vijayanagara building into Khajuraho's world.
 
-A. Most temples use fine-grained sandstone on open terraces without an enclosure wall, while granite exceptions prevent a uniform-material claim.
-B. Shaiva, Vaishnava, Surya, Ganesha and Jain dedications share the Khajuraho landscape and regional architectural idiom.
-C. Vesara is best used after describing Deccan plan, tower and material; it is not a mechanically equal mixture of Nagara and Dravida.
-D. Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth.
+### Q15. Which statement best defines the Nayaka phase?
 
-**Answer: C.**
-**Explanation:** Vesara is best used after describing Deccan plan, tower and material; it is not a mechanically equal mixture of Nagara and Dravida. The remaining options belong to different chronology, actor or analytical categories.
+A. Nayaka architecture abandoned gopurams and preferred small flat-roofed shrines.  
+B. It belongs exclusively to North Indian sandstone Nagara practice.  
+C. Nayaka architecture continues late Vijayanagara and expands enclosure walls, graded gopuras, temple tanks and wide prakarams in major temple centres.  
+D. Its hallmark is the absence of processional space.  
 
-### Q16. Which statement avoids a close-option trap about Vesara caution?
+**Answer: C.**  
+**Explanation:** C is correct because the Nayaka phase is additive, enclosure-rich and processional. A, B and D contradict the basic plan logic of Madurai, Rameswaram and related sites.
 
-A. The largest and loftiest Khajuraho temple is the culminating case for mature Nagara massing and integrated sculpture.
-B. Shaiva, Vaishnava, Surya, Ganesha and Jain dedications share the Khajuraho landscape and regional architectural idiom.
-C. Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth.
-D. Vesara is best used after describing Deccan plan, tower and material; it is not a mechanically equal mixture of Nagara and Dravida.
+### Q16. Which statement is safest about Early Chalukya experimentation?
 
-**Answer: D.**
-**Explanation:** Vesara is best used after describing Deccan plan, tower and material; it is not a mechanically equal mixture of Nagara and Dravida. The remaining options belong to different chronology, actor or analytical categories.
+A. Aihole and Pattadakal are best written as identical single-style sites with no experimentation.  
+B. Badami matters only for painting and not for temple form.  
+C. The Deccan evidence makes Nagara and Dravida categories meaningless everywhere.  
+D. Aihole, Badami and Pattadakal are useful because one can watch multiple plan forms and tower solutions being tried, refined and displayed side by side.  
 
-### Q17. Which statement correctly identifies Chandella political setting?
+**Answer: D.**  
+**Explanation:** D is correct because the Early Chalukya zone is a laboratory of forms. A and B erase experimentation, and C overstates a regional caution into a universal collapse of categories.
 
-A. Jejabhukti's Chandellas used temple patronage during political self-assertion, with Dhanga's maharajadhiraja title providing the key sovereignty context.
-B. Most temples use fine-grained sandstone on open terraces without an enclosure wall, while granite exceptions prevent a uniform-material claim.
-C. Shaiva, Vaishnava, Surya, Ganesha and Jain dedications share the Khajuraho landscape and regional architectural idiom.
-D. A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas.
+### Q17. Which Pattadakal comparison most directly justifies the Vesara caution?
 
-**Answer: A.**
-**Explanation:** Jejabhukti's Chandellas used temple patronage during political self-assertion, with Dhanga's maharajadhiraja title providing the key sovereignty context. The remaining options belong to different chronology, actor or analytical categories.
+A. Virupaksha and Papanatha show the same plan environment but different superstructure grammars, making hybridity observable rather than merely asserted.  
+B. Virupaksha and Papanatha are both Mauryan stupas.  
+C. Both are Jain basadis built in soapstone under Hoysala rule.  
+D. They prove that every Pattadakal temple had the same tower type.  
 
-### Q18. Which chronology card should be filed under Chandella political setting?
+**Answer: A.**  
+**Explanation:** A is correct because the Virupaksha-Dravida and Papanatha-Nagara contrast on one site makes the label evidence-based. The other options are historically wrong.
 
-A. Shaiva, Vaishnava, Surya, Ganesha and Jain dedications share the Khajuraho landscape and regional architectural idiom.
-B. Jejabhukti's Chandellas used temple patronage during political self-assertion, with Dhanga's maharajadhiraja title providing the key sovereignty context.
-C. Most temples use fine-grained sandstone on open terraces without an enclosure wall, while granite exceptions prevent a uniform-material claim.
-D. Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth.
+### Q18. Which line best explains Hoysala distinctiveness?
 
-**Answer: B.**
-**Explanation:** Jejabhukti's Chandellas used temple patronage during political self-assertion, with Dhanga's maharajadhiraja title providing the key sovereignty context. The remaining options belong to different chronology, actor or analytical categories.
+A. Hoysala temples avoided sculpture and preferred plain brick towers.  
+B. Hoysala temples use chloritic schist, stellate jagati plans, zig-zag walls, lathe-turned pillars and dense friezes.  
+C. Hoysala temples are the earliest Mauryan rock-cut caves.  
+D. The school is best described without reference to material.  
 
-### Q19. Which option preserves the source-bounded meaning of Chandella political setting?
+**Answer: B.**  
+**Explanation:** B is correct because Hoysala distinctiveness lies precisely in soapstone, stellate platforms, zig-zag walls, lathe-turned pillars and sculptural friezes. The other options erase its material and formal identity.
 
-A. Shaiva, Vaishnava, Surya, Ganesha and Jain dedications share the Khajuraho landscape and regional architectural idiom.
-B. Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth.
-C. Jejabhukti's Chandellas used temple patronage during political self-assertion, with Dhanga's maharajadhiraja title providing the key sovereignty context.
-D. The largest and loftiest Khajuraho temple is the culminating case for mature Nagara massing and integrated sculpture.
+### Q19. Which statement best handles the Hoysala-Vesara relationship?
 
-**Answer: C.**
-**Explanation:** Jejabhukti's Chandellas used temple patronage during political self-assertion, with Dhanga's maharajadhiraja title providing the key sovereignty context. The remaining options belong to different chronology, actor or analytical categories.
+A. The Hoysalas should never be linked to Vesara in any way.  
+B. Hoysala architecture is simply Khajuraho moved south.  
+C. The safest description is that Hoysala form shows Dravidian morphology with important Bhumija and Nagara influences, after which the Vesara label may be used cautiously.  
+D. The stellate platform proves that the temples are not part of any South Indian tradition.  
 
-### Q20. Which statement avoids a close-option trap about Chandella political setting?
+**Answer: C.**  
+**Explanation:** C is correct because it reproduces the cautious, morphology-first approach. A, B and D either deny the classificatory debate or caricature the school.
 
-A. The largest and loftiest Khajuraho temple is the culminating case for mature Nagara massing and integrated sculpture.
-B. Khajuraho's early open-air granite Chausath Yogini enclosure must not be confused with the circular Kachchhapaghata-period Mitaoli temple near Morena.
-C. Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth.
-D. Jejabhukti's Chandellas used temple patronage during political self-assertion, with Dhanga's maharajadhiraja title providing the key sovereignty context.
+### Q20. Which statement is most careful about Kakatiya evidence?
 
-**Answer: D.**
-**Explanation:** Jejabhukti's Chandellas used temple patronage during political self-assertion, with Dhanga's maharajadhiraja title providing the key sovereignty context. The remaining options belong to different chronology, actor or analytical categories.
+A. Ramappa must be ignored because it has no relation to temple architecture.  
+B. The Thousand Pillar Temple belongs to the Mauryan period.  
+C. Kakatiya monuments prove that every late Deccan temple used identical plans.  
+D. Ramappa is useful for foundation technology, named patronage and the architect-name tradition, but its spectacular features should still be written with source discipline.  
 
-### Q21. Which statement correctly identifies Khajuraho axial chain?
+**Answer: D.**  
+**Explanation:** D is correct because Ramappa helps with technology, patronage and conservation status, but not with careless exaggeration. A, B and C are plainly wrong.
 
-A. A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas.
-B. Most temples use fine-grained sandstone on open terraces without an enclosure wall, while granite exceptions prevent a uniform-material claim.
-C. Shaiva, Vaishnava, Surya, Ganesha and Jain dedications share the Khajuraho landscape and regional architectural idiom.
-D. Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth.
+### Q21. Which statement best explains why temples matter beyond ritual?
 
-**Answer: A.**
-**Explanation:** A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas. The remaining options belong to different chronology, actor or analytical categories.
+A. Temples record ritual, patronage, economic support, craft organisation, festivals and selected social representation in one durable institution.  
+B. Temples were only spaces of worship and cannot reveal political or social history.  
+C. Temples matter because they collapse all evidence into religion alone.  
+D. Temples can replace every other source and should be treated as full social censuses.  
 
-### Q22. Which chronology card should be filed under Khajuraho axial chain?
+**Answer: A.**  
+**Explanation:** A is correct because temple evidence works precisely by combining ritual, patronage, administration, labour and selective social representation in one durable institution. B, C and D either flatten or absolutize the source value.
 
-A. Shaiva, Vaishnava, Surya, Ganesha and Jain dedications share the Khajuraho landscape and regional architectural idiom.
-B. A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas.
-C. The largest and loftiest Khajuraho temple is the culminating case for mature Nagara massing and integrated sculpture.
-D. Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth.
+### Q22. Which evidence most directly supports the temple-as-institution argument?
 
-**Answer: B.**
-**Explanation:** A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas. The remaining options belong to different chronology, actor or analytical categories.
+A. Only the presence of a shikhara  
+B. Inscriptions on donations, worship, festivals and temple administration such as those noted at Darasuram and Brihadishvara  
+C. The existence of stone alone, without inscription or iconography  
+D. A later traveller's aesthetic praise alone  
 
-### Q23. Which option preserves the source-bounded meaning of Khajuraho axial chain?
+**Answer: B.**  
+**Explanation:** B is correct because it links architecture to daily management and endowment. A is too narrow, C removes social content, and D is secondary evidence.
 
-A. Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth.
-B. The largest and loftiest Khajuraho temple is the culminating case for mature Nagara massing and integrated sculpture.
-C. A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas.
-D. Khajuraho's early open-air granite Chausath Yogini enclosure must not be confused with the circular Kachchhapaghata-period Mitaoli temple near Morena.
+### Q23. Which line is safest for using temple sculpture as social evidence?
 
-**Answer: C.**
-**Explanation:** A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas. The remaining options belong to different chronology, actor or analytical categories.
+A. Sculpture can never be used historically because it is not text.  
+B. Every carved figure is a photograph of ordinary life.  
+C. Temple sculpture can show selected registers of performance, patronage, devotion and courtly life, but commissioned representation is not the whole of society.  
+D. Only erotic panels count as social evidence.  
 
-### Q24. Which statement avoids a close-option trap about Khajuraho axial chain?
+**Answer: C.**  
+**Explanation:** C preserves both value and limit. A discards visual evidence, B treats representation as raw reality, and D reduces a wide field to one sensational register.
 
-A. Khajuraho's early open-air granite Chausath Yogini enclosure must not be confused with the circular Kachchhapaghata-period Mitaoli temple near Morena.
-B. Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters.
-C. The largest and loftiest Khajuraho temple is the culminating case for mature Nagara massing and integrated sculpture.
-D. A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas.
+### Q24. Which timeline statement is correct?
 
-**Answer: D.**
-**Explanation:** A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas. The remaining options belong to different chronology, actor or analytical categories.
+A. Khajuraho's modern rediscovery by T.S. Burt belongs to the same chronology as Chandella temple construction.  
+B. UNESCO inscription years should be used as ancient building dates.  
+C. The order Pallava -> Chola -> Vijayanagara -> Nayaka is a modern conservation timeline.  
+D. Ancient construction chronology must be kept separate from modern discovery and UNESCO chronology.  
 
-### Q25. Which statement correctly identifies Khajuraho material and enclosure?
+**Answer: D.**  
+**Explanation:** D is correct. The other options commit the chronology-mixing error that repeatedly costs marks.
 
-A. Most temples use fine-grained sandstone on open terraces without an enclosure wall, while granite exceptions prevent a uniform-material claim.
-B. Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth.
-C. The largest and loftiest Khajuraho temple is the culminating case for mature Nagara massing and integrated sculpture.
-D. Shaiva, Vaishnava, Surya, Ganesha and Jain dedications share the Khajuraho landscape and regional architectural idiom.
+### Q25. Which statement most carefully handles Khajuraho temple counts?
 
-**Answer: A.**
-**Explanation:** Most temples use fine-grained sandstone on open terraces without an enclosure wall, while granite exceptions prevent a uniform-material claim. The remaining options belong to different chronology, actor or analytical categories.
+A. UNESCO, ASI and local tradition speak at different levels, so counts must be written with the source and context attached rather than flattened into one number.  
+B. Khajuraho has eighty-five standing temples today.  
+C. Khajuraho has twenty-three temples because local tradition does not matter.  
+D. There is only one correct unqualified number, so every other source should be ignored.  
 
-### Q26. Which chronology card should be filed under Khajuraho material and enclosure?
+**Answer: A.**  
+**Explanation:** A is correct because UNESCO counts the inscribed property, while ASI and local tradition speak differently about surviving or remembered totals. B, C and D remove that source discipline.
 
-A. Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth.
-B. Most temples use fine-grained sandstone on open terraces without an enclosure wall, while granite exceptions prevent a uniform-material claim.
-C. Khajuraho's early open-air granite Chausath Yogini enclosure must not be confused with the circular Kachchhapaghata-period Mitaoli temple near Morena.
-D. The largest and loftiest Khajuraho temple is the culminating case for mature Nagara massing and integrated sculpture.
+### Q26. Which statement about Khajuraho materials is safest?
 
-**Answer: B.**
-**Explanation:** Most temples use fine-grained sandstone on open terraces without an enclosure wall, while granite exceptions prevent a uniform-material claim. The remaining options belong to different chronology, actor or analytical categories.
+A. All Khajuraho temples are granite.  
+B. Most Khajuraho temples are sandstone, but Chausath Yogini, Brahma and Mahadeva are recorded as granite exceptions.  
+C. Material is irrelevant because all temple surfaces look the same.  
+D. Granite alone explains Khajuraho's sculptural undercutting.  
 
-### Q27. Which option preserves the source-bounded meaning of Khajuraho material and enclosure?
+**Answer: B.**  
+**Explanation:** B is the source-backed formulation. A, C and D flatten important material distinctions.
 
-A. Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters.
-B. Khajuraho's early open-air granite Chausath Yogini enclosure must not be confused with the circular Kachchhapaghata-period Mitaoli temple near Morena.
-C. Most temples use fine-grained sandstone on open terraces without an enclosure wall, while granite exceptions prevent a uniform-material claim.
-D. The largest and loftiest Khajuraho temple is the culminating case for mature Nagara massing and integrated sculpture.
+### Q27. Which statement best distinguishes Nagara and late Dravida visual emphasis?
 
-**Answer: C.**
-**Explanation:** Most temples use fine-grained sandstone on open terraces without an enclosure wall, while granite exceptions prevent a uniform-material claim. The remaining options belong to different chronology, actor or analytical categories.
+A. Both always look identical from the exterior.  
+B. Late Dravida architecture avoids tanks, corridors and gopurams.  
+C. Nagara commonly draws attention upward to the sanctum tower, while late Dravida traditions increasingly dramatize the gateway and enclosure system.  
+D. Nagara architecture never uses sculpture.  
 
-### Q28. Which statement avoids a close-option trap about Khajuraho material and enclosure?
+**Answer: C.**  
+**Explanation:** C is correct because it states the broad visual shift without making it absolute. A, B and D are overstatements or factual errors.
 
-A. Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters.
-B. Khajuraho's early open-air granite Chausath Yogini enclosure must not be confused with the circular Kachchhapaghata-period Mitaoli temple near Morena.
-C. Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax.
-D. Most temples use fine-grained sandstone on open terraces without an enclosure wall, while granite exceptions prevent a uniform-material claim.
+### Q28. Which comparison best separates Khajuraho from Modhera?
 
-**Answer: D.**
-**Explanation:** Most temples use fine-grained sandstone on open terraces without an enclosure wall, while granite exceptions prevent a uniform-material claim. The remaining options belong to different chronology, actor or analytical categories.
+A. Khajuraho is a rock-cut cave group, while Modhera is a painted gopuram complex.  
+B. Both are late Nayaka corridor temples.  
+C. Modhera is a Buddhist chaitya hall.  
+D. Khajuraho is known for high jagati terraces and dense figural walls, whereas Modhera is remembered with its Surya Kund and a distinct Solanki/Maru-Gurjara Nagara expression.  
 
-### Q29. Which statement correctly identifies Plural sacred programme?
+**Answer: D.**  
+**Explanation:** D is correct because it distinguishes two different Nagara regional solutions. A, B and C are category errors.
 
-A. Shaiva, Vaishnava, Surya, Ganesha and Jain dedications share the Khajuraho landscape and regional architectural idiom.
-B. Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth.
-C. Khajuraho's early open-air granite Chausath Yogini enclosure must not be confused with the circular Kachchhapaghata-period Mitaoli temple near Morena.
-D. The largest and loftiest Khajuraho temple is the culminating case for mature Nagara massing and integrated sculpture.
+### Q29. Which statement most accurately identifies Lingaraja's analytical use here?
 
-**Answer: A.**
-**Explanation:** Shaiva, Vaishnava, Surya, Ganesha and Jain dedications share the Khajuraho landscape and regional architectural idiom. The remaining options belong to different chronology, actor or analytical categories.
+A. It stands as a key Odisha comparator showing the walled Kalinga mature form within the Nagara family.  
+B. It is the principal example of Chandella sandstone without an enclosure wall.  
+C. It belongs to the Vijayanagara sacred-royal complex at Hampi.  
+D. It is a Hoysala stellate soapstone temple.  
 
-### Q30. Which chronology card should be filed under Plural sacred programme?
+**Answer: A.**  
+**Explanation:** A is correct because Lingaraja helps differentiate the Odisha/Kalinga branch from Khajuraho and other Nagara variants. The other options belong to different regional traditions.
 
-A. The largest and loftiest Khajuraho temple is the culminating case for mature Nagara massing and integrated sculpture.
-B. Shaiva, Vaishnava, Surya, Ganesha and Jain dedications share the Khajuraho landscape and regional architectural idiom.
-C. Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters.
-D. Khajuraho's early open-air granite Chausath Yogini enclosure must not be confused with the circular Kachchhapaghata-period Mitaoli temple near Morena.
+### Q30. Which statement best frames the 2025 Chandella artform PYQ?
 
-**Answer: B.**
-**Explanation:** Shaiva, Vaishnava, Surya, Ganesha and Jain dedications share the Khajuraho landscape and regional architectural idiom. The remaining options belong to different chronology, actor or analytical categories.
+A. Write only on erotic sculpture and ignore architecture.  
+B. Split the phrase into vigor in carving and breadth of life in subject matter, then join both at Kandariya Mahadeva and the larger Khajuraho programme.  
+C. Answer it only through UNESCO management law.  
+D. Treat Chandella artform as identical to Chola bronze casting.  
 
-### Q31. Which option preserves the source-bounded meaning of Plural sacred programme?
+**Answer: B.**  
+**Explanation:** B is the safest way to unpack the wording. A narrows the answer fatally, while C and D leave the demand itself unanswered.
 
-A. Khajuraho's early open-air granite Chausath Yogini enclosure must not be confused with the circular Kachchhapaghata-period Mitaoli temple near Morena.
-B. Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters.
-C. Shaiva, Vaishnava, Surya, Ganesha and Jain dedications share the Khajuraho landscape and regional architectural idiom.
-D. Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax.
+### Q31. Which statement best frames the 2024 Pallava PYQ?
 
-**Answer: C.**
-**Explanation:** Shaiva, Vaishnava, Surya, Ganesha and Jain dedications share the Khajuraho landscape and regional architectural idiom. The remaining options belong to different chronology, actor or analytical categories.
+A. Estimate means simply listing monuments without change over time.  
+B. Pallava contribution should be answered entirely through later Chola temples.  
+C. A safe answer moves from rock-cut beginnings to monolithic rathas, structural temples, literary culture and surviving mural evidence, then notes limits.  
+D. The best Pallava answer is to avoid Mahabalipuram because it is too famous.  
 
-### Q32. Which statement avoids a close-option trap about Plural sacred programme?
+**Answer: C.**  
+**Explanation:** C is correct because the directive 'estimate' requires both achievements and limits. A, B and D misread the demand.
 
-A. Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax.
-B. Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars.
-C. Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters.
-D. Shaiva, Vaishnava, Surya, Ganesha and Jain dedications share the Khajuraho landscape and regional architectural idiom.
+### Q32. Which statement best frames the 2024 Chola PYQ?
 
-**Answer: D.**
-**Explanation:** Shaiva, Vaishnava, Surya, Ganesha and Jain dedications share the Khajuraho landscape and regional architectural idiom. The remaining options belong to different chronology, actor or analytical categories.
+A. The Chola question should be answered only through political history with no monument names.  
+B. The safest move is to deny Chola achievement because the dynasty ended.  
+C. Only one bronze image is enough for a 250-word comment.  
+D. A strong answer must go beyond Brihadishvara alone and include development, bronzes, murals, inscriptions, administration and later gopura emphasis.  
 
-### Q33. Which statement correctly identifies Vigour and breadth of life?
-
-A. Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth.
-B. Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters.
-C. The largest and loftiest Khajuraho temple is the culminating case for mature Nagara massing and integrated sculpture.
-D. Khajuraho's early open-air granite Chausath Yogini enclosure must not be confused with the circular Kachchhapaghata-period Mitaoli temple near Morena.
-
-**Answer: A.**
-**Explanation:** Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q34. Which chronology card should be filed under Vigour and breadth of life?
-
-A. Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax.
-B. Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth.
-C. Khajuraho's early open-air granite Chausath Yogini enclosure must not be confused with the circular Kachchhapaghata-period Mitaoli temple near Morena.
-D. Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters.
-
-**Answer: B.**
-**Explanation:** Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q35. Which option preserves the source-bounded meaning of Vigour and breadth of life?
-
-A. Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax.
-B. Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars.
-C. Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth.
-D. Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters.
-
-**Answer: C.**
-**Explanation:** Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about Vigour and breadth of life?
-
-A. Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars.
-B. Hampi's temples extend Dravida gopuram and mandapa forms, while Islamicate arches and domes are strongest in the royal and secular zone.
-C. Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax.
-D. Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth.
-
-**Answer: D.**
-**Explanation:** Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies Kandariya Mahadeva?
-
-A. The largest and loftiest Khajuraho temple is the culminating case for mature Nagara massing and integrated sculpture.
-B. Khajuraho's early open-air granite Chausath Yogini enclosure must not be confused with the circular Kachchhapaghata-period Mitaoli temple near Morena.
-C. Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters.
-D. Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax.
-
-**Answer: A.**
-**Explanation:** The largest and loftiest Khajuraho temple is the culminating case for mature Nagara massing and integrated sculpture. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under Kandariya Mahadeva?
-
-A. Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax.
-B. The largest and loftiest Khajuraho temple is the culminating case for mature Nagara massing and integrated sculpture.
-C. Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars.
-D. Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters.
-
-**Answer: B.**
-**Explanation:** The largest and loftiest Khajuraho temple is the culminating case for mature Nagara massing and integrated sculpture. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q39. Which option preserves the source-bounded meaning of Kandariya Mahadeva?
-
-A. Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax.
-B. Hampi's temples extend Dravida gopuram and mandapa forms, while Islamicate arches and domes are strongest in the royal and secular zone.
-C. The largest and loftiest Khajuraho temple is the culminating case for mature Nagara massing and integrated sculpture.
-D. Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars.
-
-**Answer: C.**
-**Explanation:** The largest and loftiest Khajuraho temple is the culminating case for mature Nagara massing and integrated sculpture. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Kandariya Mahadeva?
-
-A. Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars.
-B. Hampi's temples extend Dravida gopuram and mandapa forms, while Islamicate arches and domes are strongest in the royal and secular zone.
-C. Nayaka building enlarged older complexes through graded gopurams, prakarams, temple tanks, stucco superstructures and processional halls.
-D. The largest and loftiest Khajuraho temple is the culminating case for mature Nagara massing and integrated sculpture.
-
-**Answer: D.**
-**Explanation:** The largest and loftiest Khajuraho temple is the culminating case for mature Nagara massing and integrated sculpture. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Chausath Yogini distinction?
-
-A. Khajuraho's early open-air granite Chausath Yogini enclosure must not be confused with the circular Kachchhapaghata-period Mitaoli temple near Morena.
-B. Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters.
-C. Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax.
-D. Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars.
-
-**Answer: A.**
-**Explanation:** Khajuraho's early open-air granite Chausath Yogini enclosure must not be confused with the circular Kachchhapaghata-period Mitaoli temple near Morena. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Chausath Yogini distinction?
-
-A. Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax.
-B. Khajuraho's early open-air granite Chausath Yogini enclosure must not be confused with the circular Kachchhapaghata-period Mitaoli temple near Morena.
-C. Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars.
-D. Hampi's temples extend Dravida gopuram and mandapa forms, while Islamicate arches and domes are strongest in the royal and secular zone.
-
-**Answer: B.**
-**Explanation:** Khajuraho's early open-air granite Chausath Yogini enclosure must not be confused with the circular Kachchhapaghata-period Mitaoli temple near Morena. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Chausath Yogini distinction?
-
-A. Hampi's temples extend Dravida gopuram and mandapa forms, while Islamicate arches and domes are strongest in the royal and secular zone.
-B. Nayaka building enlarged older complexes through graded gopurams, prakarams, temple tanks, stucco superstructures and processional halls.
-C. Khajuraho's early open-air granite Chausath Yogini enclosure must not be confused with the circular Kachchhapaghata-period Mitaoli temple near Morena.
-D. Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars.
-
-**Answer: C.**
-**Explanation:** Khajuraho's early open-air granite Chausath Yogini enclosure must not be confused with the circular Kachchhapaghata-period Mitaoli temple near Morena. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about Chausath Yogini distinction?
-
-A. Bengal's brick and terracotta architecture joined Buddhist and Hindu patronage and translated the bamboo-hut roof into the Bangla roof later used by Mughals.
-B. Nayaka building enlarged older complexes through graded gopurams, prakarams, temple tanks, stucco superstructures and processional halls.
-C. Hampi's temples extend Dravida gopuram and mandapa forms, while Islamicate arches and domes are strongest in the royal and secular zone.
-D. Khajuraho's early open-air granite Chausath Yogini enclosure must not be confused with the circular Kachchhapaghata-period Mitaoli temple near Morena.
-
-**Answer: D.**
-**Explanation:** Khajuraho's early open-air granite Chausath Yogini enclosure must not be confused with the circular Kachchhapaghata-period Mitaoli temple near Morena. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Pallava transition?
-
-A. Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters.
-B. Hampi's temples extend Dravida gopuram and mandapa forms, while Islamicate arches and domes are strongest in the royal and secular zone.
-C. Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax.
-D. Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars.
-
-**Answer: A.**
-**Explanation:** Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Pallava transition?
-
-A. Hampi's temples extend Dravida gopuram and mandapa forms, while Islamicate arches and domes are strongest in the royal and secular zone.
-B. Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters.
-C. Nayaka building enlarged older complexes through graded gopurams, prakarams, temple tanks, stucco superstructures and processional halls.
-D. Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars.
-
-**Answer: B.**
-**Explanation:** Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Pallava transition?
-
-A. Nayaka building enlarged older complexes through graded gopurams, prakarams, temple tanks, stucco superstructures and processional halls.
-B. Bengal's brick and terracotta architecture joined Buddhist and Hindu patronage and translated the bamboo-hut roof into the Bangla roof later used by Mughals.
-C. Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters.
-D. Hampi's temples extend Dravida gopuram and mandapa forms, while Islamicate arches and domes are strongest in the royal and secular zone.
-
-**Answer: C.**
-**Explanation:** Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Pallava transition?
-
-A. Nayaka building enlarged older complexes through graded gopurams, prakarams, temple tanks, stucco superstructures and processional halls.
-B. Bengal's brick and terracotta architecture joined Buddhist and Hindu patronage and translated the bamboo-hut roof into the Bangla roof later used by Mughals.
-C. The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand.
-D. Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters.
-
-**Answer: D.**
-**Explanation:** Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Chola achievement?
-
-A. Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax.
-B. Hampi's temples extend Dravida gopuram and mandapa forms, while Islamicate arches and domes are strongest in the royal and secular zone.
-C. Nayaka building enlarged older complexes through graded gopurams, prakarams, temple tanks, stucco superstructures and processional halls.
-D. Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars.
-
-**Answer: A.**
-**Explanation:** Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Chola achievement?
-
-A. Bengal's brick and terracotta architecture joined Buddhist and Hindu patronage and translated the bamboo-hut roof into the Bangla roof later used by Mughals.
-B. Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax.
-C. Hampi's temples extend Dravida gopuram and mandapa forms, while Islamicate arches and domes are strongest in the royal and secular zone.
-D. Nayaka building enlarged older complexes through graded gopurams, prakarams, temple tanks, stucco superstructures and processional halls.
-
-**Answer: B.**
-**Explanation:** Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Chola achievement?
-
-A. The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand.
-B. Bengal's brick and terracotta architecture joined Buddhist and Hindu patronage and translated the bamboo-hut roof into the Bangla roof later used by Mughals.
-C. Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax.
-D. Nayaka building enlarged older complexes through graded gopurams, prakarams, temple tanks, stucco superstructures and processional halls.
-
-**Answer: C.**
-**Explanation:** Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Chola achievement?
-
-A. UNESCO's official property page describes axial Nagara spaces, clustered spires and sacred-secular sculptural themes under ASI management.
-B. Bengal's brick and terracotta architecture joined Buddhist and Hindu patronage and translated the bamboo-hut roof into the Bangla roof later used by Mughals.
-C. The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand.
-D. Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax.
-
-**Answer: D.**
-**Explanation:** Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Chalukya and Hoysala experiment?
-
-A. Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars.
-B. Hampi's temples extend Dravida gopuram and mandapa forms, while Islamicate arches and domes are strongest in the royal and secular zone.
-C. Nayaka building enlarged older complexes through graded gopurams, prakarams, temple tanks, stucco superstructures and processional halls.
-D. Bengal's brick and terracotta architecture joined Buddhist and Hindu patronage and translated the bamboo-hut roof into the Bangla roof later used by Mughals.
-
-**Answer: A.**
-**Explanation:** Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Chalukya and Hoysala experiment?
-
-A. The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand.
-B. Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars.
-C. Nayaka building enlarged older complexes through graded gopurams, prakarams, temple tanks, stucco superstructures and processional halls.
-D. Bengal's brick and terracotta architecture joined Buddhist and Hindu patronage and translated the bamboo-hut roof into the Bangla roof later used by Mughals.
-
-**Answer: B.**
-**Explanation:** Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Chalukya and Hoysala experiment?
-
-A. UNESCO's official property page describes axial Nagara spaces, clustered spires and sacred-secular sculptural themes under ASI management.
-B. The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand.
-C. Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars.
-D. Bengal's brick and terracotta architecture joined Buddhist and Hindu patronage and translated the bamboo-hut roof into the Bangla roof later used by Mughals.
-
-**Answer: C.**
-**Explanation:** Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Chalukya and Hoysala experiment?
-
-A. A strong answer names school, morphology, patron, monument, sculptural programme, comparison, evidence limit and heritage status in that order.
-B. UNESCO's official property page describes axial Nagara spaces, clustered spires and sacred-secular sculptural themes under ASI management.
-C. The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand.
-D. Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars.
-
-**Answer: D.**
-**Explanation:** Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Vijayanagara temple-secular split?
-
-A. Hampi's temples extend Dravida gopuram and mandapa forms, while Islamicate arches and domes are strongest in the royal and secular zone.
-B. Nayaka building enlarged older complexes through graded gopurams, prakarams, temple tanks, stucco superstructures and processional halls.
-C. Bengal's brick and terracotta architecture joined Buddhist and Hindu patronage and translated the bamboo-hut roof into the Bangla roof later used by Mughals.
-D. The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand.
-
-**Answer: A.**
-**Explanation:** Hampi's temples extend Dravida gopuram and mandapa forms, while Islamicate arches and domes are strongest in the royal and secular zone. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Vijayanagara temple-secular split?
-
-A. Bengal's brick and terracotta architecture joined Buddhist and Hindu patronage and translated the bamboo-hut roof into the Bangla roof later used by Mughals.
-B. Hampi's temples extend Dravida gopuram and mandapa forms, while Islamicate arches and domes are strongest in the royal and secular zone.
-C. UNESCO's official property page describes axial Nagara spaces, clustered spires and sacred-secular sculptural themes under ASI management.
-D. The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand.
-
-**Answer: B.**
-**Explanation:** Hampi's temples extend Dravida gopuram and mandapa forms, while Islamicate arches and domes are strongest in the royal and secular zone. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Vijayanagara temple-secular split?
-
-A. The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand.
-B. A strong answer names school, morphology, patron, monument, sculptural programme, comparison, evidence limit and heritage status in that order.
-C. Hampi's temples extend Dravida gopuram and mandapa forms, while Islamicate arches and domes are strongest in the royal and secular zone.
-D. UNESCO's official property page describes axial Nagara spaces, clustered spires and sacred-secular sculptural themes under ASI management.
-
-**Answer: C.**
-**Explanation:** Hampi's temples extend Dravida gopuram and mandapa forms, while Islamicate arches and domes are strongest in the royal and secular zone. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Vijayanagara temple-secular split?
-
-A. A strong answer names school, morphology, patron, monument, sculptural programme, comparison, evidence limit and heritage status in that order.
-B. Garbhagriha, mandapa, antarala, ardhamandapa, pradakshina patha, vahana and platform describe a ritual sequence rather than decorative labels.
-C. UNESCO's official property page describes axial Nagara spaces, clustered spires and sacred-secular sculptural themes under ASI management.
-D. Hampi's temples extend Dravida gopuram and mandapa forms, while Islamicate arches and domes are strongest in the royal and secular zone.
-
-**Answer: D.**
-**Explanation:** Hampi's temples extend Dravida gopuram and mandapa forms, while Islamicate arches and domes are strongest in the royal and secular zone. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Nayaka expansion?
-
-A. Nayaka building enlarged older complexes through graded gopurams, prakarams, temple tanks, stucco superstructures and processional halls.
-B. Bengal's brick and terracotta architecture joined Buddhist and Hindu patronage and translated the bamboo-hut roof into the Bangla roof later used by Mughals.
-C. The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand.
-D. UNESCO's official property page describes axial Nagara spaces, clustered spires and sacred-secular sculptural themes under ASI management.
-
-**Answer: A.**
-**Explanation:** Nayaka building enlarged older complexes through graded gopurams, prakarams, temple tanks, stucco superstructures and processional halls. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Nayaka expansion?
-
-A. A strong answer names school, morphology, patron, monument, sculptural programme, comparison, evidence limit and heritage status in that order.
-B. Nayaka building enlarged older complexes through graded gopurams, prakarams, temple tanks, stucco superstructures and processional halls.
-C. UNESCO's official property page describes axial Nagara spaces, clustered spires and sacred-secular sculptural themes under ASI management.
-D. The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand.
-
-**Answer: B.**
-**Explanation:** Nayaka building enlarged older complexes through graded gopurams, prakarams, temple tanks, stucco superstructures and processional halls. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Nayaka expansion?
-
-A. UNESCO's official property page describes axial Nagara spaces, clustered spires and sacred-secular sculptural themes under ASI management.
-B. A strong answer names school, morphology, patron, monument, sculptural programme, comparison, evidence limit and heritage status in that order.
-C. Nayaka building enlarged older complexes through graded gopurams, prakarams, temple tanks, stucco superstructures and processional halls.
-D. Garbhagriha, mandapa, antarala, ardhamandapa, pradakshina patha, vahana and platform describe a ritual sequence rather than decorative labels.
-
-**Answer: C.**
-**Explanation:** Nayaka building enlarged older complexes through graded gopurams, prakarams, temple tanks, stucco superstructures and processional halls. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Nayaka expansion?
-
-A. Garbhagriha, mandapa, antarala, ardhamandapa, pradakshina patha, vahana and platform describe a ritual sequence rather than decorative labels.
-B. A strong answer names school, morphology, patron, monument, sculptural programme, comparison, evidence limit and heritage status in that order.
-C. Early structural temples moved from flat-roofed square shrines through raised and circumambulatory plans toward shikhara, panchayatana and varied ground plans.
-D. Nayaka building enlarged older complexes through graded gopurams, prakarams, temple tanks, stucco superstructures and processional halls.
-
-**Answer: D.**
-**Explanation:** Nayaka building enlarged older complexes through graded gopurams, prakarams, temple tanks, stucco superstructures and processional halls. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Pala-Sena eastern school?
-
-A. Bengal's brick and terracotta architecture joined Buddhist and Hindu patronage and translated the bamboo-hut roof into the Bangla roof later used by Mughals.
-B. UNESCO's official property page describes axial Nagara spaces, clustered spires and sacred-secular sculptural themes under ASI management.
-C. The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand.
-D. A strong answer names school, morphology, patron, monument, sculptural programme, comparison, evidence limit and heritage status in that order.
-
-**Answer: A.**
-**Explanation:** Bengal's brick and terracotta architecture joined Buddhist and Hindu patronage and translated the bamboo-hut roof into the Bangla roof later used by Mughals. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Pala-Sena eastern school?
-
-A. A strong answer names school, morphology, patron, monument, sculptural programme, comparison, evidence limit and heritage status in that order.
-B. Bengal's brick and terracotta architecture joined Buddhist and Hindu patronage and translated the bamboo-hut roof into the Bangla roof later used by Mughals.
-C. UNESCO's official property page describes axial Nagara spaces, clustered spires and sacred-secular sculptural themes under ASI management.
-D. Garbhagriha, mandapa, antarala, ardhamandapa, pradakshina patha, vahana and platform describe a ritual sequence rather than decorative labels.
-
-**Answer: B.**
-**Explanation:** Bengal's brick and terracotta architecture joined Buddhist and Hindu patronage and translated the bamboo-hut roof into the Bangla roof later used by Mughals. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Pala-Sena eastern school?
-
-A. A strong answer names school, morphology, patron, monument, sculptural programme, comparison, evidence limit and heritage status in that order.
-B. Garbhagriha, mandapa, antarala, ardhamandapa, pradakshina patha, vahana and platform describe a ritual sequence rather than decorative labels.
-C. Bengal's brick and terracotta architecture joined Buddhist and Hindu patronage and translated the bamboo-hut roof into the Bangla roof later used by Mughals.
-D. Early structural temples moved from flat-roofed square shrines through raised and circumambulatory plans toward shikhara, panchayatana and varied ground plans.
-
-**Answer: C.**
-**Explanation:** Bengal's brick and terracotta architecture joined Buddhist and Hindu patronage and translated the bamboo-hut roof into the Bangla roof later used by Mughals. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Pala-Sena eastern school?
-
-A. Early structural temples moved from flat-roofed square shrines through raised and circumambulatory plans toward shikhara, panchayatana and varied ground plans.
-B. Garbhagriha, mandapa, antarala, ardhamandapa, pradakshina patha, vahana and platform describe a ritual sequence rather than decorative labels.
-C. Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram.
-D. Bengal's brick and terracotta architecture joined Buddhist and Hindu patronage and translated the bamboo-hut roof into the Bangla roof later used by Mughals.
-
-**Answer: D.**
-**Explanation:** Bengal's brick and terracotta architecture joined Buddhist and Hindu patronage and translated the bamboo-hut roof into the Bangla roof later used by Mughals. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Verified temple PYQ cluster?
-
-A. The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand.
-B. UNESCO's official property page describes axial Nagara spaces, clustered spires and sacred-secular sculptural themes under ASI management.
-C. A strong answer names school, morphology, patron, monument, sculptural programme, comparison, evidence limit and heritage status in that order.
-D. Garbhagriha, mandapa, antarala, ardhamandapa, pradakshina patha, vahana and platform describe a ritual sequence rather than decorative labels.
-
-**Answer: A.**
-**Explanation:** The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand. The remaining options belong to different chronology, actor or analytical categories.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Q69. Which statement correctly identifies Verified temple PYQ cluster?”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the cultural demand in “Q69. Which statement correctly identifies Verified temple PYQ cluster?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q69. Which statement correctly identifies Verified temple PYQ cluster? **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** A. The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** B. UNESCO's official property page describes axial Nagara spaces, clustered spires and sacred-secular sculptural themes under ASI management. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** C. A strong answer names school, morphology, patron, monument, sculptural programme, comparison, evidence limit and heritage status in that order. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** The answer must resolve the cultural demand in “Q69. Which statement correctly identifies Verified temple PYQ cluster?”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Q69. Which statement correctly identifies Verified temple PYQ cluster?”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### Q70. Which chronology card should be filed under Verified temple PYQ cluster?
-
-A. Garbhagriha, mandapa, antarala, ardhamandapa, pradakshina patha, vahana and platform describe a ritual sequence rather than decorative labels.
-B. The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand.
-C. Early structural temples moved from flat-roofed square shrines through raised and circumambulatory plans toward shikhara, panchayatana and varied ground plans.
-D. A strong answer names school, morphology, patron, monument, sculptural programme, comparison, evidence limit and heritage status in that order.
-
-**Answer: B.**
-**Explanation:** The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand. The remaining options belong to different chronology, actor or analytical categories.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Q70. Which chronology card should be filed under Verified temple PYQ cluster?”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the cultural demand in “Q70. Which chronology card should be filed under Verified temple PYQ cluster?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q70. Which chronology card should be filed under Verified temple PYQ cluster? **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** A. Garbhagriha, mandapa, antarala, ardhamandapa, pradakshina patha, vahana and platform describe a ritual sequence rather than decorative labels. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** B. The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** C. Early structural temples moved from flat-roofed square shrines through raised and circumambulatory plans toward shikhara, panchayatana and varied ground plans. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** The answer must resolve the cultural demand in “Q70. Which chronology card should be filed under Verified temple PYQ cluster?”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Q70. Which chronology card should be filed under Verified temple PYQ cluster?”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### Q71. Which option preserves the source-bounded meaning of Verified temple PYQ cluster?
-
-A. Garbhagriha, mandapa, antarala, ardhamandapa, pradakshina patha, vahana and platform describe a ritual sequence rather than decorative labels.
-B. Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram.
-C. The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand.
-D. Early structural temples moved from flat-roofed square shrines through raised and circumambulatory plans toward shikhara, panchayatana and varied ground plans.
-
-**Answer: C.**
-**Explanation:** The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand. The remaining options belong to different chronology, actor or analytical categories.
-
-**Demand decoding:** Treat “Q71. Which option preserves the source-bounded meaning of Verified temple PYQ cluster?” as a form, chronology, region, patron, medium and status problem. Verify every pairing independently without inventing an official key.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the cultural demand in “Q71. Which option preserves the source-bounded meaning of Verified temple PYQ cluster?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q71. Which option preserves the source-bounded meaning of Verified temple PYQ cluster? **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** A. Garbhagriha, mandapa, antarala, ardhamandapa, pradakshina patha, vahana and platform describe a ritual sequence rather than decorative labels. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** B. Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** C. The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** The answer must resolve the cultural demand in “Q71. Which option preserves the source-bounded meaning of Verified temple PYQ cluster?”.
-
-**Executable exam-length answer / compression plan:** Fix the category and period; pair form with region, material, patron or institution; separate historical fact from later label or current recognition; eliminate the closest distractor.
-
-**Why this earns marks:** It preserves answer-text integrity and exact category mapping while keeping reasoned elimination separate from an official key.
-
-**How to improve this answer:** For “Q71. Which option preserves the source-bounded meaning of Verified temple PYQ cluster?”, state why the nearest distractor fails on medium, region, chronology, patronage, terminology or recognition status.
-
-### Q72. Which statement avoids a close-option trap about Verified temple PYQ cluster?
-
-A. Vesara is best used after describing Deccan plan, tower and material; it is not a mechanically equal mixture of Nagara and Dravida.
-B. Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram.
-C. Early structural temples moved from flat-roofed square shrines through raised and circumambulatory plans toward shikhara, panchayatana and varied ground plans.
-D. The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand.
-
-**Answer: D.**
-**Explanation:** The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Official Khajuraho linkage?
-
-A. UNESCO's official property page describes axial Nagara spaces, clustered spires and sacred-secular sculptural themes under ASI management.
-B. Early structural temples moved from flat-roofed square shrines through raised and circumambulatory plans toward shikhara, panchayatana and varied ground plans.
-C. A strong answer names school, morphology, patron, monument, sculptural programme, comparison, evidence limit and heritage status in that order.
-D. Garbhagriha, mandapa, antarala, ardhamandapa, pradakshina patha, vahana and platform describe a ritual sequence rather than decorative labels.
-
-**Answer: A.**
-**Explanation:** UNESCO's official property page describes axial Nagara spaces, clustered spires and sacred-secular sculptural themes under ASI management. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Official Khajuraho linkage?
-
-A. Early structural temples moved from flat-roofed square shrines through raised and circumambulatory plans toward shikhara, panchayatana and varied ground plans.
-B. UNESCO's official property page describes axial Nagara spaces, clustered spires and sacred-secular sculptural themes under ASI management.
-C. Garbhagriha, mandapa, antarala, ardhamandapa, pradakshina patha, vahana and platform describe a ritual sequence rather than decorative labels.
-D. Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram.
-
-**Answer: B.**
-**Explanation:** UNESCO's official property page describes axial Nagara spaces, clustered spires and sacred-secular sculptural themes under ASI management. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Official Khajuraho linkage?
-
-A. Vesara is best used after describing Deccan plan, tower and material; it is not a mechanically equal mixture of Nagara and Dravida.
-B. Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram.
-C. UNESCO's official property page describes axial Nagara spaces, clustered spires and sacred-secular sculptural themes under ASI management.
-D. Early structural temples moved from flat-roofed square shrines through raised and circumambulatory plans toward shikhara, panchayatana and varied ground plans.
-
-**Answer: C.**
-**Explanation:** UNESCO's official property page describes axial Nagara spaces, clustered spires and sacred-secular sculptural themes under ASI management. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Official Khajuraho linkage?
-
-A. Vesara is best used after describing Deccan plan, tower and material; it is not a mechanically equal mixture of Nagara and Dravida.
-B. Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram.
-C. Jejabhukti's Chandellas used temple patronage during political self-assertion, with Dhanga's maharajadhiraja title providing the key sovereignty context.
-D. UNESCO's official property page describes axial Nagara spaces, clustered spires and sacred-secular sculptural themes under ASI management.
-
-**Answer: D.**
-**Explanation:** UNESCO's official property page describes axial Nagara spaces, clustered spires and sacred-secular sculptural themes under ASI management. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Temple answer spine?
-
-A. A strong answer names school, morphology, patron, monument, sculptural programme, comparison, evidence limit and heritage status in that order.
-B. Early structural temples moved from flat-roofed square shrines through raised and circumambulatory plans toward shikhara, panchayatana and varied ground plans.
-C. Garbhagriha, mandapa, antarala, ardhamandapa, pradakshina patha, vahana and platform describe a ritual sequence rather than decorative labels.
-D. Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram.
-
-**Answer: A.**
-**Explanation:** A strong answer names school, morphology, patron, monument, sculptural programme, comparison, evidence limit and heritage status in that order. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Temple answer spine?
-
-A. Vesara is best used after describing Deccan plan, tower and material; it is not a mechanically equal mixture of Nagara and Dravida.
-B. A strong answer names school, morphology, patron, monument, sculptural programme, comparison, evidence limit and heritage status in that order.
-C. Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram.
-D. Early structural temples moved from flat-roofed square shrines through raised and circumambulatory plans toward shikhara, panchayatana and varied ground plans.
-
-**Answer: B.**
-**Explanation:** A strong answer names school, morphology, patron, monument, sculptural programme, comparison, evidence limit and heritage status in that order. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Temple answer spine?
-
-A. Vesara is best used after describing Deccan plan, tower and material; it is not a mechanically equal mixture of Nagara and Dravida.
-B. Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram.
-C. A strong answer names school, morphology, patron, monument, sculptural programme, comparison, evidence limit and heritage status in that order.
-D. Jejabhukti's Chandellas used temple patronage during political self-assertion, with Dhanga's maharajadhiraja title providing the key sovereignty context.
-
-**Answer: C.**
-**Explanation:** A strong answer names school, morphology, patron, monument, sculptural programme, comparison, evidence limit and heritage status in that order. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Temple answer spine?
-
-A. Vesara is best used after describing Deccan plan, tower and material; it is not a mechanically equal mixture of Nagara and Dravida.
-B. A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas.
-C. Jejabhukti's Chandellas used temple patronage during political self-assertion, with Dhanga's maharajadhiraja title providing the key sovereignty context.
-D. A strong answer names school, morphology, patron, monument, sculptural programme, comparison, evidence limit and heritage status in that order.
-
-**Answer: D.**
-**Explanation:** A strong answer names school, morphology, patron, monument, sculptural programme, comparison, evidence limit and heritage status in that order. The remaining options belong to different chronology, actor or analytical categories.
+**Answer: D.**  
+**Explanation:** D is correct because the 2024 demand asks why Chola achievement is remembered with pride. A, B and C all remove the multi-dimensional evidence that justifies that pride.
 
 ## PYQS AND ANSWER PRACTICE
 
-**Demand decoding:** Treat “Q72. Which statement avoids a close-option trap about Verified temple PYQ cluster?” as a form, chronology, region, patron, medium and status problem. Verify every pairing independently without inventing an official key.
+### DIRECT OWNED PYQ - 2022 GS-I Q1
 
-**Detailed examiner-grade model answer:**
+**Question:** Medieval Indian temple sculptures represent the social life of those days. How will you explain this statement? (Answer in 150 words)  
+**Ownership:** Direct owner - Indian Art and Culture Topic 03, with method support from Topic 06.  
+**Demand decoding:** The examiner has already supplied the claim. Your job is to qualify it, evidence it and state its limit.
 
-**Introduction and thesis:** The answer must resolve the cultural demand in “Q72. Which statement avoids a close-option trap about Verified temple PYQ cluster?”.
+**Model answer:**
+Medieval temple sculpture can be used as a valuable but selective source for social history. At Khajuraho, sculptural bands show dancers, musicians, teachers, disciples, worshippers and courtly figures, proving that performance, instruction and elite social life were considered worthy of public visual representation. Chola material strengthens the point: the Airavatesvara temple at Darasuram carries Nayanar legends, while royal courtyards, ritual halls and temple imagery connect sacred space with festivals and institutional life. Hoysala and Aihole evidence pushes the argument further by naming artisans and merchant bodies, showing that temples emerged from organised craft and donor worlds.
 
-**Analytical body:**
+Yet sculpture is not a photographic census of society. It reflects commissioned representation, shaped by patron taste, sectarian aims and aesthetic convention. Erotic panels, for example, cannot be read directly as a transparent record of ordinary behaviour. Therefore, temple sculpture is historically powerful because it preserves selected social registers in durable form, but a mature answer must always attach evidence to caution.
 
-1. **Claim and named evidence:** Q72. Which statement avoids a close-option trap about Verified temple PYQ cluster? **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** A. Vesara is best used after describing Deccan plan, tower and material; it is not a mechanically equal mixture of Nagara and Dravida. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** B. Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** C. Early structural temples moved from flat-roofed square shrines through raised and circumambulatory plans toward shikhara, panchayatana and varied ground plans. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
+**Why this answer works:** It uses three registers - performance, institutional-devotional life and artisan-donor visibility - and then adds the commissioned-representation limit.
 
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
+### DIRECT OWNED PYQ - 2024 GS-I Q2
 
-**Qualified conclusion:** The answer must resolve the cultural demand in “Q72. Which statement avoids a close-option trap about Verified temple PYQ cluster?”.
+**Question:** Estimate the contribution of Pallavas of Kanchi for the development of art and literature of South India. (Answer in 150 words)  
+**Ownership:** Direct owner - Indian Art and Culture Topic 03.  
+**Demand decoding:** 'Estimate' means weigh contribution, not merely praise it.
 
-**Executable exam-length answer / compression plan:** Fix the category and period; pair form with region, material, patron or institution; separate historical fact from later label or current recognition; eliminate the closest distractor.
+**Model answer:**
+The Pallavas of Kanchi made a foundational contribution to South Indian art because they turned experimentation into a visible architectural sequence. Under Mahendravarman I, rock-cut cave temples such as Mandagapattu and Mamandur established the early Dravida sacred vocabulary. Under Narasimhavarman I Mamalla, the monolithic Pancha Rathas at Mamallapuram tested varied plans and elevations in stone. Under Rajasimha, the Shore Temple and Kailasanatha signalled the decisive shift from excavation to structural temple building.
 
-**Why this earns marks:** It preserves answer-text integrity and exact category mapping while keeping reasoned elimination separate from an official key.
+Their contribution also extended to literature and visual culture. Kanchipuram functioned as an important political and literary centre, Dandin was associated with the Pallava court, and surviving mural fragments at Kailasanatha and Panamalai show that painting too formed part of the Pallava achievement. At the same time, the contribution should be estimated rather than romanticised: mural survival is slight, and later Cholas carried the architectural trajectory forward. Even so, the Pallavas remain the key initiators of the South Indian temple sequence that later dynasties enlarged.
 
-**How to improve this answer:** For “Q72. Which statement avoids a close-option trap about Verified temple PYQ cluster?”, state why the nearest distractor fails on medium, region, chronology, patronage, terminology or recognition status.
+**Why this answer works:** It joins architecture, literature and mural evidence, then adds a measured limit.
 
-### VERIFIED PYQ OWNERSHIP AUDIT
+### DIRECT OWNED PYQ - 2024 GS-I Q11
 
-Verified owned Mains routes are the 2024 Pallava and Chola demands, the 2025 Chandella demand, and the routed 2022 demand on medieval temple sculpture as social evidence. The 2026 objective route remains provisionally keyed and is not solved.
+**Question:** "Though the great Cholas are no more yet their name is still remembered with great pride because of their highest achievements in the domain of art and architecture." Comment. (Answer in 250 words)  
+**Ownership:** Direct owner - Indian Art and Culture Topic 03.  
+**Demand decoding:** 'Comment' needs a reasoned position supported by multiple dimensions of achievement.
 
-### OWNER PYQ LEDGER EXTRACTS
+**Model answer:**
+The statement is justified because Chola achievement in art and architecture was not a single monument but a mature civilisational package of temple building, sculpture, painting and institutional organisation. Architecturally, the sequence begins with early shrines such as Narttamalai and develops through increasingly complex mandapa and devakoshtha arrangements before reaching the imperial climax at Brihadishvara, Thanjavur. There the soaring vimana, granite construction, axial planning, Nandi mandapa, enclosure and mural programme combine scale with technical control. Rajendra I's Gangaikondacholapuram and the later Airavatesvara temple at Darasuram show that this tradition remained inventive, while the later phase marks the increasing prominence of the gopura.
 
-#### 7. Exact PYQ application
+Chola memory also rests on sculpture and painting. Their bronze tradition, above all Nataraja, became the classic image of kinetic divinity in Indian art. Brihadishvara's murals and Chola wall-painting remains show that sacred narrative, devotion and royal presence were also rendered pictorially. Inscriptions deepen the legacy further: they document donations, festivals, daily worship and administration, proving that the temple was a living institution, not an inert monument.
 
-✅ **2025 Q3, verbatim:** "'The sculptors filled the Chandella artform with
-resilient vigor and breadth of life.' Elucidate. (Answer in 150 words)"
-(`UPSC Mains 2025 GS Paper 1.txt:14-18`). ⚠️ A 150-word answer should: (i)
-name Khajuraho/Chandella Nagara architecture briefly; (ii) show "resilient
-vigour" through the dynamism of figural sculpture — dancers, musicians,
-divine and secular figures, mithuna couples, Vyalas — in active, twisting
-postures rather than static poses; (iii) show "breadth of life" through
-the sculptural programme's range (deities, courtly life, ascetics,
-animals, erotic imagery as one part among many); (iv) close by naming
-Kandariya Mahadeva as the culminating example and the 1986 UNESCO
-inscription as the current-status anchor.
+A balanced answer should add two cautions. First, not every Chola project survives equally well - Gangaikondacholapuram was left incomplete in comparison with Thanjavur. Second, the achievement depended on large political and material resources that the stone record does not fully explain. Even with these limits, the Cholas are remembered with pride because they fused scale, aesthetics, ritual and administration into one durable artistic order.
 
-✅ **2024 Q2, verbatim:** "Estimate the contribution of Pallavas of Kanchi
-for the development of art and literature of South India. (Answer in 150
-words)" (`UPSC Mains 2024 GS Paper I.txt:15-20`). ⚠️ Answer should cite:
-Pallava temple architecture beginning under Mahendravarman I (610-630 AD);
-A.H. Longhurst's four chronological styles (Mahendravarman, Mamalla,
-Rajasimha, Nandivarman); the Mahabalipuram monolithic Pancha Rathas and
-Shore Temple (UNESCO 1984); Kanchipuram as capital and centre of Sanskrit
-scholarship (Dandin's *Avantisundari Katha*) — literature contribution
-belongs jointly to topic 11.
+**Why this answer works:** It goes beyond Brihadishvara alone and uses development, art forms and inscriptions.
 
-✅ **2024 Q11, verbatim:** "Though the great Cholas are no more yet their
-name is still remembered with great pride because of their highest
-achievements in the domain of art and architecture. Comment. (Answer in
-250 words)" (`UPSC Mains 2024 GS Paper I.txt:77-82`). ⚠️ Answer should
-cite: Brihadishvara Temple, Thanjavur (built by Rajaraja I in the early
-eleventh century, also called Rajarajeshvara, Periya Kovil and Dakshina
-Meru) — a fully granite temple with a huge vimana that the book describes
-as about 60 m tall; the "Great Living Chola Temples" UNESCO inscription
-(Thanjavur 1987; Gangaikondacholapuram and Darasuram added 2004); Chola
-bronze sculpture, especially the Nataraja (developed fully in topic 06);
-the elaborate temple-administration Tamil inscription at Airavatesvara
-Temple as evidence of institutional sophistication. ❌ Do not quote a
-decimal vimana height or a precise consecration year: this folder's
-sources support "early 11th century" and "about 60 m," and any more exact
-figure must come from a separately cited dated source.
+### DIRECT OWNED PYQ - 2025 GS-I Q3
 
-#### 2026 PYQ Integration
+**Question:** "The sculptors filled the Chandella artform with resilient vigor and breadth of life." Elucidate. (Answer in 150 words)  
+**Ownership:** Direct owner - Indian Art and Culture Topic 03.  
+**Demand decoding:** Split the line into two parts - vigor in carving, breadth in subject matter.
 
-> **Status:** 2026 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
-> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
+**Model answer:**
+The Chandella artform at Khajuraho shows vigor first in the way stone is handled. Most temples are carved in fine-grained sandstone whose even texture allows deep cutting, energetic modelling and ornament that seems to detach from the wall surface. The high jagati terrace, the absence of an enclosing wall and the clustered shikhara profile together turn the whole exterior into a sculptural field. Kandariya Mahadeva is the clearest culmination of this effect.
 
-- **Year represented:** 2026
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+Its breadth of life lies in the range of subjects represented. Khajuraho includes Shaiva, Vaishnava, Surya, Ganesha and Jain dedications, and its sculptural programme moves from deities and worship to dancers, musicians, teachers, disciples, courtly figures and loving couples. Erotic imagery is therefore only one register within a much larger visual world. In this sense, Chandella art is remembered not merely for ornament, but for giving sacred architecture a striking sense of movement, plurality and lived human presence.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2026 | Prelims GS-I | 4 | Nagara-style shikhara among early Indian temple architecture examples | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+**Why this answer works:** It answers both halves of the phrase and avoids reducing Khajuraho to erotic panels.
 
-##### What this owner must now support
+### APPLICATION PYQ - 2021 Prelims GS-I Q35
 
-- Nagara-style shikhara among early Indian temple architecture examples
+**Question (locally reproducible from a source-book scan):** With reference to Chausath Yogini Temple situated near Morena, consider the following statements:  
+1. It is a circular temple built during the reign of the Kachchhapaghata dynasty.  
+2. It is the only circular temple built in India.  
+3. It was meant to promote the Vaishnava sect in the region.  
+4. Its design has given rise to a popular belief that it was the inspiration behind the Indian Parliament building.  
+Which of the statements given above are correct?
 
-> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2026 -->
+**Answer withheld pending official UPSC key.**  
+**Concept analysis:** Statement 1 is the safest architectural anchor for Morena/Mitaoli. Statement 2 is unsafe because the 'only circular temple' claim does not hold. Statement 3 is unsupported because the shrine belongs to the Yogini-Tantric field rather than a Vaishnava promotional programme. Statement 4 must be written exactly as a popular belief, not as an officially settled design genealogy. The key lesson is not to merge the Morena temple with Khajuraho's granite Chausath Yogini shrine.
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+### APPLICATION PYQ - 2026 Prelims GS-I Q4
 
-#### Recent PYQ Integration (2024-2025)
+**Question (locally verified from the Set-A paper text):** Which of the following temples has/have a Nagara-style shikhara?  
+1. Malegitti Shivalaya, Badami  
+2. Huchimalligudi Temple, Aihole  
+3. Dashavatara Temple, Deogarh  
+4. Virupaksha Temple, Pattadakal  
+Select the answer using the code given below:  
+(a) 1 and 2  
+(b) 2 and 3  
+(c) 3 only  
+(d) 3 and 4
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.
+**Answer withheld pending official UPSC key.**  
+**Concept analysis:** Use the question to separate a secure North Indian Nagara anchor from Deccan experimental cases. Dashavatara at Deogarh is the clean classical comparator. Virupaksha at Pattadakal is explicitly a Dravida-superstructure case. The Badami-Aihole examples belong to the zone that makes the Vesara caution necessary. Therefore the question tests not memorised labels but the discipline of writing morphology before category.
 
-- **Years represented:** 2024, 2025
-- **Paper(s):** GS-I
-- **Routed question demands:** 2
+### ORIGINAL MAINS ANSWER 1 - 10 MARKS
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | GS-I | 11 | Cholas' achievements in art and architecture | Comment · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2025 | GS-I | 3 | Chandella artform - resilient vigour and breadth of life | Elucidate · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+**Question:** Why should temple vocabulary be read as a grammar of movement and hierarchy rather than as a decorative glossary? (Answer in 150 words)
 
-##### What this owner must now support
+**Model answer:**
+Temple vocabulary describes ritual approach. The devotee does not enter a temple into a flat space but moves from the outer platform and porch into progressively restricted zones. Terms such as jagati, ardhamandapa, mandapa, antarala and garbhagriha therefore map sacred hierarchy. At Khajuraho, UNESCO's plan sequence itself proves that spatial order is doctrinally meaningful. In South India too, the distinction between vimana, gopura, prakara and mandapa explains how temple growth changed devotional experience over time.
 
-- Cholas' achievements in art and architecture
-- Chandella artform - resilient vigour and breadth of life
+This matters in UPSC because a good answer must explain how architecture works, not merely what it is called. Once vocabulary is linked to access, procession, congregation and sanctity, the temple becomes legible as an institution of worship and power. Without that spatial grammar, style labels remain superficial.
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+### ORIGINAL MAINS ANSWER 2 - 10 MARKS
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+**Question:** Distinguish Khajuraho and Odisha as two mature Nagara solutions. (Answer in 150 words)
 
-#### Historical PYQ Integration (2018-2023)
+**Model answer:**
+Khajuraho and Odisha both belong to the Nagara family, but they solve temple form differently. Khajuraho temples usually stand on high jagati terraces without enclosure walls, and their connected halls lead into a clustered shikhara composition integrated with dense sculpture. Odisha temples, by contrast, are better introduced through the rekha deul sanctum and pidha deul hall within a more enclosure-conscious Kalinga complex. Their exteriors are richly articulated, but the regional vocabulary of deul types itself becomes more explicit.
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+The comparison matters because it prevents Nagara from becoming one undifferentiated box. Khajuraho is the best case for sculpture-and-wall integration in an open terrace setting. Odisha is the best case for a region where sanctum and hall types are formally distinguished and where monuments such as Lingaraja, Mukteswara and Konark establish a different mature line.
 
-- **Years represented:** 2021
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+### ORIGINAL MAINS ANSWER 3 - 15 MARKS
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2021 | Prelims GS-I | 31 | Chausath Yogini Temple Morena Kachchhapaghata architecture | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+**Question:** Temple architecture was a statement of political power as much as of devotion. Discuss with suitable examples. (Answer in 250 words)
 
-##### What this owner must now support
+**Model answer:**
+Temple architecture often joined sacred purpose with political self-display. In central India, the Chandella expansion of Khajuraho is safest when linked to state formation in Jejabhukti. As older overlordships weakened and rulers such as Dhanga asserted independence, monumental temple building made sovereignty visible in stone. The temple therefore acted not only as a house of worship but also as a public statement of dynastic presence.
 
-- Chausath Yogini Temple Morena Kachchhapaghata architecture
+The Chola case makes the argument even clearer. Rajaraja I's Brihadishvara at Thanjavur turns imperial scale into sacred form: its soaring vimana, granite mass, enclosure and inscriptions all proclaim organised authority. The same complex preserves records of donation, worship and administration, proving that political power sustained ritual life materially. Pattadakal's Virupaksha adds another dimension, for Lokmahadevi's commission commemorated Vikramaditya II's victory over Kanchi. Here war, royal memory and devotion explicitly converge.
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+Yet the equation should not be made crude. Temples were not mere propaganda shells. They remained active ritual institutions embedded in local sacred worlds. Nor can every monument be tied to one political event. Still, across Chandella, Chola and Chalukya evidence, temple architecture clearly functioned as one of the most durable media through which rulers converted authority into visible cultural legitimacy.
 
-#### 8. Exact PYQ application
+### ORIGINAL MAINS ANSWER 4 - 15 MARKS
 
-✅ **2025 Q3, verbatim:** "'The sculptors filled the Chandella artform with
-resilient vigor and breadth of life.' Elucidate. (Answer in 150 words)"
-(`UPSC Mains 2025 GS Paper 1.txt:14-18`). ⚠️ **Advanced-tier answer
-architecture:** (i) name Dhanga's political autonomy as the enabling
-condition for ambitious temple patronage; (ii) define "resilient vigour"
-through the dynamic, muscular, multi-postured figural style across the
-**entire** programme; (iii) define "breadth of life" through the
-programme's range (deities, secular life, ascetics, animals, intimacy)
-and the plural Shaiva-Vaishnava-Jain patronage as evidence of "life" in
-its full civilisational sense, not only erotic content; (iv) close with
-Kandariya Mahadeva as the culminating case and the 1986 UNESCO inscription
-as the current-status anchor — all within 150 words, which requires
-tight, non-redundant phrasing.
+**Question:** Why is Vesara better treated as a label for Deccan experimentation than as a rigid third style? Discuss. (Answer in 250 words)
 
-✅ **2024 Q11 (Cholas), cross-reference:** the Great Living Chola Temples'
-comparative vimana/gopuram model (Section 3) supplies a contrast case for
-any answer that must distinguish Nagara (Khajuraho) from Dravida (Chola)
-achievement in the same essay.
+**Model answer:**
+Vesara is most useful when it names an observable Deccan practice rather than a rigid textbook box. The best evidence comes from Aihole, Badami and Pattadakal. At Aihole, varied plans - square, apsidal, hall-like and rock-cut - appear in one experimental field. Badami refines the region's architectural vocabulary through cave and structural work. Pattadakal then offers the decisive proof: on one royal site, temples display both Dravida and Nagara superstructure logic. Virupaksha is the classic Dravida case, whereas Papanatha preserves a Nagara shikhara. The label therefore arises from evidence of selection, borrowing and recombination.
 
-### PYQ DEMAND CARD 1 — 2025 GS-I
+The Hoysala school pushes the caution further. Its stellate jagati, soapstone carving, lathe-turned pillars and zig-zag wall plan do not look like a simple half-Nagara, half-Dravida formula. Even source material that uses the word Vesara does so after describing a Dravidian morphology shaped by Bhumija and Nagara influences.
 
-**Demand:** 'The sculptors filled the Chandella artform with resilient vigor and breadth of life.' Elucidate. (Answer in 150 words)
+Thus Vesara is best kept as a secondary analytical label. If used first, it freezes living experimentation into a mechanical category. If used after plan, material and tower have been described, it remains a helpful shorthand for the Deccan's hybrid architectural solutions.
 
-**Status:** Verified verbatim in the Basic owner.
+### ORIGINAL MAINS ANSWER 5 - 20 MARKS
 
-**Model solution:** Separate vigour as carving method from breadth as subject range; cite sandstone, dynamic figures, sacred and secular registers, vyalas and maithuna as one element; close with Kandariya Mahadeva.
+**Question:** Trace the development of South Indian temple architecture from the Pallavas to the Nayakas. (Answer in 250 words)
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2025 GS-I”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
+**Model answer:**
+The clearest way to trace South Indian temple architecture is to follow one mechanism: the movement from rock-cut initiation to structural temple making, then to imperial scale, and finally to gateway-dominated enclosure complexes. The Pallavas begin the sequence. Under Mahendravarman I, cave temples establish the early Dravida vocabulary. Under Mamalla, the Pancha Rathas turn monolithic carving into an architectural laboratory. Under Rajasimha, the Shore Temple and Kailasanatha mark the shift to structural construction.
 
-**Detailed examiner-grade model answer:**
+The Cholas inherit and magnify this line. Early shrines at Narttamalai and related sites develop into the massive Brihadishvara complex at Thanjavur, where vimana height, granite construction, mural art, bronze culture and inscriptional administration converge. In the later Chola phase, the gopura begins to gain visual prominence relative to the vimana.
 
-**Introduction and thesis:** Separate vigour as carving method from breadth as subject range; cite sandstone, dynamic figures, sacred and secular registers, vyalas and maithuna as one element; close with Kandariya Mahadeva.
+A Deccan counter-current deepens the story rather than interrupting it. Early Chalukya Aihole-Badami-Pattadakal shows experimentation across Nagara and Dravida forms, while the Rashtrakuta Kailasa and Hoysala stellate-sculptural temples widen the southern field. Vijayanagara at Hampi then urbanises temple space through chariot streets, huge gateways and mandapa-rich complexes. The Nayakas continue this late Dravida momentum by enlarging enclosures, prakarams, tanks and painted gopurams at sites such as Meenakshi and Ramanathaswamy. Thus the long trajectory runs from sanctum-centred invention to corridor-and-gateway dominated sacred cities.
 
-**Qualification:** Bound the claim by period, region, medium, patronage and evidence status; do not convert similarity into direct descent or a commissioned representation into a social census.
+### ORIGINAL MAINS ANSWER 6 - 15 MARKS
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
+**Question:** Khajuraho should be read as a complete sacred landscape, not as a shorthand for erotic sculpture. Discuss. (Answer in 250 words)
 
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
+**Model answer:**
+Khajuraho becomes intelligible only when treated as a sacred landscape rather than a sensational subset of its imagery. The site belongs to the Chandella world of Jejabhukti and is distributed across western, eastern and southern clusters. Its temples are linked by a common Nagara architectural language: high jagati terraces, axial halls, sanctum-centred verticality and dense sculptural integration. Religious range is equally important. Surviving temples belong to Shaiva, Vaishnava, Surya, Ganesha and Jain traditions, showing that plurality is built into the site's identity.
 
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2025 GS-I”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
+Sculptural breadth confirms this reading. Alongside loving couples appear worshippers, teachers, disciples, dancers, musicians, attendants and courtly figures. These registers give the stone surface movement and social texture. Erotic imagery is therefore real but not exhaustive; it is one strand within a wider sacred-secular programme. Kandariya Mahadeva is the best monument for showing how tower, wall and carving work together to create this total effect.
 
-### PYQ DEMAND CARD 2 — 2024 GS-I
-
-**Demand:** Estimate the contribution of Pallavas of Kanchi for the development of art and literature of South India. (Answer in 150 words)
-
-**Status:** Verified verbatim in the Basic owner.
-
-**Model solution:** Estimate the rock-cut to monolithic to structural sequence through Mandagapattu, Pancha Rathas and Shore Temple, then add Kanchipuram, murals, inscriptions and Dandin with a survival limitation.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 2 — 2024 GS-I”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Estimate the rock-cut to monolithic to structural sequence through Mandagapattu, Pancha Rathas and Shore Temple, then add Kanchipuram, murals, inscriptions and Dandin with a survival limitation.
-
-**Qualification:** Bound the claim by period, region, medium, patronage and evidence status; do not convert similarity into direct descent or a commissioned representation into a social census.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 2 — 2024 GS-I”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### PYQ DEMAND CARD 3 — 2024 GS-I
-
-**Demand:** Though the great Cholas are no more yet their name is still remembered with great pride because of their highest achievements in the domain of art and architecture. Comment. (Answer in 250 words)
-
-**Status:** Verified verbatim in the Basic owner.
-
-**Model solution:** Use Brihadishvara for granite scale, Nataraja for bronze, murals and inscriptions for cultural-administrative depth, and the living UNESCO serial property for afterlife; qualify labour and incomplete survivals.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 3 — 2024 GS-I”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Use Brihadishvara for granite scale, Nataraja for bronze, murals and inscriptions for cultural-administrative depth, and the living UNESCO serial property for afterlife; qualify labour and incomplete survivals.
-
-**Qualification:** Bound the claim by period, region, medium, patronage and evidence status; do not convert similarity into direct descent or a commissioned representation into a social census.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 3 — 2024 GS-I”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### PYQ DEMAND CARD 4 — 2022 GS-I
-
-**Demand:** Medieval Indian temple sculptures represent the social life of those days. How will you explain this statement?
-
-**Status:** Verified routed wording in the Core owner.
-
-**Model solution:** Use dancers and musicians, teachers and disciples, courtly scenes, patron women and named artisans as selected evidence; state that commissioned images are representations, not a statistical photograph of society.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 4 — 2022 GS-I”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Use dancers and musicians, teachers and disciples, courtly scenes, patron women and named artisans as selected evidence; state that commissioned images are representations, not a statistical photograph of society.
-
-**Qualification:** Bound the claim by period, region, medium, patronage and evidence status; do not convert similarity into direct descent or a commissioned representation into a social census.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 4 — 2022 GS-I”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
-**Question:** Elucidate the resilient vigour and breadth of life in Chandella art. Answer in about 150 words.
-
-**Model thesis:** Khajuraho's vigour comes from dynamic carving integrated with sandstone walls; breadth comes from its sacred, social, animal, performance and intimate registers, of which maithuna is only one.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas.
-- Most temples use fine-grained sandstone on open terraces without an enclosure wall, while granite exceptions prevent a uniform-material claim.
-- Shaiva, Vaishnava, Surya, Ganesha and Jain dedications share the Khajuraho landscape and regional architectural idiom.
-- Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth.
-- The largest and loftiest Khajuraho temple is the culminating case for mature Nagara massing and integrated sculpture.
-
-**Qualified conclusion:** Khajuraho's vigour comes from dynamic carving integrated with sandstone walls; breadth comes from its sacred, social, animal, performance and intimate registers, of which maithuna is only one.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Elucidate the resilient vigour and breadth of life in Chandella art. Answer in about 150…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Khajuraho's vigour comes from dynamic carving integrated with sandstone walls; breadth comes from its sacred, social, animal, performance and intimate registers, of which maithuna is only one.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Most temples use fine-grained sandstone on open terraces without an enclosure wall, while granite exceptions prevent a uniform-material claim. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Shaiva, Vaishnava, Surya, Ganesha and Jain dedications share the Khajuraho landscape and regional architectural idiom. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-5. **Claim and named evidence:** The largest and loftiest Khajuraho temple is the culminating case for mature Nagara massing and integrated sculpture. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Khajuraho's vigour comes from dynamic carving integrated with sandstone walls; breadth comes from its sacred, social, animal, performance and intimate registers, of which maithuna is only one.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence definition and thesis; organise three named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Elucidate the resilient vigour and breadth of life in Chandella art. Answer in about 150…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
-**Question:** Estimate the Pallava contribution to South Indian art and architecture. Answer in about 150 words.
-
-**Model thesis:** The Pallava achievement was a transition from excavated mandapas to monolithic experiments and structural temples, joined to mural and Sanskrit-Tamil literary patronage.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters.
-
-**Qualified conclusion:** The Pallava achievement was a transition from excavated mandapas to monolithic experiments and structural temples, joined to mural and Sanskrit-Tamil literary patronage.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Estimate the Pallava contribution to South Indian art and architecture. Answer in about 150…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The Pallava achievement was a transition from excavated mandapas to monolithic experiments and structural temples, joined to mural and Sanskrit-Tamil literary patronage.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** The Pallava achievement was a transition from excavated mandapas to monolithic experiments and structural temples, joined to mural and Sanskrit-Tamil literary patronage.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence definition and thesis; organise three named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Estimate the Pallava contribution to South Indian art and architecture. Answer in about 150…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Why are the Cholas remembered for art and architecture? Answer in about 250 words.
-
-**Model thesis:** Monumental granite building, portable bronzes, murals, inscriptions, administration and continuing worship survive together, giving Chola patronage both scale and living afterlife.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax.
-
-**Qualified conclusion:** Monumental granite building, portable bronzes, murals, inscriptions, administration and continuing worship survive together, giving Chola patronage both scale and living afterlife.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why are the Cholas remembered for art and architecture? Answer in about 250 words.”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Monumental granite building, portable bronzes, murals, inscriptions, administration and continuing worship survive together, giving Chola patronage both scale and living afterlife.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Monumental granite building, portable bronzes, murals, inscriptions, administration and continuing worship survive together, giving Chola patronage both scale and living afterlife.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Why are the Cholas remembered for art and architecture? Answer in about 250 words.”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Temple sculpture is selected evidence of medieval social life. Explain. Answer in about 250 words.
-
-**Model thesis:** Performance, learning, courtly activity, ritual and labour appear in commissioned programmes, but representation records what patrons made visible rather than society statistically.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth.
-- The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand.
-
-**Qualified conclusion:** Performance, learning, courtly activity, ritual and labour appear in commissioned programmes, but representation records what patrons made visible rather than society statistically.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Temple sculpture is selected evidence of medieval social life. Explain. Answer in about 250…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Performance, learning, courtly activity, ritual and labour appear in commissioned programmes, but representation records what patrons made visible rather than society statistically.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Dynamic figures and deep carving create vigour, while deities, worshippers, teachers, dancers, musicians, courtly scenes, vyalas and maithuna create breadth. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** The Core owner supports direct 2024 Pallava and Chola demands, the 2025 Chandella demand and the routed 2022 temple-sculpture social-life demand. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Performance, learning, courtly activity, ritual and labour appear in commissioned programmes, but representation records what patrons made visible rather than society statistically.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Temple sculpture is selected evidence of medieval social life. Explain. Answer in about 250…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Trace the development of South Indian temple architecture from Pallava to Nayaka. Answer in about 300 words.
-
-**Model thesis:** The organising movement is rock-cut to structural temple, imperial vimana, Deccan experiment, gateway-dominated Vijayanagara complex and Nayaka enclosure expansion.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters.
-- Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax.
-- Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars.
-- Hampi's temples extend Dravida gopuram and mandapa forms, while Islamicate arches and domes are strongest in the royal and secular zone.
-- Nayaka building enlarged older complexes through graded gopurams, prakarams, temple tanks, stucco superstructures and processional halls.
-
-**Qualified conclusion:** The organising movement is rock-cut to structural temple, imperial vimana, Deccan experiment, gateway-dominated Vijayanagara complex and Nayaka enclosure expansion.
-
-**Demand decoding:** The directive **trace** requires a direct position on “Trace the development of South Indian temple architecture from Pallava to Nayaka. Answer in…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The organising movement is rock-cut to structural temple, imperial vimana, Deccan experiment, gateway-dominated Vijayanagara complex and Nayaka enclosure expansion.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Pallava patronage moved from rock-cut mandapas to monolithic rathas and structural temples, with Mahabalipuram and Kanchipuram linking architecture, painting and letters. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Chola legacy combines monumental granite temples, bronze icons, murals, inscriptions and living ritual, with Brihadishvara as the architectural climax. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** Hampi's temples extend Dravida gopuram and mandapa forms, while Islamicate arches and domes are strongest in the royal and secular zone. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-5. **Claim and named evidence:** Nayaka building enlarged older complexes through graded gopurams, prakarams, temple tanks, stucco superstructures and processional halls. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** The organising movement is rock-cut to structural temple, imperial vimana, Deccan experiment, gateway-dominated Vijayanagara complex and Nayaka enclosure expansion.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence definition and thesis; organise six to eight named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Trace the development of South Indian temple architecture from Pallava to Nayaka. Answer in…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Compare major regional schools of Indian temple architecture. Answer in about 300 words.
-
-**Model thesis:** Nagara, Dravida, Deccan and eastern schools differ through tower, enclosure, plan, material and patronage; named monuments reveal a family of regional solutions, not rigid boxes.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram.
-- Vesara is best used after describing Deccan plan, tower and material; it is not a mechanically equal mixture of Nagara and Dravida.
-- A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas.
-- Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars.
-- Bengal's brick and terracotta architecture joined Buddhist and Hindu patronage and translated the bamboo-hut roof into the Bangla roof later used by Mughals.
-- A strong answer names school, morphology, patron, monument, sculptural programme, comparison, evidence limit and heritage status in that order.
-
-**Qualified conclusion:** Nagara, Dravida, Deccan and eastern schools differ through tower, enclosure, plan, material and patronage; named monuments reveal a family of regional solutions, not rigid boxes.
-
-**Demand decoding:** The directive **compare** requires a direct position on “Compare major regional schools of Indian temple architecture. Answer in about 300 words.”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Nagara, Dravida, Deccan and eastern schools differ through tower, enclosure, plan, material and patronage; named monuments reveal a family of regional solutions, not rigid boxes.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Nagara commonly emphasises a curvilinear sanctum shikhara; Dravida organises a walled axial complex with a tiered vimana and increasingly prominent gopuram. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Vesara is best used after describing Deccan plan, tower and material; it is not a mechanically equal mixture of Nagara and Dravida. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** A high jagati supports ardhamandapa, mandapa, antarala and garbhagriha beneath a clustered shikhara of urushringas. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** Aihole-Badami-Pattadakal and Hoysala stellate soapstone temples demonstrate Deccan selection from northern and southern grammars. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-5. **Claim and named evidence:** Bengal's brick and terracotta architecture joined Buddhist and Hindu patronage and translated the bamboo-hut roof into the Bangla roof later used by Mughals. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-6. **Claim and named evidence:** A strong answer names school, morphology, patron, monument, sculptural programme, comparison, evidence limit and heritage status in that order. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Nagara, Dravida, Deccan and eastern schools differ through tower, enclosure, plan, material and patronage; named monuments reveal a family of regional solutions, not rigid boxes.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence definition and thesis; organise six to eight named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Compare major regional schools of Indian temple architecture. Answer in about 300 words.”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
+Modern conservation also supports the landscape reading. UNESCO frames Khajuraho through clustered monuments, plan logic and cultural testimony, while ASI records material differences and surviving groups. A mature answer should therefore reject reductionism: Khajuraho is memorable because it fuses architecture, devotion, patronage and human imagery into one of the richest temple landscapes of medieval India.

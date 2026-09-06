@@ -1,80 +1,64 @@
-ASCII MASTER FLOW — PANEL 1/12: Four-category firewall
-WHS -> tangible or mixed property
-ICH -> living practice and transmission
-MoW -> documentary record
-GI -> domestic origin-linked IP
-MUST REMEMBER: Heritage governance separates the 1972 World Heritage Convention, 2003
-  Intangible Heritage Convention, Memory of the World documentary programme, domestic GI law,
-  ASI statutes and the three Akademi mandates.
+ASCII MASTER FLOW — PANEL 1/4: CATEGORY FIREWALL AND CONSERVATION GRAMMAR
+HERITAGE QUESTION
+    |
+    +-- NAME THE OBJECT FIRST
+    |      monument / site / landscape -> TANGIBLE
+    |      ritual / festival / skill   -> INTANGIBLE
+    |      manuscript / archive / file -> DOCUMENTARY
+    |      GI = domestic IP, not UNESCO
+    |
+    +-- NAME THE METHOD NEXT
+           conservation -> stabilise, retain fabric
+           restoration  -> chosen earlier phase, authenticity risk
+           reconstruction -> rebuild, highest caution
+           adaptive reuse -> viable use without loss of significance / setting / fabric
 
-ASCII MASTER FLOW — PANEL 2/12: Conditional-status loop
-INSCRIPTION -> recognition and duty
-MONITORING -> management scrutiny
-DANGER LIST -> corrective pressure
-REMOVAL -> improvement can restore status
+ASCII MASTER FLOW — PANEL 2/4: UNESCO AND LAW MAP
+WORLD HERITAGE 1972
+    tentative list -> dossier -> ICOMOS / IUCN / ICCROM -> committee decision
+    -> inscription -> management plan / integrity / authenticity / possible danger-list monitoring
 
-ASCII MASTER FLOW — PANEL 3/12: Institution mandate map
-ASI -> monuments and archaeology
-SNA -> performing arts
-SAHITYA / LKA -> literature and fine arts
-NMM / ARCHIVES -> manuscripts and records
+ICH 2003
+    Representative List / Urgent Safeguarding / Good Practices
+    recognition != transmission completed
 
-ASCII MASTER FLOW — PANEL 4/12: Constitutional ladder
-ARTICLE 29 -> community cultural right
-ARTICLE 49 -> State monument duty
-ARTICLE 51A(f) -> citizen duty
-STATUTES -> operational protection
+LAW
+    Article 49   -> State duty to protect monuments / objects of national importance
+    Article 51A(f) -> citizen duty to preserve composite culture
+    AMASR 1958 + 2010 -> central monuments, prohibited / regulated areas
+    Antiquities Act 1972 -> movement / export / antiquities control
 
-ASCII MASTER FLOW — PANEL 5/12: Boundary firewall
-AMASR 100 m -> generally prohibited
-AMASR next 200 m -> regulated
-UNESCO BUFFER -> mapped management zone
-RULE -> separate legal sources
+ASCII MASTER FLOW — PANEL 3/4: INSTITUTIONS AND THREAT-TO-TOOL FIT
+INSTITUTIONS
+    ASI -> excavation / conservation / centrally protected estate
+    NMA -> permissions / heritage bye-laws / prohibited-regulated zone control
+    state archaeology -> state-protected sites
+    INTACH -> conservation support / awareness / chapters
+    IGNCA -> arts resource centre / documentation
+    National Museum -> collect / protect / preserve / interpret
+    NMMA -> registers of monuments and antiquities
+    NMM / Gyan Bharatam -> manuscripts / digitisation / conservation
 
-ASCII MASTER FLOW — PANEL 6/12: Threat-response matrix
-VISITOR LOAD -> access management
-URBAN / CLIMATE -> regulation and monitoring
-DISASTER / DECAY -> documentation and conservation
-TRANSMISSION LOSS -> practitioner support
-CLOSE DISTINCTION: Tentative List is not inscription, UNESCO does not acquire sovereignty,
-  recognition does not itself safeguard transmission, and Sahitya, Sangeet Natak and Lalit
-  Kala Akademi mandates are not interchangeable.
+THREATS
+    erosion / vegetation / climate -> monitoring / drainage / site plan
+    tourism / roads / urban pressure -> setting / access / amenities / carrying capacity
+    illicit trafficking -> provenance / records / antiquities law
+    weak transmission -> safeguarding / practitioner support / community participation
 
-ASCII MASTER FLOW — PANEL 7/12: Conservation-restoration test
-CONSERVE -> stabilise existing fabric
-RESTORE -> return to chosen earlier state
-REVERSIBILITY -> preferred in conservation
-AUTHENTICITY -> risk rises with reconstruction
+ASCII MASTER FLOW — PANEL 4/4: CURRENT ANCHORS AND EXAM ROUTE
+CURRENT STATUS CHECKED 6 SEP 2026
+    WH anchors:
+        Moidams 2024 -> 43rd; Maratha 2025 -> 44th; Sarnath 25 Jul 2026 -> 45th
+    ICH anchor: Deepavali 10 Dec 2025 -> latest Indian Representative List element, total 16
+    danger-list check: no Indian property located on UNESCO danger-list page
+    ASI estate count used here: 3,686 from latest official 2026 source located
+    Memory of the World:
+        Bhagavad Gita and Natyashastra 2025 additions verified individually
+        full India total not forced
+        where official total could not be independently enumerated in-session
 
-ASCII MASTER FLOW — PANEL 8/12: Living-site balance
-ACTIVE WORSHIP? -> protect access
-LIVELIHOOD? -> assess displacement
-FRAGILE FABRIC? -> regulate use
-VERDICT -> negotiate, do not empty the site
-
-ASCII MASTER FLOW — PANEL 9/12: Moidams form map
-VAULT -> hollow royal burial chamber
-MOUND -> earth-covered form
-SHRINE + WALL -> ritual enclosure
-LANDSCAPE -> continuing ancestor practice
-
-ASCII MASTER FLOW — PANEL 10/12: Recent WH ledger
-2016 -> Nalanda
-2021 -> Dholavira and Ramappa
-2023 -> Santiniketan and Hoysalas
-2024 / 2025 / 2026 -> Moidams, Maratha forts, Sarnath
-
-ASCII MASTER FLOW — PANEL 11/12: Scheme-statute firewall
-AMASR / ANTIQUITIES -> statutes
-ADOPT A HERITAGE -> amenities partnership
-ADARSH SMARAK -> visitor amenities
-NCF -> funding mechanism
-
-ASCII MASTER FLOW — PANEL 12/12: Heritage answer spine
-DIAGNOSE -> category and threat
-MATCH -> law, body, fund or scheme
-EVIDENCE -> named site or practice
-QUALIFY -> capacity, community and dynamic status
-EVIDENCE LIMIT: Every current list, count, danger status, institutional programme or law claim
-  needs source, date and status; conservation must reconcile authenticity, living use,
-  community rights, tourism and disaster risk.
+DIRECT ANSWER ROUTE
+    category -> threat mechanism -> law / institution -> dated current anchor -> bounded verdict
+    best 2018 Mains thesis:
+    "Safeguarding is a present need because present pressures are differentiated,
+     and monuments, living traditions, documentary records and antiquities need different tools."

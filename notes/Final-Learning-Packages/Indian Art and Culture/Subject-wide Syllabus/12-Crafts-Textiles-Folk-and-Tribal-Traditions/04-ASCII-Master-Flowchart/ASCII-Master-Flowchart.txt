@@ -1,80 +1,35 @@
-ASCII MASTER FLOW — PANEL 1/12: Craft ecology root
-RAW MATERIAL -> ecological access
-SKILL -> technique and apprenticeship
-COMMUNITY -> labour and transmission
-MARKET / LAW -> access, GI and safeguarding
-MUST REMEMBER: Craft survival depends on raw material, skill, community, market, legal
-  recognition and safeguarding, while textiles must pair technique and centre: Patola double
-  ikat, Pochampally resist dye, Banarasi brocade and Chikankari embroidery.
-
-ASCII MASTER FLOW — PANEL 2/12: GI legal boundary
-GI -> origin-linked product name
-TERM -> ten years, renewable
-SCOPE -> goods, not services
-LIMIT -> no automatic livelihood guarantee
-
-ASCII MASTER FLOW — PANEL 3/12: Cross-border protection
-DARJEELING TEA -> first Indian GI
-INDIAN GI -> domestic protection
-KANGRA TEA -> separate EU protection
-RULE -> rights do not travel automatically
-
-ASCII MASTER FLOW — PANEL 4/12: Ikat matrix
-PATOLA -> Patan, double ikat
-POCHAMPALLY -> Telangana, single or double ikat
-COMMON -> resist-dyed yarn
-TRAP -> centre plus process must match
-
-ASCII MASTER FLOW — PANEL 5/12: Textile process ladder
-KANCHIPURAM -> joined silk border
-BANARASI -> supplementary-weft brocade
-CHIKANKARI -> white embroidery
-KANTHA -> running stitch and reused cloth
-
-ASCII MASTER FLOW — PANEL 6/12: Surface and metal process
-KALAMKARI -> mordant or resist cotton surface
-DHOKRA -> lost-wax metal casting
-PROCESS -> determines tools and labour
-RULE -> shared craft label proves nothing
-CLOSE DISTINCTION: A Geographical Indication protects an origin-linked goods name for
-  authorised users under the 1999 Act, operational since 2003 with renewable ten-year
-  registration; it is neither UNESCO status nor a quality certificate.
-
-ASCII MASTER FLOW — PANEL 7/12: Glass evidence chain
-TEXT -> Mahabharata and Shatapatha Brahmana
-PGW -> archaeological glass evidence
-BRAHMAPURI / KOLHAPUR -> bead industry
-LIMIT -> evidence classes must remain separate
-
-ASCII MASTER FLOW — PANEL 8/12: North-East method
-COMMUNITY -> identify the weavers
-FIBRE -> Eri, Muga, silk or cotton
-PROCESS -> ginning, spinning and weaving
-PRODUCT -> garment and motif
-
-ASCII MASTER FLOW — PANEL 9/12: Eri-Muga firewall
-MEGHALAYA -> Eri, Garo-Khasi-Jaintia
-ASSAM -> golden Muga
-MEKHELA CHADOR -> shared garment
-TRAP -> garment alone cannot identify state
-
-ASCII MASTER FLOW — PANEL 10/12: Regional handloom map
-MANIPUR -> Moirang Phee and Phanek
-NAGALAND -> tribe-specific motifs and natural dyes
-ARUNACHAL -> Adi, Apatani, Nyishi and Monpa
-MIZORAM / TRIPURA -> Puan, stripes and embroidery
-
-ASCII MASTER FLOW — PANEL 11/12: Certification gap test
-PRODUCTION FACT VERIFIED? -> write Eri evidence
-CERTIFICATION CRITERIA VERIFIED? -> no
-GI COMPARISON -> legal instrument only
-VERDICT -> disclose the bounded gap
-
-ASCII MASTER FLOW — PANEL 12/12: Craft answer spine
-DEFINE -> material, skill and community
-IDENTIFY -> region, process and product
-ANALYSE -> market, law, ecology and labour
-QUALIFY -> status, ownership and source limits
-EVIDENCE LIMIT: GI does not guarantee fair price, ecology, labour conditions or transmission,
-  Indian protection does not automatically extend abroad, and folk or tribal production must
-  retain community, gender and appropriation limits.
+ASCII MASTER FLOW — PANEL 1/4: CRAFT ECOLOGY AND PROCESS FIREWALL
+TOPIC 12 MASTER SPINE
+---------------------
+START -> handicraft != handloom != GI
+      -> craft answer = material -> technique -> community -> market -> institution
+      -> process grammar = weave / resist dye / print-paint / embroidery-applique
+RULE -> decorative description without production logic is low-value writing
+ASCII MASTER FLOW — PANEL 2/4: WEAVING, SURFACE WORK AND TEXTILE IDENTIFICATION
+TEXTILE IDENTIFICATION
+----------------------
+Patola -> Patan -> double Ikat
+Pochampally -> Telangana -> Ikat family
+Kanchipuram -> contrasting joined borders
+Banarasi -> zari brocade
+Jamdani -> woven pattern, not embroidery
+Chikankari / Kantha / Sujini / Phulkari / Kalamkari -> identify by process
+ASCII MASTER FLOW — PANEL 3/4: COMMUNITY, REGION AND NON-TEXTILE CRAFTS
+COMMUNITY + MATERIAL RAIL
+-------------------------
+North-East rule -> community + fibre + garment
+Assam -> Muga
+Meghalaya -> Eri + Garo / Khasi / Jaintia
+Manipur -> Moirang Phee / Phanek
+Glass -> long chronology
+Dhokra -> lost-wax metal casting
+Ivory -> historical craft evidence + present wildlife-law caution
+ASCII MASTER FLOW — PANEL 4/4: GI, LIVELIHOOD AND BOUNDED GAP DISCIPLINE
+CURRENT AND EXAM ROUTE
+----------------------
+GI Act 1999 -> in force 15 Sep 2003 -> goods only -> Chennai registry -> 10-year renewal
+Darjeeling first Indian GI
+Kangra Tea -> separate EU protection
+TRIFED / cooperatives / awards / platforms = current livelihood layer
+Bounded gap -> Eri production covered; Oeko-Tex criteria not source-held here
+FINAL ROUTE -> region + technique + product + community / market + qualification

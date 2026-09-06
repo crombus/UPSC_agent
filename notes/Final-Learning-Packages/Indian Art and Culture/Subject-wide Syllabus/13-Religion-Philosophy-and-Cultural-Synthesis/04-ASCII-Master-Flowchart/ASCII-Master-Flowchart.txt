@@ -1,80 +1,39 @@
-ASCII MASTER FLOW — PANEL 1/12: Cultural-framework root
-BELIEF -> subject and symbolism
-PATRONAGE -> institution and monument
-LANGUAGE -> devotional public
-PRACTICE -> pilgrimage, music and festival
-MUST REMEMBER: The cultural-synthesis frame connects purusharthas, six orthodox darshanas,
-  Buddhist and Jain traditions, Bhakti and Sufi movements, sectarian institutions, language,
-  patronage, monuments and shared social practice.
-
-ASCII MASTER FLOW — PANEL 2/12: Purushartha map
-ARTHA -> material means
-DHARMA -> social regulation
-KAMA -> pleasure and love
-MOKSHA -> liberation
-
-ASCII MASTER FLOW — PANEL 3/12: Vedanta discriminator
-ADVAITA -> nirguna, knowledge, jivanmukti
-VISHISHTADVAITA -> attributes and devotion
-DVAITA -> Madhva and Brahma Sampradaya
-TRAP -> Pushtimarg belongs to Vallabha
-
-ASCII MASTER FLOW — PANEL 4/12: Bhakti causal model
-ORTHODOXY / CASTE RIGIDITY -> reaction
-MARGINALISED PUBLICS -> inclusion claim
-BUDDHIST-JAIN DECLINE -> religious space
-ROYAL PATRONAGE -> institutional growth
-
-ASCII MASTER FLOW — PANEL 5/12: Tamil canon matrix
-NAYANARS -> 63, Shaiva, Tamil
-ALVARS -> 12, Vaishnava, Tamil
-ANDAL -> sole woman in Alvar canon
-TEMPLE -> compilation and sculptural afterlife
-
-ASCII MASTER FLOW — PANEL 6/12: Bhakti literature rail
-KABIR -> doha and Sant Bhasha
-TULSIDAS -> Awadhi Ramcharitmanas
-SURDAS -> Braj Sur Sagar
-BASAVANNA / TUKARAM -> Vachana and Abhanga
-CLOSE DISTINCTION: The six darshanas are schools accepting Vedic authority rather than six
-  religions; Samkhya, Yoga, Advaita, Vishishtadvaita and devotional forms must not be
-  flattened into one doctrine or full metaphysical proof.
-
-ASCII MASTER FLOW — PANEL 7/12: Women and authority
-NAMED WOMAN -> identify region and tradition
-ROUTE -> household or renunciant practice
-CANON -> test institutional remembrance
-VERDICT -> participation did not equal emancipation
-
-ASCII MASTER FLOW — PANEL 8/12: Sufi order matrix
-CHISHTI -> service and court distance
-SUHRAWARDI -> property and scholarship
-QADIRI / SHATTARI -> named cultural links
-NAQSHBANDI -> counter-current to harmony
-
-ASCII MASTER FLOW — PANEL 9/12: Chishti cultural circuit
-AJMER -> Moinuddin, khanqah and urs
-DELHI -> Nizamuddin and Amir Khusrau
-PUNJAB -> Baba Farid in Adi Granth
-RULE -> place, person, practice and text
-
-ASCII MASTER FLOW — PANEL 10/12: Sufi evidence grammar
-MALFUZAT -> conversations
-MAKTUBAT -> letters
-TAZKIRAS -> biographies
-SAMA / ZIYARAT -> practice, not source genre
-
-ASCII MASTER FLOW — PANEL 11/12: Synthesis test
-SHARED SPACE / FORM? -> name it
-TRANSLATION / TEXT? -> identify it
-DOCTRINAL MERGER? -> prove, do not assume
-LIMIT -> power, opposition and counter-current
-
-ASCII MASTER FLOW — PANEL 12/12: Philosophy-to-art spine
-IDEA -> identify the doctrine or practice
-DESIGN -> show the formal conversion
-MONUMENT -> name the evidence
-QUALIFY -> patronage, material and intention
-EVIDENCE LIMIT: Cultural interaction is neither timeless harmony nor permanent conflict: named
-  institutions, texts, patrons, regions and social exclusions must qualify any synthesis
-  claim.
+ASCII MASTER FLOW — PANEL 1/4: CULTURAL FRAME, CHRONOLOGY AND SHRAMANA FIELD
+TOPIC 13 MASTER RULE
+--------------------
+belief / philosophy -> language / institution / monument / ritual / performance
+boundary -> doctrinal proof stays with Philosophy; political theology stays with History
+chronology -> Vedic -> Upanishadic inquiry -> 6th c BCE shramana field -> darshana map
+shramana -> Buddhism / Jainism / Ajivika / materialist critique widen plurality
+rule -> coexistence, rivalry, borrowing and institution-building can all operate together
+ASCII MASTER FLOW — PANEL 2/4: DARSHANAS, VEDANTA AND MATERIALIST CAUTION
+PHILOSOPHY DISCRIMINATORS
+-------------------------
+Purushartha -> artha / dharma / kama / moksha
+six orthodox schools -> Samkhya / Yoga / Nyaya / Vaisheshika / Mimamsa / Vedanta
+Samkhya -> purusha-prakriti; Yoga -> citta-vritti control
+Advaita -> Shankara -> nirguna + knowledge
+Vishishtadvaita -> Ramanuja -> attributes + devotion
+Dvaita -> Madhva -> Brahma Sampradaya
+trap -> Pushtimarg belongs to Vallabhacharya
+Charvaka -> materialist critique; handle with hostile-source caution
+ASCII MASTER FLOW — PANEL 3/4: BHAKTI, SIKH LINK AND SUFI ORDER MATRIX
+DEVOTIONAL PUBLICS
+------------------
+Bhakti causes -> orthodoxy / inclusion / Buddhist-Jain decline / patronage
+Tamil canon -> Nayanars 63 / Alvars 12 / Andal / temple embedding
+regional streams -> Kabir / Nanak / Basavanna / Jnaneshwar / Tukaram
+women -> Andal / Akka Mahadevi / Mirabai / Janabai; participation != full equality
+Sikh route -> Nanak + shabad + Gurmukhi + Adi Granth as composite text
+Sufi terms -> silsilah / khanqah / dargah / ziyarat / malfuzat / maktubat / tazkira
+orders -> Chishti / Suhrawardi / Qadiri / Naqshbandi differ; "the Sufis" is unsafe
+ASCII MASTER FLOW — PANEL 4/4: SYNTHESIS TEST, FESTIVAL SYSTEM AND PYQ ROUTE
+ANSWER ROUTE
+------------
+synthesis -> name practice / text / place / person, then name the limit
+shared public -> Ajmer / Khusrau / Baba Farid / Phool Walon Ki Sair / Deepavali
+festival system -> sacred geography + artisans + performance + crowd / safeguarding
+philosophy -> form -> aniconism / stupa / cave / Nandi axis / Airavatesvara / Khajuraho
+direct PYQ -> 2020 philosophy and monuments
+withheld objective routes -> 2022 Ramanuja; 2022 Somnath bounded gap
+final rule -> shared space or similar form does not by itself prove doctrinal merger

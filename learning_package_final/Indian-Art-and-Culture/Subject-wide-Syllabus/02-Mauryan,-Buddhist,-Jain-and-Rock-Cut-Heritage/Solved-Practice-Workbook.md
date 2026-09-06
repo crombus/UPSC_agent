@@ -1,1147 +1,580 @@
 ---
-title: "Mauryan, Buddhist, Jain and Rock-Cut Heritage — Solved Practice Workbook"
+title: "Mauryan, Buddhist, Jain and Rock-Cut Heritage - Solved Practice Workbook"
 topic_key: indian-art-and-culture-02
 ---
-# Mauryan, Buddhist, Jain and Rock-Cut Heritage — Solved Practice Workbook
+# Mauryan, Buddhist, Jain and Rock-Cut Heritage - Solved Practice Workbook
+
+> This workbook is standalone: it carries the full 32-question MCQ set, direct and application PYQs, solved original Mains answers and drills on chronology, keywords and paragraph-building.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Court and non-courtly art?
+### CORE UPSC MCQS
 
-A. Mauryan pillars and palaces fit court patronage, while yaksha, terracotta and donor production are often grouped as popular; royal Ajivika caves show the binary's limits.
-B. Many pillars use a monolithic Chunar-sandstone shaft, polished surface and lotus- or bell-shaped capital as a repeatable imperial communication form.
-C. These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas.
-D. The four lions on an animal-and-wheel abacus became India's National Emblem on 26 January 1950; it must be distinguished from single-animal capitals.
+### Q1. Which statement best introduces Mauryan art without oversimplifying it?
 
-**Answer: A.**
-**Explanation:** Mauryan pillars and palaces fit court patronage, while yaksha, terracotta and donor production are often grouped as popular; royal Ajivika caves show the binary's limits. The remaining options belong to different chronology, actor or analytical categories.
+A. Mauryan pillars and palaces clearly belong to court art, but royal dedications to Ajivika caves show that the court/popular distinction is a useful yet porous teaching device.  
+B. Mauryan art can be divided permanently into Buddhist and non-Buddhist art.  
+C. All Mauryan monuments were created outside state patronage.  
+D. The court/popular distinction should be abandoned because no pattern exists at all.  
 
-### Q2. Which chronology card should be filed under Court and non-courtly art?
 
-A. These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas.
-B. Mauryan pillars and palaces fit court patronage, while yaksha, terracotta and donor production are often grouped as popular; royal Ajivika caves show the binary's limits.
-C. The four lions on an animal-and-wheel abacus became India's National Emblem on 26 January 1950; it must be distinguished from single-animal capitals.
-D. A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea.
+**Answer: A.**  
+**Explanation:** A is correct because it keeps the classification while immediately qualifying it with Barabar-Nagarjuni. B and C are factually wrong, and D throws away a useful opening framework instead of refining it.
 
-**Answer: B.**
-**Explanation:** Mauryan pillars and palaces fit court patronage, while yaksha, terracotta and donor production are often grouped as popular; royal Ajivika caves show the binary's limits. The remaining options belong to different chronology, actor or analytical categories.
+### Q2. Which sequence correctly preserves Sanchi's construction history?
 
-### Q3. Which option preserves the source-bounded meaning of Court and non-courtly art?
+A. Sunga brick core -> Mauryan gateways -> Gupta enlargement -> Satavahana toranas  
+B. Mauryan brick core -> Sunga enlargement and stone facing -> Satavahana toranas -> Gupta additions  
+C. Mauryan toranas -> Satavahana brick core -> Sunga shrines -> Gupta railing  
+D. Gupta stupa core -> Mauryan pillar -> Sunga casing -> Satavahana decline  
 
-A. A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea.
-B. Anda, medhi, vedika, pradakshina patha, harmika, chhatra and torana organise relic, boundary, movement, honour and entry.
-C. Mauryan pillars and palaces fit court patronage, while yaksha, terracotta and donor production are often grouped as popular; royal Ajivika caves show the binary's limits.
-D. These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas.
 
-**Answer: C.**
-**Explanation:** Mauryan pillars and palaces fit court patronage, while yaksha, terracotta and donor production are often grouped as popular; royal Ajivika caves show the binary's limits. The remaining options belong to different chronology, actor or analytical categories.
+**Answer: B.**  
+**Explanation:** B follows the safe phase order preserved in both Nitin and UNESCO. The other options reverse the phases or assign the wrong contribution to the wrong period.
 
-### Q4. Which statement avoids a close-option trap about Court and non-courtly art?
+### Q3. Which site-feature pair is correctly matched?
 
-A. Sanchi Stupa 1 grew from an Ashokan brick core through Sunga enlargement and stone facing, Satavahana-period gateways and Gupta additions.
-B. Anda, medhi, vedika, pradakshina patha, harmika, chhatra and torana organise relic, boundary, movement, honour and entry.
-C. A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea.
-D. Mauryan pillars and palaces fit court patronage, while yaksha, terracotta and donor production are often grouped as popular; royal Ajivika caves show the binary's limits.
+A. Vaishali - four lions on a circular abacus with wheel carvings  
+B. Sanchi pillar - single lion capital without abacus  
+C. Sarnath - four lions back-to-back on an abacus with animal carvings and wheel symbolism  
+D. Rampurva - only a bull capital and no lion capital  
 
-**Answer: D.**
-**Explanation:** Mauryan pillars and palaces fit court patronage, while yaksha, terracotta and donor production are often grouped as popular; royal Ajivika caves show the binary's limits. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q5. Which statement correctly identifies Ashokan pillar format?
+**Answer: C.**  
+**Explanation:** C is the correct Sarnath description. Vaishali has a single lion without abacus, Sanchi has four lions with a flatter geese-and-palmette abacus, and Rampurva produced both lion and bull capitals.
 
-A. Many pillars use a monolithic Chunar-sandstone shaft, polished surface and lotus- or bell-shaped capital as a repeatable imperial communication form.
-B. A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea.
-C. The four lions on an animal-and-wheel abacus became India's National Emblem on 26 January 1950; it must be distinguished from single-animal capitals.
-D. These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas.
+### Q4. What is the safest inference from the Barabar-Nagarjuni caves?
 
-**Answer: A.**
-**Explanation:** Many pillars use a monolithic Chunar-sandstone shaft, polished surface and lotus- or bell-shaped capital as a repeatable imperial communication form. The remaining options belong to different chronology, actor or analytical categories.
+A. They prove that all Mauryan cave architecture was Buddhist.  
+B. They show that mural painting was essential to the earliest rock-cut phase.  
+C. They prove that Lomas Rishi was fully completed under Ashoka.  
+D. They show that the earliest Indian rock-cut architecture combined royal patronage, Ajivika dedication and highly polished granite interiors.  
 
-### Q6. Which chronology card should be filed under Ashokan pillar format?
 
-A. A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea.
-B. Many pillars use a monolithic Chunar-sandstone shaft, polished surface and lotus- or bell-shaped capital as a repeatable imperial communication form.
-C. Anda, medhi, vedika, pradakshina patha, harmika, chhatra and torana organise relic, boundary, movement, honour and entry.
-D. These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas.
+**Answer: D.**  
+**Explanation:** D joins the secure facts. A is false because the caves were for Ajivikas, B is false because no murals are reported, and C ignores Lomas Rishi's incompletion.
 
-**Answer: B.**
-**Explanation:** Many pillars use a monolithic Chunar-sandstone shaft, polished surface and lotus- or bell-shaped capital as a repeatable imperial communication form. The remaining options belong to different chronology, actor or analytical categories.
+### Q5. Which statement about the stupa is correct?
 
-### Q7. Which option preserves the source-bounded meaning of Ashokan pillar format?
+A. The stupa tradition pre-dates Buddhism and later became a major relic and commemorative form in Buddhist practice.  
+B. A stupa is exclusively Buddhist in origin and function.  
+C. The torana is the summit umbrella of a stupa.  
+D. Pradakshina patha refers to the relic casket inside the anda.  
 
-A. Anda, medhi, vedika, pradakshina patha, harmika, chhatra and torana organise relic, boundary, movement, honour and entry.
-B. A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea.
-C. Many pillars use a monolithic Chunar-sandstone shaft, polished surface and lotus- or bell-shaped capital as a repeatable imperial communication form.
-D. Sanchi Stupa 1 grew from an Ashokan brick core through Sunga enlargement and stone facing, Satavahana-period gateways and Gupta additions.
 
-**Answer: C.**
-**Explanation:** Many pillars use a monolithic Chunar-sandstone shaft, polished surface and lotus- or bell-shaped capital as a repeatable imperial communication form. The remaining options belong to different chronology, actor or analytical categories.
+**Answer: A.**  
+**Explanation:** A preserves both the origin qualifier and the later Buddhist role. B is the classic UPSC trap, while C and D confuse major stupa parts.
 
-### Q8. Which statement avoids a close-option trap about Ashokan pillar format?
+### Q6. Which stupa part-function pair is correctly matched?
 
-A. A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable.
-B. Sanchi Stupa 1 grew from an Ashokan brick core through Sunga enlargement and stone facing, Satavahana-period gateways and Gupta additions.
-C. Anda, medhi, vedika, pradakshina patha, harmika, chhatra and torana organise relic, boundary, movement, honour and entry.
-D. Many pillars use a monolithic Chunar-sandstone shaft, polished surface and lotus- or bell-shaped capital as a repeatable imperial communication form.
+A. Harmika - ground-level ambulatory path  
+B. Torana - ceremonial gateway carrying narrative or decorative emphasis  
+C. Vedika - relic deposited inside the mound  
+D. Chattra - stone railing around the lower terrace  
 
-**Answer: D.**
-**Explanation:** Many pillars use a monolithic Chunar-sandstone shaft, polished surface and lotus- or bell-shaped capital as a repeatable imperial communication form. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q9. Which statement correctly identifies Sarnath lion capital?
+**Answer: B.**  
+**Explanation:** B is correct. Harmika is the summit railing, vedika marks the sacred boundary, and chattra is the honour-bearing umbrella form.
 
-A. The four lions on an animal-and-wheel abacus became India's National Emblem on 26 January 1950; it must be distinguished from single-animal capitals.
-B. These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas.
-C. Anda, medhi, vedika, pradakshina patha, harmika, chhatra and torana organise relic, boundary, movement, honour and entry.
-D. A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea.
+### Q7. Which description most accurately captures a chaitya-griha?
 
-**Answer: A.**
-**Explanation:** The four lions on an animal-and-wheel abacus became India's National Emblem on 26 January 1950; it must be distinguished from single-animal capitals. The remaining options belong to different chronology, actor or analytical categories.
+A. A rock-cut royal palace with audience hall  
+B. A free-standing structural temple with shikhara  
+C. An apsidal prayer hall with a stupa focus, often using nave, aisles and a horseshoe facade window  
+D. A monastic residence made only of wooden huts  
 
-### Q10. Which chronology card should be filed under Sarnath lion capital?
 
-A. Anda, medhi, vedika, pradakshina patha, harmika, chhatra and torana organise relic, boundary, movement, honour and entry.
-B. The four lions on an animal-and-wheel abacus became India's National Emblem on 26 January 1950; it must be distinguished from single-animal capitals.
-C. Sanchi Stupa 1 grew from an Ashokan brick core through Sunga enlargement and stone facing, Satavahana-period gateways and Gupta additions.
-D. A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea.
+**Answer: C.**  
+**Explanation:** C gives the architectural and liturgical logic of the chaitya. The other options describe different building types or ignore rock-cut form.
 
-**Answer: B.**
-**Explanation:** The four lions on an animal-and-wheel abacus became India's National Emblem on 26 January 1950; it must be distinguished from single-animal capitals. The remaining options belong to different chronology, actor or analytical categories.
+### Q8. Which site most clearly combines a two-phase Buddhist excavation history with unfinished caves that preserve the method of rock-cutting?
 
-### Q11. Which option preserves the source-bounded meaning of Sarnath lion capital?
+A. Sanchi  
+B. Elephanta  
+C. Bharhut  
+D. Ajanta  
 
-A. A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable.
-B. Sanchi Stupa 1 grew from an Ashokan brick core through Sunga enlargement and stone facing, Satavahana-period gateways and Gupta additions.
-C. The four lions on an animal-and-wheel abacus became India's National Emblem on 26 January 1950; it must be distinguished from single-animal capitals.
-D. Anda, medhi, vedika, pradakshina patha, harmika, chhatra and torana organise relic, boundary, movement, honour and entry.
 
-**Answer: C.**
-**Explanation:** The four lions on an animal-and-wheel abacus became India's National Emblem on 26 January 1950; it must be distinguished from single-animal capitals. The remaining options belong to different chronology, actor or analytical categories.
+**Answer: D.**  
+**Explanation:** D is correct because UNESCO highlights Ajanta's two major phases and notes that the unfinished caves preserve the method of excavation. A is a layered stupa-hill complex rather than a cave-excavation sequence, B is a Shaiva-dominant island cave complex, and C is a stupa-railing site rather than a phased cave complex.
 
-### Q12. Which statement avoids a close-option trap about Sarnath lion capital?
+### Q9. Which statement about Ajanta's phases is correct?
 
-A. Sanchi Stupa 1 grew from an Ashokan brick core through Sunga enlargement and stone facing, Satavahana-period gateways and Gupta additions.
-B. A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable.
-C. Ajanta lies in the Waghora gorge in Maharashtra and combines an earlier Satavahana-linked phase with a later Vakataka-era florescence.
-D. The four lions on an animal-and-wheel abacus became India's National Emblem on 26 January 1950; it must be distinguished from single-animal capitals.
+A. Ajanta preserves an early Satavahana-linked phase and a later Vakataka-era phase separated by several centuries.  
+B. Ajanta is a single-period Rashtrakuta excavation.  
+C. Ajanta contains only viharas and no chaityagrihas.  
+D. Ajanta's historical value lies only in painting, not in architecture.  
 
-**Answer: D.**
-**Explanation:** The four lions on an animal-and-wheel abacus became India's National Emblem on 26 January 1950; it must be distinguished from single-animal capitals. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q13. Which statement correctly identifies Barabar and Nagarjuni?
+**Answer: A.**  
+**Explanation:** A matches UNESCO's two-phase chronology. B, C and D each erase major parts of the site's evidentiary value.
 
-A. These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas.
-B. A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea.
-C. Sanchi Stupa 1 grew from an Ashokan brick core through Sunga enlargement and stone facing, Satavahana-period gateways and Gupta additions.
-D. Anda, medhi, vedika, pradakshina patha, harmika, chhatra and torana organise relic, boundary, movement, honour and entry.
+### Q10. Which line is the safest way to write Ellora's chronology?
 
-**Answer: A.**
-**Explanation:** These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas. The remaining options belong to different chronology, actor or analytical categories.
+A. All thirty-four caves were carved by one dynasty in one century.  
+B. Ellora shows Buddhist, Brahmanical and Jain cave groups in a broad sequence from the 6th to the 12th century, but overlap and long use must still be kept visible.  
+C. Ellora is only a Brahmanical site because Kailasha dominates it.  
+D. Ellora's value lies only in sculpture, not in rock-cut planning.  
 
-### Q14. Which chronology card should be filed under Barabar and Nagarjuni?
 
-A. Sanchi Stupa 1 grew from an Ashokan brick core through Sunga enlargement and stone facing, Satavahana-period gateways and Gupta additions.
-B. These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas.
-C. A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable.
-D. Anda, medhi, vedika, pradakshina patha, harmika, chhatra and torana organise relic, boundary, movement, honour and entry.
+**Answer: B.**  
+**Explanation:** B preserves both sequence and qualification. The other options over-centralise one phase or erase the complexity of the site.
 
-**Answer: B.**
-**Explanation:** These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas. The remaining options belong to different chronology, actor or analytical categories.
+### Q11. Which statement about Udayagiri near Vidisha is correct?
 
-### Q15. Which option preserves the source-bounded meaning of Barabar and Nagarjuni?
+A. It is identical with Udayagiri-Khandagiri in Odisha.  
+B. Its most important cave is a Buddhist chaitya hall of the Satavahana age.  
+C. It was created in the early 5th century CE under Chandragupta II and is especially known for the Varaha relief and Gupta inscriptions.  
+D. It is a Jain-only site with no Brahmanical imagery.  
 
-A. Sanchi Stupa 1 grew from an Ashokan brick core through Sunga enlargement and stone facing, Satavahana-period gateways and Gupta additions.
-B. A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable.
-C. These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas.
-D. Ajanta lies in the Waghora gorge in Maharashtra and combines an earlier Satavahana-linked phase with a later Vakataka-era florescence.
 
-**Answer: C.**
-**Explanation:** These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas. The remaining options belong to different chronology, actor or analytical categories.
+**Answer: C.**  
+**Explanation:** C is the safe Udayagiri (Vidisha) description. A confuses two different sites, while B and D distort the site's Brahmanical-Gupta character.
 
-### Q16. Which statement avoids a close-option trap about Barabar and Nagarjuni?
+### Q12. Which use of Hathigumpha is best?
 
-A. Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence.
-B. A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable.
-C. Ajanta lies in the Waghora gorge in Maharashtra and combines an earlier Satavahana-linked phase with a later Vakataka-era florescence.
-D. These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas.
+A. As proof that Kharavela narrated every important event in Kalinga's past  
+B. As a decorative inscription with no historical value  
+C. As evidence that Udayagiri-Khandagiri was a Buddhist cave complex  
+D. As a major Prakrit-Brahmi narrative source for Kharavela that must still be read critically because royal inscriptions are selective  
 
-**Answer: D.**
-**Explanation:** These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q17. Which statement correctly identifies Stupa origin and function?
+**Answer: D.**  
+**Explanation:** D captures both its value and its limitation. The other options either overstate completeness or misidentify the site's Jain context.
 
-A. A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea.
-B. Sanchi Stupa 1 grew from an Ashokan brick core through Sunga enlargement and stone facing, Satavahana-period gateways and Gupta additions.
-C. Anda, medhi, vedika, pradakshina patha, harmika, chhatra and torana organise relic, boundary, movement, honour and entry.
-D. A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable.
+### Q13. Which statement about Elephanta is correct?
 
-**Answer: A.**
-**Explanation:** A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea. The remaining options belong to different chronology, actor or analytical categories.
+A. Elephanta is a Shaiva-dominant island cave complex on Gharapuri, with major Cave 1 and a famous Sadashiva/Trimurti image, while exact dynastic attribution remains debated.  
+B. Elephanta is securely a Mauryan Buddhist cave group.  
+C. Elephanta lies in the Waghora gorge.  
+D. Elephanta has no Buddhist remains of any kind.  
 
-### Q18. Which chronology card should be filed under Stupa origin and function?
 
-A. A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable.
-B. A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea.
-C. Ajanta lies in the Waghora gorge in Maharashtra and combines an earlier Satavahana-linked phase with a later Vakataka-era florescence.
-D. Sanchi Stupa 1 grew from an Ashokan brick core through Sunga enlargement and stone facing, Satavahana-period gateways and Gupta additions.
+**Answer: A.**  
+**Explanation:** A preserves location, religious emphasis, iconography and the attribution caution. The other options are plainly wrong.
 
-**Answer: B.**
-**Explanation:** A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea. The remaining options belong to different chronology, actor or analytical categories.
+### Q14. Which statement about Amaravati is safest?
 
-### Q19. Which option preserves the source-bounded meaning of Stupa origin and function?
+A. Amaravati was only a small relic mound with no sculptural or inscriptional value.  
+B. Amaravati was a major Andhra Mahachaitya in the lower Krishna zone, enlarged under the Satavahanas and associated with limestone reliefs, Ayaka pillars and a long excavation-dispersal history.  
+C. Amaravati stood in the Narmada gorge.  
+D. Amaravati should be described as exactly 27 metres high without qualification.  
 
-A. A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable.
-B. Ajanta lies in the Waghora gorge in Maharashtra and combines an earlier Satavahana-linked phase with a later Vakataka-era florescence.
-C. A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea.
-D. Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence.
 
-**Answer: C.**
-**Explanation:** A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea. The remaining options belong to different chronology, actor or analytical categories.
+**Answer: B.**  
+**Explanation:** B keeps the lower-Krishna setting, patronage, material and afterlife together. C is geographically wrong, A strips the site of its importance, and D removes the necessary hedge from the measurement.
 
-### Q20. Which statement avoids a close-option trap about Stupa origin and function?
+### Q15. Which statement about Rampurva is correct?
 
-A. Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence.
-B. Ajanta lies in the Waghora gorge in Maharashtra and combines an earlier Satavahana-linked phase with a later Vakataka-era florescence.
-C. Ellora Cave 16 is the monolithic Kailasha temple associated with Rashtrakuta Krishna I, showing temple plan, sculpture and excavation as one operation.
-D. A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea.
+A. Rampurva preserves only a lion capital with no bull comparison.  
+B. Rampurva was a Gupta-period imitation of Ashokan pillar art.  
+C. Two Ashokan pillars were found at Rampurva, one with a lion capital and one with a bull capital, but only the lion pillar carries the Major Pillar Edicts I-VI.  
+D. Rampurva proves that every animal capital carried the same inscription.  
 
-**Answer: D.**
-**Explanation:** A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q21. Which statement correctly identifies Stupa anatomy?
+**Answer: C.**  
+**Explanation:** C is the exact safe formulation from the core evidence bank. The other options erase or distort the lion-bull functional difference.
 
-A. Anda, medhi, vedika, pradakshina patha, harmika, chhatra and torana organise relic, boundary, movement, honour and entry.
-B. A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable.
-C. Ajanta lies in the Waghora gorge in Maharashtra and combines an earlier Satavahana-linked phase with a later Vakataka-era florescence.
-D. Sanchi Stupa 1 grew from an Ashokan brick core through Sunga enlargement and stone facing, Satavahana-period gateways and Gupta additions.
+### Q16. Which claim about inscriptions is most defensible?
 
-**Answer: A.**
-**Explanation:** Anda, medhi, vedika, pradakshina patha, harmika, chhatra and torana organise relic, boundary, movement, honour and entry. The remaining options belong to different chronology, actor or analytical categories.
+A. If a royal inscription is detailed, it can be treated as a neutral chronicle.  
+B. Inscriptions are useful only for language history, not architecture.  
+C. The omission of an event in an inscription proves the event never happened.  
+D. Inscriptions can identify patrons, grants, sects, dates and sites, but genre, eulogy and silence must still be analysed.  
 
-### Q22. Which chronology card should be filed under Stupa anatomy?
 
-A. Ajanta lies in the Waghora gorge in Maharashtra and combines an earlier Satavahana-linked phase with a later Vakataka-era florescence.
-B. Anda, medhi, vedika, pradakshina patha, harmika, chhatra and torana organise relic, boundary, movement, honour and entry.
-C. A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable.
-D. Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence.
+**Answer: D.**  
+**Explanation:** D reflects Upinder Singh's method and the topic's own use of Hathigumpha and the Baroda plate. The other options misuse silence or narrow the source unnecessarily.
 
-**Answer: B.**
-**Explanation:** Anda, medhi, vedika, pradakshina patha, harmika, chhatra and torana organise relic, boundary, movement, honour and entry. The remaining options belong to different chronology, actor or analytical categories.
+### Q17. Which statement best captures Jain architecture in this topic?
 
-### Q23. Which option preserves the source-bounded meaning of Stupa anatomy?
+A. It runs from caves such as Udayagiri-Khandagiri and Ellora to temples, colossi and pilgrimage hills such as Dilwara, Ranakpur, Shravanabelagola and Shatrunjaya.  
+B. It is confined to caves only.  
+C. It has a completely separate formal vocabulary with no shared regional idioms.  
+D. It begins only in the late medieval period.  
 
-A. Ajanta lies in the Waghora gorge in Maharashtra and combines an earlier Satavahana-linked phase with a later Vakataka-era florescence.
-B. Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence.
-C. Anda, medhi, vedika, pradakshina patha, harmika, chhatra and torana organise relic, boundary, movement, honour and entry.
-D. Ellora Cave 16 is the monolithic Kailasha temple associated with Rashtrakuta Krishna I, showing temple plan, sculpture and excavation as one operation.
 
-**Answer: C.**
-**Explanation:** Anda, medhi, vedika, pradakshina patha, harmika, chhatra and torana organise relic, boundary, movement, honour and entry. The remaining options belong to different chronology, actor or analytical categories.
+**Answer: A.**  
+**Explanation:** A gives the many-scale Jain programme. B, C and D are precisely the reductions the repaired package must avoid.
 
-### Q24. Which statement avoids a close-option trap about Stupa anatomy?
+### Q18. Which statement best avoids a common Jain-heritage trap in Topic 2?
 
-A. The Odisha twin hills preserve a predominantly Jain cave landscape linked to Kharavela and later patronage.
-B. Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence.
-C. Ellora Cave 16 is the monolithic Kailasha temple associated with Rashtrakuta Krishna I, showing temple plan, sculpture and excavation as one operation.
-D. Anda, medhi, vedika, pradakshina patha, harmika, chhatra and torana organise relic, boundary, movement, honour and entry.
+A. Shravanabelagola's colossal image should be identified as Mahavira, the last tirthankara.  
+B. Shravanabelagola's Bahubali colossus expands the topic beyond caves and should not be mislabeled as a tirthankara image.  
+C. Jain architecture in this topic excludes hill-pilgrimage landscapes such as Shatrunjaya.  
+D. Hathigumpha should be treated as a neutral Buddhist inscription.  
 
-**Answer: D.**
-**Explanation:** Anda, medhi, vedika, pradakshina patha, harmika, chhatra and torana organise relic, boundary, movement, honour and entry. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q25. Which statement correctly identifies Sanchi's layered patronage?
+**Answer: B.**  
+**Explanation:** B is correct because the repaired topic explicitly uses Shravanabelagola to widen Jain heritage beyond caves and warns against mislabeling Bahubali as a tirthankara. A is wrong because Bahubali is not Mahavira, C is wrong because hill-pilgrimage landscapes are part of the Jain architectural programme, and D is wrong because Hathigumpha is a Jain-context royal inscription that still requires source criticism.
 
-A. Sanchi Stupa 1 grew from an Ashokan brick core through Sunga enlargement and stone facing, Satavahana-period gateways and Gupta additions.
-B. A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable.
-C. Ajanta lies in the Waghora gorge in Maharashtra and combines an earlier Satavahana-linked phase with a later Vakataka-era florescence.
-D. Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence.
+### Q19. Which line is most careful on the aniconic-to-iconic transition?
 
-**Answer: A.**
-**Explanation:** Sanchi Stupa 1 grew from an Ashokan brick core through Sunga enlargement and stone facing, Satavahana-period gateways and Gupta additions. The remaining options belong to different chronology, actor or analytical categories.
+A. Architecture alone explains the entire doctrinal shift from symbolism to image worship.  
+B. Once Buddha images appear, stupas lose all importance.  
+C. Early Buddhist art often represented the Buddha symbolically, while later image-centred programmes altered cave and shrine emphasis; architecture records this shift but does not solely cause it.  
+D. Aniconic representation belongs only to Jain art.  
 
-### Q26. Which chronology card should be filed under Sanchi's layered patronage?
 
-A. Ajanta lies in the Waghora gorge in Maharashtra and combines an earlier Satavahana-linked phase with a later Vakataka-era florescence.
-B. Sanchi Stupa 1 grew from an Ashokan brick core through Sunga enlargement and stone facing, Satavahana-period gateways and Gupta additions.
-C. Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence.
-D. Ellora Cave 16 is the monolithic Kailasha temple associated with Rashtrakuta Krishna I, showing temple plan, sculpture and excavation as one operation.
+**Answer: C.**  
+**Explanation:** C keeps the shift visible without making architecture the sole cause. The other options exaggerate or misidentify the phenomenon.
 
-**Answer: B.**
-**Explanation:** Sanchi Stupa 1 grew from an Ashokan brick core through Sunga enlargement and stone facing, Satavahana-period gateways and Gupta additions. The remaining options belong to different chronology, actor or analytical categories.
+### Q20. Which conclusion best handles religious plurality at Ellora?
 
-### Q27. Which option preserves the source-bounded meaning of Sanchi's layered patronage?
+A. Ellora proves that all religious communities lived in total equality at one instant.  
+B. Ellora is too complex to use in any answer.  
+C. Ellora should be treated only as a sculpture site, not an architectural one.  
+D. Ellora shows a shared sacred hillside used by Buddhist, Brahmanical and Jain communities across centuries, but the argument must preserve chronology and overlap rather than romanticise simultaneity.  
 
-A. Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence.
-B. The Odisha twin hills preserve a predominantly Jain cave landscape linked to Kharavela and later patronage.
-C. Sanchi Stupa 1 grew from an Ashokan brick core through Sunga enlargement and stone facing, Satavahana-period gateways and Gupta additions.
-D. Ellora Cave 16 is the monolithic Kailasha temple associated with Rashtrakuta Krishna I, showing temple plan, sculpture and excavation as one operation.
 
-**Answer: C.**
-**Explanation:** Sanchi Stupa 1 grew from an Ashokan brick core through Sunga enlargement and stone facing, Satavahana-period gateways and Gupta additions. The remaining options belong to different chronology, actor or analytical categories.
+**Answer: D.**  
+**Explanation:** D is the repository's preferred conclusion. The others either romanticise or trivialise the site.
 
-### Q28. Which statement avoids a close-option trap about Sanchi's layered patronage?
+### Q21. Which site-pillar detail is correctly identified?
 
-A. Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism.
-B. Ellora Cave 16 is the monolithic Kailasha temple associated with Rashtrakuta Krishna I, showing temple plan, sculpture and excavation as one operation.
-C. The Odisha twin hills preserve a predominantly Jain cave landscape linked to Kharavela and later patronage.
-D. Sanchi Stupa 1 grew from an Ashokan brick core through Sunga enlargement and stone facing, Satavahana-period gateways and Gupta additions.
+A. Sanchi - Ashokan pillar with four lions, flatter abacus of geese and flame palmettes, plus Schism Edict  
+B. Vaishali - four lions with wheel and animal abacus  
+C. Sarnath - single lion without abacus  
+D. Deur Kothar - no Buddhist association at all  
 
-**Answer: D.**
-**Explanation:** Sanchi Stupa 1 grew from an Ashokan brick core through Sunga enlargement and stone facing, Satavahana-period gateways and Gupta additions. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q29. Which statement correctly identifies Chaitya and vihara?
+**Answer: A.**  
+**Explanation:** A is the safe Sanchi pillar description. The others shift Sarnath and Vaishali's features and ignore Deur Kothar's Buddhist relevance.
 
-A. A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable.
-B. Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence.
-C. Ellora Cave 16 is the monolithic Kailasha temple associated with Rashtrakuta Krishna I, showing temple plan, sculpture and excavation as one operation.
-D. Ajanta lies in the Waghora gorge in Maharashtra and combines an earlier Satavahana-linked phase with a later Vakataka-era florescence.
+### Q22. Which chronological order is correct?
 
-**Answer: A.**
-**Explanation:** A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable. The remaining options belong to different chronology, actor or analytical categories.
+A. Kailasha at Ellora -> Barabar caves -> Udayagiri Vidisha -> Ajanta early phase  
+B. Barabar-Nagarjuni -> Ajanta early phase -> Udayagiri Vidisha -> Kailasha at Ellora  
+C. Ajanta later phase -> Barabar caves -> Hathigumpha -> Sanchi core  
+D. Udayagiri-Khandagiri -> Ashokan Sanchi -> Barabar -> Elephanta  
 
-### Q30. Which chronology card should be filed under Chaitya and vihara?
 
-A. Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence.
-B. A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable.
-C. Ellora Cave 16 is the monolithic Kailasha temple associated with Rashtrakuta Krishna I, showing temple plan, sculpture and excavation as one operation.
-D. The Odisha twin hills preserve a predominantly Jain cave landscape linked to Kharavela and later patronage.
+**Answer: B.**  
+**Explanation:** B moves from Mauryan earliest rock-cut to early Buddhist cave phase, then Gupta Udayagiri and finally Rashtrakuta Kailasha. The other sequences scramble the secure chronology.
 
-**Answer: B.**
-**Explanation:** A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable. The remaining options belong to different chronology, actor or analytical categories.
+### Q23. Which site gives the sharpest evidence of early royal patronage of a non-Buddhist heterodox sect in rock-cut architecture?
 
-### Q31. Which option preserves the source-bounded meaning of Chaitya and vihara?
+A. Ajanta  
+B. Elephanta  
+C. Barabar-Nagarjuni  
+D. Ellora  
 
-A. The Odisha twin hills preserve a predominantly Jain cave landscape linked to Kharavela and later patronage.
-B. Ellora Cave 16 is the monolithic Kailasha temple associated with Rashtrakuta Krishna I, showing temple plan, sculpture and excavation as one operation.
-C. A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable.
-D. Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism.
 
-**Answer: C.**
-**Explanation:** A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable. The remaining options belong to different chronology, actor or analytical categories.
+**Answer: C.**  
+**Explanation:** Barabar-Nagarjuni is the clear Ajivika case and the strongest qualifier to simplistic readings of Ashokan patronage.
 
-### Q32. Which statement avoids a close-option trap about Chaitya and vihara?
+### Q24. Which limitation sentence would most improve a 150-word answer on rock-cut architecture as a historical source?
 
-A. Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism.
-B. The Odisha twin hills preserve a predominantly Jain cave landscape linked to Kharavela and later patronage.
-C. Elephanta is a Shaiva-dominant island cave complex with Buddhist remains; precise dynastic attribution remains debated.
-D. A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable.
+A. Rock-cut monuments reveal everything about ordinary life in early India.  
+B. Because caves survive, literary sources become unnecessary.  
+C. Every surviving cave can be dated with complete certainty.  
+D. Rock-cut monuments preserve durable patronage and ritual space very well, but they over-represent what was endowed in stone and must be read with inscriptions and other sources.  
 
-**Answer: D.**
-**Explanation:** A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q33. Which statement correctly identifies Ajanta location and phases?
+**Answer: D.**  
+**Explanation:** D gives the precise limit that turns a descriptive answer into a high-quality source-critical answer.
 
-A. Ajanta lies in the Waghora gorge in Maharashtra and combines an earlier Satavahana-linked phase with a later Vakataka-era florescence.
-B. Ellora Cave 16 is the monolithic Kailasha temple associated with Rashtrakuta Krishna I, showing temple plan, sculpture and excavation as one operation.
-C. Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence.
-D. The Odisha twin hills preserve a predominantly Jain cave landscape linked to Kharavela and later patronage.
+### Q25. Which statement about the Nasik caves is correct?
 
-**Answer: A.**
-**Explanation:** Ajanta lies in the Waghora gorge in Maharashtra and combines an earlier Satavahana-linked phase with a later Vakataka-era florescence. The remaining options belong to different chronology, actor or analytical categories.
+A. Nasik preserves 23 Buddhist caves, largely belonging to the Hinayana period but later showing Mahayana influence, along with water tanks cut from the rock.  
+B. Nasik is a Shaiva cave complex best known for Trimurti sculpture.  
+C. Nasik belongs only to the Gupta period.  
+D. Nasik has no relation to vihara development.  
 
-### Q34. Which chronology card should be filed under Ajanta location and phases?
 
-A. Ellora Cave 16 is the monolithic Kailasha temple associated with Rashtrakuta Krishna I, showing temple plan, sculpture and excavation as one operation.
-B. Ajanta lies in the Waghora gorge in Maharashtra and combines an earlier Satavahana-linked phase with a later Vakataka-era florescence.
-C. Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism.
-D. The Odisha twin hills preserve a predominantly Jain cave landscape linked to Kharavela and later patronage.
+**Answer: A.**  
+**Explanation:** A summarises the site's safest features from Nitin. The other options confuse Nasik with different sites or erase its typological value.
 
-**Answer: B.**
-**Explanation:** Ajanta lies in the Waghora gorge in Maharashtra and combines an earlier Satavahana-linked phase with a later Vakataka-era florescence. The remaining options belong to different chronology, actor or analytical categories.
+### Q26. Which statement is NOT supported by the repaired source base?
 
-### Q35. Which option preserves the source-bounded meaning of Ajanta location and phases?
+A. Ajanta's cave count should not be the analytical point because unfinished or late-counted caves complicate simple totals.  
+B. Elephanta's exact dynastic patronage is fully settled and should be stated without caution.  
+C. Amaravati's lower Krishna location is a tested prelims discriminator.  
+D. Hathigumpha is a major narrative source that still requires criticism.  
 
-A. The Odisha twin hills preserve a predominantly Jain cave landscape linked to Kharavela and later patronage.
-B. Elephanta is a Shaiva-dominant island cave complex with Buddhist remains; precise dynastic attribution remains debated.
-C. Ajanta lies in the Waghora gorge in Maharashtra and combines an earlier Satavahana-linked phase with a later Vakataka-era florescence.
-D. Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism.
 
-**Answer: C.**
-**Explanation:** Ajanta lies in the Waghora gorge in Maharashtra and combines an earlier Satavahana-linked phase with a later Vakataka-era florescence. The remaining options belong to different chronology, actor or analytical categories.
+**Answer: B.**  
+**Explanation:** B is the unsupported statement because the source base repeatedly warns that Elephanta's precise attribution remains debated. The other three are positive controls from the repaired package.
 
-### Q36. Which statement avoids a close-option trap about Ajanta location and phases?
+### Q27. Which UNESCO-year mapping is correct?
 
-A. Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism.
-B. Elephanta is a Shaiva-dominant island cave complex with Buddhist remains; precise dynastic attribution remains debated.
-C. Amaravati links a relic monument, Satavahana-period enlargement, limestone sculpture, inscriptions, ayaka pillars and colonial dispersal history.
-D. Ajanta lies in the Waghora gorge in Maharashtra and combines an earlier Satavahana-linked phase with a later Vakataka-era florescence.
+A. Sanchi 1983; Ajanta 1987; Ellora 1989; Elephanta 1991  
+B. Ajanta 1989; Ellora 1989; Sanchi 1983; Elephanta 1987  
+C. Ajanta 1983; Ellora 1983; Elephanta 1987; Sanchi 1989  
+D. Ajanta 1972; Ellora 1983; Elephanta 1989; Sanchi 1987  
 
-**Answer: D.**
-**Explanation:** Ajanta lies in the Waghora gorge in Maharashtra and combines an earlier Satavahana-linked phase with a later Vakataka-era florescence. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q37. Which statement correctly identifies Ellora's plural complex?
+**Answer: C.**  
+**Explanation:** C matches the official UNESCO listings used in the repaired package.
 
-A. Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence.
-B. Ellora Cave 16 is the monolithic Kailasha temple associated with Rashtrakuta Krishna I, showing temple plan, sculpture and excavation as one operation.
-C. Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism.
-D. The Odisha twin hills preserve a predominantly Jain cave landscape linked to Kharavela and later patronage.
+### Q28. Which opening line best fits the verified 2020 GS-I rock-cut architecture question?
 
-**Answer: A.**
-**Explanation:** Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence. The remaining options belong to different chronology, actor or analytical categories.
+A. Rock-cut caves are beautiful tourist destinations and therefore important for history.  
+B. Indian cave architecture is a long list of famous monuments from Bihar to Maharashtra.  
+C. Because caves survive, they remove the need for source criticism.  
+D. Rock-cut architecture is a major historical source because excavated form, inscription and long reuse preserve patronage, ritual plan and technical change more clearly than many perishable structures do.  
 
-### Q38. Which chronology card should be filed under Ellora's plural complex?
 
-A. Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism.
-B. Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence.
-C. The Odisha twin hills preserve a predominantly Jain cave landscape linked to Kharavela and later patronage.
-D. Elephanta is a Shaiva-dominant island cave complex with Buddhist remains; precise dynastic attribution remains debated.
+**Answer: D.**  
+**Explanation:** D is a real thesis, not a travel sentence. It defines why caves matter as sources and opens the way to named evidence plus limitation.
 
-**Answer: B.**
-**Explanation:** Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence. The remaining options belong to different chronology, actor or analytical categories.
+### Q29. Which statement about the Baroda copper-plate is correct?
 
-### Q39. Which option preserves the source-bounded meaning of Ellora's plural complex?
+A. It refers to Elapura / Ellora and praises the Kailasha temple associated with Krishnaraja, giving rare textual corroboration for a surviving rock-cut monument.  
+B. It is an Ashokan edict discovered at Barabar.  
+C. It proves Elephanta's patronage beyond dispute.  
+D. It is a Buddhist donor list from Ajanta.  
 
-A. Amaravati links a relic monument, Satavahana-period enlargement, limestone sculpture, inscriptions, ayaka pillars and colonial dispersal history.
-B. Elephanta is a Shaiva-dominant island cave complex with Buddhist remains; precise dynastic attribution remains debated.
-C. Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence.
-D. Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism.
 
-**Answer: C.**
-**Explanation:** Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence. The remaining options belong to different chronology, actor or analytical categories.
+**Answer: A.**  
+**Explanation:** A is the correct use of the Baroda plate. The other options attach it to the wrong site, period or religious context.
 
-### Q40. Which statement avoids a close-option trap about Ellora's plural complex?
+### Q30. Which statement on Mauryan polish is safest?
 
-A. Elephanta is a Shaiva-dominant island cave complex with Buddhist remains; precise dynastic attribution remains debated.
-B. Amaravati links a relic monument, Satavahana-period enlargement, limestone sculpture, inscriptions, ayaka pillars and colonial dispersal history.
-C. Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes.
-D. Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence.
+A. Mauryan polish continued unchanged as the normal finish for all later Indian stone sculpture.  
+B. Mauryan polish is a real diagnostic feature of pillars and some cave interiors, but later decline should not be explained through one mechanically certain cause.  
+C. Mauryan polish means that every Mauryan monument was built by Iranian craftsmen.  
+D. Mauryan polish cannot be used in historical analysis.  
 
-**Answer: D.**
-**Explanation:** Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q41. Which statement correctly identifies Kailasha monolith?
+**Answer: B.**  
+**Explanation:** B keeps the feature while avoiding causal overclaim. A, C and D are all exaggerations.
 
-A. Ellora Cave 16 is the monolithic Kailasha temple associated with Rashtrakuta Krishna I, showing temple plan, sculpture and excavation as one operation.
-B. The Odisha twin hills preserve a predominantly Jain cave landscape linked to Kharavela and later patronage.
-C. Elephanta is a Shaiva-dominant island cave complex with Buddhist remains; precise dynastic attribution remains debated.
-D. Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism.
+### Q31. Which question most directly tests site-identification rather than interpretation?
 
-**Answer: A.**
-**Explanation:** Ellora Cave 16 is the monolithic Kailasha temple associated with Rashtrakuta Krishna I, showing temple plan, sculpture and excavation as one operation. The remaining options belong to different chronology, actor or analytical categories.
+A. Discuss how sacred-site continuity can be inferred from Ellora.  
+B. Examine the limits of royal inscriptions as historical sources.  
+C. Which one of the following statements is correct? Ajanta Caves lie in the gorge of the Waghora river.  
+D. How should Sanchi be used to explain layered patronage?  
 
-### Q42. Which chronology card should be filed under Kailasha monolith?
 
-A. Elephanta is a Shaiva-dominant island cave complex with Buddhist remains; precise dynastic attribution remains debated.
-B. Ellora Cave 16 is the monolithic Kailasha temple associated with Rashtrakuta Krishna I, showing temple plan, sculpture and excavation as one operation.
-C. Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism.
-D. Amaravati links a relic monument, Satavahana-period enlargement, limestone sculpture, inscriptions, ayaka pillars and colonial dispersal history.
+**Answer: C.**  
+**Explanation:** C is a site-identification route, not a full monument-interpretation demand. The other options ask for analysis or argument.
 
-**Answer: B.**
-**Explanation:** Ellora Cave 16 is the monolithic Kailasha temple associated with Rashtrakuta Krishna I, showing temple plan, sculpture and excavation as one operation. The remaining options belong to different chronology, actor or analytical categories.
+### Q32. Which comparison best summarises Topic 2 as a whole?
 
-### Q43. Which option preserves the source-bounded meaning of Kailasha monolith?
+A. Mauryan, Buddhist, Jain and rock-cut heritage is basically a list of unrelated sites.  
+B. The topic belongs entirely to philosophy because all architecture simply mirrors doctrine.  
+C. The topic is only about Buddhism because Jain and Brahmanical caves are secondary.  
+D. The topic traces how patronage, ritual function, inscription and long reuse turned stone monuments into layered records of early Indian art and history.  
 
-A. Amaravati links a relic monument, Satavahana-period enlargement, limestone sculpture, inscriptions, ayaka pillars and colonial dispersal history.
-B. Elephanta is a Shaiva-dominant island cave complex with Buddhist remains; precise dynastic attribution remains debated.
-C. Ellora Cave 16 is the monolithic Kailasha temple associated with Rashtrakuta Krishna I, showing temple plan, sculpture and excavation as one operation.
-D. Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes.
 
-**Answer: C.**
-**Explanation:** Ellora Cave 16 is the monolithic Kailasha temple associated with Rashtrakuta Krishna I, showing temple plan, sculpture and excavation as one operation. The remaining options belong to different chronology, actor or analytical categories.
+**Answer: D.**  
+**Explanation:** D captures the repaired session's central thesis. The other options break the topic into false separations or crude reductions.
 
-### Q44. Which statement avoids a close-option trap about Kailasha monolith?
+### TIMELINE, KEYWORD AND PARAGRAPH-BUILDING DRILLS
 
-A. Early Buddhist art represented the Buddha through symbols, while later figural images changed shrine programmes; architecture records but does not alone explain the shift.
-B. Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes.
-C. Amaravati links a relic monument, Satavahana-period enlargement, limestone sculpture, inscriptions, ayaka pillars and colonial dispersal history.
-D. Ellora Cave 16 is the monolithic Kailasha temple associated with Rashtrakuta Krishna I, showing temple plan, sculpture and excavation as one operation.
+#### Drill A - Ancient and modern timeline sorting
 
-**Answer: D.**
-**Explanation:** Ellora Cave 16 is the monolithic Kailasha temple associated with Rashtrakuta Krishna I, showing temple plan, sculpture and excavation as one operation. The remaining options belong to different chronology, actor or analytical categories.
+**Task:** Separate these cards into an ancient-development rail and a modern-recovery rail: Ashokan Sanchi core; Ajanta UNESCO 1983; Barabar-Nagarjuni; 1851 Cunningham survey of Sanchi; Kailasha under Krishna I; 1904-05 Oertel excavation of the Sarnath capital.
 
-### Q45. Which statement correctly identifies Udayagiri-Khandagiri?
+**Solved answer:**  
+- Ancient-development rail: Barabar-Nagarjuni -> Ashokan Sanchi core -> Kailasha under Krishna I.  
+- Modern-recovery rail: 1851 Cunningham survey of Sanchi -> 1904-05 Oertel excavation of the Sarnath capital -> Ajanta UNESCO 1983.
 
-A. The Odisha twin hills preserve a predominantly Jain cave landscape linked to Kharavela and later patronage.
-B. Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism.
-C. Amaravati links a relic monument, Satavahana-period enlargement, limestone sculpture, inscriptions, ayaka pillars and colonial dispersal history.
-D. Elephanta is a Shaiva-dominant island cave complex with Buddhist remains; precise dynastic attribution remains debated.
+#### Drill B - Must-write keywords for the 2020 GS-I answer
 
-**Answer: A.**
-**Explanation:** The Odisha twin hills preserve a predominantly Jain cave landscape linked to Kharavela and later patronage. The remaining options belong to different chronology, actor or analytical categories.
+**Task:** Pick six expressions that must appear in some form in a 150-word answer on rock-cut architecture as a historical source.
 
-### Q46. Which chronology card should be filed under Udayagiri-Khandagiri?
+**Solved answer:** Barabar-Nagarjuni; chaitya-vihara distinction; Ajanta or Ellora phase evidence; inscription / donor record; Hathigumpha or Baroda plate; durable patronage bias.
 
-A. Elephanta is a Shaiva-dominant island cave complex with Buddhist remains; precise dynastic attribution remains debated.
-B. The Odisha twin hills preserve a predominantly Jain cave landscape linked to Kharavela and later patronage.
-C. Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes.
-D. Amaravati links a relic monument, Satavahana-period enlargement, limestone sculpture, inscriptions, ayaka pillars and colonial dispersal history.
+#### Drill C - Build one paragraph from notes
 
-**Answer: B.**
-**Explanation:** The Odisha twin hills preserve a predominantly Jain cave landscape linked to Kharavela and later patronage. The remaining options belong to different chronology, actor or analytical categories.
+**Task notes:** Ajivika dedication; apsidal chaitya; Hathigumpha omission; durable stone.
 
-### Q47. Which option preserves the source-bounded meaning of Udayagiri-Khandagiri?
+**Model paragraph:**  
+Rock-cut architecture is a major historical source because it preserves both excavated form and inscriptional context. The Barabar-Nagarjuni caves show royal dedication to Ajivika ascetics, proving that Mauryan rock-cut patronage cannot be reduced to Buddhism alone. The apsidal chaitya form then allows later caves to be read through ritual function rather than mere shape. Yet inscriptions themselves remain selective, as Hathigumpha's silence on the Mauryan invasion of Kalinga reminds us. Thus caves preserve durable patronage and ritual space exceptionally well, but they cannot by themselves stand for the whole of early Indian social life.
 
-A. Amaravati links a relic monument, Satavahana-period enlargement, limestone sculpture, inscriptions, ayaka pillars and colonial dispersal history.
-B. Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes.
-C. The Odisha twin hills preserve a predominantly Jain cave landscape linked to Kharavela and later patronage.
-D. Early Buddhist art represented the Buddha through symbols, while later figural images changed shrine programmes; architecture records but does not alone explain the shift.
+#### Drill D - Site-identity firewall
 
-**Answer: C.**
-**Explanation:** The Odisha twin hills preserve a predominantly Jain cave landscape linked to Kharavela and later patronage. The remaining options belong to different chronology, actor or analytical categories.
+**Task:** Match the site to the one discriminator that actually wins an objective question: Ajanta; Elephanta; Amaravati; Udayagiri (Vidisha); Udayagiri-Khandagiri.
 
-### Q48. Which statement avoids a close-option trap about Udayagiri-Khandagiri?
-
-A. Early Buddhist art represented the Buddha through symbols, while later figural images changed shrine programmes; architecture records but does not alone explain the shift.
-B. Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles.
-C. Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes.
-D. The Odisha twin hills preserve a predominantly Jain cave landscape linked to Kharavela and later patronage.
-
-**Answer: D.**
-**Explanation:** The Odisha twin hills preserve a predominantly Jain cave landscape linked to Kharavela and later patronage. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Hathigumpha source criticism?
-
-A. Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism.
-B. Amaravati links a relic monument, Satavahana-period enlargement, limestone sculpture, inscriptions, ayaka pillars and colonial dispersal history.
-C. Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes.
-D. Elephanta is a Shaiva-dominant island cave complex with Buddhist remains; precise dynastic attribution remains debated.
-
-**Answer: A.**
-**Explanation:** Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Hathigumpha source criticism?
-
-A. Amaravati links a relic monument, Satavahana-period enlargement, limestone sculpture, inscriptions, ayaka pillars and colonial dispersal history.
-B. Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism.
-C. Early Buddhist art represented the Buddha through symbols, while later figural images changed shrine programmes; architecture records but does not alone explain the shift.
-D. Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes.
-
-**Answer: B.**
-**Explanation:** Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Hathigumpha source criticism?
-
-A. Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes.
-B. Early Buddhist art represented the Buddha through symbols, while later figural images changed shrine programmes; architecture records but does not alone explain the shift.
-C. Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism.
-D. Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles.
-
-**Answer: C.**
-**Explanation:** Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Hathigumpha source criticism?
-
-A. Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles.
-B. The routed 2020 GS-I demand treats rock-cut architecture as evidence for early Indian art and history and is answerable from the Core owner.
-C. Early Buddhist art represented the Buddha through symbols, while later figural images changed shrine programmes; architecture records but does not alone explain the shift.
-D. Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism.
-
-**Answer: D.**
-**Explanation:** Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Elephanta attribution caution?
-
-A. Elephanta is a Shaiva-dominant island cave complex with Buddhist remains; precise dynastic attribution remains debated.
-B. Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes.
-C. Early Buddhist art represented the Buddha through symbols, while later figural images changed shrine programmes; architecture records but does not alone explain the shift.
-D. Amaravati links a relic monument, Satavahana-period enlargement, limestone sculpture, inscriptions, ayaka pillars and colonial dispersal history.
-
-**Answer: A.**
-**Explanation:** Elephanta is a Shaiva-dominant island cave complex with Buddhist remains; precise dynastic attribution remains debated. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Elephanta attribution caution?
-
-A. Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes.
-B. Elephanta is a Shaiva-dominant island cave complex with Buddhist remains; precise dynastic attribution remains debated.
-C. Early Buddhist art represented the Buddha through symbols, while later figural images changed shrine programmes; architecture records but does not alone explain the shift.
-D. Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles.
-
-**Answer: B.**
-**Explanation:** Elephanta is a Shaiva-dominant island cave complex with Buddhist remains; precise dynastic attribution remains debated. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Elephanta attribution caution?
-
-A. Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles.
-B. The routed 2020 GS-I demand treats rock-cut architecture as evidence for early Indian art and history and is answerable from the Core owner.
-C. Elephanta is a Shaiva-dominant island cave complex with Buddhist remains; precise dynastic attribution remains debated.
-D. Early Buddhist art represented the Buddha through symbols, while later figural images changed shrine programmes; architecture records but does not alone explain the shift.
-
-**Answer: C.**
-**Explanation:** Elephanta is a Shaiva-dominant island cave complex with Buddhist remains; precise dynastic attribution remains debated. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Elephanta attribution caution?
-
-A. UNESCO's official Sanchi page describes the site's long accretion, aniconic art, stupa anatomy and continuing sacred significance.
-B. The routed 2020 GS-I demand treats rock-cut architecture as evidence for early Indian art and history and is answerable from the Core owner.
-C. Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles.
-D. Elephanta is a Shaiva-dominant island cave complex with Buddhist remains; precise dynastic attribution remains debated.
-
-**Answer: D.**
-**Explanation:** Elephanta is a Shaiva-dominant island cave complex with Buddhist remains; precise dynastic attribution remains debated. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Amaravati Mahachaitya?
-
-A. Amaravati links a relic monument, Satavahana-period enlargement, limestone sculpture, inscriptions, ayaka pillars and colonial dispersal history.
-B. Early Buddhist art represented the Buddha through symbols, while later figural images changed shrine programmes; architecture records but does not alone explain the shift.
-C. Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles.
-D. Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes.
-
-**Answer: A.**
-**Explanation:** Amaravati links a relic monument, Satavahana-period enlargement, limestone sculpture, inscriptions, ayaka pillars and colonial dispersal history. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Amaravati Mahachaitya?
-
-A. Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles.
-B. Amaravati links a relic monument, Satavahana-period enlargement, limestone sculpture, inscriptions, ayaka pillars and colonial dispersal history.
-C. The routed 2020 GS-I demand treats rock-cut architecture as evidence for early Indian art and history and is answerable from the Core owner.
-D. Early Buddhist art represented the Buddha through symbols, while later figural images changed shrine programmes; architecture records but does not alone explain the shift.
-
-**Answer: B.**
-**Explanation:** Amaravati links a relic monument, Satavahana-period enlargement, limestone sculpture, inscriptions, ayaka pillars and colonial dispersal history. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Amaravati Mahachaitya?
-
-A. UNESCO's official Sanchi page describes the site's long accretion, aniconic art, stupa anatomy and continuing sacred significance.
-B. Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles.
-C. Amaravati links a relic monument, Satavahana-period enlargement, limestone sculpture, inscriptions, ayaka pillars and colonial dispersal history.
-D. The routed 2020 GS-I demand treats rock-cut architecture as evidence for early Indian art and history and is answerable from the Core owner.
-
-**Answer: C.**
-**Explanation:** Amaravati links a relic monument, Satavahana-period enlargement, limestone sculpture, inscriptions, ayaka pillars and colonial dispersal history. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Amaravati Mahachaitya?
-
-A. UNESCO's official Sanchi page describes the site's long accretion, aniconic art, stupa anatomy and continuing sacred significance.
-B. Mauryan pillars and palaces fit court patronage, while yaksha, terracotta and donor production are often grouped as popular; royal Ajivika caves show the binary's limits.
-C. The routed 2020 GS-I demand treats rock-cut architecture as evidence for early Indian art and history and is answerable from the Core owner.
-D. Amaravati links a relic monument, Satavahana-period enlargement, limestone sculpture, inscriptions, ayaka pillars and colonial dispersal history.
-
-**Answer: D.**
-**Explanation:** Amaravati links a relic monument, Satavahana-period enlargement, limestone sculpture, inscriptions, ayaka pillars and colonial dispersal history. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Jain architectural scales?
-
-A. Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes.
-B. Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles.
-C. Early Buddhist art represented the Buddha through symbols, while later figural images changed shrine programmes; architecture records but does not alone explain the shift.
-D. The routed 2020 GS-I demand treats rock-cut architecture as evidence for early Indian art and history and is answerable from the Core owner.
-
-**Answer: A.**
-**Explanation:** Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Jain architectural scales?
-
-A. Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles.
-B. Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes.
-C. UNESCO's official Sanchi page describes the site's long accretion, aniconic art, stupa anatomy and continuing sacred significance.
-D. The routed 2020 GS-I demand treats rock-cut architecture as evidence for early Indian art and history and is answerable from the Core owner.
-
-**Answer: B.**
-**Explanation:** Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Jain architectural scales?
-
-A. The routed 2020 GS-I demand treats rock-cut architecture as evidence for early Indian art and history and is answerable from the Core owner.
-B. UNESCO's official Sanchi page describes the site's long accretion, aniconic art, stupa anatomy and continuing sacred significance.
-C. Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes.
-D. Mauryan pillars and palaces fit court patronage, while yaksha, terracotta and donor production are often grouped as popular; royal Ajivika caves show the binary's limits.
-
-**Answer: C.**
-**Explanation:** Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Jain architectural scales?
-
-A. Many pillars use a monolithic Chunar-sandstone shaft, polished surface and lotus- or bell-shaped capital as a repeatable imperial communication form.
-B. UNESCO's official Sanchi page describes the site's long accretion, aniconic art, stupa anatomy and continuing sacred significance.
-C. Mauryan pillars and palaces fit court patronage, while yaksha, terracotta and donor production are often grouped as popular; royal Ajivika caves show the binary's limits.
-D. Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes.
-
-**Answer: D.**
-**Explanation:** Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Aniconic to iconic transition?
-
-A. Early Buddhist art represented the Buddha through symbols, while later figural images changed shrine programmes; architecture records but does not alone explain the shift.
-B. The routed 2020 GS-I demand treats rock-cut architecture as evidence for early Indian art and history and is answerable from the Core owner.
-C. UNESCO's official Sanchi page describes the site's long accretion, aniconic art, stupa anatomy and continuing sacred significance.
-D. Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles.
-
-**Answer: A.**
-**Explanation:** Early Buddhist art represented the Buddha through symbols, while later figural images changed shrine programmes; architecture records but does not alone explain the shift. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Aniconic to iconic transition?
-
-A. Mauryan pillars and palaces fit court patronage, while yaksha, terracotta and donor production are often grouped as popular; royal Ajivika caves show the binary's limits.
-B. Early Buddhist art represented the Buddha through symbols, while later figural images changed shrine programmes; architecture records but does not alone explain the shift.
-C. The routed 2020 GS-I demand treats rock-cut architecture as evidence for early Indian art and history and is answerable from the Core owner.
-D. UNESCO's official Sanchi page describes the site's long accretion, aniconic art, stupa anatomy and continuing sacred significance.
-
-**Answer: B.**
-**Explanation:** Early Buddhist art represented the Buddha through symbols, while later figural images changed shrine programmes; architecture records but does not alone explain the shift. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Aniconic to iconic transition?
-
-A. Mauryan pillars and palaces fit court patronage, while yaksha, terracotta and donor production are often grouped as popular; royal Ajivika caves show the binary's limits.
-B. Many pillars use a monolithic Chunar-sandstone shaft, polished surface and lotus- or bell-shaped capital as a repeatable imperial communication form.
-C. Early Buddhist art represented the Buddha through symbols, while later figural images changed shrine programmes; architecture records but does not alone explain the shift.
-D. UNESCO's official Sanchi page describes the site's long accretion, aniconic art, stupa anatomy and continuing sacred significance.
-
-**Answer: C.**
-**Explanation:** Early Buddhist art represented the Buddha through symbols, while later figural images changed shrine programmes; architecture records but does not alone explain the shift. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Aniconic to iconic transition?
-
-A. Many pillars use a monolithic Chunar-sandstone shaft, polished surface and lotus- or bell-shaped capital as a repeatable imperial communication form.
-B. The four lions on an animal-and-wheel abacus became India's National Emblem on 26 January 1950; it must be distinguished from single-animal capitals.
-C. Mauryan pillars and palaces fit court patronage, while yaksha, terracotta and donor production are often grouped as popular; royal Ajivika caves show the binary's limits.
-D. Early Buddhist art represented the Buddha through symbols, while later figural images changed shrine programmes; architecture records but does not alone explain the shift.
-
-**Answer: D.**
-**Explanation:** Early Buddhist art represented the Buddha through symbols, while later figural images changed shrine programmes; architecture records but does not alone explain the shift. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Inscriptions as selective evidence?
-
-A. Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles.
-B. The routed 2020 GS-I demand treats rock-cut architecture as evidence for early Indian art and history and is answerable from the Core owner.
-C. Mauryan pillars and palaces fit court patronage, while yaksha, terracotta and donor production are often grouped as popular; royal Ajivika caves show the binary's limits.
-D. UNESCO's official Sanchi page describes the site's long accretion, aniconic art, stupa anatomy and continuing sacred significance.
-
-**Answer: A.**
-**Explanation:** Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Inscriptions as selective evidence?
-
-A. Mauryan pillars and palaces fit court patronage, while yaksha, terracotta and donor production are often grouped as popular; royal Ajivika caves show the binary's limits.
-B. Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles.
-C. UNESCO's official Sanchi page describes the site's long accretion, aniconic art, stupa anatomy and continuing sacred significance.
-D. Many pillars use a monolithic Chunar-sandstone shaft, polished surface and lotus- or bell-shaped capital as a repeatable imperial communication form.
-
-**Answer: B.**
-**Explanation:** Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Inscriptions as selective evidence?
-
-A. Many pillars use a monolithic Chunar-sandstone shaft, polished surface and lotus- or bell-shaped capital as a repeatable imperial communication form.
-B. Mauryan pillars and palaces fit court patronage, while yaksha, terracotta and donor production are often grouped as popular; royal Ajivika caves show the binary's limits.
-C. Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles.
-D. The four lions on an animal-and-wheel abacus became India's National Emblem on 26 January 1950; it must be distinguished from single-animal capitals.
-
-**Answer: C.**
-**Explanation:** Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Inscriptions as selective evidence?
-
-A. These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas.
-B. The four lions on an animal-and-wheel abacus became India's National Emblem on 26 January 1950; it must be distinguished from single-animal capitals.
-C. Many pillars use a monolithic Chunar-sandstone shaft, polished surface and lotus- or bell-shaped capital as a repeatable imperial communication form.
-D. Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles.
-
-**Answer: D.**
-**Explanation:** Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Verified 2020 Mains route?
-
-A. The routed 2020 GS-I demand treats rock-cut architecture as evidence for early Indian art and history and is answerable from the Core owner.
-B. Mauryan pillars and palaces fit court patronage, while yaksha, terracotta and donor production are often grouped as popular; royal Ajivika caves show the binary's limits.
-C. Many pillars use a monolithic Chunar-sandstone shaft, polished surface and lotus- or bell-shaped capital as a repeatable imperial communication form.
-D. UNESCO's official Sanchi page describes the site's long accretion, aniconic art, stupa anatomy and continuing sacred significance.
-
-**Answer: A.**
-**Explanation:** The routed 2020 GS-I demand treats rock-cut architecture as evidence for early Indian art and history and is answerable from the Core owner. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Verified 2020 Mains route?
-
-A. The four lions on an animal-and-wheel abacus became India's National Emblem on 26 January 1950; it must be distinguished from single-animal capitals.
-B. The routed 2020 GS-I demand treats rock-cut architecture as evidence for early Indian art and history and is answerable from the Core owner.
-C. Many pillars use a monolithic Chunar-sandstone shaft, polished surface and lotus- or bell-shaped capital as a repeatable imperial communication form.
-D. Mauryan pillars and palaces fit court patronage, while yaksha, terracotta and donor production are often grouped as popular; royal Ajivika caves show the binary's limits.
-
-**Answer: B.**
-**Explanation:** The routed 2020 GS-I demand treats rock-cut architecture as evidence for early Indian art and history and is answerable from the Core owner. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Verified 2020 Mains route?
-
-A. Many pillars use a monolithic Chunar-sandstone shaft, polished surface and lotus- or bell-shaped capital as a repeatable imperial communication form.
-B. These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas.
-C. The routed 2020 GS-I demand treats rock-cut architecture as evidence for early Indian art and history and is answerable from the Core owner.
-D. The four lions on an animal-and-wheel abacus became India's National Emblem on 26 January 1950; it must be distinguished from single-animal capitals.
-
-**Answer: C.**
-**Explanation:** The routed 2020 GS-I demand treats rock-cut architecture as evidence for early Indian art and history and is answerable from the Core owner. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Verified 2020 Mains route?
-
-A. A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea.
-B. These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas.
-C. The four lions on an animal-and-wheel abacus became India's National Emblem on 26 January 1950; it must be distinguished from single-animal capitals.
-D. The routed 2020 GS-I demand treats rock-cut architecture as evidence for early Indian art and history and is answerable from the Core owner.
-
-**Answer: D.**
-**Explanation:** The routed 2020 GS-I demand treats rock-cut architecture as evidence for early Indian art and history and is answerable from the Core owner. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Official Sanchi linkage?
-
-A. UNESCO's official Sanchi page describes the site's long accretion, aniconic art, stupa anatomy and continuing sacred significance.
-B. The four lions on an animal-and-wheel abacus became India's National Emblem on 26 January 1950; it must be distinguished from single-animal capitals.
-C. Many pillars use a monolithic Chunar-sandstone shaft, polished surface and lotus- or bell-shaped capital as a repeatable imperial communication form.
-D. Mauryan pillars and palaces fit court patronage, while yaksha, terracotta and donor production are often grouped as popular; royal Ajivika caves show the binary's limits.
-
-**Answer: A.**
-**Explanation:** UNESCO's official Sanchi page describes the site's long accretion, aniconic art, stupa anatomy and continuing sacred significance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Official Sanchi linkage?
-
-A. The four lions on an animal-and-wheel abacus became India's National Emblem on 26 January 1950; it must be distinguished from single-animal capitals.
-B. UNESCO's official Sanchi page describes the site's long accretion, aniconic art, stupa anatomy and continuing sacred significance.
-C. These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas.
-D. Many pillars use a monolithic Chunar-sandstone shaft, polished surface and lotus- or bell-shaped capital as a repeatable imperial communication form.
-
-**Answer: B.**
-**Explanation:** UNESCO's official Sanchi page describes the site's long accretion, aniconic art, stupa anatomy and continuing sacred significance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Official Sanchi linkage?
-
-A. The four lions on an animal-and-wheel abacus became India's National Emblem on 26 January 1950; it must be distinguished from single-animal capitals.
-B. These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas.
-C. UNESCO's official Sanchi page describes the site's long accretion, aniconic art, stupa anatomy and continuing sacred significance.
-D. A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea.
-
-**Answer: C.**
-**Explanation:** UNESCO's official Sanchi page describes the site's long accretion, aniconic art, stupa anatomy and continuing sacred significance. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Official Sanchi linkage?
-
-A. These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas.
-B. Anda, medhi, vedika, pradakshina patha, harmika, chhatra and torana organise relic, boundary, movement, honour and entry.
-C. A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea.
-D. UNESCO's official Sanchi page describes the site's long accretion, aniconic art, stupa anatomy and continuing sacred significance.
-
-**Answer: D.**
-**Explanation:** UNESCO's official Sanchi page describes the site's long accretion, aniconic art, stupa anatomy and continuing sacred significance. The remaining options belong to different chronology, actor or analytical categories.
+**Solved answer:**  
+- Ajanta -> Waghora gorge and two-phase Buddhist cave complex.  
+- Elephanta -> Gharapuri island and Sadashiva / Trimurti.  
+- Amaravati -> lower Krishna / Guntur and Mahachaitya with Ayaka-pillars.  
+- Udayagiri (Vidisha) -> Chandragupta II, Varaha and Gupta inscriptions.  
+- Udayagiri-Khandagiri -> Kharavela, Hathigumpha and Jain twin hills near Bhubaneswar.
 
 ## PYQS AND ANSWER PRACTICE
 
-### VERIFIED PYQ OWNERSHIP AUDIT
+### DIRECT OWNED PYQ - 2020 GS-I Q1
 
-The direct owned Mains route is the 2020 GS-I demand on rock-cut architecture as a source for early Indian art and history. Repository routing preserves a neutral rendering rather than claiming locally unavailable verbatim punctuation. Unkeyed or provisionally keyed Prelims routes are not solved.
+**Ownership:** Direct owner - Indian Art and Culture Topic 02.  
+**Status:** Official printed Mains question already repository-verified from the locally held UPSC paper in adjacent validated packages.
 
-### OWNER PYQ LEDGER EXTRACTS
+**Question:** The rock-cut architecture represents one of the most important sources of our knowledge of early Indian art and history. Discuss. (Answer in 150 words)
 
-#### 7. Exact PYQ application
+**Examiner-ready model answer:**  
+Rock-cut architecture is a major source for early Indian art and history because excavated monuments preserve patronage, ritual plan, technical skill and inscriptions in one durable record. The Barabar and Nagarjuni caves, dedicated by Ashoka and Dasharatha to the Ajivikas, show that early rock-cut architecture already recorded royal support to a heterodox sect. Later chaityas and viharas reveal religious practice through plan: apsidal worship halls differ clearly from residential monastic spaces. Sites such as Ajanta and Ellora also preserve long chronological phases, allowing historians to trace change in Buddhist, Brahmanical and Jain patronage. Inscriptions sharpen the evidence further: Hathigumpha anchors Kharavela's Jain context, while the Baroda copper-plate helps corroborate Ellora's Kailasha. Yet the evidence has limits. Rock-cut monuments over-represent what was endowed in durable stone and must be read critically alongside inscriptional silence, textual genre and non-surviving perishable architecture.
 
-⚠️ No GS-I Mains question in the audited 2024-2025 papers directly tests
-Mauryan/Buddhist/Jain/rock-cut architecture. State this honestly; this
-topic instead supplies vocabulary (chaitya/vihara, stupa anatomy) and
-site knowledge (Sanchi, Ajanta, Ellora) that indirectly supports any
-future Buddhist-art or UNESCO-site question, and supports the sculpture
-answers in topic 06.
+**Why this earns marks:** It answers the word 'source', not merely the word 'architecture'; it uses named sites for different evidentiary jobs and ends with a real methodological limit.
 
-#### 2026 PYQ Integration
+### APPLICATION PYQ - 2021 Prelims GS-I Q49
 
-> **Status:** 2026 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
-> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
+**Ownership:** Topic 02 direct application PYQ.  
+**Status:** The location statement and answer letter are locally verified through the source's reproduced question and key.
 
-- **Year represented:** 2026
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+**Question:** Which one of the following statements is correct?
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2026 | Prelims GS-I | 13 | Amaravati Stupa location, scale, sculpture school, and external influence | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+- A. Ajanta Caves lie in the gorge of the Waghora river.
+- B. Sanchi Stupa lies in the gorge of the Chambal River.
+- C. Pandavleni Caves lie in the gorge of the Narmada River.
+- D. Amaravati Stupa lies in the gorge of the Godavari River.
 
-##### What this owner must now support
+**Answer: A - verified through the source's reproduced answer key.**
 
-- Amaravati Stupa location, scale, sculpture school, and external influence
+**Solved logic:**  
+- Ajanta is the Waghora-gorge site in the Sahyadri hills.  
+- Sanchi is a hilltop Buddhist complex near Vidisha, not a Chambal gorge site.  
+- Pandavleni/Nasik is a hill cave complex, not the Narmada gorge.  
+- Amaravati lies in the lower Krishna-Guntur zone, not the Godavari gorge.
 
-> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2026 -->
+**Why this earns marks:** It treats the question as a site-identifier problem and eliminates each distractor with one geography fact.
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+### VERIFICATION-PENDING PYQs
 
-#### Historical PYQ Integration (2018-2023)
+#### 2023 Prelims GS-I Q42
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+**Ownership:** Topic 02 direct application PYQ.  
+**Status:** Official question verified locally; official UPSC key unavailable locally. **Answer withheld pending official UPSC key.**
 
-- **Years represented:** 2021, 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 3
+**Question:** With reference to ancient India, consider: (1) the concept of Stupa is Buddhist in origin; (2) Stupa was generally a repository of relics; (3) Stupa was a votive and commemorative structure in Buddhist tradition. How many statements are correct?
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2021 | Prelims GS-I | 49 | Ajanta Caves geographical river gorge location | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2023 | Prelims GS-I | 42 | Stupa origin relic repository commemorative Buddhist structure | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2023 | Prelims GS-I | 82 | Cave shrines Besnagar Bhaja Sittanavasal religious traditions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+- A. Only one
+- B. Only two
+- C. All three
+- D. None
 
-##### What this owner must now support
+**Verification note:** Answer withheld pending official UPSC key.
 
-- Ajanta Caves geographical river gorge location
-- Stupa origin relic repository commemorative Buddhist structure
-- Cave shrines Besnagar Bhaja Sittanavasal religious traditions
+**Concept analysis:**  
+- Recheck the distinction between pre-Buddhist origin and later Buddhist elaboration of the stupa.  
+- Keep relic-repository and votive / commemorative roles conceptually separate while revising.  
+- Use the topic's core rule: do not convert the stupa into an exclusively Buddhist origin-form.
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+#### 2023 Prelims GS-I Q82
 
-#### 8. Exact PYQ application
+**Ownership:** Topic 02 direct application PYQ with Topic 07 cross-link for Sittanavasal's painting context.  
+**Status:** Exact wording verified through reliable reproductions; official UPSC key unavailable locally. **Answer withheld pending official UPSC key.**
 
-⚠️ No GS-I Mains question in the audited 2024-2025 papers directly tests
-this topic. An advanced answer on a related question (e.g. a hypothetical
-question on religious coexistence in Indian architecture, or on Buddhist
-art's evolution) should use the layered-patronage method (Section 4) and
-the aniconic-to-iconic transition as its analytical spine, cross-
-referencing topic 06 for the sculptural detail of that transition.
+**Question:** Consider the following pairs:
 
-#### Historical PYQ Integration (2018-2023)
+| Site | Well known for |
+|---|---|
+| 1. Besnagar | Shaivite cave shrine |
+| 2. Bhaja | Buddhist cave shrine |
+| 3. Sittanavasal | Jain cave shrine |
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+How many of the above pairs are correctly matched?
 
-- **Years represented:** 2020
-- **Paper(s):** GS-I
-- **Routed question demands:** 1
+- A. Only one
+- B. Only two
+- C. All three
+- D. None
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2020 | GS-I | 1 | Rock-cut architecture as a source for early Indian art and history | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+**Verification note:** Answer withheld pending official UPSC key.
 
-##### What this owner must now support
+**Concept analysis:**  
+- Anchor Bhaja in the western Deccan Buddhist cave chain used for chaitya-vihara development.  
+- Keep Sittanavasal in the Jain cave-shrine tradition, with mural detail mainly cross-owned by Topic 07.  
+- Recheck Besnagar through its Heliodorus / Vidisha context instead of guessing from the word 'shrine'.
 
-- Rock-cut architecture as a source for early Indian art and history
+#### 2026 Prelims GS-I Q13
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+**Ownership:** Topic 02 direct application PYQ with Ancient History cross-link for Dhanyakataka / lower-Krishna context.  
+**Status:** Question wording verified locally; a locally held provisional key exists but is not treated here as final or official. **Answer withheld pending official UPSC key.**
 
-### PYQ DEMAND CARD 1 — 2020 GS-I
+**Question:** Which statements on the Amaravati Stupa and its relief sculpture are correct?
 
-**Demand:** Rock-cut architecture as a source for early Indian art and history
+1. It was located in the lower Krishna valley.
+2. In India, it was next only to the Sanchi Stupa in size.
+3. The Amaravati school made a lasting impact on later South Indian sculpture, and its products were carried to Sri Lanka and Southeast Asia.
 
-**Status:** Verified neutral routed demand; not claimed as verbatim.
+- A. 2 and 3 only
+- B. 1 only
+- C. 1 and 3 only
+- D. 1, 2 and 3
 
-**Model solution:** Define rock-cut evidence, then use Barabar for Ajivika royal patronage, chaitya-vihara plans for practice, Sanchi or Ellora for accretion, and Hathigumpha for inscriptional limits; conclude that stone over-represents durable endowment.
+**Verification note:** Answer withheld pending official UPSC key.
 
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2020 GS-I”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
+**Concept analysis:**  
+- Keep Amaravati fixed in the lower Krishna / Guntur / Dhanyakataka-Dharanikota context.  
+- Treat size claims cautiously and do not convert a source hedge into false precision.  
+- Revise artistic influence separately from any assumption of political control over Sri Lanka or Southeast Asia.
 
-**Detailed examiner-grade model answer:**
+### ORIGINAL MAINS 1 - 10 MARKS
 
-**Introduction and thesis:** Define rock-cut evidence, then use Barabar for Ajivika royal patronage, chaitya-vihara plans for practice, Sanchi or Ellora for accretion, and Hathigumpha for inscriptional limits; conclude that stone over-represents durable endowment.
+**Question:** Discuss Ashokan pillars as instruments of imperial art and communication. Answer in about 150 words.
 
-**Qualification:** Bound the claim by period, region, medium, patronage and evidence status; do not convert similarity into direct descent or a commissioned representation into a social census.
+**Examiner-ready model answer:**  
+Ashokan pillars are one of the clearest expressions of Mauryan court art because they combine standardised form with site-specific messaging. Nitin describes them as monolithic Chunar-sandstone shafts, often around 40 feet high, carrying lotus- or bell-shaped capitals, abaci and animal figures. This standardisation itself is political: a recognisable visual language could travel across the empire. Yet the pillars were not mechanically identical. The Sarnath capital uses four lions on a richly symbolic abacus and later became India's National Emblem, while the Vaishali pillar uses a single lion without an abacus and the Sanchi pillar carries the Schism Edict with a different decorative programme. Their importance lies in joining sculpture, inscription and sacred geography. They show imperial presence at important sites and preserve ideological messages in durable stone. At the same time, they should not be reduced to ornament; they were instruments of communication with local variation built into the Mauryan system.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
+**Why this earns marks:** It treats pillars as a communication system, uses comparison across sites and avoids describing one capital as if it stood for all pillars.
 
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2020 GS-I”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
-**Question:** Discuss rock-cut architecture as a source for early Indian art and history. Answer in about 150 words.
-
-**Model thesis:** Rock-cut sites preserve patronage, liturgical plan, technique, inscriptions and sectarian change, but privilege durable elite endowment and require source criticism.
-
-**Claim → named evidence → analysis → qualification:**
-
-- These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas.
-- A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable.
-- Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence.
-- Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism.
-- Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles.
-- The routed 2020 GS-I demand treats rock-cut architecture as evidence for early Indian art and history and is answerable from the Core owner.
-
-**Qualified conclusion:** Rock-cut sites preserve patronage, liturgical plan, technique, inscriptions and sectarian change, but privilege durable elite endowment and require source criticism.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss rock-cut architecture as a source for early Indian art and history. Answer in about…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Rock-cut sites preserve patronage, liturgical plan, technique, inscriptions and sectarian change, but privilege durable elite endowment and require source criticism.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-5. **Claim and named evidence:** Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-6. **Claim and named evidence:** The routed 2020 GS-I demand treats rock-cut architecture as evidence for early Indian art and history and is answerable from the Core owner. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Rock-cut sites preserve patronage, liturgical plan, technique, inscriptions and sectarian change, but privilege durable elite endowment and require source criticism.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence definition and thesis; organise three named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Discuss rock-cut architecture as a source for early Indian art and history. Answer in about…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 2 — 10 MARKS
+### ORIGINAL MAINS 2 - 10 MARKS
 
 **Question:** Distinguish a chaitya from a vihara and explain why the distinction matters. Answer in about 150 words.
 
-**Model thesis:** Function drives form: congregational worship and stupa focus differ from monastic residence, allowing plans to reconstruct religious practice cautiously.
+**Examiner-ready model answer:**  
+A chaitya and a vihara are different architectural responses to different religious needs. A chaitya is primarily a prayer or assembly hall. In rock-cut examples it often has an apsidal end, a central nave, side aisles, a horseshoe-shaped facade opening and a stupa at the terminal focus. A vihara, by contrast, is a residential and monastic space organised around halls and cells for monks. The distinction matters because early Indian cave architecture can be interpreted correctly only when function is read from plan. At sites such as Ajanta and Nasik, this difference helps historians distinguish congregational worship from monastic residence. It also prevents a common UPSC error of using the two terms interchangeably. Once the plans are separated, the monuments become evidence of religious practice, not just cave shapes. Thus the chaitya-vihara distinction is not merely vocabulary; it is the key to reading cave architecture as social and ritual history.
 
-**Claim → named evidence → analysis → qualification:**
+**Why this earns marks:** It defines both forms, links plan to practice and explains why the distinction matters analytically.
 
-- A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable.
+### ORIGINAL MAINS 3 - 15 MARKS
 
-**Qualified conclusion:** Function drives form: congregational worship and stupa focus differ from monastic residence, allowing plans to reconstruct religious practice cautiously.
+**Question:** Trace the evolution of the Buddhist stupa from Mauryan beginnings to post-Mauryan elaboration, using Sanchi and Amaravati. Answer in about 250 words.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Distinguish a chaitya from a vihara and explain why the distinction matters. Answer in about…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
+**Examiner-ready model answer:**  
+The Buddhist stupa evolved by elaboration around a stable ritual core. Its deepest background is pre-Buddhist, but in Buddhist tradition it became a relic-bearing, votive and commemorative structure. The core architectural idea remained the same: an anda or mound marking relic presence, structured by the vedika, pradakshina patha, harmika and chattra. What changed over time was scale, material and narrative surface.
 
-**Detailed examiner-grade model answer:**
+At Sanchi, the evolution is unusually clear. The Great Stupa began as an Ashokan brick hemisphere. In the Sunga period it was enlarged, faced with stone and given a developed ambulatory, railing and harmika. In the Satavahana phase, the four toranas became major sculptural and narrative thresholds. Gupta additions later extended the site's life beyond its Mauryan origin. Sanchi therefore demonstrates accretion across dynasties rather than one moment of creation.
 
-**Introduction and thesis:** Function drives form: congregational worship and stupa focus differ from monastic residence, allowing plans to reconstruct religious practice cautiously.
+Amaravati shows a different direction of elaboration. In the lower Krishna region, the Mahachaitya became associated with ornate limestone reliefs, cardinal Ayaka-pillars and a strong Satavahana-Andhra phase of growth. Its significance lies in linking stupa architecture with sculptural schools, inscriptions and trans-regional artistic influence.
 
-**Analytical body:**
+Thus, the Buddhist stupa evolved not by abandoning its relic-centred core, but by accumulating railings, gateways, reliefs and regional idioms that turned one sacred form into many historically layered monuments.
 
-1. **Claim and named evidence:** A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
+**Why this earns marks:** It explains continuity and change together and uses Sanchi and Amaravati for different regional styles of elaboration.
 
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
+### ORIGINAL MAINS 4 - 15 MARKS
 
-**Qualified conclusion:** Function drives form: congregational worship and stupa focus differ from monastic residence, allowing plans to reconstruct religious practice cautiously.
+**Question:** How should inscriptions be used to interpret early Indian monuments? Answer in about 250 words.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence definition and thesis; organise three named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
+**Examiner-ready model answer:**  
+Inscriptions are among the most valuable aids to interpreting early Indian monuments, but they are strongest when used critically rather than literally. Their first contribution is precision. They can identify patrons, sects, dates, grants, sacred geographies and sometimes even the reason for endowment. For architecture, this means that a monument is no longer read only through style or plan. The Barabar and Nagarjuni dedications tie the earliest rock-cut caves directly to Ashoka, Dasharatha and the Ajivikas. The Sanchi Schism Edict links a major pillar to monastic discipline, while the Baroda copper-plate corroborates the fame of Elapura and the Kailasha temple.
 
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
+However, inscriptions are not neutral mirrors. Upinder Singh's broader method is useful here: royal inscriptions are genre-bound texts. Hathigumpha is the classic example in this topic. It is the principal narrative source for Kharavela, but it is also commemorative and selective, famously omitting the Mauryan invasion of Kalinga. Such silence does not make the inscription useless; instead, it reveals the need for source criticism.
 
-**How to improve this answer:** For “Distinguish a chaitya from a vihara and explain why the distinction matters. Answer in about…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
+Therefore, inscriptions should be used in three stages: first to anchor patronage and chronology, second to corroborate architectural interpretation, and third to identify bias, omission and eulogistic exaggeration. Read this way, inscriptions deepen monument history; read uncritically, they distort it.
 
-### ORIGINAL MAINS 3 — 15 MARKS
+**Why this earns marks:** It gives both the positive use and the methodological limit, which is exactly what a good history answer requires.
 
-**Question:** Trace the evolution of the Buddhist stupa through Sanchi. Answer in about 250 words.
+### ORIGINAL MAINS 5 - 20 MARKS
 
-**Model thesis:** The relic mound remained the core while railings, paths, gateways, sculpture and shrines accumulated through successive patronage layers.
+**Question:** Examine how rock-cut monuments reveal patronage, religious change and technical skill from the Mauryan age to the early medieval period. Answer in about 300 words.
 
-**Claim → named evidence → analysis → qualification:**
+**Examiner-ready model answer:**  
+Rock-cut monuments are among the richest material records for early Indian history because they reveal who endowed sacred space, how communities used it and how technical ambition expanded over time. The Mauryan phase begins with the Barabar and Nagarjuni caves. Their polished granite interiors, inscriptional dedications and Ajivika affiliation show that royal patronage to heterodox groups was already being expressed through permanent excavation. This stage also preserves the translation of wooden architectural forms into stone, most clearly at Lomas Rishi.
 
-- A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea.
-- Anda, medhi, vedika, pradakshina patha, harmika, chhatra and torana organise relic, boundary, movement, honour and entry.
-- Sanchi Stupa 1 grew from an Ashokan brick core through Sunga enlargement and stone facing, Satavahana-period gateways and Gupta additions.
-- UNESCO's official Sanchi page describes the site's long accretion, aniconic art, stupa anatomy and continuing sacred significance.
+In the post-Mauryan and early historic centuries, Buddhist cave architecture became more differentiated. The chaitya-vihara distinction makes plan readable as practice: apsidal worship halls with stupa focus differ from residential monastic cells. Western Deccan sites such as Bhaja, Karle and Nasik show this development in relation to route societies, donors and monastic expansion. Ajanta adds an even larger historical value, because its two major phases preserve change from early austere and often aniconic caves to later image-rich Mahayana spaces with extensive painting and facade decoration.
 
-**Qualified conclusion:** The relic mound remained the core while railings, paths, gateways, sculpture and shrines accumulated through successive patronage layers.
+The Gupta and early-medieval phase widens the field further. Udayagiri near Vidisha links Brahmanical myth, royal inscription and cave-shrine planning. Elephanta foregrounds Shaiva iconography in a major island cave-temple. Ellora, finally, preserves Buddhist, Brahmanical and Jain groups across centuries, culminating in the monolithic Kailasha. The Baroda copper-plate and other inscriptions help anchor these monuments historically.
 
-**Demand decoding:** The directive **trace** requires a direct position on “Trace the evolution of the Buddhist stupa through Sanchi. Answer in about 250 words.”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
+Yet a good answer must add one limit: rock-cut monuments preserve durable patronage exceptionally well, but they over-represent what was excavated in stone and cannot alone stand for the whole of early Indian social life.
 
-**Detailed examiner-grade model answer:**
+**Why this earns marks:** It is fully phased, uses examples for different evidentiary jobs and ends with the crucial source-limit sentence.
 
-**Introduction and thesis:** The relic mound remained the core while railings, paths, gateways, sculpture and shrines accumulated through successive patronage layers.
+### ORIGINAL MAINS 6 - 20 MARKS
 
-**Analytical body:**
+**Question:** Compare Buddhist, Jain and Brahmanical uses of rock-cut space in early India. Answer in about 300 words.
 
-1. **Claim and named evidence:** A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Anda, medhi, vedika, pradakshina patha, harmika, chhatra and torana organise relic, boundary, movement, honour and entry. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Sanchi Stupa 1 grew from an Ashokan brick core through Sunga enlargement and stone facing, Satavahana-period gateways and Gupta additions. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** UNESCO's official Sanchi page describes the site's long accretion, aniconic art, stupa anatomy and continuing sacred significance. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
+**Examiner-ready model answer:**  
+Buddhist, Jain and Brahmanical traditions all used rock-cut space, but they did so for partly different sacred purposes and at different historical moments. The Buddhist use is the clearest in typological terms. Chaityas organised congregational worship around the stupa, while viharas organised residence and monastic life. Sites such as Bhaja, Nasik and Ajanta therefore preserve both liturgical form and monastic institution. Ajanta's two phases further show how Buddhist rock-cut space moved from early austere and often symbolic worship environments to later image-rich Mahayana cave complexes.
 
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
+Jain use of rock-cut space is strongly visible at Udayagiri-Khandagiri in Odisha, where Kharavela's patronage, Hathigumpha's inscription and the dwelling-meditation function of caves create a different sacred environment. Later Jain caves at Ellora and Badami widen the tradition, but a broader Jain architectural answer must move beyond caves to temple, colossus and pilgrimage-hill forms such as Dilwara, Shravanabelagola and Shatrunjaya.
 
-**Qualified conclusion:** The relic mound remained the core while railings, paths, gateways, sculpture and shrines accumulated through successive patronage layers.
+Brahmanical cave use becomes especially prominent in the Gupta and early-medieval period. Udayagiri near Vidisha turns the cave into a medium of royal mythology and inscription, while Elephanta creates a Shaiva cave-temple centred on the Sadashiva image and linga shrine. Ellora's Brahmanical phase reaches a technical climax in the monolithic Kailasha temple.
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
+The common thread is that rock-cut space offered permanence and dramatic sacred setting. The difference lies in emphasis: Buddhist plans highlight monastic and congregational function, Jain programmes stress ascetic and pilgrimage settings, and Brahmanical caves intensify image, myth and sanctum-centred sacred presence.
 
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Trace the evolution of the Buddhist stupa through Sanchi. Answer in about 250 words.”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** How should inscriptions be used to interpret early monuments? Answer in about 250 words.
-
-**Model thesis:** Inscriptions can name patrons, grants and claims, but must be read for genre, eulogy and silence, as Hathigumpha demonstrates.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism.
-- Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles.
-
-**Qualified conclusion:** Inscriptions can name patrons, grants and claims, but must be read for genre, eulogy and silence, as Hathigumpha demonstrates.
-
-**Demand decoding:** The directive **answer** requires a direct position on “How should inscriptions be used to interpret early monuments? Answer in about 250 words.”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Inscriptions can name patrons, grants and claims, but must be read for genre, eulogy and silence, as Hathigumpha demonstrates.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Kharavela's Prakrit Brahmi inscription is a major narrative source but a commemorative royal text whose selections and omissions require criticism. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Donor and royal inscriptions can identify patrons and acts, yet eulogy and silence prevent treating them as neutral chronicles. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Inscriptions can name patrons, grants and claims, but must be read for genre, eulogy and silence, as Hathigumpha demonstrates.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “How should inscriptions be used to interpret early monuments? Answer in about 250 words.”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Examine religious plurality and sacred-site continuity in Indian rock-cut heritage. Answer in about 300 words.
-
-**Model thesis:** Barabar's Ajivika dedication, Ellora's overlapping Buddhist-Hindu-Jain phases and Elephanta's palimpsest show recurring sacred geographies, not one planned pluralist project.
-
-**Claim → named evidence → analysis → qualification:**
-
-- These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas.
-- Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence.
-- Elephanta is a Shaiva-dominant island cave complex with Buddhist remains; precise dynastic attribution remains debated.
-- Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes.
-
-**Qualified conclusion:** Barabar's Ajivika dedication, Ellora's overlapping Buddhist-Hindu-Jain phases and Elephanta's palimpsest show recurring sacred geographies, not one planned pluralist project.
-
-**Demand decoding:** The directive **examine** requires a direct position on “Examine religious plurality and sacred-site continuity in Indian rock-cut heritage. Answer in…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Barabar's Ajivika dedication, Ellora's overlapping Buddhist-Hindu-Jain phases and Elephanta's palimpsest show recurring sacred geographies, not one planned pluralist project.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** These third-century BCE Bihar caves are the oldest known Indian rock-cut architecture and were dedicated by Ashoka and Dasharatha to the Ajivikas. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Ellora's thirty-four caves comprise Buddhist, Brahmanical and Jain groups with overlapping phases rather than a perfectly clean sequence. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Elephanta is a Shaiva-dominant island cave complex with Buddhist remains; precise dynastic attribution remains debated. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Barabar's Ajivika dedication, Ellora's overlapping Buddhist-Hindu-Jain phases and Elephanta's palimpsest show recurring sacred geographies, not one planned pluralist project.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence definition and thesis; organise six to eight named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Examine religious plurality and sacred-site continuity in Indian rock-cut heritage. Answer in…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Compare Buddhist and Jain architectural programmes from caves to structural monuments. Answer in about 300 words.
-
-**Model thesis:** Both used regional building idioms, but programme and ritual differentiated chaitya-vihara-stupa complexes from Jain cave, temple, colossus and pilgrimage-hill forms.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea.
-- A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable.
-- Amaravati links a relic monument, Satavahana-period enlargement, limestone sculpture, inscriptions, ayaka pillars and colonial dispersal history.
-- Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes.
-- Early Buddhist art represented the Buddha through symbols, while later figural images changed shrine programmes; architecture records but does not alone explain the shift.
-
-**Qualified conclusion:** Both used regional building idioms, but programme and ritual differentiated chaitya-vihara-stupa complexes from Jain cave, temple, colossus and pilgrimage-hill forms.
-
-**Demand decoding:** The directive **compare** requires a direct position on “Compare Buddhist and Jain architectural programmes from caves to structural monuments. Answer…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Both used regional building idioms, but programme and ritual differentiated chaitya-vihara-stupa complexes from Jain cave, temple, colossus and pilgrimage-hill forms.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A stupa is a votive or commemorative relic repository with pre-Buddhist antecedents, so it is not an exclusively Buddhist architectural idea. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** A chaitya is a prayer or assembly hall commonly terminating in a stupa; a vihara is monastic residence, and the two terms are not interchangeable. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Amaravati links a relic monument, Satavahana-period enlargement, limestone sculpture, inscriptions, ayaka pillars and colonial dispersal history. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** Jain heritage ranges from Udayagiri-Khandagiri and Ellora caves to marble or stone temples, monolithic ritual images and hill pilgrimage landscapes. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-5. **Claim and named evidence:** Early Buddhist art represented the Buddha through symbols, while later figural images changed shrine programmes; architecture records but does not alone explain the shift. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Both used regional building idioms, but programme and ritual differentiated chaitya-vihara-stupa complexes from Jain cave, temple, colossus and pilgrimage-hill forms.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence definition and thesis; organise six to eight named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Compare Buddhist and Jain architectural programmes from caves to structural monuments. Answer…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
+**Why this earns marks:** It compares the three traditions through function and sacred use rather than merely listing sites under separate religious headings.

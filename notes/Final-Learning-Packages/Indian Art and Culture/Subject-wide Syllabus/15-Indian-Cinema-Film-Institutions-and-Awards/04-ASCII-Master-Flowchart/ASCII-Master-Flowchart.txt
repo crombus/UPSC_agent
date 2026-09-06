@@ -1,80 +1,62 @@
-ASCII MASTER FLOW — PANEL 1/12: Composite-art root
-STORY / LITERATURE -> narrative
-PERFORMANCE + DESIGN -> staged world
-CAMERA + SOUND -> recorded form
-EDITING + CIRCULATION -> cinematic meaning and reach
-MUST REMEMBER: Cinema chronology distinguishes the 1896 Bombay exhibition, Indian-shot and
-  Indian-made shorts, Raja Harishchandra (1913), Fatma Begum's 1926 milestone, Alam-Ara
-  (1931), studio and parallel-cinema phases.
+ASCII MASTER FLOW — PANEL 1/4: MEDIUM AND FILM LANGUAGE
+CINEMA AS MODERN ART
+    story + performance + image + sound + editing -> reproducible mass medium
+    cinema != theatre because camera, editing, recorded sound and repeatability matter
 
-ASCII MASTER FLOW — PANEL 2/12: Film-form grammar
-CINEMATOGRAPHY -> moving image
-EDITING -> shot arrangement
-MISE-EN-SCENE -> within-frame design
-DOCUMENTARY -> selected non-fiction
+FILM LANGUAGE
+    cinematography -> frame / light / movement
+    mise-en-scene -> visible arrangement inside frame
+    editing -> continuity / rhythm / contrast
+    documentary -> non-fiction but framed
+    animation -> full moving-image form
 
-ASCII MASTER FLOW — PANEL 3/12: Indigenisation timeline
-1896 -> Bombay exhibition
-1897 / 1899 -> Indian-shot and Indian-made shorts
-1907 -> Indian-owned exhibition house
-1913 -> indigenous silent feature
+ASCII MASTER FLOW — PANEL 2/4: CHRONOLOGY AND SOCIAL FIELD
+1896 Lumiere in Bombay
+1897 first Indian-shot film
+1899 Save Dada shorts
+1912 Pundalik
+1913 Raja Harishchandra
+1917 Lanka Dahan
+1926 Fatma Begum
+1931 Alam-Ara
+1933 Sairandhri
+1937 Kisan Kanya / Naujawan
+1939 Premsagar
+late 1940s -> parallel cinema
 
-ASCII MASTER FLOW — PANEL 4/12: Silent-era circuit
-SILENT IMAGE -> live instruments
-PHALKE -> Raja Harishchandra
-LANKA DAHAN -> box-office milestone
-MASS PUBLIC -> myth, music and reproducibility
+SOCIAL FIELD
+    nation-building / empathy / representation
+    representation != direct social census
+    Indian cinema != Hindi cinema alone
 
-ASCII MASTER FLOW — PANEL 5/12: Sound-colour sequence
-1931 -> Alam-Ara talkie
-RECORDED SONG -> W.M. Khan
-1933 -> Sairandhri, processed abroad
-1937 -> Kisan Kanya, indigenous colour
+ASCII MASTER FLOW — PANEL 3/4: REGULATION AND INSTITUTIONS
+REGULATION
+    Cinematograph Act 1952 -> certification for public exhibition
+    CBFC -> statutory body under MIB
+    cuts / refusal powers -> censoring effect
+    High Court appeal caution; do not present FCAT as current
+    dubbed films need fresh certificate
 
-ASCII MASTER FLOW — PANEL 6/12: Two-cinema matrix
-COMMERCIAL -> mass entertainment
-PARALLEL -> social-realist alternative
-COMMON -> production and distribution constraints
-LIMIT -> reach and value are not identical
-CLOSE DISTINCTION: Cinematography, editing and mise-en-scene are different film-form tools;
-  documentary is framed non-fiction, animation is a distinct moving-image method, and first
-  exhibition, first shot film and first indigenous feature are separate claims.
+INSTITUTIONS BY FUNCTION
+    MIB -> policy anchor
+    FTII / SRFTI -> training
+    NFAI legacy / NFHM / NFDC-linked preservation -> archive and restoration
+    NFDC -> development + merged public film architecture
+    IFFI -> festival platform
+    National Film Awards / Dadasaheb Phalke Award -> recognition
 
-ASCII MASTER FLOW — PANEL 7/12: Representation test
-WHAT IS SHOWN? -> representation
-WHO PRODUCED IT? -> institutional choice
-WHO WAS ADDRESSED? -> expected audience
-LIMIT -> not a social census
+ASCII MASTER FLOW — PANEL 4/4: CURRENT STATUS AND EXAM ROUTE
+CURRENT STATUS CHECKED 6 SEP 2026
+    72nd National Film Awards for 2024 announced in July 2026
+    latest officially announced Dadasaheb Phalke recipient located:
+        Mohanlal for award year 2023
+    latest completed IFFI edition:
+        56th, Goa, closed 28 Nov 2025
+    57th IFFI site live for Nov 2026
+    Boong -> BAFTA Children's & Family Film winner
+    no Oscar claim used without official Academy confirmation
 
-ASCII MASTER FLOW — PANEL 8/12: Multilingual field
-LANGUAGE MARKET -> production
-REGIONAL OFFICE -> administration
-DUBBING -> fresh certification issue
-RULE -> Indian cinema exceeds Hindi cinema
-
-ASCII MASTER FLOW — PANEL 9/12: Regulatory chain
-CBFC -> U / UA7+ / UA13+ / UA16+ / A / S
-MODIFICATION / REFUSAL -> statutory powers
-SECTION 5C -> High Court appeal
-SECTION 5D -> FCAT omitted in 2021
-
-ASCII MASTER FLOW — PANEL 10/12: Institution function map
-FTII -> training
-NFAI -> preservation legacy
-NFDC -> integrated development and promotion
-IFFI / AWARDS -> exhibition and recognition
-
-ASCII MASTER FLOW — PANEL 11/12: Recognition firewall
-CERTIFICATE -> exhibition status
-SELECTION -> festival programming
-NOMINATION -> award consideration
-WIN -> exact institution, category and year
-
-ASCII MASTER FLOW — PANEL 12/12: Cinema answer spine
-FORM -> camera, sound and editing
-HISTORY -> dated firsts
-INSTITUTION -> function and law
-QUALIFY -> representation, preservation and award limits
-EVIDENCE LIMIT: Awards and institutions require exact current names, categories, dates and
-  official status; milestone narratives must not imply equality, documentary neutrality or a
-  single-language national cinema.
+DIRECT PYQ ROUTE
+    Boong question = category + director + limited first-claim
+    keep BAFTA distinct from Academy Awards
+    provisional 2026 key withheld

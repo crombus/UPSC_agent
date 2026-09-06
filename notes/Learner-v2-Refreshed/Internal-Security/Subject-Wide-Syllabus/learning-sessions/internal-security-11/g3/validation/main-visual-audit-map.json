@@ -1,0 +1,1777 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-11\\g3\\internal-security-11_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-11\\g3\\internal-security-11_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "internal-security-11",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Organised Crime, Narco-Terrorism and Trafficking - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-04. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 28,
+      "markdown_body_line_end": 39,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 417.89
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Internal-Security\\Subject-Wide-Syllabus\\learning-sessions\\internal-security-11\\g3\\assets\\internal-security-11_Teaching-Navigation_2026-09-04.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 601.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 294.156
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 79,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Organised crime is continuing coordinated serious criminal activity by a group or syndicate for financial or material benefit; legal definitions differ in detail, so the relevant BNS, special-law or UNTOC test must be named.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 94,
+      "markdown_body_line_end": 101,
+      "heading": "VISUAL FIRST",
+      "preview": "ORGANISED CRIME SYNDICATE AND NETWORK",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 130
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 481.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 138,
+      "markdown_body_line_end": 155,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - ORGANISED CRIME SYNDICATE AND NETWORK",
+      "preview": "START / CONCEPT: FOUNDATION — Organised crime syndicate and network",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 277
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 479.891
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 166,
+      "markdown_body_line_end": 166,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Profit objective versus terrorist coercion as a sequence: identify Crime-terror ends boundary, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 311.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 245.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 181,
+      "markdown_body_line_end": 185,
+      "heading": "VISUAL FIRST",
+      "preview": "PROFIT OBJECTIVE VERSUS TERRORIST COERCION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 221,
+      "markdown_body_line_end": 238,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - PROFIT OBJECTIVE VERSUS TERRORIST COERCION",
+      "preview": "START / CONCEPT: FOUNDATION — Profit objective versus terrorist coercion",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 260
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 334.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 93.091
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 249,
+      "markdown_body_line_end": 249,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Narco-terrorism is the financing or enabling intersection between narcotics trafficking and terrorist or insurgent activity; it is not a synonym for drug consumption, addiction or every NDPS case.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 264,
+      "markdown_body_line_end": 268,
+      "heading": "VISUAL FIRST",
+      "preview": "NARCO-TERRORISM DEFINITION AND NEXUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 304,
+      "markdown_body_line_end": 321,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - NARCO-TERRORISM DEFINITION AND NEXUS",
+      "preview": "START / CONCEPT: FOUNDATION — Narco-terrorism definition and nexus",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 247
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 489.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 332,
+      "markdown_body_line_end": 332,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Regional financing and protection models as a sequence: identify Regional-model variation, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 335.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 269.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 347,
+      "markdown_body_line_end": 351,
+      "heading": "VISUAL FIRST",
+      "preview": "REGIONAL FINANCING AND PROTECTION MODELS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 387,
+      "markdown_body_line_end": 404,
+      "heading": "CLOSING RECALL FLOW - CORE - REGIONAL FINANCING AND PROTECTION MODELS",
+      "preview": "START / CONCEPT: CORE — Regional financing and protection models",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 284
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 319.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 88.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 415,
+      "markdown_body_line_end": 415,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Golden Crescent and Golden Triangle references identify broad source and transit exposure relevant to India; they do not establish a particular consignment's origin, route, group or sponsor.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 430,
+      "markdown_body_line_end": 434,
+      "heading": "VISUAL FIRST",
+      "preview": "GOLDEN CRESCENT GOLDEN TRIANGLE AND ROUTE CAUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 126
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 347.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 470,
+      "markdown_body_line_end": 487,
+      "heading": "CLOSING RECALL FLOW - CORE - GOLDEN CRESCENT GOLDEN TRIANGLE AND ROUTE CAUTION",
+      "preview": "START / CONCEPT: CORE — Golden Crescent Golden Triangle and route caution",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 258
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 422.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 498,
+      "markdown_body_line_end": 498,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The NDPS Act, 1985 regulates narcotic drugs and psychotropic substances, grades offences by statutory quantity categories and provides a separate property-forfeiture framework in Chapter VA; seizure is not conviction or forfeiture.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 273.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 192.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 513,
+      "markdown_body_line_end": 520,
+      "heading": "VISUAL FIRST",
+      "preview": "SAFE NARCOTICS SUPPLY-CHAIN ANALYSIS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 111
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 557,
+      "markdown_body_line_end": 574,
+      "heading": "CLOSING RECALL FLOW - CORE - SAFE NARCOTICS SUPPLY-CHAIN ANALYSIS",
+      "preview": "START / CONCEPT: CORE — Safe narcotics supply-chain analysis",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 277
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 585,
+      "markdown_body_line_end": 585,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read NDPS offences quantity and property framework as a sequence: identify NCB mandate, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 368.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 301.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 600,
+      "markdown_body_line_end": 604,
+      "heading": "VISUAL FIRST",
+      "preview": "NDPS OFFENCES QUANTITY AND PROPERTY FRAMEWORK",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 640,
+      "markdown_body_line_end": 657,
+      "heading": "CLOSING RECALL FLOW - CORE - NDPS OFFENCES QUANTITY AND PROPERTY FRAMEWORK",
+      "preview": "START / CONCEPT: CORE — NDPS offences quantity and property framework",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 248
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 319.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 98.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 668,
+      "markdown_body_line_end": 668,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read NCB State police customs and empowered agencies as a sequence: identify NCORD architecture, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 683,
+      "markdown_body_line_end": 687,
+      "heading": "VISUAL FIRST",
+      "preview": "NCB STATE POLICE CUSTOMS AND EMPOWERED AGENCIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 119
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 333.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 723,
+      "markdown_body_line_end": 740,
+      "heading": "CLOSING RECALL FLOW - CORE - NCB STATE POLICE CUSTOMS AND EMPOWERED AGENCIES",
+      "preview": "START / CONCEPT: CORE — NCB State police customs and empowered agencies",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 422.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 751,
+      "markdown_body_line_end": 751,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "State and Union Territory Anti-Narcotics Task Forces support local coordination, hotspot and network analysis and financial investigation; they do not displace State police, NCB, customs, border or maritime mandates.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 287.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 220.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 766,
+      "markdown_body_line_end": 770,
+      "heading": "VISUAL FIRST",
+      "preview": "NCORD FOUR-TIER COORDINATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 806,
+      "markdown_body_line_end": 823,
+      "heading": "CLOSING RECALL FLOW - CORE - NCORD FOUR-TIER COORDINATION",
+      "preview": "START / CONCEPT: CORE — NCORD four-tier coordination",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 245
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 348.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 117.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 834,
+      "markdown_body_line_end": 834,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "NDPS Chapter VA forfeiture and PMLA attachment where an NDPS offence is a scheduled predicate require parallel financial investigation; intercepted drugs and traced proceeds occupy different evidentiary chains.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 849,
+      "markdown_body_line_end": 853,
+      "heading": "VISUAL FIRST",
+      "preview": "ANTF AND PARALLEL FINANCIAL INVESTIGATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 118
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 347.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 889,
+      "markdown_body_line_end": 906,
+      "heading": "CLOSING RECALL FLOW - CORE - ANTF AND PARALLEL FINANCIAL INVESTIGATION",
+      "preview": "START / CONCEPT: CORE — ANTF and parallel financial investigation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 251
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 710.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 469.691
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 917,
+      "markdown_body_line_end": 917,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read BNS Sections 111-112 and State special laws as a sequence: identify BNS organised-crime offences, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 301.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 220.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 932,
+      "markdown_body_line_end": 939,
+      "heading": "VISUAL FIRST",
+      "preview": "BNS SECTIONS 111-112 AND STATE SPECIAL LAWS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 105
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 976,
+      "markdown_body_line_end": 993,
+      "heading": "CLOSING RECALL FLOW - CORE - BNS SECTIONS 111-112 AND STATE SPECIAL LAWS",
+      "preview": "START / CONCEPT: CORE — BNS Sections 111-112 and State special laws",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 263
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1004,
+      "markdown_body_line_end": 1004,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Human trafficking acts means and exploitation as a sequence: identify Trafficking-smuggling boundary, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 412.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 331.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1019,
+      "markdown_body_line_end": 1023,
+      "heading": "VISUAL FIRST",
+      "preview": "HUMAN TRAFFICKING ACTS MEANS AND EXPLOITATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 120
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1059,
+      "markdown_body_line_end": 1076,
+      "heading": "CLOSING RECALL FLOW - CORE - HUMAN TRAFFICKING ACTS MEANS AND EXPLOITATION",
+      "preview": "START / CONCEPT: CORE — Human trafficking acts means and exploitation",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 267
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 295.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 64.691
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1087,
+      "markdown_body_line_end": 1087,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Trafficking versus migrant smuggling as a sequence: identify Victim-centred response, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1102,
+      "markdown_body_line_end": 1106,
+      "heading": "VISUAL FIRST",
+      "preview": "TRAFFICKING VERSUS MIGRANT SMUGGLING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 130
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 347.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1142,
+      "markdown_body_line_end": 1159,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - TRAFFICKING VERSUS MIGRANT SMUGGLING",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Trafficking versus migrant smuggling",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 251
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 432.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1170,
+      "markdown_body_line_end": 1170,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read Arms wildlife FICN and illicit-market convergence as a sequence: identify Illicit-market convergence, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 264.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 183.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1185,
+      "markdown_body_line_end": 1192,
+      "heading": "VISUAL FIRST",
+      "preview": "ARMS WILDLIFE FICN AND ILLICIT-MARKET CONVERGENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 733.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 662.691
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1229,
+      "markdown_body_line_end": 1246,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - ARMS WILDLIFE FICN AND ILLICIT-MARKET CONVERGENCE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — Arms wildlife FICN and illicit-market convergence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 298
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 513.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1257,
+      "markdown_body_line_end": 1257,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Read UNTOC INTERPOL evidence and victim-centred end-state as a sequence: identify Evidence-status firewall, follow the named mechanism to its institutional response, and stop at the last verified status rather than assuming the next stage.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 264.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1272,
+      "markdown_body_line_end": 1279,
+      "heading": "VISUAL FIRST",
+      "preview": "UNTOC INTERPOL EVIDENCE AND VICTIM-CENTRED END-STATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1315,
+      "markdown_body_line_end": 1327,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Internal Security | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III. **Core area:** Organised crime vs. terrorism (means and ends); the terrorism-organised-crime nexus; narco-terrorism; arms/human/FICN trafficking; the ND",
+      "metadata": {
+        "line_count": 13
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 237.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 71.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1331,
+      "markdown_body_line_end": 1361,
+      "heading": "1. Visual foundation",
+      "preview": "ORGANISED CRIME (material objective)",
+      "metadata": {
+        "language": "text",
+        "line_count": 29,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 486.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1372,
+      "markdown_body_line_end": 1379,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 209.89
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1583,
+      "markdown_body_line_end": 1585,
+      "heading": "12. Core answer architecture - networks, routes, money and victim protection",
+      "preview": "**Core firewall:** This Core section independently supports the 2018 and 2022 nexus routes, the 2024 narco-terrorism route and its 2026 Prelims routing. Advanced material is safely optional.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 238.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 171.624
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1627,
+      "markdown_body_line_end": 1632,
+      "heading": "Claim -> evidence -> analysis -> qualification bank",
+      "preview": "Claim | Named evidence/example | What it proves | Qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Claim",
+          "Named evidence/example",
+          "What it proves",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 523.091
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 322.69
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1667,
+      "markdown_body_line_end": 1684,
+      "heading": "CLOSING RECALL FLOW - CORE SYNTHESIS - UNTOC INTERPOL EVIDENCE AND VICTIM-CENTRED END-STATE",
+      "preview": "START / CONCEPT: CORE SYNTHESIS — UNTOC INTERPOL evidence and victim-centred end-state",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 268
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 698.491
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 457.491
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2853,
+      "markdown_body_line_end": 2864,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Internal Security | **Tier:** Advanced | **GS Paper:** GS-III. **Core area:** The \"follow the money and the route\" doctrine; regional- nexus variation as a diagnostic tool; the darknet/cryptocurrency/drone frontier; witness pro",
+      "metadata": {
+        "line_count": 12
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 267.491
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 137.624
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2883,
+      "markdown_body_line_end": 2889,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 651.691
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 173.89
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2893,
+      "markdown_body_line_end": 2925,
+      "heading": "3. Causal model",
+      "preview": "STRUCTURAL CONDITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 31,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 466.291
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3170,
+      "markdown_body_line_end": 3179,
+      "heading": "Organised Crime, Narco-Terrorism and Trafficking: TRAFFICKING, ILLICIT-MARKET CONVERGENCE AND THREE PYQ SPINES",
+      "preview": "APPLY CONTINUITY GROUP COORDINATION AND BENEFIT ELEMENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 695.491
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 604.491
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3189,
+      "markdown_body_line_end": 3194,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Enterprise structure map",
+      "preview": "ISOLATED OFFENCE -> one event",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 470.891
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 419.091
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3198,
+      "markdown_body_line_end": 3203,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Crime-terror nexus matrix",
+      "preview": "ORGANISED CRIME -> PROFIT / PARALLEL ILLICIT ECONOMY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 397.091
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 345.291
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3207,
+      "markdown_body_line_end": 3212,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Regional-model diagnostic",
+      "preview": "EXTORTION MODEL -> DOMESTIC PARALLEL TAX / PROTECTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 323.291
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 271.491
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3216,
+      "markdown_body_line_end": 3221,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Route-geography firewall",
+      "preview": "GOLDEN CRESCENT -> BROAD WESTERN SOURCE / TRANSIT EXPOSURE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3225,
+      "markdown_body_line_end": 3230,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Safe supply-chain map",
+      "preview": "SOURCE -> TRANSIT -> DISTRIBUTION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3234,
+      "markdown_body_line_end": 3240,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: NDPS property ladder",
+      "preview": "OFFENCE / QUANTITY CATEGORY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 577.691
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3244,
+      "markdown_body_line_end": 3249,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Narcotics institution map",
+      "preview": "NCB -> CENTRAL NODAL COORDINATION / ENFORCEMENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 555.691
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 503.891
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3253,
+      "markdown_body_line_end": 3258,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Organised-crime law map",
+      "preview": "BNS 111 -> ORGANISED CRIME",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 481.891
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 430.091
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3262,
+      "markdown_body_line_end": 3267,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Trafficking-smuggling test",
+      "preview": "EXPLOITATION PURPOSE? -> TRAFFICKING ANALYSIS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 408.091
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 356.291
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3271,
+      "markdown_body_line_end": 3278,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Victim-centred response rail",
+      "preview": "IDENTIFY -> IMMEDIATE SAFETY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 334.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 262.091
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3282,
+      "markdown_body_line_end": 3289,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Illicit-market convergence map",
+      "preview": "SHARED CRIMINAL-SERVICE HUB",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 715.091
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3293,
+      "markdown_body_line_end": 3301,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: PYQ and network-outcome rail",
+      "preview": "2018 -> DRUG / LAUNDERING / HUMAN-TRAFFICKING LINK",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 693.091
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 610.691
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    }
+  ]
+}

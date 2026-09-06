@@ -4,1258 +4,458 @@ topic_key: indian-art-and-culture-14
 ---
 # Heritage Conservation, Institutions and UNESCO — Solved Practice Workbook
 
+## REVISION BOX — CURRENT STATUS AND METHOD
+
+- Checked on **6 September 2026**.
+- Safe current World Heritage chain here: **Moidams = 43rd (2024)** -> **Maratha Military Landscapes = 44th (2025)** -> **Sarnath = 45th (25 July 2026)**.
+- Safe current ICH anchor here: **Deepavali**, inscribed **10 December 2025**; Ministry of Culture states India has **16** elements after this inscription.
+- Safe ASI count used here: **3,686** centrally protected monuments and archaeological sites, from the latest official 2026 government-source route located for this package.
+- **Memory of the World caution:** Bhagavad Gita and Natyashastra manuscript additions are verified individually; the package does **not** force a current India-wide total where accessible official total-reconciliation remained incomplete in-session.
+- **Method rule:** World Heritage, ICH, Memory of the World, ASI estate count and GI are different count families. Never mix them in one line.
+
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Four-category firewall?
+### Q1. Which option keeps India's heritage categories exam-safe?
 
-A. World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indications are four non-interchangeable systems with different objects, instruments and granting bodies.
-B. World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty.
-C. Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management.
-D. The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission.
-
-**Answer: A.**
-**Explanation:** World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indications are four non-interchangeable systems with different objects, instruments and granting bodies. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q2. Which chronology card should be filed under Four-category firewall?
-
-A. The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission.
-B. World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indications are four non-interchangeable systems with different objects, instruments and granting bodies.
-C. Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management.
-D. A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark.
-
-**Answer: B.**
-**Explanation:** World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indications are four non-interchangeable systems with different objects, instruments and granting bodies. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q3. Which option preserves the source-bounded meaning of Four-category firewall?
-
-A. Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management.
-B. A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark.
-C. World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indications are four non-interchangeable systems with different objects, instruments and granting bodies.
-D. The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities.
-
-**Answer: C.**
-**Explanation:** World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indications are four non-interchangeable systems with different objects, instruments and granting bodies. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q4. Which statement avoids a close-option trap about Four-category firewall?
-
-A. A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark.
-B. The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities.
-C. Sahitya Akademi serves literature, Sangeet Natak Akademi performing arts and Lalit Kala Akademi fine arts; founding dates and programmes do not make their mandates interchangeable.
-D. World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indications are four non-interchangeable systems with different objects, instruments and granting bodies.
-
-**Answer: D.**
-**Explanation:** World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indications are four non-interchangeable systems with different objects, instruments and granting bodies. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q5. Which statement correctly identifies World Heritage mechanism?
-
-A. World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty.
-B. A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark.
-C. The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission.
-D. Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management.
+A. World Heritage, Intangible Cultural Heritage, Memory of the World and GI are distinct frameworks and should not be merged into one label.
+B. GI is UNESCO's craft branch and works like the World Heritage List.
+C. Every documentary heritage item is automatically intangible heritage.
+D. ASI recognition and UNESCO inscription are the same legal act.
 
 **Answer: A.**
-**Explanation:** World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** A is correct because the four systems protect different objects through different legal and institutional routes. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q2. Which statement best distinguishes tangible from intangible heritage?
 
-### Q6. Which chronology card should be filed under World Heritage mechanism?
-
-A. Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management.
-B. World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty.
-C. A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark.
-D. The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities.
+A. Tangible heritage can never have living communities around it.
+B. Tangible heritage includes physical objects or sites, whereas intangible heritage survives mainly through practice and transmission.
+C. Intangible heritage is only oral literature and excludes festivals or craftsmanship.
+D. Only UNESCO categories can be called heritage.
 
 **Answer: B.**
-**Explanation:** World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** B is correct because it captures the physical-versus-transmitted distinction without denying overlap in use. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q3. Which of the following is the safest statement about mixed heritage?
 
-### Q7. Which option preserves the source-bounded meaning of World Heritage mechanism?
-
-A. A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark.
-B. Sahitya Akademi serves literature, Sangeet Natak Akademi performing arts and Lalit Kala Akademi fine arts; founding dates and programmes do not make their mandates interchangeable.
-C. World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty.
-D. The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities.
+A. A mixed property is half protected by ASI and half by UNESCO.
+B. Mixed heritage means a monument used by many religions.
+C. A mixed World Heritage property combines recognised cultural and natural values in one property.
+D. India has no mixed heritage category at all.
 
 **Answer: C.**
-**Explanation:** World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** C is correct because 'mixed' is a World Heritage category describing combined cultural and natural value. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q4. Memory of the World is best treated as
 
-### Q8. Which statement avoids a close-option trap about World Heritage mechanism?
-
-A. Sahitya Akademi serves literature, Sangeet Natak Akademi performing arts and Lalit Kala Akademi fine arts; founding dates and programmes do not make their mandates interchangeable.
-B. The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities.
-C. The National Mission for Manuscripts, National Archives, IGNCA, NMMA, Anthropological Survey, Asiatic Society, ICCR and CCRT perform different documentation, custody, research, cultural-relations and training roles.
-D. World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty.
+A. a craft-protection wing of the GI Registry.
+B. a tourism-ranking programme for monuments.
+C. a performance-arts award scheme under Sangeet Natak Akademi.
+D. a documentary-heritage register concerned with manuscripts, archives and records.
 
 **Answer: D.**
-**Explanation:** World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** D is correct because Memory of the World concerns documentary heritage. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q5. Which statement is safest about conservation?
 
-### Q9. Which statement correctly identifies Intangible heritage mechanism?
-
-A. The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission.
-B. The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities.
-C. Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management.
-D. A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark.
+A. It aims to stabilise and retain fabric through minimum documented intervention.
+B. It always means recreating lost original form.
+C. It requires removal of all later layers.
+D. It is identical with adaptive reuse.
 
 **Answer: A.**
-**Explanation:** The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** A is correct because conservation is primarily about stabilisation and retention. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q6. Which option best defines restoration?
 
-### Q10. Which chronology card should be filed under Intangible heritage mechanism?
-
-A. A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark.
-B. The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission.
-C. Sahitya Akademi serves literature, Sangeet Natak Akademi performing arts and Lalit Kala Akademi fine arts; founding dates and programmes do not make their mandates interchangeable.
-D. The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities.
+A. Routine digitisation of archival records.
+B. Returning a site or object to a selected earlier state, often with greater authenticity risk than conservation.
+C. Listing a site on UNESCO's Tentative List.
+D. Not allowing any intervention under any circumstances.
 
 **Answer: B.**
-**Explanation:** The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** B is correct because restoration selects a preferred phase and therefore raises authenticity questions. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q7. Adaptive reuse is safest when written as
 
-### Q11. Which option preserves the source-bounded meaning of Intangible heritage mechanism?
-
-A. The National Mission for Manuscripts, National Archives, IGNCA, NMMA, Anthropological Survey, Asiatic Society, ICCR and CCRT perform different documentation, custody, research, cultural-relations and training roles.
-B. Sahitya Akademi serves literature, Sangeet Natak Akademi performing arts and Lalit Kala Akademi fine arts; founding dates and programmes do not make their mandates interchangeable.
-C. The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission.
-D. The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities.
+A. demolition followed by themed reconstruction for tourism.
+B. automatic conversion of any protected monument into a commercial venue.
+C. a new viable use introduced without destroying significance, setting or important fabric.
+D. replacement of old skills by any cheaper material.
 
 **Answer: C.**
-**Explanation:** The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** C is correct because adaptive reuse must remain subordinate to significance and fabric. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q8. Which statement best distinguishes a UNESCO buffer zone from India's AMASR control zones?
 
-### Q12. Which statement avoids a close-option trap about Intangible heritage mechanism?
-
-A. Article 29 protects community language, script and culture; Article 49 directs State protection against spoliation, disfigurement, destruction, removal, disposal or export; Article 51A(f) places a citizen duty to value and preserve composite heritage.
-B. Sahitya Akademi serves literature, Sangeet Natak Akademi performing arts and Lalit Kala Akademi fine arts; founding dates and programmes do not make their mandates interchangeable.
-C. The National Mission for Manuscripts, National Archives, IGNCA, NMMA, Anthropological Survey, Asiatic Society, ICCR and CCRT perform different documentation, custody, research, cultural-relations and training roles.
-D. The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission.
+A. They are legally identical in origin and effect.
+B. A buffer zone exists only for intangible heritage festivals.
+C. A buffer zone means UNESCO becomes the land owner.
+D. A buffer zone is a management area supporting a World Heritage property, whereas AMASR prohibited and regulated areas arise from domestic monument law.
 
 **Answer: D.**
-**Explanation:** The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** D is correct because the two instruments arise from different legal systems even if both regulate the area around heritage. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q9. Which pair is correctly matched?
 
-### Q13. Which statement correctly identifies Memory of the World mechanism?
-
-A. Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management.
-B. A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark.
-C. Sahitya Akademi serves literature, Sangeet Natak Akademi performing arts and Lalit Kala Akademi fine arts; founding dates and programmes do not make their mandates interchangeable.
-D. The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities.
+A. Authenticity - whether the property conveys its attributes truthfully; Integrity - whether enough wholeness and attributes survive together.
+B. Authenticity - number of tourists; Integrity - monetary value.
+C. Authenticity - only the age of the monument; Integrity - only the colour of walls.
+D. Authenticity - legal ownership; Integrity - international funding.
 
 **Answer: A.**
-**Explanation:** Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** A is correct because authenticity and integrity are about truthful expression and wholeness of attributes. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q10. Which statement about the World Heritage Committee is safest?
 
-### Q14. Which chronology card should be filed under Memory of the World mechanism?
-
-A. The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities.
-B. Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management.
-C. Sahitya Akademi serves literature, Sangeet Natak Akademi performing arts and Lalit Kala Akademi fine arts; founding dates and programmes do not make their mandates interchangeable.
-D. The National Mission for Manuscripts, National Archives, IGNCA, NMMA, Anthropological Survey, Asiatic Society, ICCR and CCRT perform different documentation, custody, research, cultural-relations and training roles.
+A. It is a permanent body of archaeologists appointed by ASI.
+B. It is an intergovernmental committee of 21 State Parties implementing the 1972 Convention with advisory inputs from ICOMOS, IUCN and ICCROM.
+C. It only manages intangible heritage nominations.
+D. It transfers ownership of sites to UNESCO after inscription.
 
 **Answer: B.**
-**Explanation:** Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** B is correct because it captures both composition and advisory structure. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q11. Which statement best distinguishes a tentative-list property from an inscribed property?
 
-### Q15. Which option preserves the source-bounded meaning of Memory of the World mechanism?
-
-A. The National Mission for Manuscripts, National Archives, IGNCA, NMMA, Anthropological Survey, Asiatic Society, ICCR and CCRT perform different documentation, custody, research, cultural-relations and training roles.
-B. Article 29 protects community language, script and culture; Article 49 directs State protection against spoliation, disfigurement, destruction, removal, disposal or export; Article 51A(f) places a citizen duty to value and preserve composite heritage.
-C. Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management.
-D. Sahitya Akademi serves literature, Sangeet Natak Akademi performing arts and Lalit Kala Akademi fine arts; founding dates and programmes do not make their mandates interchangeable.
+A. A tentative-list property is already a World Heritage property.
+B. There is no difference once the State Party names the property.
+C. An inscribed property has completed the full Committee decision process; a tentative-list property is only at the nomination pipeline stage.
+D. Tentative-list properties are always on the danger list.
 
 **Answer: C.**
-**Explanation:** Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** C is correct because tentative listing is only a preparatory step. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q12. What does the List of World Heritage in Danger demonstrate most clearly?
 
-### Q16. Which statement avoids a close-option trap about Memory of the World mechanism?
-
-A. Article 29 protects community language, script and culture; Article 49 directs State protection against spoliation, disfigurement, destruction, removal, disposal or export; Article 51A(f) places a citizen duty to value and preserve composite heritage.
-B. The National Mission for Manuscripts, National Archives, IGNCA, NMMA, Anthropological Survey, Asiatic Society, ICCR and CCRT perform different documentation, custody, research, cultural-relations and training roles.
-C. The generally prohibited first 100 metres and regulated next 200 metres around a centrally protected monument arise from Indian statute and are not UNESCO buffer zones mapped through nomination and management documents.
-D. Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management.
+A. That danger-list placement automatically cancels inscription.
+B. That UNESCO owns all listed sites.
+C. That only natural sites can be threatened.
+D. That inscription is conditional and linked to continuing protection and management.
 
 **Answer: D.**
-**Explanation:** Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** D is correct because the danger-list mechanism shows inscription is monitored and conditional. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q13. Which statement is safest about the 2003 ICH Convention?
 
-### Q17. Which statement correctly identifies GI is domestic IP?
-
-A. A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark.
-B. The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities.
-C. The National Mission for Manuscripts, National Archives, IGNCA, NMMA, Anthropological Survey, Asiatic Society, ICCR and CCRT perform different documentation, custody, research, cultural-relations and training roles.
-D. Sahitya Akademi serves literature, Sangeet Natak Akademi performing arts and Lalit Kala Akademi fine arts; founding dates and programmes do not make their mandates interchangeable.
+A. It treats living practices through separate tracks such as the Representative List, Urgent Safeguarding List and Good Safeguarding Practices Register.
+B. It creates only one list for all living traditions.
+C. It deals only with monumental architecture.
+D. It is the same programme as Memory of the World.
 
 **Answer: A.**
-**Explanation:** A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** A is correct because the Convention differentiates visibility, urgency and model-practice mechanisms. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q14. Which statement is safest at the checked date about India and UNESCO's ICH tracks?
 
-### Q18. Which chronology card should be filed under GI is domestic IP?
-
-A. The National Mission for Manuscripts, National Archives, IGNCA, NMMA, Anthropological Survey, Asiatic Society, ICCR and CCRT perform different documentation, custody, research, cultural-relations and training roles.
-B. A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark.
-C. Sahitya Akademi serves literature, Sangeet Natak Akademi performing arts and Lalit Kala Akademi fine arts; founding dates and programmes do not make their mandates interchangeable.
-D. Article 29 protects community language, script and culture; Article 49 directs State protection against spoliation, disfigurement, destruction, removal, disposal or export; Article 51A(f) places a citizen duty to value and preserve composite heritage.
+A. India has entries on every UNESCO ICH track including the urgent list and good-practices register.
+B. India has Representative List elements, but no Indian element was located on the Urgent Safeguarding List or Good Safeguarding Practices Register at the checked date.
+C. India has no Representative List elements but only urgent-safeguarding entries.
+D. The urgent-safeguarding track applies only to natural heritage.
 
 **Answer: B.**
-**Explanation:** A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** B is correct because it preserves the verified negative findings without overclaiming beyond the checked date. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q15. Which statement is safest about Deepavali's 2025 inscription?
 
-### Q19. Which option preserves the source-bounded meaning of GI is domestic IP?
-
-A. Article 29 protects community language, script and culture; Article 49 directs State protection against spoliation, disfigurement, destruction, removal, disposal or export; Article 51A(f) places a citizen duty to value and preserve composite heritage.
-B. The National Mission for Manuscripts, National Archives, IGNCA, NMMA, Anthropological Survey, Asiatic Society, ICCR and CCRT perform different documentation, custody, research, cultural-relations and training roles.
-C. A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark.
-D. The generally prohibited first 100 metres and regulated next 200 metres around a centrally protected monument arise from Indian statute and are not UNESCO buffer zones mapped through nomination and management documents.
+A. It was nominated as a World Heritage cultural landscape.
+B. It entered the Memory of the World Register as a manuscript.
+C. It was prepared as an ICH nomination by the Sangeet Natak Akademi under the Ministry of Culture.
+D. It was a GI registration event.
 
 **Answer: C.**
-**Explanation:** A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** C is correct because the Ministry of Culture page explicitly states the nomination was prepared by the Sangeet Natak Akademi under its aegis. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q16. Why is Nowruz a useful UPSC trap within India's ICH list?
 
-### Q20. Which statement avoids a close-option trap about GI is domestic IP?
-
-A. Article 29 protects community language, script and culture; Article 49 directs State protection against spoliation, disfigurement, destruction, removal, disposal or export; Article 51A(f) places a citizen duty to value and preserve composite heritage.
-B. Visitor load, urban construction, climate, disaster, material loss, illicit trade and transmission failure damage heritage through different mechanisms and require different legal, technical, archival or livelihood responses.
-C. The generally prohibited first 100 metres and regulated next 200 metres around a centrally protected monument arise from Indian statute and are not UNESCO buffer zones mapped through nomination and management documents.
-D. A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark.
+A. Because it proves every Indian ICH element is India-only.
+B. Because it is a World Heritage serial property.
+C. Because it was nominated by ASI as a monument.
+D. Because it is a multinational inscription, so its presence on India's page does not make it an India-only element.
 
 **Answer: D.**
-**Explanation:** A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** D is correct because Nowruz is a multinational inscription. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q17. Which statement best captures documentary-heritage protection?
 
-### Q21. Which statement correctly identifies ASI and its statutes?
-
-A. The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities.
-B. Article 29 protects community language, script and culture; Article 49 directs State protection against spoliation, disfigurement, destruction, removal, disposal or export; Article 51A(f) places a citizen duty to value and preserve composite heritage.
-C. Sahitya Akademi serves literature, Sangeet Natak Akademi performing arts and Lalit Kala Akademi fine arts; founding dates and programmes do not make their mandates interchangeable.
-D. The National Mission for Manuscripts, National Archives, IGNCA, NMMA, Anthropological Survey, Asiatic Society, ICCR and CCRT perform different documentation, custody, research, cultural-relations and training roles.
+A. It depends mainly on custody, cataloguing, conservation and digitisation rather than monument zoning alone.
+B. It is identical with crowd-control planning at tourist monuments.
+C. It requires only GI registration.
+D. It excludes manuscripts and archives.
 
 **Answer: A.**
-**Explanation:** The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** A is correct because documentary heritage depends on records systems and preservation infrastructure. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q18. Which is the safest statement about the Archaeological Survey of India?
 
-### Q22. Which chronology card should be filed under ASI and its statutes?
-
-A. Article 29 protects community language, script and culture; Article 49 directs State protection against spoliation, disfigurement, destruction, removal, disposal or export; Article 51A(f) places a citizen duty to value and preserve composite heritage.
-B. The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities.
-C. The National Mission for Manuscripts, National Archives, IGNCA, NMMA, Anthropological Survey, Asiatic Society, ICCR and CCRT perform different documentation, custody, research, cultural-relations and training roles.
-D. The generally prohibited first 100 metres and regulated next 200 metres around a centrally protected monument arise from Indian statute and are not UNESCO buffer zones mapped through nomination and management documents.
+A. It was created by the 2003 ICH Convention.
+B. It was established in 1861 under Alexander Cunningham and remains the main central archaeology and monument-conservation institution.
+C. It is a private trust running only museums.
+D. It exists only to nominate UNESCO festivals.
 
 **Answer: B.**
-**Explanation:** The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** B is correct because both the founding year and core function are source-backed. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q19. Which option safely describes the AMASR control regime?
 
-### Q23. Which option preserves the source-bounded meaning of ASI and its statutes?
-
-A. Visitor load, urban construction, climate, disaster, material loss, illicit trade and transmission failure damage heritage through different mechanisms and require different legal, technical, archival or livelihood responses.
-B. The generally prohibited first 100 metres and regulated next 200 metres around a centrally protected monument arise from Indian statute and are not UNESCO buffer zones mapped through nomination and management documents.
-C. The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities.
-D. Article 29 protects community language, script and culture; Article 49 directs State protection against spoliation, disfigurement, destruction, removal, disposal or export; Article 51A(f) places a citizen duty to value and preserve composite heritage.
+A. It is the same thing as UNESCO's buffer zone in every case.
+B. It applies only to UNESCO natural parks.
+C. The first 100 metres around a centrally protected monument are generally prohibited and the next 200 metres regulated under domestic law.
+D. It abolished all need for permissions near centrally protected monuments.
 
 **Answer: C.**
-**Explanation:** The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** C is correct because it states the exam-safe domestic zoning rule. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q20. Which statement best captures Article 49?
 
-### Q24. Which statement avoids a close-option trap about ASI and its statutes?
-
-A. Visitor load, urban construction, climate, disaster, material loss, illicit trade and transmission failure damage heritage through different mechanisms and require different legal, technical, archival or livelihood responses.
-B. The generally prohibited first 100 metres and regulated next 200 metres around a centrally protected monument arise from Indian statute and are not UNESCO buffer zones mapped through nomination and management documents.
-C. Conservation stabilises and retains fabric through minimum documented intervention, while restoration returns an object to a selected earlier state and therefore raises greater authenticity and reversibility risks.
-D. The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities.
+A. It creates a citizen's Fundamental Duty to preserve heritage.
+B. It is a state list entry for tourism promotion.
+C. It is the article creating the World Heritage Committee.
+D. It places on the State an obligation to protect monuments and objects of national importance from harm including removal, disposal and export.
 
 **Answer: D.**
-**Explanation:** The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** D is correct because Article 49 is a State obligation with a specific protective verb list. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q21. Which statement is correct about Article 51A(f)?
 
-### Q25. Which statement correctly identifies Akademi mandate map?
-
-A. Sahitya Akademi serves literature, Sangeet Natak Akademi performing arts and Lalit Kala Akademi fine arts; founding dates and programmes do not make their mandates interchangeable.
-B. Article 29 protects community language, script and culture; Article 49 directs State protection against spoliation, disfigurement, destruction, removal, disposal or export; Article 51A(f) places a citizen duty to value and preserve composite heritage.
-C. The National Mission for Manuscripts, National Archives, IGNCA, NMMA, Anthropological Survey, Asiatic Society, ICCR and CCRT perform different documentation, custody, research, cultural-relations and training roles.
-D. The generally prohibited first 100 metres and regulated next 200 metres around a centrally protected monument arise from Indian statute and are not UNESCO buffer zones mapped through nomination and management documents.
+A. It is the citizen's Fundamental Duty to value and preserve the rich heritage of our composite culture.
+B. It is a judicial list of protected temples.
+C. It is a directive to UNESCO on intangible heritage.
+D. It establishes the National Museum.
 
 **Answer: A.**
-**Explanation:** Sahitya Akademi serves literature, Sangeet Natak Akademi performing arts and Lalit Kala Akademi fine arts; founding dates and programmes do not make their mandates interchangeable. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** A is correct because Article 51A(f) is a Fundamental Duty of citizens. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q22. Which statement is safest about the National Monuments Authority?
 
-### Q26. Which chronology card should be filed under Akademi mandate map?
-
-A. The generally prohibited first 100 metres and regulated next 200 metres around a centrally protected monument arise from Indian statute and are not UNESCO buffer zones mapped through nomination and management documents.
-B. Sahitya Akademi serves literature, Sangeet Natak Akademi performing arts and Lalit Kala Akademi fine arts; founding dates and programmes do not make their mandates interchangeable.
-C. Visitor load, urban construction, climate, disaster, material loss, illicit trade and transmission failure damage heritage through different mechanisms and require different legal, technical, archival or livelihood responses.
-D. Article 29 protects community language, script and culture; Article 49 directs State protection against spoliation, disfigurement, destruction, removal, disposal or export; Article 51A(f) places a citizen duty to value and preserve composite heritage.
+A. It is India's main manuscript digitisation body.
+B. It was established under the AMASR amendment framework to scrutinise heritage bye-laws and regulate construction-related permissions in prohibited and regulated areas.
+C. It manages the Representative List of ICH.
+D. It replaced ASI entirely.
 
 **Answer: B.**
-**Explanation:** Sahitya Akademi serves literature, Sangeet Natak Akademi performing arts and Lalit Kala Akademi fine arts; founding dates and programmes do not make their mandates interchangeable. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** B is correct because it matches the official NMA page. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q23. Which option best distinguishes ASI from state archaeology departments?
 
-### Q27. Which option preserves the source-bounded meaning of Akademi mandate map?
-
-A. The generally prohibited first 100 metres and regulated next 200 metres around a centrally protected monument arise from Indian statute and are not UNESCO buffer zones mapped through nomination and management documents.
-B. Conservation stabilises and retains fabric through minimum documented intervention, while restoration returns an object to a selected earlier state and therefore raises greater authenticity and reversibility risks.
-C. Sahitya Akademi serves literature, Sangeet Natak Akademi performing arts and Lalit Kala Akademi fine arts; founding dates and programmes do not make their mandates interchangeable.
-D. Visitor load, urban construction, climate, disaster, material loss, illicit trade and transmission failure damage heritage through different mechanisms and require different legal, technical, archival or livelihood responses.
+A. There is no distinction; both manage the same legal estate.
+B. ASI is confined to archives while states manage monuments.
+C. ASI works on the centrally protected estate, while state archaeology departments handle state-protected sites and related local responsibilities.
+D. Only state archaeology can excavate anywhere in India.
 
 **Answer: C.**
-**Explanation:** Sahitya Akademi serves literature, Sangeet Natak Akademi performing arts and Lalit Kala Akademi fine arts; founding dates and programmes do not make their mandates interchangeable. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** C is correct because it preserves the central-versus-state distinction without exaggerating exclusivity. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q24. Which statement is safest about NMMA?
 
-### Q28. Which statement avoids a close-option trap about Akademi mandate map?
-
-A. Conservation stabilises and retains fabric through minimum documented intervention, while restoration returns an object to a selected earlier state and therefore raises greater authenticity and reversibility risks.
-B. Active worship, ancestor practice, access and livelihood are conservation variables at sites such as Matangeshvara and Moidams; fabric protection cannot presume that a heritage place is socially empty.
-C. Visitor load, urban construction, climate, disaster, material loss, illicit trade and transmission failure damage heritage through different mechanisms and require different legal, technical, archival or livelihood responses.
-D. Sahitya Akademi serves literature, Sangeet Natak Akademi performing arts and Lalit Kala Akademi fine arts; founding dates and programmes do not make their mandates interchangeable.
+A. It is a theatre-training institution set up by Sangeet Natak Akademi.
+B. It issues GI tags for crafts.
+C. It is a UNESCO category for documentary heritage.
+D. It is the mission launched to document monuments and antiquities through national registers and databases.
 
 **Answer: D.**
-**Explanation:** Sahitya Akademi serves literature, Sangeet Natak Akademi performing arts and Lalit Kala Akademi fine arts; founding dates and programmes do not make their mandates interchangeable. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** D is correct because NMMA focuses on registers and documentation. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q25. Which statement best captures IGNCA's role?
 
-### Q29. Which statement correctly identifies Documentary and research institutions?
-
-A. The National Mission for Manuscripts, National Archives, IGNCA, NMMA, Anthropological Survey, Asiatic Society, ICCR and CCRT perform different documentation, custody, research, cultural-relations and training roles.
-B. The generally prohibited first 100 metres and regulated next 200 metres around a centrally protected monument arise from Indian statute and are not UNESCO buffer zones mapped through nomination and management documents.
-C. Article 29 protects community language, script and culture; Article 49 directs State protection against spoliation, disfigurement, destruction, removal, disposal or export; Article 51A(f) places a citizen duty to value and preserve composite heritage.
-D. Visitor load, urban construction, climate, disaster, material loss, illicit trade and transmission failure damage heritage through different mechanisms and require different legal, technical, archival or livelihood responses.
+A. It is a multidisciplinary resource centre for written, oral and visual materials, research and dissemination in the arts.
+B. It is only a field-excavation wing of ASI.
+C. It is the statutory authority for prohibited-area construction permission.
+D. It is only a tourism-ticketing portal.
 
 **Answer: A.**
-**Explanation:** The National Mission for Manuscripts, National Archives, IGNCA, NMMA, Anthropological Survey, Asiatic Society, ICCR and CCRT perform different documentation, custody, research, cultural-relations and training roles. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** A is correct because IGNCA's official page emphasises multidisciplinary arts research and documentation. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q26. Which statement is safest about INTACH?
 
-### Q30. Which chronology card should be filed under Documentary and research institutions?
-
-A. Visitor load, urban construction, climate, disaster, material loss, illicit trade and transmission failure damage heritage through different mechanisms and require different legal, technical, archival or livelihood responses.
-B. The National Mission for Manuscripts, National Archives, IGNCA, NMMA, Anthropological Survey, Asiatic Society, ICCR and CCRT perform different documentation, custody, research, cultural-relations and training roles.
-C. The generally prohibited first 100 metres and regulated next 200 metres around a centrally protected monument arise from Indian statute and are not UNESCO buffer zones mapped through nomination and management documents.
-D. Conservation stabilises and retains fabric through minimum documented intervention, while restoration returns an object to a selected earlier state and therefore raises greater authenticity and reversibility risks.
+A. It is a constitutional body identical with NMA.
+B. It is a large heritage organisation with chapters and divisions working on conservation, awareness and related heritage fields.
+C. It is the only body authorised to notify centrally protected monuments.
+D. It manages UNESCO's danger list.
 
 **Answer: B.**
-**Explanation:** The National Mission for Manuscripts, National Archives, IGNCA, NMMA, Anthropological Survey, Asiatic Society, ICCR and CCRT perform different documentation, custody, research, cultural-relations and training roles. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** B is correct because INTACH is a major heritage organisation, not a statutory constitutional authority. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q27. Which option best states the National Museum's role?
 
-### Q31. Which option preserves the source-bounded meaning of Documentary and research institutions?
-
-A. Visitor load, urban construction, climate, disaster, material loss, illicit trade and transmission failure damage heritage through different mechanisms and require different legal, technical, archival or livelihood responses.
-B. Conservation stabilises and retains fabric through minimum documented intervention, while restoration returns an object to a selected earlier state and therefore raises greater authenticity and reversibility risks.
-C. The National Mission for Manuscripts, National Archives, IGNCA, NMMA, Anthropological Survey, Asiatic Society, ICCR and CCRT perform different documentation, custody, research, cultural-relations and training roles.
-D. Active worship, ancestor practice, access and livelihood are conservation variables at sites such as Matangeshvara and Moidams; fabric protection cannot presume that a heritage place is socially empty.
+A. It is India's UNESCO nomination committee.
+B. It is a monument-zoning body under AMASR.
+C. Its official mandate is to collect, protect, preserve and interpret objects of historical, cultural and artistic significance.
+D. It is the GI Registry.
 
 **Answer: C.**
-**Explanation:** The National Mission for Manuscripts, National Archives, IGNCA, NMMA, Anthropological Survey, Asiatic Society, ICCR and CCRT perform different documentation, custody, research, cultural-relations and training roles. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** C is correct because the museum's official vision highlights collection, preservation and interpretation. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q28. Which statement is safest about repatriation claims?
 
-### Q32. Which statement avoids a close-option trap about Documentary and research institutions?
-
-A. Manas and Hampi were once on the List of World Heritage in Danger and were later removed after improvement, proving that inscription remains conditional on continuing management.
-B. Active worship, ancestor practice, access and livelihood are conservation variables at sites such as Matangeshvara and Moidams; fabric protection cannot presume that a heritage place is socially empty.
-C. Conservation stabilises and retains fabric through minimum documented intervention, while restoration returns an object to a selected earlier state and therefore raises greater authenticity and reversibility risks.
-D. The National Mission for Manuscripts, National Archives, IGNCA, NMMA, Anthropological Survey, Asiatic Society, ICCR and CCRT perform different documentation, custody, research, cultural-relations and training roles.
+A. Any widely repeated media story may be treated as final proof.
+B. Repatriation belongs only to documentary heritage, not antiquities.
+C. No provenance is required if the object looks Indian.
+D. The safest claim names the object, provenance route, receiving institution and dated official source.
 
 **Answer: D.**
-**Explanation:** The National Mission for Manuscripts, National Archives, IGNCA, NMMA, Anthropological Survey, Asiatic Society, ICCR and CCRT perform different documentation, custody, research, cultural-relations and training roles. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** D is correct because provenance and official documentation are central to any defensible repatriation claim. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q29. Which of the following is safest about the Moidams?
 
-### Q33. Which statement correctly identifies Constitutional heritage frame?
-
-A. Article 29 protects community language, script and culture; Article 49 directs State protection against spoliation, disfigurement, destruction, removal, disposal or export; Article 51A(f) places a citizen duty to value and preserve composite heritage.
-B. Conservation stabilises and retains fabric through minimum documented intervention, while restoration returns an object to a selected earlier state and therefore raises greater authenticity and reversibility risks.
-C. The generally prohibited first 100 metres and regulated next 200 metres around a centrally protected monument arise from Indian statute and are not UNESCO buffer zones mapped through nomination and management documents.
-D. Visitor load, urban construction, climate, disaster, material loss, illicit trade and transmission failure damage heritage through different mechanisms and require different legal, technical, archival or livelihood responses.
+A. They were a Tai-Ahom royal necropolis with mound-covered vaults, shrine elements and an ancestor-linked sacred landscape.
+B. They were ordinary earthen mounds with no built architectural core.
+C. They were primarily army fortresses and drill grounds.
+D. They are an ICH festival rather than a World Heritage property.
 
 **Answer: A.**
-**Explanation:** Article 29 protects community language, script and culture; Article 49 directs State protection against spoliation, disfigurement, destruction, removal, disposal or export; Article 51A(f) places a citizen duty to value and preserve composite heritage. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** A is correct because the UNESCO property page describes vaults, shrines, walls and a continuing funerary landscape. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q30. Which statement about Maratha Military Landscapes of India is safest?
 
-### Q34. Which chronology card should be filed under Constitutional heritage frame?
-
-A. Visitor load, urban construction, climate, disaster, material loss, illicit trade and transmission failure damage heritage through different mechanisms and require different legal, technical, archival or livelihood responses.
-B. Article 29 protects community language, script and culture; Article 49 directs State protection against spoliation, disfigurement, destruction, removal, disposal or export; Article 51A(f) places a citizen duty to value and preserve composite heritage.
-C. Conservation stabilises and retains fabric through minimum documented intervention, while restoration returns an object to a selected earlier state and therefore raises greater authenticity and reversibility risks.
-D. Active worship, ancestor practice, access and livelihood are conservation variables at sites such as Matangeshvara and Moidams; fabric protection cannot presume that a heritage place is socially empty.
-
-**Answer: B.**
-**Explanation:** Article 29 protects community language, script and culture; Article 49 directs State protection against spoliation, disfigurement, destruction, removal, disposal or export; Article 51A(f) places a citizen duty to value and preserve composite heritage. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q35. Which option preserves the source-bounded meaning of Constitutional heritage frame?
-
-A. Conservation stabilises and retains fabric through minimum documented intervention, while restoration returns an object to a selected earlier state and therefore raises greater authenticity and reversibility risks.
-B. Manas and Hampi were once on the List of World Heritage in Danger and were later removed after improvement, proving that inscription remains conditional on continuing management.
-C. Article 29 protects community language, script and culture; Article 49 directs State protection against spoliation, disfigurement, destruction, removal, disposal or export; Article 51A(f) places a citizen duty to value and preserve composite heritage.
-D. Active worship, ancestor practice, access and livelihood are conservation variables at sites such as Matangeshvara and Moidams; fabric protection cannot presume that a heritage place is socially empty.
-
-**Answer: C.**
-**Explanation:** Article 29 protects community language, script and culture; Article 49 directs State protection against spoliation, disfigurement, destruction, removal, disposal or export; Article 51A(f) places a citizen duty to value and preserve composite heritage. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about Constitutional heritage frame?
-
-A. Manas and Hampi were once on the List of World Heritage in Danger and were later removed after improvement, proving that inscription remains conditional on continuing management.
-B. Moidams at Charaideo are Tai-Ahom mound-covered royal burial vaults with shrine and octagonal enclosure in a continuing funerary landscape, inscribed in 2024 under criteria (iii) and (iv).
-C. Active worship, ancestor practice, access and livelihood are conservation variables at sites such as Matangeshvara and Moidams; fabric protection cannot presume that a heritage place is socially empty.
-D. Article 29 protects community language, script and culture; Article 49 directs State protection against spoliation, disfigurement, destruction, removal, disposal or export; Article 51A(f) places a citizen duty to value and preserve composite heritage.
-
-**Answer: D.**
-**Explanation:** Article 29 protects community language, script and culture; Article 49 directs State protection against spoliation, disfigurement, destruction, removal, disposal or export; Article 51A(f) places a citizen duty to value and preserve composite heritage. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies AMASR zone firewall?
-
-A. The generally prohibited first 100 metres and regulated next 200 metres around a centrally protected monument arise from Indian statute and are not UNESCO buffer zones mapped through nomination and management documents.
-B. Conservation stabilises and retains fabric through minimum documented intervention, while restoration returns an object to a selected earlier state and therefore raises greater authenticity and reversibility risks.
-C. Visitor load, urban construction, climate, disaster, material loss, illicit trade and transmission failure damage heritage through different mechanisms and require different legal, technical, archival or livelihood responses.
-D. Active worship, ancestor practice, access and livelihood are conservation variables at sites such as Matangeshvara and Moidams; fabric protection cannot presume that a heritage place is socially empty.
-
-**Answer: A.**
-**Explanation:** The generally prohibited first 100 metres and regulated next 200 metres around a centrally protected monument arise from Indian statute and are not UNESCO buffer zones mapped through nomination and management documents. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under AMASR zone firewall?
-
-A. Conservation stabilises and retains fabric through minimum documented intervention, while restoration returns an object to a selected earlier state and therefore raises greater authenticity and reversibility risks.
-B. The generally prohibited first 100 metres and regulated next 200 metres around a centrally protected monument arise from Indian statute and are not UNESCO buffer zones mapped through nomination and management documents.
-C. Active worship, ancestor practice, access and livelihood are conservation variables at sites such as Matangeshvara and Moidams; fabric protection cannot presume that a heritage place is socially empty.
-D. Manas and Hampi were once on the List of World Heritage in Danger and were later removed after improvement, proving that inscription remains conditional on continuing management.
+A. It is one isolated fort and not a serial property.
+B. It is a serial World Heritage inscription of twelve forts, mostly in Maharashtra with one in Tamil Nadu.
+C. It is India's latest ICH inscription.
+D. It replaced Moidams in the danger list.
 
 **Answer: B.**
-**Explanation:** The generally prohibited first 100 metres and regulated next 200 metres around a centrally protected monument arise from Indian statute and are not UNESCO buffer zones mapped through nomination and management documents. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** B is correct because UNESCO describes it as a serial fort network. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q31. Which statement is safest about the latest official ASI monument count located for this package?
 
-### Q39. Which option preserves the source-bounded meaning of AMASR zone firewall?
-
-A. Moidams at Charaideo are Tai-Ahom mound-covered royal burial vaults with shrine and octagonal enclosure in a continuing funerary landscape, inscribed in 2024 under criteria (iii) and (iv).
-B. Active worship, ancestor practice, access and livelihood are conservation variables at sites such as Matangeshvara and Moidams; fabric protection cannot presume that a heritage place is socially empty.
-C. The generally prohibited first 100 metres and regulated next 200 metres around a centrally protected monument arise from Indian statute and are not UNESCO buffer zones mapped through nomination and management documents.
-D. Manas and Hampi were once on the List of World Heritage in Danger and were later removed after improvement, proving that inscription remains conditional on continuing management.
-
-**Answer: C.**
-**Explanation:** The generally prohibited first 100 metres and regulated next 200 metres around a centrally protected monument arise from Indian statute and are not UNESCO buffer zones mapped through nomination and management documents. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about AMASR zone firewall?
-
-A. Moidams at Charaideo are Tai-Ahom mound-covered royal burial vaults with shrine and octagonal enclosure in a continuing funerary landscape, inscribed in 2024 under criteria (iii) and (iv).
-B. Nalanda, Mumbai's Victorian Gothic and Art Deco ensembles, Dholavira, Ramappa, Santiniketan, the Hoysala ensembles, Moidams, the Maratha Military Landscapes and Sarnath form a dated 2016-2026 ledger; it is not India's complete list.
-C. Manas and Hampi were once on the List of World Heritage in Danger and were later removed after improvement, proving that inscription remains conditional on continuing management.
-D. The generally prohibited first 100 metres and regulated next 200 metres around a centrally protected monument arise from Indian statute and are not UNESCO buffer zones mapped through nomination and management documents.
-
-**Answer: D.**
-**Explanation:** The generally prohibited first 100 metres and regulated next 200 metres around a centrally protected monument arise from Indian statute and are not UNESCO buffer zones mapped through nomination and management documents. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Threat-to-instrument matching?
-
-A. Visitor load, urban construction, climate, disaster, material loss, illicit trade and transmission failure damage heritage through different mechanisms and require different legal, technical, archival or livelihood responses.
-B. Conservation stabilises and retains fabric through minimum documented intervention, while restoration returns an object to a selected earlier state and therefore raises greater authenticity and reversibility risks.
-C. Active worship, ancestor practice, access and livelihood are conservation variables at sites such as Matangeshvara and Moidams; fabric protection cannot presume that a heritage place is socially empty.
-D. Manas and Hampi were once on the List of World Heritage in Danger and were later removed after improvement, proving that inscription remains conditional on continuing management.
-
-**Answer: A.**
-**Explanation:** Visitor load, urban construction, climate, disaster, material loss, illicit trade and transmission failure damage heritage through different mechanisms and require different legal, technical, archival or livelihood responses. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Threat-to-instrument matching?
-
-A. Manas and Hampi were once on the List of World Heritage in Danger and were later removed after improvement, proving that inscription remains conditional on continuing management.
-B. Visitor load, urban construction, climate, disaster, material loss, illicit trade and transmission failure damage heritage through different mechanisms and require different legal, technical, archival or livelihood responses.
-C. Moidams at Charaideo are Tai-Ahom mound-covered royal burial vaults with shrine and octagonal enclosure in a continuing funerary landscape, inscribed in 2024 under criteria (iii) and (iv).
-D. Active worship, ancestor practice, access and livelihood are conservation variables at sites such as Matangeshvara and Moidams; fabric protection cannot presume that a heritage place is socially empty.
-
-**Answer: B.**
-**Explanation:** Visitor load, urban construction, climate, disaster, material loss, illicit trade and transmission failure damage heritage through different mechanisms and require different legal, technical, archival or livelihood responses. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Threat-to-instrument matching?
-
-A. Nalanda, Mumbai's Victorian Gothic and Art Deco ensembles, Dholavira, Ramappa, Santiniketan, the Hoysala ensembles, Moidams, the Maratha Military Landscapes and Sarnath form a dated 2016-2026 ledger; it is not India's complete list.
-B. Moidams at Charaideo are Tai-Ahom mound-covered royal burial vaults with shrine and octagonal enclosure in a continuing funerary landscape, inscribed in 2024 under criteria (iii) and (iv).
-C. Visitor load, urban construction, climate, disaster, material loss, illicit trade and transmission failure damage heritage through different mechanisms and require different legal, technical, archival or livelihood responses.
-D. Manas and Hampi were once on the List of World Heritage in Danger and were later removed after improvement, proving that inscription remains conditional on continuing management.
+A. It is a timeless number that need not be dated.
+B. It remains 3,679 because that older figure appears in earlier material.
+C. The latest official count located and rechecked for this package is 3,686, and it should be cited with its 2026 government-source date.
+D. No count may ever be cited in heritage answers.
 
 **Answer: C.**
-**Explanation:** Visitor load, urban construction, climate, disaster, material loss, illicit trade and transmission failure damage heritage through different mechanisms and require different legal, technical, archival or livelihood responses. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** C is correct because the method here is to use the latest official count located and date it. The remaining options misstate the category, mandate, chronology or concept in question.
+### Q32. Which statement best uses Hall of Nations in Topic 14?
 
-### Q44. Which statement avoids a close-option trap about Threat-to-instrument matching?
-
-A. The dated Indian ICH ledger runs from 2008 elements through Deepavali in 2025, includes the multinational Nowruz entry, and must keep inscription year separate from any changing total or latest-item question.
-B. Nalanda, Mumbai's Victorian Gothic and Art Deco ensembles, Dholavira, Ramappa, Santiniketan, the Hoysala ensembles, Moidams, the Maratha Military Landscapes and Sarnath form a dated 2016-2026 ledger; it is not India's complete list.
-C. Moidams at Charaideo are Tai-Ahom mound-covered royal burial vaults with shrine and octagonal enclosure in a continuing funerary landscape, inscribed in 2024 under criteria (iii) and (iv).
-D. Visitor load, urban construction, climate, disaster, material loss, illicit trade and transmission failure damage heritage through different mechanisms and require different legal, technical, archival or livelihood responses.
-
-**Answer: D.**
-**Explanation:** Visitor load, urban construction, climate, disaster, material loss, illicit trade and transmission failure damage heritage through different mechanisms and require different legal, technical, archival or livelihood responses. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Conservation and restoration?
-
-A. Conservation stabilises and retains fabric through minimum documented intervention, while restoration returns an object to a selected earlier state and therefore raises greater authenticity and reversibility risks.
-B. Active worship, ancestor practice, access and livelihood are conservation variables at sites such as Matangeshvara and Moidams; fabric protection cannot presume that a heritage place is socially empty.
-C. Manas and Hampi were once on the List of World Heritage in Danger and were later removed after improvement, proving that inscription remains conditional on continuing management.
-D. Moidams at Charaideo are Tai-Ahom mound-covered royal burial vaults with shrine and octagonal enclosure in a continuing funerary landscape, inscribed in 2024 under criteria (iii) and (iv).
-
-**Answer: A.**
-**Explanation:** Conservation stabilises and retains fabric through minimum documented intervention, while restoration returns an object to a selected earlier state and therefore raises greater authenticity and reversibility risks. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Conservation and restoration?
-
-A. Nalanda, Mumbai's Victorian Gothic and Art Deco ensembles, Dholavira, Ramappa, Santiniketan, the Hoysala ensembles, Moidams, the Maratha Military Landscapes and Sarnath form a dated 2016-2026 ledger; it is not India's complete list.
-B. Conservation stabilises and retains fabric through minimum documented intervention, while restoration returns an object to a selected earlier state and therefore raises greater authenticity and reversibility risks.
-C. Moidams at Charaideo are Tai-Ahom mound-covered royal burial vaults with shrine and octagonal enclosure in a continuing funerary landscape, inscribed in 2024 under criteria (iii) and (iv).
-D. Manas and Hampi were once on the List of World Heritage in Danger and were later removed after improvement, proving that inscription remains conditional on continuing management.
-
-**Answer: B.**
-**Explanation:** Conservation stabilises and retains fabric through minimum documented intervention, while restoration returns an object to a selected earlier state and therefore raises greater authenticity and reversibility risks. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Conservation and restoration?
-
-A. Moidams at Charaideo are Tai-Ahom mound-covered royal burial vaults with shrine and octagonal enclosure in a continuing funerary landscape, inscribed in 2024 under criteria (iii) and (iv).
-B. The dated Indian ICH ledger runs from 2008 elements through Deepavali in 2025, includes the multinational Nowruz entry, and must keep inscription year separate from any changing total or latest-item question.
-C. Conservation stabilises and retains fabric through minimum documented intervention, while restoration returns an object to a selected earlier state and therefore raises greater authenticity and reversibility risks.
-D. Nalanda, Mumbai's Victorian Gothic and Art Deco ensembles, Dholavira, Ramappa, Santiniketan, the Hoysala ensembles, Moidams, the Maratha Military Landscapes and Sarnath form a dated 2016-2026 ledger; it is not India's complete list.
-
-**Answer: C.**
-**Explanation:** Conservation stabilises and retains fabric through minimum documented intervention, while restoration returns an object to a selected earlier state and therefore raises greater authenticity and reversibility risks. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Conservation and restoration?
-
-A. Nalanda, Mumbai's Victorian Gothic and Art Deco ensembles, Dholavira, Ramappa, Santiniketan, the Hoysala ensembles, Moidams, the Maratha Military Landscapes and Sarnath form a dated 2016-2026 ledger; it is not India's complete list.
-B. Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another.
-C. The dated Indian ICH ledger runs from 2008 elements through Deepavali in 2025, includes the multinational Nowruz entry, and must keep inscription year separate from any changing total or latest-item question.
-D. Conservation stabilises and retains fabric through minimum documented intervention, while restoration returns an object to a selected earlier state and therefore raises greater authenticity and reversibility risks.
+A. As a monument protected by the 13th-century Ahom kingdom.
+B. As proof that adaptive reuse always saves heritage.
+C. As an example of an ICH inscription.
+D. As a caution that legal coverage gaps can leave modern heritage vulnerable even when architectural value is recognised.
 
 **Answer: D.**
-**Explanation:** Conservation stabilises and retains fabric through minimum documented intervention, while restoration returns an object to a selected earlier state and therefore raises greater authenticity and reversibility risks. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** D is correct because Hall of Nations works here as a policy-gap warning about modern heritage coverage. The remaining options misstate the category, mandate, chronology or concept in question.
 
-### Q49. Which statement correctly identifies Community rights in living sites?
+## VERIFIED OBJECTIVE / APPLICATION PYQS
 
-A. Active worship, ancestor practice, access and livelihood are conservation variables at sites such as Matangeshvara and Moidams; fabric protection cannot presume that a heritage place is socially empty.
-B. Moidams at Charaideo are Tai-Ahom mound-covered royal burial vaults with shrine and octagonal enclosure in a continuing funerary landscape, inscribed in 2024 under criteria (iii) and (iv).
-C. Manas and Hampi were once on the List of World Heritage in Danger and were later removed after improvement, proving that inscription remains conditional on continuing management.
-D. Nalanda, Mumbai's Victorian Gothic and Art Deco ensembles, Dholavira, Ramappa, Santiniketan, the Hoysala ensembles, Moidams, the Maratha Military Landscapes and Sarnath form a dated 2016-2026 ledger; it is not India's complete list.
+### PYQ 1. 2023 Prelims - colonial-era archaeologists
 
-**Answer: A.**
-**Explanation:** Active worship, ancestor practice, access and livelihood are conservation variables at sites such as Matangeshvara and Moidams; fabric protection cannot presume that a heritage place is socially empty. The remaining options belong to different chronology, actor or analytical categories.
+With reference to Indian history, Alexander Rea, A. H. Longhurst, Robert Sewell,
+James Burgess and Walter Elliot were associated with:
 
-### Q50. Which chronology card should be filed under Community rights in living sites?
+(a) archaeological excavations
+(b) establishment of English press in Colonial India
+(c) establishment of churches in princely States
+(d) construction of railways in Colonial India
 
-A. Nalanda, Mumbai's Victorian Gothic and Art Deco ensembles, Dholavira, Ramappa, Santiniketan, the Hoysala ensembles, Moidams, the Maratha Military Landscapes and Sarnath form a dated 2016-2026 ledger; it is not India's complete list.
-B. Active worship, ancestor practice, access and livelihood are conservation variables at sites such as Matangeshvara and Moidams; fabric protection cannot presume that a heritage place is socially empty.
-C. The dated Indian ICH ledger runs from 2008 elements through Deepavali in 2025, includes the multinational Nowruz entry, and must keep inscription year separate from any changing total or latest-item question.
-D. Moidams at Charaideo are Tai-Ahom mound-covered royal burial vaults with shrine and octagonal enclosure in a continuing funerary landscape, inscribed in 2024 under criteria (iii) and (iv).
+**Answer withheld pending official UPSC key.**
+**Concept analysis:** The concept tested is the colonial archaeology and excavation network rather than press, church or railway administration; use the names to recall archaeology, epigraphy and survey work.
+### PYQ 2. 2024 Prelims - properties included in the World Heritage List in 2023
 
-**Answer: B.**
-**Explanation:** Active worship, ancestor practice, access and livelihood are conservation variables at sites such as Matangeshvara and Moidams; fabric protection cannot presume that a heritage place is socially empty. The remaining options belong to different chronology, actor or analytical categories.
+Consider the following properties included in the World Heritage List released by UNESCO:
 
-### Q51. Which option preserves the source-bounded meaning of Community rights in living sites?
+1. Shantiniketan
+2. Rani-ki-Vav
+3. Sacred Ensembles of the Hoysalas
+4. Mahabodhi Temple Complex at Bodhgaya
 
-A. Nalanda, Mumbai's Victorian Gothic and Art Deco ensembles, Dholavira, Ramappa, Santiniketan, the Hoysala ensembles, Moidams, the Maratha Military Landscapes and Sarnath form a dated 2016-2026 ledger; it is not India's complete list.
-B. The dated Indian ICH ledger runs from 2008 elements through Deepavali in 2025, includes the multinational Nowruz entry, and must keep inscription year separate from any changing total or latest-item question.
-C. Active worship, ancestor practice, access and livelihood are conservation variables at sites such as Matangeshvara and Moidams; fabric protection cannot presume that a heritage place is socially empty.
-D. Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another.
+How many of the above properties were included in 2023?
 
-**Answer: C.**
-**Explanation:** Active worship, ancestor practice, access and livelihood are conservation variables at sites such as Matangeshvara and Moidams; fabric protection cannot presume that a heritage place is socially empty. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Community rights in living sites?
-
-A. Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another.
-B. UNESCO's official property page describes twelve forts, mostly in Maharashtra with one in Tamil Nadu, built, adapted or expanded from the late seventeenth to early nineteenth centuries as a strategic defence network.
-C. The dated Indian ICH ledger runs from 2008 elements through Deepavali in 2025, includes the multinational Nowruz entry, and must keep inscription year separate from any changing total or latest-item question.
-D. Active worship, ancestor practice, access and livelihood are conservation variables at sites such as Matangeshvara and Moidams; fabric protection cannot presume that a heritage place is socially empty.
+(a) Only one
+(b) Only two
+(c) Only three
+(d) All four
 
 **Answer: D.**
-**Explanation:** Active worship, ancestor practice, access and livelihood are conservation variables at sites such as Matangeshvara and Moidams; fabric protection cannot presume that a heritage place is socially empty. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Danger List conditionality?
-
-A. Manas and Hampi were once on the List of World Heritage in Danger and were later removed after improvement, proving that inscription remains conditional on continuing management.
-B. Nalanda, Mumbai's Victorian Gothic and Art Deco ensembles, Dholavira, Ramappa, Santiniketan, the Hoysala ensembles, Moidams, the Maratha Military Landscapes and Sarnath form a dated 2016-2026 ledger; it is not India's complete list.
-C. Moidams at Charaideo are Tai-Ahom mound-covered royal burial vaults with shrine and octagonal enclosure in a continuing funerary landscape, inscribed in 2024 under criteria (iii) and (iv).
-D. The dated Indian ICH ledger runs from 2008 elements through Deepavali in 2025, includes the multinational Nowruz entry, and must keep inscription year separate from any changing total or latest-item question.
-
-**Answer: A.**
-**Explanation:** Manas and Hampi were once on the List of World Heritage in Danger and were later removed after improvement, proving that inscription remains conditional on continuing management. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Danger List conditionality?
-
-A. Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another.
-B. Manas and Hampi were once on the List of World Heritage in Danger and were later removed after improvement, proving that inscription remains conditional on continuing management.
-C. Nalanda, Mumbai's Victorian Gothic and Art Deco ensembles, Dholavira, Ramappa, Santiniketan, the Hoysala ensembles, Moidams, the Maratha Military Landscapes and Sarnath form a dated 2016-2026 ledger; it is not India's complete list.
-D. The dated Indian ICH ledger runs from 2008 elements through Deepavali in 2025, includes the multinational Nowruz entry, and must keep inscription year separate from any changing total or latest-item question.
-
-**Answer: B.**
-**Explanation:** Manas and Hampi were once on the List of World Heritage in Danger and were later removed after improvement, proving that inscription remains conditional on continuing management. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Danger List conditionality?
-
-A. The dated Indian ICH ledger runs from 2008 elements through Deepavali in 2025, includes the multinational Nowruz entry, and must keep inscription year separate from any changing total or latest-item question.
-B. Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another.
-C. Manas and Hampi were once on the List of World Heritage in Danger and were later removed after improvement, proving that inscription remains conditional on continuing management.
-D. UNESCO's official property page describes twelve forts, mostly in Maharashtra with one in Tamil Nadu, built, adapted or expanded from the late seventeenth to early nineteenth centuries as a strategic defence network.
-
-**Answer: C.**
-**Explanation:** Manas and Hampi were once on the List of World Heritage in Danger and were later removed after improvement, proving that inscription remains conditional on continuing management. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Danger List conditionality?
-
-A. Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another.
-B. UNESCO's official property page describes twelve forts, mostly in Maharashtra with one in Tamil Nadu, built, adapted or expanded from the late seventeenth to early nineteenth centuries as a strategic defence network.
-C. The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred.
-D. Manas and Hampi were once on the List of World Heritage in Danger and were later removed after improvement, proving that inscription remains conditional on continuing management.
-
-**Answer: D.**
-**Explanation:** Manas and Hampi were once on the List of World Heritage in Danger and were later removed after improvement, proving that inscription remains conditional on continuing management. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Moidams evidence?
-
-A. Moidams at Charaideo are Tai-Ahom mound-covered royal burial vaults with shrine and octagonal enclosure in a continuing funerary landscape, inscribed in 2024 under criteria (iii) and (iv).
-B. Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another.
-C. The dated Indian ICH ledger runs from 2008 elements through Deepavali in 2025, includes the multinational Nowruz entry, and must keep inscription year separate from any changing total or latest-item question.
-D. Nalanda, Mumbai's Victorian Gothic and Art Deco ensembles, Dholavira, Ramappa, Santiniketan, the Hoysala ensembles, Moidams, the Maratha Military Landscapes and Sarnath form a dated 2016-2026 ledger; it is not India's complete list.
-
-**Answer: A.**
-**Explanation:** Moidams at Charaideo are Tai-Ahom mound-covered royal burial vaults with shrine and octagonal enclosure in a continuing funerary landscape, inscribed in 2024 under criteria (iii) and (iv). The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Moidams evidence?
-
-A. The dated Indian ICH ledger runs from 2008 elements through Deepavali in 2025, includes the multinational Nowruz entry, and must keep inscription year separate from any changing total or latest-item question.
-B. Moidams at Charaideo are Tai-Ahom mound-covered royal burial vaults with shrine and octagonal enclosure in a continuing funerary landscape, inscribed in 2024 under criteria (iii) and (iv).
-C. UNESCO's official property page describes twelve forts, mostly in Maharashtra with one in Tamil Nadu, built, adapted or expanded from the late seventeenth to early nineteenth centuries as a strategic defence network.
-D. Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another.
-
-**Answer: B.**
-**Explanation:** Moidams at Charaideo are Tai-Ahom mound-covered royal burial vaults with shrine and octagonal enclosure in a continuing funerary landscape, inscribed in 2024 under criteria (iii) and (iv). The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Moidams evidence?
-
-A. Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another.
-B. The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred.
-C. Moidams at Charaideo are Tai-Ahom mound-covered royal burial vaults with shrine and octagonal enclosure in a continuing funerary landscape, inscribed in 2024 under criteria (iii) and (iv).
-D. UNESCO's official property page describes twelve forts, mostly in Maharashtra with one in Tamil Nadu, built, adapted or expanded from the late seventeenth to early nineteenth centuries as a strategic defence network.
-
-**Answer: C.**
-**Explanation:** Moidams at Charaideo are Tai-Ahom mound-covered royal burial vaults with shrine and octagonal enclosure in a continuing funerary landscape, inscribed in 2024 under criteria (iii) and (iv). The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Moidams evidence?
-
-A. The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred.
-B. UNESCO's official property page describes twelve forts, mostly in Maharashtra with one in Tamil Nadu, built, adapted or expanded from the late seventeenth to early nineteenth centuries as a strategic defence network.
-C. World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indications are four non-interchangeable systems with different objects, instruments and granting bodies.
-D. Moidams at Charaideo are Tai-Ahom mound-covered royal burial vaults with shrine and octagonal enclosure in a continuing funerary landscape, inscribed in 2024 under criteria (iii) and (iv).
-
-**Answer: D.**
-**Explanation:** Moidams at Charaideo are Tai-Ahom mound-covered royal burial vaults with shrine and octagonal enclosure in a continuing funerary landscape, inscribed in 2024 under criteria (iii) and (iv). The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Recent World Heritage ledger?
-
-A. Nalanda, Mumbai's Victorian Gothic and Art Deco ensembles, Dholavira, Ramappa, Santiniketan, the Hoysala ensembles, Moidams, the Maratha Military Landscapes and Sarnath form a dated 2016-2026 ledger; it is not India's complete list.
-B. The dated Indian ICH ledger runs from 2008 elements through Deepavali in 2025, includes the multinational Nowruz entry, and must keep inscription year separate from any changing total or latest-item question.
-C. UNESCO's official property page describes twelve forts, mostly in Maharashtra with one in Tamil Nadu, built, adapted or expanded from the late seventeenth to early nineteenth centuries as a strategic defence network.
-D. Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another.
-
-**Answer: A.**
-**Explanation:** Nalanda, Mumbai's Victorian Gothic and Art Deco ensembles, Dholavira, Ramappa, Santiniketan, the Hoysala ensembles, Moidams, the Maratha Military Landscapes and Sarnath form a dated 2016-2026 ledger; it is not India's complete list. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Recent World Heritage ledger?
-
-A. The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred.
-B. Nalanda, Mumbai's Victorian Gothic and Art Deco ensembles, Dholavira, Ramappa, Santiniketan, the Hoysala ensembles, Moidams, the Maratha Military Landscapes and Sarnath form a dated 2016-2026 ledger; it is not India's complete list.
-C. Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another.
-D. UNESCO's official property page describes twelve forts, mostly in Maharashtra with one in Tamil Nadu, built, adapted or expanded from the late seventeenth to early nineteenth centuries as a strategic defence network.
-
-**Answer: B.**
-**Explanation:** Nalanda, Mumbai's Victorian Gothic and Art Deco ensembles, Dholavira, Ramappa, Santiniketan, the Hoysala ensembles, Moidams, the Maratha Military Landscapes and Sarnath form a dated 2016-2026 ledger; it is not India's complete list. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Recent World Heritage ledger?
-
-A. World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indications are four non-interchangeable systems with different objects, instruments and granting bodies.
-B. The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred.
-C. Nalanda, Mumbai's Victorian Gothic and Art Deco ensembles, Dholavira, Ramappa, Santiniketan, the Hoysala ensembles, Moidams, the Maratha Military Landscapes and Sarnath form a dated 2016-2026 ledger; it is not India's complete list.
-D. UNESCO's official property page describes twelve forts, mostly in Maharashtra with one in Tamil Nadu, built, adapted or expanded from the late seventeenth to early nineteenth centuries as a strategic defence network.
-
-**Answer: C.**
-**Explanation:** Nalanda, Mumbai's Victorian Gothic and Art Deco ensembles, Dholavira, Ramappa, Santiniketan, the Hoysala ensembles, Moidams, the Maratha Military Landscapes and Sarnath form a dated 2016-2026 ledger; it is not India's complete list. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Recent World Heritage ledger?
-
-A. World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indications are four non-interchangeable systems with different objects, instruments and granting bodies.
-B. The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred.
-C. World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty.
-D. Nalanda, Mumbai's Victorian Gothic and Art Deco ensembles, Dholavira, Ramappa, Santiniketan, the Hoysala ensembles, Moidams, the Maratha Military Landscapes and Sarnath form a dated 2016-2026 ledger; it is not India's complete list.
-
-**Answer: D.**
-**Explanation:** Nalanda, Mumbai's Victorian Gothic and Art Deco ensembles, Dholavira, Ramappa, Santiniketan, the Hoysala ensembles, Moidams, the Maratha Military Landscapes and Sarnath form a dated 2016-2026 ledger; it is not India's complete list. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Intangible heritage ledger?
-
-A. The dated Indian ICH ledger runs from 2008 elements through Deepavali in 2025, includes the multinational Nowruz entry, and must keep inscription year separate from any changing total or latest-item question.
-B. The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred.
-C. UNESCO's official property page describes twelve forts, mostly in Maharashtra with one in Tamil Nadu, built, adapted or expanded from the late seventeenth to early nineteenth centuries as a strategic defence network.
-D. Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another.
-
-**Answer: A.**
-**Explanation:** The dated Indian ICH ledger runs from 2008 elements through Deepavali in 2025, includes the multinational Nowruz entry, and must keep inscription year separate from any changing total or latest-item question. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Intangible heritage ledger?
-
-A. UNESCO's official property page describes twelve forts, mostly in Maharashtra with one in Tamil Nadu, built, adapted or expanded from the late seventeenth to early nineteenth centuries as a strategic defence network.
-B. The dated Indian ICH ledger runs from 2008 elements through Deepavali in 2025, includes the multinational Nowruz entry, and must keep inscription year separate from any changing total or latest-item question.
-C. The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred.
-D. World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indications are four non-interchangeable systems with different objects, instruments and granting bodies.
-
-**Answer: B.**
-**Explanation:** The dated Indian ICH ledger runs from 2008 elements through Deepavali in 2025, includes the multinational Nowruz entry, and must keep inscription year separate from any changing total or latest-item question. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Intangible heritage ledger?
-
-A. World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty.
-B. World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indications are four non-interchangeable systems with different objects, instruments and granting bodies.
-C. The dated Indian ICH ledger runs from 2008 elements through Deepavali in 2025, includes the multinational Nowruz entry, and must keep inscription year separate from any changing total or latest-item question.
-D. The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred.
-
-**Answer: C.**
-**Explanation:** The dated Indian ICH ledger runs from 2008 elements through Deepavali in 2025, includes the multinational Nowruz entry, and must keep inscription year separate from any changing total or latest-item question. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Intangible heritage ledger?
-
-A. The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission.
-B. World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty.
-C. World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indications are four non-interchangeable systems with different objects, instruments and granting bodies.
-D. The dated Indian ICH ledger runs from 2008 elements through Deepavali in 2025, includes the multinational Nowruz entry, and must keep inscription year separate from any changing total or latest-item question.
-
-**Answer: D.**
-**Explanation:** The dated Indian ICH ledger runs from 2008 elements through Deepavali in 2025, includes the multinational Nowruz entry, and must keep inscription year separate from any changing total or latest-item question. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Schemes, funds and statutes?
-
-A. Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another.
-B. World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indications are four non-interchangeable systems with different objects, instruments and granting bodies.
-C. The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred.
-D. UNESCO's official property page describes twelve forts, mostly in Maharashtra with one in Tamil Nadu, built, adapted or expanded from the late seventeenth to early nineteenth centuries as a strategic defence network.
-
-**Answer: A.**
-**Explanation:** Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Schemes, funds and statutes?
-
-A. World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indications are four non-interchangeable systems with different objects, instruments and granting bodies.
-B. Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another.
-C. The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred.
-D. World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty.
-
-**Answer: B.**
-**Explanation:** Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Schemes, funds and statutes?
-
-A. World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty.
-B. World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indications are four non-interchangeable systems with different objects, instruments and granting bodies.
-C. Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another.
-D. The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission.
-
-**Answer: C.**
-**Explanation:** Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Schemes, funds and statutes?
-
-A. Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management.
-B. The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission.
-C. World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty.
-D. Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another.
-
-**Answer: D.**
-**Explanation:** Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Maratha Military Landscapes current link?
-
-A. UNESCO's official property page describes twelve forts, mostly in Maharashtra with one in Tamil Nadu, built, adapted or expanded from the late seventeenth to early nineteenth centuries as a strategic defence network.
-B. World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indications are four non-interchangeable systems with different objects, instruments and granting bodies.
-C. The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred.
-D. World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty.
-
-**Answer: A.**
-**Explanation:** UNESCO's official property page describes twelve forts, mostly in Maharashtra with one in Tamil Nadu, built, adapted or expanded from the late seventeenth to early nineteenth centuries as a strategic defence network. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Maratha Military Landscapes current link?
-
-A. The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission.
-B. UNESCO's official property page describes twelve forts, mostly in Maharashtra with one in Tamil Nadu, built, adapted or expanded from the late seventeenth to early nineteenth centuries as a strategic defence network.
-C. World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indications are four non-interchangeable systems with different objects, instruments and granting bodies.
-D. World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty.
-
-**Answer: B.**
-**Explanation:** UNESCO's official property page describes twelve forts, mostly in Maharashtra with one in Tamil Nadu, built, adapted or expanded from the late seventeenth to early nineteenth centuries as a strategic defence network. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Maratha Military Landscapes current link?
-
-A. World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty.
-B. Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management.
-C. UNESCO's official property page describes twelve forts, mostly in Maharashtra with one in Tamil Nadu, built, adapted or expanded from the late seventeenth to early nineteenth centuries as a strategic defence network.
-D. The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission.
-
-**Answer: C.**
-**Explanation:** UNESCO's official property page describes twelve forts, mostly in Maharashtra with one in Tamil Nadu, built, adapted or expanded from the late seventeenth to early nineteenth centuries as a strategic defence network. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Maratha Military Landscapes current link?
-
-A. A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark.
-B. Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management.
-C. The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission.
-D. UNESCO's official property page describes twelve forts, mostly in Maharashtra with one in Tamil Nadu, built, adapted or expanded from the late seventeenth to early nineteenth centuries as a strategic defence network.
-
-**Answer: D.**
-**Explanation:** UNESCO's official property page describes twelve forts, mostly in Maharashtra with one in Tamil Nadu, built, adapted or expanded from the late seventeenth to early nineteenth centuries as a strategic defence network. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Verified heritage PYQ routes?
-
-A. The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred.
-B. World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty.
-C. World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indications are four non-interchangeable systems with different objects, instruments and granting bodies.
-D. The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission.
-
-**Answer: A.**
-**Explanation:** The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred. The remaining options belong to different chronology, actor or analytical categories.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Q77. Which statement correctly identifies Verified heritage PYQ routes?”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the cultural demand in “Q77. Which statement correctly identifies Verified heritage PYQ routes?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q77. Which statement correctly identifies Verified heritage PYQ routes? **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** A. The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** C. World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indications are four non-interchangeable systems with different objects, instruments and granting bodies. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** The answer must resolve the cultural demand in “Q77. Which statement correctly identifies Verified heritage PYQ routes?”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Q77. Which statement correctly identifies Verified heritage PYQ routes?”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### Q78. Which chronology card should be filed under Verified heritage PYQ routes?
-
-A. The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission.
-B. The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred.
-C. Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management.
-D. World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty.
-
-**Answer: B.**
-**Explanation:** The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred. The remaining options belong to different chronology, actor or analytical categories.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Q78. Which chronology card should be filed under Verified heritage PYQ routes?”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the cultural demand in “Q78. Which chronology card should be filed under Verified heritage PYQ routes?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q78. Which chronology card should be filed under Verified heritage PYQ routes? **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** B. The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** C. Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** The answer must resolve the cultural demand in “Q78. Which chronology card should be filed under Verified heritage PYQ routes?”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Q78. Which chronology card should be filed under Verified heritage PYQ routes?”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### Q79. Which option preserves the source-bounded meaning of Verified heritage PYQ routes?
-
-A. Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management.
-B. The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission.
-C. The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred.
-D. A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark.
-
-**Answer: C.**
-**Explanation:** The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred. The remaining options belong to different chronology, actor or analytical categories.
-
-**Demand decoding:** Treat “Q79. Which option preserves the source-bounded meaning of Verified heritage PYQ routes?” as a form, chronology, region, patron, medium and status problem. Verify every pairing independently without inventing an official key.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the cultural demand in “Q79. Which option preserves the source-bounded meaning of Verified heritage PYQ routes?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q79. Which option preserves the source-bounded meaning of Verified heritage PYQ routes? **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** A. Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** C. The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** D. A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** The answer must resolve the cultural demand in “Q79. Which option preserves the source-bounded meaning of Verified heritage PYQ routes?”.
-
-**Executable exam-length answer / compression plan:** Fix the category and period; pair form with region, material, patron or institution; separate historical fact from later label or current recognition; eliminate the closest distractor.
-
-**Why this earns marks:** It preserves answer-text integrity and exact category mapping while keeping reasoned elimination separate from an official key.
-
-**How to improve this answer:** For “Q79. Which option preserves the source-bounded meaning of Verified heritage PYQ routes?”, state why the nearest distractor fails on medium, region, chronology, patronage, terminology or recognition status.
-
-### Q80. Which statement avoids a close-option trap about Verified heritage PYQ routes?
-
-A. The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities.
-B. Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management.
-C. A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark.
-D. The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred.
-
-**Answer: D.**
-**Explanation:** The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred. The remaining options belong to different chronology, actor or analytical categories.
+**Concept analysis:** The 2024 local official answer key marks D. In the set, statements 1 and 3 were the two 2023 inscriptions, so 'Only two' corresponds to option (d) in the bilingual paper's printed layout. Use UNESCO spelling Santiniketan even though some local renderings say Shantiniketan.
+### PYQ 3. 2026 Prelims - Moidams
+
+Which one of the following statements with regard to the Moidams, built by the Tai-Ahom
+kingdom and inscribed as a World Heritage Site by UNESCO, is/are correct?
+
+1. They acted as army fortresses.
+2. They were recreation centres of the Royals and Nobles.
+3. They were burial grounds of the Royals and Nobles.
+4. They were battle drill centres of the Royals and Nobles.
+
+Select the answer using the code given below:
+(a) 1 only
+(b) 1 and 3
+(c) 3 only
+(d) 2 and 4
+
+**Answer withheld pending official UPSC key.**
+**Concept analysis:** The safe concept is that Moidams are funerary monuments of the Tai-Ahom royal world, not forts, recreation centres or drill grounds; keep the provisional-key boundary intact.
 
 ## PYQS AND ANSWER PRACTICE
 
-**Demand decoding:** Treat “Q80. Which statement avoids a close-option trap about Verified heritage PYQ routes?” as a form, chronology, region, patron, medium and status problem. Verify every pairing independently without inventing an official key.
+### PYQ-M1. 2018 GS-I - Safeguarding the Indian art heritage is the need of the moment. Discuss. (10 marks, 150 words)
 
-**Detailed examiner-grade model answer:**
+**Answer-grabbing introduction:** Safeguarding Indian art heritage is a present need because the pressures acting on it are current - tourism load, climate stress, urban encroachment, illicit trafficking and weak transmission in living traditions.
 
-**Introduction and thesis:** The answer must resolve the cultural demand in “Q80. Which statement avoids a close-option trap about Verified heritage PYQ routes?”.
+**Model solution**
 
-**Analytical body:**
+Indian art heritage is not one object but a cluster of categories - monuments, antiquities, documentary records and living traditions - and each needs a different instrument. Monument fabric needs the AMASR framework, ASI conservation and regulated development around centrally protected sites. Antiquities need provenance discipline and the Antiquities and Art Treasures Act so that removal and export can be controlled. Manuscripts and documentary heritage need cataloguing, conservation and digitisation through archives and manuscript missions. Living heritage needs safeguarding through communities, transmission and institutions rather than masonry repair alone.
 
-1. **Claim and named evidence:** Q80. Which statement avoids a close-option trap about Verified heritage PYQ routes? **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** A. The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** B. Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** C. A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
+Current case studies prove the urgency. Moidams and Santiniketan show how erosion, vegetation, visitor pressure and development can threaten heritage even after international recognition. Deepavali's 2025 ICH inscription shows that recognition of living heritage must still be matched by transmission and community support. India's large centrally protected estate also means capacity, documentation and monitoring remain constant challenges.
 
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
+**Conclusion:** Safeguarding is therefore a present need because heritage loss is present, differentiated and preventable only when the right law, institution and community-sensitive method are matched to the right heritage form.
 
-**Qualified conclusion:** The answer must resolve the cultural demand in “Q80. Which statement avoids a close-option trap about Verified heritage PYQ routes?”.
+## ORIGINAL MAINS ANSWERS
 
-**Executable exam-length answer / compression plan:** Fix the category and period; pair form with region, material, patron or institution; separate historical fact from later label or current recognition; eliminate the closest distractor.
+### Original Q1. Distinguish World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indication as heritage-governance categories. (10 marks, 150 words)
 
-**Why this earns marks:** It preserves answer-text integrity and exact category mapping while keeping reasoned elimination separate from an official key.
+**Answer-grabbing introduction:** The quickest way to damage a heritage answer is to call four unlike systems by one vague word - 'UNESCO recognition'.
 
-**How to improve this answer:** For “Q80. Which statement avoids a close-option trap about Verified heritage PYQ routes?”, state why the nearest distractor fails on medium, region, chronology, patronage, terminology or recognition status.
+**Model solution**
 
-### VERIFIED PYQ OWNERSHIP AUDIT
+World Heritage concerns tangible cultural, natural or mixed properties under the 1972 Convention and is adjudicated through the World Heritage Committee. It asks whether a site has outstanding universal value plus integrity, authenticity and management arrangements.
 
-The verified direct Mains route is 2018 GS-I on safeguarding Indian art heritage as a present need. The objective routes are 2023 colonial archaeologists, 2024 the 2023 inscriptions of Santiniketan and the Hoysala ensembles, and provisional 2026 Moidams; objective answer letters are not inferred.
+Intangible Cultural Heritage is governed by the 2003 Convention and protects living practices, expressions, skills and festive traditions. Here the key word is safeguarding through transmission, not masonry conservation. Representative List, Urgent Safeguarding List and Good Safeguarding Practices are separate tracks.
 
-### OWNER PYQ LEDGER EXTRACTS
+Memory of the World concerns documentary heritage - manuscripts, archives and records. Its logic is cataloguing, custody, conservation and digitisation.
 
-#### 7. Exact PYQ application
+Geographical Indication is not a UNESCO category at all. It is a domestic intellectual-property instrument linking goods to place and reputation.
 
-⚠️ No GS-I Mains question in the audited 2024-2025 papers directly tests
-heritage institutions or UNESCO categories as a stand-alone topic. This
-topic is the **verification layer** for every other topic's current-
-status claim (e.g. topic 03's Khajuraho 1986 inscription, topic 03's
-Great Living Chola Temples 1987/2004, topic 09's Garba 2023 ICH
-inscription).
+**Conclusion:** Thus, the same answer must shift from site management to community transmission to documentary custody to IP protection depending on the category under discussion.
+### Original Q2. Explain why conservation and restoration should not be used interchangeably in heritage policy. (10 marks, 150 words)
 
-#### 2026 PYQ Integration
+**Answer-grabbing introduction:** Conservation protects history by restraint; restoration can alter history by selection.
 
-> **Status:** 2026 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
-> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
+**Model solution**
 
-- **Year represented:** 2026
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+Conservation aims to stabilise heritage fabric, slow deterioration and retain maximum original material through minimum documented intervention. It accepts ageing and focuses on reversibility where possible.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2026 | Prelims GS-I | 37 | Tai-Ahom Moidams, royal burial practices, and UNESCO heritage status | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+Restoration, by contrast, returns an object or site to a selected earlier state. That choice is interpretive: one layer is privileged while another may be reduced or removed. Therefore restoration raises stronger authenticity risks than conservation. Reconstruction goes even further because missing elements may be rebuilt with low surviving material continuity.
 
-##### What this owner must now support
+This distinction matters in Indian heritage because many sites are layered. Temple murals, reused campuses and living ritual spaces cannot be reduced to one 'pure' moment without loss of later meaning. Adaptive reuse too must remain subordinate to significance, setting and fabric.
 
-- Tai-Ahom Moidams, royal burial practices, and UNESCO heritage status
+**Conclusion:** Heritage policy should therefore prefer conservation as the default and use restoration only with clear evidence, documentation and explicit acknowledgement of what is being privileged and what may be lost.
+### Original Q3. Examine the constitutional and statutory framework for heritage conservation in India. (15 marks, 250 words)
 
-> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2026 -->
+**Answer-grabbing introduction:** India's heritage framework is strongest when read as layered duty - constitutional principle above, statute in the middle, institution below.
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+**Model solution**
 
-#### Recent PYQ Integration (2024-2025)
+The constitutional layer gives the normative basis. Article 29 protects the right of sections of citizens to conserve their distinct language, script and culture. Article 49 places a direct obligation on the State to protect monuments and objects of national importance from spoliation, disfigurement, destruction, removal, disposal or export. Article 51A(f) turns heritage into a citizen's Fundamental Duty by asking every citizen to value and preserve the rich heritage of our composite culture.
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+The statutory layer differentiates the object of protection. The Ancient Monuments and Archaeological Sites and Remains Act, 1958 is the principal law for centrally protected monuments and sites. Its 2010 amendment sharpened the prohibited and regulated area framework and institutionalised the heritage-bye-law and permission regime around such monuments. The Antiquities and Art Treasures Act, 1972 addresses antiquities, their preservation and movement, thereby speaking directly to illicit trafficking and export concerns.
 
-- **Years represented:** 2024
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+Institutionally, ASI operates on the centrally protected archaeological estate, while the NMA regulates construction-related permissions and bye-laws in control zones. State archaeology departments, museums, archives and manuscript missions support other parts of the heritage field.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2024 | Prelims GS-I | 65 | UNESCO World Heritage properties inscribed in 2023 (Shantiniketan, Hoysalas) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+**Qualification:** Detailed constitutional doctrine belongs to Polity, but in GS-I the marks lie in correctly connecting each legal layer to the heritage object it protects.
 
-##### What this owner must now support
+**Conclusion:** India's legal framework is therefore not one generic heritage law but a differentiated system of rights, duties, monument statutes and antiquities control.
+### Original Q4. Discuss why community participation is central to conserving living heritage and living sites. (15 marks, 250 words)
 
-- UNESCO World Heritage properties inscribed in 2023 (Shantiniketan, Hoysalas)
+**Answer-grabbing introduction:** Living heritage survives not because it is listed but because communities continue to perform, worship, remember and maintain it.
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+**Model solution**
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+Community participation is central because many Indian heritage forms are not abandoned relics. Festivals, ritual practices, oral traditions, craft skills and active sites of worship depend on living practitioners. In such cases, conservation without community partnership becomes externally imposed management and often fails in transmission as well as legitimacy.
 
-#### Historical PYQ Integration (2018-2023)
+The logic is visible across categories. Deepavali's 2025 ICH inscription recognises a living festival sustained by households, artisans, performers and local communities. Moidams are not only funerary remains; the UNESCO record notes continuing ritual significance in the ancestor-linked landscape. Santiniketan too remains a functioning campus where cultural traditions, material maintenance and visitor pressures coexist.
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+Community participation matters in three ways. First, it preserves knowledge - ritual sequence, craft skill, seasonal timing, oral memory and care practices. Second, it helps legitimacy and compliance in access, visitor management and buffer-setting decisions. Third, it connects safeguarding with livelihood, especially for performers, craft communities and local guides.
 
-- **Years represented:** 2023
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+However, participation should not be romanticised. Community use can also increase smoke, crowding, commercial pressure or demands for alteration. Hence the goal is negotiated conservation rather than either exclusion or uncritical surrender.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2023 | Prelims GS-I | 81 | Colonial-era archaeologists associated with Indian excavations | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+**Conclusion:** Heritage management is strongest when it treats community participation as a conservation variable - one that must be integrated, documented and regulated, not ignored.
+### Original Q5. Evaluate UNESCO recognition in India through both opportunities and constraints. (20 marks, 250 words)
 
-##### What this owner must now support
+**Answer-grabbing introduction:** UNESCO recognition gives visibility and leverage, but it also raises the standard by which neglect, crowd pressure and weak management are judged.
 
-- Colonial-era archaeologists associated with Indian excavations
+**Model solution**
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+UNESCO recognition benefits India in multiple ways. It increases international visibility, improves interpretive value, can strengthen the case for funding and enhances diplomatic-cultural prestige. In the World Heritage domain it also pushes properties toward clearer boundaries, buffer thinking, management planning and periodic review. In the ICH domain it raises visibility for living traditions such as Deepavali, Yoga or Kutiyattam. In documentary heritage it helps foreground manuscripts and archives of civilisational importance.
 
-#### 8. Exact PYQ application
+Yet recognition is not cost-free. High visibility can increase visitor pressure, infrastructure demand and commercial encroachment. UNESCO itself recognises management vulnerabilities: Moidams records rainfall, erosion and vegetation pressures, while Santiniketan records development and visitor pressure. Recognition can also tempt states into count-driven pride while neglecting safeguarding quality.
 
-⚠️ No GS-I Mains question in the audited 2024-2025 papers directly tests
-this topic. As the folder's capstone, this file's benefit-versus-trade-
-off method (Section 3) should close **any** Mains answer in this folder
-that reaches a UNESCO-status point (e.g. topic 03's Khajuraho/Chola
-answers, topic 09's Garba reference) — replacing a generic "this shows
-India's rich heritage" conclusion with a specific, source-grounded
-current-status-plus-trade-off closing line.
+The best Indian evidence against triumphalism is the danger-list logic. Manas and Hampi show that World Heritage status is conditional and management failures can trigger international concern. Likewise in ICH, recognition does not guarantee transmission, youth engagement or performer income.
 
-#### Historical PYQ Integration (2018-2023)
+Therefore, UNESCO recognition should be analysed through opportunity plus obligation. It works best when domestic institutions - ASI, NMA, museums, archives, manuscript missions and community bodies - convert symbolic prestige into conservation practice, documentation quality and public stewardship.
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.
+**Conclusion:** UNESCO recognition is valuable not as a trophy cabinet but as a discipline of management, visibility and responsibility.
+### Original Q6. Analyse the relationship between illicit trafficking, provenance and documentary systems in heritage conservation. (20 marks, 250 words)
 
-- **Years represented:** 2018
-- **Paper(s):** GS-I
-- **Routed question demands:** 1
+**Answer-grabbing introduction:** Illicit trafficking succeeds where documentation fails; repatriation succeeds where provenance can be proved.
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | GS-I | 1 | Safeguarding Indian art heritage as a present need | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
+**Model solution**
 
-##### What this owner must now support
+Illicit trafficking in heritage is not merely theft from a site or museum. It is also the breakdown of documentation, custody and movement control. When excavation context is lost, catalogues are weak, acquisition trails are obscure and local holdings are poorly recorded, antiquities become easier to move, misidentify and monetise.
 
-- Safeguarding Indian art heritage as a present need
+This is why provenance matters. Provenance records the ownership and movement history of an object. It converts moral injury into legally actionable evidence. Without it, repatriation claims often remain rhetorical. Topic 14 therefore requires methodological restraint: a specific repatriation should be claimed only when a dated official source names the object, provenance route and receiving institution.
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+The legal framework supports this discipline. Article 49 gives a constitutional basis against removal, disposal and export of objects of national importance. The Antiquities and Art Treasures Act adds movement-control logic. But law alone is insufficient. Museums, archives, NMMA-style registers, manuscript databases and digitisation projects provide the evidentiary backbone that makes control and recovery possible.
 
-### PYQ DEMAND CARD 1 — 2018 GS-I
+Documentary systems also reduce future loss. Cataloguing, imaging, metadata, public records, manuscript surveys and interoperable databases create traceability. In this sense, documentary heritage institutions are not peripheral to monument conservation; they are essential to the proof structure of ownership and custody.
 
-**Demand:** Safeguarding the Indian art heritage is the need of the moment. Discuss. (Answer in 150 words)
-
-**Status:** Verified routed direct Mains demand; Core ownership supersedes the legacy Advanced pointer.
-
-**Model solution:** Define safeguarding as threat-to-instrument matching. Use the WHS-ICH-MoW-GI firewall, then name ASI and AMASR for monuments, NMM or Archives for documents, academies for living arts and GI for names. Add visitor, climate, illicit-trade and transmission pressures, one dated property or practice, the capacity and community limit, and a verdict that recognition begins rather than completes protection.
-
-**Demand decoding:** The directive **answer** requires a direct position on “PYQ DEMAND CARD 1 — 2018 GS-I”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Define safeguarding as threat-to-instrument matching. Use the WHS-ICH-MoW-GI firewall, then name ASI and AMASR for monuments, NMM or Archives for documents, academies for living arts and GI for names. Add visitor, climate, illicit-trade and transmission pressures, one dated property or practice, the capacity and community limit, and a verdict that recognition begins rather than completes protection.
-
-**Qualification:** Bound the claim by period, region, medium, patronage and evidence status; do not convert similarity into direct descent or a commissioned representation into a social census.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “PYQ DEMAND CARD 1 — 2018 GS-I”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
-**Question:** Distinguish World Heritage, ICH, Memory of the World and GI. Answer in about 150 words.
-
-**Model thesis:** The four-category firewall matches tangible property, living practice, documentary record and origin-linked product name to four different instruments and institutions.
-
-**Claim → named evidence → analysis → qualification:**
-
-- World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indications are four non-interchangeable systems with different objects, instruments and granting bodies.
-- World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty.
-- The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission.
-- Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management.
-- A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark.
-
-**Qualified conclusion:** The four-category firewall matches tangible property, living practice, documentary record and origin-linked product name to four different instruments and institutions.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish World Heritage, ICH, Memory of the World and GI. Answer in about 150 words.”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The four-category firewall matches tangible property, living practice, documentary record and origin-linked product name to four different instruments and institutions.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** World Heritage, Intangible Cultural Heritage, Memory of the World and Geographical Indications are four non-interchangeable systems with different objects, instruments and granting bodies. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** Memory of the World concerns documentary heritage such as manuscripts and archives, where custody, cataloguing, conservation and digitisation remain distinct from site management. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-5. **Claim and named evidence:** A Geographical Indication is origin-linked intellectual property under India's GI Act and GI Registry, not a UNESCO programme or general heritage-quality mark. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** The four-category firewall matches tangible property, living practice, documentary record and origin-linked product name to four different instruments and institutions.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence definition and thesis; organise three named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Distinguish World Heritage, ICH, Memory of the World and GI. Answer in about 150 words.”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
-**Question:** Explain the constitutional and statutory architecture of heritage protection in India. Answer in about 150 words.
-
-**Model thesis:** Articles 29, 49 and 51A(f) supply the constitutional frame while AMASR and antiquities law enable domain-specific protection through ASI.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities.
-- Article 29 protects community language, script and culture; Article 49 directs State protection against spoliation, disfigurement, destruction, removal, disposal or export; Article 51A(f) places a citizen duty to value and preserve composite heritage.
-- The generally prohibited first 100 metres and regulated next 200 metres around a centrally protected monument arise from Indian statute and are not UNESCO buffer zones mapped through nomination and management documents.
-
-**Qualified conclusion:** Articles 29, 49 and 51A(f) supply the constitutional frame while AMASR and antiquities law enable domain-specific protection through ASI.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the constitutional and statutory architecture of heritage protection in India. Answer…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Articles 29, 49 and 51A(f) supply the constitutional frame while AMASR and antiquities law enable domain-specific protection through ASI.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Article 29 protects community language, script and culture; Article 49 directs State protection against spoliation, disfigurement, destruction, removal, disposal or export; Article 51A(f) places a citizen duty to value and preserve composite heritage. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** The generally prohibited first 100 metres and regulated next 200 metres around a centrally protected monument arise from Indian statute and are not UNESCO buffer zones mapped through nomination and management documents. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Articles 29, 49 and 51A(f) supply the constitutional frame while AMASR and antiquities law enable domain-specific protection through ASI.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence definition and thesis; organise three named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Explain the constitutional and statutory architecture of heritage protection in India. Answer…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Discuss safeguarding Indian art heritage as a present need. Answer in about 250 words.
-
-**Model thesis:** Current damage mechanisms require instrument-fit: monument law for fabric, archives for documents, academies for transmission, GI for names, funds for finance and community consent for living sites.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Visitor load, urban construction, climate, disaster, material loss, illicit trade and transmission failure damage heritage through different mechanisms and require different legal, technical, archival or livelihood responses.
-- Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another.
-- The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred.
-
-**Qualified conclusion:** Current damage mechanisms require instrument-fit: monument law for fabric, archives for documents, academies for transmission, GI for names, funds for finance and community consent for living sites.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss safeguarding Indian art heritage as a present need. Answer in about 250 words.”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Current damage mechanisms require instrument-fit: monument law for fabric, archives for documents, academies for transmission, GI for names, funds for finance and community consent for living sites.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Visitor load, urban construction, climate, disaster, material loss, illicit trade and transmission failure damage heritage through different mechanisms and require different legal, technical, archival or livelihood responses. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** The direct routed Mains demand is 2018 safeguarding Indian art heritage; objective routes cover 2023 archaeologists, 2024 Santiniketan-Hoysalas and provisional 2026 Moidams, with no answer letter inferred. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Current damage mechanisms require instrument-fit: monument law for fabric, archives for documents, academies for transmission, GI for names, funds for finance and community consent for living sites.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Discuss safeguarding Indian art heritage as a present need. Answer in about 250 words.”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Compare conservation and restoration and assess the role of community rights. Answer in about 250 words.
-
-**Model thesis:** Minimum intervention protects evidentiary fabric, while restoration selects a past and living use adds access, ritual and livelihood claims that technical conservation must negotiate.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Conservation stabilises and retains fabric through minimum documented intervention, while restoration returns an object to a selected earlier state and therefore raises greater authenticity and reversibility risks.
-- Active worship, ancestor practice, access and livelihood are conservation variables at sites such as Matangeshvara and Moidams; fabric protection cannot presume that a heritage place is socially empty.
-
-**Qualified conclusion:** Minimum intervention protects evidentiary fabric, while restoration selects a past and living use adds access, ritual and livelihood claims that technical conservation must negotiate.
-
-**Demand decoding:** The directive **compare** requires a direct position on “Compare conservation and restoration and assess the role of community rights. Answer in about…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Minimum intervention protects evidentiary fabric, while restoration selects a past and living use adds access, ritual and livelihood claims that technical conservation must negotiate.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Conservation stabilises and retains fabric through minimum documented intervention, while restoration returns an object to a selected earlier state and therefore raises greater authenticity and reversibility risks. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Active worship, ancestor practice, access and livelihood are conservation variables at sites such as Matangeshvara and Moidams; fabric protection cannot presume that a heritage place is socially empty. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Minimum intervention protects evidentiary fabric, while restoration selects a past and living use adds access, ritual and livelihood claims that technical conservation must negotiate.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Compare conservation and restoration and assess the role of community rights. Answer in about…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Evaluate UNESCO recognition as a tool of heritage conservation. Answer in about 300 words.
-
-**Model thesis:** International recognition creates leverage, duties and visibility but also visitor pressure, conditional monitoring and authenticity trade-offs that domestic institutions must manage.
-
-**Claim → named evidence → analysis → qualification:**
-
-- World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty.
-- The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission.
-- Manas and Hampi were once on the List of World Heritage in Danger and were later removed after improvement, proving that inscription remains conditional on continuing management.
-- Moidams at Charaideo are Tai-Ahom mound-covered royal burial vaults with shrine and octagonal enclosure in a continuing funerary landscape, inscribed in 2024 under criteria (iii) and (iv).
-- UNESCO's official property page describes twelve forts, mostly in Maharashtra with one in Tamil Nadu, built, adapted or expanded from the late seventeenth to early nineteenth centuries as a strategic defence network.
-
-**Qualified conclusion:** International recognition creates leverage, duties and visibility but also visitor pressure, conditional monitoring and authenticity trade-offs that domestic institutions must manage.
-
-**Demand decoding:** The directive **evaluate** requires a direct position on “Evaluate UNESCO recognition as a tool of heritage conservation. Answer in about 300 words.”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** International recognition creates leverage, duties and visibility but also visitor pressure, conditional monitoring and authenticity trade-offs that domestic institutions must manage.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** World Heritage properties are inscribed under the 1972 Convention for cultural, natural or mixed outstanding universal value by the World Heritage Committee with advisory bodies; inscription is an obligation, not a transfer of sovereignty. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** The 2003 Convention covers living practices, expressions, knowledge and skills through the Representative List, Urgent Safeguarding List and Register of Good Safeguarding Practices; recognition alone does not ensure transmission. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Manas and Hampi were once on the List of World Heritage in Danger and were later removed after improvement, proving that inscription remains conditional on continuing management. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** Moidams at Charaideo are Tai-Ahom mound-covered royal burial vaults with shrine and octagonal enclosure in a continuing funerary landscape, inscribed in 2024 under criteria (iii) and (iv). **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-5. **Claim and named evidence:** UNESCO's official property page describes twelve forts, mostly in Maharashtra with one in Tamil Nadu, built, adapted or expanded from the late seventeenth to early nineteenth centuries as a strategic defence network. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** International recognition creates leverage, duties and visibility but also visitor pressure, conditional monitoring and authenticity trade-offs that domestic institutions must manage.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence definition and thesis; organise six to eight named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Evaluate UNESCO recognition as a tool of heritage conservation. Answer in about 300 words.”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Assess India's heritage institutions through mandate, capacity and coordination. Answer in about 300 words.
-
-**Model thesis:** India has specialised bodies and instruments; the core challenge is matching mandate and threat while maintaining dated status discipline, documentation and public participation.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities.
-- Sahitya Akademi serves literature, Sangeet Natak Akademi performing arts and Lalit Kala Akademi fine arts; founding dates and programmes do not make their mandates interchangeable.
-- The National Mission for Manuscripts, National Archives, IGNCA, NMMA, Anthropological Survey, Asiatic Society, ICCR and CCRT perform different documentation, custody, research, cultural-relations and training roles.
-- Nalanda, Mumbai's Victorian Gothic and Art Deco ensembles, Dholavira, Ramappa, Santiniketan, the Hoysala ensembles, Moidams, the Maratha Military Landscapes and Sarnath form a dated 2016-2026 ledger; it is not India's complete list.
-- The dated Indian ICH ledger runs from 2008 elements through Deepavali in 2025, includes the multinational Nowruz entry, and must keep inscription year separate from any changing total or latest-item question.
-- Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another.
-
-**Qualified conclusion:** India has specialised bodies and instruments; the core challenge is matching mandate and threat while maintaining dated status discipline, documentation and public participation.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess India's heritage institutions through mandate, capacity and coordination. Answer in…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** India has specialised bodies and instruments; the core challenge is matching mandate and threat while maintaining dated status discipline, documentation and public participation.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The Archaeological Survey of India was established in 1861 under Alexander Cunningham and functions through the AMASR Act, 1958 and Antiquities and Art Treasures Act, 1972 for monuments, archaeology and antiquities. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Sahitya Akademi serves literature, Sangeet Natak Akademi performing arts and Lalit Kala Akademi fine arts; founding dates and programmes do not make their mandates interchangeable. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** The National Mission for Manuscripts, National Archives, IGNCA, NMMA, Anthropological Survey, Asiatic Society, ICCR and CCRT perform different documentation, custody, research, cultural-relations and training roles. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** Nalanda, Mumbai's Victorian Gothic and Art Deco ensembles, Dholavira, Ramappa, Santiniketan, the Hoysala ensembles, Moidams, the Maratha Military Landscapes and Sarnath form a dated 2016-2026 ledger; it is not India's complete list. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-5. **Claim and named evidence:** The dated Indian ICH ledger runs from 2008 elements through Deepavali in 2025, includes the multinational Nowruz entry, and must keep inscription year separate from any changing total or latest-item question. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-6. **Claim and named evidence:** Adopt a Heritage and Adarsh Smarak are executive amenity or participation schemes, the National Culture Fund is a funding mechanism, and AMASR and the Antiquities Act are statutes; none may be substituted for another. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** India has specialised bodies and instruments; the core challenge is matching mandate and threat while maintaining dated status discipline, documentation and public participation.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence definition and thesis; organise six to eight named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Assess India's heritage institutions through mandate, capacity and coordination. Answer in…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
+**Conclusion:** The long-term answer to trafficking is therefore legal control plus documentary depth: stronger provenance, better registers, digitisation and disciplined public claims.

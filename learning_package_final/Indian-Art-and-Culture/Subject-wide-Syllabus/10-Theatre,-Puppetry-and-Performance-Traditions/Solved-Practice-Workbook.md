@@ -1,1060 +1,467 @@
 ---
-title: "Theatre, Puppetry and Performance Traditions — Solved Practice Workbook"
+title: "Theatre, Puppetry and Performance Traditions - Solved Practice Workbook"
 topic_key: indian-art-and-culture-10
 ---
-# Theatre, Puppetry and Performance Traditions — Solved Practice Workbook
+# Theatre, Puppetry and Performance Traditions - Solved Practice Workbook
+
+> This standalone workbook carries exactly 32 original MCQs with strict ABCD rotation, 2 objective/application PYQs with answer-key discipline, 4 direct solved Mains PYQs and 6 full original Mains answers.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Natyashastra dramaturgy?
+### CORE UPSC MCQS
 
-A. Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas.
-B. In Sanskrit theatre the Sutradhar conducts preliminaries and introduces the play; in puppetry the term also evokes the string-holder and narrator.
-C. Lokadharmi denotes realistic representation of daily life, while Natyadharmi denotes conventional, stylised and symbolic narration.
-D. Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Ihamriga and Utsrishtikanka form the recorded ten-rupaka classification.
+### Q1. Which statement about Indian theatre's foundational grammar is safest?
 
-**Answer: A.**
-**Explanation:** Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q2. Which chronology card should be filed under Natyashastra dramaturgy?
-
-A. In Sanskrit theatre the Sutradhar conducts preliminaries and introduces the play; in puppetry the term also evokes the string-holder and narrator.
-B. Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas.
-C. Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Ihamriga and Utsrishtikanka form the recorded ten-rupaka classification.
-D. Nayaka, Nayika and Vidusaka are broad character types, and the Vidusaka's traditional Prakrit speech shows language register marking stage position.
-
-**Answer: B.**
-**Explanation:** Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q3. Which option preserves the source-bounded meaning of Natyashastra dramaturgy?
-
-A. The owner records multi-act structure, rare staged tragedy, male protagonists who ordinarily achieve their aim and closure restoring order; these are prescriptive conventions, not a census of every performance.
-B. Nayaka, Nayika and Vidusaka are broad character types, and the Vidusaka's traditional Prakrit speech shows language register marking stage position.
-C. Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas.
-D. In Sanskrit theatre the Sutradhar conducts preliminaries and introduces the play; in puppetry the term also evokes the string-holder and narrator.
-
-**Answer: C.**
-**Explanation:** Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q4. Which statement avoids a close-option trap about Natyashastra dramaturgy?
-
-A. Nayaka, Nayika and Vidusaka are broad character types, and the Vidusaka's traditional Prakrit speech shows language register marking stage position.
-B. The owner records multi-act structure, rare staged tragedy, male protagonists who ordinarily achieve their aim and closure restoring order; these are prescriptive conventions, not a census of every performance.
-C. The source attributes Sanskrit theatre's contraction to writers moving toward poetry and song, difficult rule-bound Sanskrit losing reach, and changed patronage under later courts.
-D. Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas.
-
-**Answer: D.**
-**Explanation:** Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q5. Which statement correctly identifies Lokadharmi and Natyadharmi?
-
-A. Lokadharmi denotes realistic representation of daily life, while Natyadharmi denotes conventional, stylised and symbolic narration.
-B. Nayaka, Nayika and Vidusaka are broad character types, and the Vidusaka's traditional Prakrit speech shows language register marking stage position.
-C. In Sanskrit theatre the Sutradhar conducts preliminaries and introduces the play; in puppetry the term also evokes the string-holder and narrator.
-D. Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Ihamriga and Utsrishtikanka form the recorded ten-rupaka classification.
+A. Natya Shastra is best treated as a composite dramaturgic framework joining text, enactment, music and rasa.  
+B. Natya Shastra should be defined only as a manual for later dance schools.  
+C. Natya Shastra is identical with the modern National School of Drama curriculum.  
+D. Natya Shastra proves that every later theatre form remained unchanged across centuries.  
 
 **Answer: A.**
-**Explanation:** Lokadharmi denotes realistic representation of daily life, while Natyadharmi denotes conventional, stylised and symbolic narration. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q6. Which chronology card should be filed under Lokadharmi and Natyadharmi?
+**Explanation:** A is correct because the source-owned bank presents Natya Veda as a composite performance system. B narrows theatre into dance alone, C confuses an ancient dramaturgic text with a modern institution, and D turns a layered textual tradition into an unsound continuity claim.
 
-A. In Sanskrit theatre the Sutradhar conducts preliminaries and introduces the play; in puppetry the term also evokes the string-holder and narrator.
-B. Lokadharmi denotes realistic representation of daily life, while Natyadharmi denotes conventional, stylised and symbolic narration.
-C. The owner records multi-act structure, rare staged tragedy, male protagonists who ordinarily achieve their aim and closure restoring order; these are prescriptive conventions, not a census of every performance.
-D. Nayaka, Nayika and Vidusaka are broad character types, and the Vidusaka's traditional Prakrit speech shows language register marking stage position.
+### Q2. Which pair is correctly matched?
+
+A. Lokadharmi - wholly symbolic and stylised narration  
+B. Natyadharmi - conventional, stylised and symbolic narration  
+C. Lokadharmi - only temple ritual without dramatic representation  
+D. Natyadharmi - modern ticketed proscenium theatre  
 
 **Answer: B.**
-**Explanation:** Lokadharmi denotes realistic representation of daily life, while Natyadharmi denotes conventional, stylised and symbolic narration. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q7. Which option preserves the source-bounded meaning of Lokadharmi and Natyadharmi?
+**Explanation:** B is correct. Lokadharmi refers to realistic depiction of life, whereas Natyadharmi denotes stylised, conventional narration. A reverses the pair, C invents a ritual restriction, and D confuses an ancient dramaturgic mode with a modern theatre economy.
 
-A. Nayaka, Nayika and Vidusaka are broad character types, and the Vidusaka's traditional Prakrit speech shows language register marking stage position.
-B. The source attributes Sanskrit theatre's contraction to writers moving toward poetry and song, difficult rule-bound Sanskrit losing reach, and changed patronage under later courts.
-C. Lokadharmi denotes realistic representation of daily life, while Natyadharmi denotes conventional, stylised and symbolic narration.
-D. The owner records multi-act structure, rare staged tragedy, male protagonists who ordinarily achieve their aim and closure restoring order; these are prescriptive conventions, not a census of every performance.
+### Q3. Which option correctly preserves the source-owned ten-rupaka list?
+
+A. Nataka, Prakarana, Vilasa, Vithi, Rasaka, Uparupaka, Bhana, Natika, Chitra and Kavya  
+B. Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Natyam and Utsava  
+C. Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Ihamriga and Utsrishtikanka  
+D. Nataka, Rupaka, Vidushaka, Nayaka, Nayika, Vithi, Dima, Samavakara, Geet and Nritya  
 
 **Answer: C.**
-**Explanation:** Lokadharmi denotes realistic representation of daily life, while Natyadharmi denotes conventional, stylised and symbolic narration. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q8. Which statement avoids a close-option trap about Lokadharmi and Natyadharmi?
+**Explanation:** C is correct because it preserves the list carried in the topic bank. A and B insert forms not given there, while D mixes genre terms with stage roles and generic performance words.
 
-A. The source attributes Sanskrit theatre's contraction to writers moving toward poetry and song, difficult rule-bound Sanskrit losing reach, and changed patronage under later courts.
-B. The owner records multi-act structure, rare staged tragedy, male protagonists who ordinarily achieve their aim and closure restoring order; these are prescriptive conventions, not a census of every performance.
-C. Kutiyattam preserves a living Kerala Sanskrit-theatre lineage with codified gesture, Sanskrit-Prakrit-Malayalam use, Nirvahana and temple-theatre institutions; Sanskrit theatre is therefore not wholly extinct.
-D. Lokadharmi denotes realistic representation of daily life, while Natyadharmi denotes conventional, stylised and symbolic narration.
+### Q4. Which statement about the Sutradhar is correct?
+
+A. The Sutradhar is merely the hero's comic companion.  
+B. The Sutradhar is only the puppeteer's string and never a theatre figure.  
+C. The Sutradhar is the title of every Sanskrit play.  
+D. The Sutradhar conducts the opening threshold of the play and in puppetry the term can also evoke the holder of strings.  
 
 **Answer: D.**
-**Explanation:** Lokadharmi denotes realistic representation of daily life, while Natyadharmi denotes conventional, stylised and symbolic narration. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q9. Which statement correctly identifies Ten rupakas?
+**Explanation:** D is correct. A describes the Vidusaka, B erases the classical stage role, and C confuses a functionary with the title of a play.
 
-A. Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Ihamriga and Utsrishtikanka form the recorded ten-rupaka classification.
-B. The owner records multi-act structure, rare staged tragedy, male protagonists who ordinarily achieve their aim and closure restoring order; these are prescriptive conventions, not a census of every performance.
-C. In Sanskrit theatre the Sutradhar conducts preliminaries and introduces the play; in puppetry the term also evokes the string-holder and narrator.
-D. Nayaka, Nayika and Vidusaka are broad character types, and the Vidusaka's traditional Prakrit speech shows language register marking stage position.
+### Q5. Which statement about character and language register in Sanskrit theatre is safest?
+
+A. The Vidusaka is a comic-satirical figure who traditionally speaks Prakrit while others use Sanskrit.  
+B. The Nayika is the stage manager who announces time and place.  
+C. The Nayaka is the leather shadow puppet projected against a lit screen.  
+D. Language register has no role in classical theatre according to the source bank.  
 
 **Answer: A.**
-**Explanation:** Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Ihamriga and Utsrishtikanka form the recorded ten-rupaka classification. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q10. Which chronology card should be filed under Ten rupakas?
+**Explanation:** A is correct. B confuses Nayika with Sutradhar, C confuses a character category with puppetry, and D ignores the explicit Vidusaka/Prakrit clue.
 
-A. Nayaka, Nayika and Vidusaka are broad character types, and the Vidusaka's traditional Prakrit speech shows language register marking stage position.
-B. Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Ihamriga and Utsrishtikanka form the recorded ten-rupaka classification.
-C. The source attributes Sanskrit theatre's contraction to writers moving toward poetry and song, difficult rule-bound Sanskrit losing reach, and changed patronage under later courts.
-D. The owner records multi-act structure, rare staged tragedy, male protagonists who ordinarily achieve their aim and closure restoring order; these are prescriptive conventions, not a census of every performance.
+### Q6. Which statement about Sanskrit play conventions is safest?
+
+A. All Sanskrit plays were historical chronicles without codified dramatic structure.  
+B. The source records multi-act plays, rare tragedy, ordered dramatic progression and endings that restore success or order.  
+C. Masks were always mandatory in Bharata's stage prescription.  
+D. The stage had no ritual opening or framed entry.  
 
 **Answer: B.**
-**Explanation:** Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Ihamriga and Utsrishtikanka form the recorded ten-rupaka classification. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q11. Which option preserves the source-bounded meaning of Ten rupakas?
+**Explanation:** B is correct because it summarises the recorded conventions. A ignores dramaturgic codification, C reverses the source note that masks were not used in Bharata's prescription, and D erases the ritualised opening with the Sutradhar.
 
-A. Kutiyattam preserves a living Kerala Sanskrit-theatre lineage with codified gesture, Sanskrit-Prakrit-Malayalam use, Nirvahana and temple-theatre institutions; Sanskrit theatre is therefore not wholly extinct.
-B. The source attributes Sanskrit theatre's contraction to writers moving toward poetry and song, difficult rule-bound Sanskrit losing reach, and changed patronage under later courts.
-C. Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Ihamriga and Utsrishtikanka form the recorded ten-rupaka classification.
-D. The owner records multi-act structure, rare staged tragedy, male protagonists who ordinarily achieve their aim and closure restoring order; these are prescriptive conventions, not a census of every performance.
+### Q7. Which statement about Sitabenga and Jogimara is safest for UPSC use?
+
+A. They prove beyond dispute the exact architectural form of every ancient Sanskrit theatre.  
+B. They are irrelevant because archaeology can never speak to performance history.  
+C. They are linked by some scholars to performance, but the popular 'world's oldest amphitheatre' claim should remain qualified, not asserted as settled fact.  
+D. They are the same as the Kerala koothambalam tradition.  
 
 **Answer: C.**
-**Explanation:** Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Ihamriga and Utsrishtikanka form the recorded ten-rupaka classification. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q12. Which statement avoids a close-option trap about Ten rupakas?
+**Explanation:** C is correct because it preserves the evidentiary limit. A overclaims, B swings to an opposite absolute, and D collapses unrelated performance contexts.
 
-A. The source attributes Sanskrit theatre's contraction to writers moving toward poetry and song, difficult rule-bound Sanskrit losing reach, and changed patronage under later courts.
-B. Kutiyattam preserves a living Kerala Sanskrit-theatre lineage with codified gesture, Sanskrit-Prakrit-Malayalam use, Nirvahana and temple-theatre institutions; Sanskrit theatre is therefore not wholly extinct.
-C. Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies.
-D. Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Ihamriga and Utsrishtikanka form the recorded ten-rupaka classification.
+### Q8. Which statement best identifies Kutiyattam?
+
+A. It is a Marathi commercial theatre of the Parsi era.  
+B. It is an Assamese one-act Vaishnavite play of Sankardeva's school.  
+C. It is a Gujarati pot-balancing folk theatre performed by the Nayaka.  
+D. It is a living Kerala Sanskrit-theatre lineage marked by multilingual performance, Nirvahana and instruments such as Mizhavu and Edakka.  
 
 **Answer: D.**
-**Explanation:** Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Ihamriga and Utsrishtikanka form the recorded ten-rupaka classification. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q13. Which statement correctly identifies Sutradhar function?
+**Explanation:** D is correct. A points to modern western-Indian commercial theatre, B to Ankia Naat/Bhaona, and C to Bhavai.
 
-A. In Sanskrit theatre the Sutradhar conducts preliminaries and introduces the play; in puppetry the term also evokes the string-holder and narrator.
-B. The source attributes Sanskrit theatre's contraction to writers moving toward poetry and song, difficult rule-bound Sanskrit losing reach, and changed patronage under later courts.
-C. Nayaka, Nayika and Vidusaka are broad character types, and the Vidusaka's traditional Prakrit speech shows language register marking stage position.
-D. The owner records multi-act structure, rare staged tragedy, male protagonists who ordinarily achieve their aim and closure restoring order; these are prescriptive conventions, not a census of every performance.
+### Q9. Which statement about the official UNESCO route for Kutiyattam is safest?
+
+A. UNESCO describes it as one of India's oldest living theatrical traditions and records its inscription in 2008 on the Representative List.  
+B. UNESCO treats it as proof that all Sanskrit theatre everywhere survives unchanged.  
+C. UNESCO uses Kutiyattam to create the ten-rupaka list.  
+D. UNESCO classifies it as a puppetry mechanism rather than theatre.  
 
 **Answer: A.**
-**Explanation:** In Sanskrit theatre the Sutradhar conducts preliminaries and introduces the play; in puppetry the term also evokes the string-holder and narrator. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q14. Which chronology card should be filed under Sutradhar function?
+**Explanation:** A is correct and keeps the official page within bounds. B invents a continuity claim, C confuses inscription with dramaturgic theory, and D misclassifies the form entirely.
 
-A. The owner records multi-act structure, rare staged tragedy, male protagonists who ordinarily achieve their aim and closure restoring order; these are prescriptive conventions, not a census of every performance.
-B. In Sanskrit theatre the Sutradhar conducts preliminaries and introduces the play; in puppetry the term also evokes the string-holder and narrator.
-C. The source attributes Sanskrit theatre's contraction to writers moving toward poetry and song, difficult rule-bound Sanskrit losing reach, and changed patronage under later courts.
-D. Kutiyattam preserves a living Kerala Sanskrit-theatre lineage with codified gesture, Sanskrit-Prakrit-Malayalam use, Nirvahana and temple-theatre institutions; Sanskrit theatre is therefore not wholly extinct.
+### Q10. Which sequence best captures the core folk-theatre arc in the source bank?
+
+A. Court tragedy -> museum display -> digital cinema  
+B. Devotional themes -> romance/local heroes -> social messages alongside entertainment  
+C. Ancient republic drama -> colonial bureaucracy -> postmodern absurdism  
+D. Only martial training -> only temple ritual -> only tourism  
 
 **Answer: B.**
-**Explanation:** In Sanskrit theatre the Sutradhar conducts preliminaries and introduces the play; in puppetry the term also evokes the string-holder and narrator. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q15. Which option preserves the source-bounded meaning of Sutradhar function?
+**Explanation:** B is correct because it follows the source-owned developmental arc. The other options invent trajectories that are not the topic's teaching spine.
 
-A. The source attributes Sanskrit theatre's contraction to writers moving toward poetry and song, difficult rule-bound Sanskrit losing reach, and changed patronage under later courts.
-B. Kutiyattam preserves a living Kerala Sanskrit-theatre lineage with codified gesture, Sanskrit-Prakrit-Malayalam use, Nirvahana and temple-theatre institutions; Sanskrit theatre is therefore not wholly extinct.
-C. In Sanskrit theatre the Sutradhar conducts preliminaries and introduces the play; in puppetry the term also evokes the string-holder and narrator.
-D. Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies.
+### Q11. Which pair is correctly matched?
+
+A. Yakshagana - a rod-puppet form of Bihar  
+B. Nautanki - a Kerala temple shadow theatre using oil lamps  
+C. Bhavai - a Gujarat folk theatre in which dance, semi-classical folk music and balancing vessels are major identifiers  
+D. Jatra - a glove-puppet form of Rajasthan  
 
 **Answer: C.**
-**Explanation:** In Sanskrit theatre the Sutradhar conducts preliminaries and introduces the play; in puppetry the term also evokes the string-holder and narrator. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q16. Which statement avoids a close-option trap about Sutradhar function?
+**Explanation:** C is correct. A confuses Yakshagana with rod puppetry, B mixes Nautanki with Tolpava Kuthu, and D misclassifies Jatra as puppetry.
 
-A. Colonial urban theatre adopted commercial proscenium spaces and addressed social and political themes; the Dramatic Performances Act of 1876 demonstrates state concern with its political effect.
-B. Kutiyattam preserves a living Kerala Sanskrit-theatre lineage with codified gesture, Sanskrit-Prakrit-Malayalam use, Nirvahana and temple-theatre institutions; Sanskrit theatre is therefore not wholly extinct.
-C. Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies.
-D. In Sanskrit theatre the Sutradhar conducts preliminaries and introduces the play; in puppetry the term also evokes the string-holder and narrator.
+### Q12. Which statement should be avoided in a theatre answer?
+
+A. Many folk theatres are rooted in locality, belief and custom.  
+B. Some current region labels are modern locators rather than ancient state proofs.  
+C. Folk theatre can carry devotional, romantic and social-message layers across time.  
+D. All folk theatre forms may safely be treated as unchanged ancient survivals with fixed modern-state identities.  
 
 **Answer: D.**
-**Explanation:** In Sanskrit theatre the Sutradhar conducts preliminaries and introduces the play; in puppetry the term also evokes the string-holder and narrator. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q17. Which statement correctly identifies Character and language register?
+**Explanation:** D is the unsafe statement because it collapses historical change and overprojects modern geography backwards. A, B and C are the safe analytical controls provided by the topic spine.
 
-A. Nayaka, Nayika and Vidusaka are broad character types, and the Vidusaka's traditional Prakrit speech shows language register marking stage position.
-B. The owner records multi-act structure, rare staged tragedy, male protagonists who ordinarily achieve their aim and closure restoring order; these are prescriptive conventions, not a census of every performance.
-C. The source attributes Sanskrit theatre's contraction to writers moving toward poetry and song, difficult rule-bound Sanskrit losing reach, and changed patronage under later courts.
-D. Kutiyattam preserves a living Kerala Sanskrit-theatre lineage with codified gesture, Sanskrit-Prakrit-Malayalam use, Nirvahana and temple-theatre institutions; Sanskrit theatre is therefore not wholly extinct.
+### Q13. Which statement about modern Indian theatre is correct?
+
+A. It grew in the colonial era as an urban hybrid influenced by Sanskrit and Western texts, especially in proscenium-style centres such as Calcutta and Madras.  
+B. It emerged only after 1947 and had no colonial background.  
+C. It developed only in temples and never on commercial stages.  
+D. It rejected social and political themes throughout the colonial period.  
 
 **Answer: A.**
-**Explanation:** Nayaka, Nayika and Vidusaka are broad character types, and the Vidusaka's traditional Prakrit speech shows language register marking stage position. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q18. Which chronology card should be filed under Character and language register?
+**Explanation:** A is correct because it captures the colonial-urban hybrid character of modern theatre. B, C and D contradict the source bank's account of commercial stages and politically sensitive themes.
 
-A. The source attributes Sanskrit theatre's contraction to writers moving toward poetry and song, difficult rule-bound Sanskrit losing reach, and changed patronage under later courts.
-B. Nayaka, Nayika and Vidusaka are broad character types, and the Vidusaka's traditional Prakrit speech shows language register marking stage position.
-C. Kutiyattam preserves a living Kerala Sanskrit-theatre lineage with codified gesture, Sanskrit-Prakrit-Malayalam use, Nirvahana and temple-theatre institutions; Sanskrit theatre is therefore not wholly extinct.
-D. Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies.
+### Q14. Which statement about Parsi theatre is safest?
+
+A. It belonged only to Assam's Vaishnavite monastery culture.  
+B. It flourished in western India from the 1850s to the 1920s, used colourful backdrops and music, and later fed into film-making.  
+C. It was the ancient Sanskrit stage described by Bharata.  
+D. It is another name for Bhavai's Nayaka-led folk theatre.  
 
 **Answer: B.**
-**Explanation:** Nayaka, Nayika and Vidusaka are broad character types, and the Vidusaka's traditional Prakrit speech shows language register marking stage position. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q19. Which option preserves the source-bounded meaning of Character and language register?
+**Explanation:** B is correct. A confuses it with Assamese devotional theatre, C with classical Sanskrit dramaturgy, and D with Gujarati folk theatre.
 
-A. Kutiyattam preserves a living Kerala Sanskrit-theatre lineage with codified gesture, Sanskrit-Prakrit-Malayalam use, Nirvahana and temple-theatre institutions; Sanskrit theatre is therefore not wholly extinct.
-B. Colonial urban theatre adopted commercial proscenium spaces and addressed social and political themes; the Dramatic Performances Act of 1876 demonstrates state concern with its political effect.
-C. Nayaka, Nayika and Vidusaka are broad character types, and the Vidusaka's traditional Prakrit speech shows language register marking stage position.
-D. Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies.
+### Q15. What is the safest significance of the Dramatic Performances Act, 1876 in this topic?
+
+A. It created the ten rupakas of Bharata.  
+B. It nationalised all folk theatre troupes.  
+C. It shows that theatre had become politically consequential enough for colonial regulation.  
+D. It marks UNESCO's inscription of Kutiyattam.  
 
 **Answer: C.**
-**Explanation:** Nayaka, Nayika and Vidusaka are broad character types, and the Vidusaka's traditional Prakrit speech shows language register marking stage position. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q20. Which statement avoids a close-option trap about Character and language register?
+**Explanation:** C is correct. A and D confuse unrelated chronology, while B is a fabricated policy claim.
 
-A. Parsi theatre linked commercial multilingual melodrama to early cinema, while IPTA organised theatre around famine and social mobilisation; they represent different modern performance economies.
-B. Colonial urban theatre adopted commercial proscenium spaces and addressed social and political themes; the Dramatic Performances Act of 1876 demonstrates state concern with its political effect.
-C. Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies.
-D. Nayaka, Nayika and Vidusaka are broad character types, and the Vidusaka's traditional Prakrit speech shows language register marking stage position.
+### Q16. Which statement about post-Independence theatre organisation is correct?
+
+A. IPTA was a medieval Vaishnavite theatre school.  
+B. Prithvi Theatre began as a temple stage in Odisha.  
+C. The National School of Drama was the first Sanskrit theatre described by Bharata.  
+D. IPTA organised socially engaged theatre, Prithvi used a touring model, and institutions such as SNA and NSD helped consolidate theatre training after Independence.  
 
 **Answer: D.**
-**Explanation:** Nayaka, Nayika and Vidusaka are broad character types, and the Vidusaka's traditional Prakrit speech shows language register marking stage position. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q21. Which statement correctly identifies Dramaturgical convention?
+**Explanation:** D is correct because it distinguishes three modern nodes properly. A, B and C each misplace a modern institution into an unrelated historical field.
 
-A. The owner records multi-act structure, rare staged tragedy, male protagonists who ordinarily achieve their aim and closure restoring order; these are prescriptive conventions, not a census of every performance.
-B. The source attributes Sanskrit theatre's contraction to writers moving toward poetry and song, difficult rule-bound Sanskrit losing reach, and changed patronage under later courts.
-C. Kutiyattam preserves a living Kerala Sanskrit-theatre lineage with codified gesture, Sanskrit-Prakrit-Malayalam use, Nirvahana and temple-theatre institutions; Sanskrit theatre is therefore not wholly extinct.
-D. Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies.
+### Q17. Which statement about Binodini Dasi is safest?
+
+A. She is a high-value example for Bengali theatre professionalism, the Star Theatre story and women's visibility on the modern stage.  
+B. She was the author of Natya Shastra.  
+C. She founded the Sangeet Natak Akademi in 1952.  
+D. She was the principal puppeteer of Kathputli in Rajasthan.  
 
 **Answer: A.**
-**Explanation:** The owner records multi-act structure, rare staged tragedy, male protagonists who ordinarily achieve their aim and closure restoring order; these are prescriptive conventions, not a census of every performance. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q22. Which chronology card should be filed under Dramaturgical convention?
+**Explanation:** A is correct. B, C and D attribute unrelated roles and institutions to Binodini Dasi.
 
-A. Colonial urban theatre adopted commercial proscenium spaces and addressed social and political themes; the Dramatic Performances Act of 1876 demonstrates state concern with its political effect.
-B. The owner records multi-act structure, rare staged tragedy, male protagonists who ordinarily achieve their aim and closure restoring order; these are prescriptive conventions, not a census of every performance.
-C. Kutiyattam preserves a living Kerala Sanskrit-theatre lineage with codified gesture, Sanskrit-Prakrit-Malayalam use, Nirvahana and temple-theatre institutions; Sanskrit theatre is therefore not wholly extinct.
-D. Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies.
+### Q18. Which statement correctly identifies Badal Sircar's contribution?
+
+A. He created the leather shadow puppets of Ravana Chhaya.  
+B. He pioneered Third Theatre: small, experimental, socially conscious performance with minimalist staging and direct actor-audience interaction.  
+C. He led the Chakyar-Nambiar Kutiyattam lineage in Kerala.  
+D. He founded the Calcutta Theatre in 1775.  
 
 **Answer: B.**
-**Explanation:** The owner records multi-act structure, rare staged tragedy, male protagonists who ordinarily achieve their aim and closure restoring order; these are prescriptive conventions, not a census of every performance. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q23. Which option preserves the source-bounded meaning of Dramaturgical convention?
+**Explanation:** B is correct. A belongs to shadow puppetry, C to Kutiyattam's hereditary performance world, and D to a much earlier venue chronology.
 
-A. Colonial urban theatre adopted commercial proscenium spaces and addressed social and political themes; the Dramatic Performances Act of 1876 demonstrates state concern with its political effect.
-B. Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies.
-C. The owner records multi-act structure, rare staged tragedy, male protagonists who ordinarily achieve their aim and closure restoring order; these are prescriptive conventions, not a census of every performance.
-D. Parsi theatre linked commercial multilingual melodrama to early cinema, while IPTA organised theatre around famine and social mobilisation; they represent different modern performance economies.
+### Q19. Which classification best organises Indian puppetry?
+
+A. Temple, court, marketplace and cinema  
+B. Heroic, romantic, satirical and tragic  
+C. String, shadow, rod and glove  
+D. Sanskrit, Prakrit, Brajavali and Malayalam  
 
 **Answer: C.**
-**Explanation:** The owner records multi-act structure, rare staged tragedy, male protagonists who ordinarily achieve their aim and closure restoring order; these are prescriptive conventions, not a census of every performance. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q24. Which statement avoids a close-option trap about Dramaturgical convention?
+**Explanation:** C is correct because mechanism is the formal classificatory basis used in the source. The other options sort by venue, theme or language rather than puppet control.
 
-A. Parsi theatre linked commercial multilingual melodrama to early cinema, while IPTA organised theatre around famine and social mobilisation; they represent different modern performance economies.
-B. Colonial urban theatre adopted commercial proscenium spaces and addressed social and political themes; the Dramatic Performances Act of 1876 demonstrates state concern with its political effect.
-C. Prithvi Theatre, Sangeet Natak Akademi, National School of Drama and regional repertories shifted support toward touring, ticketing, grants and formal training.
-D. The owner records multi-act structure, rare staged tragedy, male protagonists who ordinarily achieve their aim and closure restoring order; these are prescriptive conventions, not a census of every performance.
+### Q20. Which regional-mechanism match is correct?
+
+A. Kundhei - glove puppetry of Kerala  
+B. Pavakoothu - shadow puppetry of Odisha  
+C. Ravana Chhaya - rod puppetry of Bihar  
+D. Kathputli - string puppetry of Rajasthan using legless dolls controlled by strings tied to the fingers  
 
 **Answer: D.**
-**Explanation:** The owner records multi-act structure, rare staged tragedy, male protagonists who ordinarily achieve their aim and closure restoring order; these are prescriptive conventions, not a census of every performance. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q25. Which statement correctly identifies Named decline mechanisms?
+**Explanation:** D is correct. Kundhei is a string tradition of Odisha, Pavakoothu is a glove tradition of Kerala, and Ravana Chhaya is shadow puppetry of Odisha rather than rod puppetry of Bihar.
 
-A. The source attributes Sanskrit theatre's contraction to writers moving toward poetry and song, difficult rule-bound Sanskrit losing reach, and changed patronage under later courts.
-B. Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies.
-C. Colonial urban theatre adopted commercial proscenium spaces and addressed social and political themes; the Dramatic Performances Act of 1876 demonstrates state concern with its political effect.
-D. Kutiyattam preserves a living Kerala Sanskrit-theatre lineage with codified gesture, Sanskrit-Prakrit-Malayalam use, Nirvahana and temple-theatre institutions; Sanskrit theatre is therefore not wholly extinct.
+### Q21. Which statement about shadow puppetry is correct?
+
+A. Shadow puppets are flat leather or opaque figures projected on a lit screen to create silhouettes.  
+B. Shadow puppets are always carved from a single block of wood and manipulated by waist rods.  
+C. Shadow puppets are necessarily legless marionettes controlled only by fingers.  
+D. Shadow puppetry has no role for light or screen.  
 
 **Answer: A.**
-**Explanation:** The source attributes Sanskrit theatre's contraction to writers moving toward poetry and song, difficult rule-bound Sanskrit losing reach, and changed patronage under later courts. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q26. Which chronology card should be filed under Named decline mechanisms?
+**Explanation:** A is correct because light-screen projection is the defining mechanism. B describes a rod-puppet tendency, C string puppetry, and D erases the core technical basis of shadow theatre.
 
-A. Parsi theatre linked commercial multilingual melodrama to early cinema, while IPTA organised theatre around famine and social mobilisation; they represent different modern performance economies.
-B. The source attributes Sanskrit theatre's contraction to writers moving toward poetry and song, difficult rule-bound Sanskrit losing reach, and changed patronage under later courts.
-C. Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies.
-D. Colonial urban theatre adopted commercial proscenium spaces and addressed social and political themes; the Dramatic Performances Act of 1876 demonstrates state concern with its political effect.
+### Q22. Which statement about rod, glove and hybrid puppetry is safest?
+
+A. Putul Nach is the Kerala glove tradition shaped by Kathakali.  
+B. Pavakoothu is the classic glove example, rod traditions such as Yampuri or Putul Nach scale the figure up, and Bommalattam is a useful hybrid caution because it mixes rod and string control.  
+C. All rod and glove forms are too small to need accompaniment or narration.  
+D. Bommalattam proves that the four basic mechanisms are false and meaningless.  
 
 **Answer: B.**
-**Explanation:** The source attributes Sanskrit theatre's contraction to writers moving toward poetry and song, difficult rule-bound Sanskrit losing reach, and changed patronage under later courts. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q27. Which option preserves the source-bounded meaning of Named decline mechanisms?
+**Explanation:** B is correct. A confuses Putul Nach with Pavakoothu, C ignores performance ecology, and D mistakes a hybrid exception for the collapse of the main classification.
 
-A. Prithvi Theatre, Sangeet Natak Akademi, National School of Drama and regional repertories shifted support toward touring, ticketing, grants and formal training.
-B. Parsi theatre linked commercial multilingual melodrama to early cinema, while IPTA organised theatre around famine and social mobilisation; they represent different modern performance economies.
-C. The source attributes Sanskrit theatre's contraction to writers moving toward poetry and song, difficult rule-bound Sanskrit losing reach, and changed patronage under later courts.
-D. Colonial urban theatre adopted commercial proscenium spaces and addressed social and political themes; the Dramatic Performances Act of 1876 demonstrates state concern with its political effect.
+### Q23. Which statement best captures puppetry as archive?
+
+A. Puppetry matters only as low-cost amusement with no intellectual or cultural transmission value.  
+B. Puppetry can be explained without reference to mechanism, narration or regional ecology.  
+C. Puppetry's links to epic references, Silappadikaram, the Bhagavad Gita's puppeteer metaphor and the Sutradhar idea let it be read as a transmission medium as well as performance.  
+D. Puppetry is a modern invention of film-era children's culture.  
 
 **Answer: C.**
-**Explanation:** The source attributes Sanskrit theatre's contraction to writers moving toward poetry and song, difficult rule-bound Sanskrit losing reach, and changed patronage under later courts. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q28. Which statement avoids a close-option trap about Named decline mechanisms?
+**Explanation:** C is correct because it keeps the topic's deeper interpretive value. A and D trivialise the form, while B removes the very features that make classification and interpretation possible.
 
-A. Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region.
-B. Parsi theatre linked commercial multilingual melodrama to early cinema, while IPTA organised theatre around famine and social mobilisation; they represent different modern performance economies.
-C. Prithvi Theatre, Sangeet Natak Akademi, National School of Drama and regional repertories shifted support toward touring, ticketing, grants and formal training.
-D. The source attributes Sanskrit theatre's contraction to writers moving toward poetry and song, difficult rule-bound Sanskrit losing reach, and changed patronage under later courts.
+### Q24. Which statement about the present condition of puppetry is safest?
+
+A. The source treats puppetry as a fully secure art with no present challenges.  
+B. The only valid response to puppetry is museum preservation because it is no longer performed.  
+C. Puppetry's difficulties are identical to the historical decline of Sanskrit theatre.  
+D. The source explicitly notes an ongoing funding-and-audience crisis in puppetry and therefore points toward living safeguarding, with Anupama Hoskere/Dhaatu as a named revival example.  
 
 **Answer: D.**
-**Explanation:** The source attributes Sanskrit theatre's contraction to writers moving toward poetry and song, difficult rule-bound Sanskrit losing reach, and changed patronage under later courts. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q29. Which statement correctly identifies Kutiyattam continuity?
+**Explanation:** D is correct because it preserves the present-tense vulnerability and the named revival example. A denies the source, B erases living practice, and C confuses two different decline types.
 
-A. Kutiyattam preserves a living Kerala Sanskrit-theatre lineage with codified gesture, Sanskrit-Prakrit-Malayalam use, Nirvahana and temple-theatre institutions; Sanskrit theatre is therefore not wholly extinct.
-B. Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies.
-C. Colonial urban theatre adopted commercial proscenium spaces and addressed social and political themes; the Dramatic Performances Act of 1876 demonstrates state concern with its political effect.
-D. Parsi theatre linked commercial multilingual melodrama to early cinema, while IPTA organised theatre around famine and social mobilisation; they represent different modern performance economies.
+### Q25. Which statement about Kalaripayattu is correct?
+
+A. It is a martial tradition associated especially with Kerala, marked by footwork, mock duels and a training-space logic implied by the word kalari.  
+B. It is a Vaishnavite shadow-puppet performance of coastal Karnataka.  
+C. It is a Gujarati folk theatre built around pot-balancing.  
+D. It is the same as the Prakrit-speaking Vidusaka role in Sanskrit theatre.  
 
 **Answer: A.**
-**Explanation:** Kutiyattam preserves a living Kerala Sanskrit-theatre lineage with codified gesture, Sanskrit-Prakrit-Malayalam use, Nirvahana and temple-theatre institutions; Sanskrit theatre is therefore not wholly extinct. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q30. Which chronology card should be filed under Kutiyattam continuity?
+**Explanation:** A is correct. B confuses it with folk or puppetry forms, C with Bhavai, and D with a classical stage role.
 
-A. Parsi theatre linked commercial multilingual melodrama to early cinema, while IPTA organised theatre around famine and social mobilisation; they represent different modern performance economies.
-B. Kutiyattam preserves a living Kerala Sanskrit-theatre lineage with codified gesture, Sanskrit-Prakrit-Malayalam use, Nirvahana and temple-theatre institutions; Sanskrit theatre is therefore not wholly extinct.
-C. Colonial urban theatre adopted commercial proscenium spaces and addressed social and political themes; the Dramatic Performances Act of 1876 demonstrates state concern with its political effect.
-D. Prithvi Theatre, Sangeet Natak Akademi, National School of Drama and regional repertories shifted support toward touring, ticketing, grants and formal training.
+### Q26. Which statement correctly matches martial-performance traditions?
+
+A. Gatka belongs to the Chakyar temple-theatre lineage of Kerala.  
+B. Thang-ta is a Meitei martial tradition of Manipur centred on sword and spear, while Pari-khanda is associated with sword-and-shield practice in Bihar and has links to Chhau movement vocabulary.  
+C. Silambam is a rod-puppet form of eastern India.  
+D. Pari-khanda is a Marathi commercial theatre founded in 1944.  
 
 **Answer: B.**
-**Explanation:** Kutiyattam preserves a living Kerala Sanskrit-theatre lineage with codified gesture, Sanskrit-Prakrit-Malayalam use, Nirvahana and temple-theatre institutions; Sanskrit theatre is therefore not wholly extinct. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q31. Which option preserves the source-bounded meaning of Kutiyattam continuity?
+**Explanation:** B is correct because it preserves region and weapon logic. A misplaces Gatka, C confuses martial art with puppetry, and D turns a martial practice into a modern theatre company.
 
-A. Parsi theatre linked commercial multilingual melodrama to early cinema, while IPTA organised theatre around famine and social mobilisation; they represent different modern performance economies.
-B. Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region.
-C. Kutiyattam preserves a living Kerala Sanskrit-theatre lineage with codified gesture, Sanskrit-Prakrit-Malayalam use, Nirvahana and temple-theatre institutions; Sanskrit theatre is therefore not wholly extinct.
-D. Prithvi Theatre, Sangeet Natak Akademi, National School of Drama and regional repertories shifted support toward touring, ticketing, grants and formal training.
+### Q27. Which statement best captures the ritual-devotional-public performance ecology of this topic?
+
+A. All performance traditions in Topic 10 are reducible to dance grammar and should be answered under Topic 09.  
+B. Any form with musical accompaniment automatically belongs to Topic 08 instead of theatre.  
+C. Forms may be ritual, devotional, satirical, martial or public-entertainment oriented; the safest answer identifies the dominant ecology before discussing borrowed movement or music.  
+D. Only Sanskrit theatre deserves analytical treatment; folk and ritual forms are too mixed to classify.  
 
 **Answer: C.**
-**Explanation:** Kutiyattam preserves a living Kerala Sanskrit-theatre lineage with codified gesture, Sanskrit-Prakrit-Malayalam use, Nirvahana and temple-theatre institutions; Sanskrit theatre is therefore not wholly extinct. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q32. Which statement avoids a close-option trap about Kutiyattam continuity?
+**Explanation:** C is correct because it provides the topic's functional classification rule. A and B erase ownership boundaries, while D ignores the whole folk-performance bank.
 
-A. Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region.
-B. Prithvi Theatre, Sangeet Natak Akademi, National School of Drama and regional repertories shifted support toward touring, ticketing, grants and formal training.
-C. Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers.
-D. Kutiyattam preserves a living Kerala Sanskrit-theatre lineage with codified gesture, Sanskrit-Prakrit-Malayalam use, Nirvahana and temple-theatre institutions; Sanskrit theatre is therefore not wholly extinct.
+### Q28. Which statement should be avoided in a question on martial or ritual performance?
+
+A. A form may shift between combat training and choreographed public display.  
+B. Weapon, pedagogy and occasion are better discriminators than generic antiquity claims.  
+C. Borrowing movement from dance does not automatically convert a martial performance into a classical dance form.  
+D. Every martial or ritual performance may be written as the same timeless, unchanging ancient Indian art without separate regional grammar.  
 
 **Answer: D.**
-**Explanation:** Kutiyattam preserves a living Kerala Sanskrit-theatre lineage with codified gesture, Sanskrit-Prakrit-Malayalam use, Nirvahana and temple-theatre institutions; Sanskrit theatre is therefore not wholly extinct. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q33. Which statement correctly identifies Folk-theatre arc?
+**Explanation:** D is the unsafe statement because it destroys regional and functional specificity. A, B and C are the safe control lines for this mixed performance field.
 
-A. Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies.
-B. Prithvi Theatre, Sangeet Natak Akademi, National School of Drama and regional repertories shifted support toward touring, ticketing, grants and formal training.
-C. Parsi theatre linked commercial multilingual melodrama to early cinema, while IPTA organised theatre around famine and social mobilisation; they represent different modern performance economies.
-D. Colonial urban theatre adopted commercial proscenium spaces and addressed social and political themes; the Dramatic Performances Act of 1876 demonstrates state concern with its political effect.
+### Q29. Which boundary statement is safest?
+
+A. Topic 10 owns dramatic composition, stage relation and puppet mechanism, while music systems, dance grammar, literary history and the full UNESCO/SNA ledgers belong elsewhere.  
+B. Topic 10 should retell the whole history of raga and tala because theatre uses music.  
+C. Topic 10 must absorb every classical-dance technical question because some theatre forms use gesture.  
+D. Topic 10 is identical with Topic 11 because plays are written texts.  
 
 **Answer: A.**
-**Explanation:** Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q34. Which chronology card should be filed under Folk-theatre arc?
+**Explanation:** A is correct because it preserves syllabus ownership and prevents duplication. B, C and D each erase necessary boundaries with Music, Dance or Literature.
 
-A. Parsi theatre linked commercial multilingual melodrama to early cinema, while IPTA organised theatre around famine and social mobilisation; they represent different modern performance economies.
-B. Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies.
-C. Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region.
-D. Prithvi Theatre, Sangeet Natak Akademi, National School of Drama and regional repertories shifted support toward touring, ticketing, grants and formal training.
+### Q30. Which modern-theatre sequence is correctly ordered in broad terms?
 
-**Answer: B.**
-**Explanation:** Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q35. Which option preserves the source-bounded meaning of Folk-theatre arc?
-
-A. Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers.
-B. Prithvi Theatre, Sangeet Natak Akademi, National School of Drama and regional repertories shifted support toward touring, ticketing, grants and formal training.
-C. Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies.
-D. Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region.
-
-**Answer: C.**
-**Explanation:** Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about Folk-theatre arc?
-
-A. Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers.
-B. Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region.
-C. Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary.
-D. Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies.
-
-**Answer: D.**
-**Explanation:** Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies Modern proscenium and law?
-
-A. Colonial urban theatre adopted commercial proscenium spaces and addressed social and political themes; the Dramatic Performances Act of 1876 demonstrates state concern with its political effect.
-B. Prithvi Theatre, Sangeet Natak Akademi, National School of Drama and regional repertories shifted support toward touring, ticketing, grants and formal training.
-C. Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region.
-D. Parsi theatre linked commercial multilingual melodrama to early cinema, while IPTA organised theatre around famine and social mobilisation; they represent different modern performance economies.
-
-**Answer: A.**
-**Explanation:** Colonial urban theatre adopted commercial proscenium spaces and addressed social and political themes; the Dramatic Performances Act of 1876 demonstrates state concern with its political effect. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under Modern proscenium and law?
-
-A. Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region.
-B. Colonial urban theatre adopted commercial proscenium spaces and addressed social and political themes; the Dramatic Performances Act of 1876 demonstrates state concern with its political effect.
-C. Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers.
-D. Prithvi Theatre, Sangeet Natak Akademi, National School of Drama and regional repertories shifted support toward touring, ticketing, grants and formal training.
+A. NSD independence -> Natya Shastra -> Calcutta Theatre -> Parsi theatre  
+B. Colonial urban proscenium -> commercial stage and censorship -> political and touring theatre -> post-Independence institutional consolidation  
+C. UNESCO inscription -> ten rupakas -> Bhakti-era Jatra -> Chakyar temple theatre  
+D. Puppetry decline -> Harappan origin -> Third Theatre -> Sanskrit stage  
 
 **Answer: B.**
-**Explanation:** Colonial urban theatre adopted commercial proscenium spaces and addressed social and political themes; the Dramatic Performances Act of 1876 demonstrates state concern with its political effect. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q39. Which option preserves the source-bounded meaning of Modern proscenium and law?
+**Explanation:** B is correct because it follows the topic's actual chronology. The other options scramble chronology or merge unrelated subfields.
 
-A. Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers.
-B. Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary.
-C. Colonial urban theatre adopted commercial proscenium spaces and addressed social and political themes; the Dramatic Performances Act of 1876 demonstrates state concern with its political effect.
-D. Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region.
+### Q31. Which concluding statement about decline and safeguarding is safest?
 
-**Answer: C.**
-**Explanation:** Colonial urban theatre adopted commercial proscenium spaces and addressed social and political themes; the Dramatic Performances Act of 1876 demonstrates state concern with its political effect. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Modern proscenium and law?
-
-A. Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary.
-B. Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers.
-C. Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms.
-D. Colonial urban theatre adopted commercial proscenium spaces and addressed social and political themes; the Dramatic Performances Act of 1876 demonstrates state concern with its political effect.
-
-**Answer: D.**
-**Explanation:** Colonial urban theatre adopted commercial proscenium spaces and addressed social and political themes; the Dramatic Performances Act of 1876 demonstrates state concern with its political effect. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Parsi and political theatre?
-
-A. Parsi theatre linked commercial multilingual melodrama to early cinema, while IPTA organised theatre around famine and social mobilisation; they represent different modern performance economies.
-B. Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers.
-C. Prithvi Theatre, Sangeet Natak Akademi, National School of Drama and regional repertories shifted support toward touring, ticketing, grants and formal training.
-D. Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region.
-
-**Answer: A.**
-**Explanation:** Parsi theatre linked commercial multilingual melodrama to early cinema, while IPTA organised theatre around famine and social mobilisation; they represent different modern performance economies. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Parsi and political theatre?
-
-A. Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region.
-B. Parsi theatre linked commercial multilingual melodrama to early cinema, while IPTA organised theatre around famine and social mobilisation; they represent different modern performance economies.
-C. Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary.
-D. Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers.
-
-**Answer: B.**
-**Explanation:** Parsi theatre linked commercial multilingual melodrama to early cinema, while IPTA organised theatre around famine and social mobilisation; they represent different modern performance economies. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Parsi and political theatre?
-
-A. Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers.
-B. Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary.
-C. Parsi theatre linked commercial multilingual melodrama to early cinema, while IPTA organised theatre around famine and social mobilisation; they represent different modern performance economies.
-D. Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms.
+A. Sanskrit theatre and puppetry represent exactly the same kind of decline and therefore need the same answer.  
+B. Kutiyattam proves that no historical contraction of Sanskrit theatre ever took place.  
+C. The topic is analytically strongest when it separates the historical contraction of Sanskrit theatre from the ongoing audience-and-livelihood vulnerability of living puppetry and related performance traditions.  
+D. Once a form is old, safeguarding becomes irrelevant because age guarantees continuity.  
 
 **Answer: C.**
-**Explanation:** Parsi theatre linked commercial multilingual melodrama to early cinema, while IPTA organised theatre around famine and social mobilisation; they represent different modern performance economies. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q44. Which statement avoids a close-option trap about Parsi and political theatre?
+**Explanation:** C is correct because it preserves the advanced distinction between completed historical contraction and ongoing living vulnerability. A, B and D each flatten a key analytical difference.
 
-A. Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms.
-B. References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone.
-C. Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary.
-D. Parsi theatre linked commercial multilingual melodrama to early cinema, while IPTA organised theatre around famine and social mobilisation; they represent different modern performance economies.
+### Q32. Which final statement should be avoided?
 
-**Answer: D.**
-**Explanation:** Parsi theatre linked commercial multilingual melodrama to early cinema, while IPTA organised theatre around famine and social mobilisation; they represent different modern performance economies. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Institutional modern stage?
-
-A. Prithvi Theatre, Sangeet Natak Akademi, National School of Drama and regional repertories shifted support toward touring, ticketing, grants and formal training.
-B. Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers.
-C. Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary.
-D. Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region.
-
-**Answer: A.**
-**Explanation:** Prithvi Theatre, Sangeet Natak Akademi, National School of Drama and regional repertories shifted support toward touring, ticketing, grants and formal training. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Institutional modern stage?
-
-A. Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary.
-B. Prithvi Theatre, Sangeet Natak Akademi, National School of Drama and regional repertories shifted support toward touring, ticketing, grants and formal training.
-C. Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms.
-D. Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers.
-
-**Answer: B.**
-**Explanation:** Prithvi Theatre, Sangeet Natak Akademi, National School of Drama and regional repertories shifted support toward touring, ticketing, grants and formal training. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Institutional modern stage?
-
-A. Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary.
-B. References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone.
-C. Prithvi Theatre, Sangeet Natak Akademi, National School of Drama and regional repertories shifted support toward touring, ticketing, grants and formal training.
-D. Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms.
-
-**Answer: C.**
-**Explanation:** Prithvi Theatre, Sangeet Natak Akademi, National School of Drama and regional repertories shifted support toward touring, ticketing, grants and formal training. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Institutional modern stage?
-
-A. Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms.
-B. References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone.
-C. The owner documents lack of funding and captive audience as current pressures and names Anupama Hoskere, Dhaatu and a 2020 SNA Puraskar as a bounded revival example.
-D. Prithvi Theatre, Sangeet Natak Akademi, National School of Drama and regional repertories shifted support toward touring, ticketing, grants and formal training.
+A. Use one discriminating feature to identify each theatre or puppetry form.  
+B. Keep present state labels as reference tools rather than ancient political certainties.  
+C. Treat living traditions as performance ecologies involving artists, audiences and institutions.  
+D. All folk, puppet and performance traditions may be safely reduced to colourful leftovers once Sanskrit theatre declined.  
 
 **Answer: D.**
-**Explanation:** Prithvi Theatre, Sangeet Natak Akademi, National School of Drama and regional repertories shifted support toward touring, ticketing, grants and formal training. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q49. Which statement correctly identifies Four puppetry mechanisms?
-
-A. Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region.
-B. Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary.
-C. Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers.
-D. Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms.
-
-**Answer: A.**
-**Explanation:** Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Four puppetry mechanisms?
-
-A. Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms.
-B. Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region.
-C. Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary.
-D. References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone.
-
-**Answer: B.**
-**Explanation:** Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Four puppetry mechanisms?
-
-A. References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone.
-B. The owner documents lack of funding and captive audience as current pressures and names Anupama Hoskere, Dhaatu and a 2020 SNA Puraskar as a bounded revival example.
-C. Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region.
-D. Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms.
-
-**Answer: C.**
-**Explanation:** Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Four puppetry mechanisms?
-
-A. Kalaripayattu, Silambam, Thang-ta, Gatka, Mardani Khel and Pari-khanda or Chhau-linked forms differ by weapon, pedagogy, community and degree of staged display.
-B. The owner documents lack of funding and captive audience as current pressures and names Anupama Hoskere, Dhaatu and a 2020 SNA Puraskar as a bounded revival example.
-C. References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone.
-D. Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region.
-
-**Answer: D.**
-**Explanation:** Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies String-puppet distinctions?
-
-A. Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers.
-B. Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms.
-C. Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary.
-D. References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone.
-
-**Answer: A.**
-**Explanation:** Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under String-puppet distinctions?
-
-A. Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms.
-B. Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers.
-C. References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone.
-D. The owner documents lack of funding and captive audience as current pressures and names Anupama Hoskere, Dhaatu and a 2020 SNA Puraskar as a bounded revival example.
-
-**Answer: B.**
-**Explanation:** Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of String-puppet distinctions?
-
-A. Kalaripayattu, Silambam, Thang-ta, Gatka, Mardani Khel and Pari-khanda or Chhau-linked forms differ by weapon, pedagogy, community and degree of staged display.
-B. The owner documents lack of funding and captive audience as current pressures and names Anupama Hoskere, Dhaatu and a 2020 SNA Puraskar as a bounded revival example.
-C. Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers.
-D. References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone.
-
-**Answer: C.**
-**Explanation:** Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about String-puppet distinctions?
-
-A. Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses.
-B. Kalaripayattu, Silambam, Thang-ta, Gatka, Mardani Khel and Pari-khanda or Chhau-linked forms differ by weapon, pedagogy, community and degree of staged display.
-C. The owner documents lack of funding and captive audience as current pressures and names Anupama Hoskere, Dhaatu and a 2020 SNA Puraskar as a bounded revival example.
-D. Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers.
-
-**Answer: D.**
-**Explanation:** Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Shadow-puppet distinctions?
-
-A. Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary.
-B. References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone.
-C. Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms.
-D. The owner documents lack of funding and captive audience as current pressures and names Anupama Hoskere, Dhaatu and a 2020 SNA Puraskar as a bounded revival example.
-
-**Answer: A.**
-**Explanation:** Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Shadow-puppet distinctions?
-
-A. The owner documents lack of funding and captive audience as current pressures and names Anupama Hoskere, Dhaatu and a 2020 SNA Puraskar as a bounded revival example.
-B. Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary.
-C. References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone.
-D. Kalaripayattu, Silambam, Thang-ta, Gatka, Mardani Khel and Pari-khanda or Chhau-linked forms differ by weapon, pedagogy, community and degree of staged display.
-
-**Answer: B.**
-**Explanation:** Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Shadow-puppet distinctions?
-
-A. Kalaripayattu, Silambam, Thang-ta, Gatka, Mardani Khel and Pari-khanda or Chhau-linked forms differ by weapon, pedagogy, community and degree of staged display.
-B. Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses.
-C. Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary.
-D. The owner documents lack of funding and captive audience as current pressures and names Anupama Hoskere, Dhaatu and a 2020 SNA Puraskar as a bounded revival example.
-
-**Answer: C.**
-**Explanation:** Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Shadow-puppet distinctions?
-
-A. Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas.
-B. Kalaripayattu, Silambam, Thang-ta, Gatka, Mardani Khel and Pari-khanda or Chhau-linked forms differ by weapon, pedagogy, community and degree of staged display.
-C. Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses.
-D. Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary.
-
-**Answer: D.**
-**Explanation:** Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Rod and glove distinctions?
-
-A. Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms.
-B. References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone.
-C. Kalaripayattu, Silambam, Thang-ta, Gatka, Mardani Khel and Pari-khanda or Chhau-linked forms differ by weapon, pedagogy, community and degree of staged display.
-D. The owner documents lack of funding and captive audience as current pressures and names Anupama Hoskere, Dhaatu and a 2020 SNA Puraskar as a bounded revival example.
-
-**Answer: A.**
-**Explanation:** Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Rod and glove distinctions?
-
-A. Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses.
-B. Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms.
-C. Kalaripayattu, Silambam, Thang-ta, Gatka, Mardani Khel and Pari-khanda or Chhau-linked forms differ by weapon, pedagogy, community and degree of staged display.
-D. The owner documents lack of funding and captive audience as current pressures and names Anupama Hoskere, Dhaatu and a 2020 SNA Puraskar as a bounded revival example.
-
-**Answer: B.**
-**Explanation:** Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Rod and glove distinctions?
-
-A. Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses.
-B. Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas.
-C. Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms.
-D. Kalaripayattu, Silambam, Thang-ta, Gatka, Mardani Khel and Pari-khanda or Chhau-linked forms differ by weapon, pedagogy, community and degree of staged display.
-
-**Answer: C.**
-**Explanation:** Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Rod and glove distinctions?
-
-A. Lokadharmi denotes realistic representation of daily life, while Natyadharmi denotes conventional, stylised and symbolic narration.
-B. Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas.
-C. Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses.
-D. Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms.
-
-**Answer: D.**
-**Explanation:** Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Puppetry as archive?
-
-A. References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone.
-B. The owner documents lack of funding and captive audience as current pressures and names Anupama Hoskere, Dhaatu and a 2020 SNA Puraskar as a bounded revival example.
-C. Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses.
-D. Kalaripayattu, Silambam, Thang-ta, Gatka, Mardani Khel and Pari-khanda or Chhau-linked forms differ by weapon, pedagogy, community and degree of staged display.
-
-**Answer: A.**
-**Explanation:** References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Puppetry as archive?
-
-A. Kalaripayattu, Silambam, Thang-ta, Gatka, Mardani Khel and Pari-khanda or Chhau-linked forms differ by weapon, pedagogy, community and degree of staged display.
-B. References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone.
-C. Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses.
-D. Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas.
-
-**Answer: B.**
-**Explanation:** References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Puppetry as archive?
-
-A. Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas.
-B. Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses.
-C. References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone.
-D. Lokadharmi denotes realistic representation of daily life, while Natyadharmi denotes conventional, stylised and symbolic narration.
-
-**Answer: C.**
-**Explanation:** References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Puppetry as archive?
-
-A. Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Ihamriga and Utsrishtikanka form the recorded ten-rupaka classification.
-B. Lokadharmi denotes realistic representation of daily life, while Natyadharmi denotes conventional, stylised and symbolic narration.
-C. Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas.
-D. References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone.
-
-**Answer: D.**
-**Explanation:** References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Current puppetry vulnerability?
-
-A. The owner documents lack of funding and captive audience as current pressures and names Anupama Hoskere, Dhaatu and a 2020 SNA Puraskar as a bounded revival example.
-B. Kalaripayattu, Silambam, Thang-ta, Gatka, Mardani Khel and Pari-khanda or Chhau-linked forms differ by weapon, pedagogy, community and degree of staged display.
-C. Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas.
-D. Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses.
-
-**Answer: A.**
-**Explanation:** The owner documents lack of funding and captive audience as current pressures and names Anupama Hoskere, Dhaatu and a 2020 SNA Puraskar as a bounded revival example. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Current puppetry vulnerability?
-
-A. Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas.
-B. The owner documents lack of funding and captive audience as current pressures and names Anupama Hoskere, Dhaatu and a 2020 SNA Puraskar as a bounded revival example.
-C. Lokadharmi denotes realistic representation of daily life, while Natyadharmi denotes conventional, stylised and symbolic narration.
-D. Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses.
-
-**Answer: B.**
-**Explanation:** The owner documents lack of funding and captive audience as current pressures and names Anupama Hoskere, Dhaatu and a 2020 SNA Puraskar as a bounded revival example. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Current puppetry vulnerability?
-
-A. Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas.
-B. Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Ihamriga and Utsrishtikanka form the recorded ten-rupaka classification.
-C. The owner documents lack of funding and captive audience as current pressures and names Anupama Hoskere, Dhaatu and a 2020 SNA Puraskar as a bounded revival example.
-D. Lokadharmi denotes realistic representation of daily life, while Natyadharmi denotes conventional, stylised and symbolic narration.
-
-**Answer: C.**
-**Explanation:** The owner documents lack of funding and captive audience as current pressures and names Anupama Hoskere, Dhaatu and a 2020 SNA Puraskar as a bounded revival example. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Current puppetry vulnerability?
-
-A. Lokadharmi denotes realistic representation of daily life, while Natyadharmi denotes conventional, stylised and symbolic narration.
-B. Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Ihamriga and Utsrishtikanka form the recorded ten-rupaka classification.
-C. In Sanskrit theatre the Sutradhar conducts preliminaries and introduces the play; in puppetry the term also evokes the string-holder and narrator.
-D. The owner documents lack of funding and captive audience as current pressures and names Anupama Hoskere, Dhaatu and a 2020 SNA Puraskar as a bounded revival example.
-
-**Answer: D.**
-**Explanation:** The owner documents lack of funding and captive audience as current pressures and names Anupama Hoskere, Dhaatu and a 2020 SNA Puraskar as a bounded revival example. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Martial-performance continuum?
-
-A. Kalaripayattu, Silambam, Thang-ta, Gatka, Mardani Khel and Pari-khanda or Chhau-linked forms differ by weapon, pedagogy, community and degree of staged display.
-B. Lokadharmi denotes realistic representation of daily life, while Natyadharmi denotes conventional, stylised and symbolic narration.
-C. Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses.
-D. Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas.
-
-**Answer: A.**
-**Explanation:** Kalaripayattu, Silambam, Thang-ta, Gatka, Mardani Khel and Pari-khanda or Chhau-linked forms differ by weapon, pedagogy, community and degree of staged display. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Martial-performance continuum?
-
-A. Lokadharmi denotes realistic representation of daily life, while Natyadharmi denotes conventional, stylised and symbolic narration.
-B. Kalaripayattu, Silambam, Thang-ta, Gatka, Mardani Khel and Pari-khanda or Chhau-linked forms differ by weapon, pedagogy, community and degree of staged display.
-C. Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Ihamriga and Utsrishtikanka form the recorded ten-rupaka classification.
-D. Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas.
-
-**Answer: B.**
-**Explanation:** Kalaripayattu, Silambam, Thang-ta, Gatka, Mardani Khel and Pari-khanda or Chhau-linked forms differ by weapon, pedagogy, community and degree of staged display. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Martial-performance continuum?
-
-A. In Sanskrit theatre the Sutradhar conducts preliminaries and introduces the play; in puppetry the term also evokes the string-holder and narrator.
-B. Lokadharmi denotes realistic representation of daily life, while Natyadharmi denotes conventional, stylised and symbolic narration.
-C. Kalaripayattu, Silambam, Thang-ta, Gatka, Mardani Khel and Pari-khanda or Chhau-linked forms differ by weapon, pedagogy, community and degree of staged display.
-D. Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Ihamriga and Utsrishtikanka form the recorded ten-rupaka classification.
-
-**Answer: C.**
-**Explanation:** Kalaripayattu, Silambam, Thang-ta, Gatka, Mardani Khel and Pari-khanda or Chhau-linked forms differ by weapon, pedagogy, community and degree of staged display. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Martial-performance continuum?
-
-A. In Sanskrit theatre the Sutradhar conducts preliminaries and introduces the play; in puppetry the term also evokes the string-holder and narrator.
-B. Nayaka, Nayika and Vidusaka are broad character types, and the Vidusaka's traditional Prakrit speech shows language register marking stage position.
-C. Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Ihamriga and Utsrishtikanka form the recorded ten-rupaka classification.
-D. Kalaripayattu, Silambam, Thang-ta, Gatka, Mardani Khel and Pari-khanda or Chhau-linked forms differ by weapon, pedagogy, community and degree of staged display.
-
-**Answer: D.**
-**Explanation:** Kalaripayattu, Silambam, Thang-ta, Gatka, Mardani Khel and Pari-khanda or Chhau-linked forms differ by weapon, pedagogy, community and degree of staged display. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Two-decline distinction?
-
-A. Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses.
-B. Lokadharmi denotes realistic representation of daily life, while Natyadharmi denotes conventional, stylised and symbolic narration.
-C. Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Ihamriga and Utsrishtikanka form the recorded ten-rupaka classification.
-D. Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas.
-
-**Answer: A.**
-**Explanation:** Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Two-decline distinction?
-
-A. Lokadharmi denotes realistic representation of daily life, while Natyadharmi denotes conventional, stylised and symbolic narration.
-B. Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses.
-C. In Sanskrit theatre the Sutradhar conducts preliminaries and introduces the play; in puppetry the term also evokes the string-holder and narrator.
-D. Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Ihamriga and Utsrishtikanka form the recorded ten-rupaka classification.
-
-**Answer: B.**
-**Explanation:** Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Two-decline distinction?
-
-A. Nayaka, Nayika and Vidusaka are broad character types, and the Vidusaka's traditional Prakrit speech shows language register marking stage position.
-B. Nataka, Prakarana, Bhana, Prahasana, Dima, Vyayoga, Samavakara, Vithi, Ihamriga and Utsrishtikanka form the recorded ten-rupaka classification.
-C. Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses.
-D. In Sanskrit theatre the Sutradhar conducts preliminaries and introduces the play; in puppetry the term also evokes the string-holder and narrator.
-
-**Answer: C.**
-**Explanation:** Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Two-decline distinction?
-
-A. In Sanskrit theatre the Sutradhar conducts preliminaries and introduces the play; in puppetry the term also evokes the string-holder and narrator.
-B. Nayaka, Nayika and Vidusaka are broad character types, and the Vidusaka's traditional Prakrit speech shows language register marking stage position.
-C. The owner records multi-act structure, rare staged tragedy, male protagonists who ordinarily achieve their aim and closure restoring order; these are prescriptive conventions, not a census of every performance.
-D. Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses.
-
-**Answer: D.**
-**Explanation:** Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** D is the false and unsafe conclusion because it trivialises living traditions and destroys the topic's analytical structure. A, B and C are safe closing controls.
 
 ## PYQS AND ANSWER PRACTICE
 
-### TRANSPARENT ZERO-DIRECT-PYQ AUDIT
+### VERIFIED OBJECTIVE / APPLICATION PYQS
 
-No direct routed PYQ for theatre, puppetry or performance traditions appears in the audited 2018-2026 ledgers used by this authoring engine. Older question references inside the Basic owner remain contextual examples and are not promoted into solved PYQ cards without a controlling routed record.
+#### PYQ 1. Which of the following statements about Binodini Dasi, a pioneering figure in Bengali theatre, in the late 19th and early 20th century is/are correct? 1. She was one of the prime movers behind the setting up of the Star Theatre (1883) in Calcutta. 2. She serialised her autobiography Amar Katha (My story) between 1910 and 1913. Select the correct answer using the code given below: (CAPF, 2018)
 
-### OWNER PYQ LEDGER EXTRACTS
+**Answer withheld pending official UPSC key**
 
-#### 7. Exact PYQ application
+**Concept route:** The topic bank and Nitin clearly support Statement 1: Binodini Dasi contributed to founding the Star Theatre in Kolkata in 1883. The same source confirms that `Amar Katha` was published in 1913, but it does not independently verify the paper's precise serialisation wording used in Statement 2. Because no final official or local-official answer key for this exact UPSC objective item was independently verified in-session, the answer letter is withheld even though the conceptual route is recoverable.
 
-⚠️ No GS-I Mains question in the audited 2024-2025 papers directly tests
-theatre or puppetry. This topic supplies vocabulary (Sutradhar, puppetry
-classification) reusable in any future performance-tradition question and
-cross-links with topics 08-09 for shared performance-art vocabulary.
+#### PYQ 2. With reference to India's culture and tradition, what is 'Kalaripayattu'? (CSE, 2014) (a) It is an ancient Bhakti cult of Shaivism still prevalent in some parts of South India. (b) It is an ancient style bronze and brass work still found in Southern part of Coromandel area. (c) It is an ancient form of dance, drama and a living tradition in the Northern part of Malabar. (d) It is an ancient martial art and a living tradition in some parts of South India.
 
-#### 8. Exact PYQ application
+**Answer withheld pending official UPSC key**
 
-⚠️ No GS-I Mains question in the audited 2024-2025 papers directly tests
-this topic. An advanced answer on a hypothetical question about
-safeguarding declining performance traditions should use the completed-
-vs-ongoing decline distinction (Section 2) and the puppetry-as-archive
-framing (Section 4) as its analytical spine.
+**Concept route:** The conceptual elimination route is strong: Kalaripayattu belongs to the martial-performance field, especially Kerala and wider southern India, and not to a Bhakti cult, metal craft or a dance-drama label. However, because no final official or local-official key for the 2014 objective was independently verified inside the approved local key bank used in this repair session, the letter is withheld and only the concept route is printed.
 
-### ORIGINAL MAINS 1 — 10 MARKS
+### DIRECT SOLVED MAINS PYQS
 
-**Question:** Distinguish Lokadharmi and Natyadharmi and explain their dramatic use. Answer in about 150 words.
+#### PYQ-M1. Write a sentence each on any five of the following traditional theatre forms: (a) Bhand Pather (b) Swang (c) Maach (d) Bhaona (e) Mudiyettu (f) Dashavatar. (CSE, 2011)
 
-**Model thesis:** The pair separates realistic representation from stylised symbolic convention and provides a method for analysing how Indian performance moves between everyday action and codified theatrical language.
+**Examiner-ready response bank:**  
+- **Bhand Pather** is the secular, satirical folk theatre of Jammu and Kashmir, performed by Muslims and combining music, dance and social critique.  
+- **Swang / Saang** is a musical-drama tradition of the Rajasthan-Haryana-Malwa belt, using verse, mimicry and instruments such as ektara, harmonium, sarangi, dholak and khartal.  
+- **Maach** is the Malwa folk theatre of Madhya Pradesh, first centred on mythological themes and later widened to romantic tales, with dialogues often delivered as **Rangat Dohas**.  
+- **Bhaona** is the Assamese performance presentation of the Vaishnavite dramatic world of Sankardeva, using Sutradhar narration, songs, music and moral-religious themes.  
+- **Mudiyettu** is a Kerala ritual theatre linked to goddess-centred sacred performance and should be written as ritual performance rather than as a generic folk-dance label.  
+- **Dashavatar** is the Konkan folk-theatre form of Maharashtra-Goa honouring Vishnu's ten incarnations, structured through poorva-ranga and uttara-ranga segments.
 
-**Claim → named evidence → analysis → qualification:**
+#### PYQ-M2. Write about Yakshagana. (CSE, 1995, 2005, 2007)
 
-- Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas.
-- Lokadharmi denotes realistic representation of daily life, while Natyadharmi denotes conventional, stylised and symbolic narration.
-- The owner records multi-act structure, rare staged tragedy, male protagonists who ordinarily achieve their aim and closure restoring order; these are prescriptive conventions, not a census of every performance.
+**Introduction:** Yakshagana is one of the strongest examples of regional Indian theatre because it combines narration, costume, music, movement and devotional storytelling without fitting neatly into only 'dance' or only 'drama'.  
 
-**Qualified conclusion:** The pair separates realistic representation from stylised symbolic convention and provides a method for analysing how Indian performance moves between everyday action and codified theatrical language.
+**Body:** The source-owned bank places Yakshagana in Karnataka and parts of Kerala and links its origin memory to the Vijayanagara court world. It was associated with a performing community called **Jakkula Varu** and later developed into a fuller dance-drama tradition under strong **Vaishnava Bhakti** influence. Its importance for answer-writing lies in its composite nature: elaborate costume and performance energy matter, but so do narration, theme and musical support. It also becomes analytically useful as a cross-link because Karnataka's **Gombeyatta** string puppets borrow their visual design from Yakshagana characters.  
 
-**Demand decoding:** The directive **explain** requires a direct position on “Distinguish Lokadharmi and Natyadharmi and explain their dramatic use. Answer in about 150…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
+**Conclusion:** Yakshagana should therefore be written as a living regional theatre grammar - devotional in inheritance, dramatic in staging and influential beyond its own form.
 
-**Detailed examiner-grade model answer:**
+#### PYQ-M3. Where did the following traditional folk theatres originate? (a) Jatra (b) Tamasha (c) Koodiyattam (d) Bhavai (e) Nautanki (CSE, 1987)
 
-**Introduction and thesis:** The pair separates realistic representation from stylised symbolic convention and provides a method for analysing how Indian performance moves between everyday action and codified theatrical language.
+| Form | Origin / regional field | One safe identifier |
+|---|---|---|
+| **Jatra** | Bengal / eastern India | Open-air theatre associated initially with Chaitanya's Krishna-propagation route |
+| **Tamasha** | Maharashtra | Folk theatre with humour, erotic charge and Lavani accompaniment |
+| **Koodiyattam / Kutiyattam** | Kerala | Living Sanskrit-theatre lineage using Nirvahana and instruments like Mizhavu |
+| **Bhavai** | Gujarat | Dance-rich folk theatre with balancing vessels and Nayaka as the Sutradhar term |
+| **Nautanki** | North India | Lyrical theatre, an offshoot of Swang, often accompanied by Nagada |
 
-**Analytical body:**
+#### PYQ-M4. What efforts have been made to develop theatre in India? Name any two important persons associated with the development of this art. (CSE, 1985)
 
-1. **Claim and named evidence:** Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Lokadharmi denotes realistic representation of daily life, while Natyadharmi denotes conventional, stylised and symbolic narration. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** The owner records multi-act structure, rare staged tragedy, male protagonists who ordinarily achieve their aim and closure restoring order; these are prescriptive conventions, not a census of every performance. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
+**Introduction:** Theatre in modern India developed through a mix of city stages, travelling companies, political collectives and post-Independence institutions rather than through one single reform moment.  
 
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
+**Body:** In the colonial era, proscenium-style urban theatre grew in centres such as Calcutta and Madras, while commercial stages widened audiences and themes. The **Dramatic Performances Act, 1876** ironically proves the political force of theatre because the colonial state felt the need to regulate it. **Parsi theatre** expanded spectacle, music and commercial organisation, then passed talent and style into film. In the twentieth century, the **Indian People's Theatre Association (1943)** used theatre for mass social intervention; **Prithvi Theatre (1944)** used mobility as a distribution strategy; and after Independence institutions such as the **Sangeet Natak Akademi (1952)** and the **National School of Drama** helped training, repertory and public legitimacy. Regional initiatives such as **Kalakshetra Manipur** and **NINASAM** deepened the field beyond metropolitan centres.  
 
-**Qualified conclusion:** The pair separates realistic representation from stylised symbolic convention and provides a method for analysing how Indian performance moves between everyday action and codified theatrical language.
+Two important persons may be named from different moments: **Binodini Dasi**, for Bengali stage professionalism and the Star Theatre story, and **Badal Sircar**, for Third Theatre's socially conscious minimalist intervention.  
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence definition and thesis; organise three named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
+**Conclusion:** Development of Indian theatre was therefore institutional, public and regional - not merely literary.
 
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
+### ORIGINAL MAINS ANSWERS
 
-**How to improve this answer:** For “Distinguish Lokadharmi and Natyadharmi and explain their dramatic use. Answer in about 150…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
+### Original Q1. Explain why Natya Shastra vocabulary is indispensable for answering questions on Indian theatre. (10 marks, 150 words)
 
-### ORIGINAL MAINS 2 — 10 MARKS
+Indian theatre becomes answerable only when its technical vocabulary is kept exact. `Natya Shastra` frames performance as composite art, so the candidate can write theatre as text plus enactment plus music plus rasa instead of as literature alone. The Lokadharmi-Natyadharmi distinction then separates realistic depiction from stylised convention. The ten rupakas show genre classification, while the Sutradhar explains how the play is ritually and performatively introduced. Character categories such as Nayaka, Nayika and Vidusaka add the stage-social dimension, and the Vidusaka's Prakrit preserves a language-register clue. This vocabulary matters because UPSC frequently asks culture questions through close options where all terms are real but only one is accurately used. Without terminological precision, the answer collapses into ornamental generalisation rather than dramaturgic analysis.
 
-**Question:** Classify Indian puppetry by mechanism with named examples. Answer in about 150 words.
+### Original Q2. Why should Kutiyattam be used to qualify, rather than erase, the decline of Sanskrit theatre? (10 marks, 150 words)
 
-**Model thesis:** String, shadow, rod and glove forms are defined by control technology; Kathputli, Tholu Bommalata, Putul Nach and Pavakoothu should be matched to mechanism and region.
+Kutiyattam is crucial because it proves survival of a lineage without cancelling the historical contraction of the broader Sanskrit-theatre world. The source records real decline mechanisms for Sanskrit drama: writers moved to poems and songs, difficult Sanskrit lost reach, and patronage shifted. Yet Kutiyattam in Kerala preserved a living performance line through multilingual enactment, Nirvahana, Mizhavu-Edakka accompaniment and hereditary training. UNESCO's official page reinforces this by describing it as one of India's oldest living theatrical traditions and a synthesis of Sanskrit classicism with local Kerala practice. Therefore the best answer is balanced: Sanskrit theatre did decline as a large civilisational stage system, but it did not vanish without residue. Kutiyattam is not evidence of unchanged continuity everywhere; it is evidence of a durable regional survival mechanism.
 
-**Claim → named evidence → analysis → qualification:**
+### Original Q3. Compare Jatra, Nautanki, Tamasha and Bhavai as public theatres. (15 marks, 250 words)
 
-- Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region.
-- Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers.
-- Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary.
-- Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms.
+**Introduction:** Regional public theatres in India are best compared through audience relation, musical delivery, thematic field and stage marker rather than through a simple folk-versus-classical divide.  
 
-**Qualified conclusion:** String, shadow, rod and glove forms are defined by control technology; Kathputli, Tholu Bommalata, Putul Nach and Pavakoothu should be matched to mechanism and region.
+**Body:** **Jatra** belongs to the eastern/Bengal field and is structurally memorable as an open-air theatre. It begins from Chaitanya's Krishna-propagation route and later broadens to secular, historical and patriotic themes. **Nautanki** is the north Indian offshoot of Swang and is recognised by lyrical dialogue delivery with **Nagada** accompaniment; its later Kanpur and Lucknow schools show internal differentiation. **Tamasha** of Maharashtra is marked by humour, erotic charge and **Lavani** linkage, with the striking feature that women may play male roles. **Bhavai** of Gujarat combines dance with a series of smaller plays, uses semi-classical folk music and remembers its Sutradhar as the **Nayaka**; balancing earthen pots or brass pitchers becomes a crisp identifier.  
 
-**Demand decoding:** The directive **answer** requires a direct position on “Classify Indian puppetry by mechanism with named examples. Answer in about 150 words.”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
+**Analysis:** All four forms are public and performative, but their publics are organised differently: Jatra through open-air collective circulation, Nautanki through lyrical theatre, Tamasha through performative charisma and Bhavai through dance-rich episodic staging.  
 
-**Detailed examiner-grade model answer:**
+**Conclusion:** A good answer therefore distinguishes them through their discriminating marker instead of calling all of them simply 'popular folk drama'.
 
-**Introduction and thesis:** String, shadow, rod and glove forms are defined by control technology; Kathputli, Tholu Bommalata, Putul Nach and Pavakoothu should be matched to mechanism and region.
+### Original Q4. Classify Indian puppetry and explain why mechanism-region matching matters. (15 marks, 250 words)
 
-**Analytical body:**
+**Introduction:** Indian puppetry is one of the clearest art-form topics where classification directly decides accuracy. Mechanism comes before regional example.  
 
-1. **Claim and named evidence:** Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
+**Body:** The source classifies puppetry into **string, shadow, rod and glove** forms. String puppets include **Kathputli** of Rajasthan, known for legless wooden dolls controlled by finger-tied strings; **Kundhei** of Odisha, with more joints and marked Odissi influence; and **Gombeyatta** of Karnataka, designed after Yakshagana characters and sometimes using more than one puppeteer. Shadow puppetry includes **Tolpava Kuthu** of Kerala, **Ravana Chhaya** of Odisha and **Tholu Bommalata** of Andhra Pradesh; here screen, light and silhouette are decisive. Rod forms include **Yampuri**, **Putul Nach** and **Kathi Kundhei**, while **Pavakoothu** exemplifies glove puppetry.  
 
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
+**Analysis:** Mechanism-region matching matters because close-option prelims often present only one altered clue. If Tholu Bommalata is mislabelled as string instead of shadow, or Pavakoothu is confused with Tolpava Kuthu, the entire answer collapses. Mechanism also reveals performance ecology - scale, narration, portability and audience relation.  
 
-**Qualified conclusion:** String, shadow, rod and glove forms are defined by control technology; Kathputli, Tholu Bommalata, Putul Nach and Pavakoothu should be matched to mechanism and region.
+**Conclusion:** Indian puppetry should therefore be remembered as control-system plus region plus one visual discriminator, not as a flat list of names.
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence definition and thesis; organise three named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
+### Original Q5. Trace the trajectory of Indian theatre from the Sanskrit stage to modern institutional and street theatre. (20 marks, 250 words)
 
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
+**Introduction:** The history of Indian theatre is not a straight line from 'classical' to 'modern'; it is a sequence of changing publics, languages, institutions and performance economies.  
 
-**How to improve this answer:** For “Classify Indian puppetry by mechanism with named examples. Answer in about 150 words.”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
+**Body:** The classical point of departure is the `Natya Shastra`, which codifies dramaturgy, stage roles, language register and dramatic conventions. Sanskrit theatre records multi-act structure, ordered progression, rare tragedy and Sutradhar-led beginnings. Its contraction followed literary shift, linguistic difficulty and changed patronage, yet survival was not extinguished because **Kutiyattam** in Kerala preserved a living Sanskrit-theatre lineage. Alongside and after this contraction, regional **folk theatres** developed strong local ecologies: devotional origins, later heroic and romantic expansion, and eventually social communication roles. The colonial city then transformed theatre again. **Calcutta Theatre (1775)**, proscenium architecture, commercial stages and the **Dramatic Performances Act (1876)** mark a new public sphere. **Parsi theatre** created a colourful commercial mass stage and bridged towards cinema. In the twentieth century, **Tagore**, **Binodini Dasi**, **IPTA (1943)**, **Prithvi Theatre (1944)** and later **Badal Sircar's Third Theatre** widened the range from literary-nationalist to political to minimalist-direct theatre. After Independence, **Sangeet Natak Akademi** and **National School of Drama** consolidated training and legitimacy, while **NINASAM**, **Kalakshetra Manipur** and similar bodies regionalised modern renewal.  
 
-### ORIGINAL MAINS 3 — 15 MARKS
+**Conclusion:** Indian theatre thus moves from codified dramaturgy to regional public performance to colonial-commercial hybridity and finally to institutional, travelling and experimental modern publics.
 
-**Question:** Why did Sanskrit theatre contract, and in what sense does Kutiyattam complicate a decline narrative? Answer in about 250 words.
+### Original Q6. 'Living performance traditions require audiences as much as archives.' Discuss with reference to puppetry and folk theatre. (20 marks, 250 words)
 
-**Model thesis:** Literary, linguistic and patronage shifts weakened court Sanskrit drama, but a regional temple institution preserved living performance; contraction is therefore not extinction.
+**Introduction:** Heritage survives differently depending on whether the form is already a historical residue or still a living public art. Puppetry and folk theatre prove this distinction.  
 
-**Claim → named evidence → analysis → qualification:**
+**Body:** Folk theatre and puppetry are not merely texts or artefacts; they are audience-dependent ecologies. The folk-theatre bank shows forms rooted in locality, belief and custom, many of which moved from devotional themes to heroic/romantic and then social-message roles. Their continued survival depends on performative relevance to the public. Puppetry makes the point even more sharply. The source presents it as a composite art that incorporates theatre, music, dance, sculpture and painting, and also as an archive of mythic and philosophical transmission through epic references and the puppeteer metaphor. Yet the same source explicitly states that puppetry is currently declining because of lack of funding and captive audience. That is why revival efforts such as **Anupama Hoskere's Dhaatu** matter: they are not merely preserving objects but sustaining performers, repertories and publics.  
 
-- The source attributes Sanskrit theatre's contraction to writers moving toward poetry and song, difficult rule-bound Sanskrit losing reach, and changed patronage under later courts.
-- Kutiyattam preserves a living Kerala Sanskrit-theatre lineage with codified gesture, Sanskrit-Prakrit-Malayalam use, Nirvahana and temple-theatre institutions; Sanskrit theatre is therefore not wholly extinct.
-- Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses.
+**Analysis:** Archives and documentation are vital, especially for historically contracted traditions, but a living form cannot be reduced to storage. Audience circulation, training, staging and community context are part of the heritage itself.  
 
-**Qualified conclusion:** Literary, linguistic and patronage shifts weakened court Sanskrit drama, but a regional temple institution preserved living performance; contraction is therefore not extinction.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Why did Sanskrit theatre contract, and in what sense does Kutiyattam complicate a decline…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Literary, linguistic and patronage shifts weakened court Sanskrit drama, but a regional temple institution preserved living performance; contraction is therefore not extinction.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The source attributes Sanskrit theatre's contraction to writers moving toward poetry and song, difficult rule-bound Sanskrit losing reach, and changed patronage under later courts. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Kutiyattam preserves a living Kerala Sanskrit-theatre lineage with codified gesture, Sanskrit-Prakrit-Malayalam use, Nirvahana and temple-theatre institutions; Sanskrit theatre is therefore not wholly extinct. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Literary, linguistic and patronage shifts weakened court Sanskrit drama, but a regional temple institution preserved living performance; contraction is therefore not extinction.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Why did Sanskrit theatre contract, and in what sense does Kutiyattam complicate a decline…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Trace the development of modern Indian theatre as a social and political medium. Answer in about 250 words.
-
-**Model thesis:** Colonial proscenium commerce, censorship, Parsi circulation, nationalist-social drama, IPTA mobilisation and post-Independence institutions created successive publics.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies.
-- Colonial urban theatre adopted commercial proscenium spaces and addressed social and political themes; the Dramatic Performances Act of 1876 demonstrates state concern with its political effect.
-- Parsi theatre linked commercial multilingual melodrama to early cinema, while IPTA organised theatre around famine and social mobilisation; they represent different modern performance economies.
-- Prithvi Theatre, Sangeet Natak Akademi, National School of Drama and regional repertories shifted support toward touring, ticketing, grants and formal training.
-
-**Qualified conclusion:** Colonial proscenium commerce, censorship, Parsi circulation, nationalist-social drama, IPTA mobilisation and post-Independence institutions created successive publics.
-
-**Demand decoding:** The directive **trace** requires a direct position on “Trace the development of modern Indian theatre as a social and political medium. Answer in…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Colonial proscenium commerce, censorship, Parsi circulation, nationalist-social drama, IPTA mobilisation and post-Independence institutions created successive publics.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Colonial urban theatre adopted commercial proscenium spaces and addressed social and political themes; the Dramatic Performances Act of 1876 demonstrates state concern with its political effect. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Parsi theatre linked commercial multilingual melodrama to early cinema, while IPTA organised theatre around famine and social mobilisation; they represent different modern performance economies. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** Prithvi Theatre, Sangeet Natak Akademi, National School of Drama and regional repertories shifted support toward touring, ticketing, grants and formal training. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Colonial proscenium commerce, censorship, Parsi circulation, nationalist-social drama, IPTA mobilisation and post-Independence institutions created successive publics.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Trace the development of modern Indian theatre as a social and political medium. Answer in…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Discuss puppetry as an archive and a vulnerable living tradition. Answer in about 300 words.
-
-**Model thesis:** Mechanism-specific regional forms transmit epics and philosophy through integrated craft, music and theatre, yet current audience and funding pressures require performer-centred safeguarding rather than museum preservation alone.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region.
-- Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers.
-- Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary.
-- Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms.
-- References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone.
-- The owner documents lack of funding and captive audience as current pressures and names Anupama Hoskere, Dhaatu and a 2020 SNA Puraskar as a bounded revival example.
-
-**Qualified conclusion:** Mechanism-specific regional forms transmit epics and philosophy through integrated craft, music and theatre, yet current audience and funding pressures require performer-centred safeguarding rather than museum preservation alone.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss puppetry as an archive and a vulnerable living tradition. Answer in about 300 words.”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Mechanism-specific regional forms transmit epics and philosophy through integrated craft, music and theatre, yet current audience and funding pressures require performer-centred safeguarding rather than museum preservation alone.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Indian puppetry is classified into string, shadow, rod and glove forms; mechanism, construction and movement must be named before region. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Kathputli uses legless finger-string dolls, Kundhei uses more jointed Odissi-influenced figures, and Gombeyatta adapts Yakshagana character design with multiple puppeteers. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Tholu Bommalata, Togalu Gombeyatta and Ravana Chhaya project cut-outs against a lit screen; leather, opacity, scale and regional narrative practice vary. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** Putul Nach and Yampuri use rods from below or behind, while Kerala Pavakoothu uses fingers inside a sleeve-like body to control head and arms. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-5. **Claim and named evidence:** References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-6. **Claim and named evidence:** The owner documents lack of funding and captive audience as current pressures and names Anupama Hoskere, Dhaatu and a 2020 SNA Puraskar as a bounded revival example. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Mechanism-specific regional forms transmit epics and philosophy through integrated craft, music and theatre, yet current audience and funding pressures require performer-centred safeguarding rather than museum preservation alone.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence definition and thesis; organise six to eight named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Discuss puppetry as an archive and a vulnerable living tradition. Answer in about 300 words.”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Examine India's performance traditions as a continuum of ritual, theatre, martial practice and public communication. Answer in about 300 words.
-
-**Model thesis:** Codified Sanskrit drama, folk theatre, puppetry and martial display use different institutions and bodies but repeatedly combine narrative, music, gesture and community; analysis must preserve their distinct ecologies.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas.
-- Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies.
-- References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone.
-- Kalaripayattu, Silambam, Thang-ta, Gatka, Mardani Khel and Pari-khanda or Chhau-linked forms differ by weapon, pedagogy, community and degree of staged display.
-- Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses.
-
-**Qualified conclusion:** Codified Sanskrit drama, folk theatre, puppetry and martial display use different institutions and bodies but repeatedly combine narrative, music, gesture and community; analysis must preserve their distinct ecologies.
-
-**Demand decoding:** The directive **examine** requires a direct position on “Examine India's performance traditions as a continuum of ritual, theatre, martial practice…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Codified Sanskrit drama, folk theatre, puppetry and martial display use different institutions and bodies but repeatedly combine narrative, music, gesture and community; analysis must preserve their distinct ecologies.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Bharata's layered Natyashastra codifies plot, character, rasa, preliminaries and staging while narrating theatre as a Natya Veda assembled from the four Vedas. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Folk theatre developed through devotional themes, romance and local heroes, and later social messages, using regional language and rural performance ecologies. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** References in the Mahabharata and Silappadikaram and the Bhagavad Gita's puppeteer metaphor support puppetry as a vehicle of epic, devotional and philosophical transmission, not children's entertainment alone. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** Kalaripayattu, Silambam, Thang-ta, Gatka, Mardani Khel and Pari-khanda or Chhau-linked forms differ by weapon, pedagogy, community and degree of staged display. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-5. **Claim and named evidence:** Classical Sanskrit theatre underwent historical contraction yet retains living Kutiyattam continuity, while puppetry faces ongoing policy-actionable vulnerability; the two require different safeguarding responses. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Codified Sanskrit drama, folk theatre, puppetry and martial display use different institutions and bodies but repeatedly combine narrative, music, gesture and community; analysis must preserve their distinct ecologies.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence definition and thesis; organise six to eight named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Examine India's performance traditions as a continuum of ritual, theatre, martial practice…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
+**Conclusion:** Therefore, the strongest safeguarding line in this topic is not 'preserve the old art' but 'keep the old art performable before living publics'.

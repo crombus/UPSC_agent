@@ -1,1221 +1,597 @@
 ---
-title: "Indian Music — Solved Practice Workbook"
+title: "Indian Music - Solved Practice Workbook"
 topic_key: indian-art-and-culture-08
 ---
-# Indian Music — Solved Practice Workbook
+# Indian Music - Solved Practice Workbook
+
+> This standalone workbook carries exactly 32 original MCQs with strict ABCD rotation, 12 objective/application PYQs with answer-key discipline, 5 direct solved Mains PYQs and 6 full original Mains answers.
 
 ## BASIC MCQS / REMEDIATION
 
-### Q1. Which statement correctly identifies Saptaswara?
+### CORE UPSC MCQS
 
-A. Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada form the seven-note base shared across Indian classical traditions.
-B. Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat.
-C. A thaat is an unsung Hindustani parent scale of seven notes stated in ascending order, without vaadi-samvadi or an independent emotional identity.
-D. A raga is a melodic entity with aaroha-avaroha, characteristic note hierarchy and phrase, five, six or seven notes, and aesthetic or temporal associations.
+### Q1. Which statement about shruti and swara is safest?
 
-**Answer: A.**
-**Explanation:** Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada form the seven-note base shared across Indian classical traditions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q2. Which chronology card should be filed under Saptaswara?
-
-A. A raga is a melodic entity with aaroha-avaroha, characteristic note hierarchy and phrase, five, six or seven notes, and aesthetic or temporal associations.
-B. Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada form the seven-note base shared across Indian classical traditions.
-C. Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat.
-D. Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure.
-
-**Answer: B.**
-**Explanation:** Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada form the seven-note base shared across Indian classical traditions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q3. Which option preserves the source-bounded meaning of Saptaswara?
-
-A. Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure.
-B. Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws.
-C. Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada form the seven-note base shared across Indian classical traditions.
-D. Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat.
-
-**Answer: C.**
-**Explanation:** Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada form the seven-note base shared across Indian classical traditions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q4. Which statement avoids a close-option trap about Saptaswara?
-
-A. Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta.
-B. Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure.
-C. Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws.
-D. Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada form the seven-note base shared across Indian classical traditions.
-
-**Answer: D.**
-**Explanation:** Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada form the seven-note base shared across Indian classical traditions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q5. Which statement correctly identifies Thaat definition?
-
-A. A thaat is an unsung Hindustani parent scale of seven notes stated in ascending order, without vaadi-samvadi or an independent emotional identity.
-B. Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure.
-C. Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat.
-D. A raga is a melodic entity with aaroha-avaroha, characteristic note hierarchy and phrase, five, six or seven notes, and aesthetic or temporal associations.
+A. Shruti is the microtonal pitch unit, while swara is the usable note organised in musical practice.  
+B. Shruti and swara are interchangeable terms for raga.  
+C. Swara means only the seven ragas of Indian music.  
+D. Shruti is the same as laya because both concern pitch.
 
 **Answer: A.**
-**Explanation:** A thaat is an unsung Hindustani parent scale of seven notes stated in ascending order, without vaadi-samvadi or an independent emotional identity. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q6. Which chronology card should be filed under Thaat definition?
+**Explanation:** A is correct because the core source moves from 22 shrutis to swaras and then to saptak. B erases the distinction, C confuses note with raga, and D confuses pitch with tempo.
 
-A. Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat.
-B. A thaat is an unsung Hindustani parent scale of seven notes stated in ascending order, without vaadi-samvadi or an independent emotional identity.
-C. Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws.
-D. Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure.
+### Q2. Which pair is correctly matched?
+
+A. Venkatamakhin - earliest Sanskrit treatise on music  
+B. Matanga's Brihaddeshi - early text associated with defining raga  
+C. Dattilam - first national academy for performing arts  
+D. Bhatkhande - composer of Gita Govinda
 
 **Answer: B.**
-**Explanation:** A thaat is an unsung Hindustani parent scale of seven notes stated in ascending order, without vaadi-samvadi or an independent emotional identity. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q7. Which option preserves the source-bounded meaning of Thaat definition?
+**Explanation:** B is correct. A is wrong because the earliest Sanskrit music authority in the source is Bharata's `Natyashastra`, while Venkatamakhin is associated with the melakarta system. C confuses a text with Sangeet Natak Akademi. D confuses Bhatkhande with Jayadeva.
 
-A. Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta.
-B. Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws.
-C. A thaat is an unsung Hindustani parent scale of seven notes stated in ascending order, without vaadi-samvadi or an independent emotional identity.
-D. Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure.
+### Q3. Which statement best distinguishes thaat from raga?
+
+A. Both are unsung parent scales with identical functions.  
+B. Raga is the parent scale and thaat is the sung derivative.  
+C. Thaat is an unsung parent scale without vadi-samvadi or emotional personality, whereas raga is a performed melodic entity with note hierarchy and characteristic movement.  
+D. Thaat belongs only to Carnatic music and raga only to Hindustani music.
 
 **Answer: C.**
-**Explanation:** A thaat is an unsung Hindustani parent scale of seven notes stated in ascending order, without vaadi-samvadi or an independent emotional identity. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q8. Which statement avoids a close-option trap about Thaat definition?
+**Explanation:** C is correct because it preserves the exact conceptual split. A and B reverse or flatten the categories. D is false because raga belongs to both traditions, though thaat is specifically a Hindustani pedagogic classification.
 
-A. Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws.
-B. Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta.
-C. V.N. Bhatkhande systematised thaat-based Hindustani pedagogy, while V.D. Paluskar founded Gandharva Mahavidyalaya in 1901 to teach and transmit classical music.
-D. A thaat is an unsung Hindustani parent scale of seven notes stated in ascending order, without vaadi-samvadi or an independent emotional identity.
+### Q4. Which statement about tala and laya is correct?
+
+A. Laya means the same as shruti.  
+B. Tala is a raga with seasonal association.  
+C. Tala is the emotional mood of the composition.  
+D. Tala is the rhythmic cycle, while laya is the tempo that keeps time-span uniform.
 
 **Answer: D.**
-**Explanation:** A thaat is an unsung Hindustani parent scale of seven notes stated in ascending order, without vaadi-samvadi or an independent emotional identity. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q9. Which statement correctly identifies Raga definition?
+**Explanation:** D is correct. A confuses rhythm with pitch, B confuses rhythm with melody, and C confuses rhythm with rasa.
 
-A. A raga is a melodic entity with aaroha-avaroha, characteristic note hierarchy and phrase, five, six or seven notes, and aesthetic or temporal associations.
-B. Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure.
-C. Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat.
-D. Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws.
+### Q5. Which statement best captures the Hindustani-Carnatic comparison?
+
+A. They share older theoretical roots, but differ in grammar, repertoire, patronage ecology and the way improvisation is organised.  
+B. Hindustani alone has improvisation, while Carnatic is wholly fixed.  
+C. Carnatic is simply the southern branch of Persian music.  
+D. The two traditions differ only by language and nothing else.
 
 **Answer: A.**
-**Explanation:** A raga is a melodic entity with aaroha-avaroha, characteristic note hierarchy and phrase, five, six or seven notes, and aesthetic or temporal associations. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q10. Which chronology card should be filed under Raga definition?
+**Explanation:** A is correct because it keeps common roots and real differences together. B ignores Carnatic manodharma, C is historically crude, and D reduces the comparison to a single variable.
 
-A. Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws.
-B. A raga is a melodic entity with aaroha-avaroha, characteristic note hierarchy and phrase, five, six or seven notes, and aesthetic or temporal associations.
-C. Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure.
-D. Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta.
+### Q6. Which sequence best reflects the safe Carnatic concert order taught in the topic?
+
+A. Tillana -> Varnam -> Alapana -> Neraval  
+B. Varnam -> Alapana -> Neraval -> Kalpana swara -> lighter close such as Tillana  
+C. Ghazal -> Dhrupad -> RTP -> Tarana  
+D. Pakhawaj alap -> khayal -> qawwali
 
 **Answer: B.**
-**Explanation:** A raga is a melodic entity with aaroha-avaroha, characteristic note hierarchy and phrase, five, six or seven notes, and aesthetic or temporal associations. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q11. Which option preserves the source-bounded meaning of Raga definition?
+**Explanation:** B is correct because it follows the source-owned Carnatic sequence. A reverses the opening and closing logic. C mixes Hindustani and Carnatic genres carelessly. D invents a false chain.
 
-A. Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta.
-B. V.N. Bhatkhande systematised thaat-based Hindustani pedagogy, while V.D. Paluskar founded Gandharva Mahavidyalaya in 1901 to teach and transmit classical music.
-C. A raga is a melodic entity with aaroha-avaroha, characteristic note hierarchy and phrase, five, six or seven notes, and aesthetic or temporal associations.
-D. Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws.
+### Q7. Which statement about dhrupad is safest?
+
+A. It is primarily a twentieth-century light-classical form.  
+B. It is best identified by harmonium-driven romantic lyrics.  
+C. It is an older, grave Hindustani form marked by alap-led exposition and pakhawaj accompaniment.  
+D. It is identical to thumri in structure and mood.
 
 **Answer: C.**
-**Explanation:** A raga is a melodic entity with aaroha-avaroha, characteristic note hierarchy and phrase, five, six or seven notes, and aesthetic or temporal associations. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q12. Which statement avoids a close-option trap about Raga definition?
+**Explanation:** C is correct. A places dhrupad in the wrong chronology, B gives it the wrong musical profile, and D collapses two very different forms.
 
-A. V.N. Bhatkhande systematised thaat-based Hindustani pedagogy, while V.D. Paluskar founded Gandharva Mahavidyalaya in 1901 to teach and transmit classical music.
-B. Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta.
-C. A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship.
-D. A raga is a melodic entity with aaroha-avaroha, characteristic note hierarchy and phrase, five, six or seven notes, and aesthetic or temporal associations.
+### Q8. Which description best fits khayal?
+
+A. It excludes improvisation and allows only fixed syllables.  
+B. It is a Carnatic percussion form.  
+C. It must always be devotional and Sanskritic.  
+D. It uses short bandishes, allows wide improvisational play and commonly works through bada and chhota khayal.
 
 **Answer: D.**
-**Explanation:** A raga is a melodic entity with aaroha-avaroha, characteristic note hierarchy and phrase, five, six or seven notes, and aesthetic or temporal associations. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q13. Which statement correctly identifies Melakarta and janya?
+**Explanation:** D is correct. A is the opposite of khayal's imagination-based profile. B places it in the wrong tradition and genre. C over-restricts its lyrical world.
 
-A. Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat.
-B. Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure.
-C. Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws.
-D. Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta.
+### Q9. Which statement about thumri is safest?
+
+A. It is a semi-classical form that often combines romantic and devotional expression and is historically linked to Kathak performance worlds.  
+B. It is the oldest form of Vedic chant.  
+C. It is a Carnatic melakarta category.  
+D. It must be sung only by paired male vocalists with pakhawaj.
 
 **Answer: A.**
-**Explanation:** Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q14. Which chronology card should be filed under Melakarta and janya?
+**Explanation:** A is correct. B shifts it to the wrong era, C mistakes a genre for a classification system, and D wrongly imports a dhrupad-style profile.
 
-A. Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws.
-B. Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat.
-C. V.N. Bhatkhande systematised thaat-based Hindustani pedagogy, while V.D. Paluskar founded Gandharva Mahavidyalaya in 1901 to teach and transmit classical music.
-D. Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta.
+### Q10. Which description best fits tappa?
+
+A. A slow meditative form built on long alap alone  
+B. A fast, knotty style with quick turns of phrase, rooted in folk tradition and later refined in court culture  
+C. A temple-only Carnatic hymn with no rhythmic edge  
+D. A system of classifying ragas into 72 parent groups
 
 **Answer: B.**
-**Explanation:** Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q15. Which option preserves the source-bounded meaning of Melakarta and janya?
+**Explanation:** B is correct. A ignores its speed and phrase-work, C misplaces it, and D describes melakarta rather than tappa.
 
-A. A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship.
-B. Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta.
-C. Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat.
-D. V.N. Bhatkhande systematised thaat-based Hindustani pedagogy, while V.D. Paluskar founded Gandharva Mahavidyalaya in 1901 to teach and transmit classical music.
+### Q11. Which statement is safest about tarana and related invention claims?
+
+A. Tarana, qawwali, sitar and tabla can all be assigned with certainty to one inventor.  
+B. Tarana is a purely literary genre with no rhythmic emphasis.  
+C. Tarana is rhythm-driven and fast-patterned, while single-inventor claims around figures such as Amir Khusrau should be treated cautiously unless firmly documented.  
+D. Tarana is another name for laya.
 
 **Answer: C.**
-**Explanation:** Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q16. Which statement avoids a close-option trap about Melakarta and janya?
+**Explanation:** C is correct because it combines form identification with attribution caution. A overclaims, B removes tarana's defining feature, and D confuses genre with tempo.
 
-A. A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship.
-B. V.N. Bhatkhande systematised thaat-based Hindustani pedagogy, while V.D. Paluskar founded Gandharva Mahavidyalaya in 1901 to teach and transmit classical music.
-C. Dagar centres Dhrupad, Darbhanga balances alaap and layakari, Gwalior is the oldest khayal gharana, Kirana stresses swara, Agra blends khayal and Dhrupad-Dhamar, and Patiala favours thumri-ghazal.
-D. Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat.
+### Q12. Which combination is correctly matched?
+
+A. Swami Haridas - first national academy of performing arts  
+B. Bismillah Khan - sitar  
+C. Venkatamakhin - Qawwali at Sufi shrines  
+D. Sadarang - shaping khayal under Muhammad Shah
 
 **Answer: D.**
-**Explanation:** Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q17. Which statement correctly identifies Shared-root comparison?
+**Explanation:** D is correct. A confuses a musician with an institution. B misidentifies Bismillah Khan's instrument; he is associated with the shehnai. C confuses a Carnatic theorist with a devotional form.
 
-A. Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure.
-B. Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws.
-C. V.N. Bhatkhande systematised thaat-based Hindustani pedagogy, while V.D. Paluskar founded Gandharva Mahavidyalaya in 1901 to teach and transmit classical music.
-D. Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta.
+### Q13. Which statement about the Carnatic kriti is safest?
+
+A. It is a highly evolved composed song set to a raga and fixed tala, with the exam-safe structural sequence Pallavi - Anu Pallavi - Charana.  
+B. It is merely another name for thaat.  
+C. It always rejects sahitya in favour of pure percussion.  
+D. It belongs only to Mughal court music.
 
 **Answer: A.**
-**Explanation:** Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q18. Which chronology card should be filed under Shared-root comparison?
+**Explanation:** A is correct. B confuses composition with classification, C reverses Carnatic emphasis on sahitya, and D shifts the form into the wrong historical ecology.
 
-A. V.N. Bhatkhande systematised thaat-based Hindustani pedagogy, while V.D. Paluskar founded Gandharva Mahavidyalaya in 1901 to teach and transmit classical music.
-B. Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure.
-C. Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta.
-D. A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship.
+### Q14. Which pair is correctly matched?
+
+A. Annamacharya - devotional songs to Krishna as the only verified source-owned claim  
+B. Annamacharya - sankirtanas in praise of Lord Venkateswara  
+C. Tyagaraja - founder of Sangeet Natak Akademi  
+D. Kshetrayya - shehnai maestro
 
 **Answer: B.**
-**Explanation:** Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q19. Which option preserves the source-bounded meaning of Shared-root comparison?
+**Explanation:** B is correct because the local verified source explicitly ties Annamacharya to Venkateswara. A repeats the wrong deity. C invents an institutional role. D confuses a composer with an instrument performer.
 
-A. Dagar centres Dhrupad, Darbhanga balances alaap and layakari, Gwalior is the oldest khayal gharana, Kirana stresses swara, Agra blends khayal and Dhrupad-Dhamar, and Patiala favours thumri-ghazal.
-B. V.N. Bhatkhande systematised thaat-based Hindustani pedagogy, while V.D. Paluskar founded Gandharva Mahavidyalaya in 1901 to teach and transmit classical music.
-C. Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure.
-D. A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship.
+### Q15. Which statement should be preferred in an answer on Tyagaraja and Annamacharya?
+
+A. They were clearly contemporaries in the same court.  
+B. Both are safest to identify mainly through Mughal patronage.  
+C. The safer distinction is that Annamacharya's Venkateswara-centred corpus is source-owned, while simplistic contemporaneity claims with Tyagaraja must be avoided.  
+D. Tyagaraja's importance lies only in inventing the shehnai.
 
 **Answer: C.**
-**Explanation:** Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q20. Which statement avoids a close-option trap about Shared-root comparison?
+**Explanation:** C is correct because it mirrors the routed 2018 caution. A asserts a false chronology, B shifts Carnatic figures into the wrong patronage world, and D is entirely unrelated.
 
-A. Dhrupad is an older austere vocal form with vani and gharana lineages, while khayal permits a different improvisational and compositional field; one is not merely the fast version of the other.
-B. Dagar centres Dhrupad, Darbhanga balances alaap and layakari, Gwalior is the oldest khayal gharana, Kirana stresses swara, Agra blends khayal and Dhrupad-Dhamar, and Patiala favours thumri-ghazal.
-C. A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship.
-D. Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure.
+### Q16. Which example best shows ruler-composer-patron overlap?
+
+A. Amir Khusrau's legendary instrument attributions  
+B. Bettiah Gharana's bandish emphasis  
+C. Borgeet in Assam  
+D. Swathi Thirunal Rama Varma composing in both Hindustani and Carnatic styles while also patronising the Thanjavur Quartet
 
 **Answer: D.**
-**Explanation:** Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q21. Which statement correctly identifies Rasa-raga linkage?
+**Explanation:** D is correct because it combines authorship and patronage in one figure. A is an attribution-caution case, B is a gharana feature, and C is a regional devotional-folk tradition.
 
-A. Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws.
-B. A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship.
-C. V.N. Bhatkhande systematised thaat-based Hindustani pedagogy, while V.D. Paluskar founded Gandharva Mahavidyalaya in 1901 to teach and transmit classical music.
-D. Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta.
+### Q17. Which statement about gharana is safest?
+
+A. A gharana is a lineage-based transmission structure that preserves specialised musical skill, repertoire and style across patrons and generations.  
+B. A gharana is simply any modern music school building.  
+C. Gharana is the Carnatic word for melakarta.  
+D. The term is used only for percussion instruments.
 
 **Answer: A.**
-**Explanation:** Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q22. Which chronology card should be filed under Rasa-raga linkage?
+**Explanation:** A is correct because it treats gharana as pedagogy plus patronage ecology. B reduces it to architecture, C confuses it with classification, and D confuses lineage with instrument category.
 
-A. A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship.
-B. Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws.
-C. Dagar centres Dhrupad, Darbhanga balances alaap and layakari, Gwalior is the oldest khayal gharana, Kirana stresses swara, Agra blends khayal and Dhrupad-Dhamar, and Patiala favours thumri-ghazal.
-D. V.N. Bhatkhande systematised thaat-based Hindustani pedagogy, while V.D. Paluskar founded Gandharva Mahavidyalaya in 1901 to teach and transmit classical music.
+### Q18. Which pair is correctly matched?
+
+A. Patiala - strict rejection of thumri and ghazal  
+B. Kirana - precise swara focus associated in the source with Abdul Karim Khan and later exponents such as Bhimsen Joshi  
+C. Dagar - main khayal gharana of Mumbai  
+D. Bhendibazaar - temple mural tradition
 
 **Answer: B.**
-**Explanation:** Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q23. Which option preserves the source-bounded meaning of Rasa-raga linkage?
+**Explanation:** B is correct. A is the opposite of Patiala's profile, C misidentifies Dagar's dhrupad association, and D confuses a gharana with a painting category.
 
-A. A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship.
-B. Dagar centres Dhrupad, Darbhanga balances alaap and layakari, Gwalior is the oldest khayal gharana, Kirana stresses swara, Agra blends khayal and Dhrupad-Dhamar, and Patiala favours thumri-ghazal.
-C. Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws.
-D. Dhrupad is an older austere vocal form with vani and gharana lineages, while khayal permits a different improvisational and compositional field; one is not merely the fast version of the other.
+### Q19. Which statement best corrects the Aurangzeb cliché?
+
+A. Aurangzeb destroyed every form of music across India.  
+B. Aurangzeb personally created the thaat system.  
+C. Court singing was curtailed, but instrumental music, noble and household patronage, veena practice and music literature continued; later khayal also grew under Muhammad Shah.  
+D. The period saw no change in patronage patterns at all.
 
 **Answer: C.**
-**Explanation:** Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q24. Which statement avoids a close-option trap about Rasa-raga linkage?
+**Explanation:** C is correct because it preserves the Satish Chandra correction. A is exaggerated, B is false, and D ignores clear redirection of patronage.
 
-A. Dhrupad is an older austere vocal form with vani and gharana lineages, while khayal permits a different improvisational and compositional field; one is not merely the fast version of the other.
-B. Dagar centres Dhrupad, Darbhanga balances alaap and layakari, Gwalior is the oldest khayal gharana, Kirana stresses swara, Agra blends khayal and Dhrupad-Dhamar, and Patiala favours thumri-ghazal.
-C. Imperial court singing was curtailed, but instruments, elite patronage and music writing continued; Aurangzeb played the veena and Sadarang-Adarang later strengthened khayal under Muhammad Shah.
-D. Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws.
+### Q20. Which statement about instrument classification is safest?
+
+A. Ghatam belongs to the membranophone class because it is struck.  
+B. Sufiana kalam is a member of the Tata Vadya family.  
+C. Shehnai is a genre of Hindustani poetry.  
+D. Instrument questions should be solved by asking what vibrates: string, air column, membrane or the body of the instrument itself.
 
 **Answer: D.**
-**Explanation:** Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q25. Which statement correctly identifies Treatise contribution chain?
+**Explanation:** D is correct because it gives the classification method. A ignores the membrane test, B confuses genre with accompanying instrument, and C misclassifies an aerophone as poetry.
 
-A. Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta.
-B. A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship.
-C. V.N. Bhatkhande systematised thaat-based Hindustani pedagogy, while V.D. Paluskar founded Gandharva Mahavidyalaya in 1901 to teach and transmit classical music.
-D. Dagar centres Dhrupad, Darbhanga balances alaap and layakari, Gwalior is the oldest khayal gharana, Kirana stresses swara, Agra blends khayal and Dhrupad-Dhamar, and Patiala favours thumri-ghazal.
+### Q21. Which of the following belongs to the Tata Vadya family?
+
+A. Santoor  
+B. Shehnai  
+C. Tabla  
+D. Ghatam
 
 **Answer: A.**
-**Explanation:** Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q26. Which chronology card should be filed under Treatise contribution chain?
+**Explanation:** A is correct because the santoor is a string instrument, even though it is struck. B is Sushira, C is Avanaddha, and D is Ghana.
 
-A. Dhrupad is an older austere vocal form with vani and gharana lineages, while khayal permits a different improvisational and compositional field; one is not merely the fast version of the other.
-B. Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta.
-C. A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship.
-D. Dagar centres Dhrupad, Darbhanga balances alaap and layakari, Gwalior is the oldest khayal gharana, Kirana stresses swara, Agra blends khayal and Dhrupad-Dhamar, and Patiala favours thumri-ghazal.
+### Q22. Which statement correctly identifies a Sushira association?
+
+A. Mridangam with Bismillah Khan  
+B. Shehnai with Ustad Bismillah Khan  
+C. Ghatam with Hariprasad Chaurasia  
+D. Santoor with Kathak
 
 **Answer: B.**
-**Explanation:** Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q27. Which option preserves the source-bounded meaning of Treatise contribution chain?
+**Explanation:** B is correct because the shehnai is a wind instrument and Bismillah Khan is its iconic modern exponent in this topic. A assigns the wrong instrument, C confuses Ghana and Sushira, and D does not describe a core source-owned association.
 
-A. Imperial court singing was curtailed, but instruments, elite patronage and music writing continued; Aurangzeb played the veena and Sadarang-Adarang later strengthened khayal under Muhammad Shah.
-B. Dhrupad is an older austere vocal form with vani and gharana lineages, while khayal permits a different improvisational and compositional field; one is not merely the fast version of the other.
-C. Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta.
-D. Dagar centres Dhrupad, Darbhanga balances alaap and layakari, Gwalior is the oldest khayal gharana, Kirana stresses swara, Agra blends khayal and Dhrupad-Dhamar, and Patiala favours thumri-ghazal.
+### Q23. What is the safest test for separating Avanaddha from Ghana instruments?
+
+A. Whether the instrument is used in North India  
+B. Whether the instrument accompanies devotion  
+C. Whether a stretched membrane produces the sound; without the membrane, a struck instrument such as ghatam belongs to Ghana, not Avanaddha.  
+D. Whether the instrument is ancient
 
 **Answer: C.**
-**Explanation:** Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q28. Which statement avoids a close-option trap about Treatise contribution chain?
+**Explanation:** C is correct because the membrane test is the decisive classification rule. A, B and D are secondary or irrelevant factors.
 
-A. Imperial court singing was curtailed, but instruments, elite patronage and music writing continued; Aurangzeb played the veena and Sadarang-Adarang later strengthened khayal under Muhammad Shah.
-B. Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity.
-C. Dhrupad is an older austere vocal form with vani and gharana lineages, while khayal permits a different improvisational and compositional field; one is not merely the fast version of the other.
-D. Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta.
+### Q24. Which combination is correctly matched?
+
+A. Mridangam - Hindustani court khayal marker  
+B. Dotara - Kashmir court instrument only  
+C. Gogona - Rajasthan Manganiyar bow-string instrument  
+D. Santoor - Jammu and Kashmir; associated in the source with Sufiana kalam
 
 **Answer: D.**
-**Explanation:** Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q29. Which statement correctly identifies Modern pedagogy?
+**Explanation:** D is correct. A reverses Carnatic/Hindustani placement, B ignores the Baul-Bengal association, and C confuses an Assamese wind-based folk instrument with the Rajasthani kamaicha world.
 
-A. V.N. Bhatkhande systematised thaat-based Hindustani pedagogy, while V.D. Paluskar founded Gandharva Mahavidyalaya in 1901 to teach and transmit classical music.
-B. Dagar centres Dhrupad, Darbhanga balances alaap and layakari, Gwalior is the oldest khayal gharana, Kirana stresses swara, Agra blends khayal and Dhrupad-Dhamar, and Patiala favours thumri-ghazal.
-C. Dhrupad is an older austere vocal form with vani and gharana lineages, while khayal permits a different improvisational and compositional field; one is not merely the fast version of the other.
-D. A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship.
+### Q25. Which statement about Baul is safest?
+
+A. Baul refers both to a Bengali religious-mystic current and to a folk song tradition shaped by Bhakti and Sufi influences.  
+B. Baul is simply another name for Bharatanatyam.  
+C. Baul denotes only a Hindustani gharana.  
+D. Baul is a purely instrumental Carnatic form.
 
 **Answer: A.**
-**Explanation:** V.N. Bhatkhande systematised thaat-based Hindustani pedagogy, while V.D. Paluskar founded Gandharva Mahavidyalaya in 1901 to teach and transmit classical music. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q30. Which chronology card should be filed under Modern pedagogy?
+**Explanation:** A is correct because the source treats Baul as both social-religious current and song tradition. B, C and D place it in unrelated categories.
 
-A. Imperial court singing was curtailed, but instruments, elite patronage and music writing continued; Aurangzeb played the veena and Sadarang-Adarang later strengthened khayal under Muhammad Shah.
-B. V.N. Bhatkhande systematised thaat-based Hindustani pedagogy, while V.D. Paluskar founded Gandharva Mahavidyalaya in 1901 to teach and transmit classical music.
-C. Dagar centres Dhrupad, Darbhanga balances alaap and layakari, Gwalior is the oldest khayal gharana, Kirana stresses swara, Agra blends khayal and Dhrupad-Dhamar, and Patiala favours thumri-ghazal.
-D. Dhrupad is an older austere vocal form with vani and gharana lineages, while khayal permits a different improvisational and compositional field; one is not merely the fast version of the other.
+### Q26. Which statement about qawwali is safest?
+
+A. It is a type of temple-only Sanskrit hymn.  
+B. It is a devotional performance tradition associated with Sufi shrines and usually sung with group support and instruments such as tabla, dholak and harmonium.  
+C. It is identical to Carnatic kriti.  
+D. It should be described with unquestioned single-inventor certainty.
 
 **Answer: B.**
-**Explanation:** V.N. Bhatkhande systematised thaat-based Hindustani pedagogy, while V.D. Paluskar founded Gandharva Mahavidyalaya in 1901 to teach and transmit classical music. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q31. Which option preserves the source-bounded meaning of Modern pedagogy?
+**Explanation:** B is correct. A places qawwali in the wrong religious and linguistic world. C confuses unrelated traditions. D ignores the explicit invention-caution rule.
 
-A. Dhrupad is an older austere vocal form with vani and gharana lineages, while khayal permits a different improvisational and compositional field; one is not merely the fast version of the other.
-B. Imperial court singing was curtailed, but instruments, elite patronage and music writing continued; Aurangzeb played the veena and Sadarang-Adarang later strengthened khayal under Muhammad Shah.
-C. V.N. Bhatkhande systematised thaat-based Hindustani pedagogy, while V.D. Paluskar founded Gandharva Mahavidyalaya in 1901 to teach and transmit classical music.
-D. Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity.
+### Q27. Which statement is safest about folk music in this topic?
+
+A. Pandavani should be treated only as a percussion instrument.  
+B. Panihari is best explained as a Mughal album genre.  
+C. Folk forms such as Pandavani, Panihari, Maand and Borgeet preserve region, labour, devotion and social memory rather than merely imitating classical music.  
+D. Folk music has no analytical use in Mains answers.
 
 **Answer: C.**
-**Explanation:** V.N. Bhatkhande systematised thaat-based Hindustani pedagogy, while V.D. Paluskar founded Gandharva Mahavidyalaya in 1901 to teach and transmit classical music. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q32. Which statement avoids a close-option trap about Modern pedagogy?
+**Explanation:** C is correct because it captures function and social context. A turns a narrative performance into an instrument, B relocates a Rajasthani folk form into painting, and D ignores a major answer route.
 
-A. Imperial court singing was curtailed, but instruments, elite patronage and music writing continued; Aurangzeb played the veena and Sadarang-Adarang later strengthened khayal under Muhammad Shah.
-B. A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana.
-C. Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity.
-D. V.N. Bhatkhande systematised thaat-based Hindustani pedagogy, while V.D. Paluskar founded Gandharva Mahavidyalaya in 1901 to teach and transmit classical music.
+### Q28. Which conclusion about the relationship between classical and folk traditions is safest?
+
+A. Folk survives only when it becomes khayal.  
+B. Classical and folk never interact.  
+C. Devotional forms automatically erase regional identity.  
+D. Interaction, borrowing and fusion occur, but classical and folk should still be distinguished by setting, transmission and function rather than ranked by cultural worth.
 
 **Answer: D.**
-**Explanation:** V.N. Bhatkhande systematised thaat-based Hindustani pedagogy, while V.D. Paluskar founded Gandharva Mahavidyalaya in 1901 to teach and transmit classical music. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q33. Which statement correctly identifies Gharana as transmission ecology?
+**Explanation:** D is correct because it preserves both contact and distinction. A and B are absolutist, while C ignores how regional devotional forms actually work.
 
-A. A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship.
-B. Dhrupad is an older austere vocal form with vani and gharana lineages, while khayal permits a different improvisational and compositional field; one is not merely the fast version of the other.
-C. Dagar centres Dhrupad, Darbhanga balances alaap and layakari, Gwalior is the oldest khayal gharana, Kirana stresses swara, Agra blends khayal and Dhrupad-Dhamar, and Patiala favours thumri-ghazal.
-D. Imperial court singing was curtailed, but instruments, elite patronage and music writing continued; Aurangzeb played the veena and Sadarang-Adarang later strengthened khayal under Muhammad Shah.
+### Q29. Which statement about Gandharva Mahavidyalaya best fits the verified local evidence?
+
+A. Vishnu Digambar Paluskar founded the first Gandharva Mahavidyalaya in 1901 at Lahore, and it later moved to Mumbai in 1915.  
+B. It was founded by Bhatkhande in Delhi in 1926.  
+C. It was the first name of Sangeet Natak Akademi.  
+D. It specialised only in Western orchestral training.
 
 **Answer: A.**
-**Explanation:** A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q34. Which chronology card should be filed under Gharana as transmission ecology?
+**Explanation:** A is correct and directly supports the 2025 routed PYQ. B confuses Paluskar with Bhatkhande and 1901 with 1926. C merges two different institutions. D invents a false scope.
 
-A. Dhrupad is an older austere vocal form with vani and gharana lineages, while khayal permits a different improvisational and compositional field; one is not merely the fast version of the other.
-B. A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship.
-C. Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity.
-D. Imperial court singing was curtailed, but instruments, elite patronage and music writing continued; Aurangzeb played the veena and Sadarang-Adarang later strengthened khayal under Muhammad Shah.
+### Q30. Which institutional pair is correctly matched?
 
-**Answer: B.**
-**Explanation:** A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q35. Which option preserves the source-bounded meaning of Gharana as transmission ecology?
-
-A. A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana.
-B. Imperial court singing was curtailed, but instruments, elite patronage and music writing continued; Aurangzeb played the veena and Sadarang-Adarang later strengthened khayal under Muhammad Shah.
-C. A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship.
-D. Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity.
-
-**Answer: C.**
-**Explanation:** A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about Gharana as transmission ecology?
-
-A. Tata are chordophones, Sushira aerophones, Avanaddha membranophones and Ghana idiophones; the presence of a stretched membrane separates Avanaddha from solid-bodied Ghana.
-B. Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity.
-C. A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana.
-D. A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship.
-
-**Answer: D.**
-**Explanation:** A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies Named gharana distinctions?
-
-A. Dagar centres Dhrupad, Darbhanga balances alaap and layakari, Gwalior is the oldest khayal gharana, Kirana stresses swara, Agra blends khayal and Dhrupad-Dhamar, and Patiala favours thumri-ghazal.
-B. Imperial court singing was curtailed, but instruments, elite patronage and music writing continued; Aurangzeb played the veena and Sadarang-Adarang later strengthened khayal under Muhammad Shah.
-C. Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity.
-D. Dhrupad is an older austere vocal form with vani and gharana lineages, while khayal permits a different improvisational and compositional field; one is not merely the fast version of the other.
-
-**Answer: A.**
-**Explanation:** Dagar centres Dhrupad, Darbhanga balances alaap and layakari, Gwalior is the oldest khayal gharana, Kirana stresses swara, Agra blends khayal and Dhrupad-Dhamar, and Patiala favours thumri-ghazal. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under Named gharana distinctions?
-
-A. Imperial court singing was curtailed, but instruments, elite patronage and music writing continued; Aurangzeb played the veena and Sadarang-Adarang later strengthened khayal under Muhammad Shah.
-B. Dagar centres Dhrupad, Darbhanga balances alaap and layakari, Gwalior is the oldest khayal gharana, Kirana stresses swara, Agra blends khayal and Dhrupad-Dhamar, and Patiala favours thumri-ghazal.
-C. A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana.
-D. Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity.
+A. Sangeet Natak Akademi - founded in 1901 by Paluskar  
+B. Sangeet Natak Akademi - 1952; SPIC MACAY - 1977  
+C. SPIC MACAY - first codifier of melakarta  
+D. Prayag Sangeet Samiti - founded by Akbar
 
 **Answer: B.**
-**Explanation:** Dagar centres Dhrupad, Darbhanga balances alaap and layakari, Gwalior is the oldest khayal gharana, Kirana stresses swara, Agra blends khayal and Dhrupad-Dhamar, and Patiala favours thumri-ghazal. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q39. Which option preserves the source-bounded meaning of Named gharana distinctions?
+**Explanation:** B is correct. A gives SNA the history of Gandharva Mahavidyalaya. C turns a youth movement into a musicological text. D moves a twentieth-century institution into the Mughal period.
 
-A. Tata are chordophones, Sushira aerophones, Avanaddha membranophones and Ghana idiophones; the presence of a stretched membrane separates Avanaddha from solid-bodied Ghana.
-B. Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity.
-C. Dagar centres Dhrupad, Darbhanga balances alaap and layakari, Gwalior is the oldest khayal gharana, Kirana stresses swara, Agra blends khayal and Dhrupad-Dhamar, and Patiala favours thumri-ghazal.
-D. A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana.
+### Q31. Which statement best reflects the topic's treatment of modern public recognition?
 
-**Answer: C.**
-**Explanation:** Dagar centres Dhrupad, Darbhanga balances alaap and layakari, Gwalior is the oldest khayal gharana, Kirana stresses swara, Agra blends khayal and Dhrupad-Dhamar, and Patiala favours thumri-ghazal. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Named gharana distinctions?
-
-A. Santoor is a struck string instrument, ghatam and jaltarang are Ghana, tabla and mridangam are Avanaddha, and no inventor or unsupported invention date should be attached to them.
-B. A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana.
-C. Tata are chordophones, Sushira aerophones, Avanaddha membranophones and Ghana idiophones; the presence of a stretched membrane separates Avanaddha from solid-bodied Ghana.
-D. Dagar centres Dhrupad, Darbhanga balances alaap and layakari, Gwalior is the oldest khayal gharana, Kirana stresses swara, Agra blends khayal and Dhrupad-Dhamar, and Patiala favours thumri-ghazal.
-
-**Answer: D.**
-**Explanation:** Dagar centres Dhrupad, Darbhanga balances alaap and layakari, Gwalior is the oldest khayal gharana, Kirana stresses swara, Agra blends khayal and Dhrupad-Dhamar, and Patiala favours thumri-ghazal. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Dhrupad and khayal?
-
-A. Dhrupad is an older austere vocal form with vani and gharana lineages, while khayal permits a different improvisational and compositional field; one is not merely the fast version of the other.
-B. Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity.
-C. Imperial court singing was curtailed, but instruments, elite patronage and music writing continued; Aurangzeb played the veena and Sadarang-Adarang later strengthened khayal under Muhammad Shah.
-D. A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana.
-
-**Answer: A.**
-**Explanation:** Dhrupad is an older austere vocal form with vani and gharana lineages, while khayal permits a different improvisational and compositional field; one is not merely the fast version of the other. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Dhrupad and khayal?
-
-A. A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana.
-B. Dhrupad is an older austere vocal form with vani and gharana lineages, while khayal permits a different improvisational and compositional field; one is not merely the fast version of the other.
-C. Tata are chordophones, Sushira aerophones, Avanaddha membranophones and Ghana idiophones; the presence of a stretched membrane separates Avanaddha from solid-bodied Ghana.
-D. Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity.
-
-**Answer: B.**
-**Explanation:** Dhrupad is an older austere vocal form with vani and gharana lineages, while khayal permits a different improvisational and compositional field; one is not merely the fast version of the other. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Dhrupad and khayal?
-
-A. Tata are chordophones, Sushira aerophones, Avanaddha membranophones and Ghana idiophones; the presence of a stretched membrane separates Avanaddha from solid-bodied Ghana.
-B. Santoor is a struck string instrument, ghatam and jaltarang are Ghana, tabla and mridangam are Avanaddha, and no inventor or unsupported invention date should be attached to them.
-C. Dhrupad is an older austere vocal form with vani and gharana lineages, while khayal permits a different improvisational and compositional field; one is not merely the fast version of the other.
-D. A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana.
+A. Bharat Ratna chronology is irrelevant because public honours tell us nothing about modern cultural legitimacy.  
+B. Once state honours appear, older gharana and temple histories become useless.  
+C. The sequence Subbulakshmi (1998), Ravi Shankar (1999), Bismillah Khan (2001) and Bhimsen Joshi (2008) helps show how the modern state became a recogniser of musical prestige without cancelling older transmission structures.  
+D. These honours prove that every famous musician's gharana can be filled from memory.
 
 **Answer: C.**
-**Explanation:** Dhrupad is an older austere vocal form with vani and gharana lineages, while khayal permits a different improvisational and compositional field; one is not merely the fast version of the other. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q44. Which statement avoids a close-option trap about Dhrupad and khayal?
+**Explanation:** C is correct because it turns dates into analysis rather than trivia. A denies the analytical value of recognition, B wrongly says modernity erases earlier structures, and D encourages unsafe fabrication.
 
-A. Tata are chordophones, Sushira aerophones, Avanaddha membranophones and Ghana idiophones; the presence of a stretched membrane separates Avanaddha from solid-bodied Ghana.
-B. The owner verifies selected instrument, tradition and Bharat Ratna pairings but prohibits adding unsupported gurus, gharanas, films or awards; Ravi Shankar is not assigned a gharana there.
-C. Santoor is a struck string instrument, ghatam and jaltarang are Ghana, tabla and mridangam are Avanaddha, and no inventor or unsupported invention date should be attached to them.
-D. Dhrupad is an older austere vocal form with vani and gharana lineages, while khayal permits a different improvisational and compositional field; one is not merely the fast version of the other.
+### Q32. Which statement should be avoided in a UPSC answer?
 
-**Answer: D.**
-**Explanation:** Dhrupad is an older austere vocal form with vani and gharana lineages, while khayal permits a different improvisational and compositional field; one is not merely the fast version of the other. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies Aurangzeb correction?
-
-A. Imperial court singing was curtailed, but instruments, elite patronage and music writing continued; Aurangzeb played the veena and Sadarang-Adarang later strengthened khayal under Muhammad Shah.
-B. Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity.
-C. A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana.
-D. Tata are chordophones, Sushira aerophones, Avanaddha membranophones and Ghana idiophones; the presence of a stretched membrane separates Avanaddha from solid-bodied Ghana.
-
-**Answer: A.**
-**Explanation:** Imperial court singing was curtailed, but instruments, elite patronage and music writing continued; Aurangzeb played the veena and Sadarang-Adarang later strengthened khayal under Muhammad Shah. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under Aurangzeb correction?
-
-A. Santoor is a struck string instrument, ghatam and jaltarang are Ghana, tabla and mridangam are Avanaddha, and no inventor or unsupported invention date should be attached to them.
-B. Imperial court singing was curtailed, but instruments, elite patronage and music writing continued; Aurangzeb played the veena and Sadarang-Adarang later strengthened khayal under Muhammad Shah.
-C. A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana.
-D. Tata are chordophones, Sushira aerophones, Avanaddha membranophones and Ghana idiophones; the presence of a stretched membrane separates Avanaddha from solid-bodied Ghana.
-
-**Answer: B.**
-**Explanation:** Imperial court singing was curtailed, but instruments, elite patronage and music writing continued; Aurangzeb played the veena and Sadarang-Adarang later strengthened khayal under Muhammad Shah. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of Aurangzeb correction?
-
-A. Tata are chordophones, Sushira aerophones, Avanaddha membranophones and Ghana idiophones; the presence of a stretched membrane separates Avanaddha from solid-bodied Ghana.
-B. The owner verifies selected instrument, tradition and Bharat Ratna pairings but prohibits adding unsupported gurus, gharanas, films or awards; Ravi Shankar is not assigned a gharana there.
-C. Imperial court singing was curtailed, but instruments, elite patronage and music writing continued; Aurangzeb played the veena and Sadarang-Adarang later strengthened khayal under Muhammad Shah.
-D. Santoor is a struck string instrument, ghatam and jaltarang are Ghana, tabla and mridangam are Avanaddha, and no inventor or unsupported invention date should be attached to them.
-
-**Answer: C.**
-**Explanation:** Imperial court singing was curtailed, but instruments, elite patronage and music writing continued; Aurangzeb played the veena and Sadarang-Adarang later strengthened khayal under Muhammad Shah. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about Aurangzeb correction?
-
-A. Baul, Pandavani, Panihari, Lavani, Powada, Khongjom Parba and other forms are best distinguished by region, occasion, theme and transmission rather than ranked below classical music.
-B. Santoor is a struck string instrument, ghatam and jaltarang are Ghana, tabla and mridangam are Avanaddha, and no inventor or unsupported invention date should be attached to them.
-C. The owner verifies selected instrument, tradition and Bharat Ratna pairings but prohibits adding unsupported gurus, gharanas, films or awards; Ravi Shankar is not assigned a gharana there.
-D. Imperial court singing was curtailed, but instruments, elite patronage and music writing continued; Aurangzeb played the veena and Sadarang-Adarang later strengthened khayal under Muhammad Shah.
+A. When official keys are unavailable, concept analysis may be retained but the answer letter should be withheld.  
+B. The repository's modern-musician bank is useful, but it does not justify adding unsupported biographical claims.  
+C. Contested invention claims should be flagged as contested unless contemporaneous proof is available.  
+D. Because the 2026 paper mentioned Pandit Mallikarjun Mansur, it is safe to supply a definite gharana from memory even though the canonical bank marks that route as a bounded gap.
 
 **Answer: D.**
-**Explanation:** Imperial court singing was curtailed, but instruments, elite patronage and music writing continued; Aurangzeb played the veena and Sadarang-Adarang later strengthened khayal under Muhammad Shah. The remaining options belong to different chronology, actor or analytical categories.
 
-### Q49. Which statement correctly identifies Carnatic composer bank?
-
-A. Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity.
-B. Santoor is a struck string instrument, ghatam and jaltarang are Ghana, tabla and mridangam are Avanaddha, and no inventor or unsupported invention date should be attached to them.
-C. Tata are chordophones, Sushira aerophones, Avanaddha membranophones and Ghana idiophones; the presence of a stretched membrane separates Avanaddha from solid-bodied Ghana.
-D. A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana.
-
-**Answer: A.**
-**Explanation:** Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Carnatic composer bank?
-
-A. Tata are chordophones, Sushira aerophones, Avanaddha membranophones and Ghana idiophones; the presence of a stretched membrane separates Avanaddha from solid-bodied Ghana.
-B. Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity.
-C. Santoor is a struck string instrument, ghatam and jaltarang are Ghana, tabla and mridangam are Avanaddha, and no inventor or unsupported invention date should be attached to them.
-D. The owner verifies selected instrument, tradition and Bharat Ratna pairings but prohibits adding unsupported gurus, gharanas, films or awards; Ravi Shankar is not assigned a gharana there.
-
-**Answer: B.**
-**Explanation:** Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Carnatic composer bank?
-
-A. Santoor is a struck string instrument, ghatam and jaltarang are Ghana, tabla and mridangam are Avanaddha, and no inventor or unsupported invention date should be attached to them.
-B. The owner verifies selected instrument, tradition and Bharat Ratna pairings but prohibits adding unsupported gurus, gharanas, films or awards; Ravi Shankar is not assigned a gharana there.
-C. Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity.
-D. Baul, Pandavani, Panihari, Lavani, Powada, Khongjom Parba and other forms are best distinguished by region, occasion, theme and transmission rather than ranked below classical music.
-
-**Answer: C.**
-**Explanation:** Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Carnatic composer bank?
-
-A. Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition.
-B. The owner verifies selected instrument, tradition and Bharat Ratna pairings but prohibits adding unsupported gurus, gharanas, films or awards; Ravi Shankar is not assigned a gharana there.
-C. Baul, Pandavani, Panihari, Lavani, Powada, Khongjom Parba and other forms are best distinguished by region, occasion, theme and transmission rather than ranked below classical music.
-D. Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity.
-
-**Answer: D.**
-**Explanation:** Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Kriti and concert anatomy?
-
-A. A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana.
-B. Santoor is a struck string instrument, ghatam and jaltarang are Ghana, tabla and mridangam are Avanaddha, and no inventor or unsupported invention date should be attached to them.
-C. The owner verifies selected instrument, tradition and Bharat Ratna pairings but prohibits adding unsupported gurus, gharanas, films or awards; Ravi Shankar is not assigned a gharana there.
-D. Tata are chordophones, Sushira aerophones, Avanaddha membranophones and Ghana idiophones; the presence of a stretched membrane separates Avanaddha from solid-bodied Ghana.
-
-**Answer: A.**
-**Explanation:** A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Kriti and concert anatomy?
-
-A. The owner verifies selected instrument, tradition and Bharat Ratna pairings but prohibits adding unsupported gurus, gharanas, films or awards; Ravi Shankar is not assigned a gharana there.
-B. A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana.
-C. Baul, Pandavani, Panihari, Lavani, Powada, Khongjom Parba and other forms are best distinguished by region, occasion, theme and transmission rather than ranked below classical music.
-D. Santoor is a struck string instrument, ghatam and jaltarang are Ghana, tabla and mridangam are Avanaddha, and no inventor or unsupported invention date should be attached to them.
-
-**Answer: B.**
-**Explanation:** A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Kriti and concert anatomy?
-
-A. The owner verifies selected instrument, tradition and Bharat Ratna pairings but prohibits adding unsupported gurus, gharanas, films or awards; Ravi Shankar is not assigned a gharana there.
-B. Baul, Pandavani, Panihari, Lavani, Powada, Khongjom Parba and other forms are best distinguished by region, occasion, theme and transmission rather than ranked below classical music.
-C. A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana.
-D. Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition.
-
-**Answer: C.**
-**Explanation:** A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Kriti and concert anatomy?
-
-A. Verified routes are objective demands on Tyagaraja-Annamacharya, Tansen, Gandharva Mahavidyalaya and two provisional 2026 questions; no direct routed Mains demand is invented.
-B. Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition.
-C. Baul, Pandavani, Panihari, Lavani, Powada, Khongjom Parba and other forms are best distinguished by region, occasion, theme and transmission rather than ranked below classical music.
-D. A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana.
-
-**Answer: D.**
-**Explanation:** A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Four instrument families?
-
-A. Tata are chordophones, Sushira aerophones, Avanaddha membranophones and Ghana idiophones; the presence of a stretched membrane separates Avanaddha from solid-bodied Ghana.
-B. Santoor is a struck string instrument, ghatam and jaltarang are Ghana, tabla and mridangam are Avanaddha, and no inventor or unsupported invention date should be attached to them.
-C. The owner verifies selected instrument, tradition and Bharat Ratna pairings but prohibits adding unsupported gurus, gharanas, films or awards; Ravi Shankar is not assigned a gharana there.
-D. Baul, Pandavani, Panihari, Lavani, Powada, Khongjom Parba and other forms are best distinguished by region, occasion, theme and transmission rather than ranked below classical music.
-
-**Answer: A.**
-**Explanation:** Tata are chordophones, Sushira aerophones, Avanaddha membranophones and Ghana idiophones; the presence of a stretched membrane separates Avanaddha from solid-bodied Ghana. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Four instrument families?
-
-A. Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition.
-B. Tata are chordophones, Sushira aerophones, Avanaddha membranophones and Ghana idiophones; the presence of a stretched membrane separates Avanaddha from solid-bodied Ghana.
-C. Baul, Pandavani, Panihari, Lavani, Powada, Khongjom Parba and other forms are best distinguished by region, occasion, theme and transmission rather than ranked below classical music.
-D. The owner verifies selected instrument, tradition and Bharat Ratna pairings but prohibits adding unsupported gurus, gharanas, films or awards; Ravi Shankar is not assigned a gharana there.
-
-**Answer: B.**
-**Explanation:** Tata are chordophones, Sushira aerophones, Avanaddha membranophones and Ghana idiophones; the presence of a stretched membrane separates Avanaddha from solid-bodied Ghana. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Four instrument families?
-
-A. Verified routes are objective demands on Tyagaraja-Annamacharya, Tansen, Gandharva Mahavidyalaya and two provisional 2026 questions; no direct routed Mains demand is invented.
-B. Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition.
-C. Tata are chordophones, Sushira aerophones, Avanaddha membranophones and Ghana idiophones; the presence of a stretched membrane separates Avanaddha from solid-bodied Ghana.
-D. Baul, Pandavani, Panihari, Lavani, Powada, Khongjom Parba and other forms are best distinguished by region, occasion, theme and transmission rather than ranked below classical music.
-
-**Answer: C.**
-**Explanation:** Tata are chordophones, Sushira aerophones, Avanaddha membranophones and Ghana idiophones; the presence of a stretched membrane separates Avanaddha from solid-bodied Ghana. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Four instrument families?
-
-A. Verified routes are objective demands on Tyagaraja-Annamacharya, Tansen, Gandharva Mahavidyalaya and two provisional 2026 questions; no direct routed Mains demand is invented.
-B. Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition.
-C. Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada form the seven-note base shared across Indian classical traditions.
-D. Tata are chordophones, Sushira aerophones, Avanaddha membranophones and Ghana idiophones; the presence of a stretched membrane separates Avanaddha from solid-bodied Ghana.
-
-**Answer: D.**
-**Explanation:** Tata are chordophones, Sushira aerophones, Avanaddha membranophones and Ghana idiophones; the presence of a stretched membrane separates Avanaddha from solid-bodied Ghana. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Instrument identification limits?
-
-A. Santoor is a struck string instrument, ghatam and jaltarang are Ghana, tabla and mridangam are Avanaddha, and no inventor or unsupported invention date should be attached to them.
-B. Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition.
-C. The owner verifies selected instrument, tradition and Bharat Ratna pairings but prohibits adding unsupported gurus, gharanas, films or awards; Ravi Shankar is not assigned a gharana there.
-D. Baul, Pandavani, Panihari, Lavani, Powada, Khongjom Parba and other forms are best distinguished by region, occasion, theme and transmission rather than ranked below classical music.
-
-**Answer: A.**
-**Explanation:** Santoor is a struck string instrument, ghatam and jaltarang are Ghana, tabla and mridangam are Avanaddha, and no inventor or unsupported invention date should be attached to them. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Instrument identification limits?
-
-A. Verified routes are objective demands on Tyagaraja-Annamacharya, Tansen, Gandharva Mahavidyalaya and two provisional 2026 questions; no direct routed Mains demand is invented.
-B. Santoor is a struck string instrument, ghatam and jaltarang are Ghana, tabla and mridangam are Avanaddha, and no inventor or unsupported invention date should be attached to them.
-C. Baul, Pandavani, Panihari, Lavani, Powada, Khongjom Parba and other forms are best distinguished by region, occasion, theme and transmission rather than ranked below classical music.
-D. Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition.
-
-**Answer: B.**
-**Explanation:** Santoor is a struck string instrument, ghatam and jaltarang are Ghana, tabla and mridangam are Avanaddha, and no inventor or unsupported invention date should be attached to them. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Instrument identification limits?
-
-A. Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada form the seven-note base shared across Indian classical traditions.
-B. Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition.
-C. Santoor is a struck string instrument, ghatam and jaltarang are Ghana, tabla and mridangam are Avanaddha, and no inventor or unsupported invention date should be attached to them.
-D. Verified routes are objective demands on Tyagaraja-Annamacharya, Tansen, Gandharva Mahavidyalaya and two provisional 2026 questions; no direct routed Mains demand is invented.
-
-**Answer: C.**
-**Explanation:** Santoor is a struck string instrument, ghatam and jaltarang are Ghana, tabla and mridangam are Avanaddha, and no inventor or unsupported invention date should be attached to them. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Instrument identification limits?
-
-A. Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada form the seven-note base shared across Indian classical traditions.
-B. A thaat is an unsung Hindustani parent scale of seven notes stated in ascending order, without vaadi-samvadi or an independent emotional identity.
-C. Verified routes are objective demands on Tyagaraja-Annamacharya, Tansen, Gandharva Mahavidyalaya and two provisional 2026 questions; no direct routed Mains demand is invented.
-D. Santoor is a struck string instrument, ghatam and jaltarang are Ghana, tabla and mridangam are Avanaddha, and no inventor or unsupported invention date should be attached to them.
-
-**Answer: D.**
-**Explanation:** Santoor is a struck string instrument, ghatam and jaltarang are Ghana, tabla and mridangam are Avanaddha, and no inventor or unsupported invention date should be attached to them. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies Modern musician precision?
-
-A. The owner verifies selected instrument, tradition and Bharat Ratna pairings but prohibits adding unsupported gurus, gharanas, films or awards; Ravi Shankar is not assigned a gharana there.
-B. Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition.
-C. Baul, Pandavani, Panihari, Lavani, Powada, Khongjom Parba and other forms are best distinguished by region, occasion, theme and transmission rather than ranked below classical music.
-D. Verified routes are objective demands on Tyagaraja-Annamacharya, Tansen, Gandharva Mahavidyalaya and two provisional 2026 questions; no direct routed Mains demand is invented.
-
-**Answer: A.**
-**Explanation:** The owner verifies selected instrument, tradition and Bharat Ratna pairings but prohibits adding unsupported gurus, gharanas, films or awards; Ravi Shankar is not assigned a gharana there. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under Modern musician precision?
-
-A. Verified routes are objective demands on Tyagaraja-Annamacharya, Tansen, Gandharva Mahavidyalaya and two provisional 2026 questions; no direct routed Mains demand is invented.
-B. The owner verifies selected instrument, tradition and Bharat Ratna pairings but prohibits adding unsupported gurus, gharanas, films or awards; Ravi Shankar is not assigned a gharana there.
-C. Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada form the seven-note base shared across Indian classical traditions.
-D. Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition.
-
-**Answer: B.**
-**Explanation:** The owner verifies selected instrument, tradition and Bharat Ratna pairings but prohibits adding unsupported gurus, gharanas, films or awards; Ravi Shankar is not assigned a gharana there. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of Modern musician precision?
-
-A. Verified routes are objective demands on Tyagaraja-Annamacharya, Tansen, Gandharva Mahavidyalaya and two provisional 2026 questions; no direct routed Mains demand is invented.
-B. Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada form the seven-note base shared across Indian classical traditions.
-C. The owner verifies selected instrument, tradition and Bharat Ratna pairings but prohibits adding unsupported gurus, gharanas, films or awards; Ravi Shankar is not assigned a gharana there.
-D. A thaat is an unsung Hindustani parent scale of seven notes stated in ascending order, without vaadi-samvadi or an independent emotional identity.
-
-**Answer: C.**
-**Explanation:** The owner verifies selected instrument, tradition and Bharat Ratna pairings but prohibits adding unsupported gurus, gharanas, films or awards; Ravi Shankar is not assigned a gharana there. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about Modern musician precision?
-
-A. Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada form the seven-note base shared across Indian classical traditions.
-B. A thaat is an unsung Hindustani parent scale of seven notes stated in ascending order, without vaadi-samvadi or an independent emotional identity.
-C. A raga is a melodic entity with aaroha-avaroha, characteristic note hierarchy and phrase, five, six or seven notes, and aesthetic or temporal associations.
-D. The owner verifies selected instrument, tradition and Bharat Ratna pairings but prohibits adding unsupported gurus, gharanas, films or awards; Ravi Shankar is not assigned a gharana there.
-
-**Answer: D.**
-**Explanation:** The owner verifies selected instrument, tradition and Bharat Ratna pairings but prohibits adding unsupported gurus, gharanas, films or awards; Ravi Shankar is not assigned a gharana there. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Folk-music function?
-
-A. Baul, Pandavani, Panihari, Lavani, Powada, Khongjom Parba and other forms are best distinguished by region, occasion, theme and transmission rather than ranked below classical music.
-B. Verified routes are objective demands on Tyagaraja-Annamacharya, Tansen, Gandharva Mahavidyalaya and two provisional 2026 questions; no direct routed Mains demand is invented.
-C. Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada form the seven-note base shared across Indian classical traditions.
-D. Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition.
-
-**Answer: A.**
-**Explanation:** Baul, Pandavani, Panihari, Lavani, Powada, Khongjom Parba and other forms are best distinguished by region, occasion, theme and transmission rather than ranked below classical music. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Folk-music function?
-
-A. Verified routes are objective demands on Tyagaraja-Annamacharya, Tansen, Gandharva Mahavidyalaya and two provisional 2026 questions; no direct routed Mains demand is invented.
-B. Baul, Pandavani, Panihari, Lavani, Powada, Khongjom Parba and other forms are best distinguished by region, occasion, theme and transmission rather than ranked below classical music.
-C. A thaat is an unsung Hindustani parent scale of seven notes stated in ascending order, without vaadi-samvadi or an independent emotional identity.
-D. Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada form the seven-note base shared across Indian classical traditions.
-
-**Answer: B.**
-**Explanation:** Baul, Pandavani, Panihari, Lavani, Powada, Khongjom Parba and other forms are best distinguished by region, occasion, theme and transmission rather than ranked below classical music. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Folk-music function?
-
-A. A thaat is an unsung Hindustani parent scale of seven notes stated in ascending order, without vaadi-samvadi or an independent emotional identity.
-B. A raga is a melodic entity with aaroha-avaroha, characteristic note hierarchy and phrase, five, six or seven notes, and aesthetic or temporal associations.
-C. Baul, Pandavani, Panihari, Lavani, Powada, Khongjom Parba and other forms are best distinguished by region, occasion, theme and transmission rather than ranked below classical music.
-D. Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada form the seven-note base shared across Indian classical traditions.
-
-**Answer: C.**
-**Explanation:** Baul, Pandavani, Panihari, Lavani, Powada, Khongjom Parba and other forms are best distinguished by region, occasion, theme and transmission rather than ranked below classical music. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Folk-music function?
-
-A. A raga is a melodic entity with aaroha-avaroha, characteristic note hierarchy and phrase, five, six or seven notes, and aesthetic or temporal associations.
-B. A thaat is an unsung Hindustani parent scale of seven notes stated in ascending order, without vaadi-samvadi or an independent emotional identity.
-C. Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat.
-D. Baul, Pandavani, Panihari, Lavani, Powada, Khongjom Parba and other forms are best distinguished by region, occasion, theme and transmission rather than ranked below classical music.
-
-**Answer: D.**
-**Explanation:** Baul, Pandavani, Panihari, Lavani, Powada, Khongjom Parba and other forms are best distinguished by region, occasion, theme and transmission rather than ranked below classical music. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Institutional recognition boundary?
-
-A. Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition.
-B. A thaat is an unsung Hindustani parent scale of seven notes stated in ascending order, without vaadi-samvadi or an independent emotional identity.
-C. Verified routes are objective demands on Tyagaraja-Annamacharya, Tansen, Gandharva Mahavidyalaya and two provisional 2026 questions; no direct routed Mains demand is invented.
-D. Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada form the seven-note base shared across Indian classical traditions.
-
-**Answer: A.**
-**Explanation:** Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Institutional recognition boundary?
-
-A. A raga is a melodic entity with aaroha-avaroha, characteristic note hierarchy and phrase, five, six or seven notes, and aesthetic or temporal associations.
-B. Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition.
-C. A thaat is an unsung Hindustani parent scale of seven notes stated in ascending order, without vaadi-samvadi or an independent emotional identity.
-D. Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada form the seven-note base shared across Indian classical traditions.
-
-**Answer: B.**
-**Explanation:** Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Institutional recognition boundary?
-
-A. Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat.
-B. A raga is a melodic entity with aaroha-avaroha, characteristic note hierarchy and phrase, five, six or seven notes, and aesthetic or temporal associations.
-C. Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition.
-D. A thaat is an unsung Hindustani parent scale of seven notes stated in ascending order, without vaadi-samvadi or an independent emotional identity.
-
-**Answer: C.**
-**Explanation:** Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Institutional recognition boundary?
-
-A. Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure.
-B. Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat.
-C. A raga is a melodic entity with aaroha-avaroha, characteristic note hierarchy and phrase, five, six or seven notes, and aesthetic or temporal associations.
-D. Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition.
-
-**Answer: D.**
-**Explanation:** Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Music PYQ audit?
-
-A. Verified routes are objective demands on Tyagaraja-Annamacharya, Tansen, Gandharva Mahavidyalaya and two provisional 2026 questions; no direct routed Mains demand is invented.
-B. Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada form the seven-note base shared across Indian classical traditions.
-C. A raga is a melodic entity with aaroha-avaroha, characteristic note hierarchy and phrase, five, six or seven notes, and aesthetic or temporal associations.
-D. A thaat is an unsung Hindustani parent scale of seven notes stated in ascending order, without vaadi-samvadi or an independent emotional identity.
-
-**Answer: A.**
-**Explanation:** Verified routes are objective demands on Tyagaraja-Annamacharya, Tansen, Gandharva Mahavidyalaya and two provisional 2026 questions; no direct routed Mains demand is invented. The remaining options belong to different chronology, actor or analytical categories.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Q77. Which statement correctly identifies Music PYQ audit?”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the cultural demand in “Q77. Which statement correctly identifies Music PYQ audit?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q77. Which statement correctly identifies Music PYQ audit? **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** A. Verified routes are objective demands on Tyagaraja-Annamacharya, Tansen, Gandharva Mahavidyalaya and two provisional 2026 questions; no direct routed Mains demand is invented. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** B. Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada form the seven-note base shared across Indian classical traditions. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** C. A raga is a melodic entity with aaroha-avaroha, characteristic note hierarchy and phrase, five, six or seven notes, and aesthetic or temporal associations. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** The answer must resolve the cultural demand in “Q77. Which statement correctly identifies Music PYQ audit?”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Q77. Which statement correctly identifies Music PYQ audit?”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### Q78. Which chronology card should be filed under Music PYQ audit?
-
-A. Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat.
-B. Verified routes are objective demands on Tyagaraja-Annamacharya, Tansen, Gandharva Mahavidyalaya and two provisional 2026 questions; no direct routed Mains demand is invented.
-C. A thaat is an unsung Hindustani parent scale of seven notes stated in ascending order, without vaadi-samvadi or an independent emotional identity.
-D. A raga is a melodic entity with aaroha-avaroha, characteristic note hierarchy and phrase, five, six or seven notes, and aesthetic or temporal associations.
-
-**Answer: B.**
-**Explanation:** Verified routes are objective demands on Tyagaraja-Annamacharya, Tansen, Gandharva Mahavidyalaya and two provisional 2026 questions; no direct routed Mains demand is invented. The remaining options belong to different chronology, actor or analytical categories.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Q78. Which chronology card should be filed under Music PYQ audit?”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the cultural demand in “Q78. Which chronology card should be filed under Music PYQ audit?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q78. Which chronology card should be filed under Music PYQ audit? **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** A. Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** B. Verified routes are objective demands on Tyagaraja-Annamacharya, Tansen, Gandharva Mahavidyalaya and two provisional 2026 questions; no direct routed Mains demand is invented. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** C. A thaat is an unsung Hindustani parent scale of seven notes stated in ascending order, without vaadi-samvadi or an independent emotional identity. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** The answer must resolve the cultural demand in “Q78. Which chronology card should be filed under Music PYQ audit?”.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Q78. Which chronology card should be filed under Music PYQ audit?”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### Q79. Which option preserves the source-bounded meaning of Music PYQ audit?
-
-A. Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure.
-B. Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat.
-C. Verified routes are objective demands on Tyagaraja-Annamacharya, Tansen, Gandharva Mahavidyalaya and two provisional 2026 questions; no direct routed Mains demand is invented.
-D. A raga is a melodic entity with aaroha-avaroha, characteristic note hierarchy and phrase, five, six or seven notes, and aesthetic or temporal associations.
-
-**Answer: C.**
-**Explanation:** Verified routes are objective demands on Tyagaraja-Annamacharya, Tansen, Gandharva Mahavidyalaya and two provisional 2026 questions; no direct routed Mains demand is invented. The remaining options belong to different chronology, actor or analytical categories.
-
-**Demand decoding:** Treat “Q79. Which option preserves the source-bounded meaning of Music PYQ audit?” as a form, chronology, region, patron, medium and status problem. Verify every pairing independently without inventing an official key.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** The answer must resolve the cultural demand in “Q79. Which option preserves the source-bounded meaning of Music PYQ audit?”.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Q79. Which option preserves the source-bounded meaning of Music PYQ audit? **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** A. Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** B. Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** C. Verified routes are objective demands on Tyagaraja-Annamacharya, Tansen, Gandharva Mahavidyalaya and two provisional 2026 questions; no direct routed Mains demand is invented. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** The answer must resolve the cultural demand in “Q79. Which option preserves the source-bounded meaning of Music PYQ audit?”.
-
-**Executable exam-length answer / compression plan:** Fix the category and period; pair form with region, material, patron or institution; separate historical fact from later label or current recognition; eliminate the closest distractor.
-
-**Why this earns marks:** It preserves answer-text integrity and exact category mapping while keeping reasoned elimination separate from an official key.
-
-**How to improve this answer:** For “Q79. Which option preserves the source-bounded meaning of Music PYQ audit?”, state why the nearest distractor fails on medium, region, chronology, patronage, terminology or recognition status.
-
-### Q80. Which statement avoids a close-option trap about Music PYQ audit?
-
-A. Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat.
-B. Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws.
-C. Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure.
-D. Verified routes are objective demands on Tyagaraja-Annamacharya, Tansen, Gandharva Mahavidyalaya and two provisional 2026 questions; no direct routed Mains demand is invented.
-
-**Answer: D.**
-**Explanation:** Verified routes are objective demands on Tyagaraja-Annamacharya, Tansen, Gandharva Mahavidyalaya and two provisional 2026 questions; no direct routed Mains demand is invented. The remaining options belong to different chronology, actor or analytical categories.
+**Explanation:** D is selected because it is the unsafe statement. The topic explicitly treats the Mallikarjun Mansur route as a bounded gap and forbids filling it from memory. A, B and C are the safe controls: they restate the package's answer-key discipline, evidence discipline and attribution caution.
 
 ## PYQS AND ANSWER PRACTICE
 
-**Demand decoding:** Treat “Q80. Which statement avoids a close-option trap about Music PYQ audit?” as a form, chronology, region, patron, medium and status problem. Verify every pairing independently without inventing an official key.
+### VERIFIED OBJECTIVE / APPLICATION PYQS
 
-**Detailed examiner-grade model answer:**
+#### PYQ 1. With reference to cultural history of India, consider the following statements: 1. Most of the Tyagaraja Kritis are devotional songs in praise of Lord Krishna. 2. Tyagaraja created several new ragas. 3. Annamacharya and Tyagaraja are contemporaries. 4. Annamacharya kirtanas are devotional songs in praise of Lord Venkateshwara. Which of the statements given above are correct? (CSE 2018)
 
-**Introduction and thesis:** The answer must resolve the cultural demand in “Q80. Which statement avoids a close-option trap about Music PYQ audit?”.
+**Answer withheld pending official UPSC key**
 
-**Analytical body:**
+**Concept analysis:** The locally held official paper wording is available, but the final official key is not locally verified in the controlling ledger. The safest eliminators are that Annamacharya is securely tied to Venkateswara, while the contemporaneity claim with Tyagaraja is unsafe. The question tests composer-devotion mapping and chronology, not mere memory of names.
 
-1. **Claim and named evidence:** Q80. Which statement avoids a close-option trap about Music PYQ audit? **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** A. Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** B. Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** C. Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
+#### PYQ 2. With reference to Mian Tansen, which one of the following statements is not correct? (a) Tansen was the title given to him by Emperor Akbar. (b) Tansen composed Dhrupads on Hindu gods and goddesses. (c) Tansen composed songs on his patrons. (d) Tansen invented many Ragas. (CSE 2019)
 
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
+**Answer withheld pending official UPSC key**
 
-**Qualified conclusion:** The answer must resolve the cultural demand in “Q80. Which statement avoids a close-option trap about Music PYQ audit?”.
+**Concept analysis:** The topic routes this question to Mughal court music and requires caution with invention claims. Local sources support Akbar's patronage and the deity-plus-patron profile of Tansen's compositions, while wider invention claims need more care. Because the final official key is unavailable locally, the package withholds the letter.
 
-**Executable exam-length answer / compression plan:** Fix the category and period; pair form with region, material, patron or institution; separate historical fact from later label or current recognition; eliminate the closest distractor.
+#### PYQ 3. Which Hindustani classical Raag is sung as an invitation to rain? (a) Raag Yaman (b) Raag Bahar (c) Raag Malhar (d) Raag Bhairavi (CAPF 2025)
 
-**Why this earns marks:** It preserves answer-text integrity and exact category mapping while keeping reasoned elimination separate from an official key.
+**Answer withheld pending official UPSC key**
 
-**How to improve this answer:** For “Q80. Which statement avoids a close-option trap about Music PYQ audit?”, state why the nearest distractor fails on medium, region, chronology, patronage, terminology or recognition status.
+**Concept analysis:** The question tests season-raga association. Nitin's raga-time-season table and adjoining notes place Malhar in the monsoon/rainy cluster, whereas Yaman and Bhairavi belong to other emotional-time associations and Bahar is spring-linked. Since only the chapter-end reproduction is locally recoverable here and no local official CAPF key was separately verified, the answer letter is withheld.
 
-### TRANSPARENT ZERO-DIRECT-PYQ AUDIT
+#### PYQ 4. Man Kautuhal, a work on music, was prepared under the aegis of (a) Raja Man Singh of Gwalior (b) Tansen (c) Meera Bai (d) Amir Khusrau (CDS I 2024)
 
-No direct GS-I Mains PYQ is routed to Indian music in the audited ledgers. Verified objective routes are retained for 2018 Tyagaraja-Annamacharya, 2019 Tansen, 2025 Gandharva Mahavidyalaya, and the provisional 2026 raga-equivalence and Mallikarjun Mansur demands; no withheld answer is inferred.
+**Answer withheld pending official UPSC key**
 
-### OWNER PYQ LEDGER EXTRACTS
+**Concept analysis:** This is a patronage-text question. The topic's safe evidence links Raja Man Singh Tomar of Gwalior with compilation of `Mankautuhal` and with the advancement of Gwalior as a music centre. The answer letter is still withheld because the final official CDS key was not locally verified.
 
-#### 7. Exact PYQ application
+#### PYQ 5. Who among the following has written three works on the science of music called Sangitaraja, Sangita Mimansa and Sudha Prabandha? (a) Tansen (b) Ibrahim Adil Shah (c) Amir Khusro (d) Maharana Kumbha of Mewar (Geo-Scientist 2024)
 
-⚠️ No GS-I Mains question in the audited 2024-2025 papers directly tests
-Indian music. This topic supplies vocabulary and classification
-(gharana, raga-rasa linkage, Hindustani-Carnatic distinction) reusable in
-any future performing-arts question and supports topic 09 (dance-music
-accompaniment) and topic 10 (theatre-music overlap).
+**Answer withheld pending official UPSC key**
 
-#### 2026 PYQ Integration
+**Concept analysis:** The question tests musicological authorship rather than performance. The locally extracted source ties Maharana Kumbha to `Sangeet Raja`, `Sangeet Mimansa` and `Shuda Prabandha`, while the other options are linked to different traditions and texts. Without a locally verified final official key, the letter remains withheld.
 
-> **Status:** 2026 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
-> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
+#### PYQ 6. Who among the following is credited with the introduction and popularisation of Dhrupad form of music? (a) Raja Man Singh Tomar of Gwalior (b) Tansen (c) Naik Gopal (d) Shaikh Bahauddin of Barnawa (CAPF 2022)
 
-- **Year represented:** 2026
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
+**Answer withheld pending official UPSC key**
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2026 | Prelims GS-I | 1 | Carnatic and Hindustani raga equivalence in Indian classical music traditions | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2026 | Prelims GS-I | 19 | Pandit Mallikarjun Mansur and Hindustani classical music gharanas | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+**Concept analysis:** The question tests dhrupad's patronage and performance history. The topic gives usable evidence on Raja Man Singh Tomar, Tansen and Swami Haridas, but the final official CAPF key was not separately verified in the local official bank used for this repair. Therefore no answer letter is shown.
 
-##### What this owner must now support
+#### PYQ 7. Which of the following statements about the musical culture in the 18th and 19th centuries in north India is/are not correct? 1. The period was marked by the growing eminence of Sadarang Neamat Khan who introduced the khayal form. 2. A large number of musicians moved out of regional centres to Delhi, where they hoped they would receive greater employment and patronage. 3. The period was marked by the formation of specific region-based gharanas. Select the correct answer using the code given below: (a) 1 only (b) 1, 2 and 3 (c) 2 only (d) 2 and 3 only (CDS I 2015)
 
-- Carnatic and Hindustani raga equivalence in Indian classical music traditions
-- Pandit Mallikarjun Mansur and Hindustani classical music gharanas
+**Answer withheld pending official UPSC key**
 
-> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2026 -->
+**Concept analysis:** The question combines patronage movement with gharana formation. The repaired topic directly teaches Sadarang's role under Muhammad Shah and the formation of named gharanas, but the official answer letter is not locally verified. Use the item as an application drill on patronage redirection.
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
+#### PYQ 8. The community of people called Manganiyars is well-known for their (a) Martial arts in north-east India (b) Musical tradition in north-west India (c) Classical vocal music in south India (d) Pietra dura tradition in central India (CSE 2014)
 
-#### Recent PYQ Integration (2024-2025)
+**Answer withheld pending official UPSC key**
 
-> **Status:** 2024-2025 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`.
-> **Answer-key rule:** The official 2024-2025 Prelims Set-A keys are present in the repository and CSAT Set-A keys are supplied; even so, no option or answer is recorded or inferred in this integration.
+**Concept analysis:** This is a region-tradition identification question. The topic links the Manganiyars with Rajasthan and the kamaicha-backed musical tradition of north-west India. The controlling rule still forbids recording an answer letter without a locally verified official key.
 
-- **Years represented:** 2025
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
+#### PYQ 9. With reference to Dhrupad, one of the major traditions of India that has been kept alive for centuries, which of the following statements are correct? (i) Dhrupad originated and was developed in the Rajput kingdoms during the Mughal period. (ii) Dhrupad is primarily a devotional and spiritual music. (iii) Dhrupad Alap uses Sanskrit syllables from mantras. Select the correct answer using the codes given below: (a) (i) and (ii) (b) (ii) and (iii) (c) (i), (ii) and (iii) (d) None of these (CSE 2012)
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2025 | Prelims GS-I | 18 | First Gandharva Mahavidyalaya (Vishnu Digambar Paluskar, 1901) | Objective question; official Set-A key available locally, answer not inferred | Key available locally (official Set-A answer key present); answer not recorded here | Cover the named fact/concept and its likely statement-level distinctions. |
+**Answer withheld pending official UPSC key**
 
-##### What this owner must now support
+**Concept analysis:** This question tests precise form-knowledge. The repaired topic supports dhrupad's devotional-spiritual profile and its Sanskritic syllabic world, but it does not allow lazy chronology. Since no locally verified final official UPSC key is present in the controlling bank, the answer letter is withheld.
 
-- First Gandharva Mahavidyalaya (Vishnu Digambar Paluskar, 1901)
+#### PYQ 10. The first Gandharva Mahavidyalaya, a music training school, was set up in 1901 by Vishnu Digambar Paluskar in (a) Delhi (b) Gwalior (c) Ujjain (d) Lahore (CSE 2025)
 
-> This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+**Answer: D.**
 
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
+**Why D is correct:** The locally held official Set-A paper gives the wording, and the locally held official Set-A answer key records Q18 = D. The core source independently confirms that Paluskar founded the first Gandharva Mahavidyalaya in 1901 at Lahore, before it moved to Mumbai in 1915.
 
-#### Historical PYQ Integration (2018-2023)
+**Why the others are wrong:** Delhi, Gwalior and Ujjain are all plausible distractors because of their strong music associations, but none is the locally verified founding city for this institution.
 
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+#### PYQ 11. Which one of the following Carnatic music ragas is similar to Raga Bilawal in Hindustani music? (a) Nat Bhairavi (b) Kamavardhini (c) Hanumatodi (d) Dheera Shankarabharanam (CSE 2026)
 
-- **Years represented:** 2018, 2019
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
+**Answer withheld pending official UPSC key**
 
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | Prelims GS-I | 44 | Tyagaraja Kritis Annamacharya kirtanas facts in classical music | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2019 | Prelims GS-I | 16 | Mian Tansen and Mughal court music tradition | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+**Concept analysis:** The official local paper wording is available, but the controlling ledger explicitly records only a provisional 2026 key. Solve it through thaat-melakarta equivalence, not through mood or time-of-day association, and do not print a final answer letter.
 
-##### What this owner must now support
+#### PYQ 12. Pandit Mallikarjun Mansur, the famous classical singer from Karnataka, represented the: (a) Agra Gharana (b) Gwalior Gharana (c) Patiala Gharana (d) Jaipur-Atrauli Gharana (CSE 2026)
 
-- Tyagaraja Kritis Annamacharya kirtanas facts in classical music
-- Mian Tansen and Mughal court music tradition
+**Answer withheld pending official UPSC key**
 
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+**Concept analysis:** This is the topic's explicitly bounded gap. The official local paper wording exists, but only a provisional key is locally present and the canonical bank itself says the Mansur gharana route is not safely closed. The correct exam behaviour is to withhold the letter and not invent a gharana from memory.
 
-#### 8. Exact PYQ application
+### DIRECT MAINS PYQS WITH MODEL ANSWERS
 
-⚠️ No GS-I Mains question in the audited 2024-2025 papers directly tests
-Indian music. This topic's attribution-caution method (Section 2)
-strengthens any future answer touching Amir Khusrau's contributions
-(commonly tested at the Prelims level) by requiring source-specific
-verification rather than repeating popular but unverified attribution
-claims.
+#### PYQ-M1. What are the groups into which musical instruments in India have traditionally been classified? (CSE 2012)
 
-### ORIGINAL MAINS 1 — 10 MARKS
+**Model solution**
 
-**Question:** Distinguish thaat, raga and melakarta as systems of melodic classification. Answer in about 150 words.
+Indian musical instruments are traditionally classified by the principle of sound production rather than by modern concert usage. The four exam-safe groups are:
 
-**Model thesis:** Thaat and melakarta are parent-scale devices in different traditions, while raga is the performed melodic entity; note count, phrase, hierarchy and emotional identity prevent interchangeability.
+1. **Tata Vadya (chordophones):** sound comes from vibrating strings. Examples include sitar, veena, sarangi, tanpura and santoor.
+2. **Sushira Vadya (aerophones):** sound comes from an air column. Examples include bansuri, shehnai and pungi.
+3. **Avanaddha Vadya (membranophones):** sound comes from a stretched membrane that is struck. Examples include tabla, mridangam and dhol.
+4. **Ghana Vadya (idiophones):** sound comes from the vibrating body of the instrument itself, without a membrane. Examples include ghatam, manjira and jaltarang.
 
-**Claim → named evidence → analysis → qualification:**
+The practical value of this classification is immense in UPSC. It prevents common errors such as placing ghatam under drums just because it is struck. The membrane test is decisive: if the sound comes from skin, it is Avanaddha; if the body itself vibrates, it is Ghana. Thus, traditional classification joins theory with clear identification.
 
-- A thaat is an unsung Hindustani parent scale of seven notes stated in ascending order, without vaadi-samvadi or an independent emotional identity.
-- A raga is a melodic entity with aaroha-avaroha, characteristic note hierarchy and phrase, five, six or seven notes, and aesthetic or temporal associations.
-- Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat.
+#### PYQ-M2. What are the important similarities and differences between the Hindustani and Carnatic styles of classical music? (CSE 2009)
 
-**Qualified conclusion:** Thaat and melakarta are parent-scale devices in different traditions, while raga is the performed melodic entity; note count, phrase, hierarchy and emotional identity prevent interchangeability.
+**Model solution**
 
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish thaat, raga and melakarta as systems of melodic classification. Answer in about…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
+Hindustani and Carnatic music are sister traditions with a shared older theoretical base but different historical ecologies.
 
-**Detailed examiner-grade model answer:**
+**Similarities**
 
-**Introduction and thesis:** Thaat and melakarta are parent-scale devices in different traditions, while raga is the performed melodic entity; note count, phrase, hierarchy and emotional identity prevent interchangeability.
+- Both draw upon the older grammar of swara, raga and tala.
+- Both recognise melodic personality, improvisation and disciplined training.
+- Both depend on oral transmission, though later institutionalisation widened access.
 
-**Analytical body:**
+**Differences**
 
-1. **Claim and named evidence:** A thaat is an unsung Hindustani parent scale of seven notes stated in ascending order, without vaadi-samvadi or an independent emotional identity. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** A raga is a melodic entity with aaroha-avaroha, characteristic note hierarchy and phrase, five, six or seven notes, and aesthetic or temporal associations. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Carnatic theory uses seventy-two sampurna melakarta or janaka parent ragas, with janya ragas derived from them; melakarta is not another name for a Hindustani thaat. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
+- **Classification:** Hindustani uses the pedagogic 10-thaat system; Carnatic uses 72 melakarta parent ragas with janya derivation.
+- **Performance grammar:** Hindustani works through alap, bandish, taan and gharana idiom; Carnatic uses kriti structure, alapana, neraval, kalpana swara and RTP.
+- **Patronage ecology:** Hindustani developed strongly through North Indian courts and regional lineages; Carnatic remained more closely tied to temple, devotional and later sabha institutions.
+- **Major forms:** Hindustani highlights dhrupad, khayal, thumri and tappa; Carnatic foregrounds kriti, varnam, padam, javali and tillana.
 
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
+The best conclusion is that their difference lies in organised grammar and patronage history, not in any simplistic foreign-versus-pure divide.
 
-**Qualified conclusion:** Thaat and melakarta are parent-scale devices in different traditions, while raga is the performed melodic entity; note count, phrase, hierarchy and emotional identity prevent interchangeability.
+#### PYQ-M3. Write about Khayal music. (CSE 1997)
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence definition and thesis; organise three named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
+**Model solution**
 
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
+Khayal is a major Hindustani classical vocal form whose very name suggests imagination or idea. It is based on short compositions called bandish and is widely valued because it offers large space for improvisation.
 
-**How to improve this answer:** For “Distinguish thaat, raga and melakarta as systems of melodic classification. Answer in about…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
+A typical performance works through two broad levels: **bada khayal** in slow tempo and **chhota khayal** in faster tempo. Compared with dhrupad, khayal gives less space to austere alap and more to taan, lyrical turn and performer-specific elaboration. This flexibility explains why gharana identity becomes especially important in khayal performance.
 
-### ORIGINAL MAINS 2 — 10 MARKS
+Historically, the form received generous patronage in North Indian courtly settings. The topic's safe evidence connects later khayal strengthening with Muhammad Shah's court and with composers such as Sadarang. Gharanas such as Gwalior, Kirana, Agra, Patiala and Bhendibazaar then diversified its delivery.
 
-**Question:** Explain the gharana as a system of musical transmission. Answer in about 150 words.
+Thus khayal is best described as the Hindustani form in which disciplined raga grammar and imaginative elaboration meet most visibly.
 
-**Model thesis:** A gharana concentrates technique through lineage and apprenticeship, links skill to patronage and survives political change by moving into concert, radio, teaching and recording.
+#### PYQ-M4. What are the chief characteristics of classical music? (CSE 1990)
 
-**Claim → named evidence → analysis → qualification:**
+**Model solution**
 
-- A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship.
-- Dagar centres Dhrupad, Darbhanga balances alaap and layakari, Gwalior is the oldest khayal gharana, Kirana stresses swara, Agra blends khayal and Dhrupad-Dhamar, and Patiala favours thumri-ghazal.
+Indian classical music is distinguished by grammar, discipline and improvisation working together.
 
-**Qualified conclusion:** A gharana concentrates technique through lineage and apprenticeship, links skill to patronage and survives political change by moving into concert, radio, teaching and recording.
+- It rests on a codified pitch system: shruti, swara and saptak.
+- It organises melody through raga, not through arbitrary tune-making.
+- It organises rhythm through tala and laya.
+- It depends on prolonged training, oral transmission and close teacher-student discipline.
+- It allows improvisation, but within formal rules rather than without structure.
+- It preserves named forms and lineages such as dhrupad, khayal and kriti traditions.
+- It is historically tied to patronage institutions - temple, court, household, sabha and modern academy.
 
-**Demand decoding:** The directive **explain** requires a direct position on “Explain the gharana as a system of musical transmission. Answer in about 150 words.”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
+Therefore, classical music is neither rigid recitation nor free spontaneity. Its defining mark is disciplined creativity inside a recognised grammar.
 
-**Detailed examiner-grade model answer:**
+#### PYQ-M5. Which instrument does Ustad Amjad Ali Khan play? (CSE 1982)
 
-**Introduction and thesis:** A gharana concentrates technique through lineage and apprenticeship, links skill to patronage and survives political change by moving into concert, radio, teaching and recording.
+**Model solution**
 
-**Analytical body:**
+Ustad Amjad Ali Khan is associated with the **sarod**.
 
-1. **Claim and named evidence:** A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Dagar centres Dhrupad, Darbhanga balances alaap and layakari, Gwalior is the oldest khayal gharana, Kirana stresses swara, Agra blends khayal and Dhrupad-Dhamar, and Patiala favours thumri-ghazal. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
+In answer-writing, the stronger version is not to stop at the one-word reply. Sarod belongs to the **Tata Vadya** family because it is a string instrument. That extension shows both factual knowledge and classificatory understanding, which is always safer in art-and-culture answers than isolated name recall.
 
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
+## ORIGINAL MAINS PRACTICE WITH MODEL SOLUTIONS
 
-**Qualified conclusion:** A gharana concentrates technique through lineage and apprenticeship, links skill to patronage and survives political change by moving into concert, radio, teaching and recording.
+### Original Q1. Distinguish raga from scale and tala from beat. Why does this precision matter in UPSC answers? (10 marks, 150 words)
 
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence definition and thesis; organise three named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
+**Model solution**
 
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
+Indian music demands conceptual precision. A **scale** is a simple ordered pitch set; a **raga** is much more. A raga has arohana-avarohana, note hierarchy such as vadi and samvadi, characteristic phrase or pakad, and often a rasa-time association. Similarly, a **beat** is a simple pulse, whereas **tala** is the structured rhythmic cycle within which performance unfolds. **Laya** is the tempo of that cycle, not the cycle itself.
 
-**How to improve this answer:** For “Explain the gharana as a system of musical transmission. Answer in about 150 words.”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
+This precision matters because UPSC often uses close options. If a candidate equates raga with scale, thaat with raga, or tala with beat, the answer loses both theory and application. Accurate terminology also strengthens Mains answers: it shows that Indian music is a codified art with grammar, not a vague emotional practice. Therefore, definitional accuracy is itself a scoring skill in this topic.
 
-### ORIGINAL MAINS 3 — 15 MARKS
+### Original Q2. Explain how dhrupad and khayal represent both continuity and change within Hindustani classical music. (10 marks, 150 words)
 
-**Question:** Compare Hindustani and Carnatic music on common analytical axes. Answer in about 250 words.
+**Model solution**
 
-**Model thesis:** The traditions share theory but organise parent scales, improvisation, repertoire, patronage and performance sequence differently; comparison must reject foreign-pure and fixed-improvised binaries.
+Dhrupad and khayal are best read together. Both are classical Hindustani forms built around raga, training and disciplined presentation. That is the continuity. Yet they differ in performance emphasis. **Dhrupad** is grave, alap-led, Sanskritic in flavour and closely associated with pakhawaj accompaniment and older devotional-courtly gravity. **Khayal**, by contrast, relies on shorter bandish, bada-chhota sequencing and far greater room for taan-led improvisation and performer-specific imagination.
 
-**Claim → named evidence → analysis → qualification:**
+The historical significance of this shift lies in patronage and taste. Dhrupad rose to major prestige in earlier courtly worlds including Akbar's time, while khayal later expanded under changed performance cultures and under figures such as Sadarang in Muhammad Shah's period. Thus change in form did not destroy continuity in grammar; it reorganised the same tradition around new expressive priorities.
 
-- Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure.
-- Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws.
-- Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta.
-- Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity.
-- A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana.
+### Original Q3. Compare Hindustani and Carnatic music through grammar, patronage and transmission rather than through geography alone. (15 marks, 250 words)
 
-**Qualified conclusion:** The traditions share theory but organise parent scales, improvisation, repertoire, patronage and performance sequence differently; comparison must reject foreign-pure and fixed-improvised binaries.
+**Model solution**
 
-**Demand decoding:** The directive **compare** requires a direct position on “Compare Hindustani and Carnatic music on common analytical axes. Answer in about 250 words.”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
+Hindustani and Carnatic music share an older theoretical inheritance, but their mature forms emerged through different musical ecologies. A strong comparison must therefore move beyond the lazy North-South label.
 
-**Detailed examiner-grade model answer:**
+**First, grammar.** Hindustani music uses the pedagogic logic of **10 thaats**, while Carnatic music works through **72 melakarta** parent ragas and derived janya ragas. Hindustani performance often emphasises alap, bandish, taan and gharana-specific phrasing; Carnatic performance is more overtly composition-centred through kriti, yet retains powerful improvisation through alapana, neraval, kalpana swara and Ragam-Tanam-Pallavi.
 
-**Introduction and thesis:** The traditions share theory but organise parent scales, improvisation, repertoire, patronage and performance sequence differently; comparison must reject foreign-pure and fixed-improvised binaries.
+**Second, patronage.** Hindustani music developed strongly through devotional, Sultanate, Mughal and regional-court settings. Carnatic music remained more tightly linked to temple, devotional and later sabha institutions. This difference of patronage shaped not only venue but also repertoire and memory.
 
-**Analytical body:**
+**Third, transmission.** Hindustani music is deeply marked by the gharana system, where lineage identity preserves style and technique. Carnatic music also values lineage, but guru-shishya and composer-centred repertoire are often safer descriptors than rigid gharana language.
 
-1. **Claim and named evidence:** Hindustani and Carnatic music share older theory but differ in classification, repertoire, ornament and performance sequence; neither is improvisation-free or culturally pure. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-5. **Claim and named evidence:** A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
+**Conclusion:** The two traditions are sister systems. They differ in organised grammar, patronage and transmission patterns, not in cultural worth. That is the exam-safe comparison.
 
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
+### Original Q4. Classify Indian musical instruments and show how instrument-identification can become a high-scoring prelims elimination tool. (15 marks, 250 words)
 
-**Qualified conclusion:** The traditions share theory but organise parent scales, improvisation, repertoire, patronage and performance sequence differently; comparison must reject foreign-pure and fixed-improvised binaries.
+**Model solution**
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
+Indian musical instruments are traditionally classified by the **mechanism of sound production**, and this method itself becomes an excellent prelims tool.
 
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
+**1. Tata Vadya (chordophones):** Strings vibrate. Examples: sitar, veena, sarangi, tanpura, santoor. Even struck string instruments like santoor remain Tata because the vibrating string is the decisive element.
 
-**How to improve this answer:** For “Compare Hindustani and Carnatic music on common analytical axes. Answer in about 250 words.”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
+**2. Sushira Vadya (aerophones):** Sound comes from an air column. Examples: bansuri, shehnai, pungi. The association of shehnai with Bismillah Khan helps identification.
 
-### ORIGINAL MAINS 4 — 15 MARKS
+**3. Avanaddha Vadya (membranophones):** A stretched membrane produces the sound. Examples: tabla, mridangam, dhol. The membrane test is the decisive prelims trick.
 
-**Question:** Assess the role of treatises and modern institutions in standardising Indian music. Answer in about 250 words.
+**4. Ghana Vadya (idiophones):** The instrument's body itself vibrates. Examples: ghatam, manjira, jaltarang, khartal.
 
-**Model thesis:** Texts fixed concepts such as raga and melakarta, while Bhatkhande, Paluskar and institutions widened transmission beyond hereditary circles but also standardised plural practice.
+This classification helps eliminate traps. A ghatam is struck, but that does not make it a drum; without a membrane it belongs to Ghana. Sufiana kalam is a genre, not an instrument, though the source associates it with the santoor. Likewise, tabla belongs to Hindustani usage, mridangam to Carnatic. Thus classification converts rote memory into a reliable answer method.
 
-**Claim → named evidence → analysis → qualification:**
+### Original Q5. Examine how temple, court, lineage and modern institution together shaped the historical continuity of Indian music. (20 marks, 250 words)
 
-- Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta.
-- V.N. Bhatkhande systematised thaat-based Hindustani pedagogy, while V.D. Paluskar founded Gandharva Mahavidyalaya in 1901 to teach and transmit classical music.
-- Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition.
+**Model solution**
 
-**Qualified conclusion:** Texts fixed concepts such as raga and melakarta, while Bhatkhande, Paluskar and institutions widened transmission beyond hereditary circles but also standardised plural practice.
+Indian music survived because its centres of support changed without destroying its underlying grammar.
 
-**Demand decoding:** The directive **assess** requires a direct position on “Assess the role of treatises and modern institutions in standardising Indian music. Answer in…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
+**Temple and devotional worlds** nurtured music through liturgical chant, bhakti singing and composer traditions. In Carnatic history, Annamacharya, Purandara Dasa and later saint-composer memory demonstrate how deity-centred composition created continuity.
 
-**Detailed examiner-grade model answer:**
+**Courtly patronage** was equally transformative. Dhrupad, khayal and several semi-classical developments expanded under Sultanate, Mughal and regional courts. Figures such as Tansen, Raja Man Singh Tomar, Ibrahim Adil Shah II and later Sadarang show that courts shaped both repertoire and prestige.
 
-**Introduction and thesis:** Texts fixed concepts such as raga and melakarta, while Bhatkhande, Paluskar and institutions widened transmission beyond hereditary circles but also standardised plural practice.
+**Lineage transmission** ensured survival beyond individual rulers. Gharanas such as Dagar, Kirana, Agra or Patiala preserved technique, repertoire and style through family memory and apprenticeship. Even where Carnatic music uses different labels, guru-shishya discipline performs the same civilisational function.
 
-**Analytical body:**
+**Modern institutions** then redirected patronage. Gandharva Mahavidyalaya, Bhatkhande's institute, Prayag Sangeet Samiti, Sangeet Natak Akademi and SPIC MACAY widened access, visibility and legitimacy. Broadcast, concert culture and recording further shifted music into public space.
 
-1. **Claim and named evidence:** Bharata links music with drama, Matanga's Brihaddeshi defines raga, Sharngadeva's Sangita Ratnakara precedes bifurcation, and Venkatamakhin systematises melakarta. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** V.N. Bhatkhande systematised thaat-based Hindustani pedagogy, while V.D. Paluskar founded Gandharva Mahavidyalaya in 1901 to teach and transmit classical music. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
+**Conclusion:** Indian music endured not because one patronage model lasted forever, but because the tradition successfully moved from temple and court to lineage and institution.
 
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
+### Original Q6. Discuss the place of folk, devotional and fusion traditions in Indian music. Why should a UPSC answer avoid both hierarchy and careless invention claims? (20 marks, 250 words)
 
-**Qualified conclusion:** Texts fixed concepts such as raga and melakarta, while Bhatkhande, Paluskar and institutions widened transmission beyond hereditary circles but also standardised plural practice.
+**Model solution**
 
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
+Indian music is not exhausted by classical grammar. Folk, devotional and fusion traditions reveal how sound carries society.
 
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
+**Folk traditions** such as Pandavani, Panihari, Maand, Borgeet and Baul encode epic memory, labour, locality, season, devotion and regional identity. They are valuable historical evidence precisely because they are anchored in community life rather than court canon.
 
-**How to improve this answer:** For “Assess the role of treatises and modern institutions in standardising Indian music. Answer in…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
+**Devotional traditions** such as bhajan, shabad, qawwali, haveli sangeet, kirtan and sopana sangeetham show how doctrine becomes public performance. They also bridge elite and popular spheres because ritual participation widens the audience beyond specialists.
 
-### ORIGINAL MAINS 5 — 20 MARKS
+**Fusion** emerges where classical vocabulary and social reach overlap. The source itself notes that classical and folk intermingle over time, especially through devotional pathways.
 
-**Question:** Trace changing patronage and transmission in Indian classical music. Answer in about 300 words.
+However, two cautions matter in UPSC.
 
-**Model thesis:** Temple, court, household, gharana, sabha, festival, school, radio and recording redirected traditions rather than simply replacing one another; the Aurangzeb case tests this continuity.
+First, do not rank folk below classical. Their difference is one of function, transmission and setting, not artistic inferiority.
 
-**Claim → named evidence → analysis → qualification:**
+Second, do not overstate invention claims. Several forms or instruments are popularly attributed to singular figures, especially Amir Khusrau, but the advanced source explicitly warns that such claims need documentary caution.
 
-- A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship.
-- Imperial court singing was curtailed, but instruments, elite patronage and music writing continued; Aurangzeb played the veena and Sadarang-Adarang later strengthened khayal under Muhammad Shah.
-- Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity.
-- A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana.
-- Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition.
-
-**Qualified conclusion:** Temple, court, household, gharana, sabha, festival, school, radio and recording redirected traditions rather than simply replacing one another; the Aurangzeb case tests this continuity.
-
-**Demand decoding:** The directive **trace** requires a direct position on “Trace changing patronage and transmission in Indian classical music. Answer in about 300…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Temple, court, household, gharana, sabha, festival, school, radio and recording redirected traditions rather than simply replacing one another; the Aurangzeb case tests this continuity.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A gharana is a family or lineage-based structure that concentrates specialised technique, ties it to patronage and reproduces it through descent or long apprenticeship. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Imperial court singing was curtailed, but instruments, elite patronage and music writing continued; Aurangzeb played the veena and Sadarang-Adarang later strengthened khayal under Muhammad Shah. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Annamacharya praised Venkateswara, Purandara Dasa is honoured for pedagogic and repertorial foundations, and Tyagaraja, Muthuswami Dikshitar and Syama Sastri form the Carnatic Trinity. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** A kriti is a composed Carnatic form set to raga and tala with pallavi, anupallavi and charana; concerts also use varnam, alapana, niraval, kalpana swara, tanam and tillana. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-5. **Claim and named evidence:** Sangeet Natak Akademi award lists are dynamic official recognition records; an award does not define a raga, gharana, instrument family or the historical value of a tradition. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Temple, court, household, gharana, sabha, festival, school, radio and recording redirected traditions rather than simply replacing one another; the Aurangzeb case tests this continuity.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence definition and thesis; organise six to eight named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Trace changing patronage and transmission in Indian classical music. Answer in about 300…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Discuss the relationship among classical theory, instruments and folk function in Indian music. Answer in about 300 words.
-
-**Model thesis:** Scale and raga theory, instrument sound mechanisms and occasion-bound folk repertoires are distinct but interacting systems; none supplies a hierarchy of cultural worth.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada form the seven-note base shared across Indian classical traditions.
-- Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws.
-- Tata are chordophones, Sushira aerophones, Avanaddha membranophones and Ghana idiophones; the presence of a stretched membrane separates Avanaddha from solid-bodied Ghana.
-- Santoor is a struck string instrument, ghatam and jaltarang are Ghana, tabla and mridangam are Avanaddha, and no inventor or unsupported invention date should be attached to them.
-- Baul, Pandavani, Panihari, Lavani, Powada, Khongjom Parba and other forms are best distinguished by region, occasion, theme and transmission rather than ranked below classical music.
-
-**Qualified conclusion:** Scale and raga theory, instrument sound mechanisms and occasion-bound folk repertoires are distinct but interacting systems; none supplies a hierarchy of cultural worth.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss the relationship among classical theory, instruments and folk function in Indian…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Scale and raga theory, instrument sound mechanisms and occasion-bound folk repertoires are distinct but interacting systems; none supplies a hierarchy of cultural worth.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Shadja, Rishabha, Gandhara, Madhyama, Panchama, Dhaivata and Nishada form the seven-note base shared across Indian classical traditions. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Music uses the wider nine-rasa aesthetic vocabulary by associating melodic treatment with mood, time or season; such associations are tradition-specific rather than universal acoustical laws. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Tata are chordophones, Sushira aerophones, Avanaddha membranophones and Ghana idiophones; the presence of a stretched membrane separates Avanaddha from solid-bodied Ghana. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** Santoor is a struck string instrument, ghatam and jaltarang are Ghana, tabla and mridangam are Avanaddha, and no inventor or unsupported invention date should be attached to them. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-5. **Claim and named evidence:** Baul, Pandavani, Panihari, Lavani, Powada, Khongjom Parba and other forms are best distinguished by region, occasion, theme and transmission rather than ranked below classical music. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Scale and raga theory, instrument sound mechanisms and occasion-bound folk repertoires are distinct but interacting systems; none supplies a hierarchy of cultural worth.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence definition and thesis; organise six to eight named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Discuss the relationship among classical theory, instruments and folk function in Indian…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
+**Conclusion:** A mature answer treats Indian music as a layered sound-world of grammar, community and memory, while keeping evidence limits visible.

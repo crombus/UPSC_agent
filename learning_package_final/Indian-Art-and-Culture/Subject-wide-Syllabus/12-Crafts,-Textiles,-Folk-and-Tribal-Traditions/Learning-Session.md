@@ -1,3006 +1,782 @@
 ---
-title: "Crafts, Textiles, Folk and Tribal Traditions — Learner-v2 Refreshed"
+title: "Crafts, Textiles, Folk and Tribal Traditions - Complete Learning Session"
 topic_key: indian-art-and-culture-12
-cover_image: assets/indian-art-and-culture-12_Teaching-Navigation_2026-09-01.png
 ---
-# Crafts, Textiles, Folk and Tribal Traditions — Learner-v2 Complete Learning Session
+# Crafts, Textiles, Folk and Tribal Traditions - Complete Learning Session
 
-> **Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.
+> This repaired package teaches Topic 12 through a full craft-ecology route: classification -> textile process grammar -> chronology -> weaving and embroidery identification -> North-East handloom -> non-textile crafts -> GI, institutions, livelihood and bounded-gap discipline.
 
-### SOURCE, PROGRESSION AND CURRENT-LINKAGE AUDIT
+## SOURCE AND VERIFICATION BASE
 
-- **Generation date:** 2026-09-01.
-- **Repository-first evidence:** the Basic owner is taught first and preserved in full; the Advanced owner is retained only in the optional final teaching block.
-- **OCR evidence:** Repository Markdown was primary. The available OCR-searchable Nitin Singhania Indian Art and Culture PDF was retained as a supplementary source; no unsupported page precision, quotation or dynamic status was imported from it.
-- **Qdrant:** not used; repository Markdown and available OCR context were sufficient.
-- **PYQ integrity:** No direct GS-I Mains PYQ is routed to Topic 12. The audited direct objective routes are the two 2018 matching demands and the provisional 2026 Eri-Oeko-Tex demand; the 2024 handicraft-decline and diversity-marginality Mains questions remain adjacent routes owned by Modern History or Economy and Indian Society.
-- **Live-link boundary:** The Development Commissioner (Handlooms) official 2025 award-selection document was located and checked on 2026-09-01. It is used only to show that handloom skill receives current institutional recognition; no recipient, count, fibre attribution, GI status or certification claim is imported from the document.
-- **Fact/inference discipline:** no current-affairs item, PYQ wording, figure or quotation is invented.
-
-## BASIC LEARNING SESSION
-
-### DEEP-REVIEW LEARNING CONTRACT
-
-| Control | Binding rule for this package |
-|---|---|
-| Syllabus boundary | Complete Indian Art and Culture Core is taught by form, chronology, region, patronage and function before optional enrichment. |
-| Evidence method | Claim → named monument/object/text/form/institution/community → analysis → qualification. |
-| Chronology | Origin, surviving evidence, patronage phase, later adaptation, recognition and present status remain distinct. |
-| Classification | Architecture, sculpture, painting, music, dance, theatre, language, craft, religion, heritage and cinema terms are compared on common axes without collapsing categories. |
-| Interpretation | Style labels, iconographic readings, continuity, synthesis and social representation remain evidence-bounded rather than essentialist. |
-| Practice contract | Every solved item has directive/demand decoding, a detailed examiner-grade model, executable compression plan, marks rationale and answer-specific improvement. |
-| Approval | This immutable successor remains `approved: false` pending explicit approval. |
-
-**Canonical Basic/Core owner:** `upsc-ai-kit\knowledge\Indian-Art-and-Culture\basic\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md`  
-**Canonical topic owner:** `upsc-ai-kit\knowledge\Indian-Art-and-Culture\basic\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md`  
-**Optional Advanced owner:** `upsc-ai-kit\knowledge\Indian-Art-and-Culture\advanced\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md`  
-**Official syllabus mapping:** `upsc-ai-kit\knowledge\Indian-Art-and-Culture\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`
-
-### EVIDENCE, PYQ AND CURRENT-STATUS CONTROL
-
-- **Material evidence:** plans, fabric, technique, iconography, performance grammar, inscriptions, manuscripts, films and institutional records are identified before interpretation.
-- **Attribution discipline:** patron, date, school, region, author, performer, community and function are stated only to the precision supported by the owner.
-- **Quantitative discipline:** dimensions, counts, inscription years, lists, awards and registrations retain source, date, status and uncertainty; no figure is invented.
-- **Interpretive discipline:** civilisational ranking, communal essentialism, timeless continuity, single-origin claims and treating commissioned representation as a social census are rejected.
-- **PYQ discipline:** repository routing ledgers and locally held papers control wording and metadata; neutral rendering, reconstruction and unavailable official keys remain explicitly labelled.
-- **Current-status note, rechecked 2026-09-04:** Rechecked 2026-09-04: the Development Commissioner (Handlooms) official award page and 2025 selection document verify only current institutional recognition of named handloom work. They do not prove GI status, certification, fair livelihood, tribal attribution or unchanged community practice.
-
-**Live/official context sources recorded by the predecessor generation:**
-
-- `https://www.handlooms.gov.in/award_details.php`
-- `https://handlooms.gov.in/assets/img/upcoming_markeing/Final%20List%20of%20selected%20entries%20for%20Sant%20Kabir_awards_2025.pdf`
-
-![Refreshed teaching navigation](assets/indian-art-and-culture-12_Teaching-Navigation_2026-09-01.png)
-
-*Distinct embedded teaching-navigation image. The separate continuous Cārvāka-style flowchart package remains an independent at-a-glance artifact.*
-
-### SESSION 1 — FOUNDATION — Handicraft and its material classes
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Handicraft and its material classes is the part of Crafts, Textiles, Folk and Tribal Traditions that explains how Handicraft and material classes fit into one examinable idea.
-
-**Technical definition:** In art-historical analysis, Handicraft and its material classes denotes the source-bounded relationship among Handicraft and material classes, classified by form, medium, patronage, performance context and evidentiary limit.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Handicraft and its material classes should be analysed as a relation among Handicraft and material classes, not as an isolated list of names.
-
-#### MUST-WRITE KEYWORDS
-
-- **Handicraft**
-- **material**
-- **classes**
-- **joins**
-- **hand**
-- **skill**
-
-**How to use them:** Define Handicraft, material, classes; cite joins as named evidence; then apply this qualification: A material list becomes analysis only when linked to skill and livelihood. Conclude by showing how the distinction supports this answer route: Define the scope before naming examples..
-
-#### VISUAL FIRST
-
-```text
-HANDICRAFT AND ITS MATERIAL CLASSES
-01. Handicraft and material classes
-BOUNDARY -> A material list becomes analysis only when linked to skill and livelihood.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs.
-
-#### EXAMINER CAUTION
-
-- A material list becomes analysis only when linked to skill and livelihood.
-
-#### EXAM LINK
-
-- **Prelims:** Retain the exact form, region, text, technique or institution attached to Handicraft and its material classes.
-- **Mains:** Define the scope before naming examples.
-
-#### MINI RECAP
-
-- **Evidence chain:** Handicraft and material classes
-- **Qualified use:** Define the scope before naming examples.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Handicraft and its material classes
-EXACT TERMS: Handicraft | material | classes | joins | hand | skill
-MECHANISM / ARGUMENT: relate Handicraft and material classes through form, context and patronage
-CONSEQUENCE / CONTRAST: This relation supports the answer route that define the scope before naming examples.
-UPSC TRAP / ANSWER-USE: LIMIT: A material list becomes analysis only when linked to skill and livelihood.
-ANSWER-GRABBING FORMULATION: Handicraft and its material classes converts named evidence into a qualified argument
-```
-
-### SESSION 2 — FOUNDATION — The craft ecology chain
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** The craft ecology chain is the part of Crafts, Textiles, Folk and Tribal Traditions that explains how Craft ecology chain fit into one examinable idea.
-
-**Technical definition:** In art-historical analysis, The craft ecology chain denotes the source-bounded relationship among Craft ecology chain, classified by form, medium, patronage, performance context and evidentiary limit.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> The craft ecology chain should be analysed as a relation among Craft ecology chain, not as an isolated list of names.
-
-#### MUST-WRITE KEYWORDS
-
-- **craft**
-- **ecology**
-- **chain**
-- **survives**
-- **linked**
-- **material**
-
-**How to use them:** Define craft, ecology, chain; cite survives as named evidence; then apply this qualification: Legal recognition is one link, not the whole system. Conclude by showing how the distinction supports this answer route: Build the causal spine for every craft answer..
-
-#### VISUAL FIRST
-
-```text
-THE CRAFT ECOLOGY CHAIN
-01. Craft ecology chain
-BOUNDARY -> Legal recognition is one link, not the whole system.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone.
-
-#### EXAMINER CAUTION
-
-- Legal recognition is one link, not the whole system.
-
-#### EXAM LINK
-
-- **Prelims:** Retain the exact form, region, text, technique or institution attached to The craft ecology chain.
-- **Mains:** Build the causal spine for every craft answer.
-
-#### MINI RECAP
-
-- **Evidence chain:** Craft ecology chain
-- **Qualified use:** Build the causal spine for every craft answer.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: The craft ecology chain
-EXACT TERMS: craft | ecology | chain | survives | linked | material
-MECHANISM / ARGUMENT: relate Craft ecology chain through form, context and patronage
-CONSEQUENCE / CONTRAST: This relation supports the answer route that build the causal spine for every craft answer.
-UPSC TRAP / ANSWER-USE: LIMIT: Legal recognition is one link, not the whole system.
-ANSWER-GRABBING FORMULATION: The craft ecology chain converts named evidence into a qualified argument
-```
-
-### SESSION 3 — FOUNDATION — What a GI legally protects
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** What a GI legally protects is the part of Crafts, Textiles, Folk and Tribal Traditions that explains how GI as origin-linked IP and GI legal mechanics fit into one examinable idea.
-
-**Technical definition:** In art-historical analysis, What a GI legally protects denotes the source-bounded relationship among GI as origin-linked IP and GI legal mechanics, classified by form, medium, patronage, performance context and evidentiary limit.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> What a GI legally protects should be analysed as a relation among GI as origin-linked IP and GI legal mechanics, not as an isolated list of names.
-
-#### MUST-WRITE KEYWORDS
-
-- **What**
-- **legally**
-- **protects**
-- **origin-linked**
-- **legal**
-- **mechanics**
-
-**How to use them:** Define What, legally, protects; cite origin-linked as named evidence; then apply this qualification: Origin-linked name protection is not quality or welfare certification. Conclude by showing how the distinction supports this answer route: State the instrument and statutory limit precisely..
-
-#### VISUAL FIRST
-
-```text
-WHAT A GI LEGALLY PROTECTS
-01. GI as origin-linked IP
-    |
-    v
-02. GI legal mechanics
-BOUNDARY -> Origin-linked name protection is not quality or welfare certification.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee. India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee.
-- India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration.
-
-#### EXAMINER CAUTION
-
-- Origin-linked name protection is not quality or welfare certification.
-
-#### EXAM LINK
-
-- **Prelims:** Retain the exact form, region, text, technique or institution attached to What a GI legally protects.
-- **Mains:** State the instrument and statutory limit precisely.
-
-#### MINI RECAP
-
-- **Evidence chain:** GI as origin-linked IP -> GI legal mechanics
-- **Qualified use:** State the instrument and statutory limit precisely.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: What a GI legally protects
-EXACT TERMS: What | legally | protects | origin-linked | legal | mechanics
-MECHANISM / ARGUMENT: relate GI as origin-linked IP and GI legal mechanics through form, context and patronage
-CONSEQUENCE / CONTRAST: This relation supports the answer route that state the instrument and statutory limit precisely.
-UPSC TRAP / ANSWER-USE: LIMIT: Origin-linked name protection is not quality or welfare certification.
-ANSWER-GRABBING FORMULATION: What a GI legally protects converts named evidence into a qualified argument
-```
-
-### SESSION 4 — CORE — First GI and foreign protection
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** First GI and foreign protection is the part of Crafts, Textiles, Folk and Tribal Traditions that explains how First and cross-border GI examples fit into one examinable idea.
-
-**Technical definition:** In art-historical analysis, First GI and foreign protection denotes the source-bounded relationship among First and cross-border GI examples, classified by form, medium, patronage, performance context and evidentiary limit.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> First GI and foreign protection should be analysed as a relation among First and cross-border GI examples, not as an isolated list of names.
-
-#### MUST-WRITE KEYWORDS
-
-- **First**
-- **foreign**
-- **protection**
-- **cross-border**
-- **examples**
-- **Darjeeling**
-
-**How to use them:** Define First, foreign, protection; cite cross-border as named evidence; then apply this qualification: Cross-border protection requires a separate jurisdictional act. Conclude by showing how the distinction supports this answer route: Use dated examples without implying automatic extension..
-
-#### VISUAL FIRST
-
-```text
-FIRST GI AND FOREIGN PROTECTION
-01. First and cross-border GI examples
-BOUNDARY -> Cross-border protection requires a separate jurisdictional act.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad.
-
-#### EXAMINER CAUTION
-
-- Cross-border protection requires a separate jurisdictional act.
-
-#### EXAM LINK
-
-- **Prelims:** Retain the exact form, region, text, technique or institution attached to First GI and foreign protection.
-- **Mains:** Use dated examples without implying automatic extension.
-
-#### MINI RECAP
-
-- **Evidence chain:** First and cross-border GI examples
-- **Qualified use:** Use dated examples without implying automatic extension.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: First GI and foreign protection
-EXACT TERMS: First | foreign | protection | cross-border | examples | Darjeeling
-MECHANISM / ARGUMENT: relate First and cross-border GI examples through form, context and patronage
-CONSEQUENCE / CONTRAST: This relation supports the answer route that use dated examples without implying automatic extension.
-UPSC TRAP / ANSWER-USE: LIMIT: Cross-border protection requires a separate jurisdictional act.
-ANSWER-GRABBING FORMULATION: First GI and foreign protection converts named evidence into a qualified argument
-```
-
-### SESSION 5 — CORE — Continuity through changing markets
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Continuity through changing markets is the part of Crafts, Textiles, Folk and Tribal Traditions that explains how Continuity through market change fit into one examinable idea.
-
-**Technical definition:** In art-historical analysis, Continuity through changing markets denotes the source-bounded relationship among Continuity through market change, classified by form, medium, patronage, performance context and evidentiary limit.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Continuity through changing markets should be analysed as a relation among Continuity through market change, not as an isolated list of names.
-
-#### MUST-WRITE KEYWORDS
-
-- **Continuity**
-- **changing**
-- **markets**
-- **market**
-- **change**
-- **Harappan**
-
-**How to use them:** Define Continuity, changing, markets; cite market as named evidence; then apply this qualification: Continuity does not mean unchanged design, patronage or labour. Conclude by showing how the distinction supports this answer route: Trace adaptation across historical markets..
-
-#### VISUAL FIRST
-
-```text
-CONTINUITY THROUGH CHANGING MARKETS
-01. Continuity through market change
-BOUNDARY -> Continuity does not mean unchanged design, patronage or labour.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production.
-
-#### EXAMINER CAUTION
-
-- Continuity does not mean unchanged design, patronage or labour.
-
-#### EXAM LINK
-
-- **Prelims:** Retain the exact form, region, text, technique or institution attached to Continuity through changing markets.
-- **Mains:** Trace adaptation across historical markets.
-
-#### MINI RECAP
-
-- **Evidence chain:** Continuity through market change
-- **Qualified use:** Trace adaptation across historical markets.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Continuity through changing markets
-EXACT TERMS: Continuity | changing | markets | market | change | Harappan
-MECHANISM / ARGUMENT: relate Continuity through market change through form, context and patronage
-CONSEQUENCE / CONTRAST: This relation supports the answer route that trace adaptation across historical markets.
-UPSC TRAP / ANSWER-USE: LIMIT: Continuity does not mean unchanged design, patronage or labour.
-ANSWER-GRABBING FORMULATION: Continuity through changing markets converts named evidence into a qualified argument
-```
-
-### SESSION 6 — CORE — Ikat close options
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Ikat close options is the part of Crafts, Textiles, Folk and Tribal Traditions that explains how Patola and Pochampally fit into one examinable idea.
-
-**Technical definition:** In art-historical analysis, Ikat close options denotes the source-bounded relationship among Patola and Pochampally, classified by form, medium, patronage, performance context and evidentiary limit.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Ikat close options should be analysed as a relation among Patola and Pochampally, not as an isolated list of names.
-
-#### MUST-WRITE KEYWORDS
-
-- **Ikat**
-- **close**
-- **options**
-- **Patola**
-- **Pochampally**
-- **from**
-
-**How to use them:** Define Ikat, close, options; cite Patola as named evidence; then apply this qualification: State centre and resist-dye logic together. Conclude by showing how the distinction supports this answer route: Separate Patola from Pochampally..
-
-#### VISUAL FIRST
-
-```text
-IKAT CLOSE OPTIONS
-01. Patola and Pochampally
-BOUNDARY -> State centre and resist-dye logic together.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together.
-
-#### EXAMINER CAUTION
-
-- State centre and resist-dye logic together.
-
-#### EXAM LINK
-
-- **Prelims:** Retain the exact form, region, text, technique or institution attached to Ikat close options.
-- **Mains:** Separate Patola from Pochampally.
-
-#### MINI RECAP
-
-- **Evidence chain:** Patola and Pochampally
-- **Qualified use:** Separate Patola from Pochampally.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Ikat close options
-EXACT TERMS: Ikat | close | options | Patola | Pochampally | from
-MECHANISM / ARGUMENT: relate Patola and Pochampally through form, context and patronage
-CONSEQUENCE / CONTRAST: This relation supports the answer route that separate Patola from Pochampally.
-UPSC TRAP / ANSWER-USE: LIMIT: State centre and resist-dye logic together.
-ANSWER-GRABBING FORMULATION: Ikat close options converts named evidence into a qualified argument
-```
-
-### SESSION 7 — CORE — Brocade, silk and embroidery
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Brocade, silk and embroidery is the part of Crafts, Textiles, Folk and Tribal Traditions that explains how Kanchipuram and Banarasi and Chikankari and Kantha fit into one examinable idea.
-
-**Technical definition:** In art-historical analysis, Brocade, silk and embroidery denotes the source-bounded relationship among Kanchipuram and Banarasi and Chikankari and Kantha, classified by form, medium, patronage, performance context and evidentiary limit.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Brocade, silk and embroidery should be analysed as a relation among Kanchipuram and Banarasi and Chikankari and Kantha, not as an isolated list of names.
-
-#### MUST-WRITE KEYWORDS
-
-- **Brocade**
-- **silk**
-- **embroidery**
-- **Kanchipuram**
-- **Banarasi**
-- **Chikankari**
-
-**How to use them:** Define Brocade, silk, embroidery; cite Kanchipuram as named evidence; then apply this qualification: A weave is not embroidery and reuse can be intrinsic to form. Conclude by showing how the distinction supports this answer route: Prepare four-tradition comparison..
-
-#### VISUAL FIRST
-
-```text
-BROCADE, SILK AND EMBROIDERY
-01. Kanchipuram and Banarasi
-    |
-    v
-02. Chikankari and Kantha
-BOUNDARY -> A weave is not embroidery and reuse can be intrinsic to form.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery. Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery.
-- Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions.
-
-#### EXAMINER CAUTION
-
-- A weave is not embroidery and reuse can be intrinsic to form.
-
-#### EXAM LINK
-
-- **Prelims:** Retain the exact form, region, text, technique or institution attached to Brocade, silk and embroidery.
-- **Mains:** Prepare four-tradition comparison.
-
-#### MINI RECAP
-
-- **Evidence chain:** Kanchipuram and Banarasi -> Chikankari and Kantha
-- **Qualified use:** Prepare four-tradition comparison.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Brocade, silk and embroidery
-EXACT TERMS: Brocade | silk | embroidery | Kanchipuram | Banarasi | Chikankari
-MECHANISM / ARGUMENT: relate Kanchipuram and Banarasi and Chikankari and Kantha through form, context and patronage
-CONSEQUENCE / CONTRAST: This relation supports the answer route that prepare four-tradition comparison.
-UPSC TRAP / ANSWER-USE: LIMIT: A weave is not embroidery and reuse can be intrinsic to form.
-ANSWER-GRABBING FORMULATION: Brocade, silk and embroidery converts named evidence into a qualified argument
-```
-
-### SESSION 8 — CORE — Kalamkari, Dhokra and material process
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Kalamkari, Dhokra and material process is the part of Crafts, Textiles, Folk and Tribal Traditions that explains how Kalamkari and Dhokra fit into one examinable idea.
-
-**Technical definition:** In art-historical analysis, Kalamkari, Dhokra and material process denotes the source-bounded relationship among Kalamkari and Dhokra, classified by form, medium, patronage, performance context and evidentiary limit.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Kalamkari, Dhokra and material process should be analysed as a relation among Kalamkari and Dhokra, not as an isolated list of names.
-
-#### MUST-WRITE KEYWORDS
-
-- **Kalamkari**
-- **Dhokra**
-- **material**
-- **process**
-- **uses**
-- **hand-drawn**
-
-**How to use them:** Define Kalamkari, Dhokra, material; cite process as named evidence; then apply this qualification: Surface design and lost-wax casting solve different material problems. Conclude by showing how the distinction supports this answer route: Link process to product..
-
-#### VISUAL FIRST
-
-```text
-KALAMKARI, DHOKRA AND MATERIAL PROCESS
-01. Kalamkari and Dhokra
-BOUNDARY -> Surface design and lost-wax casting solve different material problems.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities.
-
-#### EXAMINER CAUTION
-
-- Surface design and lost-wax casting solve different material problems.
-
-#### EXAM LINK
-
-- **Prelims:** Retain the exact form, region, text, technique or institution attached to Kalamkari, Dhokra and material process.
-- **Mains:** Link process to product.
-
-#### MINI RECAP
-
-- **Evidence chain:** Kalamkari and Dhokra
-- **Qualified use:** Link process to product.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Kalamkari, Dhokra and material process
-EXACT TERMS: Kalamkari | Dhokra | material | process | uses | hand-drawn
-MECHANISM / ARGUMENT: relate Kalamkari and Dhokra through form, context and patronage
-CONSEQUENCE / CONTRAST: This relation supports the answer route that link process to product.
-UPSC TRAP / ANSWER-USE: LIMIT: Surface design and lost-wax casting solve different material problems.
-ANSWER-GRABBING FORMULATION: Kalamkari, Dhokra and material process converts named evidence into a qualified argument
-```
-
-### SESSION 9 — CORE — Glass craft chronology
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Glass craft chronology is the part of Crafts, Textiles, Folk and Tribal Traditions that explains how Glass craft chronology fit into one examinable idea.
-
-**Technical definition:** In art-historical analysis, Glass craft chronology denotes the source-bounded relationship among Glass craft chronology, classified by form, medium, patronage, performance context and evidentiary limit.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Glass craft chronology should be analysed as a relation among Glass craft chronology, not as an isolated list of names.
-
-#### MUST-WRITE KEYWORDS
-
-- **Glass**
-- **craft**
-- **chronology**
-- **owner**
-- **links**
-- **Mahabharata**
-
-**How to use them:** Define Glass, craft, chronology; cite owner as named evidence; then apply this qualification: Textual reference and archaeological evidence are different evidence classes. Conclude by showing how the distinction supports this answer route: Construct a cautious craft-history chain..
-
-#### VISUAL FIRST
-
-```text
-GLASS CRAFT CHRONOLOGY
-01. Glass craft chronology
-BOUNDARY -> Textual reference and archaeological evidence are different evidence classes.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads.
-
-#### EXAMINER CAUTION
-
-- Textual reference and archaeological evidence are different evidence classes.
-
-#### EXAM LINK
-
-- **Prelims:** Retain the exact form, region, text, technique or institution attached to Glass craft chronology.
-- **Mains:** Construct a cautious craft-history chain.
-
-#### MINI RECAP
-
-- **Evidence chain:** Glass craft chronology
-- **Qualified use:** Construct a cautious craft-history chain.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Glass craft chronology
-EXACT TERMS: Glass | craft | chronology | owner | links | Mahabharata
-MECHANISM / ARGUMENT: relate Glass craft chronology through form, context and patronage
-CONSEQUENCE / CONTRAST: This relation supports the answer route that construct a cautious craft-history chain.
-UPSC TRAP / ANSWER-USE: LIMIT: Textual reference and archaeological evidence are different evidence classes.
-ANSWER-GRABBING FORMULATION: Glass craft chronology converts named evidence into a qualified argument
-```
-
-### SESSION 10 — CORE — North-East handloom method
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** North-East handloom method is the part of Crafts, Textiles, Folk and Tribal Traditions that explains how North-East handloom process fit into one examinable idea.
-
-**Technical definition:** In art-historical analysis, North-East handloom method denotes the source-bounded relationship among North-East handloom process, classified by form, medium, patronage, performance context and evidentiary limit.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> North-East handloom method should be analysed as a relation among North-East handloom process, not as an isolated list of names.
-
-#### MUST-WRITE KEYWORDS
-
-- **North-East**
-- **handloom**
-- **process**
-- **owner's**
-- **frame**
-- **links**
-
-**How to use them:** Define North-East, handloom, process; cite owner's as named evidence; then apply this qualification: Region must be joined to community, fibre, process and product. Conclude by showing how the distinction supports this answer route: Replace anonymous tribal labels with sourced specificity..
-
-#### VISUAL FIRST
-
-```text
-NORTH-EAST HANDLOOM METHOD
-01. North-East handloom process
-BOUNDARY -> Region must be joined to community, fibre, process and product.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together.
-
-#### EXAMINER CAUTION
-
-- Region must be joined to community, fibre, process and product.
-
-#### EXAM LINK
-
-- **Prelims:** Retain the exact form, region, text, technique or institution attached to North-East handloom method.
-- **Mains:** Replace anonymous tribal labels with sourced specificity.
-
-#### MINI RECAP
-
-- **Evidence chain:** North-East handloom process
-- **Qualified use:** Replace anonymous tribal labels with sourced specificity.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: North-East handloom method
-EXACT TERMS: North-East | handloom | process | owner's | frame | links
-MECHANISM / ARGUMENT: relate North-East handloom process through form, context and patronage
-CONSEQUENCE / CONTRAST: This relation supports the answer route that replace anonymous tribal labels with sourced specificity.
-UPSC TRAP / ANSWER-USE: LIMIT: Region must be joined to community, fibre, process and product.
-ANSWER-GRABBING FORMULATION: North-East handloom method converts named evidence into a qualified argument
-```
-
-### SESSION 11 — CORE — Eri and Muga firewall
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Eri and Muga firewall is the part of Crafts, Textiles, Folk and Tribal Traditions that explains how Meghalaya Eri evidence and Assam Muga discriminator fit into one examinable idea.
-
-**Technical definition:** In art-historical analysis, Eri and Muga firewall denotes the source-bounded relationship among Meghalaya Eri evidence and Assam Muga discriminator, classified by form, medium, patronage, performance context and evidentiary limit.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Eri and Muga firewall should be analysed as a relation among Meghalaya Eri evidence and Assam Muga discriminator, not as an isolated list of names.
-
-#### MUST-WRITE KEYWORDS
-
-- **Muga**
-- **firewall**
-- **Meghalaya**
-- **Assam**
-- **discriminator**
-- **silk**
-
-**How to use them:** Define Muga, firewall, Meghalaya; cite Assam as named evidence; then apply this qualification: A shared garment cannot identify the fibre or state alone. Conclude by showing how the distinction supports this answer route: Prepare the provisional 2026 route without solving it..
-
-#### VISUAL FIRST
-
-```text
-ERI AND MUGA FIREWALL
-01. Meghalaya Eri evidence
-    |
-    v
-02. Assam Muga discriminator
-BOUNDARY -> A shared garment cannot identify the fibre or state alone.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton. Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton.
-- Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself.
-
-#### EXAMINER CAUTION
-
-- A shared garment cannot identify the fibre or state alone.
-
-#### EXAM LINK
-
-- **Prelims:** Retain the exact form, region, text, technique or institution attached to Eri and Muga firewall.
-- **Mains:** Prepare the provisional 2026 route without solving it.
-
-#### MINI RECAP
-
-- **Evidence chain:** Meghalaya Eri evidence -> Assam Muga discriminator
-- **Qualified use:** Prepare the provisional 2026 route without solving it.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Eri and Muga firewall
-EXACT TERMS: Muga | firewall | Meghalaya | Assam | discriminator | silk
-MECHANISM / ARGUMENT: relate Meghalaya Eri evidence and Assam Muga discriminator through form, context and patronage
-CONSEQUENCE / CONTRAST: This relation supports the answer route that prepare the provisional 2026 route without solving it.
-UPSC TRAP / ANSWER-USE: LIMIT: A shared garment cannot identify the fibre or state alone.
-ANSWER-GRABBING FORMULATION: Eri and Muga firewall converts named evidence into a qualified argument
-```
-
-### SESSION 12 — CORE — Manipur and Nagaland discriminators
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Manipur and Nagaland discriminators is the part of Crafts, Textiles, Folk and Tribal Traditions that explains how Manipur and Nagaland textiles fit into one examinable idea.
-
-**Technical definition:** In art-historical analysis, Manipur and Nagaland discriminators denotes the source-bounded relationship among Manipur and Nagaland textiles, classified by form, medium, patronage, performance context and evidentiary limit.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Manipur and Nagaland discriminators should be analysed as a relation among Manipur and Nagaland textiles, not as an isolated list of names.
-
-#### MUST-WRITE KEYWORDS
-
-- **Manipur**
-- **Nagaland**
-- **discriminators**
-- **textiles**
-- **linked**
-- **with**
-
-**How to use them:** Define Manipur, Nagaland, discriminators; cite textiles as named evidence; then apply this qualification: Named fabrics and motif systems must remain distinct. Conclude by showing how the distinction supports this answer route: Build close-option confidence..
-
-#### VISUAL FIRST
-
-```text
-MANIPUR AND NAGALAND DISCRIMINATORS
-01. Manipur and Nagaland textiles
-BOUNDARY -> Named fabrics and motif systems must remain distinct.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif.
-
-#### EXAMINER CAUTION
-
-- Named fabrics and motif systems must remain distinct.
-
-#### EXAM LINK
-
-- **Prelims:** Retain the exact form, region, text, technique or institution attached to Manipur and Nagaland discriminators.
-- **Mains:** Build close-option confidence.
-
-#### MINI RECAP
-
-- **Evidence chain:** Manipur and Nagaland textiles
-- **Qualified use:** Build close-option confidence.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Manipur and Nagaland discriminators
-EXACT TERMS: Manipur | Nagaland | discriminators | textiles | linked | with
-MECHANISM / ARGUMENT: relate Manipur and Nagaland textiles through form, context and patronage
-CONSEQUENCE / CONTRAST: This relation supports the answer route that build close-option confidence.
-UPSC TRAP / ANSWER-USE: LIMIT: Named fabrics and motif systems must remain distinct.
-ANSWER-GRABBING FORMULATION: Manipur and Nagaland discriminators converts named evidence into a qualified argument
-```
-
-### SESSION 13 — CORE SYNTHESIS — Arunachal, Mizoram and Tripura
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Arunachal, Mizoram and Tripura is the part of Crafts, Textiles, Folk and Tribal Traditions that explains how Arunachal, Mizoram and Tripura fit into one examinable idea.
-
-**Technical definition:** In art-historical analysis, Arunachal, Mizoram and Tripura denotes the source-bounded relationship among Arunachal, Mizoram and Tripura, classified by form, medium, patronage, performance context and evidentiary limit.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Arunachal, Mizoram and Tripura should be analysed as a relation among Arunachal, Mizoram and Tripura, not as an isolated list of names.
-
-#### MUST-WRITE KEYWORDS
-
-- **Arunachal**
-- **Mizoram**
-- **Tripura**
-- **Apatani**
-- **Nyishi**
-- **Monpa**
-
-**How to use them:** Define Arunachal, Mizoram, Tripura; cite Apatani as named evidence; then apply this qualification: Do not flatten several communities into a single North-East style. Conclude by showing how the distinction supports this answer route: Add gendered labour and pattern evidence..
-
-#### VISUAL FIRST
-
-```text
-ARUNACHAL, MIZORAM AND TRIPURA
-01. Arunachal, Mizoram and Tripura
-BOUNDARY -> Do not flatten several communities into a single North-East style.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning.
-
-#### EXAMINER CAUTION
-
-- Do not flatten several communities into a single North-East style.
-
-#### EXAM LINK
-
-- **Prelims:** Retain the exact form, region, text, technique or institution attached to Arunachal, Mizoram and Tripura.
-- **Mains:** Add gendered labour and pattern evidence.
-
-#### MINI RECAP
-
-- **Evidence chain:** Arunachal, Mizoram and Tripura
-- **Qualified use:** Add gendered labour and pattern evidence.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Arunachal, Mizoram and Tripura
-EXACT TERMS: Arunachal | Mizoram | Tripura | Apatani | Nyishi | Monpa
-MECHANISM / ARGUMENT: relate Arunachal, Mizoram and Tripura through form, context and patronage
-CONSEQUENCE / CONTRAST: This relation supports the answer route that add gendered labour and pattern evidence.
-UPSC TRAP / ANSWER-USE: LIMIT: Do not flatten several communities into a single North-East style.
-ANSWER-GRABBING FORMULATION: Arunachal, Mizoram and Tripura converts named evidence into a qualified argument
-```
-
-### SESSION 14 — CORE SYNTHESIS — Beyond the GI label
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Beyond the GI label is the part of Crafts, Textiles, Folk and Tribal Traditions that explains how GI is not safeguarding, Certification versus GI boundary and Ecology, gender and appropriation fit into one examinable idea.
-
-**Technical definition:** In art-historical analysis, Beyond the GI label denotes the source-bounded relationship among GI is not safeguarding, Certification versus GI boundary and Ecology, gender and appropriation, classified by form, medium, patronage, performance context and evidentiary limit.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Beyond the GI label should be analysed as a relation among GI is not safeguarding, Certification versus GI boundary and Ecology, gender and appropriation, not as an isolated list of names.
-
-#### MUST-WRITE KEYWORDS
-
-- **Beyond**
-- **label**
-- **safeguarding**
-- **Certification**
-- **versus**
-- **Ecology**
-
-**How to use them:** Define Beyond, label, safeguarding; cite Certification as named evidence; then apply this qualification: Unsupported certification detail must remain a disclosed gap. Conclude by showing how the distinction supports this answer route: Evaluate livelihood, ecology, labour and appropriation..
-
-#### VISUAL FIRST
-
-```text
-BEYOND THE GI LABEL
-01. GI is not safeguarding
-    |
-    v
-02. Certification versus GI boundary
-    |
-    v
-03. Ecology, gender and appropriation
-BOUNDARY -> Unsupported certification detail must remain a disclosed gap.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission. The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half. Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission.
-- The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half.
-- Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI.
-
-#### EXAMINER CAUTION
-
-- Unsupported certification detail must remain a disclosed gap.
-
-#### EXAM LINK
-
-- **Prelims:** Retain the exact form, region, text, technique or institution attached to Beyond the GI label.
-- **Mains:** Evaluate livelihood, ecology, labour and appropriation.
-
-#### MINI RECAP
-
-- **Evidence chain:** GI is not safeguarding -> Certification versus GI boundary -> Ecology, gender and appropriation
-- **Qualified use:** Evaluate livelihood, ecology, labour and appropriation.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Beyond the GI label
-EXACT TERMS: Beyond | label | safeguarding | Certification | versus | Ecology
-MECHANISM / ARGUMENT: relate GI is not safeguarding, Certification versus GI boundary and Ecology, gender and appropriation through form, context and patronage
-CONSEQUENCE / CONTRAST: This relation supports the answer route that evaluate livelihood, ecology, labour and appropriation.
-UPSC TRAP / ANSWER-USE: LIMIT: Unsupported certification detail must remain a disclosed gap.
-ANSWER-GRABBING FORMULATION: Beyond the GI label converts named evidence into a qualified argument
-```
-
-### SESSION 15 — CORE SYNTHESIS — Verified craft PYQs and live institutional link
-
-#### DEFINITION / WHAT THIS IS CALLED
-
-**Plain-language definition:** Verified craft PYQs and live institutional link is the part of Crafts, Textiles, Folk and Tribal Traditions that explains how Verified craft routes and live boundary fit into one examinable idea.
-
-**Technical definition:** In art-historical analysis, Verified craft PYQs and live institutional link denotes the source-bounded relationship among Verified craft routes and live boundary, classified by form, medium, patronage, performance context and evidentiary limit.
-
-#### ANSWER-GRABBING OPENING — WRITE/ADAPT IN THE EXAM
-
-> Verified craft PYQs and live institutional link should be analysed as a relation among Verified craft routes and live boundary, not as an isolated list of names.
-
-#### MUST-WRITE KEYWORDS
-
-- **craft**
-- **PYQs**
-- **live**
-- **institutional**
-- **routes**
-- **routed**
-
-**How to use them:** Define craft, PYQs, live; cite institutional as named evidence; then apply this qualification: Current awards cannot prove technique or tribal attribution. Conclude by showing how the distinction supports this answer route: Close with evidence, boundary and dated-source discipline..
-
-#### VISUAL FIRST
-
-```text
-VERIFIED CRAFT PYQS AND LIVE INSTITUTIONAL LINK
-01. Verified craft routes and live boundary
-BOUNDARY -> Current awards cannot prove technique or tribal attribution.
-```
-
-*This topic-specific rail fixes the evidence sequence and its exam boundary before analysis.*
-
-#### CORE EXPLANATION
-
-The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners.
-
-#### NAMED EVIDENCE AND MECHANISM
-
-- The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners.
-
-#### EXAMINER CAUTION
-
-- Current awards cannot prove technique or tribal attribution.
-
-#### EXAM LINK
-
-- **Prelims:** Retain the exact form, region, text, technique or institution attached to Verified craft PYQs and live institutional link.
-- **Mains:** Close with evidence, boundary and dated-source discipline.
-
-#### MINI RECAP
-
-- **Evidence chain:** Verified craft routes and live boundary
-- **Qualified use:** Close with evidence, boundary and dated-source discipline.
-
-#### CLOSING RECALL FLOW
-
-```closure-flow
-START / CONCEPT: Verified craft PYQs and live institutional link
-EXACT TERMS: craft | PYQs | live | institutional | routes | routed
-MECHANISM / ARGUMENT: relate Verified craft routes and live boundary through form, context and patronage
-CONSEQUENCE / CONTRAST: This relation supports the answer route that close with evidence, boundary and dated-source discipline.
-UPSC TRAP / ANSWER-USE: LIMIT: Current awards cannot prove technique or tribal attribution.
-ANSWER-GRABBING FORMULATION: Verified craft PYQs and live institutional link converts named evidence into a qualified argument
-```
-
-#### COMPLETE BASIC OWNER EVIDENCE BANK
-
-> **Subject:** Indian Art & Culture | **Tier:** Must-Do (foundation) |
-> **GS Paper:** GS-I.
-> **Core area:** Handicrafts (glassware, textiles, ivory, silver, pottery,
-> bronze, wood, stoneware); Geographical Indications (GI) as origin-linked
-> intellectual property; craft-community livelihoods.
-> **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp.
-> 378-410; R.S. Sharma, *India's Ancient Past*, PDF pp. 97-103, 250-260,
-> 347-355; Satish Chandra, *History of Medieval India*, PDF pp. 118-149,
-> 317-327; Satish Chandra, *Medieval History, 1526-1748, Part 2*, PDF pp.
-> 358-401; `00_Master-Framework.md` Section 3; audited UPSC Mains 2024 GS
-> Paper I (adjacent only).
-> ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = trap.
-> *Companion: `advanced/12_Crafts-Textiles-Folk-and-Tribal-Traditions.md`.*
-
-##### 1. Snapshot and syllabus fit
-
-✅ This topic covers Indian handicrafts (material-wise) and the GI
-registration system. ⚠️ It has **adjacent-only** PYQ relevance: the 2024
-Industrial Revolution/handicrafts-decline question and the 2024 cultural-
-diversity/marginality question both touch this topic's subject matter but
-are **primarily owned by Modern History/Economy and Indian Society**
-respectively (see Section 7).
-
-##### 2. Essential vocabulary
-
-| Term | Exam-ready meaning |
-|---|---|
-| ✅ **Handicraft** | An "amalgamation of all things crafted by hand," serving as both livelihood and cultural heritage, especially for tribal and rural communities (*Nitin…pdf*, PDF p. 378). |
-| ✅ **Geographical Indication (GI)** | "A sign that a particular item has originated from a particular region only," ensuring only registered authorised users may use the product name (*Nitin…pdf*, PDF p. 406). |
-| ✅ **GI Registry** | The Government of India office (Chennai) issuing GI certification, functioning under DPIIT, Ministry of Commerce and Industry (*Nitin…pdf*, PDF p. 407). |
-| ✅ **GI validity** | GI registration is valid for 10 years, renewable every 10 years; certification covers 34 classes; application fee is Rs. 5,000 (*Nitin…pdf*, PDF p. 407). |
-| ✅ **Sui generis method** | Per WIPO, one of three GI-protection methods — a law exclusively and specifically designed for GIs (the other two being certification/collective marks, and general business-practice/consumer-protection law) (*Nitin…pdf*, PDF p. 408). |
-
-##### 3. Core classification
-
-✅ The book classifies Indian handicrafts by material: glassware, cloth
-handicrafts, ivory carving, silver crafts, clay and pottery work, bronze
-crafts, other metal crafts, leather products, wooden work, toys,
-stoneware, and floor designs (*Nitin…pdf*, PDF p. 378). ✅ GI protection
-under Indian law operates through the **Geographical Indications of Goods
-(Registration & Protection) Act, 1999** (in force since 2003), covering
-only goods (not services) (*Nitin…pdf*, PDF p. 407).
-
-##### 4. Foundation narrative
-
-✅ Glassmaking's earliest Indian reference is in the Mahabharata, with
-archaeological evidence from the Painted Grey Ware culture (Ganges
-Valley, 1000 BC) and a documented glass industry at Brahmapuri/Kolhapur
-(Maharashtra, 2nd century BC-2nd century AD, producing lenticular beads);
-the Vedic *Shatapatha Brahmana* uses the term "kanch/kaca" for glass
-(*Nitin…pdf*, PDF p. 379). ✅ **Darjeeling Tea was India's first GI-tagged
-product**, registered in 2004-05 (*Nitin…pdf*, PDF p. 407). ✅ As of July
-2025 (per the book's own count), **658 goods** held GI status in India;
-as of April 2025, **Uttar Pradesh held the highest number of GI tags (77
-registered products)**, surpassing Tamil Nadu's previous lead
-(*Nitin…pdf*, PDF pp. 406-407). ✅ Kerala's Nilambur Teak received a GI
-tag (Nilambur also has a prominent teak museum and historic plantation
-landscape); Kangra Tea (Himachal Pradesh) additionally secured
-protected GI status in the **European Union** (*Nitin…pdf*, PDF pp.
-407-408).
-
-✅ **Regional craft-textile distinctions:**
-
-| Tradition | Region/community | Technique/product trap |
+| Layer | What was used for this repair | How it is used |
 |---|---|---|
-| Patola | Patan, Gujarat | Double ikat; not Pochampally/Kanchipuram |
-| Pochampally ikat | Telangana | Resist-dyed yarn; may be single/double ikat |
-| Kanchipuram silk | Tamil Nadu | Contrasting borders joined to body; silk weaving |
-| Banarasi brocade | Varanasi, Uttar Pradesh | Supplementary-weft zari/brocade traditions |
-| Chikankari | Lucknow, Uttar Pradesh | White-on-white embroidery repertoire |
-| Kantha | Bengal | Running-stitch quilting/embroidery from reused cloth traditions |
-| Kalamkari | Andhra Pradesh/Telangana centres | Hand-drawn/printed cotton textile with mordant/resist processes |
-| Dhokra | Central/eastern Indian artisan communities | Lost-wax non-ferrous metal casting; not a single-state monopoly |
+| Canonical core | `upsc-ai-kit\knowledge\Indian-Art-and-Culture\basic\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md` | Primary owner for craft ecology, GI mechanics, North-East handloom bank, dynamic-status caution and PYQ routing |
+| Advanced caution | `upsc-ai-kit\knowledge\Indian-Art-and-Culture\advanced\12_Crafts-Textiles-Folk-and-Tribal-Traditions.md` | Used only for the analytical distinction between GI and full safeguarding, and for bounded-gap discipline on Oeko-Tex |
+| Coverage map | `upsc-ai-kit\knowledge\Indian-Art-and-Culture\12_Crafts-Textiles-Folk-and-Tribal-Traditions_Complete-Topic-Package.md` | Scope-check only; not treated as factual authority |
+| OCR evidence | Nitin Singhania, local PDF pp. 378-391 and 404-408; R.S. Sharma on Harappan and early historic craft production; Satish Chandra on medieval karkhanas, weavers, dyers and export networks | Used for chronology, process logic, named textile examples, glass / ivory evidence and craft-organisation history |
+| Official current / institutional checks on 6 Sep 2026 | IP India GI registry background page; IP India application details for Toda Embroidery and Uppada Jamdani; Incredible India page on Sujini Embroidery Work of Bihar; Tamil Nadu Tourism page on Toda tribal experience; TRIFED official about page; official handloom-awards records / 2025 selection documents | Used only where current institutional status, registered geography or present continuity needed confirmation |
+| Bounded gap discipline | Canonical audit plus local 2026 paper and provisional key | Confirms that the Eri production half is covered but Oeko-Tex criteria / certification-status claims remain intentionally withheld |
 
-✅ Continuity does not mean unchanged production. R.S. Sharma records
-Harappan bead, shell, pottery, metal and textile skills and Sangam-era
-cotton/silk trade; Satish Chandra records karkhanas, weavers, dyers and
-export textiles under medieval markets. Court, temple, guild, merchant,
-colonial and contemporary GI/tourism markets successively reshaped design
-and labour.
-
-⚠️ Ivory carving belongs to historical craft study, but contemporary
-answers must acknowledge wildlife-protection and trade restrictions; do
-not present new ivory production as a safeguarding objective.
-
-##### 5. Visual map or comparison table
+## LEARNING PATH
 
 ```text
-MATERIAL/SKILL (glass, cloth, ivory, silver, pottery, bronze,
-metal, leather, wood, stone)
-        |
-        v
-COMMUNITY / LIVELIHOOD (tribal and rural craft producers)
-        |
-        v
-MARKET / RECOGNITION
-GI Registry (Chennai, under DPIIT) --> GI tag (10-year validity,
-34 classes, Rs. 5,000 fee) --> possible cross-border protection
-(e.g. Kangra Tea in the EU)
-        |
-        v
-SAFEGUARDING (cross-referenced to Topic 14)
+CRAFT ECOLOGY -> TEXTILE PROCESS GRAMMAR -> LONG CHRONOLOGY
+-> TIE-DYE / PRINT / PAINTED CLOTH -> WEAVING TRADITIONS -> EMBROIDERY
+-> NORTH-EAST HANDLOOM -> NON-TEXTILE CRAFTS -> FOLK / TRIBAL ECOLOGY
+-> GI AS IP -> LIVELIHOOD / PLATFORM CHANGE -> BOUNDED GAP / PYQ DISCIPLINE
 ```
 
-| GI fact | Detail |
-|---|---|
-| ✅ First GI-tagged product | Darjeeling Tea (2004-05) |
-| ✅ Total GI count (book, July 2025) | 658 goods |
-| ✅ Top GI state (book, April 2025) | Uttar Pradesh (77 products), surpassing Tamil Nadu |
-| ✅ Governing Act | GI of Goods (Registration & Protection) Act, 1999 (in force 2003) |
-| ✅ International frameworks | Paris Convention; WTO TRIPS Agreement |
+**Central thesis:** Indian craft traditions are not answerable through decorative names alone. They must be written as systems linking material, technique, community, market, institution and qualification.
 
-##### 6. Source spine
+### SESSION - FOUNDATION - CRAFT AS ECOLOGY, NOT DECORATED OBJECT
 
-✅ *Nitin…pdf*, PDF pp. 378-410 (Chapter 8, "Indian Handicrafts," and
-Chapter 9, "Geographical Indications" — full chapters), the direct spine
-for Sections 2-4. ✅ §13.5A draws specifically on PDF pp. 390-391 (the
-"Textile Industry in North East India" section, including the Eri silk and
-Meghalaya weaver-community fact).
+#### Answer-grabbing line - write/adapt in the exam
 
-##### 7. Exact PYQ application
+> A craft tradition survives as a chain of material, technique, community, market and institutional support; treating it as a pretty object alone kills the real analysis.
 
-⚠️ **2024 Q13 (adjacent-only), verbatim:** "How far was the Industial
-Revolution in England responsible for the decline of hadicrafts and
-cottage industries in India? (Answer in 250 words)" (source spelling
-defects "Industial" and "hadicrafts" preserved exactly as supplied,
-`UPSC Mains 2024 GS Paper I.txt:91-96`). ⚠️ This question's primary
-ownership is **Modern History/Economy** (the deindustrialisation debate);
-this topic supports it only by supplying the material/craft-form
-vocabulary (glassware, cloth, metal crafts) whose colonial-era economic
-displacement is the question's actual subject.
+#### Must-write keywords
 
-⚠️ **2024 Q20 (adjacent-only), verbatim:** "Critically analyse the
-proposition that there is a high correlation between India's cultural
-diversities and socio-economic marginalities. (Answer in 250 words)"
-(`UPSC Mains 2024 GS Paper I.txt:138-143`). ⚠️ This question's primary
-ownership is **Indian Society**; this topic supports it only insofar as
-tribal/rural craft-community livelihoods illustrate a specific instance
-of the diversity-marginality relationship, without this topic itself
-answering the sociological question.
+- craft ecology
+- hand skill
+- community
+- market
+- handloom
+- GI
 
-##### 8. 📰 Current anchor
+#### Visual first
 
-- 📰 The book reports **658 registered goods as of July 2025**. A later
-  exact total should be cited only from a dated GI Registry registered-
-  status extract or an identified DPIIT parliamentary reply; do not derive
-  it from the Registry's all-applications display or repeat an unsupported
-  web-search total.
+```text
+CRAFT ANSWER SPINE
+raw material -> technique -> artisan/community -> patron or market
+            -> transport / platform / institution -> continuity or decline
 
-##### 9. ❌ Traps and corrections
+WORKING DISTINCTION
+handloom = loom-woven textile subset
+handicraft = wider hand-made craft field
+GI = separate origin-linked IP instrument
+```
 
-- ❌ A GI tag is a quality certificate or a cultural-heritage designation.
-  -> It is specifically **origin-linked intellectual property** under the
-  GI Act, 1999 — protecting the exclusive right to use a place-linked
-  product name, not certifying quality or granting heritage status.
-- ❌ GI registration is permanent once granted. -> It is valid for 10
-  years and must be renewed every 10 years.
-- ❌ GI protection covers services as well as goods. -> The book is
-  explicit that "only goods can be given GI certification (not
-  services)."
-- ❌ Tamil Nadu currently holds the most GI tags in India. -> As of April
-  2025 (per the book), Uttar Pradesh (77 products) had surpassed Tamil
-  Nadu's previous lead — verify the current leading state against the GI
-  Registry before citing.
-- ❌ One textile name identifies one technique everywhere. -> Ikat,
-  brocade, embroidery, painted/printed cloth and appliqué use different
-  production logics; map name + region + technique.
-- ❌ A GI protects an entire community or guarantees authenticity by
-  itself. -> It protects an origin-linked name for authorised users;
-  labour conditions, raw materials, design copying and benefit-sharing
-  require separate institutions.
-- ✅ **Local PYQ trap:** CSE 2015 defines Kalamkari as hand-painted cotton
-  textile in South India; CSE 2018's craft-state matching tests precise
-  regional attribution.
+*Use the visual as the first sorting device before writing prose.*
 
-##### 10. Mains framework
+#### Core explanation
 
-1. Distinguish handicraft (material/community-based livelihood and
-   heritage) from GI (a specific legal/IP status) as two related but
-   distinct concepts.
-2. Cite Darjeeling Tea's 2004-05 first-GI status as the concrete opening
-   fact for any GI-related answer.
-3. Use the sui generis/certification-mark/business-practice three-method
-   WIPO framework where a question invites comparative IP-protection
-   analysis.
-4. For the 2024 Q13/Q20 adjacent PYQs, explicitly acknowledge their
-   primary ownership elsewhere while supplying this topic's specific
-   craft/material vocabulary as support.
-5. Close with a dated, current GI-total figure rather than an undated
-   round number.
+Nitin opens the topic by defining handicrafts as things crafted by hand and treating them simultaneously as livelihood and cultural heritage, especially for tribal and rural communities. That framing is stronger than a mere list of products because it ties object, maker and social location together.
+An exam-safe distinction follows from the evidence bank: handloom belongs to the cloth-and-weaving side of the craft world, while handicraft is the wider material field that also includes glass, clay, wood, leather, metal, toys and floor designs. GI is not another craft type at all; it is a later legal mechanism attached to some goods.
+This session therefore acts as the firewall for the whole topic: do not collapse artistic surface, production process, tribal identity, legal recognition and market success into one fact. Each must be named separately before the answer moves to judgement.
 
-##### 11. Boundaries with other subjects
+#### How to write the paragraph (claim -> evidence -> analysis -> qualification)
 
-- ❌ **Modern History/Economy owns** the Industrial Revolution-and-
-  deindustrialisation debate (2024 Q13) as its primary subject.
-- ❌ **Indian Society owns** the diversity-marginality correlation (2024
-  Q20) as its primary subject.
-- ❌ **Economy owns** tourism and craft-market economics as a sectoral
-  economic question.
-- ✅ Cross-links: Topic 07 (GI-tagged folk/tribal painting forms overlap
-  with craft traditions), Topic 14 (GI Registry as an institutional
-  ledger entry, distinct from WHS/ICH/Memory of the World).
+**Model paragraph:** A strong answer on Indian crafts begins by refusing reductionism. Nitin's own opening makes handicraft both livelihood and heritage, while the later GI chapter shows that legal recognition is only one later layer. Thus the candidate should first map the production chain - material, technique, community, market and institution - and only then name examples such as Patola, Chikankari or Dhokra. The qualification is crucial: a GI tag or a museum display can protect visibility without by itself protecting income, raw material or skill transmission.
 
-##### 12. Companion links
+#### Named evidence / examples
 
-- ✅ Advanced companion:
-  `advanced/12_Crafts-Textiles-Folk-and-Tribal-Traditions.md`.
-- ✅ `00_Master-Framework.md` Section 3 — the WHS/ICH/Memory of the
-  World/GI category-distinction table, reused here for the GI-specific
-  detail.
-- ⚠️ **Cross-links:** Topic 07 (folk/tribal painting-craft overlap), Topic
-  14 (GI Registry within the institutional ledger).
+- Nitin, p. 378: handicrafts are crafted by hand and matter especially for tribal and rural livelihoods.
+- TRIFED official 'About' page checked 6 Sep 2026: tribal art and craft must be read with marketing and livelihood institutions, not with romantic timelessness alone.
 
-##### 13. Answer architecture (10/15/20-mark support)
+#### Prelims traps
 
-> **Core-sufficiency note.** This topic owns craft/textile identification,
-> the GI instrument and craft-livelihood analysis, and it **supports** two
-> adjacent 2024 questions owned elsewhere. This section makes `basic/12`
-> sufficient for those roles without `advanced/12`.
+- Do not write handloom, handicraft and GI as if they are synonyms.
+- Do not freeze tribal craft into an anonymous timeless object; name producer-community and market context where the source allows it.
+- Do not treat legal recognition as proof of fair livelihood.
 
-###### 13.1 Directive and demand map
+#### Mains use
 
-| If the question says | It is really testing | Do NOT write |
+Use this as the opening paragraph for any 10-, 15- or 20-mark answer in the topic.
+
+#### Mini recap
+
+- Craft = ecology, not ornament alone.
+- Handloom is a subset; GI is a separate legal layer.
+- Named example plus production chain beats decorative description.
+
+### SESSION - FOUNDATION - TEXTILE GRAMMAR: FIBRE, WEAVE, DYE, PRINT AND EMBROIDERY
+
+#### Answer-grabbing line - write/adapt in the exam
+
+> Most textile mistakes happen when product names are memorised without production logic; UPSC rewards process-based identification.
+
+#### Must-write keywords
+
+- fibre
+- yarn
+- loom
+- ikat
+- embroidery
+- surface process
+
+#### Visual first
+
+| Layer | What it asks | Safe examples |
 |---|---|---|
-| *Discuss GI as an instrument for safeguarding craft* | What GI legally does — and the four things it does not do | "GI protects our traditional crafts" |
-| *Craft as livelihood and heritage* | The material → skill → community → market → recognition chain | "Handicrafts are our cultural heritage" |
-| *Identify a named craft/textile* | Region + community + process + product, discriminated from the nearest look-alike | A one-word state match |
-| *Decline of Indian handicrafts under colonialism* | This file's material vocabulary, handed to the primary owner | Answering a deindustrialisation question from craft description |
-| *Cultural diversity and socio-economic marginality* | A specific craft-community instance, handed to the primary owner | A sociological argument this folder does not own |
-| *Ecology and craft* | Raw material dependence, resource regulation, sustainability | Romanticised "eco-friendly traditional art" |
-| *Gender and craft* | Where women's labour sits in the production chain and where it is invisible | Unsupported generalisation |
+| Fibre / yarn | what raw material is worked | cotton, silk, wild silk, zari |
+| Weave | how yarn is interlaced on the loom | Jamdani, Banarasi, Kanchipuram |
+| Resist / dye | where colour is controlled before or during dyeing | Bandhani, Laharia, Ikat |
+| Print / paint | how surface imagery is put on cloth | Kalamkari, Ajrakh, Batik |
+| Embroidery / applique | what is added after the woven base exists | Chikankari, Kantha, Phulkari, Pipli |
 
-###### 13.2 Qualified thesis options
+*Use the visual as the first sorting device before writing prose.*
 
-- ⚠️ **Narrow-instrument thesis (the highest-value point here):** "A
-  Geographical Indication is origin-linked intellectual property, not a
-  safeguarding programme: it protects the exclusive right to use a
-  place-linked product **name** by authorised users, for goods only, for a
-  renewable ten-year term — it does not by itself secure income, working
-  conditions, raw-material access or skill transmission."
-- ⚠️ **Chain thesis:** "Craft survives only if every link holds — material,
-  skill, producing community, market access, legal recognition and
-  safeguarding — and public policy typically intervenes at the legal link
-  while the material and market links fail."
-- ⚠️ **Continuity-with-change thesis:** "Craft continuity does not mean
-  unchanged production: court, temple, guild, merchant, colonial and
-  contemporary GI/tourism markets each reshaped design, scale and labour."
-- ⚠️ **Boundary thesis (for the adjacent PYQs):** "This topic supplies the
-  material and craft-form vocabulary; the deindustrialisation verdict
-  belongs to Modern History/Economy and the diversity-marginality
-  proposition to Indian Society, and an answer should say so rather than
-  improvise those disciplines."
+#### Core explanation
 
-###### 13.3 Mark-scaled structures
+The canonical topic bank repeatedly warns that name plus state is not enough; the process has to be attached. That is why Patola is not just 'Gujarat' but double ikat, Banarasi is not just 'Varanasi' but supplementary-weft zari brocade, and Chikankari is not weaving but white-thread embroidery.
+Nitin's cloth-handicraft pages help organise the material by process. Bandhani and Laharia belong to tie-and-dye; Ikat is resist-dyed yarn; Kalamkari is painted or printed cotton using mordant or resist processes; Batik uses wax; embroidery traditions work over an existing textile base.
+Once this grammar is learned, prelims elimination becomes easier because cloth traditions that look similar visually may differ radically in production logic. This is also the cleanest way to stop copying the wording of PYQs into one's own original MCQs.
 
-| Marks | Structure |
-|---|---|
-| **10** | Thesis → the instrument or craft defined precisely → two named cases with region and process → one limitation → verdict |
-| **15** | Thesis → the craft-ecology chain → three or four named craft/textile cases → GI mechanism with its statutory detail → livelihood/market limitation → verdict |
-| **20** | All of the above → **plus** the historical production layer (Harappan to medieval karkhana to colonial) → ecology, gender and appropriation dimensions → international protection with a named case → institutional route → verdict answering the exact wording |
+#### How to write the paragraph (claim -> evidence -> analysis -> qualification)
 
-###### 13.4 Evidence bank A — the GI instrument, stated precisely
+**Model paragraph:** Indian textile traditions are best classified by process rather than by ornament alone. Nitin's evidence separates tie-and-dye, resist-dyed yarn, hand-painted or block-printed cloth, embroidery and brocade. Therefore a precise answer should identify whether the form is woven on the loom, dyed in the yarn, printed on the surface or embroidered afterwards. This analytical move immediately distinguishes Patola from Pochampally, Banarasi from Chikankari and Kalamkari from Batik. The qualification is that one region may host multiple techniques, so product names must still be paired with the right locality.
 
-| Element | ✅ Evidence | Analytical use | Limitation |
-|---|---|---|---|
-| Definition | ✅ "A sign that a particular item has originated from a particular region only," ensuring only registered authorised users may use the product name (*Nitin…pdf*, PDF p. 406) | Fixes the answer on **name protection**, not quality certification | ❌ Not a quality mark, not a heritage designation |
-| Statute | ✅ Geographical Indications of Goods (Registration & Protection) Act, 1999, in force since 2003, covering only **goods**, not services (*Nitin…pdf*, PDF p. 407) | Domestic IP law — explicitly **not** a UNESCO category | ❌ Never list GI beside WHS/ICH as a UNESCO tag |
-| Administration | ✅ GI Registry, Chennai, under DPIIT, Ministry of Commerce and Industry (*Nitin…pdf*, PDF p. 407) | Names the institution instead of "the government" | — |
-| Term and scope | ✅ Valid 10 years, renewable every 10 years; covers 34 classes; application fee Rs. 5,000 (*Nitin…pdf*, PDF p. 407) | Renewability is the point most often missed | ❌ Registration is not permanent |
-| International frameworks | ✅ Paris Convention; WTO TRIPS Agreement; WIPO's three protection methods, of which *sui generis* is a law designed exclusively for GIs (the others being certification/collective marks and general business-practice/consumer-protection law) (*Nitin…pdf*, PDF p. 408) | Supplies a comparative IP frame for a 20-mark demand | ⚠️ India's route is the *sui generis* Act |
-| First and cross-border cases | ✅ **Darjeeling Tea** was India's first GI-tagged product, registered 2004-05; **Kangra Tea** (Himachal Pradesh) additionally secured protected GI status in the **European Union**; Kerala's **Nilambur Teak** holds a GI (*Nitin…pdf*, PDF pp. 407-408) | Kangra Tea is the concrete answer to "is a domestic GI valid abroad?" — only through separate registration | ❌ Domestic GI does not travel automatically |
+#### Named evidence / examples
 
-###### 13.5 Evidence bank B — craft and textile identification (region · community · process · product)
+- Nitin, pp. 380-385: Bandhani, Laharia, Ikat, Kalamkari, Batik, embroidery, Banarasi brocade, Maheswari and Himroo examples.
+- 2018 routed textile-matching PYQ logic depends on process-region discrimination rather than on vague familiarity.
 
-| Tradition | ✅ Region | Process/product | Close-option discriminator |
-|---|---|---|---|
-| Patola | Patan, Gujarat | **Double** ikat, resist-dyed in both warp and weft | Not Pochampally, not Kanchipuram |
-| Pochampally ikat | Telangana | Resist-dyed yarn; may be single or double ikat | Ikat family, different centre and pattern logic |
-| Kanchipuram silk | Tamil Nadu | Contrasting borders joined to the body; silk weaving | Border-joining technique is the marker |
-| Banarasi brocade | Varanasi, Uttar Pradesh | Supplementary-weft zari/brocade | A *weave* tradition, not embroidery |
-| Chikankari | Lucknow, Uttar Pradesh | White-on-white **embroidery** repertoire | Embroidery, not weave |
-| Kantha | Bengal | Running-stitch quilting/embroidery from reused cloth | Reuse is intrinsic to the form |
-| Kalamkari | Andhra Pradesh/Telangana centres | Hand-drawn or block-printed cotton with mordant/resist dyeing | A *surface* process; overlaps topic 07 |
-| Dhokra | Central and eastern Indian artisan communities | Lost-wax non-ferrous metal casting | ❌ Not a single-state monopoly |
-| Glassware | Ganges valley and Deccan antecedents | ✅ Earliest Indian reference in the Mahabharata; Painted Grey Ware evidence (Ganges valley, 1000 BC); documented glass industry at Brahmapuri/Kolhapur, Maharashtra, 2nd century BC-2nd century AD, producing lenticular beads; the Vedic *Shatapatha Brahmana* uses "kanch/kaca" for glass (*Nitin…pdf*, PDF p. 379) | The one craft in this file with a full antiquity chain |
-| Material-wise classes | Pan-Indian | ✅ Glassware, cloth handicrafts, ivory carving, silver crafts, clay and pottery, bronze crafts, other metal crafts, leather products, wooden work, toys, stoneware, floor designs (*Nitin…pdf*, PDF p. 378) | The book's own classification — use it as an answer spine |
+#### Prelims traps
 
-###### 13.5A Evidence bank B+ — North-East handloom, and the Eri silk fact stated exactly
+- Do not call Banarasi brocade embroidery.
+- Do not collapse Kalamkari into bamboo craft or woollen cloth.
+- Do not identify a textile only by motif while ignoring how it is produced.
 
-> **Why this section exists.** A hostile review found that the routed 2026
-> Prelims demand naming **Eri silk** had no supporting fact in Core — the
-> file recorded only the **Oeko-Tex** half of it as a bounded gap. The
-> Eri-silk production fact **is** locally sourced and is now written; the
-> certification half remains bounded, and the two are deliberately kept
-> apart below.
+#### Mains use
 
-| State | ✅ Community / weavers | ✅ Fibre and product | Discriminator |
-|---|---|---|---|
-| **Meghalaya** | ✅ "The **Garo, Khasi and Jaintia** tribes of Meghalaya are **skilled weavers**, known for their handwoven fabrics" (*Nitin…pdf*, PDF p. 391) | ✅ "**Eri silk is commonly produced in this region.** The tribes weave a variety of garments like **shawls, sarongs and mekhela chadors** by using **both silk and cotton** fabrics" (PDF p. 391) | ✅ **This is the answerable Eri-silk fact:** fibre + state + three named communities + product range. ❌ Do not attribute Eri silk exclusively to Assam, and do not confuse **Eri** with **Muga** |
-| **Assam** | — | ✅ Famous for silk production, "particularly the **golden Muga silk**," used for sarees, **mekhela chadors** and other garments (PDF p. 390) | ✅ **Muga = Assam, golden.** The mekhela chador is woven in **both** Assam and Meghalaya, so it cannot by itself identify a state |
-| **Manipur** | — | ✅ **Moirang Phee** (a silk fabric combining silk and cotton) and the **Phanek**, a wraparound skirt worn by Manipuri women, usually woven in vibrant colours with traditional motifs (PDF p. 390) | Named fabric plus named garment |
-| **Nagaland** | ✅ "Each tribe of Nagaland has its **unique patterns and motifs** which reflect their cultural identity" | ✅ Vibrant colours, intricate designs, **natural dyes** (PDF pp. 390-391) | Motif-as-identity is the point, not a single state style |
-| **Arunachal Pradesh** | ✅ **Adi, Apatani and Nyishi** tribes for intricate weaves; the **Monpa** tribe for vibrant colours | ✅ Handwoven jackets, skirts, shawls and traditional dresses (PDF p. 391) | Four named communities |
-| **Mizoram** | ✅ **Women are primarily responsible** for weaving | ✅ The **Puan** — in Mizo, cloth decorated with exclusive needlework in the shape of a stripe or an arrow, worn by both men and women (PDF p. 391) | ⚠️ The gendered division of labour is stated by the source and is directly usable in a craft-livelihood answer |
-| **Tripura** | — | ✅ Vertical and horizontal stripes with dispersed embroidery in various colours (PDF p. 391) | Pattern grammar, not a named fabric |
+Use this session when the question asks for comparison, matching, or craft identification.
 
-⚠️ **Answer use:** North-East handloom is the folder's clearest case of
-**community-held technique** — the fibre, the weaver group and the garment
-are named together, which is exactly the "region · community · process ·
-product" structure §13.5 demands. ✅ The source's own frame: "Each tribe in
-the Northeast Indian states has an expertise in weaving," using the
-traditional sequence of **ginning, spinning and weaving** (PDF p. 390).
+#### Mini recap
 
-❌ **The firewall that must not be crossed.** The **production** fact
-(Eri silk, Meghalaya, Garo/Khasi/Jaintia weavers) is **source-supported and
-writable**. The **Oeko-Tex certification** half of the same routed demand
-is **not**: no local source carries its criteria, its scope, its issuing
-body's standards or the current certification status of any Indian
-producer. ⚠️ Answer the production half from this table, answer the
-certification half only at the level of the **certification-versus-GI
-distinction** in §13.9, and **write nothing else**. Conflating a
-voluntary private textile-testing standard with a statutory GI is the
-error the question is built to catch.
+- Process first, beauty second.
+- Weave, dye, print and embroidery are different production logics.
+- Close options are usually killed by technique, not by colour or motif alone.
 
-⚠️ **Identification rule:** name + region alone is a matching exercise;
-name + region + **process** is an answer. Ikat, brocade, embroidery,
-painted/printed cloth and applique use different production logics.
+### SESSION - FOUNDATION - THE LONG CHRONOLOGY OF CRAFT PRODUCTION
 
-###### 13.6 Evidence bank C — the craft-ecology chain and where it breaks
+#### Answer-grabbing line - write/adapt in the exam
+
+> Indian craft continuity is real, but continuity never means unchanged production.
+
+#### Must-write keywords
+
+- Harappan
+- Painted Grey Ware
+- Sangam
+- karkhana
+- Khadi
+- GI Act
+
+#### Visual first
 
 ```text
-RAW MATERIAL  ->  SKILL / TECHNIQUE  ->  PRODUCING COMMUNITY
-      |                                        |
-      v                                        v
- ecological and              transmission depends on
- regulatory limits           apprenticeship and income
-      |                                        |
-      +----------------> MARKET ACCESS <-------+
-                              |
-                              v
-                   LEGAL RECOGNITION (GI)  <-- intervenes ONLY here
-                              |
-                              v
-                    SAFEGUARDING (topic 14)
+CHRONOLOGY RAIL
+Harappan bead / shell / pottery / textile evidence
+-> Vedic and PGW references to glass
+-> Sangam cotton / silk / trade
+-> medieval karkhanas, dyers, weavers, dadni and export circuits
+-> 1925 All India Spinners' Association
+-> 1956 KVIC
+-> 1999 GI Act / in force from 15 Sep 2003
 ```
 
-- ⚠️ **The analytical payoff:** a GI tag intervenes at the legal-recognition
-  link only. It does not by itself guarantee raw-material supply, fair
-  price, working conditions, design protection against copying by
-  authorised users, or intergenerational skill transmission — which is why
-  GI-tagged crafts can still decline.
-- ✅ **Historical production layer:** R.S. Sharma records Harappan bead,
-  shell, pottery, metal and textile skills and Sangam-era cotton and silk
-  trade; Satish Chandra records artisans, master-craftsmen, karkhanas,
-  putting-out/*dadni* relations and export textiles under medieval markets.
-  ⚠️ Use this to show that craft production has always been organised
-  through markets and intermediaries, not only through households.
-- ⚠️ **Ecology and regulation:** ivory carving belongs to historical craft
-  study; contemporary answers must acknowledge wildlife-protection and
-  trade restrictions and must not present new ivory production as a
-  safeguarding objective. The same logic applies to any craft dependent on
-  a regulated species or a depleting material.
-- ⚠️ **Gender and community:** where a craft's preparatory labour
-  (spinning, sorting, finishing) is domestic and its marketed stage is not,
-  recognition and income attach to the visible stage. State this as a
-  structural observation; ❌ do not attach unsupported statistics.
-- ⚠️ **Appropriation:** a GI protects a *name*, so design motifs can be
-  copied by non-registered producers outside the protected name — the gap
-  through which cultural appropriation claims usually run.
+*Use the visual as the first sorting device before writing prose.*
 
-###### 13.7 Boundary hand-offs for the two adjacent 2024 PYQs
+#### Core explanation
 
-| PYQ | Primary owner | ✅ What this file supplies | ❌ What it must not attempt |
-|---|---|---|---|
-| 2024 Q13 — Industrial Revolution and the decline of handicrafts/cottage industries | Modern History / Economy | The craft classes and processes that were displaced (glassware, cloth handicrafts, metal crafts), and the medieval production organisation that preceded them | Tariff policy, revenue systems, the deindustrialisation debate's verdict |
-| 2024 Q20 — cultural diversities and socio-economic marginalities | Indian Society | One concrete instance: tribal and rural craft communities whose livelihood depends on a culturally specific skill with weak market power | The sociological proposition itself, or any correlation claim |
+R.S. Sharma gives the early production baseline: Harappan bead, shell, pottery, metal and textile skills were already organised crafts, not accidental household decoration. Nitin then extends the chronology through cloth, glass and later specialised textile processes.
+The glass chronology is especially useful because it gives a rare long-duration chain within one craft. Nitin records the Mahabharata reference, Painted Grey Ware evidence in the Ganga valley around 1000 BCE, the Shatapatha Brahmana term kaca or kanch, and the Brahmapuri-Kolhapur industry between the 2nd century BCE and the 2nd century CE.
+Satish Chandra's medieval material adds karkhanas, master craftsmen, dyers, putting-out or dadni relations and export markets. That makes one point non-negotiable: craft history must be written through organisation of labour and demand, not through a timeless-civilisation slogan.
 
-###### 13.8 Reasoned verdict scaffolds
+#### Origin / process / chronology rail
 
-- **GI demand:** "GI is a necessary but strikingly narrow instrument: it
-  secures a name against misuse and leaves every other condition of a
-  craft's survival to institutions that the GI Act does not create."
-- **Livelihood demand:** "Craft policy fails when it treats a craft as a
-  product to be certified rather than as a production system to be
-  sustained."
-- **Continuity demand:** "Indian craft traditions have survived by changing
-  patron and market repeatedly; the contemporary question is whether the
-  tourism-and-certification market can reproduce skill as effectively as
-  the court, temple and export markets once did."
-
-###### 13.9 Factual-risk and dynamic-status controls
-
-- ⚠️ **Dynamic figures, dated and bounded:** the book reports **658
-  registered goods as of July 2025**, and **Uttar Pradesh with 77
-  registered products as of April 2025**, having surpassed Tamil Nadu.
-  ❌ Do not present either as today's figure. A later total may be cited
-  only from a dated GI Registry registered-status extract or an identified
-  DPIIT parliamentary reply — never from the Registry's all-applications
-  display and never from an unsupported web total.
-- ❌ Do not state a GI registration year for a craft unless it is recorded
-  here or taken from a dated Registry source.
-- ❌ Do not claim that a domestic GI is automatically protected abroad.
-- ❌ Do not present GI as a UNESCO category or as equivalent to ICH.
-- ❌ Do not invent artisan numbers, export values or employment figures.
-- ⚠️ The 2026 routed Prelims demand on **Oeko-Tex certification for Eri
-  silk** has **two separable halves**, and only one is answerable.
-  ✅ **Answerable:** the production fact — **Eri silk is commonly produced
-  in Meghalaya**, where the **Garo, Khasi and Jaintia** tribes are skilled
-  weavers producing shawls, sarongs and mekhela chadors from silk and
-  cotton (*Nitin…pdf*, PDF p. 391; §13.5A). ❌ **Bounded gap, unchanged:**
-  **Oeko-Tex** is a private/voluntary textile-testing standard, a different
-  instrument from a statutory GI; **this folder holds no dated source on
-  its criteria, scope, issuing standards or any Indian producer's current
-  certification status**, so answer that half only at the level of the
-  certification-versus-GI distinction and invent no standard details,
-  numbers or dates.
-- ❌ Do not attribute Eri silk exclusively to Assam; **Muga** is the golden
-  Assam silk, and the **mekhela chador** is woven in both states, so it
-  cannot identify a state on its own.
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
-
-##### 2026 PYQ Integration
-
-> **Status:** 2026 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
-> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
-
-- **Year represented:** 2026
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2026 | Prelims GS-I | 29 | Oeko-Tex certification for Eri silk and eco-conscious textile markets | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
-
-###### What this owner must now support
-
-- Oeko-Tex certification for Eri silk and eco-conscious textile markets
-
-> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2026 -->
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-##### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
-
-- **Years represented:** 2018
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | Prelims GS-I | 22 | Chapchar Kut Khongjom Parba Thang-Ta folk cultural traditions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2018 | Prelims GS-I | 54 | Regional textile craft heritage Puthukuli Sujni Uppada pairs | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-
-###### What this owner must now support
-
-- Chapchar Kut Khongjom Parba Thang-Ta folk cultural traditions
-- Regional textile craft heritage Puthukuli Sujni Uppada pairs
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-##### Semantic-completeness ownership and PYQ control
-
-- **Owned core:** craft ecology from raw material through skill, producing
-  community, market, legal recognition and safeguarding; material classes;
-  ikat, brocade, embroidery, painted cloth, metal casting and region-specific
-  handloom traditions; GI mechanics and limits.
-- **Source/inference control:** fibre, material, tool, process, motif,
-  product, producing community, region and dated registration are evidence.
-  A marketed label cannot establish tribal authorship, unchanged continuity,
-  fair remuneration or community consent.
-- **Date control:** archaeological evidence, textual reference, workshop
-  history, colonial market change, GI registration, foreign protection and
-  current award or certification status are separate chronologies.
-- **Geography control:** Patola-Patan, Pochampally-Telangana, Banarasi
-  brocade, Lucknow Chikankari, Bengal Kantha and North-East community-fibre
-  pairings remain specific; mekhela chador alone cannot identify a state.
-- **Terminology/style control:** double and single ikat, supplementary-weft
-  brocade, embroidery, mordant or resist Kalamkari, lost-wax Dhokra, GI and
-  voluntary certification are not synonyms.
-- **Boundary:** Topic 06 owns sculpture and pottery typology, Topic 07
-  painting, Topic 10 performance, Topic 14 heritage policy, Modern History
-  and Economy deindustrialisation, and Indian Society marginality.
-- **Community control:** living traditions are described through named
-  communities, labour, gender, ecology and appropriation limits without
-  freezing communities as timeless or treating state labels as ownership.
-- **Verified PYQ ownership, 2018-2026:** two 2018 objective matching routes
-  and the provisional 2026 Eri-Oeko-Tex route are direct. The 2024
-  handicraft-decline and diversity-marginality Mains demands remain
-  cross-owned; no unsupported certification rule or answer letter is added.
-
-### INDIAN ART AND CULTURE DEEP-REVIEW CORE CONTROL
-
-- **Must remember:** Craft survival depends on raw material, skill, community, market, legal recognition and safeguarding, while textiles must pair technique and centre: Patola double ikat, Pochampally resist dye, Banarasi brocade and Chikankari embroidery.
-- **Close distinction:** A Geographical Indication protects an origin-linked goods name for authorised users under the 1999 Act, operational since 2003 with renewable ten-year registration; it is neither UNESCO status nor a quality certificate.
-- **Evidence / interpretation limit:** GI does not guarantee fair price, ecology, labour conditions or transmission, Indian protection does not automatically extend abroad, and folk or tribal production must retain community, gender and appropriation limits.
-
-## BASIC MCQS / REMEDIATION
-
-### Q1. Which statement correctly identifies Handicraft and material classes?
-
-A. Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs.
-B. India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration.
-C. A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone.
-D. A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee.
-
-**Answer: A.**
-**Explanation:** Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q2. Which chronology card should be filed under Handicraft and material classes?
-
-A. India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration.
-B. Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs.
-C. A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee.
-D. Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad.
-
-**Answer: B.**
-**Explanation:** Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q3. Which option preserves the source-bounded meaning of Handicraft and material classes?
-
-A. Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad.
-B. Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production.
-C. Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs.
-D. India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration.
-
-**Answer: C.**
-**Explanation:** Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q4. Which statement avoids a close-option trap about Handicraft and material classes?
-
-A. Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad.
-B. Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production.
-C. Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together.
-D. Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs.
-
-**Answer: D.**
-**Explanation:** Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q5. Which statement correctly identifies Craft ecology chain?
-
-A. A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone.
-B. Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad.
-C. India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration.
-D. A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee.
-
-**Answer: A.**
-**Explanation:** A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q6. Which chronology card should be filed under Craft ecology chain?
-
-A. India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration.
-B. A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone.
-C. Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad.
-D. Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production.
-
-**Answer: B.**
-**Explanation:** A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q7. Which option preserves the source-bounded meaning of Craft ecology chain?
-
-A. Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production.
-B. Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together.
-C. A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone.
-D. Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad.
-
-**Answer: C.**
-**Explanation:** A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q8. Which statement avoids a close-option trap about Craft ecology chain?
-
-A. Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production.
-B. Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery.
-C. Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together.
-D. A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone.
-
-**Answer: D.**
-**Explanation:** A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q9. Which statement correctly identifies GI as origin-linked IP?
-
-A. A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee.
-B. Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad.
-C. India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration.
-D. Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production.
-
-**Answer: A.**
-**Explanation:** A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q10. Which chronology card should be filed under GI as origin-linked IP?
-
-A. Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together.
-B. A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee.
-C. Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad.
-D. Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production.
-
-**Answer: B.**
-**Explanation:** A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q11. Which option preserves the source-bounded meaning of GI as origin-linked IP?
-
-A. Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production.
-B. Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery.
-C. A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee.
-D. Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together.
-
-**Answer: C.**
-**Explanation:** A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q12. Which statement avoids a close-option trap about GI as origin-linked IP?
-
-A. Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together.
-B. Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery.
-C. Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions.
-D. A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee.
-
-**Answer: D.**
-**Explanation:** A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q13. Which statement correctly identifies GI legal mechanics?
-
-A. India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration.
-B. Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad.
-C. Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production.
-D. Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together.
-
-**Answer: A.**
-**Explanation:** India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q14. Which chronology card should be filed under GI legal mechanics?
-
-A. Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery.
-B. India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration.
-C. Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together.
-D. Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production.
-
-**Answer: B.**
-**Explanation:** India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q15. Which option preserves the source-bounded meaning of GI legal mechanics?
-
-A. Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together.
-B. Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery.
-C. India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration.
-D. Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions.
-
-**Answer: C.**
-**Explanation:** India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q16. Which statement avoids a close-option trap about GI legal mechanics?
-
-A. Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities.
-B. Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery.
-C. Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions.
-D. India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration.
-
-**Answer: D.**
-**Explanation:** India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q17. Which statement correctly identifies First and cross-border GI examples?
-
-A. Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad.
-B. Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production.
-C. Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together.
-D. Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery.
-
-**Answer: A.**
-**Explanation:** Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q18. Which chronology card should be filed under First and cross-border GI examples?
-
-A. Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery.
-B. Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad.
-C. Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions.
-D. Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together.
-
-**Answer: B.**
-**Explanation:** Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q19. Which option preserves the source-bounded meaning of First and cross-border GI examples?
-
-A. Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions.
-B. Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities.
-C. Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad.
-D. Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery.
-
-**Answer: C.**
-**Explanation:** Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q20. Which statement avoids a close-option trap about First and cross-border GI examples?
-
-A. The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads.
-B. Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities.
-C. Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions.
-D. Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad.
-
-**Answer: D.**
-**Explanation:** Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q21. Which statement correctly identifies Continuity through market change?
-
-A. Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production.
-B. Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery.
-C. Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together.
-D. Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions.
-
-**Answer: A.**
-**Explanation:** Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q22. Which chronology card should be filed under Continuity through market change?
-
-A. Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery.
-B. Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production.
-C. Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions.
-D. Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities.
-
-**Answer: B.**
-**Explanation:** Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q23. Which option preserves the source-bounded meaning of Continuity through market change?
-
-A. Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities.
-B. Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions.
-C. Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production.
-D. The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads.
-
-**Answer: C.**
-**Explanation:** Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q24. Which statement avoids a close-option trap about Continuity through market change?
-
-A. The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together.
-B. The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads.
-C. Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities.
-D. Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production.
-
-**Answer: D.**
-**Explanation:** Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q25. Which statement correctly identifies Patola and Pochampally?
-
-A. Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together.
-B. Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions.
-C. Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities.
-D. Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery.
-
-**Answer: A.**
-**Explanation:** Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q26. Which chronology card should be filed under Patola and Pochampally?
-
-A. The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads.
-B. Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together.
-C. Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities.
-D. Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions.
-
-**Answer: B.**
-**Explanation:** Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q27. Which option preserves the source-bounded meaning of Patola and Pochampally?
-
-A. Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities.
-B. The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together.
-C. Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together.
-D. The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads.
-
-**Answer: C.**
-**Explanation:** Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q28. Which statement avoids a close-option trap about Patola and Pochampally?
-
-A. The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads.
-B. The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together.
-C. Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton.
-D. Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together.
-
-**Answer: D.**
-**Explanation:** Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q29. Which statement correctly identifies Kanchipuram and Banarasi?
-
-A. Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery.
-B. Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities.
-C. The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads.
-D. Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions.
-
-**Answer: A.**
-**Explanation:** Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q30. Which chronology card should be filed under Kanchipuram and Banarasi?
-
-A. The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads.
-B. Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery.
-C. The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together.
-D. Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities.
-
-**Answer: B.**
-**Explanation:** Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q31. Which option preserves the source-bounded meaning of Kanchipuram and Banarasi?
-
-A. The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together.
-B. The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads.
-C. Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery.
-D. Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton.
-
-**Answer: C.**
-**Explanation:** Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q32. Which statement avoids a close-option trap about Kanchipuram and Banarasi?
-
-A. Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself.
-B. Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton.
-C. The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together.
-D. Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery.
-
-**Answer: D.**
-**Explanation:** Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q33. Which statement correctly identifies Chikankari and Kantha?
-
-A. Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions.
-B. The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads.
-C. Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities.
-D. The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together.
-
-**Answer: A.**
-**Explanation:** Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q34. Which chronology card should be filed under Chikankari and Kantha?
-
-A. Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton.
-B. Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions.
-C. The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together.
-D. The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads.
-
-**Answer: B.**
-**Explanation:** Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q35. Which option preserves the source-bounded meaning of Chikankari and Kantha?
-
-A. Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton.
-B. The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together.
-C. Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions.
-D. Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself.
-
-**Answer: C.**
-**Explanation:** Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q36. Which statement avoids a close-option trap about Chikankari and Kantha?
-
-A. Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself.
-B. Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton.
-C. Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif.
-D. Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions.
-
-**Answer: D.**
-**Explanation:** Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q37. Which statement correctly identifies Kalamkari and Dhokra?
-
-A. Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities.
-B. The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads.
-C. Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton.
-D. The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together.
-
-**Answer: A.**
-**Explanation:** Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q38. Which chronology card should be filed under Kalamkari and Dhokra?
-
-A. The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together.
-B. Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities.
-C. Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself.
-D. Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton.
-
-**Answer: B.**
-**Explanation:** Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q39. Which option preserves the source-bounded meaning of Kalamkari and Dhokra?
-
-A. Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself.
-B. Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif.
-C. Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities.
-D. Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton.
-
-**Answer: C.**
-**Explanation:** Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q40. Which statement avoids a close-option trap about Kalamkari and Dhokra?
-
-A. Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself.
-B. Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif.
-C. Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning.
-D. Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities.
-
-**Answer: D.**
-**Explanation:** Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q41. Which statement correctly identifies Glass craft chronology?
-
-A. The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads.
-B. Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself.
-C. The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together.
-D. Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton.
-
-**Answer: A.**
-**Explanation:** The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q42. Which chronology card should be filed under Glass craft chronology?
-
-A. Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself.
-B. The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads.
-C. Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif.
-D. Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton.
-
-**Answer: B.**
-**Explanation:** The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q43. Which option preserves the source-bounded meaning of Glass craft chronology?
-
-A. Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning.
-B. Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself.
-C. The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads.
-D. Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif.
-
-**Answer: C.**
-**Explanation:** The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q44. Which statement avoids a close-option trap about Glass craft chronology?
-
-A. GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission.
-B. Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif.
-C. Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning.
-D. The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads.
-
-**Answer: D.**
-**Explanation:** The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q45. Which statement correctly identifies North-East handloom process?
-
-A. The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together.
-B. Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton.
-C. Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif.
-D. Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself.
-
-**Answer: A.**
-**Explanation:** The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q46. Which chronology card should be filed under North-East handloom process?
-
-A. Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning.
-B. The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together.
-C. Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif.
-D. Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself.
-
-**Answer: B.**
-**Explanation:** The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q47. Which option preserves the source-bounded meaning of North-East handloom process?
-
-A. Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning.
-B. GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission.
-C. The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together.
-D. Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif.
-
-**Answer: C.**
-**Explanation:** The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q48. Which statement avoids a close-option trap about North-East handloom process?
-
-A. The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half.
-B. Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning.
-C. GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission.
-D. The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together.
-
-**Answer: D.**
-**Explanation:** The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q49. Which statement correctly identifies Meghalaya Eri evidence?
-
-A. Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton.
-B. Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning.
-C. Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif.
-D. Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself.
-
-**Answer: A.**
-**Explanation:** Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q50. Which chronology card should be filed under Meghalaya Eri evidence?
-
-A. Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif.
-B. Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton.
-C. Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning.
-D. GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission.
-
-**Answer: B.**
-**Explanation:** Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q51. Which option preserves the source-bounded meaning of Meghalaya Eri evidence?
-
-A. The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half.
-B. GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission.
-C. Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton.
-D. Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning.
-
-**Answer: C.**
-**Explanation:** Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q52. Which statement avoids a close-option trap about Meghalaya Eri evidence?
-
-A. Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI.
-B. GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission.
-C. The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half.
-D. Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton.
-
-**Answer: D.**
-**Explanation:** Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q53. Which statement correctly identifies Assam Muga discriminator?
-
-A. Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself.
-B. GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission.
-C. Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif.
-D. Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning.
-
-**Answer: A.**
-**Explanation:** Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q54. Which chronology card should be filed under Assam Muga discriminator?
-
-A. The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half.
-B. Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself.
-C. GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission.
-D. Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning.
-
-**Answer: B.**
-**Explanation:** Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q55. Which option preserves the source-bounded meaning of Assam Muga discriminator?
-
-A. Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI.
-B. The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half.
-C. Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself.
-D. GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission.
-
-**Answer: C.**
-**Explanation:** Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q56. Which statement avoids a close-option trap about Assam Muga discriminator?
-
-A. The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners.
-B. Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI.
-C. The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half.
-D. Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself.
-
-**Answer: D.**
-**Explanation:** Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q57. Which statement correctly identifies Manipur and Nagaland textiles?
-
-A. Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif.
-B. GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission.
-C. The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half.
-D. Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning.
-
-**Answer: A.**
-**Explanation:** Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q58. Which chronology card should be filed under Manipur and Nagaland textiles?
-
-A. The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half.
-B. Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif.
-C. Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI.
-D. GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission.
-
-**Answer: B.**
-**Explanation:** Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q59. Which option preserves the source-bounded meaning of Manipur and Nagaland textiles?
-
-A. Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI.
-B. The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners.
-C. Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif.
-D. The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half.
-
-**Answer: C.**
-**Explanation:** Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q60. Which statement avoids a close-option trap about Manipur and Nagaland textiles?
-
-A. Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI.
-B. The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners.
-C. Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs.
-D. Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif.
-
-**Answer: D.**
-**Explanation:** Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q61. Which statement correctly identifies Arunachal, Mizoram and Tripura?
-
-A. Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning.
-B. The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half.
-C. GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission.
-D. Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI.
-
-**Answer: A.**
-**Explanation:** Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q62. Which chronology card should be filed under Arunachal, Mizoram and Tripura?
-
-A. The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half.
-B. Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning.
-C. The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners.
-D. Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI.
-
-**Answer: B.**
-**Explanation:** Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q63. Which option preserves the source-bounded meaning of Arunachal, Mizoram and Tripura?
-
-A. Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI.
-B. The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners.
-C. Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning.
-D. Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs.
-
-**Answer: C.**
-**Explanation:** Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q64. Which statement avoids a close-option trap about Arunachal, Mizoram and Tripura?
-
-A. Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs.
-B. The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners.
-C. A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone.
-D. Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning.
-
-**Answer: D.**
-**Explanation:** Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q65. Which statement correctly identifies GI is not safeguarding?
-
-A. GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission.
-B. The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners.
-C. The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half.
-D. Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI.
-
-**Answer: A.**
-**Explanation:** GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q66. Which chronology card should be filed under GI is not safeguarding?
-
-A. Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs.
-B. GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission.
-C. The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners.
-D. Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI.
-
-**Answer: B.**
-**Explanation:** GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q67. Which option preserves the source-bounded meaning of GI is not safeguarding?
-
-A. The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners.
-B. A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone.
-C. GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission.
-D. Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs.
-
-**Answer: C.**
-**Explanation:** GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q68. Which statement avoids a close-option trap about GI is not safeguarding?
-
-A. A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee.
-B. A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone.
-C. Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs.
-D. GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission.
-
-**Answer: D.**
-**Explanation:** GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q69. Which statement correctly identifies Certification versus GI boundary?
-
-A. The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half.
-B. Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI.
-C. The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners.
-D. Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs.
-
-**Answer: A.**
-**Explanation:** The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q70. Which chronology card should be filed under Certification versus GI boundary?
-
-A. Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs.
-B. The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half.
-C. A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone.
-D. The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners.
-
-**Answer: B.**
-**Explanation:** The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q71. Which option preserves the source-bounded meaning of Certification versus GI boundary?
-
-A. A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone.
-B. Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs.
-C. The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half.
-D. A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee.
-
-**Answer: C.**
-**Explanation:** The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q72. Which statement avoids a close-option trap about Certification versus GI boundary?
-
-A. A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee.
-B. A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone.
-C. India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration.
-D. The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half.
-
-**Answer: D.**
-**Explanation:** The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q73. Which statement correctly identifies Ecology, gender and appropriation?
-
-A. Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI.
-B. Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs.
-C. The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners.
-D. A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone.
-
-**Answer: A.**
-**Explanation:** Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q74. Which chronology card should be filed under Ecology, gender and appropriation?
-
-A. A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone.
-B. Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI.
-C. A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee.
-D. Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs.
-
-**Answer: B.**
-**Explanation:** Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q75. Which option preserves the source-bounded meaning of Ecology, gender and appropriation?
-
-A. A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee.
-B. India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration.
-C. Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI.
-D. A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone.
-
-**Answer: C.**
-**Explanation:** Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q76. Which statement avoids a close-option trap about Ecology, gender and appropriation?
-
-A. India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration.
-B. Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad.
-C. A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee.
-D. Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI.
-
-**Answer: D.**
-**Explanation:** Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q77. Which statement correctly identifies Verified craft routes and live boundary?
-
-A. The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners.
-B. Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs.
-C. A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone.
-D. A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee.
-
-**Answer: A.**
-**Explanation:** The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q78. Which chronology card should be filed under Verified craft routes and live boundary?
-
-A. India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration.
-B. The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners.
-C. A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee.
-D. A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone.
-
-**Answer: B.**
-**Explanation:** The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q79. Which option preserves the source-bounded meaning of Verified craft routes and live boundary?
-
-A. A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee.
-B. India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration.
-C. The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners.
-D. Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad.
-
-**Answer: C.**
-**Explanation:** The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners. The remaining options belong to different chronology, actor or analytical categories.
-
-### Q80. Which statement avoids a close-option trap about Verified craft routes and live boundary?
-
-A. India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration.
-B. Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production.
-C. Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad.
-D. The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners.
-
-**Answer: D.**
-**Explanation:** The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners. The remaining options belong to different chronology, actor or analytical categories.
-
-## PYQS AND ANSWER PRACTICE
-
-### TRANSPARENT ZERO-DIRECT-PYQ AUDIT
-
-No direct GS-I Mains PYQ is routed to Topic 12. The audited direct objective routes are the two 2018 matching demands and the provisional 2026 Eri-Oeko-Tex demand; the 2024 handicraft-decline and diversity-marginality Mains questions remain adjacent routes owned by Modern History or Economy and Indian Society.
-
-### OWNER PYQ LEDGER EXTRACTS
-
-#### 7. Exact PYQ application
-
-⚠️ **2024 Q13 (adjacent-only), verbatim:** "How far was the Industial
-Revolution in England responsible for the decline of hadicrafts and
-cottage industries in India? (Answer in 250 words)" (source spelling
-defects "Industial" and "hadicrafts" preserved exactly as supplied,
-`UPSC Mains 2024 GS Paper I.txt:91-96`). ⚠️ This question's primary
-ownership is **Modern History/Economy** (the deindustrialisation debate);
-this topic supports it only by supplying the material/craft-form
-vocabulary (glassware, cloth, metal crafts) whose colonial-era economic
-displacement is the question's actual subject.
-
-⚠️ **2024 Q20 (adjacent-only), verbatim:** "Critically analyse the
-proposition that there is a high correlation between India's cultural
-diversities and socio-economic marginalities. (Answer in 250 words)"
-(`UPSC Mains 2024 GS Paper I.txt:138-143`). ⚠️ This question's primary
-ownership is **Indian Society**; this topic supports it only insofar as
-tribal/rural craft-community livelihoods illustrate a specific instance
-of the diversity-marginality relationship, without this topic itself
-answering the sociological question.
-
-#### 2026 PYQ Integration
-
-> **Status:** 2026 question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`.
-> **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally are **provisional**; no option or answer is recorded or inferred in this integration.
-
-- **Year represented:** 2026
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 1
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---|---|---|---|---|
-| 2026 | Prelims GS-I | 29 | Oeko-Tex certification for Eri silk and eco-conscious textile markets | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
-
-##### What this owner must now support
-
-- Oeko-Tex certification for Eri silk and eco-conscious textile markets
-
-> This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
-<!-- END GENERATED PYQ INTEGRATION: 2026 -->
-
-<!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### Historical PYQ Integration (2018-2023)
-
-> **Status:** Question-level PYQ demand is integrated into this owner.
-> **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
-
-- **Years represented:** 2018
-- **Paper(s):** Prelims GS-I
-- **Routed question demands:** 2
-
-| Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
-|---:|---|---:|---|---|---|---|
-| 2018 | Prelims GS-I | 22 | Chapchar Kut Khongjom Parba Thang-Ta folk cultural traditions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2018 | Prelims GS-I | 54 | Regional textile craft heritage Puthukuli Sujni Uppada pairs | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-
-##### What this owner must now support
-
-- Chapchar Kut Khongjom Parba Thang-Ta folk cultural traditions
-- Regional textile craft heritage Puthukuli Sujni Uppada pairs
-
-> The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
-<!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-#### 8. Exact PYQ application
-
-⚠️ **2024 Q13 (adjacent-only):** this file's contribution is the explicit
-craft-ecology-chain boundary statement (Section 4) — naming which part of
-the deindustrialisation debate this topic supports (the object/material
-vocabulary) and which part it does not own (the causal economic
-argument), rather than attempting a full Modern History/Economy answer
-under this subject's label.
-
-⚠️ **2024 Q20 (adjacent-only):** similarly, this topic's craft-community
-livelihood material can illustrate, but not itself resolve, the broader
-diversity-marginality correlation question owned by Indian Society.
-
-### ORIGINAL MAINS 1 — 10 MARKS
-
-**Question:** Distinguish a craft tradition from a Geographical Indication. Answer in about 150 words.
-
-**Model thesis:** Craft is a production ecology of material, skill, community and market, whereas GI is a narrow renewable right over an origin-linked name.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs.
-- A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone.
-- A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee.
-- India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration.
-
-**Qualified conclusion:** Craft is a production ecology of material, skill, community and market, whereas GI is a narrow renewable right over an origin-linked name.
-
-**Demand decoding:** The directive **answer** requires a direct position on “Distinguish a craft tradition from a Geographical Indication. Answer in about 150 words.”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Craft is a production ecology of material, skill, community and market, whereas GI is a narrow renewable right over an origin-linked name.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Handicraft joins hand skill, livelihood and cultural heritage; the owner's material classes include glass, cloth, ivory, silver, clay, bronze, other metals, leather, wood, toys, stone and floor designs. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** India's sui generis GI Act of 1999 has operated since 2003, covers goods rather than services, is administered through the GI Registry at Chennai under DPIIT, and grants renewable ten-year registration. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Craft is a production ecology of material, skill, community and market, whereas GI is a narrow renewable right over an origin-linked name.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence definition and thesis; organise three named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Distinguish a craft tradition from a Geographical Indication. Answer in about 150 words.”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 2 — 10 MARKS
-
-**Question:** Compare ikat, brocade, embroidery and painted or printed textile processes with examples. Answer in about 150 words.
-
-**Model thesis:** Process, region and product together distinguish textile traditions more reliably than a one-word state match.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together.
-- Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery.
-- Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions.
-- Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities.
-
-**Qualified conclusion:** Process, region and product together distinguish textile traditions more reliably than a one-word state match.
-
-**Demand decoding:** The directive **compare** requires a direct position on “Compare ikat, brocade, embroidery and painted or printed textile processes with examples.…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Process, region and product together distinguish textile traditions more reliably than a one-word state match.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Patola from Patan uses double ikat, while Pochampally in Telangana uses resist-dyed yarn and may be single or double ikat; technique and centre must be stated together. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Kanchipuram silk is distinguished by contrasting borders joined to the body, while Banarasi brocade uses supplementary-weft zari; neither is embroidery. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Chikankari is Lucknow's white-on-white embroidery repertoire, while Kantha is Bengal running-stitch quilting or embroidery associated with reused cloth traditions. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** Kalamkari uses hand-drawn or block-printed cotton with mordant or resist processes in Andhra Pradesh and Telangana centres, while Dhokra is lost-wax non-ferrous casting across central and eastern artisan communities. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Process, region and product together distinguish textile traditions more reliably than a one-word state match.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence definition and thesis; organise three named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Compare ikat, brocade, embroidery and painted or printed textile processes with examples.…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 3 — 15 MARKS
-
-**Question:** Explain why GI recognition cannot by itself safeguard craft livelihoods. Answer in about 250 words.
-
-**Model thesis:** Name protection acts at only one link of the craft ecology chain and leaves material access, income, labour conditions, transmission and market power unresolved.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone.
-- GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission.
-- Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI.
-
-**Qualified conclusion:** Name protection acts at only one link of the craft ecology chain and leaves material access, income, labour conditions, transmission and market power unresolved.
-
-**Demand decoding:** The directive **explain** requires a direct position on “Explain why GI recognition cannot by itself safeguard craft livelihoods. Answer in about 250…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Name protection acts at only one link of the craft ecology chain and leaves material access, income, labour conditions, transmission and market power unresolved.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A craft survives through linked raw material, skill, producing community, market access, legal recognition and safeguarding; failure at any earlier link cannot be repaired by a label alone. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Name protection acts at only one link of the craft ecology chain and leaves material access, income, labour conditions, transmission and market power unresolved.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Explain why GI recognition cannot by itself safeguard craft livelihoods. Answer in about 250…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 4 — 15 MARKS
-
-**Question:** Assess North-East handloom traditions through community, fibre, process and product. Answer in about 250 words.
-
-**Model thesis:** Named community-held weaving systems reveal regional plurality, but close-option discipline is needed for Eri, Muga and shared garments.
-
-**Claim → named evidence → analysis → qualification:**
-
-- The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together.
-- Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton.
-- Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself.
-- Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif.
-- Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning.
-
-**Qualified conclusion:** Named community-held weaving systems reveal regional plurality, but close-option discipline is needed for Eri, Muga and shared garments.
-
-**Demand decoding:** The directive **assess** requires a direct position on “Assess North-East handloom traditions through community, fibre, process and product. Answer…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Named community-held weaving systems reveal regional plurality, but close-option discipline is needed for Eri, Muga and shared garments.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** The owner's North-East handloom frame links community-held knowledge to ginning, spinning and weaving; region, community, fibre, process and product must be recorded together. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Eri silk is commonly produced in Meghalaya, where Garo, Khasi and Jaintia communities are described as skilled weavers of shawls, sarongs and mekhela chadors using silk and cotton. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** Assam is identified with golden Muga silk, while mekhela chador occurs in both Assam and Meghalaya and therefore cannot identify a state by itself. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** Manipur is linked with Moirang Phee and the Phanek, while Nagaland traditions use tribe-specific patterns, vibrant colours and natural dyes; neither should be reduced to a single pan-state motif. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-5. **Claim and named evidence:** Adi, Apatani, Nyishi and Monpa weaving anchors Arunachal Pradesh; women are the primary weavers of Mizoram's Puan; Tripura is described through striped and dispersed-embroidery patterning. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Named community-held weaving systems reveal regional plurality, but close-option discipline is needed for Eri, Muga and shared garments.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence definition and thesis; organise five named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Assess North-East handloom traditions through community, fibre, process and product. Answer…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 5 — 20 MARKS
-
-**Question:** Trace continuity and change in Indian craft production from early material cultures to contemporary markets. Answer in about 300 words.
-
-**Model thesis:** Technique can persist while patrons, intermediaries, designs and market institutions change, making adaptation rather than stasis the key historical argument.
-
-**Claim → named evidence → analysis → qualification:**
-
-- Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production.
-- The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads.
-- GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission.
-
-**Qualified conclusion:** Technique can persist while patrons, intermediaries, designs and market institutions change, making adaptation rather than stasis the key historical argument.
-
-**Demand decoding:** The directive **trace** requires a direct position on “Trace continuity and change in Indian craft production from early material cultures to…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Technique can persist while patrons, intermediaries, designs and market institutions change, making adaptation rather than stasis the key historical argument.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** Harappan, Sangam, medieval karkhana, merchant-export, colonial, tourism and GI markets changed patronage, scale, motif and labour, so continuity means selective adaptation rather than unchanged production. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** The owner links glass to Mahabharata reference, Painted Grey Ware evidence, the term kanch or kaca in the Shatapatha Brahmana, and a Brahmapuri-Kolhapur industry producing lenticular beads. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** GI intervenes at legal recognition but does not by itself secure raw material, fair price, labour conditions, design protection, market power or intergenerational skill transmission. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Technique can persist while patrons, intermediaries, designs and market institutions change, making adaptation rather than stasis the key historical argument.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence definition and thesis; organise six to eight named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Trace continuity and change in Indian craft production from early material cultures to…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-### ORIGINAL MAINS 6 — 20 MARKS
-
-**Question:** Discuss the institutional and ethical framework needed to conserve living craft traditions. Answer in about 300 words.
-
-**Model thesis:** Effective safeguarding combines legal recognition with ecology, fair market access, visible labour, transmission, documentation and carefully bounded certification claims.
-
-**Claim → named evidence → analysis → qualification:**
-
-- A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee.
-- Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad.
-- The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half.
-- Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI.
-- The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners.
-
-**Qualified conclusion:** Effective safeguarding combines legal recognition with ecology, fair market access, visible labour, transmission, documentation and carefully bounded certification claims.
-
-**Demand decoding:** The directive **discuss** requires a direct position on “Discuss the institutional and ethical framework needed to conserve living craft traditions.…”, every clause and time boundary, common-axis organisation, named evidence, a counter-position and a qualified verdict.
-
-**Detailed examiner-grade model answer:**
-
-**Introduction and thesis:** Effective safeguarding combines legal recognition with ecology, fair market access, visible labour, transmission, documentation and carefully bounded certification claims.
-
-**Analytical body:**
-
-1. **Claim and named evidence:** A Geographical Indication protects an origin-linked product name for authorised users; it is not a quality certificate, UNESCO heritage status or community-welfare guarantee. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-2. **Claim and named evidence:** Darjeeling Tea was India's first GI-tagged product in 2004-05, while Kangra Tea obtained separate European Union protection; an Indian registration does not automatically extend abroad. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-3. **Claim and named evidence:** The routed Oeko-Tex demand combines a voluntary textile-testing standard with Eri production; the owner supports the Eri fact but holds no verified criteria or current producer-status evidence for the certification half. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-4. **Claim and named evidence:** Wildlife-law limits bar revivalist arguments for new ivory production; invisible preparatory labour and copying outside a protected name show why ecology, gender and design appropriation require analysis beyond GI. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-5. **Claim and named evidence:** The routed demands cover 2018 folk-culture and textile matching plus provisional 2026 Eri-Oeko-Tex; deindustrialisation-as-context, not this topic's primary claim, means this topic supplies specific craft-material vocabulary while Modern History and Economy own the causal verdict. The official 2025 handloom-award document is used only as evidence of current institutional recognition, not as a source for unverified winners. **Analysis:** Link form, medium, technique, patronage or performance context to the directive instead of merely listing the example. **Qualification:** State its chronological, regional, attributional or status boundary.
-
-**Counter-position / limit:** A shared motif, material, religious setting or institutional label does not by itself establish identical function, direct descent, homogeneous community meaning or complete safeguarding.
-
-**Qualified conclusion:** Effective safeguarding combines legal recognition with ecology, fair market access, visible labour, transmission, documentation and carefully bounded certification claims.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence definition and thesis; organise six to eight named monuments, objects, forms, texts, practitioners, communities or institutions as claim → evidence → analysis → qualification; reserve the final lines for a graded close.
-
-**Why this earns marks:** The answer obeys the directive, compares like with like, connects form and patronage to social meaning, and avoids list-making, essentialism, false continuity and unsupported attribution.
-
-**How to improve this answer:** For “Discuss the institutional and ethical framework needed to conserve living craft traditions.…”, replace the weakest generalisation with one additional named monument, object, text, technique, community or official record and state what that evidence cannot prove.
-
-## OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
-
-> **Subject:** Indian Art & Culture | **Tier:** Advanced | **GS Paper:** GS-I.
-> **Core area:** Craft ecology (material-skill-community-market-GI-
-> safeguarding chain); colonial deindustrialisation as a contextual bridge;
-> GI as a contested/limited safeguarding tool.
-> **Grounded in:** Nitin Singhania, *Indian Art and Culture*, PDF pp.
-> 378-410; R.S. Sharma, *India's Ancient Past*, PDF pp. 97-103, 250-260;
-> Satish Chandra, *History of Medieval India*, PDF pp. 317-327; Satish
-> Chandra, *Medieval History, 1526-1748, Part 2*, PDF pp. 358-401;
-> `00_Master-Framework.md` Sections 4-5; audited UPSC Mains 2024
-> GS Paper I (adjacent only).
-> ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = trap.
-> *Companion: `basic/12_Crafts-Textiles-Folk-and-Tribal-Traditions.md`.*
-
-#### 1. Analytical question and thesis
-
-**Question:** Does a GI tag actually safeguard a craft tradition and its
-producing community, or does it protect only the product's market name —
-and how should this topic engage the adjacent Industrial Revolution
-question without overstepping into Modern History/Economy's primary
-territory?
-**Thesis:** ⚠️ A GI tag is a narrow, market-facing intellectual-property
-instrument (protecting a product name's exclusive regional association)
-and should not be conflated with comprehensive craft-community
-safeguarding (which requires skill transmission, fair market access and
-livelihood security) — this distinction is the necessary analytical
-bridge between the legal instrument (Section 3-4 here) and the
-deindustrialisation question (2024 Q13), which asks about the historical
-economic *decline* of the very handicraft base that GI protection today
-only partially addresses.
-
-#### 2. Advanced vocabulary
-
-| Term | Precise meaning |
+| Phase | Evidence / shift |
 |---|---|
-| ⚠️ **Craft ecology chain** | Material -> skill/technique -> producing community -> market access -> legal recognition (GI) -> safeguarding — a GI tag intervenes only at the "legal recognition" link; it does not by itself guarantee skill transmission or fair market access at the earlier links. |
-| ✅ **GI as narrow IP instrument, not livelihood guarantee** | The book's own description of GI as protecting only the *product name's* exclusive regional use (*Nitin…pdf*, PDF p. 406) — not the producing community's income, working conditions or skill transmission — is the precise legal boundary an advanced answer must not overstate. |
-| ⚠️ **Deindustrialisation-as-context, not this topic's primary claim** | The 2024 Q13 PYQ's actual analytical content (whether English industrial goods displaced Indian handicrafts/cottage industries) belongs to Modern History/Economy; this file's role is to supply the **specific craft-material vocabulary** (glassware, metal crafts, cloth handicrafts) that gives that debate concrete content, not to adjudicate the deindustrialisation thesis itself. |
-| ⚠️ **Continuity through market change** | A craft may retain a technique while changing patron, motif, scale or product: temple/court/guild demand can become merchant-export, colonial exhibition, tourist or GI market demand. Continuity is therefore selective adaptation, not fossilisation. |
+| Harappan and early historic | beads, shell, pottery, textiles, ivory movement |
+| Vedic / PGW / early Deccan | textual and archaeological glass clues |
+| Sangam and early historic trade | cotton, silk, ports and exchange networks |
+| Medieval | karkhanas, weavers, dyers, merchant and court demand |
+| Nationalist and post-1947 | khadi mobilisation, KVIC, cooperatives, awards |
+| Post-2003 legal layer | GI-based name protection as a later institutional mechanism |
 
-#### 3. Comparative framework
+#### How to write the paragraph (claim -> evidence -> analysis -> qualification)
 
-| Instrument/mechanism | What it protects | What it does NOT guarantee |
+**Model paragraph:** A high-scoring answer on craft continuity must be chronological as well as descriptive. Early India already shows specialised production in beads, shells, pottery and textiles; the glass chain runs from epic and Vedic references to archaeological industries in Maharashtra; Sangam-era evidence ties cloth to trade; and medieval karkhanas show organised production under court and merchant demand. Later nationalist khadi politics and post-2003 GI protection belong to still later institutional stages. The qualification is that continuity lies in recurrent adaptation of skill, not in identical motifs or unchanged labour relations across millennia.
+
+#### Named evidence / examples
+
+- R.S. Sharma on Harappan and early historic crafts.
+- Nitin, p. 379: the glass chronology from Mahabharata to Mughal glassware.
+- Nitin, p. 390: khadi, All India Spinners' Association (1925), KVIC (1956).
+
+#### Prelims traps
+
+- Do not write 'ancient craft still survives unchanged'.
+- Do not jump from Harappa to GI without showing the intermediate production world.
+- Do not make every modern institutional label appear ancient.
+
+#### Mains use
+
+Use this when the question asks about continuity, change, decline or safeguarding.
+
+#### Mini recap
+
+- Chronology prevents romanticised answers.
+- Organisation of labour matters as much as ornament.
+- GI is late; production history is older.
+
+### SESSION - CORE - TIE-DYE, IKAT, PRINTING AND PAINTED CLOTH
+
+#### Answer-grabbing line - write/adapt in the exam
+
+> Surface similarity is a prelims trap; Bandhani, Laharia, Ikat, Kalamkari, Batik and Ajrakh look colourful but emerge from different technical stages.
+
+#### Must-write keywords
+
+- Bandhani
+- Laharia
+- Ikat
+- Kalamkari
+- Batik
+- Ajrakh
+
+#### Visual first
+
+| Tradition | Region anchor | Technical clue | Trap to kill |
+|---|---|---|---|
+| Bandhani / Bandhej | Rajasthan and Gujarat, also elsewhere | repeated knotting and dyeing | not woven motif |
+| Laharia | Jaipur and Jodhpur route in Nitin | wave-like tie-and-dye effect | not a separate loom type |
+| Ikat | Telangana, Odisha, Gujarat, Andhra route | resist-dyed yarn before weaving | not embroidery |
+| Kalamkari | Andhra Pradesh / Telangana centres | hand-painted or block-printed cotton, mordant-resist logic | not bamboo craft |
+| Batik | MP and West Bengal popularity in Nitin | wax-resist colouring | origin in Indonesia, not India |
+| Ajrakh | Gujarat | block printing | not Ikat or embroidery |
+
+*Use the visual as the first sorting device before writing prose.*
+
+#### Core explanation
+
+Nitin's cloth-handicraft discussion is strongest when read as a process table. Bandhani or Bandhej creates vibrant designs through repeated tying and dyeing; Laharia is a special wave-form of the same general family; Ikat works at the level of resist-dyed yarn; Kalamkari applies imagery to cotton through paint or block print and dye chemistry; Batik uses wax.
+This session is also where Topic 12 must define its boundary with Topic 7. Kalamkari here is taught as a textile surface process and marketable cloth tradition, not as a painting-school aesthetic history. That distinction keeps the syllabus ownership clean.
+Ajrakh, Telia Rumal and similar examples show why the word 'printing' must not be skipped. The cloth may later look narrative or decorative, but the production chain is still different from woven brocade or embroidery.
+
+#### How to write the paragraph (claim -> evidence -> analysis -> qualification)
+
+**Model paragraph:** An examiner-ready answer on Indian cloth traditions should sort them by where the design is created. Bandhani and Laharia create pattern through tied dyeing; Ikat colours the yarn before weaving; Kalamkari works on the fabric surface through hand painting or block printing with mordant-resist logic; Batik uses wax. This sequence is analytically useful because it converts colourful names into production categories and helps eliminate close options. The qualification is that a single region may host several techniques, so the product name must still be tied to the right process.
+
+#### Named evidence / examples
+
+- Nitin, p. 380: Bandhani, Laharia, Ikat, Kalamkari, Batik.
+- Nitin, p. 381: Ajrakh, Telia Rumal and cloth-printing variants.
+- 2015 Kalamkari prelims wording preserved in Nitin's PYQ page: hand-painted cotton textile in South India.
+
+#### Prelims traps
+
+- Do not call Kalamkari a woollen or bamboo craft.
+- Do not treat Laharia as a loom weave.
+- Do not identify Ikat only by bright colours while ignoring resist-dyed yarn.
+
+#### Mains use
+
+Use for short notes, matching questions and any process-comparison answer.
+
+#### Mini recap
+
+- Technique beats visual guesswork.
+- Kalamkari belongs here as textile process, not as painting-school history.
+- Printing, waxing, tying and pre-dyeing are separate craft steps.
+
+### SESSION - CORE - MAJOR WEAVING TRADITIONS: PATOLA, POCHAMPALLY, KANCHIPURAM, BANARASI, JAMDANI AND TANCHOI
+
+#### Answer-grabbing line - write/adapt in the exam
+
+> The surest way to write textile answers is region plus technique plus product, never region alone.
+
+#### Must-write keywords
+
+- Patola
+- Pochampally
+- Kanchipuram
+- Banarasi
+- Jamdani
+- Tanchoi
+
+#### Visual first
+
+| Tradition | Region | Safe process marker | Qualification |
+|---|---|---|---|
+| Patola | Patan, Gujarat | double Ikat | do not merge with Pochampally |
+| Pochampally | Telangana | Ikat family, silk/cotton sarees | may involve single or double ikat; centre matters |
+| Kanchipuram silk | Tamil Nadu | contrasting borders joined to body | weave, not embroidery |
+| Banarasi brocade | Varanasi | supplementary-weft zari / brocade | woven luxury textile |
+| Jamdani | Bengal; Uppada variant in Andhra route | pattern woven into fabric, not surface embroidery | 'Jamdani' does not by itself prove Bengal only |
+| Tanchoi | perfected in Varanasi in Nitin | weaving influence via trade / Chinese inspiration | do not confuse with Jamdani or brocade generally |
+
+*Use the visual as the first sorting device before writing prose.*
+
+#### Core explanation
+
+The canonical identification bank already gives Patola, Pochampally, Kanchipuram and Banarasi because these are classic close-option eliminators. Patola belongs to Patan and is double ikat; Pochampally belongs to Telangana and stays within the ikat family but not the same centre; Kanchipuram is marked by contrast borders joined to the body; Banarasi is brocade and zari-heavy weave.
+Nitin broadens the field with Jamdani of Bengal, muslin with opaque designs on a transparent base, and Tanchoi perfected in Varanasi after trade-linked influence. Official IP India records additionally show Uppada Jamdani Sarees as a registered GI from Andhra Pradesh, which is why 'Jamdani' cannot be treated as Bengal-exclusive in every question.
+The analytical rule is simple: a strong answer names the locality, the technique and the product form together. This turns textile memorisation into an evidentiary map rather than a tourist list.
+
+#### How to write the paragraph (claim -> evidence -> analysis -> qualification)
+
+**Model paragraph:** Indian weaving traditions become answerable only when locality and technique are written together. Patola is safest as Patan's double ikat, Pochampally as the Telangana Ikat route, Kanchipuram as the contrasting-border silk weave, Banarasi as zari brocade, Jamdani as patterned weaving rather than surface embroidery, and Tanchoi as a Varanasi weaving tradition shaped by trade-linked influence. This method is analytical because it converts names into process evidence. The qualification is that labels such as Jamdani may travel across regions, so centre-specific variants like Uppada must be recognised.
+
+#### Named evidence / examples
+
+- Nitin, pp. 381-382: Jamdani, Tanchoi, Patan Patola, Pochampally, Kanchipuram, Banarasi.
+- IP India GI details page checked 6 Sep 2026: Uppada Jamdani Sarees, Andhra Pradesh, application 122, registered 5 Mar 2009.
+
+#### Prelims traps
+
+- Do not write Patola for Pochampally or vice versa.
+- Do not call Banarasi embroidery just because zari is visible.
+- Do not turn 'Jamdani' into a one-state word everywhere.
+
+#### Mains use
+
+Use in PYQ-style textile matching and in 15-mark comparison answers.
+
+#### Mini recap
+
+- Region + technique + product is the core formula.
+- Patola and Pochampally are the classic close pair.
+- Jamdani is a weaving family, not surface decoration.
+
+### SESSION - CORE - EMBROIDERY, APPLIQUE AND EMBELLISHED CLOTH TRADITIONS
+
+#### Answer-grabbing line - write/adapt in the exam
+
+> Embroidery begins after the base cloth already exists; that one sentence kills half the close options in this topic.
+
+#### Must-write keywords
+
+- Chikankari
+- Kantha
+- Sujini
+- Phulkari
+- Chamba Rumal
+- Kasuti
+
+#### Visual first
+
+| Tradition | Region anchor | Technical clue |
 |---|---|---|
-| ✅ GI tag | Exclusive regional-name use for a specific good, for a renewable 10-year term | Producer income, skill transmission to the next generation, fair-trade market access |
-| ⚠️ EU cross-registration (e.g. Kangra Tea) | Additional export-market legal protection | Domestic-market fair pricing or producer welfare |
-| ⚠️ SNA/LKA/Sahitya Akademi-type recognition (topic 14, for comparison) | Individual/institutional prestige recognition | Community-wide livelihood security |
+| Chikankari | Lucknow | white thread embroidery on cloth |
+| Kantha | Bengal | running-stitch quilting / embroidery from reused cloth |
+| Sujini | Bihar | running-stitch narrative embroidery; official tourism page confirms Bihar route |
+| Phulkari | Punjab / Haryana / Delhi route in Nitin | flower-like darning patterns |
+| Chamba Rumal | Himachal Pradesh | embroidered handkerchief with Pahari-painting influence |
+| Kutch Shisha / Kasuti | Gujarat / Karnataka | mirror work or cross-stitch geometry |
 
-#### 4. Evidence, form and interpretation
+*Use the visual as the first sorting device before writing prose.*
 
-✅ The book's GI chapter is explicit that certification protects "goods"
-only (not services) and lapses without renewal every 10 years
-(*Nitin…pdf*, PDF p. 407) — this is direct textual evidence that GI
-status is a bounded, renewable legal instrument, not a permanent
-heritage designation or a livelihood guarantee. ⚠️ Applying the craft-
-ecology chain (Section 2) to the 2024 Q13 adjacent PYQ: a fully
-responsible advanced answer should state plainly that this topic's
-material (glassware, cloth handicrafts, metal crafts) supplies the
-*object* of the Industrial Revolution's alleged displacement effect, while
-the *causal economic argument itself* (mechanised English textiles/goods
-undercutting Indian handicraft producers, tariff and trade-policy effects,
-deindustrialisation debates among historians) is Modern History/Economy's
-analytical territory — an advanced answer from this file should
-explicitly flag this boundary rather than attempting the full economic-
-historical argument itself. ✅ Kangra Tea's EU GI registration
-(*Nitin…pdf*, PDF p. 408) is a rare, concrete example of an Indian GI
-achieving cross-border legal recognition — useful evidence for any
-question on GI's international dimension, distinct from purely domestic
-GI registration.
+#### Core explanation
 
-✅ Medieval evidence adds the missing production layer: Satish Chandra
-describes artisans, master-craftsmen, karkhanas, putting-out/dadni
-relations and export textiles. An advanced craft answer should therefore
-track who controls raw material, tools, credit and market access — not only
-the finished object's motif.
+Nitin makes it clear that embroidery is not weaving but the addition of stitched design using thread after cloth is available. That is why Chikankari, Kantha, Phulkari, Chamba Rumal, Kutch Shisha and Kasuti must be distinguished from Banarasi or Patola.
+The Bihar route matters because the 2018 textile-matching PYQ deliberately pairs Sujni with the wrong state. The official Incredible India page checked 6 Sep 2026 describes Sujini embroidery as a Bihar tradition using running-stitch work over layered fabric and linked to storytelling and social motifs.
+This session also shows how painted and embroidered cloth can overlap without becoming identical. Chamba Rumal is embroidered but visibly shaped by Pahari painting influence; Topic 12 therefore owns the textile craft logic while Topic 7 owns the painting-school aesthetic background.
 
-#### 5. Visual synthesis table
+#### How to write the paragraph (claim -> evidence -> analysis -> qualification)
+
+**Model paragraph:** Embroidery traditions should be written as post-weaving interventions on cloth rather than as vague decorative labels. Chikankari is Lucknow's white-thread embroidery, Kantha reworks cloth through running stitches, Sujini belongs to Bihar's narrative needlework field, Phulkari creates flower-like darning patterns, and Chamba Rumal carries Pahari painting influence within embroidery. This method matters because it separates stitched surface work from woven brocade or Ikat. The qualification is that stylistic influence may cross categories, but the production logic still decides the classification.
+
+#### Named evidence / examples
+
+- Nitin, pp. 383-386: embroidery overview, Chikankari, Phulkari, Chamba Rumal, Kasuti, Kutch mirror work.
+- Incredible India page checked 6 Sep 2026: Sujini Embroidery Work of Bihar.
+- IP India search record checked 6 Sep 2026: Sujini Embroidery Work of Bihar registered; geographical area Bihar.
+
+#### Prelims traps
+
+- Do not call Kantha a loom weave.
+- Do not place Sujini in Maharashtra.
+- Do not forget that Chamba Rumal belongs to textile craft even when painting influence is discussed.
+
+#### Mains use
+
+Use in questions asking for distinction among embroidery, weaving and painted cloth traditions.
+
+#### Mini recap
+
+- Embroidery works on cloth after weaving.
+- Sujini is Bihar, not Maharashtra.
+- Painting influence does not erase textile-craft classification.
+
+### SESSION - CORE - NORTH-EAST HANDLOOM: COMMUNITY, FIBRE AND GARMENT
+
+#### Answer-grabbing line - write/adapt in the exam
+
+> North-East textiles earn marks only when fibre, community and garment are written together.
+
+#### Must-write keywords
+
+- Muga
+- Eri
+- Moirang Phee
+- Phanek
+- Puan
+- natural dyes
+
+#### Visual first
+
+| Region | Community / marker | Fibre / product clue | Trap to kill |
+|---|---|---|---|
+| Assam | famous for golden Muga silk | sarees and mekhela chadors | do not confuse Muga with Eri |
+| Meghalaya | Garo, Khasi, Jaintia | Eri silk; shawls, sarongs, mekhela chadors using silk and cotton | do not assign Eri exclusively to Assam |
+| Manipur | rich handloom route | Moirang Phee and Phanek | named garments matter |
+| Nagaland | tribe-specific patterns and motifs | vibrant colours, natural dyes | not one uniform Naga cloth |
+| Arunachal Pradesh | Adi, Apatani, Nyishi, Monpa | jackets, skirts, shawls, dresses | name communities where possible |
+| Mizoram / Tripura | Puan / striped embroidered cloths | women-led weaving in Mizoram; stripe grammar in Tripura | do not flatten the whole region |
+
+*Use the visual as the first sorting device before writing prose.*
+
+#### Core explanation
+
+Nitin's North-East table is one of the most valuable corrected evidence banks in the topic because it supplies exact community-fibre-product matches. Meghalaya is the critical route: Garo, Khasi and Jaintia weavers are named, Eri silk is stated exactly, and the products include shawls, sarongs and mekhela chadors in silk and cotton.
+The discriminators matter because the 2026 routed prelims demand binds Eri silk to a certification term. The production half is answerable from the book; the certification half is not. Assam is the Muga route, Manipur gives Moirang Phee and Phanek, Nagaland emphasises tribe-specific motifs and natural dyes, and Mizoram's Puan adds a gendered division of labour.
+Analytically, this session is the clearest illustration of 'craft as community system'. The question is not only what cloth is produced, but who weaves it, with what fibre, in which social and ecological setting.
+
+#### How to write the paragraph (claim -> evidence -> analysis -> qualification)
+
+**Model paragraph:** North-East handloom traditions should be written through a three-part formula: named community, named fibre and named garment. Nitin's Meghalaya row is exemplary because it names the Garo, Khasi and Jaintia communities, identifies Eri silk and lists shawls, sarongs and mekhela chadors. Assam must then be separated through Muga, Manipur through Moirang Phee and Phanek, and Mizoram through Puan. The qualification is essential: the presence of a garment like mekhela chador does not by itself identify one state, and Eri silk should not be collapsed into Assam's better-known Muga route.
+
+#### Named evidence / examples
+
+- Nitin, pp. 390-391: North-East handloom evidence bank.
+- Basic owner section 13.5A: Eri silk production fact is covered, certification criteria are not.
+
+#### Prelims traps
+
+- Do not confuse Eri with Muga.
+- Do not infer a state from mekhela chador alone.
+- Do not answer North-East textile questions without named communities.
+
+#### Mains use
+
+Use when the question asks about tribal and regional textiles, or about community-based production.
+
+#### Mini recap
+
+- Community + fibre + garment is the safe formula.
+- Eri in Meghalaya is covered; Oeko-Tex criteria are not.
+- North-East textiles must not be flattened into one regional stereotype.
+
+### SESSION - CORE - NON-TEXTILE CRAFTS: GLASS, IVORY, METAL, CLAY, WOOD, LEATHER, TOYS AND FLOOR DESIGNS
+
+#### Answer-grabbing line - write/adapt in the exam
+
+> Topic 12 is not a textile-only folder; the material range itself is part of the syllabus.
+
+#### Must-write keywords
+
+- glassware
+- ivory
+- Dhokra
+- pottery
+- wood
+- floor designs
+
+#### Visual first
 
 ```text
-CRAFT ECOLOGY CHAIN
-material -> skill/technique -> producing community -> market access
-                                                            |
-                                                            v
-                                              GI TAG (narrow legal
-                                              recognition of product
-                                              name only)
-                                                            |
-                                                            v
-                                    DOES NOT AUTOMATICALLY SECURE:
-                                    skill transmission, fair pricing,
-                                    community livelihood
-                                                            |
-                                                            v
-                    [2024 Q13 boundary]: colonial-era
-                    deindustrialisation is a DIFFERENT, EARLIER
-                    disruption to this SAME chain — Modern
-                    History/Economy's analytical territory
+MATERIAL CLASSES IN NITIN
+glassware / cloth handicrafts / ivory / silver / clay and pottery
+/ bronze / other metal crafts / leather / wooden work / toys
+/ stoneware / floor designs
+
+SPECIAL HIGH-YIELD CASES
+glass = best antiquity chain
+Dhokra = lost-wax metal casting
+ivory = historical craft study + present wildlife-law caution
 ```
 
-#### 6. Direct-book source spine
+*Use the visual as the first sorting device before writing prose.*
 
-✅ *Nitin…pdf*, PDF pp. 378, 406-408 — the handicrafts chapter's opening
-framing (livelihood + cultural heritage) and the GI chapter's legal
-mechanics (validity period, goods-only scope, Darjeeling Tea's first-GI
-status, Kangra Tea's EU registration).
+#### Core explanation
 
-#### 7. 📰 Dated official anchor
+The book's own classification must be preserved because it gives the topic its breadth. Cloth handicrafts sit alongside glass, ivory, silver, clay and pottery, bronze, other metals, leather, wooden work, toys, stoneware and floor designs.
+Glass is the richest single chronology: Mahabharata reference, Painted Grey Ware evidence, Shatapatha Brahmana terminology, Brahmapuri-Kolhapur industry, Mughal glassware and modern centres like Firozabad and Hyderabad. Dhokra, by contrast, is a technique anchor - lost-wax non-ferrous metal casting across central and eastern India rather than a single-state monopoly.
+Ivory must be taught with a strict present-day caution. Historical evidence from Harappan exports, Sanchi's ivory guild and Mughal artefacts belongs to the syllabus, but contemporary wildlife regulation means one must not convert historical documentation into a policy recommendation for fresh ivory production.
 
-- 📰 The book reports **658 registered goods as of July 2025**. For a later
-  exact total, cite a dated GI Registry registered-status extract or an
-  identified DPIIT parliamentary reply; the Registry's all-applications
-  display is not itself a count of registered Indian GIs.
+#### How to write the paragraph (claim -> evidence -> analysis -> qualification)
 
-#### 8. Exact PYQ application
+**Model paragraph:** A complete answer on Indian crafts should not stop at cloth. Nitin's own material classification includes glass, ivory, metal, clay, wood, leather, toys and floor designs, and this wider field prevents the topic from shrinking into textile nostalgia. Glass offers a long chronology from epic and Vedic reference to archaeological industry and Mughal refinement, Dhokra illustrates process-based metalwork through lost-wax casting, and ivory demonstrates why historical craft study must now be qualified by wildlife-law caution. The qualification is crucial because present legality and historical importance are not the same question.
 
-⚠️ **2024 Q13 (adjacent-only):** this file's contribution is the explicit
-craft-ecology-chain boundary statement (Section 4) — naming which part of
-the deindustrialisation debate this topic supports (the object/material
-vocabulary) and which part it does not own (the causal economic
-argument), rather than attempting a full Modern History/Economy answer
-under this subject's label.
+#### Named evidence / examples
 
-⚠️ **2024 Q20 (adjacent-only):** similarly, this topic's craft-community
-livelihood material can illustrate, but not itself resolve, the broader
-diversity-marginality correlation question owned by Indian Society.
+- Nitin, pp. 378-379 and 391 onward: material classification, glass chronology, ivory craft notes.
+- Basic owner: Dhokra as lost-wax non-ferrous metal casting; not a single-state monopoly.
 
-#### 9. ❌ Attribution, chronology and numeric traps
+#### Prelims traps
 
-- ❌ Presenting a GI tag as equivalent to comprehensive craft-community
-  safeguarding. -> It protects only the product name's regional
-  exclusivity for a renewable term; it does not itself secure skill
-  transmission or livelihood.
-- ❌ Attempting to fully resolve the Industrial-Revolution-and-handicrafts-
-  decline debate (2024 Q13) as if it were this topic's primary content. ->
-  This file supports that debate's material vocabulary only; the causal
-  economic-historical argument belongs to Modern History/Economy.
-- ❌ Treating all GI registrations as domestically valid internationally.
-  -> Only specific, separately registered cases (e.g. Kangra Tea in the
-  EU) carry cross-border legal protection; a domestic Indian GI tag does
-  not automatically extend abroad.
-- ❌ Treating "tribal craft" as anonymous timeless community expression. ->
-  Name the producing community where the source supports it, recognise
-  individual makers/design change, and avoid freezing living people into
-  an ahistorical label.
-- ❌ Proposing ivory production as heritage revival. -> Historical
-  documentation and museum conservation are distinct from contemporary
-  wildlife-law compliance.
+- Do not reduce Topic 12 to sarees alone.
+- Do not present ivory revival as safeguarding.
+- Do not monopolise Dhokra within one state.
 
-#### 10. Mains answer frameworks
+#### Mains use
 
-**Central thesis:** GI protection should be argued as a narrow, bounded
-legal instrument within a much longer craft-ecology chain, and any
-adjacent question on colonial-era deindustrialisation should be answered
-by explicitly naming this topic's boundary with Modern History/Economy
-rather than overreaching into that subject's causal-argument territory.
+Use in broad descriptive answers and in questions testing material-wise classification.
 
-1. **Name the specific craft/material** before discussing any GI or
-   safeguarding mechanism.
-2. **State explicitly what a GI tag does and does not protect** (Section
-   4) wherever a question risks conflating legal recognition with
-   comprehensive safeguarding.
-3. **For 2024 Q13/Q20**, state the boundary explicitly: this topic
-   supplies material vocabulary; the causal/sociological argument belongs
-   to Modern History/Economy and Indian Society respectively.
-4. **Cite Darjeeling Tea (2004-05) and Kangra Tea (EU registration)** as
-   concrete, dated GI examples.
-5. **Close with a GI total only when a dated registered-status extract or
-   identified parliamentary reply supports it**; otherwise omit the count.
+#### Mini recap
 
-#### 11. Subject boundaries
+- The material range itself is examinable.
+- Glass is the best chronology case.
+- Historical craft evidence needs present-day legal qualification.
 
-- ❌ **Modern History/Economy owns** the Industrial Revolution-and-
-  deindustrialisation causal debate (2024 Q13) in full analytical depth.
-- ❌ **Indian Society owns** the diversity-marginality correlation (2024
-  Q20) in full analytical depth.
-- ✅ This file's craft-ecology-chain method is directly reusable for topic
-  07's folk/tribal painting-market questions and topic 14's institutional
-  ledger.
+### SESSION - SYNTHESIS - FOLK AND TRIBAL TRADITIONS AS COMMUNITY AND ECOLOGY
 
-#### 12. Companion links
+#### Answer-grabbing line - write/adapt in the exam
 
-- ✅ Foundation companion:
-  `basic/12_Crafts-Textiles-Folk-and-Tribal-Traditions.md`.
-- ✅ `00_Master-Framework.md` Section 5 — the current-claim verification
-  protocol, applied here to the GI total.
-- ⚠️ **Cross-links:** Topic 07 (folk/tribal painting-craft market overlap),
-  Topic 14 (GI within the institutional/heritage-category ledger).
+> Folk and tribal craft traditions should be written as living systems of community, ecology and transmission, not as anonymous survivals.
 
-#### 13. Verification ledger and open cautions
+#### Must-write keywords
 
-- ✅ Verified against *Nitin…pdf*, PDF pp. 378, 406-408 directly.
-- ⚠️ Open caution: the book's 658 figure is explicitly dated July 2025.
-  Any later total requires a dated registered-status extract or identified
-  DPIIT parliamentary reply; the all-applications display cannot substitute
-  for that evidence.
+- community
+- ecology
+- Toda
+- tribal women
+- motifs
+- transmission
+
+#### Visual first
+
+| Example | What it shows |
+|---|---|
+| Toda embroidered shawl / Puthukkuli route | community-specific textile identity and later GI visibility |
+| Nagaland motif diversity | tribe-specific identity, not one homogenised 'tribal cloth' |
+| Mizoram Puan | weaving plus gendered labour structure |
+| Dhokra communities | mobile, skill-based craft transmission over regionally dispersed groups |
+| Sujini and Kantha | textile making as storytelling and social memory |
+
+*Use the visual as the first sorting device before writing prose.*
+
+#### Core explanation
+
+This session is where craft, folk and tribal must be rejoined after earlier technical classification. The point is not to romanticise marginality but to show that skills are rooted in communities, ecological materials, apprenticeship and social use.
+Official checks support this approach. The Tamil Nadu tourism page notes Toda women wearing the traditional embroidered shawl and records that the embroidery has GI status, while IP India search records list Toda Embroidery as a registered geographical indication for Tamil Nadu. TRIFED's official description of itself as a 1987 apex body under the Ministry of Tribal Affairs further shows that tribal arts now operate inside market and institutional frameworks, not outside them.
+Thus the exam answer should move from community-specific examples to a general argument: living traditions change with tourism, e-commerce, cooperatives and design intervention, but that does not make them fake or wholly detached from community roots. The real issue is whether artisans retain agency, benefit and transmission.
+
+#### How to write the paragraph (claim -> evidence -> analysis -> qualification)
+
+**Model paragraph:** Folk and tribal craft traditions must be written through community and ecology rather than through civilisational ornament. Toda embroidered shawls, Naga pattern diversity, Mizoram's Puan and Dhokra's dispersed metal-casting communities all show that form emerges from a production community and social use-world. Official GI and tourism records may later increase visibility, but they do not erase the need to discuss labour, material and transmission. The qualification is that recognition and sale can change meaning, so continuity should be described as adaptation under new markets rather than as untouched survival.
+
+#### Named evidence / examples
+
+- IP India details page checked 6 Sep 2026: Toda Embroidery, geographical area Tamil Nadu, registered.
+- Tamil Nadu Tourism page checked 6 Sep 2026: Toda women wear the traditional embroidered shawl; the embroidery has GI status.
+- TRIFED official about page checked 6 Sep 2026: apex tribal marketing body under Ministry of Tribal Affairs since 1987.
+
+#### Prelims traps
+
+- Do not write 'tribal art is pure because it is outside markets'.
+- Do not reduce tribal textiles to one pan-Indian identity.
+- Do not let GI visibility replace discussion of community labour.
+
+#### Mains use
+
+Use when the answer asks about tribal traditions, craft livelihoods, continuity and appropriation.
+
+#### Mini recap
+
+- Community and ecology are analytical categories, not emotional decoration.
+- Recognition changes the market, not automatically the power relations.
+- Named communities are better than generic 'tribes'.
+
+### SESSION - SYNTHESIS - GI AS ORIGIN-LINKED INTELLECTUAL PROPERTY, NOT TOTAL SAFEGUARDING
+
+#### Answer-grabbing line - write/adapt in the exam
+
+> A GI protects a name; a living tradition survives only if many earlier links survive too.
+
+#### Must-write keywords
+
+- GI Act
+- Registry
+- authorised users
+- Darjeeling
+- Kangra
+- renewal
+
+#### Visual first
+
+| Element | Safe statement |
+|---|---|
+| Statute | Geographical Indications of Goods (Registration and Protection) Act, 1999 |
+| Enforcement start | in force from 15 Sep 2003 |
+| Institution | GI Registry at Chennai under the IP India / DPIIT framework |
+| Scope | goods, not services |
+| Term | valid 10 years, renewable every 10 years |
+| Classic cases | Darjeeling Tea first Indian GI (2004-05); Kangra Tea later protected in the EU; Nilambur Teak noted in Nitin |
+
+*Use the visual as the first sorting device before writing prose.*
+
+#### Core explanation
+
+The canonical owner and Nitin are explicit: a GI is origin-linked name protection for goods. It is not a UNESCO tag, not a quality certificate in the general sense, and not a guarantee of artisan welfare.
+The legal mechanics are exam-worthy because they are easy to state precisely: Act of 1999, in force from 15 September 2003, Registry at Chennai, goods not services, renewable ten-year term. The IP India background page checked 6 Sep 2026 independently confirms the Act and its 2003 commencement.
+Named cases then supply the analytical contrast. Darjeeling Tea is India's first GI-tagged product; Kangra Tea's EU protection shows that Indian GI recognition does not automatically travel abroad; Nilambur Teak reminds the learner that not every craft-related GI is cloth. The deeper insight is that GI enters the chain late - after production already exists.
+
+#### How to write the paragraph (claim -> evidence -> analysis -> qualification)
+
+**Model paragraph:** GI should be written as a bounded intellectual-property mechanism. It protects an origin-linked product name for authorised users under the 1999 Act, in force from 15 September 2003, and does so for goods through a renewable term. Darjeeling Tea and Kangra Tea show the legal route clearly, while the craft-ecology model shows its limits. The qualification is decisive: a GI can improve recognition and reduce name misuse, but it cannot by itself secure raw material, fair pricing, design control, working conditions or intergenerational skill transmission.
+
+#### Named evidence / examples
+
+- Nitin, pp. 406-408: definition, validity, goods-only scope, Darjeeling Tea, Kangra Tea, Nilambur Teak.
+- IP India registry background page checked 6 Sep 2026: Act passed in December 1999, in force from 15 Sep 2003.
+
+#### Prelims traps
+
+- Do not write GI beside UNESCO categories as if they belong to one family.
+- Do not say GI registration is permanent.
+- Do not say GI itself guarantees authenticity, wages or sustainability.
+
+#### Mains use
+
+Use for direct GI questions and for evaluative answers on safeguarding instruments.
+
+#### Mini recap
+
+- GI is necessary but narrow.
+- Darjeeling and Kangra are the key named cases.
+- The instrument protects a name, not the whole livelihood chain.
+
+### SESSION - SYNTHESIS - LIVELIHOODS, COOPERATIVES, DESIGN INTERVENTION AND PLATFORM CHANGE
+
+#### Answer-grabbing line - write/adapt in the exam
+
+> When markets change, crafts do not disappear automatically; they are redesigned, re-routed and sometimes captured by intermediaries.
+
+#### Must-write keywords
+
+- cooperative
+- award
+- TRIFED
+- platform
+- appropriation
+- authenticity
+
+#### Visual first
+
+```text
+MARKET CHANGE RAIL
+court / temple / local exchange
+-> merchant export
+-> colonial disruption and exhibition circuits
+-> cooperative and state-emporium support
+-> awards / branding / tourism
+-> e-commerce / platform retail / digital visibility
+```
+
+*Use the visual as the first sorting device before writing prose.*
+
+#### Core explanation
+
+Satish Chandra's karkhana and dadni evidence already proves that market mediation is not new. What changes in the modern period is the form of mediation: cooperatives, state emporia, GI branding, awards, ODOP-style visibility and platform retail.
+Official current checks sharpen this without overclaiming. The Uppada Jamdani GI application lists cooperative and weaver-association applicants, showing how collective organisation enters legal recognition. TRIFED's official role shows platform-enabled retail linkage for tribal producers. The Development Commissioner for Handlooms' official 2025 award-selection records, checked on 6 Sep 2026, show continued state recognition of handloom skill, though they are not used here to derive unverified craft facts.
+The evaluative point is that market access can improve visibility and demand but also create authenticity battles, design copying and uneven benefit-sharing. A GI protects a name, not every motif; therefore appropriation disputes may survive even when the protected name is legally controlled.
+
+#### How to write the paragraph (claim -> evidence -> analysis -> qualification)
+
+**Model paragraph:** Craft livelihoods must be analysed through institutions as well as objects. Cooperative societies in the Uppada Jamdani GI record, TRIFED's marketing role and continuing handloom-award structures all show that present-day continuity depends on organised market linkage. Yet this does not dissolve the older problem of power. Visibility, e-commerce and tourism may raise demand while leaving artisans dependent on intermediaries or exposed to motif copying outside the protected name. The qualification is that institutional recognition and real livelihood security overlap only partially.
+
+#### Named evidence / examples
+
+- IP India details page checked 6 Sep 2026: Uppada Jamdani registered in the names of cooperative and weaver-association bodies.
+- TRIFED official about page checked 6 Sep 2026: marketing development and tribal economic role.
+- Official handloom-awards records checked 6 Sep 2026: used only as continuity evidence for current institutional recognition of weaving skill.
+
+#### Prelims traps
+
+- Do not treat visibility as equal to fair benefit-sharing.
+- Do not say every traditional design copied outside the GI name is automatically legally blocked.
+- Do not use award documents as proof of unrelated GI or certification claims.
+
+#### Mains use
+
+Use in 15- and 20-mark answers on safeguarding, livelihood and policy.
+
+#### Mini recap
+
+- Platform change is real, but power questions remain.
+- Cooperatives and state institutions are part of the modern craft ecology.
+- Appropriation debates often begin where GI protection ends.
+
+### SESSION - ADVANCED - BOUNDED GAPS, DIRECT PYQ ROUTES AND FINAL EXAM DISCIPLINE
+
+#### Answer-grabbing line - write/adapt in the exam
+
+> The highest-value answer is not the one that guesses most, but the one that knows exactly which half of a question is covered and which half must be withheld.
+
+#### Must-write keywords
+
+- bounded gap
+- Eri silk
+- Oeko-Tex
+- withhold
+- PYQ route
+- boundary
+
+#### Visual first
+
+| Demand | What is covered | What is not to be invented |
+|---|---|---|
+| 2018 Q54 textile pairs | Puthukkuli/Toda-Tamil Nadu route; Sujini-Bihar; Uppada-Andhra Pradesh | no official local answer letter held |
+| 2026 Q29 Oeko-Tex + Eri silk | Eri in Meghalaya with Garo, Khasi, Jaintia weavers | certification criteria, scope or producer-status claims |
+| 2024 Q13 / Q20 adjacent mains | craft vocabulary and livelihood illustration | full deindustrialisation verdict or sociological correlation claim |
+
+*Use the visual as the first sorting device before writing prose.*
+
+#### Core explanation
+
+Answer-worthiness audit makes one correction especially important: the topic genuinely covers the Eri production fact but not the Oeko-Tex criteria. That is a textbook bounded gap, and the repair must preserve it honestly rather than camouflage it with guesswork.
+The 2018 textile-matching question is a second lesson in discipline. Exact wording is locally available, but the official key is not. Therefore the workbook may analyse the pairings through independently checked craft-state routes while still withholding the letter.
+Finally, adjacent 2024 mains questions on deindustrialisation and cultural diversity are useful only as boundary illustrations. Topic 12 supplies craft-form vocabulary and livelihood evidence; Modern History, Economy and Indian Society own the larger verdicts.
+
+#### How to write the paragraph (claim -> evidence -> analysis -> qualification)
+
+**Model paragraph:** A disciplined UPSC answer is evidence-calibrated. Topic 12 can write the Eri-silk production route precisely, but it must not invent Oeko-Tex criteria; it can analyse textile-state matching, but where no final official key is held it should withhold the answer letter; and it can illustrate adjacent questions on deindustrialisation or marginality without trespassing into other subjects' primary arguments. The qualification is therefore methodological: source control is itself part of answer quality.
+
+#### Named evidence / examples
+
+- Answer-worthiness audit, Topic 12 rows on Oeko-Tex partial status.
+- Local official paper wording: 2018 textile-pairs question and 2026 Oeko-Tex question.
+
+#### Prelims traps
+
+- Do not infer an official answer letter from a provisional key.
+- Do not fill a certification gap with market buzzwords like 'eco-friendly' unless the source supports them.
+- Do not let adjacent Mains questions pull the topic outside its ownership boundary.
+
+#### Mains use
+
+Use this as the concluding discipline paragraph in evaluation-heavy answers.
+
+#### Mini recap
+
+- Bounded gaps must stay bounded.
+- Withholding is better than invention.
+- Topic ownership is part of answer quality.
 
 ## CONSOLIDATED REGISTER NOTES
 
-### COMPLETE TOPIC ASCII MASTER FLOW DIAGRAM
-
-#### ASCII MASTER FLOW — PANEL 1/12: Craft ecology root
-
-```ascii-master
-RAW MATERIAL -> ecological access
-SKILL -> technique and apprenticeship
-COMMUNITY -> labour and transmission
-MARKET / LAW -> access, GI and safeguarding
-MUST REMEMBER: Craft survival depends on raw material, skill, community, market, legal
-  recognition and safeguarding, while textiles must pair technique and centre: Patola double
-  ikat, Pochampally resist dye, Banarasi brocade and Chikankari embroidery.
-```
-
-#### ASCII MASTER FLOW — PANEL 2/12: GI legal boundary
-
-```ascii-master
-GI -> origin-linked product name
-TERM -> ten years, renewable
-SCOPE -> goods, not services
-LIMIT -> no automatic livelihood guarantee
-```
-
-#### ASCII MASTER FLOW — PANEL 3/12: Cross-border protection
-
-```ascii-master
-DARJEELING TEA -> first Indian GI
-INDIAN GI -> domestic protection
-KANGRA TEA -> separate EU protection
-RULE -> rights do not travel automatically
-```
-
-#### ASCII MASTER FLOW — PANEL 4/12: Ikat matrix
-
-```ascii-master
-PATOLA -> Patan, double ikat
-POCHAMPALLY -> Telangana, single or double ikat
-COMMON -> resist-dyed yarn
-TRAP -> centre plus process must match
-```
-
-#### ASCII MASTER FLOW — PANEL 5/12: Textile process ladder
-
-```ascii-master
-KANCHIPURAM -> joined silk border
-BANARASI -> supplementary-weft brocade
-CHIKANKARI -> white embroidery
-KANTHA -> running stitch and reused cloth
-```
-
-#### ASCII MASTER FLOW — PANEL 6/12: Surface and metal process
-
-```ascii-master
-KALAMKARI -> mordant or resist cotton surface
-DHOKRA -> lost-wax metal casting
-PROCESS -> determines tools and labour
-RULE -> shared craft label proves nothing
-CLOSE DISTINCTION: A Geographical Indication protects an origin-linked goods name for
-  authorised users under the 1999 Act, operational since 2003 with renewable ten-year
-  registration; it is neither UNESCO status nor a quality certificate.
-```
-
-#### ASCII MASTER FLOW — PANEL 7/12: Glass evidence chain
-
-```ascii-master
-TEXT -> Mahabharata and Shatapatha Brahmana
-PGW -> archaeological glass evidence
-BRAHMAPURI / KOLHAPUR -> bead industry
-LIMIT -> evidence classes must remain separate
-```
-
-#### ASCII MASTER FLOW — PANEL 8/12: North-East method
-
-```ascii-master
-COMMUNITY -> identify the weavers
-FIBRE -> Eri, Muga, silk or cotton
-PROCESS -> ginning, spinning and weaving
-PRODUCT -> garment and motif
-```
-
-#### ASCII MASTER FLOW — PANEL 9/12: Eri-Muga firewall
-
-```ascii-master
-MEGHALAYA -> Eri, Garo-Khasi-Jaintia
-ASSAM -> golden Muga
-MEKHELA CHADOR -> shared garment
-TRAP -> garment alone cannot identify state
-```
-
-#### ASCII MASTER FLOW — PANEL 10/12: Regional handloom map
-
-```ascii-master
-MANIPUR -> Moirang Phee and Phanek
-NAGALAND -> tribe-specific motifs and natural dyes
-ARUNACHAL -> Adi, Apatani, Nyishi and Monpa
-MIZORAM / TRIPURA -> Puan, stripes and embroidery
-```
-
-#### ASCII MASTER FLOW — PANEL 11/12: Certification gap test
-
-```ascii-master
-PRODUCTION FACT VERIFIED? -> write Eri evidence
-CERTIFICATION CRITERIA VERIFIED? -> no
-GI COMPARISON -> legal instrument only
-VERDICT -> disclose the bounded gap
-```
-
-#### ASCII MASTER FLOW — PANEL 12/12: Craft answer spine
-
-```ascii-master
-DEFINE -> material, skill and community
-IDENTIFY -> region, process and product
-ANALYSE -> market, law, ecology and labour
-QUALIFY -> status, ownership and source limits
-EVIDENCE LIMIT: GI does not guarantee fair price, ecology, labour conditions or transmission,
-  Indian protection does not automatically extend abroad, and folk or tribal production must
-  retain community, gender and appropriation limits.
-```
+1. Handicraft in Nitin is both livelihood and cultural heritage, especially for rural and tribal communities.
+2. Topic 12 must begin by separating handicraft, handloom and GI.
+3. The book's material classes include glassware, cloth handicrafts, ivory carving, silver crafts, clay and pottery, bronze crafts, other metal crafts, leather products, wooden work, toys, stoneware and floor designs.
+4. Process grammar is the safest prelims tool: weave != resist dye != print / paint != embroidery / applique.
+5. Bandhani and Laharia belong to tie-and-dye; Ikat belongs to resist-dyed yarn.
+6. Kalamkari is a painted or printed cotton textile route and should be kept distinct from Topic 7 painting-school history.
+7. Batik uses wax-resist colouring; Ajrakh is a printing route.
+8. Patola = Patan + double Ikat; Pochampally = Telangana + Ikat family; Kanchipuram = contrasting border joined to body; Banarasi = supplementary-weft zari brocade.
+9. Jamdani is woven patterning; it should not be confused with embroidery.
+10. Chikankari is Lucknow embroidery; Kantha is Bengal running-stitch quilting / embroidery; Sujini is Bihar's embroidery route; Phulkari belongs to the Punjab-Haryana belt.
+11. Chamba Rumal remains textile craft even when its Pahari-painting influence is discussed.
+12. North-East answer formula = community + fibre + garment.
+13. Assam = Muga; Meghalaya = Eri with Garo, Khasi and Jaintia weavers; do not confuse the two.
+14. Shared garments such as mekhela chador do not by themselves prove a single state.
+15. Glass is the richest non-textile chronology in the folder: Mahabharata -> PGW -> Shatapatha Brahmana -> Brahmapuri / Kolhapur -> Mughal glassware.
+16. Ivory belongs to historical craft study, but present answers must acknowledge wildlife-law restrictions.
+17. Dhokra is lost-wax non-ferrous metal casting and must not be monopolised to one state.
+18. TRIFED, cooperatives, GI and awards show that current craft continuity works through institutions as well as inherited skill.
+19. GI under the 1999 Act, in force from 15 Sep 2003, protects an origin-linked name for goods and lasts ten years subject to renewal.
+20. Darjeeling Tea is the first Indian GI-tagged product; Kangra Tea's EU protection shows that foreign recognition needs a separate legal step.
+21. Dated numbers are not timeless truths: 658 goods (July 2025) and Uttar Pradesh with 77 products (April 2025) remain date-bound source claims.
+22. The 2026 Oeko-Tex route is a bounded gap: Eri production is covered, certification criteria are not.
+23. Best final answer formula = region + technique + product + community or market context + explicit qualification.

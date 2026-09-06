@@ -519,6 +519,52 @@ identifying, or use *which* with commas if extra information [REL]; 6 *pieces
 of furniture* [CNT]. Time: **6 minutes**. Record every missed code in the
 error log in `basic/05`.
 
+---
+
+## Semantic-completeness closure — 2026-09-06
+
+### Literal syllabus, ownership and boundary
+
+- **Syllabus demand:** Usage and Vocabulary; prerequisite control of word classes, noun number/countability, pronouns, modifiers and verb form.
+- **Canonical ownership:** Owns functional word-class recognition, nouns, pronouns, adjective/adverb distinction, determiners as a class, verb forms and transitivity.
+- **Cross-topic boundary:** Full agreement, tense, articles, prepositions and conjunction systems belong to Topic 02; correction procedure and transformations belong to Topic 05.
+
+### Complete learner and answer route
+
+1. **Sentence skeleton:** Find the finite verb, subject, object or complement before naming word classes.
+2. **Functional word classes:** Classify noun, pronoun, verb, adjective, adverb, determiner, preposition and conjunction by use in context.
+3. **Countability:** Distinguish count, mass and count-shift meanings; use measure expressions where needed.
+4. **Number and agreement cues:** Handle irregular, zero, plural-only and apparently plural singular nouns.
+5. **Pronoun case:** Choose subject, object, possessive and reflexive forms by grammatical role.
+6. **Pronoun reference:** Give every pronoun one clear antecedent and repair ambiguity by recasting.
+7. **Relative clauses:** Distinguish restrictive from non-restrictive meaning before choosing relative and punctuation.
+8. **Singular they:** Accept clear modern singular they while preserving verb and noun-number logic.
+9. **Adjectives and adverbs:** Place modifiers beside their targets and distinguish form from function.
+10. **Comparison:** Use valid comparative forms and compare like with like.
+11. **Verb form and transitivity:** Choose principal parts and test object-taking capacity.
+12. **Editing and timing:** Make the smallest valid correction, flag legitimate variation and verify meaning.
+
+### Authority, variation and hostile-query gate
+
+Classify a word by its sentence function, preserve count meaning, identify the pronoun antecedent, distinguish accepted singular they, and test whether a verb has an object before passivising.
+
+The review checked the local official UPSC compulsory-English papers listed in `README.md`,
+the repository's verbatim syllabus, the subject-wide solved package, and standard public usage
+references recorded in the learner successor. It explicitly stress-tested:
+**finite verb; countability; collective noun; pronoun case; antecedent; restrictive; singular they; transitivity**.
+
+Prefer plain contemporary formal English. Where more than one standard form is legitimate,
+state the variation and select a conservative examination form only as a risk-control choice;
+do not falsely label the alternative ungrammatical.
+
+### Progressive practice and timed-paper transfer
+
+1. Foundation: identify the demand and state the governing rule in plain language.
+2. Controlled application: correct or construct one sentence and explain the change.
+3. Passage/paragraph transfer: preserve meaning, reference, register and logical relation.
+4. Hostile test: reject a close option that is grammatical in another meaning or variety.
+5. Timed execution: answer, verify, classify the error, and retry a fresh item.
+
 ## PART 07 — Sentence Grammar — Core
 
 ## 1. Complete sentences and agreement
@@ -718,6 +764,52 @@ In **10 minutes**, correct and label:
 [VAR]; 8 remove *but* [CONJ]; 9 *Having read the report, I found the errors
 obvious* [MOD]; 10 *turned it down* [PHR].
 
+---
+
+## Semantic-completeness closure — 2026-09-06
+
+### Literal syllabus, ownership and boundary
+
+- **Syllabus demand:** Usage and Vocabulary; sentence completeness, agreement, tense/aspect, articles/determiners, prepositions, conjunctions, parallelism and modifiers.
+- **Canonical ownership:** Owns clause completeness, subject-verb agreement, tense/aspect/conditionals, article systems, determiner quantity, verb-preposition patterns, phrasal verbs, conjunctions, parallelism and modifier placement.
+- **Cross-topic boundary:** Word-class foundations belong to Topic 01; punctuation choices to Topic 03; correction workflow, voice, narration and transformation to Topic 05.
+
+### Complete learner and answer route
+
+1. **Clause completeness:** Distinguish complete clauses, fragments, comma splices and subordinated units.
+2. **Agreement controller:** Locate the grammatical subject, ignoring interrupting phrases.
+3. **Special agreement:** Handle each/every, number expressions, fractions, there constructions and coordinated subjects.
+4. **Tense timeline:** Place events on a timeline before choosing tense and aspect.
+5. **Conditionals:** Preserve real/unreal time, polarity and result.
+6. **Articles:** Choose a/an by sound, the by identifiability and zero article for general plural/mass reference.
+7. **Determiners:** Control few/a few, little/a little, fewer/less, each/every and other/another.
+8. **Preposition patterns:** Learn verb/adjective/noun plus preposition as complete constructions.
+9. **Phrasal verbs:** Preserve idiomatic meaning and separability.
+10. **Conjunction logic:** Match clause type and avoid double conjunctions.
+11. **Parallelism and comparison:** Coordinate grammatically equivalent units and compare like with like.
+12. **Modifier placement:** Attach opening and internal modifiers to their intended heads.
+
+### Authority, variation and hostile-query gate
+
+Every correction must preserve the intended time relation, polarity and meaning. Where usage varies, label the conservative examination form without calling a standard alternative ungrammatical.
+
+The review checked the local official UPSC compulsory-English papers listed in `README.md`,
+the repository's verbatim syllabus, the subject-wide solved package, and standard public usage
+references recorded in the learner successor. It explicitly stress-tested:
+**fragment; subject-verb agreement; aspect; conditionals; article; determiner; phrasal verb; dangling**.
+
+Prefer plain contemporary formal English. Where more than one standard form is legitimate,
+state the variation and select a conservative examination form only as a risk-control choice;
+do not falsely label the alternative ungrammatical.
+
+### Progressive practice and timed-paper transfer
+
+1. Foundation: identify the demand and state the governing rule in plain language.
+2. Controlled application: correct or construct one sentence and explain the change.
+3. Passage/paragraph transfer: preserve meaning, reference, register and logical relation.
+4. Hostile test: reject a close option that is grammatical in another meaning or variety.
+5. Timed execution: answer, verify, classify the error, and retry a fresh item.
+
 ## PART 08 — Punctuation and Capitalisation — Core
 
 Punctuation clarifies structure. In a correction question, preserve the
@@ -839,6 +931,52 @@ also accepted [PUNC]; 3 *The reports that were incomplete were returned.*
 [REL]; 4 *My only brother, who lives in Pune, is a doctor.* [REL/CAP]; 5 *The
 inquiry had one conclusion: postpone the launch.* [COL]; 6 *It's important to
 check every candidate's identity card.* [APOS].
+
+---
+
+## Semantic-completeness closure — 2026-09-06
+
+### Literal syllabus, ownership and boundary
+
+- **Syllabus demand:** Usage and Vocabulary; structural punctuation and conventional capitalisation needed for clear, correct expression.
+- **Canonical ownership:** Owns commas, semicolons, colons, dashes, apostrophes, quotation marks, terminal marks, hyphens, brackets, ellipses and capitalisation.
+- **Cross-topic boundary:** Relative-clause meaning and sentence grammar are introduced in Topics 01-02; Topic 03 owns the marks that encode those relations. Broader correction procedure belongs to Topic 05.
+
+### Complete learner and answer route
+
+1. **Clause map:** Mark independent, dependent, restrictive and supplementary units before punctuating.
+2. **Introductory commas:** Separate a substantial opening phrase or clause from the main clause.
+3. **Coordinated clauses:** Use comma plus coordinator, semicolon or full stop rather than a comma splice.
+4. **Relative information:** Use commas only for removable non-restrictive material.
+5. **Lists and contrasts:** Use consistent list punctuation and commas that prevent misreading.
+6. **Semicolon:** Join closely related independent clauses or separate complex list items.
+7. **Colon:** Introduce an explanation, list or restatement after a complete announcing clause.
+8. **Dash and brackets:** Use sparingly for interruption, emphasis or parenthetical clarification.
+9. **Apostrophe:** Distinguish possession, contraction and ordinary plural.
+10. **Quotation and terminal marks:** Preserve direct speech and question/statement status.
+11. **Hyphen and ellipsis:** Hyphenate useful compound modifiers; use ellipsis only for omission.
+12. **Capitalisation audit:** Capitalise proper names and formal titles, not generic importance.
+
+### Authority, variation and hostile-query gate
+
+Judge punctuation from syntax and intended meaning. Accept legitimate British/US or serial-comma variants when consistent; reject only changes that create ambiguity, a splice or a false possession.
+
+The review checked the local official UPSC compulsory-English papers listed in `README.md`,
+the repository's verbatim syllabus, the subject-wide solved package, and standard public usage
+references recorded in the learner successor. It explicitly stress-tested:
+**comma splice; restrictive; semicolon; colon; apostrophe; quotation; hyphen; capitalisation**.
+
+Prefer plain contemporary formal English. Where more than one standard form is legitimate,
+state the variation and select a conservative examination form only as a risk-control choice;
+do not falsely label the alternative ungrammatical.
+
+### Progressive practice and timed-paper transfer
+
+1. Foundation: identify the demand and state the governing rule in plain language.
+2. Controlled application: correct or construct one sentence and explain the change.
+3. Passage/paragraph transfer: preserve meaning, reference, register and logical relation.
+4. Hostile test: reject a close option that is grammatical in another meaning or variety.
+5. Timed execution: answer, verify, classify the error, and retry a fresh item.
 
 ## PART 09 — Vocabulary, Spelling, Word Formation, Idioms and Proverbs — Core
 
@@ -1009,6 +1147,52 @@ In **8 minutes**, supply the requested form or choice:
 *affect* [CONF]; 5 *The accommodation was definitely insufficient.* [SPL];
 6 *abundant* (also *plentiful* in suitable context) [SYN]; 7 must mean
 improperly reducing standards to save resources [IDIOM].
+
+---
+
+## Semantic-completeness closure — 2026-09-06
+
+### Literal syllabus, ownership and boundary
+
+- **Syllabus demand:** Usage and Vocabulary; precise meaning, collocation, spelling, derivation, synonyms, antonyms, idioms and proverbs in context.
+- **Canonical ownership:** Owns lexical meaning, register, collocation, confusables, spelling, word formation, contextual synonym/antonym choice, idiom meaning and natural proverb use.
+- **Cross-topic boundary:** Topic 01 owns grammatical class foundations; Topic 02 owns sentence constructions; Topic 05 owns mixed correction and transformation.
+
+### Complete learner and answer route
+
+1. **Lexical entry:** Learn headword, class, plain meaning, collocation, contrast and original sentence.
+2. **Meaning in context:** Choose the sense licensed by the sentence, not the first dictionary gloss.
+3. **Register:** Prefer plain contemporary formal English over ornamental or colloquial substitution.
+4. **Collocation:** Learn words with their normal partners.
+5. **Confusables:** Separate similar spelling or sound by meaning and grammar.
+6. **Spelling patterns:** Use families and suffix rules while remembering genuine exceptions.
+7. **British and American variants:** Accept consistent standard variants unless the paper specifies a house style.
+8. **Word formation:** Use the grammatical slot to choose noun, verb, adjective or adverb.
+9. **Synonyms:** Match denotation, intensity and register rather than treating near-synonyms as identical.
+10. **Antonyms:** Keep the grammatical class and contextual dimension.
+11. **Idioms and proverbs:** State conventional meaning and use the expression naturally.
+12. **Retrieval and editing:** Use spaced recall, sentence production and a confusable log under time.
+
+### Authority, variation and hostile-query gate
+
+A vocabulary answer must fit part of speech, local context, collocation and register. Multiple defensible synonyms or spelling variants are accepted where the stem does not narrow them.
+
+The review checked the local official UPSC compulsory-English papers listed in `README.md`,
+the repository's verbatim syllabus, the subject-wide solved package, and standard public usage
+references recorded in the learner successor. It explicitly stress-tested:
+**collocation; register; confusable; word formation; synonym; antonym; idiom; proverb**.
+
+Prefer plain contemporary formal English. Where more than one standard form is legitimate,
+state the variation and select a conservative examination form only as a risk-control choice;
+do not falsely label the alternative ungrammatical.
+
+### Progressive practice and timed-paper transfer
+
+1. Foundation: identify the demand and state the governing rule in plain language.
+2. Controlled application: correct or construct one sentence and explain the change.
+3. Passage/paragraph transfer: preserve meaning, reference, register and logical relation.
+4. Hostile test: reject a close option that is grammatical in another meaning or variety.
+5. Timed execution: answer, verify, classify the error, and retry a fresh item.
 
 ## PART 10 — Error Correction, Voice, Narration and Transformation — Core
 
@@ -1193,6 +1377,52 @@ wait one day, then complete a fresh mixed set from the Foundation test. Do not
 move to full-paper practice until two consecutive timed attempts meet this
 gate.
 
+---
+
+## Semantic-completeness closure — 2026-09-06
+
+### Literal syllabus, ownership and boundary
+
+- **Syllabus demand:** Usage and Vocabulary; integrated correction, active/passive voice, narration, meaning-preserving transformation and question tags.
+- **Canonical ownership:** Owns the ordered editing scan, error diagnosis, smallest valid correction, voice, direct/indirect speech, conditional and degree transformations, correlative structures and tags.
+- **Cross-topic boundary:** Topics 01-04 own the underlying rules; Topic 05 integrates them in correction and transformation without duplicating full foundational teaching.
+
+### Complete learner and answer route
+
+1. **Meaning first:** Establish the intended proposition before editing form.
+2. **Finite-verb scan:** Check completeness, agreement and tense before minor wording.
+3. **Noun and pronoun scan:** Check countability, determiners, case, reference and number.
+4. **Pattern scan:** Check prepositions, phrasal verbs, word form, modifiers and parallelism.
+5. **Minimal repair:** Change only the defective element and preserve acceptable wording.
+6. **Voice eligibility:** Confirm a suitable object before forming a passive.
+7. **Voice mechanics:** Preserve tense, aspect, modal and necessary agent.
+8. **Narration purpose:** Choose said, told, asked, requested, advised or ordered by function.
+9. **Backshift and deixis:** Change tense, pronouns, time and place only when context requires.
+10. **Transformation conditions:** Apply no sooner, unless, too-to, despite and degree patterns only when meaning survives.
+11. **Focus and tags:** Preserve only-scope and derive tags from polarity and auxiliary.
+12. **Timed error log:** Code the miss, state the rule, rewrite and retry a fresh item.
+
+### Authority, variation and hostile-query gate
+
+A transformation passes only if tense, polarity, agent, focus, scope and proposition remain equivalent. Accepted variants receive credit and conservative preferences are labelled as preferences.
+
+The review checked the local official UPSC compulsory-English papers listed in `README.md`,
+the repository's verbatim syllabus, the subject-wide solved package, and standard public usage
+references recorded in the learner successor. It explicitly stress-tested:
+**smallest valid correction; active; passive voice; reported speech; backshift; transformation; scope; question tag**.
+
+Prefer plain contemporary formal English. Where more than one standard form is legitimate,
+state the variation and select a conservative examination form only as a risk-control choice;
+do not falsely label the alternative ungrammatical.
+
+### Progressive practice and timed-paper transfer
+
+1. Foundation: identify the demand and state the governing rule in plain language.
+2. Controlled application: correct or construct one sentence and explain the change.
+3. Passage/paragraph transfer: preserve meaning, reference, register and logical relation.
+4. Hostile test: reject a close option that is grammatical in another meaning or variety.
+5. Timed execution: answer, verify, classify the error, and retry a fresh item.
+
 ## PART 11 — Comprehension and Précis — MUST-DO
 
 ## 1. Comprehension: read the demand before answering
@@ -1355,6 +1585,52 @@ Online meetings reduce travel and widen access, so they are often treated as sub
 | Coherence | Does it read as connected prose rather than notes? |
 | Correctness | Are grammar, punctuation and title instructions accurate? |
 
+---
+
+## Semantic-completeness closure — 2026-09-06
+
+### Literal syllabus, ownership and boundary
+
+- **Syllabus demand:** Comprehension of given passages and Precis Writing.
+- **Canonical ownership:** Owns passage-only comprehension, literal/inferential/tone/purpose/reference/context-vocabulary answers, multipart allocation, précis idea mapping, compression, paraphrase, fidelity, coherence and instruction compliance.
+- **Cross-topic boundary:** Vocabulary form belongs to Topic 04 and sentence correction to Topic 05; Topic 06 applies those skills to supplied prose and does not import outside facts.
+
+### Complete learner and answer route
+
+1. **Read the command:** Identify literal, inference, tone, purpose, reference, context meaning or multipart demand.
+2. **Map the passage:** Mark thesis, reasons, examples, contrasts, qualifications and conclusion.
+3. **Locate support:** Tie each answer to explicit words or a minimally extended inference.
+4. **Control scope:** Reject outside knowledge, overstatement, reversal and half-true options.
+5. **Answer multipart questions:** List every limb and allocate space before drafting.
+6. **Calibrate tone and purpose:** Name stance and function, then support both.
+7. **Précis ratio:** Calculate the instructed target and recount after revision.
+8. **Idea-unit selection:** Keep thesis, major reasons, concessions and verdict; remove illustration and repetition.
+9. **Paraphrase:** Change structure and wording without changing technical meaning.
+10. **Coherence and indirect style:** Connect idea units as independent prose and convert quoted claims where needed.
+11. **Title instruction:** Obey give-title, no-title or no-suggest-title wording literally.
+12. **Final fidelity audit:** Check coverage, compression, independence, coherence, correctness and zero added opinion.
+
+### Authority, variation and hostile-query gate
+
+Every comprehension answer must cite or paraphrase passage support. Every précis must preserve thesis, main reasons, concession and conclusion, add no opinion, obey title instructions and record source-target-final counts.
+
+The review checked the local official UPSC compulsory-English papers listed in `README.md`,
+the repository's verbatim syllabus, the subject-wide solved package, and standard public usage
+references recorded in the learner successor. It explicitly stress-tested:
+**literal; inference; tone; purpose; reference; idea unit; one-third; fidelity**.
+
+Prefer plain contemporary formal English. Where more than one standard form is legitimate,
+state the variation and select a conservative examination form only as a risk-control choice;
+do not falsely label the alternative ungrammatical.
+
+### Progressive practice and timed-paper transfer
+
+1. Foundation: identify the demand and state the governing rule in plain language.
+2. Controlled application: correct or construct one sentence and explain the change.
+3. Passage/paragraph transfer: preserve meaning, reference, register and logical relation.
+4. Hostile test: reject a close option that is grammatical in another meaning or variety.
+5. Timed execution: answer, verify, classify the error, and retry a fresh item.
+
 ## PART 12 — Short Essay Writing — MUST-DO
 
 ## 1. Choose the question you can qualify and develop
@@ -1496,3 +1772,49 @@ Technology is therefore neither an automatic equaliser nor an inevitable source 
 **Practice count:** 593 words (title excluded).  
 **Annotation:** The thesis qualifies both sides; paragraphs 2–5 move from benefit to mechanism of exclusion to response; paragraph 6 limits technological claims.  
 **Coaching score:** 87/100 — relevance/thesis 18, organisation 18, development/balance 22, grammar/vocabulary 22, conclusion/count discipline 7.
+
+---
+
+## Semantic-completeness closure — 2026-09-06
+
+### Literal syllabus, ownership and boundary
+
+- **Syllabus demand:** Short Essays; clear, correct, concise and orderly expression on a selected general topic.
+- **Canonical ownership:** Owns prompt choice, term decoding, qualified thesis, six-minute planning, continuous argument, paragraph logic, examples, counterargument, conclusion, about-600-word control and revision.
+- **Cross-topic boundary:** Topic 06 owns passage-based response and précis; Topics 01-05 own sentence-level language rules applied during drafting and revision.
+
+### Complete learner and answer route
+
+1. **Choose:** Select the prompt whose terms, tension, thesis and examples can be controlled.
+2. **Decode:** Define key terms in context and locate the hidden contrast or relationship.
+3. **Thesis:** State a qualified arguable position by the end of the introduction.
+4. **Plan:** Build distinct reason, mechanism, consequence, limitation and response moves.
+5. **Introduction:** Enter the issue directly; avoid dictionary openings and decorative quotations.
+6. **Paragraph architecture:** Use claim, explanation, safe example and explicit link to thesis.
+7. **Coherence:** Order paragraphs so each advances rather than repeats the argument.
+8. **Counterargument:** Present a genuine objection or limit and answer or accommodate it.
+9. **Evidence discipline:** Use defensible illustrations and never invent statistics or quotations.
+10. **Style:** Prefer plain formal English, controlled sentence length and precise connectors.
+11. **Word and time control:** Target about 600 words and reserve a final revision window.
+12. **Revision and verdict:** Check thesis, paragraph jobs, grammar, unsupported claims, count and conclusion.
+
+### Authority, variation and hostile-query gate
+
+A model must answer the exact prompt, sustain one qualified thesis, develop distinct paragraphs, use safe examples, engage a real limitation and conclude from the argument without invented facts or quotations.
+
+The review checked the local official UPSC compulsory-English papers listed in `README.md`,
+the repository's verbatim syllabus, the subject-wide solved package, and standard public usage
+references recorded in the learner successor. It explicitly stress-tested:
+**decode; qualified thesis; paragraph; counterargument; evidence; coherence; 600 words; revision**.
+
+Prefer plain contemporary formal English. Where more than one standard form is legitimate,
+state the variation and select a conservative examination form only as a risk-control choice;
+do not falsely label the alternative ungrammatical.
+
+### Progressive practice and timed-paper transfer
+
+1. Foundation: identify the demand and state the governing rule in plain language.
+2. Controlled application: correct or construct one sentence and explain the change.
+3. Passage/paragraph transfer: preserve meaning, reference, register and logical relation.
+4. Hostile test: reject a close option that is grammatical in another meaning or variety.
+5. Timed execution: answer, verify, classify the error, and retry a fresh item.

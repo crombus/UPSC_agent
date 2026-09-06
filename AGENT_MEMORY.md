@@ -271,6 +271,19 @@ format.
   new export. This is approval of the workflow and format only. Topic output approval remains
   isolated to an exact `topic_key + variant + generation`; do not mark an existing pilot or future
   topic `approved: true` unless the user explicitly approves that specific topic generation.
+- **Existing-export review and repair workflow (saved 6 September 2026):** when the user asks to
+  review subjects or topics sequentially, process exactly one topic at a time in catalogue order.
+  Review the complete learner-facing session for factual integrity, syllabus/PYQ completeness,
+  genuine teaching quality, non-repetitive practice, full model answers and visual usefulness;
+  then repair the existing learning-session Markdown and existing export artifacts **in place**.
+  Do not create a new generation directory, generation suffix (`g13`, `g14`, etc.) or parallel
+  replacement package. Preserve existing paths and overwrite only the topic artifacts being
+  repaired. Stop after validation of that topic and provide the exact copy-ready command for the
+  next topic. If an expected existing artifact is absent, report the missing artifact and stop
+  rather than creating a new generation implicitly. The same topic pass must also review and
+  repair its existing continuous at-a-glance graphical package and ASCII master in place,
+  including source coverage, stage order, factual agreement with the learning session, visual
+  legibility, overflow, poster/tiled identity, previews and validation artifacts.
 - **Learner-v2 internal PDF indexes (saved 20 August 2026):** every learner-v2 notes PDF and every
   learner-v2 workbook PDF has its own internal contents/index directly after the cover/title/front
   matter and before teaching or questions. Generate it automatically from the final heading

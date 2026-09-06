@@ -573,6 +573,52 @@ Which one of the following sentences is methodologically acceptable in an ancien
 
 ⚠️ **Correction rule 12 — the ❓ is a mark-earner.** Writing "this remains contested and the evidence is not available to settle it" demonstrates judgement. Inventing a resolution demonstrates the opposite.
 
+### IV.7 Keyword and paragraph-building drills
+
+⚠️ **Purpose:** Topic 01 is lost when the learner knows facts but cannot deploy the right vocabulary or build a method-safe paragraph. These drills repair that last-mile exam failure.
+
+#### Drill R-7 — turn the keyword into an exam sentence
+
+| Keyword | Minimum safe use in an answer |
+|---|---|
+| **historiography** | The writing of ancient Indian history changed because historians asked different questions in different political and intellectual contexts. |
+| **provisional** | A reconstruction is provisional because it is revisable in the light of new evidence, not because all interpretations are equally good. |
+| **co-relate** | The claim becomes stronger when inscriptions, archaeology and literary evidence are co-related rather than ranked mechanically. |
+| **patterned silence** | The absence matters only if it is patterned, preservable and searched for adequately. |
+| **janapada** | Use the source's own term first; only then gloss it as a territorial polity. |
+| **territorial term** | *Hindu* first appears in Iranian inscriptions as a territorial term, not as the name of a religion or community. |
+| **text-centric** | Archaeology was used, but the narrative could remain text-centric if material evidence merely illustrated a pre-fixed textual frame. |
+| **interdisciplinary** | Interdisciplinary history widens the questions that can be asked, but each method still has a bounded evidentiary reach. |
+| **presentism** | Presentism imports modern political identities into the ancient past and flattens historical difference. |
+| **disciplined uncertainty** | A high-scoring answer states what the evidence supports, what it only suggests and what remains unverified. |
+
+#### Drill R-8 — build the paragraph from the evidence bank
+
+For each prompt below, write **4–5 sentences** in the sequence **Claim -> Evidence -> Analysis -> Qualification/Link**.
+
+1. **Prompt:** Why is the study of ancient India more than a study of dynasties?
+   - **Evidence bank:** Sharma's sequence from earliest cultures to large kingdoms; varna/caste as a long-lived institution; study of the past ≠ restoration of the past.
+2. **Prompt:** Why is ancient Indian history a reconstruction rather than a memory?
+   - **Evidence bank:** Greek *historia*; surviving trace -> evidence -> historical claim; provisional but not arbitrary.
+3. **Prompt:** Why is Mill's Hindu-Muslim-British periodisation unsafe?
+   - **Evidence bank:** criterion shifts; 'British' not 'Christian'; ruler's religion cannot name total social life; *Hindu* as an early territorial term.
+4. **Prompt:** What did the materialist turn change in the writing of ancient India?
+   - **Evidence bank:** Basham 1951; Kosambi 1957/1965; production, surplus, class, agrarian relations; critique of text-centrism.
+5. **Prompt:** How do later interdisciplinary turns improve ancient-history writing?
+   - **Evidence bank:** gender history; regional history; scientific archaeology; aDNA boundary; read texts against the grain.
+
+#### Drill R-9 — model openings for the same paragraph
+
+- **Direct 10-marker opening:** *Ancient Indian history is important because it explains how society, settlement, technology and power were first assembled, not merely who ruled.*
+- **Critical 15-marker opening:** *The writing of ancient Indian history changes when the historian changes the archive, the question and the standard of proof.*
+- **20-marker thesis opening:** *Ancient Indian history is not a neutral storehouse of facts; it is a disciplined reconstruction in which evidence survives unequally, historians ask different questions and interpretations are ranked by method.*
+
+#### Drill R-10 — self-check before you move on
+
+- Did you name at least **one historian, one dated work or institution, and one evidentiary limit**?
+- Did you avoid **prove**, **golden age**, **unchanged for centuries**, and **the Hindu period**?
+- Did your final sentence **judge** rather than merely repeat?
+
 ---
 
 ## PYQS AND ANSWER PRACTICE
@@ -718,12 +764,6 @@ Which one of the following sentences is methodologically acceptable in an ancien
 
 ---
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “M-1 · 2018 · GS-I · Q2 · 10 marks · 150 words”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
 #### M-2 · 2018 · GS-I · Q1 · 10 marks · 150 words
 
 ✅ **Question as printed:** *"Safeguarding the Indian art heritage is the need of the moment. Discuss. (Answer in 150 words)"*
@@ -755,12 +795,6 @@ Which one of the following sentences is methodologically acceptable in an ancien
 **Common mistakes.** ❌ A list of threats without a framework. ❌ No named case. ❌ Treating "heritage" as monuments only, omitting manuscripts, inscriptions and movable antiquities. ❌ No acknowledgement that safeguarding measures can conflict.
 
 ---
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “M-2 · 2018 · GS-I · Q1 · 10 marks · 150 words”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
 
 #### M-3 · 2020 · GS-I · Q1 · 10 marks · 150 words
 
@@ -795,12 +829,6 @@ Which one of the following sentences is methodologically acceptable in an ancien
 **Common mistakes.** ❌ Listing Ajanta, Ellora, Karle and Bhaja with dates and dynasties — that is the owning topic's content and it does not address "sources of our knowledge". ❌ No limits paragraph. ❌ Treating sculpture as photographic evidence of appearance or dress.
 
 ---
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “M-3 · 2020 · GS-I · Q1 · 10 marks · 150 words”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
 
 #### M-4 · 2020 · GS-I · Q12 · 15 marks · 250 words
 
@@ -850,12 +878,6 @@ Which one of the following sentences is methodologically acceptable in an ancien
 
 ---
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “M-4 · 2020 · GS-I · Q12 · 15 marks · 250 words”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
 #### M-5 · 2023 · GS-I · Q1 · 10 marks · 150 words
 
 ✅ **Question as printed:** *"Explain the role of geographical factors towards the development of Ancient India. (Answer in 150 words)"*
@@ -895,12 +917,6 @@ Which one of the following sentences is methodologically acceptable in an ancien
 **Common mistakes.** ❌ Reciting physiography. ❌ "The fertile plains led to the rise of empires" — determinism in one sentence. ❌ Static geography: no recognition that landscapes, river courses and climate changed.
 
 ---
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “M-5 · 2023 · GS-I · Q1 · 10 marks · 150 words”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
 
 #### M-6 · 2023 · GS-I · Q11 · 15 marks · 250 words
 
@@ -943,12 +959,6 @@ Which one of the following sentences is methodologically acceptable in an ancien
 
 ---
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “M-6 · 2023 · GS-I · Q11 · 15 marks · 250 words”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
 #### M-7 · 2024 · GS-I · Q1 · 10 marks · 150 words
 
 ✅ **Question as printed:** *"Underline the changes in the field of society and economy from the Rig Vedic to the later Vedic period. (Answer in 150 words)"*
@@ -989,12 +999,6 @@ Which one of the following sentences is methodologically acceptable in an ancien
 ### II.B PRELIMS GS-I APPLICATION PYQs — official keys verified from local sources only
 
 > ⚠️ **Verification note.** Every key below was read from the official answer-key PDF held locally, **Series A**, matched to the **Set A** question paper. ❓ No question is included whose key could not be so verified.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “M-7 · 2024 · GS-I · Q1 · 10 marks · 150 words”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
 
 #### P-1 · Prelims GS-I 2024 · Set A · Q58
 
@@ -1083,16 +1087,6 @@ Which one of the following sentences is methodologically acceptable in an ancien
 
 ---
 
-**Demand decoding:** Treat “P-3 · Prelims GS-I 2025 · Set A · Q15” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
-
-**Why this earns marks:** It preserves statement-level integrity, uses named evidence instead of familiar-name guessing, and does not promote an inferred key to official status.
-
-**How to improve this answer:** For “P-3 · Prelims GS-I 2025 · Set A · Q15”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
-
 #### P-4 · Prelims GS-I 2025 · Set A · Q19
 
 ✅ **Question as printed:**
@@ -1124,16 +1118,6 @@ Which one of the following sentences is methodologically acceptable in an ancien
 
 ### V.A — 10 marks · 150 words
 
-**Demand decoding:** Treat “P-4 · Prelims GS-I 2025 · Set A · Q19” as a source-and-elimination problem: verify each statement independently, preserve the official wording where available, and separate an inferred key from an official key.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** Identify the tested chronology, site, text, inscription or institution; eliminate each option with one named fact; then state the evidence limit or key-verification status.
-
-**Why this earns marks:** It preserves statement-level integrity, uses named evidence instead of familiar-name guessing, and does not promote an inferred key to official status.
-
-**How to improve this answer:** For “P-4 · Prelims GS-I 2025 · Set A · Q19”, add one explicit sentence explaining why the closest distractor fails on chronology, geography, source class or degree of certainty.
-
 #### O-1 (10 marks, 150 words)
 **"Ancient Indian history is the history of how people made a living, not merely of who ruled them." Examine.**
 
@@ -1159,12 +1143,6 @@ Which one of the following sentences is methodologically acceptable in an ancien
 5. ✅ Concede that the state is **causally active**, not merely a product.
 6. ✅ A verdict that grades both halves rather than choosing one.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “O-1 (10 marks, 150 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
 #### O-2 (10 marks, 150 words)
 **Distinguish between prehistory, protohistory and history in the Indian context, and explain why the boundary between them is not fixed.**
 
@@ -1185,12 +1163,6 @@ Which one of the following sentences is methodologically acceptable in an ancien
 4. ✅ The **north/south asymmetry**, with the three named sites.
 5. ✅ The **decipherment hypothetical**, which proves the point decisively.
 6. ⚠️ **Optional edge:** note that literacy is a **source condition**, not a grade of civilisation.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “O-2 (10 marks, 150 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
 
 #### O-3 (10 marks, 150 words)
 **"Provenance is an evidential question before it is a legal one." Comment with reference to archaeological objects.**
@@ -1218,12 +1190,6 @@ Which one of the following sentences is methodologically acceptable in an ancien
 
 ### V.B — 15 marks · 250 words
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 10-mark answer, open with a two-sentence thesis; organise three named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “O-3 (10 marks, 150 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
 #### O-4 (15 marks, 250 words)
 **"Colonial historiography of ancient India was simultaneously a scholarly achievement and an instrument of rule." Critically examine.**
 
@@ -1249,12 +1215,6 @@ Which one of the following sentences is methodologically acceptable in an ancien
 5. ✅ An explicitly **stated criterion** before the verdict — this is what "critically" requires.
 6. ✅ An explanation of **why** the two coexisted, not merely the assertion that they did.
 7. ⚠️ **Optional edge:** distinguish Mill's armchair periodisation from the Orientalists' collection and translation work, and note that the Orientalists were not homogeneous.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “O-4 (15 marks, 250 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
 
 #### O-5 (15 marks, 250 words)
 **"Nationalist historiography corrected colonial contempt but retained the colonial frame." Critically examine.**
@@ -1282,12 +1242,6 @@ Which one of the following sentences is methodologically acceptable in an ancien
 6. ✅ The golden-age, indigenist, political and elite limits, all four.
 7. ✅ A **non-partisan verdict** that names the **mechanism** rather than assigning blame.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “O-5 (15 marks, 250 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
 #### O-6 (15 marks, 250 words)
 **Assess the contribution of the materialist approach to the writing of ancient Indian history, and examine the principal criticisms it has attracted.**
 
@@ -1313,12 +1267,6 @@ Which one of the following sentences is methodologically acceptable in an ancien
 5. ✅ The **programme/execution** distinction, which resolves the "ignored culture" charge without evasion.
 6. ✅ The observation that two criticisms are **archive** weaknesses shared with colonial scholarship — the mark of genuine reading.
 7. ✅ A graded verdict that separates the **decision** to study production from the **manner** of doing so.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “O-6 (15 marks, 250 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
 
 #### O-7 (15 marks, 250 words)
 **"Every source is also a bias." Examine with reference to texts, inscriptions and archaeology in the reconstruction of ancient India.**
@@ -1349,12 +1297,6 @@ Which one of the following sentences is methodologically acceptable in an ancien
 7. ⚠️ **Optional edge:** cite UPSC's own use of "suggest" as evidence that the co-relation register is the expected one.
 
 ### V.C — 20 marks · 300–350 words
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 15-mark answer, open with a two-sentence thesis; organise five named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “O-7 (15 marks, 250 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
 
 #### O-8 (20 marks, 300–350 words)
 **"Historiography is the archaeology of interpretations." Critically examine the writing of ancient Indian history from the colonial period to the present.**
@@ -1389,12 +1331,6 @@ Which one of the following sentences is methodologically acceptable in an ancien
 7. ✅ **Test the metaphor's limit**, using the variety-within-schools and co-existence point, with a concrete instance.
 8. ✅ A closing formulation that keeps both halves — stratified in formation, entangled in persistence.
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “O-8 (20 marks, 300–350 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
-
 #### O-9 (20 marks, 300–350 words)
 **Critically assess James Mill's periodisation of Indian history in the light of interdisciplinary ancient-history writing.**
 
@@ -1428,12 +1364,6 @@ Which one of the following sentences is methodologically acceptable in an ancien
 7. ✅ The replacement scheme **with dates and with its self-limiting clause**.
 8. ✅ The positive interdisciplinary alternative — **process axis plus evidence axis** — because rejection alone is a half answer.
 9. ✅ A closing distinction between a **better label** and a **different kind of question**.
-
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “O-9 (20 marks, 300–350 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
 
 #### O-10 (20 marks, 300–350 words)
 **"Scientific techniques have widened the questions historians of ancient India can ask, but have not removed the need for interpretation." Discuss.**
@@ -1541,8 +1471,3 @@ Which one of the following sentences is methodologically acceptable in an ancien
 
 ---
 
-**Detailed examiner-grade model status:** The model answer or solved analysis above is the executable content base; retain its named evidence, causal links and qualification rather than replacing it with a generic summary.
-
-**Executable exam-length answer / compression plan:** For a 20-mark answer, open with a two-sentence thesis; organise six to eight named evidence units as claim → evidence → inference → qualification; reserve the final lines for a graded conclusion.
-
-**How to improve this answer:** For “O-10 (20 marks, 300–350 words)”, replace the weakest generalisation with one additional named site, text, inscription, coin, ruler or scholarly position and state exactly what that evidence cannot prove.
