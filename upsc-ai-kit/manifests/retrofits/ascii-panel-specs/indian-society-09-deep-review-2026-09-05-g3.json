@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "indian-society-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_society_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-society-09",
+      "display_title": "Poverty and Developmental Issues",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-09\\g3\\indian-society-09_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "What poverty is",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "CAPABILITY -> nourished, educated, healthy, able to participate",
+            "RELATIONAL -> exclusion from networks, institutions and opportunity",
+            "COMPOUNDING -> caste, gender, religion and region stack the disadvantage",
+            "LIMIT -> an income threshold cannot express either dimension",
+            "MUST REMEMBER: Poverty is multidimensional deprivation in income or consumption, nutrition,",
+            "  health, education, housing, services, security and agency; development changes capabilities",
+            "  and structural opportunities, while vulnerability describes exposure to falling into or",
+            "  remaining in deprivation."
+          ],
+          "source_references": [
+            "What poverty actually deprives a person of",
+            "Exclusion as the relational dimension",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-09\\g3\\indian-society-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "The causal dispute",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "LEWIS -> attitudes and behaviour reproduced across generations",
+            "CRITIQUE -> rational adaptation to insecurity and unequal access",
+            "STAKE -> correct material conditions, or correct attitudes",
+            "RULE -> describe coping behaviour without converting it into blame"
+          ],
+          "source_references": [
+            "The culture-of-poverty thesis",
+            "The structural critique and causal direction",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-09\\g3\\indian-society-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Ownership boundary",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "ECONOMY -> Tendulkar and Rangarajan formulae, index construction",
+            "SOCIAL JUSTICE -> welfare entitlements and scheme architecture",
+            "GOVERNANCE -> non-governmental organisation collaboration mechanism",
+            "THIS OWNER -> deprivation mechanisms and their social consequences"
+          ],
+          "source_references": [
+            "Where poverty measurement is owned",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-09\\g3\\indian-society-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Estimate card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "SOURCE -> NITI Aayog discussion paper of 2024",
+            "TITLE -> Multidimensional Poverty in India since 2005-06",
+            "ESTIMATE -> 11.28 per cent multidimensional poverty in 2022-23",
+            "EXITS -> about 24.8 crore persons between 2013-14 and 2022-23"
+          ],
+          "source_references": [
+            "Reading the multidimensional estimate",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-09\\g3\\indian-society-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Coverage to use",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "COVERAGE -> the entitlement exists on paper for this household",
+            "ACCESS -> distance, cost, documents and information permit reach",
+            "USE -> the household can actually convert it into a functioning",
+            "SHORTFALL -> name which of the three failed before recommending"
+          ],
+          "source_references": [
+            "Why poverty persists despite programmes",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-09\\g3\\indian-society-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Shock channels",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "WORK -> precarious informal employment and income loss",
+            "HOUSING AND HEALTH -> density raises exposure and recovery cost",
+            "SAVINGS -> thin buffers and non-portable social protection",
+            "SERVICES -> unequal digital access blocks relief and schooling",
+            "CLOSE DISTINCTION: Absolute is not relative poverty, poverty is not inequality, incidence is",
+            "  not depth or severity, multidimensional indices are not interchangeable with consumption",
+            "  lines, and programme coverage is not proof of adequacy, access or durable exit."
+          ],
+          "source_references": [
+            "How a shock becomes class-differentiated",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-09\\g3\\indian-society-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Two development conflicts",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CONSERVATION RESTRICTION -> access curtailed, nobody physically moved",
+            "PROJECT DISPLACEMENT -> community relocated, owned by tribal society",
+            "REMEDY 1 -> co-management and alternative livelihood",
+            "REMEDY 2 -> resettlement design and livelihood restoration"
+          ],
+          "source_references": [
+            "The development-livelihood conflict",
+            "Two development conflicts kept apart",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-09\\g3\\indian-society-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Two conservation designs",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "EXCLUSIONARY -> access closed entirely to protect the ecosystem",
+            "PARTICIPATORY -> co-management, stake and alternative livelihood",
+            "EFFECT -> severity of the conflict follows design, not intention",
+            "LIMIT -> some restriction on prior open access usually remains"
+          ],
+          "source_references": [
+            "Exclusionary and participatory conservation",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-09\\g3\\indian-society-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Three actors",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "GOVERNMENT -> regulation, funding at scale, final accountability",
+            "NON-GOVERNMENTAL -> grassroots trust, local knowledge, last mile",
+            "PRIVATE -> technology, efficiency and resources",
+            "CONDITION -> divided roles with joint monitoring"
+          ],
+          "source_references": [
+            "Three actors, three comparative advantages",
+            "Complementary rather than overlapping roles",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-09\\g3\\indian-society-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Collaboration failure mode",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "ROLES UNDIVIDED -> two actors attempt the same function",
+            "DUPLICATION -> effort repeated and coverage still incomplete",
+            "ACCOUNTABILITY -> responsibility diffused across three actors",
+            "RESULT -> cooperation without a traceable outcome owner"
+          ],
+          "source_references": [
+            "Complementary rather than overlapping roles",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-09\\g3\\indian-society-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Three boundary cases",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CULTURE-ONLY -> literacy campaign without income security",
+            "STRUCTURAL -> land titling and credit access expand the opportunity set",
+            "EXCLUSIONARY -> total ban with no alternative livelihood provided",
+            "PARTICIPATORY -> co-management rights with an alternative income stream"
+          ],
+          "source_references": [
+            "Three boundary cases",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-09\\g3\\indian-society-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Poverty answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> define deprivation and name the mechanism being tested",
+            "BODY -> coverage, access and use, then the class or design channel",
+            "TEST -> contrasting boundary cases and the standing trade-off",
+            "CLOSE -> graded verdict with the dated-estimate caveat",
+            "EVIDENCE LIMIT: Use Tendulkar/Rangarajan history, NITI Aayog's National MPI and official",
+            "  survey dates/status carefully; map rural, urban, regional, caste, tribe and gender",
+            "  variation, and distinguish correlation from mechanisms such as assets, labour markets,",
+            "  discrimination, health shocks and state capacity."
+          ],
+          "source_references": [
+            "Trade-offs, ownership and the answer spine",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\09_Poverty-and-Developmental-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-09\\g3\\indian-society-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

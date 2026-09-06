@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T03:31:23+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\international-relations-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "5065e3f1c02ce392afcc010e97d0f611d088b68bb09d7c87a502ace5084f1417",
+    "sha256_after": "5065e3f1c02ce392afcc010e97d0f611d088b68bb09d7c87a502ace5084f1417",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "International Relations": 1
+  },
+  "sections": {
+    "International Relations — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 10947,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1859,
+    "json_count": 4863,
+    "total_bytes": 4271025502,
+    "by_extension": {
+      ".json": 4863,
+      ".md": 1859,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "international-relations-09",
+      "topic_title": "Indian Diaspora, Consular Protection and Soft Power",
+      "subject": "International Relations",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 9,
+      "source_record_id": "international-relations-09:learner-v2:g5",
+      "source_generation": 5,
+      "destination_folder": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\09-Indian-Diaspora-d991760d-and-Soft-Power",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-09\\g5\\international-relations-09_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\09-Indian-Diaspora-d991760d-and-Soft-Power\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "855cf4caeedcfd569fc829e2cd0340e1da794219b904e2033d6539e7d916664f",
+          "output_sha256": "855cf4caeedcfd569fc829e2cd0340e1da794219b904e2033d6539e7d916664f",
+          "source_output_equal": true,
+          "bytes": 897627
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-09\\g5\\international-relations-09_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\09-Indian-Diaspora-d991760d-and-Soft-Power\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "12a4040b4427be316a0a4750678dd3f0f04716c075f65cda1eaff8b02ffab4f1",
+          "output_sha256": "12a4040b4427be316a0a4750678dd3f0f04716c075f65cda1eaff8b02ffab4f1",
+          "source_output_equal": true,
+          "bytes": 684220
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-09\\carvaka-g5\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\09-Indian-Diaspora-d991760d-and-Soft-Power\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "d0e1551649a89549aab194ba70be80b99b3ff14d0d0e233e380654f70df75747",
+          "output_sha256": "d0e1551649a89549aab194ba70be80b99b3ff14d0d0e233e380654f70df75747",
+          "source_output_equal": true,
+          "bytes": 2601283
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-09\\carvaka-g5\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\09-Indian-Diaspora-d991760d-and-Soft-Power\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "fa1babbda64df2c1b5514b723d7d5940c0b390e38b4921e745585ae9ee2e7615",
+          "output_sha256": "fa1babbda64df2c1b5514b723d7d5940c0b390e38b4921e745585ae9ee2e7615",
+          "source_output_equal": true,
+          "bytes": 3508428
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-09\\carvaka-g5\\master.png",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\09-Indian-Diaspora-d991760d-and-Soft-Power\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "cffa3e70d19dda1313fdc39415bd823be9d166cefd125dbaac93e72a566a6e0e",
+          "output_sha256": "cffa3e70d19dda1313fdc39415bd823be9d166cefd125dbaac93e72a566a6e0e",
+          "source_output_equal": true,
+          "bytes": 2312342
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-09\\carvaka-g5\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\09-Indian-Diaspora-d991760d-and-Soft-Power\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "cd6f1b5bdcda333e6ea53bce347412c2b628b6fecb4da73b853249fe40e55a4d",
+          "output_sha256": "cd6f1b5bdcda333e6ea53bce347412c2b628b6fecb4da73b853249fe40e55a4d",
+          "source_output_equal": true,
+          "bytes": 8299
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-09\\carvaka-g5\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\09-Indian-Diaspora-d991760d-and-Soft-Power\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "511a2e789e9a5b94cc01770a50d56d67023675187d0c9898d625e30a4e9e18cb",
+          "output_sha256": "511a2e789e9a5b94cc01770a50d56d67023675187d0c9898d625e30a4e9e18cb",
+          "source_output_equal": true,
+          "source_text_sha256": "cd6f1b5bdcda333e6ea53bce347412c2b628b6fecb4da73b853249fe40e55a4d",
+          "normalized_text_equal": true,
+          "bytes": 59865
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 10,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 9,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 10,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 10,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 9,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 9,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 8,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 8,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 14,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 10,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 11,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 9,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 138,
+        "solved_practice_workbook": 85,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 138,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 85,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11986
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-05T16:23:41+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "f54c747e4c5ba27f8eb6036a679cebac82d9f07accde72f6f1f6f2ff44cd0c74",
+    "sha256_after": "f54c747e4c5ba27f8eb6036a679cebac82d9f07accde72f6f1f6f2ff44cd0c74",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Polity": 1
+  },
+  "sections": {
+    "Polity — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 10666,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1808,
+    "json_count": 4633,
+    "total_bytes": 4268673655,
+    "by_extension": {
+      ".json": 4633,
+      ".md": 1808,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "polity-51",
+      "topic_title": "Rights and Liabilities of the Government",
+      "subject": "Polity",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 51,
+      "source_record_id": "polity-51:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\51-Rights-and-Liabilities-of-the-Government",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-51\\g4\\polity-51_Complete-Learning-Session_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\51-Rights-and-Liabilities-of-the-Government\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "eba17153ab289b5b1e82524dc7aa2298b7bf96304bda893b502371001d5ef4e1",
+          "output_sha256": "eba17153ab289b5b1e82524dc7aa2298b7bf96304bda893b502371001d5ef4e1",
+          "source_output_equal": true,
+          "bytes": 396752
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-51\\g4\\polity-51_Solved-Practice-Workbook_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\51-Rights-and-Liabilities-of-the-Government\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "5d8d5dced8448072bf6dac10366abc272f55fc9c64131da71a6a0166fe05397c",
+          "output_sha256": "5d8d5dced8448072bf6dac10366abc272f55fc9c64131da71a6a0166fe05397c",
+          "source_output_equal": true,
+          "bytes": 286210
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-51\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\51-Rights-and-Liabilities-of-the-Government\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "f724292cd3f7ba5547b1d87a6a88e91c65fec5e0725d7469c6679c46d0322143",
+          "output_sha256": "f724292cd3f7ba5547b1d87a6a88e91c65fec5e0725d7469c6679c46d0322143",
+          "source_output_equal": true,
+          "bytes": 2664713
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-51\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\51-Rights-and-Liabilities-of-the-Government\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "307fab4851e33bd218b64615f603dcc22c484fbfd2bf69a5ec20b9cf227696bd",
+          "output_sha256": "307fab4851e33bd218b64615f603dcc22c484fbfd2bf69a5ec20b9cf227696bd",
+          "source_output_equal": true,
+          "bytes": 3544428
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-51\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\51-Rights-and-Liabilities-of-the-Government\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "a2c767bd28284fbee5f0cc7caa92ed78aa85e3cc46f68988e00a72561b01d51f",
+          "output_sha256": "a2c767bd28284fbee5f0cc7caa92ed78aa85e3cc46f68988e00a72561b01d51f",
+          "source_output_equal": true,
+          "bytes": 2363527
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-51\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\51-Rights-and-Liabilities-of-the-Government\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "bf7585e4d56fd50cd38203e345f258b370416e6f7fc46d2ef047bfbf1db968bd",
+          "output_sha256": "bf7585e4d56fd50cd38203e345f258b370416e6f7fc46d2ef047bfbf1db968bd",
+          "source_output_equal": true,
+          "bytes": 8057
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-51\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Polity\\Subject-wide Syllabus\\51-Rights-and-Liabilities-of-the-Government\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "b81903d9838dce01c9cf02720b3cd6e7fe24e3b3ed0b4d50c870bff4fb62681b",
+          "output_sha256": "b81903d9838dce01c9cf02720b3cd6e7fe24e3b3ed0b4d50c870bff4fb62681b",
+          "source_output_equal": true,
+          "source_text_sha256": "bf7585e4d56fd50cd38203e345f258b370416e6f7fc46d2ef047bfbf1db968bd",
+          "normalized_text_equal": true,
+          "bytes": 59425
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 17,
+            "maximum_line_characters": 97,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 16,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 15,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 16,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 17,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 17,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 15,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 17,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 16,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 13,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 14,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 23,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 49,
+        "solved_practice_workbook": 25,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 49,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 25,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          12250
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

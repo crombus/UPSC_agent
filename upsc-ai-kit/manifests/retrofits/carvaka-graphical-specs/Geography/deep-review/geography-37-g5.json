@@ -1,0 +1,1209 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-37",
+  "subject": "Geography",
+  "title": "CULTURAL AND SOCIAL GEOGRAPHY OF INDIA",
+  "short_route": "BUILDING BLOCKS OF A → REGION TYPES COMPARED → HEARTH TO IDENTITY SEQUENCE → DISTRIBUTION AND DENSITY FIREWALL → CONTROLS ON POPULATION DISTRIBUTION → GANGA BASIN CONVERGENCE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g5\\geography-37_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-37-deep-review-2026-09-05-g5.json",
+  "ascii_spec_sha256": "d8c9aae9198c7d2cdb63efe45eeb7fef9eb415b7580c7fff19fad3324917a4af",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "BUILDING BLOCKS OF A CULTURAL REGION",
+      "structural_type": "institutional-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BUILDING BLOCKS OF A CULTURAL REGION",
+          "role": "primary"
+        },
+        {
+          "text": "COMMUNICATION AND LITERARY CORE WITH A HEARTH AND A",
+          "role": "outcome"
+        },
+        {
+          "text": "SACRED SITES, RITUAL CALENDARS, GROUP IDENTITY AND LANDSCAPES",
+          "role": "comparison"
+        },
+        {
+          "text": "TRIBE AND ETHNICITY",
+          "role": "evidence"
+        },
+        {
+          "text": "HISTORICAL COMMUNITIES ASSOCIATED WITH A HABITAT",
+          "role": "primary"
+        },
+        {
+          "text": "LIVELIHOOD AND MIGRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CULTURAL LANDSCAPE OF WORK; DIFFUSION AND MIXING",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE POLICY",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "LANGUAGE → communication and literary core with a hearth and a spread",
+        "RELIGION → sacred sites, ritual calendars, group identity and landscapes",
+        "TRIBE AND ETHNICITY → historical communities associated with a habitat",
+        "LIVELIHOOD AND MIGRATION → the cultural landscape of work; diffusion and mixing",
+        "STATE POLICY → linguistic states, schedules, autonomy arrangements and reservation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LANGUAGE → communication and literary core with a hearth and a spread",
+            "RELIGION → sacred sites, ritual calendars, group identity and landscapes",
+            "TRIBE AND ETHNICITY → historical communities associated with a habitat"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIVELIHOOD AND MIGRATION → the cultural landscape of work; diffusion and mixing",
+            "STATE POLICY → linguistic states, schedules, autonomy arrangements and reservation",
+            "MUST REMEMBER: Cultural and social geography examines language, religion, caste, tribe, ethnicity, gender, livelihood, landscape, place identity and"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "cultural area, hearth, route, frontier, sacred landscape and vernacular region are analytical tools rather than fixed natural containers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Cultural and social geography examines language, religion, caste, tribe, ethnicity, gender, livelihood, landscape, place identity and diffusion across India's plural regions; cultural area, hearth, route, frontier, sacred landscape and vernacular region are analytical tools rather than fixed natural containers.",
+      "source_references": [
+        "Scope of cultural and social geography",
+        "Building blocks of a cultural region",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g5\\geography-37_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "REGION TYPES COMPARED",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REGION TYPES COMPARED",
+          "role": "primary"
+        },
+        {
+          "text": "A DOMINANT SHARED TRAIT SUCH AS LANGUAGE OR RELIGION",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERACTION THROUGH PILGRIMAGE, MARKET OR MEDIA TIES THE AREA",
+          "role": "comparison"
+        },
+        {
+          "text": "A NAMED, IMAGINED REGION SUCH AS THE HINDI BELT",
+          "role": "evidence"
+        },
+        {
+          "text": "FUNCTIONAL CIRCUITS ROUTINELY CUT ACROSS FORMAL BOUNDARIES",
+          "role": "primary"
+        },
+        {
+          "text": "EXAM USE",
+          "role": "outcome"
+        },
+        {
+          "text": "NAME THE TYPE FIRST, THEN ARGUE ABOUT THE BOUNDARY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "FORMAL → a dominant shared trait such as language or religion defines the area",
+        "FUNCTIONAL → interaction through pilgrimage, market or media ties the area together",
+        "VERNACULAR → a named, imagined region such as the Hindi belt, Deccan or North-East",
+        "OVERLAP → functional circuits routinely cut across formal boundaries",
+        "EXAM USE → name the type first, then argue about the boundary"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FORMAL → a dominant shared trait such as language or religion defines the area",
+          "VERNACULAR → a named, imagined region such as the Hindi belt, Deccan or North-East",
+          "EXAM USE → name the type first, then argue about the boundary"
+        ],
+        [
+          "FUNCTIONAL → interaction through pilgrimage, market or media ties the area together",
+          "OVERLAP → functional circuits routinely cut across formal boundaries",
+          "FORMAL → a dominant shared trait such as language or religion defines the area"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FORMAL → a dominant shared trait such as language or religion defines the area",
+            "FUNCTIONAL → interaction through pilgrimage, market or media ties the area together"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VERNACULAR → a named, imagined region such as the Hindi belt, Deccan or North-East",
+            "OVERLAP → functional circuits routinely cut across formal boundaries"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EXAM USE → name the type first, then argue about the boundary",
+            "FORMAL → a dominant shared trait such as language or religion defines the area"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXAM USE → name the type first, then argue about the boundary.",
+      "source_references": [
+        "Three types of cultural region",
+        "Religion as functional geography",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g5\\geography-37_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "HEARTH TO IDENTITY SEQUENCE",
+      "structural_type": "process-flow",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "HEARTH TO IDENTITY SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "CULTURAL HEARTH",
+          "role": "outcome"
+        },
+        {
+          "text": "THE SOURCE AREA WHERE THE TRAIT ORIGINATES",
+          "role": "evidence"
+        },
+        {
+          "text": "SPREAD ALONG ROUTES, RIVERS, MARKETS AND MIGRATION CORRIDORS",
+          "role": "evidence"
+        },
+        {
+          "text": "OVERLAP ZONE",
+          "role": "primary"
+        },
+        {
+          "text": "TWO TRADITIONS COEXIST AND INTERACT IN THE SAME SPACE",
+          "role": "outcome"
+        },
+        {
+          "text": "MIXED BORDERLAND",
+          "role": "comparison"
+        },
+        {
+          "text": "BILINGUAL BELTS, SYNCRETIC PRACTICE AND SHARED CALENDARS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CULTURAL HEARTH → the source area where the trait originates",
+        "DIFFUSION → spread along routes, rivers, markets and migration corridors",
+        "OVERLAP ZONE → two traditions coexist and interact in the same space",
+        "MIXED BORDERLAND → bilingual belts, syncretic practice and shared calendars",
+        "NEW REGIONAL IDENTITY → the margin produces its own recognised character"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CULTURAL HEARTH → the source area where the trait originates",
+            "DIFFUSION → spread along routes, rivers, markets and migration corridors"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OVERLAP ZONE → two traditions coexist and interact in the same space",
+            "MIXED BORDERLAND → bilingual belts, syncretic practice and shared calendars"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NEW REGIONAL IDENTITY → the margin produces its own recognised character",
+            "CULTURAL HEARTH → the source area where the trait originates"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NEW REGIONAL IDENTITY → the margin produces its own recognised character.",
+      "source_references": [
+        "Diffusion and overlap sequence",
+        "Transition-zone principle",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g5\\geography-37_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DISTRIBUTION AND DENSITY FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DISTRIBUTION AND DENSITY FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "THE SPATIAL ARRANGEMENT OF PEOPLE; ANSWERS THE WHERE QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "A RATIO OF PEOPLE TO AREA; ANSWERS THE HOW",
+          "role": "comparison"
+        },
+        {
+          "text": "TOTAL POPULATION OVER TOTAL AREA; MISLEADS WHERE LAND IS",
+          "role": "evidence"
+        },
+        {
+          "text": "POPULATION OVER CULTIVABLE AREA; EXPOSES HIDDEN LAND PRESSURE",
+          "role": "primary"
+        },
+        {
+          "text": "FARMING POPULATION OVER CULTIVABLE AREA; ISOLATES AGRARIAN PRESSURE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DISTRIBUTION → the spatial arrangement of people; answers the where question",
+        "DENSITY → a ratio of people to area; answers the how concentrated question",
+        "ARITHMETIC → total population over total area; misleads where land is uninhabitable",
+        "PHYSIOLOGICAL → population over cultivable area; exposes hidden land pressure",
+        "AGRICULTURAL → farming population over cultivable area; isolates agrarian pressure"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DISTRIBUTION → the spatial arrangement of people; answers the where question",
+          "ARITHMETIC → total population over total area; misleads where land is uninhabitable",
+          "AGRICULTURAL → farming population over cultivable area; isolates agrarian pressure"
+        ],
+        [
+          "DENSITY → a ratio of people to area; answers the how concentrated question",
+          "PHYSIOLOGICAL → population over cultivable area; exposes hidden land pressure",
+          "DISTRIBUTION → the spatial arrangement of people; answers the where question"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DISTRIBUTION → the spatial arrangement of people; answers the where question",
+            "DENSITY → a ratio of people to area; answers the how concentrated question"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ARITHMETIC → total population over total area; misleads where land is uninhabitable",
+            "PHYSIOLOGICAL → population over cultivable area; exposes hidden land pressure"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AGRICULTURAL → farming population over cultivable area; isolates agrarian pressure",
+            "DISTRIBUTION → the spatial arrangement of people; answers the where question"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AGRICULTURAL → farming population over cultivable area; isolates agrarian pressure.",
+      "source_references": [
+        "Distribution against density",
+        "Three densities and their meanings",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g5\\geography-37_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CONTROLS ON POPULATION DISTRIBUTION",
+      "structural_type": "institutional-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CONTROLS ON POPULATION DISTRIBUTION",
+          "role": "primary"
+        },
+        {
+          "text": "RELIEF AND SOIL",
+          "role": "outcome"
+        },
+        {
+          "text": "LEVEL LAND AND DEEP RENEWABLE ALLUVIUM PERMIT INTENSIVE SETTLEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "RAINFALL, PERENNIAL RIVERS AND SHALLOW GROUNDWATER SET CROPPING INTENSITY",
+          "role": "evidence"
+        },
+        {
+          "text": "GROWING-SEASON LENGTH AND RELIABILITY DETER OR PERMIT OCCUPATION",
+          "role": "primary"
+        },
+        {
+          "text": "VALLEYS CARRYING MILLENNIA OF SETTLEMENT, URBANISM AND STATE FORMATION",
+          "role": "institution"
+        },
+        {
+          "text": "ECONOMY AND CONNECTIVITY",
+          "role": "comparison"
+        },
+        {
+          "text": "INDUSTRY, PORTS, IRRIGATED COMMANDS, RAIL AND CANAL NETWORKS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RELIEF AND SOIL → level land and deep renewable alluvium permit intensive settlement",
+        "WATER → rainfall, perennial rivers and shallow groundwater set cropping intensity",
+        "CLIMATE → growing-season length and reliability deter or permit occupation",
+        "HISTORY → valleys carrying millennia of settlement, urbanism and state formation",
+        "ECONOMY AND CONNECTIVITY → industry, ports, irrigated commands, rail and canal networks"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RELIEF AND SOIL → level land and deep renewable alluvium permit intensive settlement",
+            "WATER → rainfall, perennial rivers and shallow groundwater set cropping intensity"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CLIMATE → growing-season length and reliability deter or permit occupation",
+            "HISTORY → valleys carrying millennia of settlement, urbanism and state formation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ECONOMY AND CONNECTIVITY → industry, ports, irrigated commands, rail and canal networks",
+            "RELIEF AND SOIL → level land and deep renewable alluvium permit intensive settlement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ECONOMY AND CONNECTIVITY → industry, ports, irrigated commands, rail and canal networks.",
+      "source_references": [
+        "Controls on India's population distribution",
+        "Ganga basin convergence of controls",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g5\\geography-37_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "GANGA BASIN CONVERGENCE",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GANGA BASIN CONVERGENCE",
+          "role": "primary"
+        },
+        {
+          "text": "LEVEL EXTENSIVE ALLUVIAL PLAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "ALMOST THE WHOLE SURFACE IS CULTIVABLE AND TRAVERSABLE",
+          "role": "comparison"
+        },
+        {
+          "text": "DEEP RENEWABLE ALLUVIUM",
+          "role": "evidence"
+        },
+        {
+          "text": "KHADAR TRACTS ARE RENEWED BY ANNUAL DEPOSITION",
+          "role": "primary"
+        },
+        {
+          "text": "PERENNIAL SNOW-FED RIVERS",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSURED WATER UNLIKE SEASONAL PENINSULAR RIVERS",
+          "role": "comparison"
+        },
+        {
+          "text": "SHALLOW PRODUCTIVE AQUIFERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LEVEL EXTENSIVE ALLUVIAL PLAIN → almost the whole surface is cultivable and traversable",
+        "DEEP RENEWABLE ALLUVIUM → khadar tracts are renewed by annual deposition",
+        "PERENNIAL SNOW-FED RIVERS → assured water unlike seasonal peninsular rivers",
+        "SHALLOW PRODUCTIVE AQUIFERS → tube-well irrigation permits multiple cropping",
+        "HISTORY AND TRANSPORT → inherited settlement plus dense networks on level ground"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LEVEL EXTENSIVE ALLUVIAL PLAIN → almost the whole surface is cultivable and traversable",
+            "DEEP RENEWABLE ALLUVIUM → khadar tracts are renewed by annual deposition"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PERENNIAL SNOW-FED RIVERS → assured water unlike seasonal peninsular rivers",
+            "SHALLOW PRODUCTIVE AQUIFERS → tube-well irrigation permits multiple cropping"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "HISTORY AND TRANSPORT → inherited settlement plus dense networks on level ground",
+            "LEVEL EXTENSIVE ALLUVIAL PLAIN → almost the whole surface is cultivable and traversable"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HISTORY AND TRANSPORT → inherited settlement plus dense networks on level ground.",
+      "source_references": [
+        "Ganga basin convergence of controls",
+        "Controls on India's population distribution",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g5\\geography-37_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "BASIN INTERNAL VARIATION",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BASIN INTERNAL VARIATION",
+          "role": "primary"
+        },
+        {
+          "text": "WEST TO EAST",
+          "role": "outcome"
+        },
+        {
+          "text": "DENSITY RISES FROM THE DRIER WEST TOWARD THE WETTER",
+          "role": "comparison"
+        },
+        {
+          "text": "NORTHERN FRINGE",
+          "role": "evidence"
+        },
+        {
+          "text": "TARAI CONSTRAINTS DIFFER SHARPLY FROM THE CENTRAL PLAIN",
+          "role": "primary"
+        },
+        {
+          "text": "LOWER AND DELTAIC BASIN",
+          "role": "outcome"
+        },
+        {
+          "text": "VERY HIGH RURAL DENSITY WITH FLOOD AND EROSION EXPOSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "URBAN-INDUSTRIAL NODES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WEST TO EAST → density rises from the drier west toward the wetter middle and",
+        "NORTHERN FRINGE → tarai constraints differ sharply from the central plain",
+        "LOWER AND DELTAIC BASIN → very high rural density with flood and erosion exposure",
+        "URBAN-INDUSTRIAL NODES → density peaks that agriculture does not explain",
+        "RULE → never write the basin as an internally uniform region"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "WEST TO EAST → density rises from the drier west toward the wetter middle and lower basin",
+          "LOWER AND DELTAIC BASIN → very high rural density with flood and erosion exposure",
+          "RULE → never write the basin as an internally uniform region"
+        ],
+        [
+          "NORTHERN FRINGE → tarai constraints differ sharply from the central plain",
+          "URBAN-INDUSTRIAL NODES → density peaks that agriculture does not explain",
+          "WEST TO EAST → density rises from the drier west toward the wetter middle and lower basin"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WEST TO EAST → density rises from the drier west toward the wetter middle and lower basin",
+            "NORTHERN FRINGE → tarai constraints differ sharply from the central plain"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LOWER AND DELTAIC BASIN → very high rural density with flood and erosion exposure",
+            "URBAN-INDUSTRIAL NODES → density peaks that agriculture does not explain"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → never write the basin as an internally uniform region",
+            "WEST TO EAST → density rises from the drier west toward the wetter middle and lower basin"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → never write the basin as an internally uniform region.",
+      "source_references": [
+        "Ganga basin internal variation",
+        "Northern Plain sub-regions",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g5\\geography-37_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "DENSITY CONSEQUENCE CHAIN",
+      "structural_type": "process-flow",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DENSITY CONSEQUENCE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "HIGH PHYSIOLOGICAL DENSITY",
+          "role": "outcome"
+        },
+        {
+          "text": "HOLDINGS BECOME SMALL AND CONTINUE FRAGMENTING",
+          "role": "comparison"
+        },
+        {
+          "text": "SMALL HOLDINGS",
+          "role": "evidence"
+        },
+        {
+          "text": "INVESTABLE SURPLUS AND MECHANISATION CAPACITY FALL",
+          "role": "primary"
+        },
+        {
+          "text": "LAND PRESSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "GROUNDWATER OVER-ABSTRACTION AND OUT-MIGRATION FOLLOW",
+          "role": "comparison"
+        },
+        {
+          "text": "FLOODPLAIN SETTLEMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HIGH PHYSIOLOGICAL DENSITY → holdings become small and continue fragmenting",
+        "SMALL HOLDINGS → investable surplus and mechanisation capacity fall",
+        "LAND PRESSURE → groundwater over-abstraction and out-migration follow",
+        "FLOODPLAIN SETTLEMENT → exposure rises because the active surface is occupied",
+        "NATIONAL LINK → the same fertility makes the region critical to foodgrain supply"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HIGH PHYSIOLOGICAL DENSITY → holdings become small and continue fragmenting",
+            "SMALL HOLDINGS → investable surplus and mechanisation capacity fall"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LAND PRESSURE → groundwater over-abstraction and out-migration follow",
+            "FLOODPLAIN SETTLEMENT → exposure rises because the active surface is occupied"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NATIONAL LINK → the same fertility makes the region critical to foodgrain supply",
+            "HIGH PHYSIOLOGICAL DENSITY → holdings become small and continue fragmenting"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NATIONAL LINK → the same fertility makes the region critical to foodgrain supply.",
+      "source_references": [
+        "Density consequence chain",
+        "Density-poverty qualification",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g5\\geography-37_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "MICRO-RELIEF BELT SEQUENCE",
+      "structural_type": "process-flow",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MICRO-RELIEF BELT SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "COARSE GRAVEL AND BOULDER WASH WHERE STREAMS DISAPPEAR UNDERGROUND",
+          "role": "outcome"
+        },
+        {
+          "text": "MARSHY BELT WHERE THOSE STREAMS RE-EMERGE; PRODUCTIVE ONCE DRAINED",
+          "role": "comparison"
+        },
+        {
+          "text": "OLDER ALLUVIAL UPLAND ABOVE THE FLOOD LIMIT, OFTEN WITH",
+          "role": "caution"
+        },
+        {
+          "text": "NEWER ALLUVIUM OF THE ACTIVE FLOODPLAIN, MOST FERTILE AND",
+          "role": "primary"
+        },
+        {
+          "text": "ACTIVE CHANNEL BELT",
+          "role": "outcome"
+        },
+        {
+          "text": "LEVEES, BARS, OX-BOW LAKES AND CHAR OR DIARA LANDS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "BHABAR → coarse gravel and boulder wash where streams disappear underground",
+        "TERAI → marshy belt where those streams re-emerge; productive once drained",
+        "BHANGAR → older alluvial upland above the flood limit, often with kankar nodules",
+        "KHADAR → newer alluvium of the active floodplain, most fertile and most flood-exposed",
+        "ACTIVE CHANNEL BELT → levees, bars, ox-bow lakes and char or diara lands"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BHABAR → coarse gravel and boulder wash where streams disappear underground",
+            "TERAI → marshy belt where those streams re-emerge; productive once drained"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BHANGAR → older alluvial upland above the flood limit, often with kankar nodules",
+            "KHADAR → newer alluvium of the active floodplain, most fertile and most flood-exposed"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ACTIVE CHANNEL BELT → levees, bars, ox-bow lakes and char or diara lands",
+            "BHABAR → coarse gravel and boulder wash where streams disappear underground"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ACTIVE CHANNEL BELT → levees, bars, ox-bow lakes and char or diara lands.",
+      "source_references": [
+        "Micro-relief belt sequence",
+        "Two gradients of the Northern Plain",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g5\\geography-37_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "TWO GRADIENTS AND FIVE SUB-REGIONS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO GRADIENTS AND FIVE SUB-REGIONS",
+          "role": "primary"
+        },
+        {
+          "text": "GRADIENT ONE",
+          "role": "outcome"
+        },
+        {
+          "text": "RAINFALL RISES FROM THE NORTH-WEST TOWARD THE HUMID EAST",
+          "role": "comparison"
+        },
+        {
+          "text": "GRADIENT TWO",
+          "role": "evidence"
+        },
+        {
+          "text": "THE MICRO-RELIEF TRANSECT REPEATS AWAY FROM THE MOUNTAIN FRONT",
+          "role": "primary"
+        },
+        {
+          "text": "WESTERN AND CENTRAL PLAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "IRRIGATED CEREALS WITH DRAWDOWN; DENSE FRAGMENTED HOLDINGS",
+          "role": "comparison"
+        },
+        {
+          "text": "EASTERN PLAIN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GRADIENT ONE → rainfall rises from the north-west toward the humid east",
+        "GRADIENT TWO → the micro-relief transect repeats away from the mountain front",
+        "WESTERN AND CENTRAL PLAIN → irrigated cereals with drawdown; dense fragmented holdings",
+        "EASTERN PLAIN → water-rich yet productivity-constrained by gradient and drainage",
+        "BRAHMAPUTRA AND DELTA → braided erosion insecurity; tidal salinity and cyclone exposure"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "GRADIENT ONE → rainfall rises from the north-west toward the humid east",
+          "EASTERN PLAIN → water-rich yet productivity-constrained by gradient and drainage",
+          "language family differs from script and official status, caste distribution from caste determinism, cultural region from state boundary,"
+        ],
+        [
+          "GRADIENT TWO → the micro-relief transect repeats away from the mountain front",
+          "BRAHMAPUTRA AND DELTA → braided erosion insecurity; tidal salinity and cyclone exposure",
+          ""
+        ],
+        [
+          "WESTERN AND CENTRAL PLAIN → irrigated cereals with drawdown; dense fragmented holdings",
+          "CLOSE DISTINCTION: Scheduled Tribe, tribe, indigenous and ethnic group are not automatic synonyms",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GRADIENT ONE → rainfall rises from the north-west toward the humid east",
+            "GRADIENT TWO → the micro-relief transect repeats away from the mountain front",
+            "WESTERN AND CENTRAL PLAIN → irrigated cereals with drawdown; dense fragmented holdings"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EASTERN PLAIN → water-rich yet productivity-constrained by gradient and drainage",
+            "BRAHMAPUTRA AND DELTA → braided erosion insecurity; tidal salinity and cyclone exposure",
+            "CLOSE DISTINCTION: Scheduled Tribe, tribe, indigenous and ethnic group are not automatic synonyms"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "language family differs from script and official status, caste distribution from caste determinism, cultural region from state boundary,"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Scheduled Tribe, tribe, indigenous and ethnic group are not automatic synonyms; language family differs from script and official status, caste distribution from caste determinism, cultural region from state boundary, and diversity from either frictionless harmony or permanent conflict.",
+      "source_references": [
+        "Two gradients of the Northern Plain",
+        "Northern Plain sub-regions",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g5\\geography-37_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CULTURAL MARKER GEOGRAPHIES",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CULTURAL MARKER GEOGRAPHIES",
+          "role": "primary"
+        },
+        {
+          "text": "REGIONAL CORES, TRANSITION ZONES AND RELIEF-SUSTAINED MINORITY POCKETS",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCENTRATIONS PLUS PILGRIMAGE CIRCUITS FORMING FUNCTIONAL INTERACTION REGIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "FORESTED HILL, PLATEAU AND NORTH-EASTERN ASSOCIATION FROM HISTORICAL ISOLATION",
+          "role": "evidence"
+        },
+        {
+          "text": "AGRARIAN STRUCTURES AND URBAN OCCUPATIONAL CLUSTERING LINK TO ECONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "CORRIDOR COMMUNITIES IN DESTINATION CITIES REDISTRIBUTE CULTURE CONTINUOUSLY",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "INDO-ARYAN/DRAVIDIAN/AUSTROASIATIC/TIBETO-BURMAN LANGUAGE ZONES, TRIBAL CENTRAL BELT AND NORTHEAST, HIMALAYAN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LANGUAGE → regional cores, transition zones and relief-sustained minority pockets",
+        "RELIGION → concentrations plus pilgrimage circuits forming functional interaction regions",
+        "TRIBE → forested hill, plateau and north-eastern association from historical isolation",
+        "LIVELIHOOD → agrarian structures and urban occupational clustering link to economy",
+        "MIGRATION → corridor communities in destination cities redistribute culture continuously"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "LANGUAGE → regional cores, transition zones and relief-sustained minority pockets",
+          "LIVELIHOOD → agrarian structures and urban occupational clustering link to economy",
+          "Census 2011 remains the completed census baseline while identities are dynamic and multi-scalar."
+        ],
+        [
+          "RELIGION → concentrations plus pilgrimage circuits forming functional interaction regions",
+          "MIGRATION → corridor communities in destination cities redistribute culture continuously",
+          ""
+        ],
+        [
+          "TRIBE → forested hill, plateau and north-eastern association from historical isolation",
+          "EVIDENCE LIMIT: Indo-Aryan/Dravidian/Austroasiatic/Tibeto-Burman language zones, tribal central belt and Northeast, Himalayan and coastal livelihoods, pilgrimage networks, pastoral routes,",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LANGUAGE → regional cores, transition zones and relief-sustained minority pockets",
+            "RELIGION → concentrations plus pilgrimage circuits forming functional interaction regions",
+            "TRIBE → forested hill, plateau and north-eastern association from historical isolation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIVELIHOOD → agrarian structures and urban occupational clustering link to economy",
+            "MIGRATION → corridor communities in destination cities redistribute culture continuously",
+            "EVIDENCE LIMIT: Indo-Aryan/Dravidian/Austroasiatic/Tibeto-Burman language zones, tribal central belt and Northeast, Himalayan and coastal livelihoods, pilgrimage networks, pastoral routes,"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Census 2011 remains the completed census baseline while identities are dynamic and multi-scalar."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Indo-Aryan/Dravidian/Austroasiatic/Tibeto-Burman language zones, tribal central belt and Northeast, Himalayan and coastal livelihoods, pilgrimage networks, pastoral routes, borderlands and metropolitan mosaics require named maps; Census 2011 remains the completed census baseline while identities are dynamic and multi-scalar.",
+      "source_references": [
+        "Language as core and transition",
+        "Religion as functional geography",
+        "Tribe and habitat association",
+        "Migration as continuous redistribution",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g5\\geography-37_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "DATA DISCIPLINE AND THE POLICY-MAPPING ANCHOR",
+      "structural_type": "institutional-ladder",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "DATA DISCIPLINE AND THE POLICY-MAPPING ANCHOR",
+          "role": "primary"
+        },
+        {
+          "text": "CENSUS RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "THE LAST COMPLETED ALL-INDIA CENSUS IS THE BASELINE FOR",
+          "role": "comparison"
+        },
+        {
+          "text": "SURVEY RULE",
+          "role": "evidence"
+        },
+        {
+          "text": "A NEWER FIGURE MUST CARRY A NAMED SURVEY AND",
+          "role": "primary"
+        },
+        {
+          "text": "DENSITY, GROWTH, LITERACY, SEX RATIO, SPEAKER AND SHARE FIGURES",
+          "role": "outcome"
+        },
+        {
+          "text": "9 JULY 2024",
+          "role": "comparison"
+        },
+        {
+          "text": "MINISTRY OF TRIBAL AFFAIRS STATE-WISE LIST OF VULNERABLE TRIBAL",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CENSUS RULE → the last completed all-India Census is the baseline for any figure",
+        "SURVEY RULE → a newer figure must carry a named survey and its date",
+        "FORBIDDEN → density, growth, literacy, sex ratio, speaker and share figures from memory",
+        "9 JULY 2024 → Ministry of Tribal Affairs state-wise list of vulnerable tribal groups",
+        "READING → identity and habitat remain geographically organised for present policy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENSUS RULE → the last completed all-India Census is the baseline for any figure",
+            "SURVEY RULE → a newer figure must carry a named survey and its date"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FORBIDDEN → density, growth, literacy, sex ratio, speaker and share figures from memory",
+            "9 JULY 2024 → Ministry of Tribal Affairs state-wise list of vulnerable tribal groups"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "READING → identity and habitat remain geographically organised for present policy",
+            "CENSUS RULE → the last completed all-India Census is the baseline for any figure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SURVEY RULE → a newer figure must carry a named survey and its date.",
+      "source_references": [
+        "Vulnerable-community mapping anchor",
+        "Density-poverty qualification",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\37_Cultural-and-Social-Geography-of-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g4\\geography-37_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-37\\g5\\geography-37_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 350B CREATES THE OFFICE OF THE COMMISSIONER FOR",
+          "role": "institution"
+        },
+        {
+          "text": "THIS IS WHERE CULTURAL GEOGRAPHY MEETS CONSTITUTIONAL GEOGRAPHY",
+          "role": "comparison"
+        },
+        {
+          "text": "LANGUAGE IS NOT",
+          "role": "caution"
+        },
+        {
+          "text": "ONLY A SOCIAL FACT BUT ALSO AN ADMINISTRATIVE AND",
+          "role": "primary"
+        },
+        {
+          "text": "LINGUISTIC STATES REDUCED SOME TENSIONS AFTER REORGANISATION, BUT DID",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT ERASE MINORITY POCKETS, BORDER DIALECTS OR METROPOLITAN MULTILINGUALISM.",
+          "role": "caution"
+        },
+        {
+          "text": "CENSUS 2011 IS STILL THE CORRECT ALL-INDIA BENCHMARK FOR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Article 350B creates the office of the Commissioner for Linguistic Minorities .",
+            "CAUTION: This is where cultural geography meets constitutional geography: language is not",
+            "only a social fact but also an administrative and rights-based category.",
+            "CAUTION: Linguistic states reduced some tensions after reorganisation, but did"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "not erase minority pockets, border dialects or metropolitan multilingualism.",
+            "Census 2011 is still the correct all-India benchmark for language and religion",
+            "data in UPSC answers unless a newer official release is specifically available.",
+            "India has 22 scheduled languages in the Eighth Schedule."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Linguistic families and scheduled languages are different classification levels.",
+            "Scheduled Areas (Fifth Schedule) and Sixth Schedule areas are not the same constitutional mechanism.",
+            "PVTG count = 75, across 18 states and 1 UT, as per Ministry of Tribal Affairs' July 2024 list.",
+            "NOT: Scheduled language = majority language in every district of its state - linguistic geography always has transition zones and minority belts."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

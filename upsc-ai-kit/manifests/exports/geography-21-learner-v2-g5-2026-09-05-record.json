@@ -1,0 +1,173 @@
+{
+  "record_id": "geography-21:learner-v2:g5",
+  "topic_key": "geography-21",
+  "variant": "learner-v2",
+  "generation": 5,
+  "supersedes": "geography-21:learner-v2:g4",
+  "command": "Generate learner-v2 topic: Geography — Part A — Physical Geography — Warm Temperate Eastern Margin China Type — Learner-v2 refreshed — Regenerate",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Complete-Learning-Session_2026-09-05.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Solved-Practice-Workbook_2026-09-05.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Complete-Learning-Session_2026-09-05.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Solved-Practice-Workbook_2026-09-05.md",
+  "generated_on": "2026-09-05",
+  "approved": false,
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "geography-21:learner-v2:g5"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-05",
+    "validator": "regenerate_geography_part_a_deep_review.py"
+  },
+  "provenance": {
+    "workflow": "geography-deep-review-immutable-successor",
+    "source_basic": "upsc-ai-kit\\knowledge\\Geography\\basic\\21_Warm-Temperate-Eastern-Margin-China-Type.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Geography\\advanced\\21_India-Humid-Subtropical-NE.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Geography\\basic\\21_Warm-Temperate-Eastern-Margin-China-Type.md",
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+    ],
+    "local_ocr_sources": [
+      "books\\GC Leong - Certificate Physical and human Geography.pdf",
+      "books\\Indian & World Geography - Husain, Majid_Compressed.pdf",
+      "books\\Indian-geography-majid-hussain.pdf"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Complete-Learning-Session_2026-09-05.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.5"
+    },
+    "generation_date": "2026-09-05",
+    "superseded_v1": "geography-21:legacy-v1:g1",
+    "refresh": {
+      "id": "learner-v2-refreshed-2026-08-22",
+      "source_record": "geography-21:learner-v2:g2",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography\\geography-21_Learning-Session.md",
+      "source_hashes": {
+        "books\\GC Leong - Certificate Physical and human Geography.pdf": "80cee21f9075731f1841cb3714645df94846f4b215ab5f0c1948aac4ab71998a",
+        "books\\Indian & World Geography - Husain, Majid_Compressed.pdf": "8770f543912124259376881085c94676d330f89d455666d46aaa22f751ba10fb",
+        "books\\Indian-geography-majid-hussain.pdf": "1d7ab9edf8779c0f3c812fe56787084f619989e4e1adaffa9f1e43f0cb182c41",
+        "notes\\Geography\\learning-session-v2\\part-a-physical-geography\\notes\\geography-21_Learning-Session_2026-09-01.pdf": "f347138a0361ffaf6087f90d024621774133c81722ab0ea5769379bad459fe8b",
+        "notes\\Geography\\learning-session-v2\\part-a-physical-geography\\workbooks\\geography-21_Solved-Workbook_2026-09-01.pdf": "d1bd03f6236bc20e4d1101fbc975575f4c00d66be1b2fe1a240959b13513eb2f",
+        "tools\\markdown_learning_pdf.py": "108ddedd5ca09a14d0bbdf021a94cb5ee4206f4864f268a70e7edd8ef97064d2",
+        "tools\\validate_v2_export.py": "9f47e27b6447c4b48ee86f63179f1218947e394d4fe9823dbbcc1910b544593a",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+        "upsc-ai-kit\\knowledge\\Geography\\21_India-Humid-Subtropical-NE_Complete-Topic-Package.md": "8229d55f8b875ac2c47a6642c2855d26bde8e6ac12bbcc9b54157c739299555d",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\21_India-Humid-Subtropical-NE.md": "b0bb51f1739c29e578f42af1d624c4a15bf850c3a3240a1b4a10c539af0fc366",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\21_Warm-Temperate-Eastern-Margin-China-Type.md": "f4ce8a0cee4bb794847c97e78da7e65ca63996e2f2821e8f0e96c7ae12c14c96",
+        "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography\\geography-21_Learning-Session.md": "8229d55f8b875ac2c47a6642c2855d26bde8e6ac12bbcc9b54157c739299555d",
+        "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography\\geography-21_Solved-Workbook.md": "450683f6b3773880bc88ccfaa2b3b2b524f28be1ec9e4f258712dd532b54c2e3"
+      },
+      "session_contract": "named-session definition/opening/keywords/use/closure",
+      "mcq_keys": "strict A-B-C-D rotation",
+      "tracker_updated": false,
+      "tracker_sha256": "7828b78a7758020bcb919b9d83229a610c7d0cb02c5b78f3316d84cdbbd1fc32"
+    },
+    "graphical_renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0",
+      "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62"
+    },
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Solved-Practice-Workbook_2026-09-05.md",
+    "content_spec": "upsc-ai-kit\\manifests\\v2\\geography--subject-wide-syllabus-content-specs\\geography-21-g5.json",
+    "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Geography\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+      "upsc-ai-kit\\knowledge\\Geography\\00_Master-Framework.md": "e8c1a5fbe4ea76be86872d0a710e17de0827f2c59c92c850685529520d1ef649",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\21_India-Humid-Subtropical-NE.md": "b0bb51f1739c29e578f42af1d624c4a15bf850c3a3240a1b4a10c539af0fc366",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\21_Warm-Temperate-Eastern-Margin-China-Type.md": "6f8b01801742e546bdb28df104bb8e8594d82c3cc9a4fd1dca97734d4dd66ae9",
+      "upsc-ai-kit\\knowledge\\Geography\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "5423e188aa0c98932e8b8bc5f9d9a465c14593fd0dee3ea3a916f04b72dc1f2b"
+    },
+    "repair_scope": "fresh immutable identity; explicit evidence and contested-claim discipline; question-specific answer controls; strict MCQ sequence; fresh twelve-stage graphical and ASCII masters",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-21-deep-review-2026-09-05-g5.json",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\ascii-master.pdf",
+    "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5",
+    "deliverable_hashes": {
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Complete-Learning-Session_2026-09-05.md": "c5de0fd99e448f5d1418f798d4a6f4f1fa212a8f2d85068ae6d3a2537d41ad8e",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Solved-Practice-Workbook_2026-09-05.md": "c043fb4decb9476e8975a60d768d24e60ec5e20ecc0e944e9bddd3cb77faebc1",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Complete-Learning-Session_2026-09-05.pdf": "4c77b377bcece658d9d1724ee7c94d04b737472ebe25de72961b6e29a3c9ce89",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Solved-Practice-Workbook_2026-09-05.pdf": "41bbb97b806c9ab4cf7b38f5fafe97605b92524053a26e1fb9bf3bf580182d67",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\validation\\main-visual-audit-map.json": "7f04b4c1fe5ceaf7a667a42216dcb16fd3442f11d5c87406036f5051e26b7f2f",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\validation\\workbook-visual-audit-map.json": "534daabffb7438221bcb1e293755811535d5236e220663e29026cd7e4ec7c206",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-21-deep-review-2026-09-05-g5.json": "7e268b4b10dfea20ff9b4f470c924ddfee4f58b14d28a1f91f9facbb98456f95",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Geography\\deep-review\\geography-21-g5.json": "6d92d6b5a143db294bd187444b4a5961478770f21bf2cea801df74dffa8070fa",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\assets\\geography-21_Teaching-Navigation_2026-08-22.png": "c43e1ba8244b5d23adc437f4e58d08b314a9785a818ab3443fef5fd173b910ce",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\ascii-master.pdf": "6ff0194e2af5c80588cfa15bb9139d4d2d40417e1a3d8ec6706db4f2475cb1c7",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\ascii-master.txt": "f304875f28dbd3acfec5e50dbe7c3c30689a09469c1fca41f2251bd87140d967",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\build-audit.json": "0aece41ae3b9b1c7a7e4b8feafa32e8ef82d9144b1fa951e0b7ff5e4043e94ba",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\master.png": "56ccbb47fb167eb79bbf0102fdf5ee45ff62d3ae01adc36651ca0634bf5e5835",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\poster.pdf": "2207541142154b2e1d4eebdbe5c0cd597ce8132b016dae775bf9ab838ebb7d76",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\preservation-hashes.json": "d606465a2395b3dcaaf3ae9be31b264c569f07a79ed3334fdf76a57d2b3548c8",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\README.txt": "36cf1bb8dd837d74db0eb088a3a41b142431487d54f88e0551bd91b7e4fb6e7b",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\tiled.pdf": "627be2644389a4402a6cc25e265e3db3c952e32a3dbcfe2bf229a6223aaeac06",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\validation-report.txt": "f31036314f05c44a244d4a02eef4a2097f0761a56a00c8aa238e2c63d44a7954",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\editable\\topic-spec.json": "6d92d6b5a143db294bd187444b4a5961478770f21bf2cea801df74dffa8070fa",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\previews\\contact-sheet-01.png": "762fccaacbba9dce8fc67f39e8a37bed7bf0ca3039227787d10fe21d1026818b",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\previews\\master-overview.png": "0f64f1890604a350f782bbef631fe9d62cd36a4ffee389431da495bc4be07ab9",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\previews\\page-001.png": "967d6471e0996c96a51f7e5bb518a718e0cc129944cbadc7836d07a085ca619a",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\previews\\page-002.png": "53920d4cbfe10ddda8d1fe7374904ea1f008618cdbecd0e4a95889c1ffaf9012",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\previews\\page-003.png": "c6a1ad8532e6643f38e80c37659d974aece95103031404cc635efe1b8327fe30",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\previews\\page-004.png": "5b1d5f099bcabbb95c2ca693e88f4ecbfe4e30951c9fc0a14467259c1831b4ec",
+      "upsc-ai-kit\\manifests\\v2\\geography--subject-wide-syllabus-content-specs\\geography-21-g5.json": "7324d4f9f76d9ecad12c17e4e8da6787f712645e10c2ae5733b489bb3817f695"
+    },
+    "live_sources": [
+      "https://asdma.assam.gov.in/",
+      "https://asdma.assam.gov.in/sites/default/files/swf_utility_folder/departments/asdma_revenue_uneecopscloud_com_oid_70/menu/document/declaration_of_floods_2026_natural_disaster001.pdf",
+      "https://cwc.gov.in/sites/default/files/SOP_April_2026-FFM.pdf",
+      "https://rsms.cwc.gov.in/frameWork/web/bulletin-report-page",
+      "https://www.jma.go.jp/jma/en/Activities/rsmc.html"
+    ],
+    "current_linkage_note": "Rechecked 2026-09-05: ASDMA's 2026 flood declaration and live portal, CWC's April 2026 flood-forecasting SOP and bulletin surface, and JMA's RSMC Tokyo portal are the dated authorities for changing Assam flood and western North Pacific cyclone status. No district count, affected-population total, river level, crop loss, storm intensity or track is quoted without its bulletin date. The static Bay-of-Bengal moisture, relief and Brahmaputra floodplain mechanisms remain distinct from any one 2026 event.",
+    "live_sources_rechecked_on": "2026-09-05"
+  },
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\assets",
+  "refresh_profile": "learner-v2-refreshed-2026-08-22",
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5",
+    "master_image": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\editable",
+    "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Geography\\deep-review\\geography-21-g5.json",
+    "graphical_spec_sha256": "6d92d6b5a143db294bd187444b4a5961478770f21bf2cea801df74dffa8070fa",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-21-deep-review-2026-09-05-g5.json",
+    "ascii_master_spec_sha256": "7e268b4b10dfea20ff9b4f470c924ddfee4f58b14d28a1f91f9facbb98456f95",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-21\\carvaka-g5\\ascii-master.pdf",
+    "ascii_master_source": "manual-authored-geography-deep-review-spec"
+  }
+}

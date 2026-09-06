@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "economy-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "economy_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-28",
+      "display_title": "Direct and Indirect Farm Subsidies and WTO Rules",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Farm-support transmission rail",
+          "structural_type": "cause-effect-rail",
+          "ascii_lines": [
+            "OBJECTIVE",
+            "-> DELIVERY CHANNEL",
+            "-> ECONOMIC INCIDENCE",
+            "-> BEHAVIOUR + OUTCOME + WTO TEST",
+            "MUST REMEMBER: Farm support includes budgetary transfers, price support, input subsidies,..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Delivery-classification matrix",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "DIRECT / INDIRECT -> delivery",
+            "EXPLICIT / IMPLICIT -> fiscal visibility",
+            "GREEN / AMBER / BLUE -> WTO criteria",
+            "LABEL != legal result"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Income-support boundary",
+          "structural_type": "eligibility-map",
+          "ascii_lines": [
+            "ELIGIBLE RECORD",
+            "-> CASH TRANSFER",
+            "-> HOUSEHOLD LIQUIDITY",
+            "TENANT + SHARECROPPER exclusion risk"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Fertiliser support chain",
+          "structural_type": "principal-agent-map",
+          "ascii_lines": [
+            "GOVERNMENT",
+            "-> COMPANY CLAIM AFTER PoS SALE",
+            "-> LOWER FARMER PRICE",
+            "DBT != buyer cash transfer"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Nutrient-pricing split",
+          "structural_type": "classification-tree",
+          "ascii_lines": [
+            "NBS -> notified P + K grades",
+            "UREA -> separate regime",
+            "RELATIVE PRICE -> nutrient choice",
+            "AFFORDABILITY != balanced use"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Water-energy-crop loop",
+          "structural_type": "feedback-loop",
+          "ascii_lines": [
+            "CHEAP POWER -> PUMPING",
+            "PUMPING -> WATER-INTENSIVE CROP",
+            "GROUNDWATER FALL -> MORE ENERGY",
+            "REFORM needs crop + aquifer safeguards",
+            "CLOSE DISTINCTION: Direct versus indirect subsidy is not WTO green/amber/blue..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Risk-support audit",
+          "structural_type": "risk-board",
+          "ascii_lines": [
+            "CREDIT -> liquidity",
+            "INSURANCE -> specified risk transfer",
+            "BASIS RISK + DELAY",
+            "SUBSIDY != viable farm system"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Price-support distinctions",
+          "structural_type": "four-way-map",
+          "ascii_lines": [
+            "MSP -> announcement",
+            "PROCUREMENT -> actual operation",
+            "BUDGET -> fiscal expenditure",
+            "AMS -> WTO methodology"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "WTO box map",
+          "structural_type": "classification-tree",
+          "ascii_lines": [
+            "AMBER -> non-exempt distortion",
+            "GREEN -> criteria-based minimal distortion",
+            "BLUE -> production-limiting payment",
+            "ARTICLE 6.2 -> development flexibility"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "De minimis and AMS",
+          "structural_type": "formula-board",
+          "ascii_lines": [
+            "PRODUCT-SPECIFIC -> separate test",
+            "NON-PRODUCT-SPECIFIC -> separate test",
+            "DEVELOPING COUNTRY -> general 10%",
+            "PRICE GAP x ELIGIBLE PRODUCTION"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Public-stockholding status",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "FOOD-SECURITY PROGRAMME",
+            "-> BALI 2013 INTERIM SHIELD",
+            "-> TRANSPARENCY + CONDITIONS",
+            "PEACE CLAUSE != permanent solution"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Farm-subsidy answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CLASSIFY delivery + objective",
+            "TRACE incidence + distortion",
+            "APPLY WTO category + status",
+            "REFORM with transition protection",
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Qualify eligible production value, external..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

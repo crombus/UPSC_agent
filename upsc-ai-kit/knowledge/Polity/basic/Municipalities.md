@@ -151,4 +151,43 @@ ULBs); **16th Finance Commission** grants to urban bodies keep the debate live.
 - ✅ **Articles 243ZB/ZC/ZF:** the President may adapt Part IXA for Union Territories; Scheduled and tribal areas are excluded and Parliament may extend it to Scheduled Areas; inconsistent old municipal laws continued for at most one year, while existing municipalities continued to term unless lawfully dissolved.
 - ✅ **DPC/MPC:** DPC has at least four-fifths elected from district-Panchayat and municipal elected members in the rural:urban population ratio; MPC has at least two-thirds elected from municipal elected members and Panchayat chairpersons in the municipality:Panchayat population ratio. Both prepare a draft plan which the chair forwards to the State Government.
 - ⚖️ **Judgments:** *Kishansing Tomar* (2006) protects timely local elections; *K. Krishna Murthy* (2010) and *Vikas Kishanrao Gawali* (2021) control backward-class political reservation; *Fouziya Imtiaz Shaikh* (2021) protects SEC independence.
-- 📰 **Dated controls, checked 28 August 2026:** RBI's *Report on Municipal Finances* (2022), Sixteenth Finance Commission report/action memorandum for 2026–31, AMRUT 2.0 guidelines/toolkit, and SEBI's municipal-debt framework/current statistics. Treat dashboard and issuance totals as dated, not permanent.
+- 📰 **Dated controls, checked 5 September 2026:** RBI's *Report on Municipal Finances* (2022), Sixteenth Finance Commission report/action memorandum for 2026–31, AMRUT 2.0 guidelines/toolkit, and SEBI's municipal-debt framework/current statistics. Treat dashboard and issuance totals as dated, not permanent.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional birth:** the Constitution (Seventy-fourth Amendment) Act, 1992
+  inserted Part IXA and the Twelfth Schedule and commenced on 1 June 1993.
+  Articles 243P-243ZG and the eighteen Schedule matters are the exact core.
+- **Municipal types:** Article 243Q distinguishes Nagar Panchayat, Municipal
+  Council and Municipal Corporation and contains the industrial-township proviso.
+  State notification and State law determine the actual institutional form.
+- **Democratic design:** Articles 243R-243V govern composition, Ward Committees,
+  reservation, five-year duration and disqualification. Article 243S requires
+  Ward Committees at population three lakh or more; Article 243T fixes the
+  constitutional one-third women's floor and population-linked SC/ST reservation.
+- **Election and continuity:** Article 243U uses the same before-expiry/within-six-
+  months rule and unexpired-term principle; Article 243ZA assigns elections to the
+  State Election Commission and Article 243ZG bars ordinary electoral interference.
+- **Functional and fiscal limit:** Article 243W and the Twelfth Schedule are
+  enabling rather than self-executing. Article 243X permits State-law taxes,
+  assignments, grants and funds; Article 243Y uses the Article 243I State Finance
+  Commission. Constitutional existence is not automatic three-F devolution.
+- **Planning precision:** Article 243ZD requires at least four-fifths elected
+  representation on a District Planning Committee; Article 243ZE requires at
+  least two-thirds on a Metropolitan Planning Committee. A metropolitan area is
+  ten lakh or more under Article 243P(c); planning committees do not themselves
+  control every parastatal, budget or land power.
+- **Scope controls:** Articles 243ZB/ZC apply/adapt Part IXA to Union Territories
+  and exclude Scheduled/tribal areas subject to the constitutional extension
+  route; Article 243ZF governed transition and Article 243ZG the election bar.
+- **Current finance:** the Sixteenth Finance Commission covers 2026-27 to
+  2030-31 and recommends a 60:40 rural-urban aggregate split, with basic and
+  performance components; these are dated grant recommendations, not permanent
+  constitutional ratios.
+- **Current regulation:** AMRUT 2.0 remains a scheme/reform framework rather than
+  constitutional devolution. The SEBI (Issue and Listing of Municipal Debt
+  Securities) Regulations, 2015 were amended on 8 July 2026, followed by the
+  11 August 2026 implementation circular; municipal bonds remain debt, not own tax.
+- **Four-ledger/PYQ control:** direct 2023 functional-financial empowerment and
+  routed 2024 rural-urban merger demands were retained. Topic 23 owns rural
+  institutions; Topic 26 owns excluded Scheduled/tribal-area architecture.

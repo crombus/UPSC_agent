@@ -1,0 +1,267 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "map_and_current_status_discipline": true,
+    "human_economic_regional_spatial_control": true,
+    "models_india_data_policy_chronology_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-29",
+      "display_title": "Regional Development and Five Year Plans",
+      "active_generation": 6,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g6\\geography-29_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Diversity versus disparity",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DIVERSITY -> difference of character: language, ecology, culture, crops",
+            "DISPARITY -> ranked inequality: income, literacy, health, infrastructure",
+            "POLICY -> diversity is accommodated; disparity is reduced",
+            "TRAP -> treating inequality as harmless variety is a direct exam error",
+            "MUST REMEMBER: Regional development links spatial inequality, cumulative causation, growth",
+            "  poles, spread and backwash, core-periphery, agropolitan and balanced/unbalanced strategies",
+            "  to India's planning regions, river-valley projects, industrial location, infrastructure",
+            "  corridors and district-level intervention.",
+            "MUST REMEMBER: Regional development links spatial inequality, cumulative causation, growth",
+            "  poles, spread and backwash, core-periphery, agropolitan and balanced/unbalanced strategies",
+            "  to India's planning regions, river-valley projects, industrial location, infrastructure",
+            "  corridors and district-level intervention."
+          ],
+          "source_references": [
+            "Disparity versus diversity",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g5\\geography-29_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g6\\geography-29_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Uneven development drivers",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "RESOURCE ENDOWMENT -> minerals, fertile land, ports or irrigation cluster growth",
+            "TRANSPORT + MARKET -> corridors and urban nodes outpace interiors",
+            "HISTORICAL HEAD START -> earlier centres keep cumulative advantage",
+            "STATE CAPACITY -> policy and governance decide whether lagging regions catch up"
+          ],
+          "source_references": [
+            "Uneven development drivers",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g5\\geography-29_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g6\\geography-29_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Growth pole mechanism",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PROPULSIVE NODE -> dynamic industry or city becomes the growth pole",
+            "LINKAGES -> suppliers, labour and markets cluster around the pole",
+            "SPREAD EFFECT -> benefits diffuse outward if linkages deepen locally",
+            "LIMIT -> a pole may remain an enclave without regional diffusion"
+          ],
+          "source_references": [
+            "Perroux growth pole idea",
+            "Balanced-unbalanced growth debate",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g5\\geography-29_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g6\\geography-29_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Core-periphery and backwash",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CORE -> capital, services, infrastructure and decision power concentrate",
+            "PERIPHERY -> labour, raw materials and demand are organised around the core",
+            "BACKWASH -> talent and capital drain outward toward the core",
+            "SPREAD -> technology and demand may diffuse, but not automatically"
+          ],
+          "source_references": [
+            "Friedmann core-periphery logic",
+            "Myrdal spread and backwash",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g5\\geography-29_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g6\\geography-29_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Planning region criteria",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FUNCTIONAL UNITY -> flows and linkages hold the region together",
+            "ADMINISTRATIVE MANAGEABILITY -> policy must actually be implementable",
+            "ECONOMIC + ECOLOGICAL VIABILITY -> strategy and resource base must align",
+            "SOCIAL ACCEPTABILITY -> regional identity and needs affect success"
+          ],
+          "source_references": [
+            "Planning region criteria",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g5\\geography-29_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g6\\geography-29_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Indian planning timeline",
+          "structural_type": "timeline-strip",
+          "ascii_lines": [
+            "1938 -> National Planning Committee begins the planning imagination",
+            "1950-51 -> Planning Commission set up and First Plan launched",
+            "1966-69 -> Annual Plans after war, drought and macro stress",
+            "2012-17 / 2015 -> Twelfth Plan last cycle; NITI replaces Planning Commission"
+          ],
+          "source_references": [
+            "National Planning Committee 1938",
+            "Planning Commission and First Plan",
+            "Annual Plans and last cycle",
+            "NITI replacement date",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g5\\geography-29_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g6\\geography-29_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "First versus Second Plan",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FIRST PLAN -> irrigation, agriculture, refugee resettlement, power",
+            "SECOND PLAN -> heavy industry and public-sector industrial base",
+            "SPATIAL LOGIC -> agrarian recovery first, industrial concentration next",
+            "TRAP -> do not swap the priorities of the two plans"
+          ],
+          "source_references": [
+            "First Plan priorities",
+            "Second Plan heavy industry",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g5\\geography-29_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g6\\geography-29_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Why imbalance persisted",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "UNEVEN IRRIGATION -> Green Revolution gains stayed regionally selective",
+            "INDUSTRIAL CONCENTRATION -> ports, metros and corridors pulled ahead",
+            "CONNECTIVITY + GOVERNANCE GAPS -> interiors remained infrastructure-poor",
+            "OUTCOME -> balanced regional development stayed incomplete"
+          ],
+          "source_references": [
+            "Balanced development remained incomplete",
+            "Uneven development drivers",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g5\\geography-29_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g6\\geography-29_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Planning Commission versus NITI",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "PLANNING COMMISSION -> centralised plan formulation and outlay logic",
+            "NITI AAYOG -> think-tank coordination, competitive and cooperative federalism",
+            "PLAN DOCUMENTS -> long-horizon allocation framework",
+            "DASHBOARDS -> indicator monitoring and mission-mode comparison"
+          ],
+          "source_references": [
+            "NITI replacement date",
+            "NITI planning style",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g5\\geography-29_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g6\\geography-29_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "District and block targeting ladder",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "STATE AVERAGE -> useful but hides internal inequality",
+            "DISTRICT TARGETING -> Aspirational Districts brings lagging districts into focus",
+            "BLOCK TARGETING -> scale moves further downward where district averages still hide gaps",
+            "GEOGRAPHIC LESSON -> intra-state disparity is a first-order planning problem",
+            "CLOSE DISTINCTION: Five Year Plans ended after the Twelfth Plan period and the Planning",
+            "  Commission was replaced by NITI Aayog in 2015; plan strategy, Finance Commission transfers,",
+            "  centrally sponsored schemes, NITI cooperative/competitive federalism and constitutional",
+            "  local planning are institutionally distinct.",
+            "CLOSE DISTINCTION: Five Year Plans ended after the Twelfth Plan period and the Planning",
+            "  Commission was replaced by NITI Aayog in 2015; plan strategy, Finance Commission transfers,",
+            "  centrally sponsored schemes, NITI cooperative/competitive federalism and constitutional",
+            "  local planning are institutionally distinct."
+          ],
+          "source_references": [
+            "Aspirational Districts",
+            "District and block targeting",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g5\\geography-29_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g6\\geography-29_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "SDG-style benchmarking",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SDG INDIA INDEX 2023-24 -> overall India score 71",
+            "TERRITORIAL INDICATORS -> development is ranked spatially, not only nationally",
+            "CURRENT STYLE -> dashboards complement missions and programme convergence",
+            "SAFE USE -> planning changed form, but not the geography of disparity",
+            "EVIDENCE LIMIT: Damodar Valley, NCR, Dandakaranya, command areas, hill/tribal regions,",
+            "  Aspirational Districts and freight/industrial corridors show that growth-node benefits",
+            "  depend on linkages, displacement, skills, ecology and state capacity; convergence is an",
+            "  empirical result, not an automatic consequence of investment.",
+            "EVIDENCE LIMIT: Damodar Valley, NCR, Dandakaranya, command areas, hill/tribal regions,",
+            "  Aspirational Districts and freight/industrial corridors show that growth-node benefits",
+            "  depend on linkages, displacement, skills, ecology and state capacity; convergence is an",
+            "  empirical result, not an automatic consequence of investment."
+          ],
+          "source_references": [
+            "SDG India Index 2023-24",
+            "NITI planning style",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g5\\geography-29_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g6\\geography-29_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Regional development answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> disparity versus diversity and the meaning of regional planning",
+            "EXPLAIN -> growth pole, core-periphery, spread and backwash",
+            "TRACE -> 1938 committee, First Plan, Second Plan, NITI transition",
+            "QUALIFY -> district dashboards matter because state averages conceal disparity"
+          ],
+          "source_references": [
+            "Disparity versus diversity",
+            "National Planning Committee 1938",
+            "NITI planning style",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\29_Regional-Development-and-Five-Year-Plans.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g5\\geography-29_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-29\\g6\\geography-29_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

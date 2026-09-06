@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T03:28:57+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\international-relations-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "9fdcdcbe1b46ca1331d62b5b585da31123c2294cb246a8914e0acab6f3295cec",
+    "sha256_after": "9fdcdcbe1b46ca1331d62b5b585da31123c2294cb246a8914e0acab6f3295cec",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "International Relations": 1
+  },
+  "sections": {
+    "International Relations — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 10941,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1858,
+    "json_count": 4858,
+    "total_bytes": 4271116218,
+    "by_extension": {
+      ".json": 4858,
+      ".md": 1858,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "international-relations-08",
+      "topic_title": "Global South and Development Partnering",
+      "subject": "International Relations",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 8,
+      "source_record_id": "international-relations-08:learner-v2:g5",
+      "source_generation": 5,
+      "destination_folder": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\08-Global-South-and-Development-Partnering",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-08\\g5\\international-relations-08_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\08-Global-South-and-Development-Partnering\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "a1f4dd179deb14694d5f7742ffe9ddd9d32c722035e39442fc2c8985c4c5f5c6",
+          "output_sha256": "a1f4dd179deb14694d5f7742ffe9ddd9d32c722035e39442fc2c8985c4c5f5c6",
+          "source_output_equal": true,
+          "bytes": 865025
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-08\\g5\\international-relations-08_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\08-Global-South-and-Development-Partnering\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "78a81259954a19d9ec37aad1cd2776f2881914f2652195facb37669bd2d219db",
+          "output_sha256": "78a81259954a19d9ec37aad1cd2776f2881914f2652195facb37669bd2d219db",
+          "source_output_equal": true,
+          "bytes": 667667
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-08\\carvaka-g5\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\08-Global-South-and-Development-Partnering\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "a345ecd89cf6e60b88a4eb63aa8b4959e909ed24d5cfe961e7da0bc307ebabf6",
+          "output_sha256": "a345ecd89cf6e60b88a4eb63aa8b4959e909ed24d5cfe961e7da0bc307ebabf6",
+          "source_output_equal": true,
+          "bytes": 2584070
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-08\\carvaka-g5\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\08-Global-South-and-Development-Partnering\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "5935d8537848c8eeae72fb3a0f8b923e93dd424e802945787d0aa129e9afdf24",
+          "output_sha256": "5935d8537848c8eeae72fb3a0f8b923e93dd424e802945787d0aa129e9afdf24",
+          "source_output_equal": true,
+          "bytes": 3573688
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-08\\carvaka-g5\\master.png",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\08-Global-South-and-Development-Partnering\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "6353eda3b548576b77dba3350022cebcef6fd9d2d90727280727cbf7a8cb2db7",
+          "output_sha256": "6353eda3b548576b77dba3350022cebcef6fd9d2d90727280727cbf7a8cb2db7",
+          "source_output_equal": true,
+          "bytes": 2287621
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-08\\carvaka-g5\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\08-Global-South-and-Development-Partnering\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "f8721ea2ee7ebb3b4e28f11cc6c977b753354f2b2464faa3c4155d6760e1aeeb",
+          "output_sha256": "f8721ea2ee7ebb3b4e28f11cc6c977b753354f2b2464faa3c4155d6760e1aeeb",
+          "source_output_equal": true,
+          "bytes": 7477
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-08\\carvaka-g5\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\08-Global-South-and-Development-Partnering\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "176e07828e1f9f769d42559133a37f5fa7a914dc1ee9d40804818da1ebe454ce",
+          "output_sha256": "176e07828e1f9f769d42559133a37f5fa7a914dc1ee9d40804818da1ebe454ce",
+          "source_output_equal": true,
+          "source_text_sha256": "f8721ea2ee7ebb3b4e28f11cc6c977b753354f2b2464faa3c4155d6760e1aeeb",
+          "normalized_text_equal": true,
+          "bytes": 59254
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 9,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 9,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 11,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 9,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 8,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 9,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 8,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 8,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 8,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 9,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 9,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 8,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 130,
+        "solved_practice_workbook": 81,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 130,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 81,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          12026
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

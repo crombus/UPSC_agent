@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T03:40:01+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\international-relations-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "1fcfb5f12f7ecff00de7231108472262bb06823252719c570032e909a74fafac",
+    "sha256_after": "1fcfb5f12f7ecff00de7231108472262bb06823252719c570032e909a74fafac",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "International Relations": 1
+  },
+  "sections": {
+    "International Relations — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 10965,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1862,
+    "json_count": 4878,
+    "total_bytes": 4270783511,
+    "by_extension": {
+      ".json": 4878,
+      ".md": 1862,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "international-relations-12",
+      "topic_title": "UN and International Institutions: Global Governance",
+      "subject": "International Relations",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 12,
+      "source_record_id": "international-relations-12:learner-v2:g5",
+      "source_generation": 5,
+      "destination_folder": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\12-UN-and-7a7ccb42-Global-Governance",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-12\\g5\\international-relations-12_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\12-UN-and-7a7ccb42-Global-Governance\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "a6f933e27f8db32e82feb211728a5c4e0fd39b6ee6b94258858a987674cb53d1",
+          "output_sha256": "a6f933e27f8db32e82feb211728a5c4e0fd39b6ee6b94258858a987674cb53d1",
+          "source_output_equal": true,
+          "bytes": 1106219
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-12\\g5\\international-relations-12_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\12-UN-and-7a7ccb42-Global-Governance\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "cb425456599b368b147010c076884ade99933acead8d293e5bc745fe8e53aa9d",
+          "output_sha256": "cb425456599b368b147010c076884ade99933acead8d293e5bc745fe8e53aa9d",
+          "source_output_equal": true,
+          "bytes": 848796
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-12\\carvaka-g5\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\12-UN-and-7a7ccb42-Global-Governance\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "2c82161086e0d3d89da60c53edf9b775a128867c6894690678c31c7415e859a5",
+          "output_sha256": "2c82161086e0d3d89da60c53edf9b775a128867c6894690678c31c7415e859a5",
+          "source_output_equal": true,
+          "bytes": 2883956
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-12\\carvaka-g5\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\12-UN-and-7a7ccb42-Global-Governance\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "4a4c069725bde45f2e4f4614873b7556b5799b56f05867821986b80b66622c8b",
+          "output_sha256": "4a4c069725bde45f2e4f4614873b7556b5799b56f05867821986b80b66622c8b",
+          "source_output_equal": true,
+          "bytes": 3626751
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-12\\carvaka-g5\\master.png",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\12-UN-and-7a7ccb42-Global-Governance\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "1e8b2ab2662993e89c9f1a611f654939ced085b1462f18270a231de44d7744e7",
+          "output_sha256": "1e8b2ab2662993e89c9f1a611f654939ced085b1462f18270a231de44d7744e7",
+          "source_output_equal": true,
+          "bytes": 2559448
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-12\\carvaka-g5\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\12-UN-and-7a7ccb42-Global-Governance\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "98190130259b9d0b6afe011baeb1cffd496422e61782cfe8ae0f76e4aa31d990",
+          "output_sha256": "98190130259b9d0b6afe011baeb1cffd496422e61782cfe8ae0f76e4aa31d990",
+          "source_output_equal": true,
+          "bytes": 10015
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-12\\carvaka-g5\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\12-UN-and-7a7ccb42-Global-Governance\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "c0f0f2900eb8dc7e955fc55b6ceba261310afa4e7fb2127315a9b10011021bb2",
+          "output_sha256": "c0f0f2900eb8dc7e955fc55b6ceba261310afa4e7fb2127315a9b10011021bb2",
+          "source_output_equal": true,
+          "source_text_sha256": "98190130259b9d0b6afe011baeb1cffd496422e61782cfe8ae0f76e4aa31d990",
+          "normalized_text_equal": true,
+          "bytes": 60845
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 11,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 13,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 10,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 11,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 12,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 12,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 13,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 12,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 13,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 10,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 14,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 13,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 189,
+        "solved_practice_workbook": 125,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 189,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 125,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          12832
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

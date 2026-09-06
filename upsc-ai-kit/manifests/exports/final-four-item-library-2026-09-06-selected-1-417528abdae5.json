@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T04:15:44+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\economy-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "d1e0b6a9e8173bbd07a1581cd7e53046c632f101efbf21128264486cfca12a7a",
+    "sha256_after": "d1e0b6a9e8173bbd07a1581cd7e53046c632f101efbf21128264486cfca12a7a",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Economy": 1
+  },
+  "sections": {
+    "Economy — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11001,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1868,
+    "json_count": 4908,
+    "total_bytes": 4271128294,
+    "by_extension": {
+      ".json": 4908,
+      ".md": 1868,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "economy-06",
+      "topic_title": "NPAs, Basel Norms, Resolution and Financial Inclusion",
+      "subject": "Economy",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 6,
+      "source_record_id": "economy-06:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\06-NPAs-Basel-Norms-Resolution-and-Financial-Inclusion",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-06\\g3\\economy-06_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\06-NPAs-Basel-Norms-Resolution-and-Financial-Inclusion\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "3a40a493899fbdf68ecdcb90bec79ca8789521e2d26649833c192ffc443dedb3",
+          "output_sha256": "3a40a493899fbdf68ecdcb90bec79ca8789521e2d26649833c192ffc443dedb3",
+          "source_output_equal": true,
+          "bytes": 642334
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-06\\g3\\economy-06_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\06-NPAs-Basel-Norms-Resolution-and-Financial-Inclusion\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "e9d7d24337363e272b471e3f6210c444392feb5f5817f8b187b35251e0cdf1f4",
+          "output_sha256": "e9d7d24337363e272b471e3f6210c444392feb5f5817f8b187b35251e0cdf1f4",
+          "source_output_equal": true,
+          "bytes": 485446
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-06\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\06-NPAs-Basel-Norms-Resolution-and-Financial-Inclusion\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "7861dd429d369f494641d05de5fcd345759f28ca362fa33ffd96b01c178be7be",
+          "output_sha256": "7861dd429d369f494641d05de5fcd345759f28ca362fa33ffd96b01c178be7be",
+          "source_output_equal": true,
+          "bytes": 1735411
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-06\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\06-NPAs-Basel-Norms-Resolution-and-Financial-Inclusion\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "8b7a85dca408cf2adfe28d214d7bc8f41ca10fa04c0cf07d191be82f7f8e6bd4",
+          "output_sha256": "8b7a85dca408cf2adfe28d214d7bc8f41ca10fa04c0cf07d191be82f7f8e6bd4",
+          "source_output_equal": true,
+          "bytes": 2124113
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-06\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\06-NPAs-Basel-Norms-Resolution-and-Financial-Inclusion\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "1edc459279f21ac5490e501b1ae276da35874e2b8087d5544b0cf1fe2ca847a3",
+          "output_sha256": "1edc459279f21ac5490e501b1ae276da35874e2b8087d5544b0cf1fe2ca847a3",
+          "source_output_equal": true,
+          "bytes": 1541308
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-06\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\06-NPAs-Basel-Norms-Resolution-and-Financial-Inclusion\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "fff14b0e0076d964496316670901e4d87b0db16b348d25af489106a0b9e98b60",
+          "output_sha256": "fff14b0e0076d964496316670901e4d87b0db16b348d25af489106a0b9e98b60",
+          "source_output_equal": true,
+          "bytes": 2784
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-06\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\06-NPAs-Basel-Norms-Resolution-and-Financial-Inclusion\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "42585ef0a1fa794d68b4bd7e741d1bdf2b2481828262d9cdcb8bd3c7322b7c31",
+          "output_sha256": "42585ef0a1fa794d68b4bd7e741d1bdf2b2481828262d9cdcb8bd3c7322b7c31",
+          "source_output_equal": true,
+          "source_text_sha256": "fff14b0e0076d964496316670901e4d87b0db16b348d25af489106a0b9e98b60",
+          "normalized_text_equal": true,
+          "bytes": 55623
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 6,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 52,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 6,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 5,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 81,
+        "solved_practice_workbook": 44,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 81,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 44,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10538
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

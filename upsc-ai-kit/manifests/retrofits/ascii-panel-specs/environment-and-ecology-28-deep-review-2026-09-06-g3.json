@@ -1,0 +1,263 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "environment-and-ecology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "environment_and_ecology_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-28",
+      "display_title": "Species and Current Affairs Tracker",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g3\\environment-and-ecology-28_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Tracker entry template",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "TAXON -> scientific name and rank",
+            "CLAIM TYPE -> status range population law or event",
+            "SOURCE AND DATE -> authoritative issuer and publication",
+            "STATUS VERB -> assessed listed notified observed or proposed",
+            "STATIC LINK AND RECHECK -> concept owner plus expiry trigger",
+            "MUST REMEMBER: A species/current-affairs tracker must bind taxonomic identity, range,...",
+            "MUST REMEMBER: A species/current-affairs tracker must bind taxonomic identity, range,..."
+          ],
+          "source_references": [
+            "Tracker-record boundary",
+            "Stale-current firewall",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g2\\environment-and-ecology-28_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g3\\environment-and-ecology-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Taxonomic identity ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "SCIENTIFIC NAME -> primary identity anchor",
+            "RANK -> species subspecies population or other unit",
+            "COMMON NAME -> secondary discovery label",
+            "TAXONOMIC AUTHORITY -> accepted identity evidence",
+            "RULE -> never transfer claims between units"
+          ],
+          "source_references": [
+            "Taxonomic-identity boundary",
+            "Species-subspecies boundary",
+            "Common-name boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g2\\environment-and-ecology-28_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g3\\environment-and-ecology-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Five-status firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "IUCN -> extinction-risk assessment",
+            "WPA SCHEDULE -> domestic legal protection classification",
+            "CITES APPENDIX -> international trade-control listing",
+            "CMS APPENDIX OR INSTRUMENT -> migratory cooperation",
+            "TAXONOMY -> organism identity, not conservation status"
+          ],
+          "source_references": [
+            "IUCN-assessment boundary",
+            "WPA-legal boundary",
+            "CITES-listing boundary",
+            "CMS-listing boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g2\\environment-and-ecology-28_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g3\\environment-and-ecology-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "IUCN assessment card",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "TAXON -> exact assessed unit",
+            "GEOGRAPHIC SCOPE -> global or stated regional assessment",
+            "CATEGORY -> assessment outcome",
+            "VERSION OR DATE -> currency boundary",
+            "RECHECK -> later assessment can supersede the claim"
+          ],
+          "source_references": [
+            "IUCN-assessment boundary",
+            "IUCN-date boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g2\\environment-and-ecology-28_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g3\\environment-and-ecology-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Legal and treaty date rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "DOMESTIC SCHEDULE -> Act and applicable amendment date",
+            "CITES LISTING -> Appendix and effective trade date",
+            "CMS LISTING -> Appendix or instrument and decision date",
+            "SEPARATE DATABASES -> answer different questions",
+            "RULE -> no cross-system automatic conversion"
+          ],
+          "source_references": [
+            "WPA-legal boundary",
+            "CITES-listing boundary",
+            "CMS-listing boundary",
+            "Cross-source reconciliation",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g2\\environment-and-ecology-28_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g3\\environment-and-ecology-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Range vocabulary map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ENDEMIC -> naturally restricted to defined geography",
+            "NATIVE -> naturally occurs there and may occur elsewhere",
+            "RESIDENT -> present through relevant annual cycle",
+            "MIGRATORY -> regular movement across areas or seasons",
+            "SIGHTING -> occurrence record, not full range proof"
+          ],
+          "source_references": [
+            "Endemic-native boundary",
+            "Range-record boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g2\\environment-and-ecology-28_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g3\\environment-and-ecology-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Habitat and population screen",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "HABITAT ASSOCIATION -> ecological use",
+            "GEOGRAPHIC RANGE -> distribution envelope",
+            "POPULATION SIZE -> estimate for stated unit and date",
+            "POPULATION TREND -> direction across a period",
+            "RISK CATEGORY -> assessment, not a census"
+          ],
+          "source_references": [
+            "Habitat-range boundary",
+            "Population-status boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g2\\environment-and-ecology-28_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g3\\environment-and-ecology-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Trigger-static bridge",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "STATIC ANCHOR -> taxonomy ecology law or treaty concept",
+            "DATED TRIGGER -> assessment notification decision or survey",
+            "SOURCE VERB -> observed assessed listed notified or adopted",
+            "EXAM USE -> one current example with its limit",
+            "UPDATE RULE -> recheck when source changes"
+          ],
+          "source_references": [
+            "Trigger-static boundary",
+            "Status-verb boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g2\\environment-and-ecology-28_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g3\\environment-and-ecology-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "News-to-proof decision tree",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "NEWS OR PRESS RELEASE -> discovery lead",
+            "LEGAL CLAIM -> find official notification or decision",
+            "STATUS CLAIM -> find authoritative assessment database",
+            "RANGE OR POPULATION CLAIM -> find dated study or database",
+            "NO PRIMARY SUPPORT -> omit and record failure"
+          ],
+          "source_references": [
+            "News-notification boundary",
+            "Current evidence boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g2\\environment-and-ecology-28_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g3\\environment-and-ecology-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Rediscovery firewall",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "NEW OBSERVATION -> possible rediscovery or locality record",
+            "IDENTITY VALIDATION -> taxonomic confirmation",
+            "RANGE INTERPRETATION -> evidence synthesis",
+            "FORMAL REASSESSMENT OR LISTING -> separate process",
+            "RULE -> observation alone changes no status automatically",
+            "CLOSE DISTINCTION: Common name is not secure taxonomic identity, rediscovery is not...",
+            "CLOSE DISTINCTION: Common name is not secure taxonomic identity, rediscovery is not..."
+          ],
+          "source_references": [
+            "Rediscovery boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g2\\environment-and-ecology-28_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g3\\environment-and-ecology-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Cross-source reconciliation",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "IDENTITY QUESTION -> taxonomic source",
+            "EXTINCTION-RISK QUESTION -> IUCN assessment",
+            "DOMESTIC LEGAL QUESTION -> WPA text",
+            "TRADE OR MIGRATION QUESTION -> CITES or CMS",
+            "CURRENT TRIGGER -> dated official decision or study",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use source, publication/event date,...",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use source, publication/event date,..."
+          ],
+          "source_references": [
+            "Cross-source reconciliation",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g2\\environment-and-ecology-28_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g3\\environment-and-ecology-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Species tracker answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "IDENTIFY -> scientific name rank and claim unit",
+            "SEPARATE -> IUCN WPA CITES CMS range and population",
+            "DATE -> assessment legal listing and trigger independently",
+            "PAIR -> dated verified item with static anchor",
+            "RECHECK OR OMIT -> prevent stale-current claims"
+          ],
+          "source_references": [
+            "Stale-current firewall",
+            "Current evidence boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\28_Species-and-Current-Affairs-Tracker.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g2\\environment-and-ecology-28_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g3\\environment-and-ecology-28_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

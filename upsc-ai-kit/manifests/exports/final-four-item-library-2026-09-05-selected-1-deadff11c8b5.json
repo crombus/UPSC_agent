@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-05T09:36:45+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "ab7fd232729cd74c3940601a9bdfd4205fed33238f946026a85ee0ca22108cfa",
+    "sha256_after": "ab7fd232729cd74c3940601a9bdfd4205fed33238f946026a85ee0ca22108cfa",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Indian Society": 1
+  },
+  "sections": {
+    "Indian Society — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 10232,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1723,
+    "json_count": 4284,
+    "total_bytes": 4222812369,
+    "by_extension": {
+      ".json": 4284,
+      ".md": 1723,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "indian-society-02",
+      "topic_title": "Caste System: Structure and Contemporary Dynamics",
+      "subject": "Indian Society",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 2,
+      "source_record_id": "indian-society-02:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\02-Caste-System-Structure-and-Contemporary-Dynamics",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-02\\g3\\indian-society-02_Complete-Learning-Session_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\02-Caste-System-Structure-and-Contemporary-Dynamics\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "194d2a57100041a8e669cf5dc71006a713b50e731ae9765925606868bee98082",
+          "output_sha256": "194d2a57100041a8e669cf5dc71006a713b50e731ae9765925606868bee98082",
+          "source_output_equal": true,
+          "bytes": 641687
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-02\\g3\\indian-society-02_Solved-Practice-Workbook_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\02-Caste-System-Structure-and-Contemporary-Dynamics\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "6ab2c762f5a56d7a8e4881a63d2f7489706adde30dd8264e754e2570c9f5cac8",
+          "output_sha256": "6ab2c762f5a56d7a8e4881a63d2f7489706adde30dd8264e754e2570c9f5cac8",
+          "source_output_equal": true,
+          "bytes": 477580
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Society\\SOC\\flowcharts\\iac-02\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\02-Caste-System-Structure-and-Contemporary-Dynamics\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "cb14703f679f08e20cc6af50ced4c3cd8f9f1aa6af2620aa76003dec51d5a241",
+          "output_sha256": "cb14703f679f08e20cc6af50ced4c3cd8f9f1aa6af2620aa76003dec51d5a241",
+          "source_output_equal": true,
+          "bytes": 2011815
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Society\\SOC\\flowcharts\\iac-02\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\02-Caste-System-Structure-and-Contemporary-Dynamics\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "280c1f07039d6fc83948b2d423ceb2947b32d002259dc789c5541e70d05b10b5",
+          "output_sha256": "280c1f07039d6fc83948b2d423ceb2947b32d002259dc789c5541e70d05b10b5",
+          "source_output_equal": true,
+          "bytes": 2422676
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Society\\SOC\\flowcharts\\iac-02\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\02-Caste-System-Structure-and-Contemporary-Dynamics\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "c05d09a75083e1734843fced76583c161acc0c50f9477b570caab175fe16f2c0",
+          "output_sha256": "c05d09a75083e1734843fced76583c161acc0c50f9477b570caab175fe16f2c0",
+          "source_output_equal": true,
+          "bytes": 1777979
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Society\\SOC\\flowcharts\\iac-02\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\02-Caste-System-Structure-and-Contemporary-Dynamics\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "607c145dc2f529d4247b009313de83dca8bb818517305701563dfa7f40cb8ddb",
+          "output_sha256": "607c145dc2f529d4247b009313de83dca8bb818517305701563dfa7f40cb8ddb",
+          "source_output_equal": true,
+          "bytes": 4200
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Society\\SOC\\flowcharts\\iac-02\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\02-Caste-System-Structure-and-Contemporary-Dynamics\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "043dda816dc684f4a3ccad192536c0ca6f570942e60056e4a910a43212ca5ee4",
+          "output_sha256": "043dda816dc684f4a3ccad192536c0ca6f570942e60056e4a910a43212ca5ee4",
+          "source_output_equal": true,
+          "source_text_sha256": "607c145dc2f529d4247b009313de83dca8bb818517305701563dfa7f40cb8ddb",
+          "normalized_text_equal": true,
+          "bytes": 56754
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 9,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 70,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 68,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 9,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 65,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 66,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 5,
+            "maximum_line_characters": 65,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 5,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 9,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 84,
+        "solved_practice_workbook": 46,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 84,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 46,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10906
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

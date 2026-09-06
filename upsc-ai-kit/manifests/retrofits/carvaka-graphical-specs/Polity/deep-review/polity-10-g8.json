@@ -1,0 +1,1226 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-10",
+  "subject": "Polity",
+  "title": "AMENDMENT AND BASIC STRUCTURE",
+  "short_route": "CONSTITUTIONAL CHANGE: FLEXIBLE ROUTES → ARTICLE 368 PROCEDURE: SEPARATE → FEDERAL RATIFICATION: THE EXACT → FROM SHANKARI PRASAD (1951) → BASIC-STRUCTURE ELEMENTS: NON-EXHAUSTIVE AND → NINTH SCHEDULE: INSERTION IS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g8 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\polity-10_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-10-deep-review-2026-09-05-g8.json",
+  "ascii_spec_sha256": "c53aa9f2003140303b0de1563aa16f990ed514574a19e5cac89581ddb5b677ba",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CONSTITUTIONAL CHANGE: FLEXIBLE ROUTES, ENTRENCHED IDENTITY",
+      "structural_type": "change-route-architecture",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CONSTITUTIONAL CHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "FLEXIBLE ROUTES, ENTRENCHED IDENTITY",
+          "role": "outcome"
+        },
+        {
+          "text": "SIMPLE MAJORITY OUTSIDE ARTICLE 368",
+          "role": "institution"
+        },
+        {
+          "text": "+-- ORDINARY LEGISLATIVE POWER; LEGALLY NOT AN ARTICLE 368",
+          "role": "caution"
+        },
+        {
+          "text": "ARTICLE 368 SPECIAL MAJORITY",
+          "role": "institution"
+        },
+        {
+          "text": "+-- MAJORITY OF TOTAL MEMBERSHIP OF EACH HOUSE",
+          "role": "outcome"
+        },
+        {
+          "text": "+-- AT LEAST TWO-THIRDS OF MEMBERS PRESENT AND VOTING",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIAL MAJORITY + RATIFICATION BY AT LEAST HALF OF",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONSTITUTIONAL CHANGE",
+        "SIMPLE MAJORITY OUTSIDE ARTICLE 368",
+        "+-- ordinary legislative power; legally not an Article 368 amendment",
+        "ARTICLE 368 SPECIAL MAJORITY",
+        "+-- majority of total membership of each House"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CONSTITUTIONAL CHANGE",
+            "SIMPLE MAJORITY OUTSIDE ARTICLE 368",
+            "+-- ordinary legislative power; legally not an Article 368 amendment",
+            "ARTICLE 368 SPECIAL MAJORITY"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "+-- majority of total membership of each House",
+            "+-- at least two-thirds of members present and voting",
+            "SPECIAL MAJORITY + RATIFICATION BY AT LEAST HALF OF STATES only for the exact federal proviso subjects",
+            "POWER DISTINCTION ordinary legislative power → changes law within constitutional competence"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "constituent power → changes constitutional text by addition, variation or repeal",
+            "IDENTITY LIMIT",
+            "Parliament may amend every provision, but cannot destroy the Constitution's basic structure.",
+            "MUST REMEMBER: Article 368 constituent power, the dual special majority, the exact federal"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "proviso list, mandatory assent, no joint sitting and simple-majority changes outside Article",
+            "368 must precede the basic-structure doctrine."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Article 368 constituent power, the dual special majority, the exact federal proviso list, mandatory assent, no joint sitting and simple-majority changes outside Article.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\10_Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\polity-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ARTICLE 368 PROCEDURE: SEPARATE HOUSES, NO SHORTCUTS",
+      "structural_type": "article-368-procedure-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARTICLE 368 PROCEDURE",
+          "role": "institution"
+        },
+        {
+          "text": "SEPARATE HOUSES, NO SHORTCUTS",
+          "role": "caution"
+        },
+        {
+          "text": "AMENDMENT BILL MAY ORIGINATE IN EITHER HOUSE OF PARLIAMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "EACH HOUSE PASSES SEPARATELY MAJORITY OF TOTAL MEMBERSHIP TWO-THIRDS",
+          "role": "evidence"
+        },
+        {
+          "text": "NO JOINT SITTING",
+          "role": "caution"
+        },
+        {
+          "text": "FAILURE IN EITHER HOUSE ENDS THE BILL",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE RATIFICATION, IF PROVISO APPLIES RESOLUTIONS BY AT LEAST",
+          "role": "institution"
+        },
+        {
+          "text": "PRESIDENT SHALL ASSENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AMENDMENT BILL may originate in either House of Parliament may be introduced",
+        "by a minister or private member no prior Presidential recommendation is required",
+        "EACH HOUSE PASSES SEPARATELY majority of total membership two-thirds of members",
+        "present and voting abstentions reduce present-and-voting denominator, not total membership",
+        "NO JOINT SITTING → failure in either House ends the Bill"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "AMENDMENT BILL may originate in either House of Parliament may be introduced",
+            "by a minister or private member no prior Presidential recommendation is required"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "EACH HOUSE PASSES SEPARATELY majority of total membership two-thirds of members",
+            "present and voting abstentions reduce present-and-voting denominator, not total membership"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "NO JOINT SITTING → failure in either House ends the Bill",
+            "STATE RATIFICATION, IF PROVISO APPLIES resolutions by at least half of State legislatures no time limit in Article 368; States cannot amend the Bill"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "PRESIDENT SHALL ASSENT → Constitution stands amended",
+            "2026 defeated Bill: total-membership limb passed; two-thirds limb failed."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "2026 defeated Bill: total-membership limb passed; two-thirds limb failed.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\10_Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\polity-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "FEDERAL RATIFICATION: THE EXACT ARTICLE 368 PROVISO MAP",
+      "structural_type": "ratification-subject-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FEDERAL RATIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "THE EXACT ARTICLE 368 PROVISO MAP",
+          "role": "institution"
+        },
+        {
+          "text": "RATIFICATION BY AT LEAST HALF OF STATES IS REQUIRED",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLES 54 AND 55",
+          "role": "evidence"
+        },
+        {
+          "text": "UNION AND STATE EXECUTIVE POWER",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLES 73 AND 162",
+          "role": "outcome"
+        },
+        {
+          "text": "SUPREME COURT AND HIGH COURTS",
+          "role": "institution"
+        },
+        {
+          "text": "CHAPTER IV OF PART V; CHAPTER V OF PART",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RATIFICATION BY AT LEAST HALF OF STATES IS REQUIRED FOR CHANGE TO election of the",
+        "Union and State executive power: Articles 73 and 162",
+        "Supreme Court and High Courts: Chapter IV of Part V",
+        "Chapter V of Part VI distribution of legislative powers: Chapter I of Part XI any",
+        "Article 368 itself"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "RATIFICATION BY AT LEAST HALF OF STATES IS REQUIRED FOR CHANGE TO election of the President: Articles 54 and 55",
+            "Union and State executive power: Articles 73 and 162"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Supreme Court and High Courts: Chapter IV of Part V",
+            "Chapter V of Part VI distribution of legislative powers: Chapter I of Part XI any of the Lists"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Article 368 itself",
+            "NOT THE RULE every amendment with federal consequences every change concerning a Governor consent of every State"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "STATE ROLE ratify or refuse the passed text → no initiation, amendment or joint conference power.",
+            "RATIFICATION BY AT LEAST HALF OF STATES IS REQUIRED FOR CHANGE TO election of the President: Articles 54 and 55"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NOT THE RULE every amendment with federal consequences every change concerning a Governor consent of every State.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\10_Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\polity-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FROM SHANKARI PRASAD (1951) TO MINERVA MILLS (1980): THE CORE DOCTRINE CHAIN",
+      "structural_type": "basic-structure-case-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FROM SHANKARI PRASAD (1951) TO MINERVA MILLS (1980)",
+          "role": "primary"
+        },
+        {
+          "text": "THE CORE DOCTRINE CHAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "SHANKARI PRASAD (1951)",
+          "role": "comparison"
+        },
+        {
+          "text": "AMENDMENT IS NOT ARTICLE 13 \"LAW\"; FR MAY BE",
+          "role": "caution"
+        },
+        {
+          "text": "SAJJAN SINGH (1964)",
+          "role": "primary"
+        },
+        {
+          "text": "AMENDABILITY REAFFIRMED; REPORTED IN 1965 SCR",
+          "role": "outcome"
+        },
+        {
+          "text": "I.C. GOLAKNATH (1967)",
+          "role": "comparison"
+        },
+        {
+          "text": "PARLIAMENT CANNOT AMEND FUNDAMENTAL RIGHTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SHANKARI PRASAD (1951) → amendment is not Article 13 \"law\"; FR may be amended",
+        "Sajjan Singh (1964) → amendability reaffirmed; reported in 1965 SCR",
+        "I.C. GOLAKNATH (1967) → Parliament cannot amend Fundamental Rights",
+        "1971 24TH AMENDMENT → constituent power and mandatory assent affirmed",
+        "1971 25TH AMENDMENT → Article 31C and property-related changes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "SHANKARI PRASAD (1951) → amendment is not Article 13 \"law\"; FR may be amended",
+            "Sajjan Singh (1964) → amendability reaffirmed; reported in 1965 SCR",
+            "I.C. GOLAKNATH (1967) → Parliament cannot amend Fundamental Rights"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "1971 24TH AMENDMENT → constituent power and mandatory assent affirmed",
+            "1971 25TH AMENDMENT → Article 31C and property-related changes",
+            "KESAVANANDA BHARATI (1973) → every provision amendable; basic structure cannot be damaged"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "INDIRA NEHRU GANDHI V. RAJ NARAIN (1975) → free and fair elections / judicial review protect democracy",
+            "1976 42ND AMENDMENT → attempted unlimited amending power",
+            "MINERVA MILLS (1980) → limited amending power and FR-DPSP harmony protected"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Waman Rao (1980) → cut-off fixed; reported in 1981 SCR",
+            "I.R. COELHO (2007) → post-cut-off insertions face basic-structure impact review",
+            "FORMULA: amend the Constitution → do not destroy its constitutional identity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FORMULA: amend the Constitution → do not destroy its constitutional identity.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\10_Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\polity-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "BASIC-STRUCTURE ELEMENTS: NON-EXHAUSTIVE AND CASE-ATTRIBUTED",
+      "structural_type": "basic-elements-constellation",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "BASIC-STRUCTURE ELEMENTS",
+          "role": "primary"
+        },
+        {
+          "text": "NON-EXHAUSTIVE AND CASE-ATTRIBUTED",
+          "role": "outcome"
+        },
+        {
+          "text": "BASIC STRUCTURE IS A JUDICIAL DOCTRINE, NOT A CLOSED",
+          "role": "caution"
+        },
+        {
+          "text": "METHOD IDENTIFY THE AMENDMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "IDENTIFY THE PROTECTED FEATURE",
+          "role": "primary"
+        },
+        {
+          "text": "PROVE DAMAGE, NOT POLICY DISLIKE",
+          "role": "caution"
+        },
+        {
+          "text": "KESAVANANDA BHARATI (1973) DID NOT SUPPLY ONE UNANIMOUS, EXHAUSTIVE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "BASIC STRUCTURE IS A JUDICIAL DOCTRINE, NOT A CLOSED CONSTITUTIONAL LIST supremacy of the",
+        "Constitution republican and democratic government secularism federalism separation of powers rule of law judicial",
+        "review independence of the judiciary free and fair elections dignity, liberty and equality within",
+        "the rights architecture harmony and balance between Fundamental Rights and DPSP limited amending power",
+        "METHOD identify the amendment → identify the protected feature → prove damage, not policy dislike"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "BASIC STRUCTURE IS A JUDICIAL DOCTRINE, NOT A CLOSED CONSTITUTIONAL LIST supremacy of the",
+            "Constitution republican and democratic government secularism federalism separation of powers rule of law judicial"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "review independence of the judiciary free and fair elections dignity, liberty and equality within",
+            "the rights architecture harmony and balance between Fundamental Rights and DPSP limited amending power"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "METHOD identify the amendment → identify the protected feature → prove damage, not policy dislike",
+            "TRAP: Kesavananda Bharati (1973) did not supply one unanimous, exhaustive catalogue."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "BASIC STRUCTURE IS A JUDICIAL DOCTRINE, NOT A CLOSED CONSTITUTIONAL LIST supremacy of the",
+            "Constitution republican and democratic government secularism federalism separation of powers rule of law judicial"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Kesavananda Bharati (1973) did not supply one unanimous, exhaustive catalogue.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\10_Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\polity-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "NINTH SCHEDULE: INSERTION IS NOT IMMUNITY AFTER THE 1973 CUT-OFF",
+      "structural_type": "ninth-schedule-review-process",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "NINTH SCHEDULE",
+          "role": "primary"
+        },
+        {
+          "text": "INSERTION IS NOT IMMUNITY AFTER THE 1973 CUT-OFF",
+          "role": "caution"
+        },
+        {
+          "text": "FIRST AMENDMENT, 1951",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 31B + NINTH SCHEDULE PROTECT LISTED LAWS FROM",
+          "role": "institution"
+        },
+        {
+          "text": "WAMAN RAO (1980)",
+          "role": "primary"
+        },
+        {
+          "text": "24 APRIL 1973 BECOMES THE CONTROLLING CUT-OFF",
+          "role": "outcome"
+        },
+        {
+          "text": "I.R. COELHO (2007) POST-CUT-OFF INSERTIONS ARE REVIEWABLE COURT TESTS",
+          "role": "institution"
+        },
+        {
+          "text": "OUTCOME REVIEWABLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FIRST AMENDMENT, 1951",
+        "Article 31B + Ninth Schedule protect listed laws from specified rights challenge",
+        "Waman Rao (1980)",
+        "24 April 1973 becomes the controlling cut-off",
+        "I.R. COELHO (2007) post-cut-off insertions are reviewable court tests impact on Part III rights forming"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FIRST AMENDMENT, 1951",
+            "Article 31B + Ninth Schedule protect listed laws from specified rights challenge",
+            "Waman Rao (1980)",
+            "24 April 1973 becomes the controlling cut-off"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "I.R. COELHO (2007) post-cut-off insertions are reviewable court tests impact on Part III rights forming part of basic structure",
+            "OUTCOME reviewable != automatically invalid listed != permanently immune pre-cut-off != beyond every constitutional question",
+            "ANSWER TEST",
+            "1 identify insertion date"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "2 identify affected right / basic feature",
+            "3 examine actual constitutional damage",
+            "4 state the remedy narrowly.",
+            "CLOSE DISTINCTION: Case propositions must remain chronological and distinct: Shankari Prasad (1951)"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "(1951), Sajjan Singh (1964), Golak Nath, the 24th Amendment, Kesavananda Bharati (1973),",
+            "Indira Nehru Gandhi v. Raj Narain (1975), Minerva Mills (1980), Waman Rao (1980), Bommai,",
+            "Coelho, NJAC and Anjum Kadari (2024)."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Indira Nehru Gandhi v. Raj Narain (1975), Minerva Mills (1980), Waman Rao (1980), Bommai,.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\10_Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\polity-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "THE ANJUM KADARI (2024) BOUNDARY: AMENDMENTS VERSUS ORDINARY STATUTES",
+      "structural_type": "ordinary-law-boundary",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THE ANJUM KADARI (2024) BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "AMENDMENTS VERSUS ORDINARY STATUTES",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSTITUTIONAL AMENDMENT DIRECTLY TESTED AGAINST BASIC STRUCTURE UNDER ARTICLE",
+          "role": "institution"
+        },
+        {
+          "text": "ORDINARY STATUTE CANNOT BE INVALIDATED ONLY BECAUSE IT OFFENDS",
+          "role": "evidence"
+        },
+        {
+          "text": "LEGISLATIVE INCOMPETENCE VIOLATION OF PART III ANOTHER CONCRETE CONSTITUTIONAL",
+          "role": "primary"
+        },
+        {
+          "text": "ANJUM KADARI (2024) INSC 831 SUPPLIES THE CURRENT TECHNICAL",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAM CORRECTION WRITE \"VIOLATES ARTICLE X EMBODYING THE FEATURE\"",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CONSTITUTIONAL AMENDMENT directly tested against basic structure under Article 368 doctrine",
+        "ORDINARY STATUTE cannot be invalidated only because it offends an undefined basic feature invalidity must",
+        "legislative incompetence violation of Part III another concrete constitutional provision",
+        "ANJUM KADARI (2024) INSC 831 supplies the current technical boundary basic features may guide interpretation",
+        "and cumulative constitutional reading they do not become a free-standing super-Article against ordinary legislation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CONSTITUTIONAL AMENDMENT directly tested against basic structure under Article 368 doctrine",
+            "ORDINARY STATUTE cannot be invalidated only because it offends an undefined basic feature invalidity must be traced to"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "legislative incompetence violation of Part III another concrete constitutional provision",
+            "ANJUM KADARI (2024) INSC 831 supplies the current technical boundary basic features may guide interpretation"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "and cumulative constitutional reading they do not become a free-standing super-Article against ordinary legislation",
+            "EXAM CORRECTION write \"violates Article X embodying the feature\", not merely \"violates basic structure\"."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CONSTITUTIONAL AMENDMENT directly tested against basic structure under Article 368 doctrine",
+            "ORDINARY STATUTE cannot be invalidated only because it offends an undefined basic feature invalidity must be traced to"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXAM CORRECTION write \"violates Article X embodying the feature\", not merely \"violates basic structure\".",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\10_Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\polity-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CURRENT EVIDENCE: DEFEATED PROPOSAL VERSUS COMMENCED FRAMEWORK",
+      "structural_type": "current-evidence-control",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CURRENT EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "DEFEATED PROPOSAL VERSUS COMMENCED FRAMEWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "131ST AMENDMENT BILL, 2026 INTRODUCED 16 APRIL; NEGATIVED 17",
+          "role": "comparison"
+        },
+        {
+          "text": "298 AYES",
+          "role": "evidence"
+        },
+        {
+          "text": "230 NOES",
+          "role": "primary"
+        },
+        {
+          "text": "528 PRESENT AND VOTING PROPOSED 850 CEILING NEVER BECAME",
+          "role": "outcome"
+        },
+        {
+          "text": "106TH AMENDMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "S.O. 1922(E), 16 APRIL 2026 COMMENCED THE FRAMEWORK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "131ST AMENDMENT BILL, 2026 introduced 16 April; negatived 17 April",
+        "298 ayes / 230 noes / 528 present and voting proposed 850 ceiling never became",
+        "106TH AMENDMENT",
+        "S.O. 1922(E), 16 April 2026 commenced the framework",
+        "Article 334A still requires publication of relevant first-post-commencement census figures"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "131ST AMENDMENT BILL, 2026 introduced 16 April; negatived 17 April",
+            "298 ayes / 230 noes / 528 present and voting proposed 850 ceiling never became law proves both Article 368 majority limbs must pass"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "106TH AMENDMENT",
+            "S.O. 1922(E), 16 April 2026 commenced the framework"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Article 334A still requires publication of relevant first-post-commencement census figures",
+            "delimitation for that purpose must follow commenced != operational reservation"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "STATUS RULE date + source + legal stage → no proposal presented as law.",
+            "131ST AMENDMENT BILL, 2026 introduced 16 April; negatived 17 April"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUS RULE date + source + legal stage → no proposal presented as law.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\10_Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\polity-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DOCTRINE EVALUATION: GUARDIAN OF IDENTITY OR JUDICIAL SUPREMACY?",
+      "structural_type": "doctrine-criticism-defence",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "DOCTRINE EVALUATION",
+          "role": "primary"
+        },
+        {
+          "text": "GUARDIAN OF IDENTITY OR JUDICIAL SUPREMACY?",
+          "role": "outcome"
+        },
+        {
+          "text": "CRITICISM DOCTRINE IS JUDICIALLY INFERRED AND NON-EXHAUSTIVE UNELECTED JUDGES",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 368 IS A CONSTITUTION-CREATED, LIMITED POWER DEMOCRACY INCLUDES",
+          "role": "institution"
+        },
+        {
+          "text": "MINERVA MILLS (1980)",
+          "role": "primary"
+        },
+        {
+          "text": "LIMITED POWER CANNOT MAKE ITSELF UNLIMITED",
+          "role": "mechanism"
+        },
+        {
+          "text": "DISCIPLINED REVIEW TEXTUAL FOUNDATION",
+          "role": "comparison"
+        },
+        {
+          "text": "SETTLED PRECEDENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CRITICISM doctrine is judicially inferred and non-exhaustive unelected judges review elected super-majorities open-ended features can",
+        "Article 368 is a Constitution-created, limited power democracy includes future elections, rights, federal voice and",
+        "Minerva Mills (1980): limited power cannot make itself unlimited",
+        "DISCIPLINED REVIEW textual foundation → settled precedent → actual damage → narrow remedy",
+        "VERDICT reasoned, bounded review is legitimate; feature language must not become a policy veto."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CRITICISM doctrine is judicially inferred and non-exhaustive unelected judges review elected super-majorities open-ended features can create uncertainty",
+            "Article 368 is a Constitution-created, limited power democracy includes future elections, rights, federal voice and independent review"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Minerva Mills (1980): limited power cannot make itself unlimited",
+            "DISCIPLINED REVIEW textual foundation → settled precedent → actual damage → narrow remedy"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT reasoned, bounded review is legitimate; feature language must not become a policy veto.",
+            "CRITICISM doctrine is judicially inferred and non-exhaustive unelected judges review elected super-majorities open-ended features can create uncertainty"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Article 368 is a Constitution-created, limited power democracy includes future elections, rights, federal voice and independent review",
+            "Minerva Mills (1980): limited power cannot make itself unlimited"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT reasoned, bounded review is legitimate; feature language must not become a policy veto.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\10_Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\polity-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PRELIMS TRAPS AND VERIFIED PYQ CONTROL",
+      "structural_type": "exam-pyq-control",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PRELIMS TRAPS AND VERIFIED PYQ CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "PRELIMS CONTROL",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 368",
+          "role": "institution"
+        },
+        {
+          "text": "ADDITION, VARIATION OR REPEAL NO JOINT SITTING BOTH HOUSES",
+          "role": "caution"
+        },
+        {
+          "text": "EXACT PROVISO + AT LEAST HALF ARTICLE 241 AND",
+          "role": "institution"
+        },
+        {
+          "text": "NON-EXHAUSTIVE ORDINARY-STATUTE BOUNDARY APPLIES",
+          "role": "outcome"
+        },
+        {
+          "text": "NINTH SCHEDULE",
+          "role": "comparison"
+        },
+        {
+          "text": "REVIEWABLE AFTER CUT-OFF NOT AUTOMATICALLY INVALID",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PRELIMS CONTROL",
+        "Article 368 → addition, variation or repeal no joint sitting both Houses use both",
+        "special-majority limbs President shall assent ratification → exact proviso + at least half Article",
+        "241 and 279A are separately named basic structure → non-exhaustive ordinary-statute boundary applies",
+        "Ninth Schedule → reviewable after cut-off not automatically invalid"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRELIMS CONTROL",
+            "Article 368 → addition, variation or repeal no joint sitting both Houses use both",
+            "special-majority limbs President shall assent ratification → exact proviso + at least half Article"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "241 and 279A are separately named basic structure → non-exhaustive ordinary-statute boundary applies",
+            "Ninth Schedule → reviewable after cut-off not automatically invalid",
+            "VERIFIED PYQS"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "2 Mains: 2019 Q12 and 2025 Q12",
+            "8 Prelims: 2018 Q5; 2019 Q45/Q47; 2020 Q13; 2022 Q13; 2023 Q34; 2024 Q66; 2025 Q58",
+            "Official local keys: 2024 Q66 = D; 2025 Q58 = A. Earlier keys are explicitly inferred."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CURRENT TRAPS",
+            "131st Bill = defeated proposal",
+            "106th Amendment = commenced, not operational."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Official local keys: 2024 Q66 = D; 2025 Q58 = A. Earlier keys are explicitly inferred.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\10_Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\polity-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "MARKS-SCALED MAINS EXECUTION: 10, 15 AND 20 MARKS",
+      "structural_type": "marks-scaled-answer-route",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MARKS-SCALED MAINS EXECUTION",
+          "role": "primary"
+        },
+        {
+          "text": "10, 15 AND 20 MARKS",
+          "role": "outcome"
+        },
+        {
+          "text": "10 MARKS",
+          "role": "comparison"
+        },
+        {
+          "text": "150 WORDS THESIS",
+          "role": "evidence"
+        },
+        {
+          "text": "3-4 DIMENSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "2-3 EVIDENCE UNITS",
+          "role": "evidence"
+        },
+        {
+          "text": "15 MARKS",
+          "role": "comparison"
+        },
+        {
+          "text": "250 WORDS PROCEDURE AND SUBSTANTIVE LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "10 MARKS / 150 WORDS thesis → 3-4 dimensions → 2-3 evidence units → qualification",
+        "15 MARKS / 250 WORDS procedure and substantive limit → 4-6 Articles/cases → application →",
+        "20 MARKS / 250-300 WORDS design → chronology → applications → current evidence criticism/defence →",
+        "EXECUTION RULE claim → named evidence → analysis → qualification compress by demand; do not",
+        "FINAL LINE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "10 MARKS / 150 WORDS thesis → 3-4 dimensions → 2-3 evidence units → qualification → verdict",
+            "15 MARKS / 250 WORDS procedure and substantive limit → 4-6 Articles/cases → application → evaluation → verdict"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "20 MARKS / 250-300 WORDS design → chronology → applications → current evidence criticism/defence → nuanced verdict",
+            "EXECUTION RULE claim → named evidence → analysis → qualification compress by demand; do not dump every case or basic feature"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "FINAL LINE",
+            "Article 368 permits transformation within constitutional identity."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Parliament may amend, but cannot destroy or replace the Constitution.",
+            "10 MARKS / 150 WORDS thesis → 3-4 dimensions → 2-3 evidence units → qualification → verdict"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXECUTION RULE claim → named evidence → analysis → qualification compress by demand; do not dump every case or basic feature.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-10\\g6-source\\polity-10_g6-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\10_Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\polity-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "CURRENT AMENDMENT-STATUS CONTROL: PROPOSAL, COMMENCEMENT AND OPERATION",
+      "structural_type": "constitutional-change-status-ledger",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CURRENT AMENDMENT-STATUS CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "PROPOSAL, COMMENCEMENT AND OPERATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ANJUM KADARI (2024) INSC 831",
+          "role": "comparison"
+        },
+        {
+          "text": "NO FREE-STANDING BASIC-STRUCTURE ATTACK ON ORDINARY LAW",
+          "role": "caution"
+        },
+        {
+          "text": "131ST AMENDMENT BILL 2026",
+          "role": "primary"
+        },
+        {
+          "text": "DEFEATED PROPOSAL; NOT LAW OR PRECEDENT",
+          "role": "caution"
+        },
+        {
+          "text": "S.O. 1922(E), 16 APR 2026",
+          "role": "comparison"
+        },
+        {
+          "text": "106TH AMENDMENT COMMENCED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ANJUM KADARI (2024) INSC 831 → no free-standing basic-structure attack on ordinary law",
+        "131ST AMENDMENT BILL 2026 → defeated proposal; not law or precedent",
+        "S.O. 1922(E), 16 APR 2026 → 106TH AMENDMENT commenced",
+        "ARTICLE 334A → operation awaits specified census publication plus delimitation",
+        "RULE: enactment, commencement and operational effect are distinct legal events."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ANJUM KADARI (2024) INSC 831 → no free-standing basic-structure attack on ordinary law",
+            "131ST AMENDMENT BILL 2026 → defeated proposal; not law or precedent",
+            "S.O. 1922(E), 16 APR 2026 → 106TH AMENDMENT commenced"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 334A → operation awaits specified census publication plus delimitation",
+            "RULE: enactment, commencement and operational effect are distinct legal events.",
+            "LEGAL/SOURCE LIMIT: Basic structure limits constitutional amendments, not ordinary statutes as a free-standing test."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "The 131st Bill was defeated",
+            "the 106th Amendment has commenced, while",
+            "Article 334A still separates commencement from operation."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ARTICLE 334A → operation awaits specified census publication plus delimitation"
+          ]
+        }
+      ],
+      "mechanism_strip": "RULE: enactment, commencement and operational effect are distinct legal events.",
+      "answer_line": "enactment, commencement and operational effect are distinct legal events.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\10_Amendment-and-Basic-Structure.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\polity-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "17. AMENDMENT VERSUS REPLACEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "18. COMPARATIVE UNCONSTITUTIONAL-CONSTITUTIONAL-AMENDMENT DOCTRINE",
+          "role": "comparison"
+        },
+        {
+          "text": "19. STATE RATIFICATION AS ASYMMETRIC FEDERALISM",
+          "role": "institution"
+        },
+        {
+          "text": "20. INSTITUTIONAL RESTRAINT AFTER ANJUM KADARI (2024)",
+          "role": "primary"
+        },
+        {
+          "text": "[ANALYSIS] AN “AMENDMENT” PRESUPPOSES CONTINUITY OF THE CONSTITUTION BEFORE",
+          "role": "outcome"
+        },
+        {
+          "text": "IF THE OLD IDENTITY DISAPPEARS, THE ACT RESEMBLES REPLACEMENT",
+          "role": "institution"
+        },
+        {
+          "text": "[FACT] JUSTICE H.R. KHANNA'S KESAVANANDA BHARATI (1973) REASONING EMPHASISED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "17. Amendment versus replacement",
+            "18. Comparative unconstitutional-constitutional-amendment doctrine",
+            "19. State ratification as asymmetric federalism",
+            "20. Institutional restraint after Anjum Kadari (2024)"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "[ANALYSIS] An “amendment” presupposes continuity of the Constitution before and after change.",
+            "If the old identity disappears, the act resembles replacement or constituent founding rather than amendment.",
+            "[FACT] Justice H.R. Khanna's Kesavananda Bharati (1973) reasoning emphasised survival of the old Constitution without loss of identity.",
+            "[ANALYSIS] This supplies the doctrine's conceptual core: Article 368 can revise institutions, powers and"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "rights, but cannot use a constituted power to abolish the framework that created it.",
+            "[LIMIT] “Identity” is not a licence to constitutionalise every historical practice.",
+            "The protected identity must be derived from the Constitution's text, structure, history and settled precedent.",
+            "[FACT] Germany's Basic Law contains an express eternity clause protecting specified fundamentals from amendment."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

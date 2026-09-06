@@ -1,0 +1,172 @@
+{
+  "record_id": "geography-20:learner-v2:g5",
+  "topic_key": "geography-20",
+  "variant": "learner-v2",
+  "generation": 5,
+  "supersedes": "geography-20:learner-v2:g4",
+  "command": "Generate learner-v2 topic: Geography — Part A — Physical Geography — Temperate Continental Steppe Climate — Learner-v2 refreshed — Regenerate",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Complete-Learning-Session_2026-09-05.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Solved-Practice-Workbook_2026-09-05.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Complete-Learning-Session_2026-09-05.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Solved-Practice-Workbook_2026-09-05.md",
+  "generated_on": "2026-09-05",
+  "approved": false,
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "geography-20:learner-v2:g5"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-05",
+    "validator": "regenerate_geography_part_a_deep_review.py"
+  },
+  "provenance": {
+    "workflow": "geography-deep-review-immutable-successor",
+    "source_basic": "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+    ],
+    "local_ocr_sources": [
+      "books\\GC Leong - Certificate Physical and human Geography.pdf",
+      "books\\Indian & World Geography - Husain, Majid_Compressed.pdf",
+      "books\\Indian-geography-majid-hussain.pdf"
+    ],
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Complete-Learning-Session_2026-09-05.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.5"
+    },
+    "generation_date": "2026-09-05",
+    "superseded_v1": "geography-20:legacy-v1:g1",
+    "refresh": {
+      "id": "learner-v2-refreshed-2026-08-22",
+      "source_record": "geography-20:learner-v2:g2",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography\\geography-20_Learning-Session.md",
+      "source_hashes": {
+        "books\\GC Leong - Certificate Physical and human Geography.pdf": "80cee21f9075731f1841cb3714645df94846f4b215ab5f0c1948aac4ab71998a",
+        "books\\Indian & World Geography - Husain, Majid_Compressed.pdf": "8770f543912124259376881085c94676d330f89d455666d46aaa22f751ba10fb",
+        "books\\Indian-geography-majid-hussain.pdf": "1d7ab9edf8779c0f3c812fe56787084f619989e4e1adaffa9f1e43f0cb182c41",
+        "notes\\Geography\\learning-session-v2\\part-a-physical-geography\\notes\\geography-20_Learning-Session_2026-09-01.pdf": "c24b3e3b81c94f9716c96568765b75476afb16c3cf6097829a5bef985bf1fa3f",
+        "notes\\Geography\\learning-session-v2\\part-a-physical-geography\\workbooks\\geography-20_Solved-Workbook_2026-09-01.pdf": "5f877378fd49ea392ed6cb75df91b8ff9a7306338ebe8579d8afe2381e76a7ca",
+        "tools\\markdown_learning_pdf.py": "108ddedd5ca09a14d0bbdf021a94cb5ee4206f4864f268a70e7edd8ef97064d2",
+        "tools\\validate_v2_export.py": "9f47e27b6447c4b48ee86f63179f1218947e394d4fe9823dbbcc1910b544593a",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+        "upsc-ai-kit\\knowledge\\Geography\\20_India-Wheat-Granary_Complete-Topic-Package.md": "bd58a910c8d251f6b6671e0fb09f42ea007323b9af1b70b6634edf1105576696",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md": "40a83b96a3990182745f11a008208488b0f6821d2026204277d803d641924a39",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md": "6b325dfc79b69076014db18fb0302d673da4f40657d5282597b07d905cbfe965",
+        "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography\\geography-20_Learning-Session.md": "bd58a910c8d251f6b6671e0fb09f42ea007323b9af1b70b6634edf1105576696",
+        "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-a-physical-geography\\geography-20_Solved-Workbook.md": "cd0453aaa2ea819c1e56874eac218ebf8edc1cc98f2a688dc56d13c291b3fc23"
+      },
+      "session_contract": "named-session definition/opening/keywords/use/closure",
+      "mcq_keys": "strict A-B-C-D rotation",
+      "tracker_updated": false,
+      "tracker_sha256": "7828b78a7758020bcb919b9d83229a610c7d0cb02c5b78f3316d84cdbbd1fc32"
+    },
+    "graphical_renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0",
+      "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62"
+    },
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Solved-Practice-Workbook_2026-09-05.md",
+    "content_spec": "upsc-ai-kit\\manifests\\v2\\geography--subject-wide-syllabus-content-specs\\geography-20-g5.json",
+    "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Geography\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+      "upsc-ai-kit\\knowledge\\Geography\\00_Master-Framework.md": "e8c1a5fbe4ea76be86872d0a710e17de0827f2c59c92c850685529520d1ef649",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md": "40a83b96a3990182745f11a008208488b0f6821d2026204277d803d641924a39",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md": "dfe43854aa0ff122d219114e3f400363838d69242f75b28ccc8bef49f528f823",
+      "upsc-ai-kit\\knowledge\\Geography\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "5423e188aa0c98932e8b8bc5f9d9a465c14593fd0dee3ea3a916f04b72dc1f2b"
+    },
+    "repair_scope": "fresh immutable identity; explicit evidence and contested-claim discipline; question-specific answer controls; strict MCQ sequence; fresh twelve-stage graphical and ASCII masters",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-20-deep-review-2026-09-05-g5.json",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\ascii-master.pdf",
+    "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5",
+    "deliverable_hashes": {
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Complete-Learning-Session_2026-09-05.md": "b5687d9d0ab115c46cf98f1baec4b4cbb2322b1c469c8290e371179ce24ebc9e",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Solved-Practice-Workbook_2026-09-05.md": "16bd7e13a1140b48c05d1ba81f59f3014ce515039e70ddaea5975942d528e66b",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Complete-Learning-Session_2026-09-05.pdf": "e41e844c8b2ec7f556cf044f41532738043da233b6520e1ab3903ec97af2584a",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Solved-Practice-Workbook_2026-09-05.pdf": "3d06695a20547fe342e5899d83ed176a914c634ee236c9dd65ccb4e6884eb2f3",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\validation\\main-visual-audit-map.json": "b776a5ddc5d2c11c8005f0a919c44993dc2279dd3b4b4af6df52cabf91fae842",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\validation\\workbook-visual-audit-map.json": "c005e97212f5a1df65c36f2ea56fa8d00972dc325ef307f78de88ebba07e50a3",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-20-deep-review-2026-09-05-g5.json": "0f622d7b80b3c92758a643b7c96fed268cdd8f3112c1af391c59aac192e5e5ad",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Geography\\deep-review\\geography-20-g5.json": "100728e1f99e3154815b77c23a31ebd6241fc18be6355ff493a69cd4cdc2d280",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\assets\\geography-20_Teaching-Navigation_2026-08-22.png": "634b0438adfd38d3e45e0aa7b2acf9d2aec1b2999f10234e9f11921c6b8ec6a1",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\ascii-master.pdf": "05f998c6f0974230bce22058caa245e8145608b9e30cf1ee85b33e3e9300634f",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\ascii-master.txt": "2a8f89b55a3944d4774c5e6e8ae8b859526af45a644af5d6b23c9a2b74a308e2",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\build-audit.json": "9dc42c1b91a2a57299ba3ffcf7fafb1dd6d71751ae495b3089696c91716e2946",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\master.png": "da2e3b3b5345ade9fd1ce4789658ed907c27ca50dd2d416140ed023fddaef9a5",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\poster.pdf": "93cbeb3945ba9f9d9b94afd7f7ca5d8709f5cc19bdc54b09a17723b4ed7b6825",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\preservation-hashes.json": "9cbd83c5419b4d7a4f6f42fc95e76524bfff6d86949d58a5811ef6525768dc81",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\README.txt": "ec14beca7d1e1a11bc214c63d7b6100a8300e954579af2abe90fb649fe124be2",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\tiled.pdf": "546fed7589b62ae762b5e938812a4e195ba4839ff72c032571d5e4e0d57a79eb",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\validation-report.txt": "770eab2506df8e373b885ff5303cade8a430950c5f2fbab56e868ddcd4d95493",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\editable\\topic-spec.json": "100728e1f99e3154815b77c23a31ebd6241fc18be6355ff493a69cd4cdc2d280",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\previews\\contact-sheet-01.png": "fa794308c5d0be075caff64fb8c9d01e02dc07a656f09335bde8ec370c8590d1",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\previews\\master-overview.png": "ccdbf7bc9bc3306006e37a216b2c3f07530ae612ef25c4b82d84c782ffe0fa9d",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\previews\\page-001.png": "e5e51f28ec9731423f4aca4feaaac6854d9a5d148d17ac155569655981bc055a",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\previews\\page-002.png": "37ccc10dd64d7909fe552ffee596f6efeb401c094719901f2d03bca58d9d5498",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\previews\\page-003.png": "8843fb2efd3a9388d8b4e29a267bbe916ef96d39f34baefa292c2f6b298872d2",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\previews\\page-004.png": "d1284a7ed1bd19340d847c7fa1bff8dd528f18298725cbc976377ecb8a34430b",
+      "upsc-ai-kit\\manifests\\v2\\geography--subject-wide-syllabus-content-specs\\geography-20-g5.json": "d35611d336cce92963714977361b375ac3c87601e97b4f36ed36fb2a33820a94"
+    },
+    "live_sources": [
+      "https://agriwelfare.gov.in/Documents/Time_Series_3rdAE_2025_26_En.pdf",
+      "https://agriwelfare.gov.in/en/AdvanceEstimate",
+      "https://fci.gov.in/",
+      "https://pib.gov.in/PressReleasePage.aspx?PRID=2255618&reg=3&lang=1"
+    ],
+    "current_linkage_note": "Rechecked 2026-09-05: the Department of Agriculture and Farmers Welfare's Third Advance Estimates for 2025-26 report wheat output at 1,206.57 lakh tonnes. This remains an advance estimate, not a final crop estimate. FCI/Food Ministry releases control any Rabi Marketing Season procurement, stock and state-share claim; procurement is not production, MSP is not a market-price series, and no volatile procurement total is used without its exact marketing season and release date.",
+    "live_sources_rechecked_on": "2026-09-05"
+  },
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\assets",
+  "refresh_profile": "learner-v2-refreshed-2026-08-22",
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5",
+    "master_image": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\editable",
+    "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Geography\\deep-review\\geography-20-g5.json",
+    "graphical_spec_sha256": "100728e1f99e3154815b77c23a31ebd6241fc18be6355ff493a69cd4cdc2d280",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-20-deep-review-2026-09-05-g5.json",
+    "ascii_master_spec_sha256": "0f622d7b80b3c92758a643b7c96fed268cdd8f3112c1af391c59aac192e5e5ad",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\ascii-master.pdf",
+    "ascii_master_source": "manual-authored-geography-deep-review-spec"
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-05T05:43:00+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "a60886f0065d0ac684dec85aefaba6e5f3ada8fab24a8d810b1fb6f794f15385",
+    "sha256_after": "a60886f0065d0ac684dec85aefaba6e5f3ada8fab24a8d810b1fb6f794f15385",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Geography": 1
+  },
+  "sections": {
+    "Geography — Part A — Physical Geography": 1
+  },
+  "library_totals": {
+    "file_count": 10083,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1689,
+    "json_count": 4169,
+    "total_bytes": 4222043300,
+    "by_extension": {
+      ".json": 4169,
+      ".md": 1689,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "geography-20",
+      "topic_title": "Temperate Continental Steppe Climate",
+      "subject": "Geography",
+      "section": "Part A — Physical Geography",
+      "catalogue_number": 20,
+      "source_record_id": "geography-20:learner-v2:g5",
+      "source_generation": 5,
+      "destination_folder": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\20-Temperate-Continental-Steppe-Climate",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Complete-Learning-Session_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\20-Temperate-Continental-Steppe-Climate\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "e41e844c8b2ec7f556cf044f41532738043da233b6520e1ab3903ec97af2584a",
+          "output_sha256": "e41e844c8b2ec7f556cf044f41532738043da233b6520e1ab3903ec97af2584a",
+          "source_output_equal": true,
+          "bytes": 562182
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Solved-Practice-Workbook_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\20-Temperate-Continental-Steppe-Climate\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "3d06695a20547fe342e5899d83ed176a914c634ee236c9dd65ccb4e6884eb2f3",
+          "output_sha256": "3d06695a20547fe342e5899d83ed176a914c634ee236c9dd65ccb4e6884eb2f3",
+          "source_output_equal": true,
+          "bytes": 436219
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\20-Temperate-Continental-Steppe-Climate\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "93cbeb3945ba9f9d9b94afd7f7ca5d8709f5cc19bdc54b09a17723b4ed7b6825",
+          "output_sha256": "93cbeb3945ba9f9d9b94afd7f7ca5d8709f5cc19bdc54b09a17723b4ed7b6825",
+          "source_output_equal": true,
+          "bytes": 2053830
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\20-Temperate-Continental-Steppe-Climate\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "546fed7589b62ae762b5e938812a4e195ba4839ff72c032571d5e4e0d57a79eb",
+          "output_sha256": "546fed7589b62ae762b5e938812a4e195ba4839ff72c032571d5e4e0d57a79eb",
+          "source_output_equal": true,
+          "bytes": 2518417
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\20-Temperate-Continental-Steppe-Climate\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "da2e3b3b5345ade9fd1ce4789658ed907c27ca50dd2d416140ed023fddaef9a5",
+          "output_sha256": "da2e3b3b5345ade9fd1ce4789658ed907c27ca50dd2d416140ed023fddaef9a5",
+          "source_output_equal": true,
+          "bytes": 1818182
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\20-Temperate-Continental-Steppe-Climate\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "2a8f89b55a3944d4774c5e6e8ae8b859526af45a644af5d6b23c9a2b74a308e2",
+          "output_sha256": "2a8f89b55a3944d4774c5e6e8ae8b859526af45a644af5d6b23c9a2b74a308e2",
+          "source_output_equal": true,
+          "bytes": 4956
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-20\\carvaka-g5\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\20-Temperate-Continental-Steppe-Climate\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "05f998c6f0974230bce22058caa245e8145608b9e30cf1ee85b33e3e9300634f",
+          "output_sha256": "05f998c6f0974230bce22058caa245e8145608b9e30cf1ee85b33e3e9300634f",
+          "source_output_equal": true,
+          "source_text_sha256": "2a8f89b55a3944d4774c5e6e8ae8b859526af45a644af5d6b23c9a2b74a308e2",
+          "normalized_text_equal": true,
+          "bytes": 56891
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 12,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 63,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 62,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 69,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 65,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 11,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 11,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 5,
+            "maximum_line_characters": 69,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 63,
+        "solved_practice_workbook": 34,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 63,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 34,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10656
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

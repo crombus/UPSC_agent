@@ -204,3 +204,41 @@ precondition for every contempt proceeding. Debate continues over law-officer in
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional map:** Article 76 creates the Attorney General for India;
+  Article 165 creates an Advocate General for each State. The Solicitor General
+  and Additional Solicitors General are executive law offices under Union rules,
+  not constitutional offices.
+- **Current Attorney General:** the official 2025 Gazette reappointed Senior
+  Advocate R. Venkataramani for two years with effect from 1 October 2025.
+  This dated appointment does not create a constitutional fixed-term rule.
+  Advocate-General incumbents remain State-specific and must be sourced State by State.
+- **Appointment and qualification:** the President appoints a person qualified
+  to be a Supreme Court judge as Attorney General; the Governor appoints a
+  person qualified to be a High Court judge as Advocate General.
+- **Tenure and remuneration:** both offices are held during the pleasure of the
+  relevant constitutional head; neither Article fixes a term or removal
+  procedure. Remuneration is determined by the President or Governor.
+- **Functions and rights:** the Attorney General advises the Government of
+  India on referred legal matters, performs assigned constitutional/statutory
+  functions and has a constitutional right of audience in all courts. Articles
+  88 and 105(4) permit parliamentary participation and privileges without a vote.
+  Articles 177 and 194(4) provide the State-legislature analogue.
+- **Advocate-General limit:** Article 165 contains no counterpart to Article
+  76(3)'s express all-India right of audience; court appearance therefore
+  depends on applicable procedural and professional law.
+- **Current rules:** the Law Officers (Conditions of Service) Rules, 1987
+  govern the Union law officers. The Gazette-notified 2026 amendment changes
+  Rule 7 fee/retainer provisions; it does not constitutionalise the SG/ASGs or
+  give the Attorney General tenure security.
+- **Professional limits:** the Attorney General is not a whole-time government
+  servant and may practise privately subject to the rules, including conflict,
+  adverse-brief, criminal-defence and directorship restrictions and permissions.
+- **Enforcement boundary:** the section 15 Contempt of Courts Act consent role
+  concerns specified private criminal-contempt motions; courts retain suo motu
+  power. The law officer advises and represents, but does not adjudicate.
+- **PYQ firewall:** the verified 2019 and 2025 Attorney-General demands are
+  owned here; wider executive accountability and court procedure remain with
+  their respective owners.

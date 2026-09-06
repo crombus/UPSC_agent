@@ -1,0 +1,1256 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-33",
+  "subject": "Polity",
+  "title": "ATTORNEY GENERAL AND ADVOCATE GENERAL",
+  "short_route": "FEDERAL CONSTITUTIONAL MAP AND → ARTICLE 76 ATTORNEY GENERAL → ARTICLE 165 ADVOCATE GENERAL → QUALIFICATIONS APPOINTMENT TENURE AND → ADVICE REPRESENTATION AND AUDIENCE → LEGISLATIVE PARTICIPATION PRIVILEGE AND",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g6 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\g6\\polity-33_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-33-deep-review-2026-09-05-g6.json",
+  "ascii_spec_sha256": "0e7af941c294825839d5b407424204255c66c8b93f3ff0914577ad3ae6758a49",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FEDERAL CONSTITUTIONAL MAP AND INSTITUTIONAL BOUNDARY",
+      "structural_type": "law-officer-constitutional-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FEDERAL CONSTITUTIONAL MAP AND INSTITUTIONAL BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 76 ATTORNEY GENERAL FOR INDIA",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 165 ADVOCATE GENERAL FOR EACH STATE",
+          "role": "institution"
+        },
+        {
+          "text": "LEGAL ADVICE + ASSIGNED LEGAL DUTIES + GOVERNMENT REPRESENTATION",
+          "role": "evidence"
+        },
+        {
+          "text": "JUDGE, MINISTER, LEGISLATURE MEMBER, PROSECUTOR-GENERAL OR FINAL INTERPRETER",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTITUTIONAL STATUS DEFINES THE OFFICE; COURTS DECIDE LAW AND",
+          "role": "outcome"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "KEEP THE CONSTITUTIONAL ATTORNEY GENERAL AND ADVOCATE GENERAL SEPARATE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UNION → Article 76 Attorney General for India",
+        "STATE → Article 165 Advocate General for each State",
+        "ROLE → legal advice + assigned legal duties + government representation",
+        "NOT → judge, minister, legislature member, prosecutor-general or final interpreter",
+        "CORE: constitutional status defines the office; courts decide law and government decides policy."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "UNION → Article 76 Attorney General for India",
+            "STATE → Article 165 Advocate General for each State"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ROLE → legal advice + assigned legal duties + government representation",
+            "NOT → judge, minister, legislature member, prosecutor-general or final interpreter"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CORE: constitutional status defines the office; courts decide law and government decides policy.",
+            "MUST REMEMBER: Keep the constitutional Attorney General and Advocate General separate"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "from the executive offices of Solicitor General and Additional Solicitors General.",
+            "UNION → Article 76 Attorney General for India"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Keep the constitutional Attorney General and Advocate General separate from the executive offices of Solicitor General and Additional Solicitors General.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Attorney-General.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\33_Attorney-General-and-Advocate-General.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\g6\\polity-33_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ARTICLE 76 ATTORNEY GENERAL CLAUSE SPINE",
+      "structural_type": "agi-article-76-spine",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ARTICLE 76 ATTORNEY GENERAL CLAUSE SPINE",
+          "role": "institution"
+        },
+        {
+          "text": "PRESIDENT APPOINTS A PERSON QUALIFIED AS SUPREME COURT JUDGE",
+          "role": "institution"
+        },
+        {
+          "text": "ADVICE, ASSIGNED LEGAL DUTIES AND FUNCTIONS CONFERRED BY CONSTITUTION/LAW",
+          "role": "comparison"
+        },
+        {
+          "text": "RIGHT OF AUDIENCE IN ALL COURTS IN INDIA WHILE",
+          "role": "evidence"
+        },
+        {
+          "text": "PRESIDENT PLEASURE + REMUNERATION DETERMINED BY PRESIDENT",
+          "role": "primary"
+        },
+        {
+          "text": "OPINION IS ADVISORY; AUDIENCE IS NOT AUTOMATIC ASSIGNMENT IN",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "76(1) → President appoints a person qualified as Supreme Court Judge",
+        "76(2) → advice, assigned legal duties and functions conferred by Constitution/law",
+        "76(3) → right of audience in all courts in India while performing duties",
+        "76(4) → President pleasure + remuneration determined by President",
+        "LIMIT: opinion is advisory; audience is not automatic assignment in every case."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "76(1) → President appoints a person qualified as Supreme Court Judge",
+            "76(2) → advice, assigned legal duties and functions conferred by Constitution/law"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "76(3) → right of audience in all courts in India while performing duties",
+            "76(4) → President pleasure + remuneration determined by President"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT: opinion is advisory; audience is not automatic assignment in every case.",
+            "76(1) → President appoints a person qualified as Supreme Court Judge"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "76(2) → advice, assigned legal duties and functions conferred by Constitution/law",
+            "76(3) → right of audience in all courts in India while performing duties"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: opinion is advisory; audience is not automatic assignment in every case.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Attorney-General.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\33_Attorney-General-and-Advocate-General.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\g6\\polity-33_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ARTICLE 165 ADVOCATE GENERAL CLAUSE SPINE",
+      "structural_type": "advocate-general-article-165-spine",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ARTICLE 165 ADVOCATE GENERAL CLAUSE SPINE",
+          "role": "institution"
+        },
+        {
+          "text": "GOVERNOR APPOINTS A PERSON QUALIFIED AS HIGH COURT JUDGE",
+          "role": "institution"
+        },
+        {
+          "text": "STATE-GOVERNMENT ADVICE, ASSIGNED DUTIES AND LEGAL FUNCTIONS",
+          "role": "institution"
+        },
+        {
+          "text": "GOVERNOR PLEASURE + REMUNERATION DETERMINED BY GOVERNOR",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 165 HAS NO EXPRESS EQUIVALENT OF ARTICLE 76(3)",
+          "role": "caution"
+        },
+        {
+          "text": "APPLICABLE PROFESSIONAL AND STATE LAW CONTROLS COURTROOM PRACTICE.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "165(1) → Governor appoints a person qualified as High Court Judge",
+        "165(2) → State-government advice, assigned duties and legal functions",
+        "165(3) → Governor pleasure + remuneration determined by Governor",
+        "ASYMMETRY: Article 165 has no express equivalent of Article 76(3) all-India audience.",
+        "Applicable professional and State law controls courtroom practice."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "165(1) → Governor appoints a person qualified as High Court Judge",
+            "165(2) → State-government advice, assigned duties and legal functions"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "165(3) → Governor pleasure + remuneration determined by Governor",
+            "ASYMMETRY: Article 165 has no express equivalent of Article 76(3) all-India audience."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Applicable professional and State law controls courtroom practice.",
+            "165(1) → Governor appoints a person qualified as High Court Judge"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "165(2) → State-government advice, assigned duties and legal functions",
+            "165(3) → Governor pleasure + remuneration determined by Governor"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Applicable professional and State law controls courtroom practice.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Attorney-General.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\33_Attorney-General-and-Advocate-General.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\g6\\polity-33_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "QUALIFICATIONS APPOINTMENT TENURE AND REMUNERATION",
+      "structural_type": "law-officer-office-lifecycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "QUALIFICATIONS APPOINTMENT TENURE AND REMUNERATION",
+          "role": "primary"
+        },
+        {
+          "text": "CITIZEN + ARTICLE 124(3) ALTERNATIVE ROUTE; PRESIDENT APPOINTS",
+          "role": "institution"
+        },
+        {
+          "text": "ADVOCATE GENERAL",
+          "role": "comparison"
+        },
+        {
+          "text": "CITIZEN + ARTICLE 217(2) ROUTE; GOVERNOR APPOINTS",
+          "role": "institution"
+        },
+        {
+          "text": "NO FIXED CONSTITUTIONAL TERM; OFFICE DURING CONSTITUTIONAL HEAD PLEASURE",
+          "role": "caution"
+        },
+        {
+          "text": "UNION RULE 3",
+          "role": "outcome"
+        },
+        {
+          "text": "ADMINISTRATIVE TERM SUBJECT ALWAYS TO ARTICLE 76(4) PLEASURE",
+          "role": "institution"
+        },
+        {
+          "text": "JUDICIAL QUALIFICATION OR RETIREMENT AGE DOES NOT BECOME LAW-OFFICER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "AGI → citizen + Article 124(3) alternative route; President appoints",
+        "ADVOCATE GENERAL → citizen + Article 217(2) route; Governor appoints",
+        "BOTH → no fixed constitutional term; office during constitutional head pleasure",
+        "UNION RULE 3 → administrative term subject always to Article 76(4) pleasure",
+        "TRAP: judicial qualification or retirement age does not become law-officer tenure."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "AGI → citizen + Article 124(3) alternative route; President appoints",
+            "ADVOCATE GENERAL → citizen + Article 217(2) route; Governor appoints"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "BOTH → no fixed constitutional term; office during constitutional head pleasure",
+            "UNION RULE 3 → administrative term subject always to Article 76(4) pleasure"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP: judicial qualification or retirement age does not become law-officer tenure.",
+            "CURRENT OFFICEHOLDER: 5 SEPTEMBER 2026"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "R. Venkataramani: reappointed for two years from 1 October 2025.",
+            "This appointment term does not replace Article 76 pleasure tenure."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "judicial qualification or retirement age does not become law-officer tenure.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Attorney-General.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\33_Attorney-General-and-Advocate-General.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\g6\\polity-33_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "ADVICE REPRESENTATION AND AUDIENCE DISTINCTIONS",
+      "structural_type": "law-officer-duty-audience-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ADVICE REPRESENTATION AND AUDIENCE DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "LEGAL MATTER REFERRED OR ASSIGNED THROUGH GOVERNMENT ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIFIC BRIEF IN COURT OR CONSTITUTIONAL REFERENCE",
+          "role": "institution"
+        },
+        {
+          "text": "ENTITLEMENT TO BE HEARD; AGI HAS EXPRESS ARTICLE 76(3)",
+          "role": "institution"
+        },
+        {
+          "text": "PROFESSIONAL CAPACITY UNDER GOVERNING LAW",
+          "role": "primary"
+        },
+        {
+          "text": "FOUR QUESTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "QUALIFIED? AUDIENCE? ASSIGNED? CONFLICT-FREE?",
+          "role": "comparison"
+        },
+        {
+          "text": "OPINION NEITHER BINDS GOVERNMENT NOR COURT.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ADVICE → legal matter referred or assigned through government route",
+        "REPRESENTATION → specific brief in court or constitutional reference",
+        "AUDIENCE → entitlement to be heard; AGI has express Article 76(3) right",
+        "PRACTICE → professional capacity under governing law",
+        "FOUR QUESTIONS: qualified? audience? assigned? conflict-free?"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ADVICE → legal matter referred or assigned through government route",
+            "REPRESENTATION → specific brief in court or constitutional reference"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "AUDIENCE → entitlement to be heard; AGI has express Article 76(3) right",
+            "PRACTICE → professional capacity under governing law"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOUR QUESTIONS: qualified? audience? assigned? conflict-free?",
+            "Opinion neither binds government nor court."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "ADVICE → legal matter referred or assigned through government route",
+            "REPRESENTATION → specific brief in court or constitutional reference"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AUDIENCE → entitlement to be heard; AGI has express Article 76(3) right.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Attorney-General.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\33_Attorney-General-and-Advocate-General.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\g6\\polity-33_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "LEGISLATIVE PARTICIPATION PRIVILEGE AND NO VOTE",
+      "structural_type": "law-officer-legislature-participation",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LEGISLATIVE PARTICIPATION PRIVILEGE AND NO VOTE",
+          "role": "caution"
+        },
+        {
+          "text": "ARTICLE 88",
+          "role": "institution"
+        },
+        {
+          "text": "AGI MAY SPEAK AND TAKE PART IN BOTH HOUSES",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 177",
+          "role": "institution"
+        },
+        {
+          "text": "ADVOCATE GENERAL MAY PARTICIPATE IN STATE HOUSE(S) AND NAMED",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLES 105(4)",
+          "role": "outcome"
+        },
+        {
+          "text": "PROCEEDING-LINKED PRIVILEGE EXTENSION",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMON LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 88 → AGI may speak and take part in both Houses, joint sitting and",
+        "ARTICLE 177 → Advocate General may participate in State House(s) and named committee",
+        "ARTICLES 105(4) / 194(4) → proceeding-linked privilege extension",
+        "COMMON LIMIT → no vote by office; no elected membership or ministerial responsibility",
+        "TRAP: permission to participate is not a legislative seat."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 88 → AGI may speak and take part in both Houses, joint sitting and named committee",
+            "ARTICLE 177 → Advocate General may participate in State House(s) and named committee"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLES 105(4) / 194(4) → proceeding-linked privilege extension",
+            "COMMON LIMIT → no vote by office; no elected membership or ministerial responsibility"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP: permission to participate is not a legislative seat.",
+            "CLOSE DISTINCTION: Pleasure tenure, legislative participation without vote, audience rights"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "and professional-practice restrictions must be stated office by office.",
+            "ARTICLE 88 → AGI may speak and take part in both Houses, joint sitting and named committee"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "permission to participate is not a legislative seat.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Attorney-General.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\33_Attorney-General-and-Advocate-General.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\g6\\polity-33_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "RULE 8 PRIVATE PRACTICE CONFLICTS AND PERMISSIONS",
+      "structural_type": "law-officer-professional-ethics-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RULE 8 PRIVATE PRACTICE CONFLICTS AND PERMISSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "PRIVATE PRACTICE",
+          "role": "outcome"
+        },
+        {
+          "text": "POSSIBLE, BUT NOT UNRESTRICTED",
+          "role": "caution"
+        },
+        {
+          "text": "DO NOT",
+          "role": "caution"
+        },
+        {
+          "text": "ADVISE OR APPEAR AGAINST GOVERNMENT",
+          "role": "primary"
+        },
+        {
+          "text": "COVERED PUBLIC ENTITIES",
+          "role": "outcome"
+        },
+        {
+          "text": "ACT WHERE OFFICER ADVISED OR IS LIKELY TO ADVISE",
+          "role": "institution"
+        },
+        {
+          "text": "CRIMINAL DEFENCE AND SPECIFIED COMPANY/CORPORATE POSITIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRIVATE PRACTICE → possible, but not unrestricted",
+        "DO NOT → advise or appear against Government / covered public entities",
+        "DO NOT → act where officer advised or is likely to advise government",
+        "PERMISSION → criminal defence and specified company/corporate positions",
+        "PROCESS → conflict check → disclosure → recusal/screen → authorised brief"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "PRIVATE PRACTICE → possible, but not unrestricted",
+          "DO NOT → act where officer advised or is likely to advise government",
+          "PROCESS → conflict check → disclosure → recusal/screen → authorised brief",
+          "PRIVATE PRACTICE → possible, but not unrestricted"
+        ],
+        [
+          "DO NOT → advise or appear against Government / covered public entities",
+          "PERMISSION → criminal defence and specified company/corporate positions",
+          "Union rules cannot be silently imposed on every State Advocate General.",
+          "DO NOT → advise or appear against Government / covered public entities"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRIVATE PRACTICE → possible, but not unrestricted",
+            "DO NOT → advise or appear against Government / covered public entities"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "DO NOT → act where officer advised or is likely to advise government",
+            "PERMISSION → criminal defence and specified company/corporate positions"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PROCESS → conflict check → disclosure → recusal/screen → authorised brief",
+            "Union rules cannot be silently imposed on every State Advocate General."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "PRIVATE PRACTICE → possible, but not unrestricted",
+            "DO NOT → advise or appear against Government / covered public entities"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Union rules cannot be silently imposed on every State Advocate General.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Attorney-General.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\33_Attorney-General-and-Advocate-General.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\g6\\polity-33_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "AGI SOLICITOR GENERAL PROSECUTOR AND LAW MINISTER",
+      "structural_type": "law-officer-classification-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "AGI SOLICITOR GENERAL PROSECUTOR AND LAW MINISTER",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTITUTIONAL OFFICE UNDER ARTICLE 76",
+          "role": "institution"
+        },
+        {
+          "text": "EXECUTIVE LAW OFFICERS GOVERNED BY UNION RULES; NOT CONSTITUTIONAL",
+          "role": "caution"
+        },
+        {
+          "text": "ADVOCATE GENERAL",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSTITUTIONAL STATE OFFICE UNDER ARTICLE 165",
+          "role": "institution"
+        },
+        {
+          "text": "PUBLIC PROSECUTOR",
+          "role": "outcome"
+        },
+        {
+          "text": "CRIMINAL-PROCEDURE OFFICE",
+          "role": "comparison"
+        },
+        {
+          "text": "LAW MINISTER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AGI → constitutional office under Article 76",
+        "SG / ASG → executive law officers governed by Union rules; not constitutional offices",
+        "ADVOCATE GENERAL → constitutional State office under Article 165",
+        "PUBLIC PROSECUTOR → criminal-procedure office",
+        "LAW MINISTER → political executive"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "AGI → constitutional office under Article 76",
+            "SG / ASG → executive law officers governed by Union rules; not constitutional offices"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ADVOCATE GENERAL → constitutional State office under Article 165",
+            "PUBLIC PROSECUTOR → criminal-procedure office"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "LAW MINISTER → political executive",
+            "CAG → independent constitutional auditor"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "EXAM RULE: classify by creating source before comparing prestige or function.",
+            "AGI → constitutional office under Article 76"
+          ]
+        }
+      ],
+      "mechanism_strip": "EXAM RULE: classify by creating source before comparing prestige or function.",
+      "answer_line": "classify by creating source before comparing prestige or function.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Attorney-General.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\33_Attorney-General-and-Advocate-General.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\g6\\polity-33_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ATTORNEY GENERAL AND ADVOCATE GENERAL COMPARISON",
+      "structural_type": "ag-advocate-general-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ATTORNEY GENERAL AND ADVOCATE GENERAL COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "DIMENSION ATTORNEY GENERAL ADVOCATE GENERAL",
+          "role": "outcome"
+        },
+        {
+          "text": "SOURCE ARTICLE 76 ARTICLE 165",
+          "role": "institution"
+        },
+        {
+          "text": "APPOINTER PRESIDENT GOVERNOR",
+          "role": "evidence"
+        },
+        {
+          "text": "QUALIFICATION SUPREME COURT JUDGE ROUTE HIGH COURT JUDGE ROUTE",
+          "role": "institution"
+        },
+        {
+          "text": "ADVICE GOVERNMENT OF INDIA STATE GOVERNMENT",
+          "role": "institution"
+        },
+        {
+          "text": "AUDIENCE TEXT ALL COURTS IN INDIA NO MATCHING EXPRESS",
+          "role": "caution"
+        },
+        {
+          "text": "LEGISLATURE ARTICLE 88 ARTICLE 177",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "DIMENSION ATTORNEY GENERAL ADVOCATE GENERAL",
+        "Source Article 76 Article 165",
+        "Appointer President Governor",
+        "Qualification Supreme Court Judge route High Court Judge route",
+        "Advice Government of India State Government"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "DIMENSION ATTORNEY GENERAL ADVOCATE GENERAL",
+          "Qualification Supreme Court Judge route High Court Judge route",
+          "Legislature Article 88 Article 177",
+          "Qualification Supreme Court Judge route High Court Judge route"
+        ],
+        [
+          "Source Article 76 Article 165",
+          "Advice Government of India State Government",
+          "Vote none by office none by office",
+          ""
+        ],
+        [
+          "Appointer President Governor",
+          "Audience text all courts in India no matching express clause",
+          "Pleasure President Governor",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "DIMENSION ATTORNEY GENERAL ADVOCATE GENERAL",
+            "Source Article 76 Article 165",
+            "Appointer President Governor"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Qualification Supreme Court Judge route High Court Judge route",
+            "Advice Government of India State Government",
+            "Audience text all courts in India no matching express clause"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Legislature Article 88 Article 177",
+            "Vote none by office none by office",
+            "Pleasure President Governor"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Qualification Supreme Court Judge route High Court Judge route"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Qualification Supreme Court Judge route High Court Judge route.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Attorney-General.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\33_Attorney-General-and-Advocate-General.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\g6\\polity-33_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "GOVERNMENT CLIENT COURT DUTY AND CONFIDENTIALITY",
+      "structural_type": "law-officer-government-client-ethics",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GOVERNMENT CLIENT COURT DUTY AND CONFIDENTIALITY",
+          "role": "institution"
+        },
+        {
+          "text": "GOVERNMENT CLIENT",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPECTS LOYAL, COMPETENT AND CONFIDENTIAL ADVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "COURT DUTY",
+          "role": "institution"
+        },
+        {
+          "text": "CANDOUR; NO MISLEADING SUBMISSION OR SUPPRESSED BINDING AUTHORITY",
+          "role": "caution"
+        },
+        {
+          "text": "PROFESSIONAL PRIVILEGE",
+          "role": "outcome"
+        },
+        {
+          "text": "PROTECTS QUALIFYING COMMUNICATIONS SUBJECT TO LAW AND EXCEPTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "CONFLICT CONTROL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GOVERNMENT CLIENT → expects loyal, competent and confidential advice",
+        "COURT DUTY → candour; no misleading submission or suppressed binding authority",
+        "PROFESSIONAL PRIVILEGE → protects qualifying communications subject to law and exceptions",
+        "CONFLICT CONTROL → identify prior/current interests → disclose → recuse or obtain permission",
+        "BALANCE: loyalty to government operates within law and professional responsibility."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "GOVERNMENT CLIENT → expects loyal, competent and confidential advice",
+            "COURT DUTY → candour; no misleading submission or suppressed binding authority"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "PROFESSIONAL PRIVILEGE → protects qualifying communications subject to law and exceptions",
+            "CONFLICT CONTROL → identify prior/current interests → disclose → recuse or obtain permission"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "BALANCE: loyalty to government operates within law and professional responsibility.",
+            "GOVERNMENT CLIENT → expects loyal, competent and confidential advice"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "COURT DUTY → candour; no misleading submission or suppressed binding authority",
+            "PROFESSIONAL PRIVILEGE → protects qualifying communications subject to law and exceptions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BALANCE: loyalty to government operates within law and professional responsibility.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Attorney-General.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\33_Attorney-General-and-Advocate-General.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\g6\\polity-33_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INDEPENDENCE, CONVENTIONS AND FAIR STATE PANEL SELECTION",
+      "structural_type": "law-officer-independence-case",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INDEPENDENCE, CONVENTIONS AND FAIR STATE PANEL SELECTION",
+          "role": "institution"
+        },
+        {
+          "text": "STRUCTURAL TENSION",
+          "role": "outcome"
+        },
+        {
+          "text": "TRUSTED COUNSEL + PLEASURE TENURE + ASSIGNMENT CONTROL",
+          "role": "comparison"
+        },
+        {
+          "text": "QUALIFICATION + COURT DUTY + CONFLICT RULES + REASONED",
+          "role": "institution"
+        },
+        {
+          "text": "STATE OF PUNJAB V. BRIJESHWAR SINGH CHAHAL (2016)",
+          "role": "institution"
+        },
+        {
+          "text": "STATE PANEL SELECTION MUST BE FAIR AND OBJECTIVE",
+          "role": "institution"
+        },
+        {
+          "text": "JUDGMENT DID NOT REPLACE GOVERNOR APPOINTMENT OF ADVOCATE GENERAL",
+          "role": "caution"
+        },
+        {
+          "text": "TRANSPARENT CRITERIA, CONFLICT REGISTER, REASONED RECUSALS AND REVIEWABLE PROCEDURES.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STRUCTURAL TENSION → trusted counsel + pleasure tenure + assignment control",
+        "COUNTERWEIGHT → qualification + court duty + conflict rules + reasoned advice",
+        "STATE OF PUNJAB V. BRIJESHWAR SINGH CHAHAL (2016) → State panel selection must be fair",
+        "LIMIT → judgment did not replace Governor appointment of Advocate General under Article 165",
+        "REFORM: transparent criteria, conflict register, reasoned recusals and reviewable procedures."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "STRUCTURAL TENSION → trusted counsel + pleasure tenure + assignment control",
+            "COUNTERWEIGHT → qualification + court duty + conflict rules + reasoned advice"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "STATE OF PUNJAB V. BRIJESHWAR SINGH CHAHAL (2016) → State panel selection must be fair and objective",
+            "LIMIT → judgment did not replace Governor appointment of Advocate General under Article 165"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "REFORM: transparent criteria, conflict register, reasoned recusals and reviewable procedures.",
+            "STRUCTURAL TENSION → trusted counsel + pleasure tenure + assignment control"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "COUNTERWEIGHT → qualification + court duty + conflict rules + reasoned advice",
+            "STATE OF PUNJAB V. BRIJESHWAR SINGH CHAHAL (2016) → State panel selection must be fair and objective"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COUNTERWEIGHT → qualification + court duty + conflict rules + reasoned advice.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Attorney-General.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\33_Attorney-General-and-Advocate-General.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\g6\\polity-33_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "CURRENT CONTROLS PYQS TRAPS AND ANSWER SYNTHESIS",
+      "structural_type": "law-officer-answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CURRENT CONTROLS PYQS TRAPS AND ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "CONTROL DATE",
+          "role": "outcome"
+        },
+        {
+          "text": "5 SEPTEMBER 2026; NO VOLATILE OFFICEHOLDER FROZEN",
+          "role": "caution"
+        },
+        {
+          "text": "PYQ 2019",
+          "role": "evidence"
+        },
+        {
+          "text": "AGI AS CHIEF LEGAL ADVISER",
+          "role": "primary"
+        },
+        {
+          "text": "PYQ 2025",
+          "role": "outcome"
+        },
+        {
+          "text": "RESPONSIBILITIES, RIGHTS AND LIMITATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "PRELIMS 2022",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONTROL DATE → 5 September 2026; no volatile officeholder frozen",
+        "PYQ 2019 → AGI as chief legal adviser",
+        "PYQ 2025 → responsibilities, rights and limitations",
+        "PRELIMS 2022 → AGI versus Solicitor General constitutional position",
+        "FIREWALL: pleasure != impeachment"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CONTROL DATE → 5 September 2026; no volatile officeholder frozen",
+            "PYQ 2019 → AGI as chief legal adviser",
+            "PYQ 2025 → responsibilities, rights and limitations"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "PRELIMS 2022 → AGI versus Solicitor General constitutional position",
+            "FIREWALL: pleasure != impeachment",
+            "audience != assigned brief"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "speak != vote privilege != blanket immunity",
+            "private practice != conflict-free practice",
+            "MAINS: source → function/right → limits → dual-role tension → qualified reform."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LEGAL/SOURCE LIMIT: The 2025 Gazette reappointed R.",
+            "Venkataramani as Attorney General for two years from 1 October 2025",
+            "the 2026 rules amendment concerns fees."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "pleasure != impeachment | audience != assigned brief | speak != vote privilege != blanket immunity | private practice != conflict-free practice.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-33\\g5-source\\polity-33_g5-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Attorney-General.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\33_Attorney-General-and-Advocate-General.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\g6\\polity-33_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PROFESSIONAL AND COMPARATIVE ENRICHMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "[ANALYSIS] PLEASURE TENURE ENABLES POLITICAL CONFIDENCE BUT MAKES NEUTRALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "HEAVILY ON PROFESSIONAL CONVENTION, CANDOUR AND TRANSPARENT CONFLICT MANAGEMENT.",
+          "role": "evidence"
+        },
+        {
+          "text": "[FACT] STATE OF PUNJAB V.",
+          "role": "institution"
+        },
+        {
+          "text": "STATE OF PUNJAB V. BRIJESHWAR SINGH CHAHAL (2016) SUPPORTS FAIR, OBJECTIVE AND SUITABILITY-BASED",
+          "role": "outcome"
+        },
+        {
+          "text": "IT DOES NOT REPLACE THE GOVERNOR'S ARTICLE 165 APPOINTMENT.",
+          "role": "caution"
+        },
+        {
+          "text": "[LIMIT] UNION RULE 8 RESTRICTIONS CANNOT BE COPIED AUTOMATICALLY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "Professional and comparative enrichment",
+            "[ANALYSIS] Pleasure tenure enables political confidence but makes neutrality depend",
+            "heavily on professional convention, candour and transparent conflict management.",
+            "[FACT] State of Punjab v."
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "State of Punjab v. Brijeshwar Singh Chahal (2016) supports fair, objective and suitability-based State panel-lawyer selection",
+            "it does not replace the Governor's Article 165 appointment.",
+            "[LIMIT] Union Rule 8 restrictions cannot be copied automatically onto every State Advocate General; State rules and professional law must be checked.",
+            "[LIMIT] An AGI opinion advises the government and advocacy presents its legal case"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "neither binds a court or converts the law officer into an independent prosecutor.",
+            "Professional and comparative enrichment - [ANALYSIS] Pleasure tenure enables political confidence but",
+            "makes neutrality depend heavily on professional convention, candour and transparent conflict management."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

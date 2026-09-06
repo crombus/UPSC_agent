@@ -519,6 +519,45 @@ The exam-safe limitation is that make centrally sponsored schemes flexible and j
 
 > **Core verdict:** Trust is not goodwill. It is the repeated institutional experience that consultation occurs before compulsion, reasons accompany discretion, and agreed fiscal rules are honoured.
 
+### Semantic-completeness ownership and PYQ control
+
+- **Legislative relations:** Articles 245-255, the Seventh Schedule and Articles
+  246A/248 establish territorial reach, distribution, GST competence, residue and
+  repugnancy. Parliament enters the State field only through the distinct routes
+  in Articles 249, 250, 252, 253 and 356.
+- **Conflict doctrines:** pith and substance tests true character; territorial
+  nexus tests State-law reach; colourable legislation tests disguised incompetence;
+  harmonious construction seeks coexistence; Article 254 resolves repugnancy,
+  including the limited President-assented State-law exception in clause (2).
+- **Administrative relations:** Articles 256-257 directions, Article 258/258A
+  entrustment, Article 261 full faith and credit, Article 263 coordination,
+  Article 312 All-India Services, and Articles 355/365 must retain separate
+  triggers and consequences.
+- **CBI boundary:** Section 6 of the Delhi Special Police Establishment Act requires
+  State consent for ordinary CBI exercise of powers in a State. Withdrawal of
+  general consent does not displace constitutional-court power under Articles
+  32/226 or automatically nullify every lawfully commenced investigation.
+- **Financial relations:** Articles 268-281, 292-293, Article 246A/269A/279A,
+  the divisible pool, grants, cesses/surcharges, borrowing and Finance Commission
+  recommendations must be analysed as distinct vertical and horizontal mechanisms.
+- **Inter-State relations:** Article 262 plus the 1956 water-disputes statute,
+  Article 263, statutory Zonal Councils, the North-Eastern Council, Article 261 and
+  Articles 301-307 create different adjudicatory, consultative and market routes.
+- **Commissions:** Rajamannar, Sarkaria and Punchhi recommendations are named
+  reform evidence, not binding constitutional amendments. Article 356 remains a
+  last-resort control under S.R. Bommai.
+- **Current assent law:** Special Reference No. 1 of 2025 holds that the Governor
+  has three Article 200 options, acts with discretion rather than State-Cabinet
+  advice for that choice, and is not subject to merits review; only prolonged,
+  unexplained and indefinite inaction permits limited mandamus to act.
+- **Current fiscal control:** the Sixteenth Finance Commission submitted its report
+  on 17 November 2025 for 2026-31 and retained forty-one per cent vertical
+  devolution. Mohit Minerals continues to treat GST Council recommendations as
+  persuasive rather than binding.
+- **Four-ledger/PYQ control:** all four relation dimensions, doctrines, commissions,
+  institutions, live legal status and the eleven direct/supporting 2018-2025
+  demands were reconciled; federal/unitary taxonomy stays in Topic 12.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Original hard MCQ set - strict A -> B -> C -> D rotation

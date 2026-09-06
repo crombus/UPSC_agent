@@ -958,6 +958,54 @@ The exam-safe limitation is that final Foundation/Core trap firewall.
 13. Ambedkar's relevant resignation was tendered in 1951, not 1953.
 14. Scholarly quotations are attributed analytical tags, not constitutional law.
 
+### Semantic-completeness ownership and PYQ control
+
+- **Responsible-executive spine:** Article 74 creates the Prime-Minister-headed
+  Council that aids and advises the President; Article 75 separately controls
+  appointment, pleasure, collective responsibility, oaths and the six-month rule.
+  Article 77 controls formal executive action and business rules; Article 78 makes
+  the Prime Minister the constitutional information channel to the President.
+- **Appointment and confidence:** the President appoints the person most likely to
+  command Lok Sabha confidence. A decisive majority leaves no personal choice; a
+  hung House permits bounded judgment tested promptly on the floor. The Prime
+  Minister may belong to either House or remain a non-member only for six
+  consecutive months under Article 75(5).
+- **Responsibility firewall:** Article 75(3) collective responsibility is owed only
+  to the Lok Sabha and makes the ministry stand or fall together. Article 75(2)
+  individual pleasure is normally enforced on the Prime Minister's advice.
+  Political, individual and legal responsibility are not synonyms; Article 74(2)
+  protects advice from inquiry but not every resulting executive act from review.
+- **Ministry size and defection:** Article 75(1A), inserted by the Ninety-first
+  Amendment, caps all Union ministers including the Prime Minister at fifteen per
+  cent of Lok Sabha strength. Article 75(1B) separately bars a disqualified
+  defector from ministership for the stated period.
+- **Institution map:** the Council is the wider constitutional ministry; Cabinet is
+  its smaller decision core and is expressly defined for Article 352(3). Cabinet
+  Committees arise under business-rule practice; the Cabinet Secretariat and PMO
+  are administrative staff institutions; a kitchen cabinet is informal. None of
+  the last four may be treated as a constitutional substitute for the Council.
+- **Business machinery:** the Government of India (Allocation of Business) Rules,
+  1961 distribute subjects among ministries; the Transaction of Business Rules,
+  1961 prescribe decision, consultation and Cabinet routes. Authentication under
+  Article 77 does not erase ministerial responsibility or judicial review of the
+  underlying legality.
+- **Prime-ministerial government:** portfolio control, party leadership, Cabinet
+  agenda, dissolution advice and the Article 78 channel concentrate power.
+  Cabinet deliberation, coalition arithmetic, federal politics, Parliament,
+  elections and judicial review qualify rather than abolish that concentration.
+- **Continuity and caretaker control:** resignation or death of the Prime Minister
+  ends the ministry politically, while Article 74 requires constitutional
+  continuity until a successor assumes office. Caretaker restraint is convention,
+  not a separate codified constitutional government.
+- **Current control:** official PM India identifies Narendra Modi as Prime
+  Minister. Cabinet Secretariat continues to publish the two 1961 business-rule
+  sets and dated Cabinet-Committee compositions; committee membership and chairs
+  must never be frozen beyond the cited notification.
+- **Four-ledger/PYQ control:** every routed 2018-2026 demand was checked against
+  constitutional text, the complete Basic owner, cross-owner boundaries and
+  verified papers. Topic 11 retains the full parliamentary-system comparison;
+  Topic 17 owns detailed parliamentary procedure.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Original MCQ loop - strict A -> B -> C -> D rotation

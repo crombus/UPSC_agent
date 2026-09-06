@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T03:26:31+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\international-relations-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "561b38e0097b94672d2754988f963a80fed3fffb319e8fd0ca5ef338f3e07a93",
+    "sha256_after": "561b38e0097b94672d2754988f963a80fed3fffb319e8fd0ca5ef338f3e07a93",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "International Relations": 1
+  },
+  "sections": {
+    "International Relations — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 10935,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1857,
+    "json_count": 4853,
+    "total_bytes": 4271179737,
+    "by_extension": {
+      ".json": 4853,
+      ".md": 1857,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "international-relations-07",
+      "topic_title": "India-Africa Development and Digital Partnership",
+      "subject": "International Relations",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 7,
+      "source_record_id": "international-relations-07:learner-v2:g5",
+      "source_generation": 5,
+      "destination_folder": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\07-India-Africa-8bde6e76-Partnership",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-07\\g5\\international-relations-07_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\07-India-Africa-8bde6e76-Partnership\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "cfd746c995be5154ee9bdc1a1159a055099fa4b28063091a74725d2f56e85845",
+          "output_sha256": "cfd746c995be5154ee9bdc1a1159a055099fa4b28063091a74725d2f56e85845",
+          "source_output_equal": true,
+          "bytes": 888614
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-07\\g5\\international-relations-07_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\07-India-Africa-8bde6e76-Partnership\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "00e65cc3612acd646e2cb5ae26c12b70f3baccae43e88c411236494ec89bed1f",
+          "output_sha256": "00e65cc3612acd646e2cb5ae26c12b70f3baccae43e88c411236494ec89bed1f",
+          "source_output_equal": true,
+          "bytes": 676604
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-07\\carvaka-g5\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\07-India-Africa-8bde6e76-Partnership\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "24a18ecfd178562c82b2fecb799202093bcc00f68f42f3f693b8bc6c7f8101d0",
+          "output_sha256": "24a18ecfd178562c82b2fecb799202093bcc00f68f42f3f693b8bc6c7f8101d0",
+          "source_output_equal": true,
+          "bytes": 2660231
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-07\\carvaka-g5\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\07-India-Africa-8bde6e76-Partnership\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "a1fed6194db69ff015720a4fda84edd5650167268c5985a9c6259e1013c8123f",
+          "output_sha256": "a1fed6194db69ff015720a4fda84edd5650167268c5985a9c6259e1013c8123f",
+          "source_output_equal": true,
+          "bytes": 3496601
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-07\\carvaka-g5\\master.png",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\07-India-Africa-8bde6e76-Partnership\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "1e1d1e13d8f1fabe4379199e4bf459d0194ba9bdc71c9bdf4c19d6e7ca807300",
+          "output_sha256": "1e1d1e13d8f1fabe4379199e4bf459d0194ba9bdc71c9bdf4c19d6e7ca807300",
+          "source_output_equal": true,
+          "bytes": 2349290
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-07\\carvaka-g5\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\07-India-Africa-8bde6e76-Partnership\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "22fda595ebb59da38c3c9e688179b9c88ecabb77657352c27eb4092fc2154c8d",
+          "output_sha256": "22fda595ebb59da38c3c9e688179b9c88ecabb77657352c27eb4092fc2154c8d",
+          "source_output_equal": true,
+          "bytes": 8009
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-07\\carvaka-g5\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\07-India-Africa-8bde6e76-Partnership\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "f96a321641078a43608517a85da87e82406257a7e60ba4c43aed8064ba808831",
+          "output_sha256": "f96a321641078a43608517a85da87e82406257a7e60ba4c43aed8064ba808831",
+          "source_output_equal": true,
+          "source_text_sha256": "22fda595ebb59da38c3c9e688179b9c88ecabb77657352c27eb4092fc2154c8d",
+          "normalized_text_equal": true,
+          "bytes": 59563
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 9,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 8,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 9,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 9,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 11,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 9,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 8,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 7,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 10,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 8,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 9,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 9,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 139,
+        "solved_practice_workbook": 85,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 139,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 85,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          12304
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

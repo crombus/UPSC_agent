@@ -1,0 +1,1092 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-10",
+  "subject": "Geography",
+  "title": "COASTAL LANDFORMS / INDIA COAST AND CRZ",
+  "short_route": "COASTAL-SYSTEM BALANCE → REFRACTION MAP → EROSIONAL SEQUENCE → CLIFF RETREAT SECTION → DEPOSITIONAL DISCRIMINATOR → RELATIVE SEA-LEVEL FORK",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-10-deep-review-2026-09-05-g4.json",
+  "ascii_spec_sha256": "8ff520627a0f21ed0687228f149747b8ff3ffe344370b54cd4fbb00decaa9c7e",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "COASTAL-SYSTEM BALANCE",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "COASTAL-SYSTEM BALANCE",
+          "role": "primary"
+        },
+        {
+          "text": "WAVES + TIDES + CURRENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "MARINE ENERGY",
+          "role": "comparison"
+        },
+        {
+          "text": "RIVERS + CLIFFS + OFFSHORE",
+          "role": "evidence"
+        },
+        {
+          "text": "SEDIMENT SUPPLY",
+          "role": "primary"
+        },
+        {
+          "text": "SEA LEVEL + LAND MOTION",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCOMMODATION SPACE",
+          "role": "comparison"
+        },
+        {
+          "text": "HUMAN WORKS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WAVES + TIDES + CURRENTS → marine energy",
+        "RIVERS + CLIFFS + OFFSHORE → sediment supply",
+        "SEA LEVEL + LAND MOTION → accommodation space",
+        "HUMAN WORKS → redistribute erosion and accretion",
+        "MUST REMEMBER: Coastal morphology connects wave generation, refraction, erosion, longshore drift, sediment cells, deposition and"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WAVES + TIDES + CURRENTS → marine energy",
+            "RIVERS + CLIFFS + OFFSHORE → sediment supply"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEA LEVEL + LAND MOTION → accommodation space",
+            "HUMAN WORKS → redistribute erosion and accretion"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Coastal morphology connects wave generation, refraction, erosion, longshore drift, sediment cells, deposition and",
+            "sea-level/tectonic change to cliffs, caves-arches-stacks, beaches, spits, bars, lagoons, deltas and India's east-west coast contrast."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Coastal morphology connects wave generation, refraction, erosion, longshore drift, sediment cells, deposition and sea-level/tectonic change to cliffs, caves-arches-stacks, beaches, spits, bars, lagoons, deltas and India's east-west coast contrast.",
+      "source_references": [
+        "Coastal system and sediment budget",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "REFRACTION MAP",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "REFRACTION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "DEEP WATER",
+          "role": "outcome"
+        },
+        {
+          "text": "WAVE FRONTS TRAVEL FASTER",
+          "role": "comparison"
+        },
+        {
+          "text": "SHALLOW HEADLAND",
+          "role": "evidence"
+        },
+        {
+          "text": "FRONTS SLOW AND CONVERGE",
+          "role": "primary"
+        },
+        {
+          "text": "FRONTS DIVERGE AND ENERGY DISPERSES",
+          "role": "outcome"
+        },
+        {
+          "text": "EROSION FOCUS",
+          "role": "comparison"
+        },
+        {
+          "text": "DEPOSITIONAL SHELTER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEEP WATER → wave fronts travel faster",
+        "SHALLOW HEADLAND → fronts slow and converge",
+        "BAY → fronts diverge and energy disperses",
+        "RESULT → erosion focus / depositional shelter"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEEP WATER → wave fronts travel faster",
+            "SHALLOW HEADLAND → fronts slow and converge"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BAY → fronts diverge and energy disperses",
+            "RESULT → erosion focus / depositional shelter"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEEP WATER → wave fronts travel faster",
+            "SHALLOW HEADLAND → fronts slow and converge"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BAY → fronts diverge and energy disperses; RESULT → erosion focus / depositional shelter.",
+      "source_references": [
+        "Wave refraction and energy concentration",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "EROSIONAL SEQUENCE",
+      "structural_type": "process-flow",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "EROSIONAL SEQUENCE",
+          "role": "primary"
+        },
+        {
+          "text": "HYDRAULIC ACTION + ABRASION",
+          "role": "outcome"
+        },
+        {
+          "text": "WIDENING AND ROOF ATTACK",
+          "role": "comparison"
+        },
+        {
+          "text": "ROOF COLLAPSE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "JOINT / FAULT → hydraulic action + abrasion",
+        "CAVE → widening and roof attack",
+        "ARCH → roof collapse → STACK",
+        "STACK → undercutting → STUMP"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "JOINT / FAULT → hydraulic action + abrasion",
+            "CAVE → widening and roof attack"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ARCH → roof collapse → STACK",
+            "STACK → undercutting → STUMP"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "JOINT / FAULT → hydraulic action + abrasion",
+            "CAVE → widening and roof attack"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "JOINT / FAULT → hydraulic action + abrasion.",
+      "source_references": [
+        "Marine erosion agents",
+        "Cave, arch, stack and stump",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CLIFF RETREAT SECTION",
+      "structural_type": "replacement-diagram",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CLIFF RETREAT SECTION",
+          "role": "primary"
+        },
+        {
+          "text": "WAVE NOTCH",
+          "role": "outcome"
+        },
+        {
+          "text": "BASAL UNDERCUTTING",
+          "role": "comparison"
+        },
+        {
+          "text": "INSTABILITY AND COLLAPSE",
+          "role": "evidence"
+        },
+        {
+          "text": "DEBRIS REMOVAL",
+          "role": "primary"
+        },
+        {
+          "text": "RENEWED ATTACK",
+          "role": "outcome"
+        },
+        {
+          "text": "WIDENING WAVE-CUT PLATFORM",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "WAVE NOTCH → basal undercutting",
+        "OVERHANG → instability and collapse",
+        "DEBRIS REMOVAL → renewed attack",
+        "RETREAT → widening wave-cut platform"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WAVE NOTCH → basal undercutting",
+            "OVERHANG → instability and collapse"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DEBRIS REMOVAL → renewed attack",
+            "RETREAT → widening wave-cut platform"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WAVE NOTCH → basal undercutting",
+            "OVERHANG → instability and collapse"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEBRIS REMOVAL → renewed attack; RETREAT → widening wave-cut platform.",
+      "source_references": [
+        "Cliff, notch and wave-cut platform",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "DEPOSITIONAL DISCRIMINATOR",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DEPOSITIONAL DISCRIMINATOR",
+          "role": "primary"
+        },
+        {
+          "text": "ONE END ATTACHED",
+          "role": "outcome"
+        },
+        {
+          "text": "CROSSES BAY OR MOUTH",
+          "role": "comparison"
+        },
+        {
+          "text": "WATER ENCLOSED BEHIND BAR",
+          "role": "evidence"
+        },
+        {
+          "text": "JOINS ISLAND TO LAND",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SPIT → one end attached",
+        "BAR → crosses bay or mouth",
+        "LAGOON → water enclosed behind bar",
+        "TOMBOLO → joins island to land"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SPIT → one end attached",
+          "LAGOON → water enclosed behind bar",
+          "SPIT → one end attached"
+        ],
+        [
+          "BAR → crosses bay or mouth",
+          "TOMBOLO → joins island to land",
+          "BAR → crosses bay or mouth"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SPIT → one end attached",
+            "BAR → crosses bay or mouth"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LAGOON → water enclosed behind bar",
+            "TOMBOLO → joins island to land"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SPIT → one end attached",
+            "BAR → crosses bay or mouth"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LAGOON → water enclosed behind bar; TOMBOLO → joins island to land.",
+      "source_references": [
+        "Longshore drift and spits",
+        "Bars, lagoons and tombolos",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "RELATIVE SEA-LEVEL FORK",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RELATIVE SEA-LEVEL FORK",
+          "role": "primary"
+        },
+        {
+          "text": "LAND RISE",
+          "role": "outcome"
+        },
+        {
+          "text": "SEA FALL",
+          "role": "comparison"
+        },
+        {
+          "text": "RAISED BEACH + TERRACE",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPOSED MARINE FORMS",
+          "role": "primary"
+        },
+        {
+          "text": "LAND FALL",
+          "role": "outcome"
+        },
+        {
+          "text": "SEA RISE",
+          "role": "comparison"
+        },
+        {
+          "text": "DROWNED RIVER VALLEY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LAND RISE / SEA FALL → emergence",
+        "RAISED BEACH + TERRACE → exposed marine forms",
+        "LAND FALL / SEA RISE → submergence",
+        "RIA = drowned river valley / FJORD = glacial trough"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LAND RISE / SEA FALL → emergence",
+            "RAISED BEACH + TERRACE → exposed marine forms"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LAND FALL / SEA RISE → submergence",
+            "RIA = drowned river valley / FJORD = glacial trough"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LAND RISE / SEA FALL → emergence",
+            "RAISED BEACH + TERRACE → exposed marine forms"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RIA = drowned river valley / FJORD = glacial trough.",
+      "source_references": [
+        "Emergent and submergent coasts",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "STORM-SURGE CHAIN",
+      "structural_type": "hazard-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "STORM-SURGE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "CYCLONE WIND + LOW PRESSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "WATER SETUP",
+          "role": "comparison"
+        },
+        {
+          "text": "TRACK + SHELF + BATHYMETRY",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCAL AMPLIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "HIGH TIDE + WAVES + RIVER FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "COMPOUND LEVEL",
+          "role": "comparison"
+        },
+        {
+          "text": "EXPOSURE + WEAK EVACUATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CYCLONE WIND + LOW PRESSURE → water setup",
+        "TRACK + SHELF + BATHYMETRY → local amplification",
+        "HIGH TIDE + WAVES + RIVER FLOW → compound level",
+        "EXPOSURE + WEAK EVACUATION → disaster risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CYCLONE WIND + LOW PRESSURE → water setup",
+            "TRACK + SHELF + BATHYMETRY → local amplification"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HIGH TIDE + WAVES + RIVER FLOW → compound level",
+            "EXPOSURE + WEAK EVACUATION → disaster risk"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CYCLONE WIND + LOW PRESSURE → water setup",
+            "TRACK + SHELF + BATHYMETRY → local amplification"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HIGH TIDE + WAVES + RIVER FLOW → compound level.",
+      "source_references": [
+        "Storm surge and compound water level",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INDIA COAST CONTRAST",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDIA COAST CONTRAST",
+          "role": "primary"
+        },
+        {
+          "text": "BROADER PLAINS + LARGE DELTAS",
+          "role": "outcome"
+        },
+        {
+          "text": "NARROWER PLAIN + MANY ESTUARIES",
+          "role": "comparison"
+        },
+        {
+          "text": "PORT TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "DEPTH, SHELTER, SILTATION, ENGINEERING",
+          "role": "primary"
+        },
+        {
+          "text": "TENDENCY, NOT UNIVERSAL BINARY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EAST → broader plains + large deltas",
+        "WEST → narrower plain + many estuaries",
+        "PORT TEST → depth, shelter, siltation, engineering",
+        "RULE → tendency, not universal binary"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "EAST → broader plains + large deltas",
+          "PORT TEST → depth, shelter, siltation, engineering",
+          "EAST → broader plains + large deltas"
+        ],
+        [
+          "WEST → narrower plain + many estuaries",
+          "RULE → tendency, not universal binary",
+          "WEST → narrower plain + many estuaries"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EAST → broader plains + large deltas",
+            "WEST → narrower plain + many estuaries"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PORT TEST → depth, shelter, siltation, engineering",
+            "RULE → tendency, not universal binary"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EAST → broader plains + large deltas",
+            "WEST → narrower plain + many estuaries"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PORT TEST → depth, shelter, siltation, engineering; RULE → tendency, not universal binary.",
+      "source_references": [
+        "India east-west coastal map",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "NCCR EVIDENCE BOUNDARY",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NCCR EVIDENCE BOUNDARY",
+          "role": "evidence"
+        },
+        {
+          "text": "1990-2018 ASSESSMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "ABOUT 33.6 PERCENT",
+          "role": "comparison"
+        },
+        {
+          "text": "ABOUT 26.9 PERCENT",
+          "role": "evidence"
+        },
+        {
+          "text": "ABOUT 39.6 PERCENT; NOT AN ANNUAL RATE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PERIOD → 1990-2018 assessment",
+        "ERODING → about 33.6 percent",
+        "ACCRETING → about 26.9 percent",
+        "STABLE → about 39.6 percent; not an annual rate"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PERIOD → 1990-2018 assessment",
+          "ACCRETING → about 26.9 percent",
+          "PERIOD → 1990-2018 assessment"
+        ],
+        [
+          "ERODING → about 33.6 percent",
+          "STABLE → about 39.6 percent; not an annual rate",
+          "ERODING → about 33.6 percent"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PERIOD → 1990-2018 assessment",
+            "ERODING → about 33.6 percent"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ACCRETING → about 26.9 percent",
+            "STABLE → about 39.6 percent; not an annual rate"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PERIOD → 1990-2018 assessment",
+            "ERODING → about 33.6 percent"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STABLE → about 39.6 percent; not an annual rate.",
+      "source_references": [
+        "NCCR shoreline evidence",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CRZ IMPLEMENTATION LADDER",
+      "structural_type": "institutional-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CRZ IMPLEMENTATION LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "CATEGORY-SPECIFIC NATIONAL RULES",
+          "role": "outcome"
+        },
+        {
+          "text": "HTL/LTL AND TECHNICAL INPUTS",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSULTATION + APPROVAL + LOCAL MAP",
+          "role": "evidence"
+        },
+        {
+          "text": "APPRAISAL, DECISION, COMPLIANCE",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "EMERGENT AND SUBMERGENT COASTS DESCRIBE RELATIVE SEA-LEVEL HISTORIES, EROSIONAL",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "NOTIFICATION → category-specific national rules",
+        "MAPPING → HTL/LTL and technical inputs",
+        "CZMP → consultation + approval + local map",
+        "PROJECT → appraisal, decision, compliance",
+        "CLOSE DISTINCTION: Emergent and submergent coasts describe relative sea-level histories, erosional and depositional forms"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NOTIFICATION → category-specific national rules",
+            "MAPPING → HTL/LTL and technical inputs"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CZMP → consultation + approval + local map",
+            "PROJECT → appraisal, decision, compliance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Emergent and submergent coasts describe relative sea-level histories, erosional and depositional forms",
+            "can coexist, and CRZ categories/regulatory lines are legal-planning constructs rather than geomorphic shoreline types."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Emergent and submergent coasts describe relative sea-level histories, erosional and depositional forms can coexist, and CRZ categories/regulatory lines are legal-planning constructs rather than geomorphic shoreline types.",
+      "source_references": [
+        "CRZ category and CZMP logic",
+        "Institutions and clearance boundaries",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "COASTAL RESPONSE HIERARCHY",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "COASTAL RESPONSE HIERARCHY",
+          "role": "primary"
+        },
+        {
+          "text": "KEEP NEW EXPOSURE OUT OF HIGH-RISK SPACE",
+          "role": "caution"
+        },
+        {
+          "text": "BUFFERS + RESILIENT USE",
+          "role": "comparison"
+        },
+        {
+          "text": "MOVE ASSETS WHERE PERSISTENCE FAILS",
+          "role": "evidence"
+        },
+        {
+          "text": "SELECTIVE WORKS WITH DOWNDRIFT AUDIT",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "EROSION CONTROL CAN SHIFT RISK DOWNDRIFT; PORTS, DAMS, SAND",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "AVOID → keep new exposure out of high-risk space",
+        "RESTORE / ACCOMMODATE → buffers + resilient use",
+        "RETREAT → move assets where persistence fails",
+        "PROTECT → selective works with downdrift audit",
+        "EVIDENCE LIMIT: Erosion control can shift risk downdrift"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AVOID → keep new exposure out of high-risk space",
+            "RESTORE / ACCOMMODATE → buffers + resilient use"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RETREAT → move assets where persistence fails",
+            "PROTECT → selective works with downdrift audit"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Erosion control can shift risk downdrift",
+            "ports, dams, sand mining, storms, subsidence and sea-level rise interact, while CRZ rules, clearances and project status require"
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: Erosion control can shift risk downdrift; ports, dams, sand mining, storms, subsidence and sea-level rise interact, while CRZ rules, clearances and project status require exact notification/date/source discipline.",
+      "answer_line": "Erosion control can shift risk downdrift; ports, dams, sand mining, storms, subsidence and sea-level rise interact, while CRZ rules, clearances and project status require exact notification/date/source discipline.",
+      "source_references": [
+        "PYQ route and integrated response",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "COAST ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "COAST ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE + MAP",
+          "role": "outcome"
+        },
+        {
+          "text": "PROCESS AND COASTAL SECTOR",
+          "role": "mechanism"
+        },
+        {
+          "text": "ENERGY, SEDIMENT AND SEA-LEVEL CHAIN",
+          "role": "evidence"
+        },
+        {
+          "text": "PERIOD, CATEGORY, PLAN AND STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "INTEGRATED, ADAPTIVE AND LOCALLY MAPPED",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DEFINE + MAP → process and coastal sector",
+        "DERIVE → energy, sediment and sea-level chain",
+        "VERIFY → period, category, plan and status",
+        "VERDICT → integrated, adaptive and locally mapped"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE + MAP → process and coastal sector",
+            "DERIVE → energy, sediment and sea-level chain"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VERIFY → period, category, plan and status",
+            "VERDICT → integrated, adaptive and locally mapped"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE + MAP → process and coastal sector",
+            "DERIVE → energy, sediment and sea-level chain"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEFINE + MAP → process and coastal sector.",
+      "source_references": [
+        "PYQ route and integrated response",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "D.R. KHULLAR LISTS CYCLONE DANGERS AS GALES/STRONG WINDS, TORRENTIAL",
+          "role": "outcome"
+        },
+        {
+          "text": "KHULLAR NOTES MOST CASUALTIES FROM CYCLONES ARE CAUSED BY",
+          "role": "comparison"
+        },
+        {
+          "text": "TIDAL WAVES/STORM SURGES, WITH SEVERE SURGES PENETRATING INLAND FROM",
+          "role": "evidence"
+        },
+        {
+          "text": "LOW PRESSURE RAISES SEA LEVEL SLIGHTLY, BUT THE MAIN",
+          "role": "primary"
+        },
+        {
+          "text": "IS STRONG ONSHORE CYCLONE WINDS PILING SEAWATER AGAINST A",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA LINK",
+          "role": "comparison"
+        },
+        {
+          "text": "THE SHALLOW, FUNNEL-SHAPED BAY OF BENGAL AND DELTAIC EAST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "D.R. Khullar lists cyclone dangers as gales/strong winds, torrential rain and high tidal waves, also called storm surges .",
+            "Khullar notes most casualties from cyclones are caused by coastal inundation by",
+            "tidal waves/storm surges, with severe surges penetrating inland from the coast.",
+            "CAUTION: Mechanism: low pressure raises sea level slightly, but the main driver"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "is strong onshore cyclone winds piling seawater against a shallow coast.",
+            "CAUTION: India link: the shallow, funnel-shaped Bay of Bengal and deltaic east coast make Odisha-West Bengal-Bangladesh especially surge-prone.",
+            "Majid Husain describes tropical muddy coasts with mangroves in sediment-rich lagoons, bays, deltas and estuaries, and also mentions salt marshes.",
+            "D.R. Khullar notes mangroves occur along India's sheltered estuaries, tidal creeks, backwaters, salt marshes and mudflats."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: Blue carbon = carbon stored by coastal and marine ecosystems,",
+            "especially mangroves, seagrasses and salt marshes, in biomass and waterlogged sediments.",
+            "CAUTION: India link: Sundarbans, Mahanadi-Godavari-Krishna deltas, Gulf of Kachchh, Gulf of",
+            "Mannar and Andaman-Nicobar ecosystems link coastal protection with climate mitigation."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

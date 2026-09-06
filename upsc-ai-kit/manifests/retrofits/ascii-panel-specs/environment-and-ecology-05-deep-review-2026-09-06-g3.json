@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "environment-and-ecology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "environment_and_ecology_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-05",
+      "display_title": "IUCN Red List and Endemism",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-05\\g3\\environment-and-ecology-05_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Red List category rail",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "NE -> criteria not yet applied",
+            "DD -> evidence inadequate for a risk assessment",
+            "LC -> NT -> VU -> EN -> CR -> EW -> EX",
+            "THREATENED -> VU + EN + CR only",
+            "RULE -> category is assessed risk, not legal protection",
+            "MUST REMEMBER: IUCN Red List categories assess extinction risk through documented..."
+          ],
+          "source_references": [
+            "Red List function",
+            "Nine assessment categories",
+            "Threatened collective term",
+            "Not Evaluated and Data Deficient",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-05\\g3\\environment-and-ecology-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Status fields firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CATEGORY -> assessed extinction-risk class",
+            "CRITERION -> quantitative route supporting the category",
+            "TREND -> increasing, stable, decreasing or unknown",
+            "SCALE -> global or regional/national assessment",
+            "DATE -> assessment vintage; never silently omit it"
+          ],
+          "source_references": [
+            "Category and population trend",
+            "Category and criterion",
+            "Assessment scale",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-05\\g3\\environment-and-ecology-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Criteria A to E map",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "A -> population-size reduction",
+            "B -> restricted range plus applicable subconditions",
+            "C -> small population plus continuing decline",
+            "D -> very small or very restricted population",
+            "E -> quantitative extinction-probability analysis"
+          ],
+          "source_references": [
+            "Criterion A",
+            "Criterion B",
+            "Criterion C",
+            "Criterion D",
+            "Criterion E",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-05\\g3\\environment-and-ecology-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "One-route decision gate",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ASSESS TAXON -> test Criteria A to E",
+            "ONE ROUTE MAY SUFFICE -> only for its applicable category",
+            "CHECK -> threshold, subcriterion, evidence and scale",
+            "DOCUMENT -> category plus criterion plus assessment year",
+            "NEVER -> infer a threshold from the category name alone"
+          ],
+          "source_references": [
+            "Category and criterion",
+            "One qualifying route",
+            "Assessment scale",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-05\\g3\\environment-and-ecology-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "NE and DD diagnostic",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "WERE THE CRITERIA APPLIED?",
+            "NO -> Not Evaluated",
+            "YES, BUT EVIDENCE INADEQUATE -> Data Deficient",
+            "DD -> uncertainty, not reassurance",
+            "RULE -> neither label establishes Least Concern"
+          ],
+          "source_references": [
+            "Not Evaluated and Data Deficient",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-05\\g3\\environment-and-ecology-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Distribution vocabulary",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "NATIVE -> naturally occurs in the stated region",
+            "ENDEMIC -> naturally restricted to the stated region",
+            "RARE -> low abundance or occurrence under a stated measure",
+            "THREATENED -> VU, EN or CR assessment outcome",
+            "RULE -> overlap does not erase distinct meanings",
+            "CLOSE DISTINCTION: IUCN category is not Wildlife Protection Act schedule, CITES appendix,..."
+          ],
+          "source_references": [
+            "Endemic and native",
+            "Endemic, rare and threatened",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-05\\g3\\environment-and-ecology-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Endemism risk pathway",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "RESTRICTED NATURAL RANGE -> fewer spatial refuges",
+            "LOCAL HABITAT LOSS -> affects a larger share of total range",
+            "ISOLATION -> weaker natural recolonisation",
+            "RESULT -> vulnerability may rise",
+            "LIMIT -> endemic does not automatically mean threatened"
+          ],
+          "source_references": [
+            "Endemism as risk multiplier",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-05\\g3\\environment-and-ecology-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Assessment scale lens",
+          "structural_type": "nested-map",
+          "ascii_lines": [
+            "GLOBAL ASSESSMENT -> taxon across its global range",
+            "REGIONAL ASSESSMENT -> taxon inside a stated region",
+            "DIFFERENT SCOPE -> categories may differ",
+            "POPULATION TREND -> separately reported field",
+            "ANSWER RULE -> state scale, year and evidence"
+          ],
+          "source_references": [
+            "Category and population trend",
+            "Assessment scale",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-05\\g3\\environment-and-ecology-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Assessment workflow",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "EVIDENCE -> specialist assessment",
+            "CRITERIA -> documented application",
+            "REVIEW -> consistency and supporting information",
+            "PUBLICATION -> category tied to assessment record",
+            "REASSESSMENT -> later change needs a dated source"
+          ],
+          "source_references": [
+            "Assessment workflow",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-05\\g3\\environment-and-ecology-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Red List and Green Status",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "RED LIST -> extinction risk",
+            "GREEN STATUS -> recovery and conservation impact",
+            "SAME TAXON -> two different analytical questions",
+            "NO SUBSTITUTION -> recovery metric does not erase risk category",
+            "USE -> pair risk diagnosis with recovery ambition"
+          ],
+          "source_references": [
+            "Green Status distinction",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-05\\g3\\environment-and-ecology-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Science law action chain",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "IUCN RED LIST -> scientific global or regional risk assessment",
+            "WILDLIFE LAW -> domestic prohibition, permit and schedule rules",
+            "COURT OR AGENCY -> remedy and implementation choices",
+            "HABITAT ACTION -> mitigation, connectivity and monitoring",
+            "RULE -> no layer automatically determines the next"
+          ],
+          "source_references": [
+            "Red List function",
+            "Science-law-action chain",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-05\\g3\\environment-and-ecology-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "PYQ and answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> category, criterion, trend and scale",
+            "DISTINGUISH -> endemic, native, rare and threatened",
+            "APPLY -> one source-bounded Indian species or habitat route",
+            "QUALIFY -> assessment year and no inferred objective key",
+            "CONCLUDE -> assessment must translate into habitat and legal action",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use taxonomic identity, assessment..."
+          ],
+          "source_references": [
+            "Assessment scale",
+            "Endemic, rare and threatened",
+            "Audited PYQ boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\05_IUCN-Red-List-and-Endemism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-05\\g3\\environment-and-ecology-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

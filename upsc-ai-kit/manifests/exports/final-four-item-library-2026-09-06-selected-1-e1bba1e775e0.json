@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T02:48:57+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "635bdc8018762778ec18fa947ed7749104647d367fc701aff295bdfc80be3fdf",
+    "sha256_after": "635bdc8018762778ec18fa947ed7749104647d367fc701aff295bdfc80be3fdf",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Social Justice": 1
+  },
+  "sections": {
+    "Social Justice — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 10893,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1850,
+    "json_count": 4818,
+    "total_bytes": 4271261331,
+    "by_extension": {
+      ".json": 4818,
+      ".md": 1850,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "social-justice-15",
+      "topic_title": "Labour Social Security, Unorganised and Gig Workers",
+      "subject": "Social Justice",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 15,
+      "source_record_id": "social-justice-15:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\15-Labour-Social-Security-Unorganised-and-Gig-Workers",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-15\\g3\\social-justice-15_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\15-Labour-Social-Security-Unorganised-and-Gig-Workers\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "e53da0273341ceadf36768524063bb702c07d59bee060f624e6c8d5048c8b15f",
+          "output_sha256": "e53da0273341ceadf36768524063bb702c07d59bee060f624e6c8d5048c8b15f",
+          "source_output_equal": true,
+          "bytes": 832380
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-15\\g3\\social-justice-15_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\15-Labour-Social-Security-Unorganised-and-Gig-Workers\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "e78f49b41532eac6157d9e49161d1f071050db4d2c1cfd59e5965faf5ec33b85",
+          "output_sha256": "e78f49b41532eac6157d9e49161d1f071050db4d2c1cfd59e5965faf5ec33b85",
+          "source_output_equal": true,
+          "bytes": 647025
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\flowcharts\\iac-15\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\15-Labour-Social-Security-Unorganised-and-Gig-Workers\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "1ac17de14b030a49fa5a93121cb19232559640af15ba7fe42512093d50aba9ca",
+          "output_sha256": "1ac17de14b030a49fa5a93121cb19232559640af15ba7fe42512093d50aba9ca",
+          "source_output_equal": true,
+          "bytes": 2311775
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\flowcharts\\iac-15\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\15-Labour-Social-Security-Unorganised-and-Gig-Workers\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "ddd53343d2a1ef71d690aceaea91ea12001ab55d10122fbce82c6c1b370990cc",
+          "output_sha256": "ddd53343d2a1ef71d690aceaea91ea12001ab55d10122fbce82c6c1b370990cc",
+          "source_output_equal": true,
+          "bytes": 2688705
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\flowcharts\\iac-15\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\15-Labour-Social-Security-Unorganised-and-Gig-Workers\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "9d7ada41fa679221c841208a963dfe753898f08aebe61fb646bf752f2b6578e9",
+          "output_sha256": "9d7ada41fa679221c841208a963dfe753898f08aebe61fb646bf752f2b6578e9",
+          "source_output_equal": true,
+          "bytes": 2048689
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\flowcharts\\iac-15\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\15-Labour-Social-Security-Unorganised-and-Gig-Workers\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "1f6807ac11d298e26fe1f3fed5e873b7098f3364cd0fd3bd259b41593570fe92",
+          "output_sha256": "1f6807ac11d298e26fe1f3fed5e873b7098f3364cd0fd3bd259b41593570fe92",
+          "source_output_equal": true,
+          "bytes": 5690
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\flowcharts\\iac-15\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\15-Labour-Social-Security-Unorganised-and-Gig-Workers\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "f3979b997d198b98201759b48592b7b5415dc087cfc019e3a9e2333ad51db780",
+          "output_sha256": "f3979b997d198b98201759b48592b7b5415dc087cfc019e3a9e2333ad51db780",
+          "source_output_equal": true,
+          "source_text_sha256": "1f6807ac11d298e26fe1f3fed5e873b7098f3364cd0fd3bd259b41593570fe92",
+          "normalized_text_equal": true,
+          "bytes": 57903
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 7,
+            "maximum_line_characters": 99,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 6,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 6,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 6,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 6,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 7,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 6,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 6,
+            "maximum_line_characters": 98,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 95,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 124,
+        "solved_practice_workbook": 81,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 124,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 81,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11222
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

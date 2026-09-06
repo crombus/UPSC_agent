@@ -1,0 +1,1187 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-18",
+  "subject": "Environment-and-Ecology",
+  "title": "IPCC ASSESSMENT REPORTS",
+  "short_route": "INSTITUTIONAL IDENTITY MAP → ASSESSMENT-PRODUCTION RAIL → THREE-WORKING-GROUP MATRIX → TFI FIREWALL → REPORT-FAMILY HIERARCHY → CYCLE STATUS GATE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g4\\environment-and-ecology-18_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-18-deep-review-2026-09-06-g4.json",
+  "ascii_spec_sha256": "892fe12f2c081ba1e88b9d4de979b2218274fe3e8cb5353ad737b2f3ab9e2596",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "INSTITUTIONAL IDENTITY MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INSTITUTIONAL IDENTITY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "SCIENTIFIC ASSESSMENT BY AN INTERGOVERNMENTAL BODY",
+          "role": "outcome"
+        },
+        {
+          "text": "TREATY FRAMEWORK AND NEGOTIATION PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "COP OR CMA",
+          "role": "evidence"
+        },
+        {
+          "text": "PARTY DECISION-MAKING FORUM",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL GOVERNMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "POLICY AND IMPLEMENTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSESSMENT EVIDENCE IS NOT A NEGOTIATED OBLIGATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "IPCC → scientific assessment by an intergovernmental body",
+        "UNFCCC → treaty framework and negotiation process",
+        "COP OR CMA → party decision-making forum",
+        "NATIONAL GOVERNMENT → policy and implementation",
+        "RULE → assessment evidence is not a negotiated obligation"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "IPCC → scientific assessment by an intergovernmental body",
+          "COP OR CMA → party decision-making forum",
+          "RULE → assessment evidence is not a negotiated obligation"
+        ],
+        [
+          "UNFCCC → treaty framework and negotiation process",
+          "NATIONAL GOVERNMENT → policy and implementation",
+          "MUST REMEMBER: IPCC assesses published evidence through Working Groups and synthesis..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IPCC → scientific assessment by an intergovernmental body",
+            "UNFCCC → treaty framework and negotiation process"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COP OR CMA → party decision-making forum",
+            "NATIONAL GOVERNMENT → policy and implementation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → assessment evidence is not a negotiated obligation",
+            "MUST REMEMBER: IPCC assesses published evidence through Working Groups and synthesis..."
+          ]
+        }
+      ],
+      "mechanism_strip": "MUST REMEMBER: IPCC assesses published evidence through Working Groups and synthesis...",
+      "answer_line": "IPCC assesses published evidence through Working Groups and synthesis.",
+      "source_references": [
+        "IPCC identity",
+        "WMO-UNEP origin",
+        "Policy-relevant boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g4\\environment-and-ecology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ASSESSMENT-PRODUCTION RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ASSESSMENT-PRODUCTION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "PUBLISHED LITERATURE",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSESSED EVIDENCE BASE",
+          "role": "evidence"
+        },
+        {
+          "text": "EVALUATE FINDINGS, AGREEMENT AND GAPS",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPERT AND GOVERNMENT REVIEW",
+          "role": "primary"
+        },
+        {
+          "text": "COMMENTS ADDRESSED AND TRACEABILITY STRENGTHENED",
+          "role": "outcome"
+        },
+        {
+          "text": "PLENARY STATUS",
+          "role": "comparison"
+        },
+        {
+          "text": "PRODUCT-SPECIFIC APPROVAL OR ACCEPTANCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PUBLISHED LITERATURE → assessed evidence base",
+        "AUTHORS → evaluate findings, agreement and gaps",
+        "DRAFTS → expert and government review",
+        "REVISION → comments addressed and traceability strengthened",
+        "PLENARY STATUS → product-specific approval or acceptance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PUBLISHED LITERATURE → assessed evidence base",
+            "AUTHORS → evaluate findings, agreement and gaps"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DRAFTS → expert and government review",
+            "REVISION → comments addressed and traceability strengthened"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PLENARY STATUS → product-specific approval or acceptance",
+            "PUBLISHED LITERATURE → assessed evidence base"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REVISION → comments addressed and traceability strengthened; PLENARY STATUS → product-specific approval or acceptance.",
+      "source_references": [
+        "Assess-not-research mandate",
+        "Assessment-cycle sequence",
+        "Author-review architecture",
+        "Approval-acceptance distinction",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g4\\environment-and-ecology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THREE-WORKING-GROUP MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE-WORKING-GROUP MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "WG I",
+          "role": "outcome"
+        },
+        {
+          "text": "PHYSICAL SCIENCE, OBSERVATIONS, DRIVERS AND PROJECTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "WG II",
+          "role": "evidence"
+        },
+        {
+          "text": "IMPACTS, ADAPTATION AND VULNERABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "WG III",
+          "role": "outcome"
+        },
+        {
+          "text": "MITIGATION PATHWAYS AND ENABLING CONDITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "NO NEGOTIATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "WG I → physical science, observations, drivers and projections",
+        "WG II → impacts, adaptation and vulnerability",
+        "WG III → mitigation pathways and enabling conditions",
+        "NO NEGOTIATION → none sets a Party's NDC",
+        "INTEGRATION → Synthesis Report joins assessment findings"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "WG I → physical science, observations, drivers and projections",
+          "WG III → mitigation pathways and enabling conditions",
+          "INTEGRATION → Synthesis Report joins assessment findings"
+        ],
+        [
+          "WG II → impacts, adaptation and vulnerability",
+          "NO NEGOTIATION → none sets a Party's NDC",
+          "WG I → physical science, observations, drivers and projections"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WG I → physical science, observations, drivers and projections",
+            "WG II → impacts, adaptation and vulnerability"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WG III → mitigation pathways and enabling conditions",
+            "NO NEGOTIATION → none sets a Party's NDC"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INTEGRATION → Synthesis Report joins assessment findings",
+            "WG I → physical science, observations, drivers and projections"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO NEGOTIATION → none sets a Party's NDC.",
+      "source_references": [
+        "Working Group I",
+        "Working Group II",
+        "Working Group III",
+        "Synthesis Report",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g4\\environment-and-ecology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "TFI FIREWALL",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TFI FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "IPCC BODY",
+          "role": "outcome"
+        },
+        {
+          "text": "TASK FORCE ON NATIONAL GREENHOUSE GAS INVENTORIES",
+          "role": "comparison"
+        },
+        {
+          "text": "METHODOLOGY DEVELOPMENT AND REFINEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "INVENTORY GUIDANCE AND METHODOLOGY REPORTS",
+          "role": "primary"
+        },
+        {
+          "text": "NOT WG IV",
+          "role": "caution"
+        },
+        {
+          "text": "NO FOURTH THEMATIC ASSESSMENT MANDATE",
+          "role": "caution"
+        },
+        {
+          "text": "SUPPORTS COMPARABLE NATIONAL REPORTING METHODS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "IPCC BODY → Task Force on National Greenhouse Gas Inventories",
+        "FUNCTION → methodology development and refinement",
+        "OUTPUT → inventory guidance and methodology reports",
+        "NOT WG IV → no fourth thematic assessment mandate",
+        "LINK → supports comparable national reporting methods"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IPCC BODY → Task Force on National Greenhouse Gas Inventories",
+            "FUNCTION → methodology development and refinement"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OUTPUT → inventory guidance and methodology reports",
+            "NOT WG IV → no fourth thematic assessment mandate"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LINK → supports comparable national reporting methods",
+            "IPCC BODY → Task Force on National Greenhouse Gas Inventories"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NOT WG IV → no fourth thematic assessment mandate.",
+      "source_references": [
+        "TFI boundary",
+        "Special and methodology reports",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g4\\environment-and-ecology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "REPORT-FAMILY HIERARCHY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "REPORT-FAMILY HIERARCHY",
+          "role": "primary"
+        },
+        {
+          "text": "ASSESSMENT CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "WORKING GROUP CONTRIBUTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "SYNTHESIS REPORT",
+          "role": "evidence"
+        },
+        {
+          "text": "INTEGRATION ACROSS THE CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "SPECIAL REPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "DEFINED URGENT THEME",
+          "role": "comparison"
+        },
+        {
+          "text": "METHODOLOGY REPORT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ASSESSMENT CYCLE → Working Group contributions",
+        "SYNTHESIS REPORT → integration across the cycle",
+        "SPECIAL REPORT → defined urgent theme",
+        "METHODOLOGY REPORT → measurement or inventory method",
+        "STATUS → title, outline and publication are different facts"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ASSESSMENT CYCLE → Working Group contributions",
+            "SYNTHESIS REPORT → integration across the cycle"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SPECIAL REPORT → defined urgent theme",
+            "METHODOLOGY REPORT → measurement or inventory method"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATUS → title, outline and publication are different facts",
+            "ASSESSMENT CYCLE → Working Group contributions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUS → title, outline and publication are different facts.",
+      "source_references": [
+        "Synthesis Report",
+        "Special and methodology reports",
+        "Assessment-cycle sequence",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g4\\environment-and-ecology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CYCLE STATUS GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CYCLE STATUS GATE",
+          "role": "mechanism"
+        },
+        {
+          "text": "SCOPING OR OUTLINE",
+          "role": "outcome"
+        },
+        {
+          "text": "INTENDED COVERAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "DRAFT EVIDENCE ASSESSMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPERT AND GOVERNMENT COMMENTS",
+          "role": "primary"
+        },
+        {
+          "text": "APPROVAL OR ACCEPTANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "PRODUCT-SPECIFIC PLENARY ACT",
+          "role": "institution"
+        },
+        {
+          "text": "CITABLE COMPLETED PRODUCT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SCOPING OR OUTLINE → intended coverage",
+        "AUTHORING → draft evidence assessment",
+        "REVIEW → expert and government comments",
+        "APPROVAL OR ACCEPTANCE → product-specific plenary act",
+        "PUBLICATION → citable completed product"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SCOPING OR OUTLINE → intended coverage",
+            "AUTHORING → draft evidence assessment"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REVIEW → expert and government comments",
+            "APPROVAL OR ACCEPTANCE → product-specific plenary act"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PUBLICATION → citable completed product",
+            "SCOPING OR OUTLINE → intended coverage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "APPROVAL OR ACCEPTANCE → product-specific plenary act; PUBLICATION → citable completed product.",
+      "source_references": [
+        "Assessment-cycle sequence",
+        "Author-review architecture",
+        "AR6-AR7 status",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g4\\environment-and-ecology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "SPM GOVERNANCE LADDER",
+      "structural_type": "layered-rail",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SPM GOVERNANCE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "SCIENTIST AUTHORS",
+          "role": "outcome"
+        },
+        {
+          "text": "DEFEND ASSESSED BASIS",
+          "role": "comparison"
+        },
+        {
+          "text": "GOVERNMENT DELEGATIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSIDER WORDING LINE BY LINE",
+          "role": "primary"
+        },
+        {
+          "text": "CONSISTENCY GATE",
+          "role": "outcome"
+        },
+        {
+          "text": "SUMMARY MUST REMAIN TIED TO REPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "APPROVED SPM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SCIENTIST AUTHORS → defend assessed basis",
+        "GOVERNMENT DELEGATIONS → consider wording line by line",
+        "CONSISTENCY GATE → summary must remain tied to report",
+        "APPROVED SPM → policy-relevant high-level text",
+        "LIMIT → not a treaty target or national law"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SCIENTIST AUTHORS → defend assessed basis",
+            "GOVERNMENT DELEGATIONS → consider wording line by line"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONSISTENCY GATE → summary must remain tied to report",
+            "APPROVED SPM → policy-relevant high-level text"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → not a treaty target or national law",
+            "SCIENTIST AUTHORS → defend assessed basis"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → not a treaty target or national law.",
+      "source_references": [
+        "Approval-acceptance distinction",
+        "Policy-relevant boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g4\\environment-and-ecology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CALIBRATED-LANGUAGE MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CALIBRATED-LANGUAGE MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE AND AGREEMENT SUPPORTING A FINDING",
+          "role": "evidence"
+        },
+        {
+          "text": "ASSESSED PROBABILITY OF A DEFINED OUTCOME",
+          "role": "comparison"
+        },
+        {
+          "text": "GLOBAL, REGIONAL AND LOCAL CLAIMS DIFFER",
+          "role": "evidence"
+        },
+        {
+          "text": "TERM STAYS WITH ITS EXACT SENTENCE",
+          "role": "primary"
+        },
+        {
+          "text": "NO BORROWING",
+          "role": "caution"
+        },
+        {
+          "text": "ONE CALIBRATED TERM CANNOT VALIDATE ANOTHER CLAIM",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CONFIDENCE → evidence and agreement supporting a finding",
+        "LIKELIHOOD → assessed probability of a defined outcome",
+        "SCALE → global, regional and local claims differ",
+        "ATTACHMENT → term stays with its exact sentence",
+        "NO BORROWING → one calibrated term cannot validate another claim"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CONFIDENCE → evidence and agreement supporting a finding",
+          "SCALE → global, regional and local claims differ",
+          "NO BORROWING → one calibrated term cannot validate another claim"
+        ],
+        [
+          "LIKELIHOOD → assessed probability of a defined outcome",
+          "ATTACHMENT → term stays with its exact sentence",
+          "CONFIDENCE → evidence and agreement supporting a finding"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONFIDENCE → evidence and agreement supporting a finding",
+            "LIKELIHOOD → assessed probability of a defined outcome"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SCALE → global, regional and local claims differ",
+            "ATTACHMENT → term stays with its exact sentence"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NO BORROWING → one calibrated term cannot validate another claim",
+            "CONFIDENCE → evidence and agreement supporting a finding"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO BORROWING → one calibrated term cannot validate another claim.",
+      "source_references": [
+        "Confidence-likelihood distinction",
+        "Confidence discipline",
+        "Likelihood discipline",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g4\\environment-and-ecology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SCENARIO FIREWALL",
+      "structural_type": "decision-gate",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "SCENARIO FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "SOCIOECONOMIC OR EMISSIONS PATHWAY",
+          "role": "outcome"
+        },
+        {
+          "text": "MODEL RESPONSE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONDITIONAL CLIMATE PROJECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "RISK ASSESSMENT",
+          "role": "caution"
+        },
+        {
+          "text": "IMPACTS UNDER THE STATED PATHWAY",
+          "role": "outcome"
+        },
+        {
+          "text": "POLICY OPTION",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATELY EVALUATED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ASSUMPTIONS → socioeconomic or emissions pathway",
+        "MODEL RESPONSE → conditional climate projection",
+        "RISK ASSESSMENT → impacts under the stated pathway",
+        "POLICY OPTION → separately evaluated",
+        "NOT FORECAST → no unconditional prediction"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ASSUMPTIONS → socioeconomic or emissions pathway",
+            "MODEL RESPONSE → conditional climate projection"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RISK ASSESSMENT → impacts under the stated pathway",
+            "POLICY OPTION → separately evaluated"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT FORECAST → no unconditional prediction",
+            "ASSUMPTIONS → socioeconomic or emissions pathway"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RISK ASSESSMENT → impacts under the stated pathway.",
+      "source_references": [
+        "Scenario-not-forecast",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g4\\environment-and-ecology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ASSESSMENT-LAG TIMELINE",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "ASSESSMENT-LAG TIMELINE",
+          "role": "primary"
+        },
+        {
+          "text": "LITERATURE CUT-OFF",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE ELIGIBLE FOR ASSESSMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "DRAFT AND REVIEW",
+          "role": "evidence"
+        },
+        {
+          "text": "SYNTHESIS TAKES TIME",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLETED ASSESSMENT BASELINE",
+          "role": "outcome"
+        },
+        {
+          "text": "NEW STUDIES",
+          "role": "comparison"
+        },
+        {
+          "text": "MAY POST-DATE THE CUT-OFF",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LITERATURE CUT-OFF → evidence eligible for assessment",
+        "DRAFT AND REVIEW → synthesis takes time",
+        "PUBLICATION → completed assessment baseline",
+        "NEW STUDIES → may post-date the cut-off",
+        "NEXT PRODUCT → later incorporation is not automatic"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LITERATURE CUT-OFF → evidence eligible for assessment",
+            "DRAFT AND REVIEW → synthesis takes time"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PUBLICATION → completed assessment baseline",
+            "NEW STUDIES → may post-date the cut-off"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NEXT PRODUCT → later incorporation is not automatic",
+            "CLOSE DISTINCTION: Assessment report is not treaty decision, scenario is not forecast,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Assessment report is not treaty decision, scenario is not forecast,.",
+      "source_references": [
+        "Assessment-lag boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g4\\environment-and-ecology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "AR6-AR7 STATUS BOARD",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AR6-AR7 STATUS BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "COMPLETED ASSESSMENT CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "CYCLE IN PROGRESS IN OFFICIAL MATERIAL CHECKED",
+          "role": "evidence"
+        },
+        {
+          "text": "PLANNED COVERAGE, NOT EVIDENCE",
+          "role": "caution"
+        },
+        {
+          "text": "INTENDED TIMING, NOT PUBLICATION",
+          "role": "caution"
+        },
+        {
+          "text": "EXAM RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "CITE REPORT, YEAR, GROUP AND STATUS EXACTLY",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "AR6 → completed assessment cycle",
+        "AR7 → cycle in progress in official material checked",
+        "OUTLINE → planned coverage, not evidence",
+        "SCHEDULE → intended timing, not publication",
+        "EXAM RULE → cite report, year, group and status exactly"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "AR6 → completed assessment cycle",
+          "OUTLINE → planned coverage, not evidence",
+          "EXAM RULE → cite report, year, group and status exactly"
+        ],
+        [
+          "AR7 → cycle in progress in official material checked",
+          "SCHEDULE → intended timing, not publication",
+          "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name report, working group, release date,..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AR6 → completed assessment cycle",
+            "AR7 → cycle in progress in official material checked"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OUTLINE → planned coverage, not evidence",
+            "SCHEDULE → intended timing, not publication"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EXAM RULE → cite report, year, group and status exactly",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name report, working group, release date,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name report, working group, release date,...",
+      "answer_line": "EXAM RULE → cite report, year, group and status exactly.",
+      "source_references": [
+        "AR6-AR7 status",
+        "Science-policy evidence boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g4\\environment-and-ecology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "IPCC ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "IPCC ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "ASSESSMENT BODY, ORIGIN AND NON-RESEARCH MANDATE",
+          "role": "outcome"
+        },
+        {
+          "text": "WG I, WG II, WG III, TFI AND SYNTHESIS",
+          "role": "comparison"
+        },
+        {
+          "text": "AUTHORS, REVIEW, SPM AND PRODUCT STATUS",
+          "role": "evidence"
+        },
+        {
+          "text": "CONFIDENCE, LIKELIHOOD, SCENARIO AND CUT-OFF",
+          "role": "primary"
+        },
+        {
+          "text": "INFORMS UNFCCC BUT DOES NOT NEGOTIATE POLICY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DEFINE → assessment body, origin and non-research mandate",
+        "ORGANISE → WG I, WG II, WG III, TFI and Synthesis",
+        "TRACE → authors, review, SPM and product status",
+        "QUALIFY → confidence, likelihood, scenario and cut-off",
+        "CONNECT → informs UNFCCC but does not negotiate policy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE → assessment body, origin and non-research mandate",
+            "ORGANISE → WG I, WG II, WG III, TFI and Synthesis"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRACE → authors, review, SPM and product status",
+            "QUALIFY → confidence, likelihood, scenario and cut-off"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONNECT → informs UNFCCC but does not negotiate policy",
+            "DEFINE → assessment body, origin and non-research mandate"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ORGANISE → WG I, WG II, WG III, TFI and Synthesis.",
+      "source_references": [
+        "Science-policy evidence boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\18_IPCC-Assessment-Reports.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g3\\environment-and-ecology-18_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-18\\g4\\environment-and-ecology-18_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE IPCC'S MANDATE IS EXPLICITLY TO BE \"POLICY-RELEVANT BUT",
+          "role": "outcome"
+        },
+        {
+          "text": "ANALYTICAL SIGNIFICANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "THIS DESIGN CHOICE IS PRECISELY WHAT ALLOWS THE IPCC'S",
+          "role": "evidence"
+        },
+        {
+          "text": "IPCC ASSESSMENT CYCLES ARE NECESSARILY BACKWARD-LOOKING TO SOME DEGREE",
+          "role": "primary"
+        },
+        {
+          "text": "THE \"CONSERVATIVE BY DESIGN\" CRITIQUE (SECTION 1) IS A",
+          "role": "outcome"
+        },
+        {
+          "text": "REGIONAL-SCALE PROJECTIONS (E.G., SPECIFIC SOUTH ASIAN MONSOON-SHIFT MAGNITUDE) CARRY",
+          "role": "comparison"
+        },
+        {
+          "text": "IPCC USES A CALIBRATED DUAL-LANGUAGE SYSTEM",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "The IPCC's mandate is explicitly to be \"policy-relevant but not policy-prescriptive\" —",
+            "CAUTION: Analytical significance: this design choice is precisely what allows the IPCC's",
+            "CAUTION: IPCC assessment cycles are necessarily backward-looking to some degree, since they",
+            "CAUTION: The \"conservative by design\" critique (Section 1) is a documented viewpoint among some"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Regional-scale projections (e.g., specific South Asian monsoon-shift magnitude) carry",
+            "IPCC uses a calibrated dual-language system: qualitative confidence levels (evidence/",
+            "The Special Report on Global Warming of 1.5°C (2018) directly informed the Paris",
+            "The IPCC's mandate is explicitly \"policy-relevant but not policy-prescriptive.\""
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "IPCC assessments are inherently time-bound to their literature cut-off date, creating an",
+            "NOT: \"High confidence\" and \"likely\" are interchangeable IPCC terms meaning the same thing.",
+            "NOT: The IPCC recommends specific national policies for governments to adopt. - Its mandate",
+            "NOT: IPCC Special Reports are simply shorter versions of the regular assessment cycle."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

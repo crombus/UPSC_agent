@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-21",
+  "title": "High Court and Subordinate Courts",
+  "generation": 7,
+  "generation_date": "2026-09-05",
+  "approval": false,
+  "review_state": "passed",
+  "baseline_record_id": "polity-21:learner-v2:g4",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\High-Court.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\21_High-Court-and-Subordinate-Courts_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\21_High-Court-and-Subordinate-Courts.md",
+  "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+  "pyq_ledgers": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+  ],
+  "source_hashes": {
+    "books\\mains\\02 UPSC 2024 Paper-II.pdf": "e09fd90b1316063aaca652c2474a6621f3c606305835a04b71026378781de883",
+    "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf": "ea7bdf4b3940da6c4801ffb3223ecd6e5a119b476a31c2d7254c29573d2ac1c4",
+    "books\\more_previous_papers\\QP-CSP-18-GS-I-C.pdf": "658ddec60ef69c6df5695e5f0beec92375dc7cc8144c442cbc7a1f1f8333538d",
+    "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf": "932a5f61b0f623a731c8210645089b70de2c404489565f446bc0766bd27b2325",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+    "upsc-ai-kit\\knowledge\\Polity\\21_High-Court-and-Subordinate-Courts_Complete-Topic-Package.md": "289dea3abc1d2903830207794d21f737aa679914c5ef3d1d0bbbd92ed5fe79ca",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\21_High-Court-and-Subordinate-Courts.md": "a7130299156c38fe9205aa218d2bf6d959ba72585a2e0c70ecd0c24817994de4",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md": "c08bfa6257e930f3afdb49ee3e7fb583708258f3aa033e50230eac10f8b5f62a",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md": "fd5cd745dfab1930e6b05a7918b80ad1b3d6d16584e8baa9eb0aa6fae116ecef",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md": "df425e5c35ee52b063d081a0b3d3a28ccc096a63f25916059fb8805f2e61e78c",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Federal-System.md": "b2d3ea2230885f7bc128adc57fc6b40e23c54cdace6f9fa770427fb0470b6481",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md": "0e917838b5ce6168b85bc6d986699728c10600d6010ff2bf303caf41b0729b4f",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\High-Court.md": "61707bf1d65c4a8a1dd2adf5025a562bba7ab8f92b89fdde89f01d7b001bf27d",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Supreme-Court.md": "ac05a06d4ed198b9fa6f1aaf1f6b19ae1fd68397275d9b467c1f88d5bc90e10d",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "fecfb9e4a78671056ff154eb37c92412a47f77baaffa362f6cbe0c9b610fee50",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md": "8a2559da77f8dd12061f510946d689be7ffdae32b79752cfe0980e657f76176d"
+  },
+  "coverage_contract": {
+    "complete_core_before_advanced": true,
+    "evidence_classes_distinguished": true,
+    "contested_claims_qualified": true,
+    "all_solved_answers_exam_executable": true,
+    "strict_mcq_rotation": true,
+    "graphical_and_ascii_independently_complete": true,
+    "current_examples_source_dated": true
+  },
+  "repairs": [
+    "Hostile four-ledger ownership/PYQ control is absent.",
+    "Authoritative current-law source status is not dated."
+  ],
+  "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-21\\g7\\polity-21_Complete-Learning-Session_2026-09-05.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-21\\g7\\polity-21_Solved-Practice-Workbook_2026-09-05.md",
+  "live_official_sources": [
+    "https://legislative.gov.in/document/constitution-of-india-in-english",
+    "https://doj.gov.in/static/uploads/2026/07/b18601168f894d13fdde14296d79e6b3.pdf",
+    "https://api.sci.gov.in/supremecourt/2020/26442/26442_2020_1_1501_64994_Judgement_09-Oct-2025.pdf",
+    "https://www.api.sci.gov.in/supremecourt/2020/26442/26442_2020_1_1502_63276_Judgement_12-Aug-2025.pdf",
+    "https://ecourts.gov.in/ecourts_home/"
+  ],
+  "current_status_control": "Rechecked 2026-09-05: India has 25 High Courts. The dated DoJ 1 July 2026 snapshot records 1,122 sanctioned, 781 working and 341 vacant posts. Rejanish K.V. (2025 INSC 1208) is the current direct-District-Judge eligibility control; no All India Judicial Service exists.",
+  "live_sources_rechecked_on": "2026-09-05"
+}

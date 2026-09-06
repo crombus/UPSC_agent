@@ -42,7 +42,7 @@ not a head of state. Some UTs have their own assembly + CoM, but **Parliament ca
   - **Executable route:** (1) **Thesis** — the 2018 Constitution Bench in *Government of NCT of Delhi v. Union of India* resolved the LG-vs-elected-government conflict in favour of representative government, holding the LG **bound by the aid and advice** of the Council of Ministers except on the reserved entries. (2) **Constitutional frame** — **Art 239AA (69th Amendment 1991)**: NCT with a **70-member** assembly and a CoM (≤ 10% = 7); the assembly is competent over the State and Concurrent Lists **except public order, police and land** (Entries 1, 2, 18). (3) **The 2018 propositions** — (a) the LG is **bound by aid and advice** except on the three reserved subjects; (b) the LG has **no independent decision-making power** and is **not a Governor**; (c) the **proviso to Art 239AA(4)** (reference of a "difference of opinion" to the President) is an **exception for exceptional matters**, not a routine device; (d) constitutional morality, collaborative federalism and constitutional trust. (4) **What 2018 left open** — control over **"services"** (State-List Entry 41), which triggered the next round. (5) **The 2023 sequel** — the services Constitution Bench gave NCTD control over services (except the three entries); the **Government of NCT of Delhi (Amendment) Act 2023** and the **National Capital Civil Services Authority** shifted primacy back toward the LG/Centre — 📰 validity under challenge, verify status. (6) **Examine verdict** — 2018 settled the *principle* (the elected government is supreme within its sphere) but the services battle shows the Delhi model remains an unresolved asymmetric arrangement.
 - **2025 · GS-II · Q4** — Demand (neutral rendering): *discuss the nature, powers and functions of the Jammu & Kashmir Legislative Assembly created by the Reorganisation Act, 2019.* Directive: **Discuss** · **10 marks · 150 words**.
   - **Core routing supersedes the older `advanced/25_Union-Territories.md` pointer for this demand** (and the `advanced/22_Special-Provisions.md` cross-pointer it delegated to).
-  - **Executable route:** (1) **Thesis** — the **J&K Reorganisation Act 2019** created a **UT legislature, not a State legislature**, closer to the **Puducherry** model, so the J&K assembly is constitutionally weaker than a State assembly. (2) **Origin** — the Act (effective **31 October 2019**) split the former State into two UTs: **J&K with a legislature** and **Ladakh without one**. (3) **Powers** — the assembly may legislate on the State and Concurrent Lists **except public order and police** (which stay with the Centre/LG); unlike Delhi, **"land" is not excluded** for J&K. (4) **Central overrides** — **Parliament can still legislate on any subject** for the UT; the **LG** holds substantial powers; the assembly is **statutory**, not a constitutional (Art 239AA-type) body. (5) **State vs UT distinction** — a State assembly has a Governor bound by aid and advice and exclusive State-List competence; a UT-with-legislature has an Administrator/LG as the **President's agent** and reserved subjects. (6) **Current status** — 📰 *In re Article 370* (2023) upheld the reorganisation but directed **restoration of statehood and elections "as soon as possible"**; statehood restoration pending — verify. (7) **Verdict** — the J&K assembly is a Puducherry-type UT legislature: real but curtailed self-government pending the promised return to statehood.
+  - **Executable route:** (1) **Thesis** — the **J&K Reorganisation Act 2019** created a **UT legislature, not a State legislature**, closer to the **Puducherry** model, so the J&K assembly is constitutionally weaker than a State assembly. (2) **Origin** — the Act (effective **31 October 2019**) split the former State into two UTs: **J&K with a legislature** and **Ladakh without one**. (3) **Powers** — the assembly may legislate on the State and Concurrent Lists **except public order and police** (which stay with the Centre/LG); unlike Delhi, **"land" is not excluded** for J&K. (4) **Central overrides** — **Parliament can still legislate on any subject** for the UT; the **LG** holds substantial powers; the assembly is **statutory**, not a constitutional (Art 239AA-type) body. (5) **State vs UT distinction** — a State assembly has a Governor bound by aid and advice and exclusive State-List competence; a UT-with-legislature has an Administrator/LG as the **President's agent** and reserved subjects. (6) **Current status** — 📰 *In re Article 370* (2023) upheld the Article 370 result and Ladakh's UT formation, but did not finally adjudicate J&K's conversion after the Union assurance; it directed **restoration of statehood and elections "as soon as possible"**; statehood restoration pending — verify. (7) **Verdict** — the J&K assembly is a Puducherry-type UT legislature: real but curtailed self-government pending the promised return to statehood.
 
 ### 5.1 Demand and directive map
 
@@ -156,9 +156,48 @@ not a head of state. Some UTs have their own assembly + CoM, but **Parliament ca
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
-## Deep-review precision controls (28 August 2026)
+## Deep-review precision controls (5 September 2026)
 
 - **Article 239AA field:** Delhi excludes State List Entries **1, 2 and 18** and Entries **64, 65 and 66 insofar as they relate** to those entries; executive power follows the allotted field subject to the Constitution and parliamentary law.
 - **Distinct routes:** Article **239AB** is Delhi's failure-of-machinery route; Article **239B** is Puducherry's ordinance route and applies to Delhi through Article 239AA(8); Article **240** regulations cover the constitutionally/statutorily specified territories, with Puducherry's power conditional on suspension/dissolution.
 - **High Courts:** Delhi has an exclusive UT High Court; J&K and Ladakh share the High Court of Jammu & Kashmir and Ladakh; A&N/Chandigarh/DNHDD/Lakshadweep/Puducherry are assigned respectively to Calcutta/Punjab & Haryana/Bombay/Kerala/Madras High Courts.
-- **Current control:** India has eight UTs and three functioning legislatures. J&K has an elected Assembly and Council of Ministers after the 2024 election, but Statehood was not legally restored by 28 August 2026. The GNCTD Amendment Act 2023 remains operative while its constitutional challenge is unresolved.
+- **Current control:** India has eight UTs and three functioning legislatures. J&K has an elected Assembly and Council of Ministers after the 2024 election, but Statehood was not legally restored by 5 September 2026. The GNCTD Amendment Act 2023 remains operative while its constitutional challenge is unresolved.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Part VIII map:** Article 239 provides administration through a President-
+  appointed Administrator; Article 239A enables local legislatures/Councils of
+  Ministers for specified UTs; Article 239AA constitutionalises Delhi; Articles
+  239AB, 239B, 240 and 241 govern breakdown, ordinances, regulations and High Courts.
+- **Parliamentary competence:** Article 246(4) lets Parliament legislate on any
+  matter for territory not included in a State. A UT legislature therefore
+  creates real local accountability without State-equivalent exclusivity.
+- **Current classification:** India has eight Union Territories. Delhi, Puducherry
+  and Jammu and Kashmir have legislatures; Andaman and Nicobar Islands,
+  Chandigarh, Dadra and Nagar Haveli and Daman and Diu, Ladakh and Lakshadweep do not.
+- **Administrator rule:** an Administrator/Lieutenant Governor is the President's
+  agent rather than a Part VI Governor. Under Article 239(2), a State Governor
+  appointed administrator of an adjoining UT acts independently of the State Council.
+- **Delhi field:** Article 239AA excludes State List Entries 1, 2 and 18 and
+  Entries 64, 65 and 66 insofar as related. The 2018 Constitution Bench makes aid
+  and advice the rule and presidential reference exceptional within the allotted field.
+- **Delhi services current rule:** the 11 May 2023 Constitution Bench recognised
+  elected-government control over services outside reserved fields. Act 19 of
+  2023 subsequently created the NCCSA route and statutory LG primacy on
+  disagreement; the Act remains operative and its constitutional challenge
+  remains unresolved on 5 September 2026.
+- **Puducherry model:** Article 239A and the Government of Union Territories Act,
+  1963 create a statutory legislature. Section 18 competence covers List II and
+  III matters insofar as applicable to Union Territories, subject to Parliament's
+  continuing power; Article 239B supplies the ordinance route.
+- **J&K model:** the Jammu and Kashmir Reorganisation Act, 2019, effective
+  31 October 2019, created J&K as a UT with legislature and Ladakh without one.
+  J&K's Assembly field excludes public order and police; unlike Delhi, land is not
+  a generally excluded entry. Parliament retains overriding competence.
+- **Article 370 judgment limit:** In re Article 370 upheld the 2019 constitutional
+  result and Ladakh's UT formation but did not finally adjudicate J&K's conversion
+  after the Union's statehood assurance. J&K has an elected Assembly and Council
+  of Ministers after the 2024 election but remains a UT on 5 September 2026.
+- **Four-ledger/PYQ control:** the direct 2018 Delhi and 2025 J&K Assembly demands
+  were preserved with Article/statute/judgment/current-status separation. Topic 22
+  owns Article 370/371 doctrine; Topic 26 owns Scheduled/Tribal Areas.

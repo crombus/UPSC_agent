@@ -2,14 +2,14 @@
 
 **Complete independent learning session + verified PYQ routing + solved practice workbook + final consolidated register notes**
 
-**Legal/current control date:** 25 August 2026 (Asia/Kolkata)
+**Legal/current control date:** 5 September 2026 (Asia/Kolkata)
 
 > **Tag key:** `[FACT]` = named constitutional, statutory, official, judicial or audited local support; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked for the control date; `[LIMIT]` = qualification.
 >
 > **Answer-writing discipline:** claim -> named evidence -> analysis -> qualification.
 
-- [CURRENT] Status is controlled to **25 August 2026, Asia/Kolkata**.
-- [CURRENT] **Live official refresh, 25 August 2026:** The Cabinet Secretariat's official description of the Allocation and Transaction of Business Rules, Cabinet/Cabinet Committee assistance, inter-ministerial coordination and crisis coordination was rechecked on 25 August 2026. Ministry, department, office and committee names remain notification-sensitive and no permanent count is frozen.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
+- [CURRENT] **Live official refresh, 5 September 2026:** The Cabinet Secretariat's official description of the Allocation and Transaction of Business Rules, Cabinet/Cabinet Committee assistance, inter-ministerial coordination and crisis coordination was rechecked on 5 September 2026. Ministry, department, office and committee names remain notification-sensitive and no permanent count is frozen.
 
 #### How to Use This Package
 
@@ -896,6 +896,46 @@ selection must remain fair, conflicts disclosed, tenure sufficient and authority
 
 [LIMIT] A dashboard or project-management unit cannot silently replace the department,
 statutory authority, financial sanction, Cabinet route or parliamentary answerability.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional chain:** Articles 53, 73-78 and 88 connect formal executive
+  action in the President's name, ministerial aid and advice, collective
+  responsibility, allocation/transaction rules and parliamentary participation.
+- **Two-rule firewall:** the Allocation of Business Rules, 1961 answer who
+  owns a subject; the Transaction of Business Rules, 1961 answer how a proposal
+  is consulted, escalated and approved. Both are framed under Article 77(3).
+- **Institutional identity:** a portfolio is political charge, a ministry is a
+  broad political-administrative unit, a department is an allocated subject
+  unit, and the Central Secretariat is the collective policy and coordination
+  machinery. These terms are not interchangeable.
+- **Minister-Secretary relation:** the Minister supplies democratic direction
+  and parliamentary responsibility; the Secretary is administrative head and
+  principal official adviser, responsible for lawful, frank and recorded
+  advice, proper process and implementation.
+- **Secretariat function:** policy, legislation, rules, budget, consultation,
+  federal coordination, programme supervision, parliamentary work, audit/RTI
+  response and institutional memory belong to the Secretariat. Delegation
+  means every file need not reach the Secretary or Minister.
+- **Cabinet Secretariat:** it functions directly under the Prime Minister,
+  administers the AoB/ToB Rules, assists Cabinet and Cabinet Committees,
+  coordinates ministries and major crises, and uses Committees of Secretaries
+  to resolve differences. It is not the whole Central Secretariat.
+- **PMO boundary:** the PMO supports the Prime Minister and may coordinate or
+  monitor priority matters; it does not silently acquire every department's
+  statutory power, financial sanction or parliamentary responsibility.
+- **Delivery architecture:** attached/subordinate offices, field formations,
+  statutory and autonomous bodies, regulators and CPSEs retain identities and
+  accountability routes defined by law or instrument. Delegation does not
+  erase departmental stewardship.
+- **Current institutional snapshot, checked 5 September 2026:** the Cabinet
+  Secretariat directory dated 27 April 2026 identifies T. V. Somanathan as
+  Cabinet Secretary. The official functions page confirms Article 77(3)
+  business-rule administration and inter-ministerial coordination. Ministry,
+  department and committee counts remain notification-sensitive and unfrozen.
+- **PYQ firewall:** verified ministry/accountability, Cabinet-committee,
+  civil-service and governance demands are retained with cross-ownership.
+  Names, portfolio allocations and current counts are used only when dated.
 
 ## BASIC MCQS / REMEDIATION
 
@@ -1948,7 +1988,7 @@ Assess any ministry/department reform through:
 
 ### Ministries Departments and Central Secretariat: Rapid Constitutional Recall
 
-- **Current-control rule:** The Cabinet Secretariat's official description of the Allocation and Transaction of Business Rules, Cabinet/Cabinet Committee assistance, inter-ministerial coordination and crisis coordination was rechecked on 25 August 2026. Ministry, department, office and committee names remain notification-sensitive and no permanent count is frozen.
+- **Current-control rule:** The Cabinet Secretariat's official description of the Allocation and Transaction of Business Rules, Cabinet/Cabinet Committee assistance, inter-ministerial coordination and crisis coordination was rechecked on 5 September 2026. Ministry, department, office and committee names remain notification-sensitive and no permanent count is frozen.
 - **Factual caveat:** Articles 73, 74, 77 and 78 establish the executive framework, while the 1961 business rules allocate and route work. The Central Secretariat is the collective policy machinery, not the Cabinet Secretariat or PMO. Attached offices, autonomous bodies, CPSEs and statutory regulators retain distinct legal identities; reorganisation is a dated executive-rule fact.
 
 #### 1. The missing operating chain

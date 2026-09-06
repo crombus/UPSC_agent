@@ -13,9 +13,9 @@ approval: false
 > **Answer discipline:** claim -> named evidence -> analysis -> qualification.  
 > **Scope:** statutory evolution; the statutory definition of human rights; NHRC and SHRC composition, appointment, tenure and removal; functions, inquiry powers and procedure; remedies and reporting; jurisdictional limits; armed-forces procedure; Human Rights Courts; Paris Principles and GANHRI accreditation; case law; institutional comparison; criticism, reform and current controls.
 
-- [CURRENT] Status is controlled to **24 August 2026, Asia/Kolkata**.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
 
-- [CURRENT] **Live official refresh, 24 August 2026:** India Code, NHRC, OHCHR, GANHRI and Supreme Court sources were rechecked on 24 August 2026. GANHRI's public membership listing continues to be reported with the challenged 2025 downgrade recommendation kept distinct from a completed status change.
+- [CURRENT] **Live official refresh, 5 September 2026:** India Code, NHRC, OHCHR, GANHRI and Supreme Court sources were rechecked on 5 September 2026. GANHRI's public membership listing continues to be reported with the challenged 2025 downgrade recommendation kept distinct from a completed status change.
 #### Package method, source priority and legal-current control
 
 - [FACT] Local-first sequence followed: `Polity/basic/NHRC-and-SHRC.md` -> `Polity/advanced/35_NHRC-and-SHRC.md` -> related owners for statutory/regulatory/quasi-judicial bodies, Fundamental Rights and national commissions for SCs/STs/BCs -> related minority, women, child and disability institutions only where comparison was necessary -> all PYQ routing and audit ledgers.
@@ -1018,7 +1018,7 @@ no invented final downgrade
 
 | Unsafe sentence | Controlled sentence |
 |---|---|
-| “India was downgraded to B in 2025.” | “The SCA recommended downgrade in March 2025; India challenged it, and GANHRI's public membership page still lists A as of 24 August 2026.” |
+| “India was downgraded to B in 2025.” | “The SCA recommended downgrade in March 2025; India challenged it, and GANHRI's public membership page still lists A as of 5 September 2026.” |
 | “A-status proves complete independence.” | “A is the current public accreditation listing, while official SCA scrutiny identifies unresolved Paris-Principles concerns.” |
 | “No 2026 report means India was cleared.” | “The 47th-session report did not list India; absence is not a published merits decision.” |
 
@@ -1349,6 +1349,45 @@ The exam-safe limitation is that named evidence Sections 13 and 18: civil-court 
 4. Specialised commissions should coordinate, not disappear into a mega-body.
 5. Paris compliance is a design-and-practice test, not a badge alone.
 ```
+
+### Semantic-completeness ownership and PYQ control
+
+- **Legal status and latest law:** NHRC and SHRCs are statutory bodies under the
+  Protection of Human Rights Act, 1993. The 2019 amendment remains the latest
+  located amendment affecting composition and tenure on 5 September 2026.
+- **NHRC statutory composition:** section 3 provides a Chairperson who has been
+  CJI or a Supreme Court judge; one serving/former Supreme Court judge; one
+  serving/former High Court Chief Justice; and three human-rights experts, at
+  least one a woman. Seven named office-holders participate as deemed members
+  for section 12(b)-(j), not section 12(a) complaint inquiries.
+- **Current public roster:** the official NHRC composition page rechecked on
+  5 September 2026 displays Chairperson Justice V. Ramasubramanian and Members
+  Justice (Dr) Bidyut Ranjan Sarangi, Vijaya Bharathi Sayani and Priyank
+  Kanoongo. No occupant is inferred for a statutory seat not displayed.
+- **Appointment and tenure:** the President appoints NHRC members after the
+  statutory six-member committee recommendation. The Governor appoints SHRC
+  members after the State committee recommendation. The post-2019 term is
+  three years or age seventy, whichever is earlier, with reappointment allowed.
+- **Removal:** the President removes both NHRC and SHRC members. Proved
+  misbehaviour or incapacity follows the statutory Supreme Court inquiry route;
+  direct statutory grounds remain separate.
+- **Functions and powers:** section 12 covers inquiries, court intervention with
+  approval, institution visits, safeguard review, treaty study, research,
+  literacy and NGO encouragement. Section 13 civil-court powers and section 14
+  investigative assistance support fact-finding, not adjudication.
+- **Limits:** section 18 outputs are recommendations, including relief,
+  prosecution/action or approaching constitutional courts; they are not
+  self-executing decrees. Section 19 substitutes a report-based armed-forces
+  route. Section 36 bars duplicate inquiries and retains the one-year limit.
+- **SHRC boundary:** a State may constitute an SHRC for State/Concurrent-list
+  matters. The chair qualification, smaller ordinary membership and State
+  selection committee differ, while President-only removal remains a federal safeguard.
+- **International status:** the March 2025 GANHRI SCA recommendation and India's
+  challenge remain distinct from a final alteration. GANHRI lists alteration
+  of India's accreditation for a November 2026 session; do not report a
+  completed downgrade on the 5 September 2026 control date.
+- **PYQ firewall:** direct 2018 umbrella-commission and 2021 limitations/remedies
+  demands are owned here; constitutional SC/ST/BC commissions remain Topic 31.
 
 ## BASIC MCQS / REMEDIATION
 
@@ -2102,7 +2141,7 @@ The Paris Principles assess whether a national institution has a broad legal man
 
 **Mandate/access gaps:** Section 36(2)'s one-year bar and section 19's armed-forces report route narrow effective protection. Non-binding recommendations make follow-up dependent on governments and courts.
 
-**Current control:** GANHRI's March 2025 SCA recommended B status, citing investigation, Secretary-General, pluralism, selection, public response and civil-society concerns. India challenged the recommendation; GANHRI's public membership page still lists A as of 24 August 2026. The 2026 SCA report's silence is not a merits clearance.
+**Current control:** GANHRI's March 2025 SCA recommended B status, citing investigation, Secretary-General, pluralism, selection, public response and civil-society concerns. India challenged the recommendation; GANHRI's public membership page still lists A as of 5 September 2026. The 2026 SCA report's silence is not a merits clearance.
 
 Reform should open appointments, diversify membership, secure independent staff/investigation, protect funding and require reasoned, time-bound follow-up.
 
@@ -2136,7 +2175,7 @@ Section 36(2) bars NHRC or an SHRC from inquiring more than one year after the a
 
 **Balanced reform:** retain a normal one-year rule but authorise a reasoned condonation mechanism for grave violations, concealed facts, continuing acts, disability/minority, childhood or circumstances beyond the victim's control. Require recorded reasons, an outer safeguard where appropriate and judicial review. Preserve the *Paramjit Kaur v. State of Punjab (1999)* constitutional-assignment exception.
 
-As of 24 August 2026, this remains a reform proposal; section 36(2) still says one year.
+As of 5 September 2026, this remains a reform proposal; section 36(2) still says one year.
 
 **Why this earns marks:** It accurately states *N.C. Dhoundial v. Union of India (2003)*, balances evidence/finality with access, distinguishes constitutional assignment and labels reform as prospective.
 
@@ -2342,7 +2381,7 @@ govt with the **HC Chief Justice's concurrence**) for speedy trial.
 - ❌ NHRC can fully investigate the armed forces → only seek a **report** & recommend.
 
 #### 📰 CA hooks
-- 📰 ✅ **GANHRI status checked 21 Jul 2026:** NHRC's official portal continues to
+- 📰 ✅ **GANHRI status checked 5 Sep 2026:** NHRC's official portal continues to
   describe India as holding **A-status** while the latest review cycle remains unresolved;
   no final official downgrade decision has been published. Independence, pluralism and use
   of police investigators remain reform concerns, but a recommendation/review is not a
@@ -2362,7 +2401,7 @@ govt with the **HC Chief Justice's concurrence**) for speedy trial.
 - [FACT] Centre **shall** constitute NHRC; a State **may** constitute SHRC.
 - [FACT] Act now extends to the **whole of India**; deemed commencement 28 September 1993.
 - [FACT] Principal amendment controls: **2006**—procedure, court-direction route, visits, transfer and State provisions; **2019**—composition, eligibility, tenure, deemed members and UT arrangements.
-- [CURRENT] No later enacted change to the taught provisions was located by 24 August 2026.
+- [CURRENT] No later enacted change to the taught provisions was located by 5 September 2026.
 
 ### Human-rights definition
 

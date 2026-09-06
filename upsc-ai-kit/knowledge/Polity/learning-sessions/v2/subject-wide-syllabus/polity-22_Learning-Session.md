@@ -16,7 +16,7 @@ evidence_key: "[FACT] verified constitutional, judicial or official proposition;
 
 - Source order followed: `basic/Special-Provisions.md` -> `advanced/22_Special-Provisions.md` -> `basic/Scheduled-and-Tribal-Areas.md` -> `basic/Union-Territories.md` and necessary federalism/citizenship cross-links -> official Constitution text and the 11 December 2023 Supreme Court judgment. Qdrant was not used.
 - [FACT] The Core owner supersedes stale or less-qualified Advanced statements.
-- [CURRENT] Legal and institutional status is controlled to **28 August 2026, Asia/Kolkata**.
+- [CURRENT] Legal and institutional status is controlled to **5 September 2026, Asia/Kolkata**.
 - [CURRENT] Article 370 remains printed in Part XXI but was rendered inoperative through the 2019 constitutional orders and declaration; the Supreme Court upheld the abrogation in *In re Article 370* on 11 December 2023.
 - [CURRENT] Jammu and Kashmir remains a Union Territory with a legislature. Assembly elections were held in September-October 2024; Statehood has not been restored.
 - [LIMIT] The 2023 Court recorded the Union's assurance that Statehood would be restored at the earliest. It did not impose a judicial deadline and did not decide the constitutional validity of converting the former State into Union Territories because the Union conceded restoration of J&K Statehood.
@@ -718,6 +718,52 @@ not finally adjudicated
 ```
 
 
+### Semantic-completeness ownership and PYQ control
+
+- **Exact ownership:** this topic owns the State-specific asymmetry of Articles
+  371-371J and the minimum Article 370/35A history required to state current law.
+  Article 369 and Articles 372-392 are classified as other temporary/transitional
+  Part XXI provisions, not silently absorbed into the Article 371 catalogue.
+- **Boundary firewall:** Article 244 and the Fifth/Sixth Schedules belong to Topic
+  26; PESA's Panchayat extension belongs to Topic 23; Articles 239-241 and the
+  J&K/Ladakh UT machinery belong to Topic 25; Articles 330 onward concerning
+  certain classes belong to Topic 53.
+- **Article 371:** the current Maharashtra-Gujarat clause permits a Presidential
+  order assigning the Governor special responsibility for separate development
+  boards, annual Assembly reporting, equitable development expenditure and
+  opportunity in technical education, vocational training and State services.
+- **Consent shields:** Article 371A, inserted by the Thirteenth Amendment, 1962,
+  protects specified Naga practices, customary law/justice and land/resources
+  unless the Nagaland Assembly resolves otherwise. Article 371G, inserted by the
+  Fifty-third Amendment, 1986, supplies the parallel but textually distinct
+  Mizoram shield and a forty-member Assembly minimum.
+- **Committee models:** Article 371B, Twenty-second Amendment, 1969, authorises a
+  Presidential order for an Assam Assembly committee. Article 371C, Twenty-seventh
+  Amendment, 1971, adds Manipur's Hill Areas Committee, Governor report/special
+  responsibility and possible Union directions. Neither is a Sixth Schedule council.
+- **Opportunity and integration:** Articles 371D/E came through the Thirty-second
+  Amendment, 1973; Section 97 of the Andhra Pradesh Reorganisation Act, 2014
+  adapted Article 371D for Telangana. Article 371F is the Thirty-sixth Amendment,
+  1975 Sikkim settlement; Article 371I, Fifty-sixth Amendment, 1987, only fixes
+  Goa's Assembly minimum.
+- **Law-and-order and development:** Article 371H, Fifty-fifth Amendment, 1986,
+  gives Arunachal Pradesh's Governor bounded law-and-order responsibility after
+  ministerial consultation and subject to Presidential termination. Article 371J,
+  Ninety-eighth Amendment, 2012, effective 2013, concerns the constitutionally
+  named Hyderabad-Karnataka region, now officially Kalyana Karnataka.
+- **Article 370 current rule:** C.O. 272 of 5 August 2019 and C.O. 273 of 6 August
+  2019 produced the present inoperative position; Article 35A ceased with the
+  1954 Order's supersession. In re Article 370, 2023 INSC 1058, upheld the
+  constitutional result while treating the Article 367 substitution as invalid
+  to the stated extent and unnecessary to the outcome.
+- **Reorganisation limit:** the Court did not finally adjudicate J&K's conversion
+  from State to Union Territory after recording the Union's restoration assurance;
+  it upheld Ladakh's creation as a Union Territory. J&K remains a UT with an
+  elected legislature and Ladakh a UT without one on 5 September 2026.
+- **Four-ledger/PYQ control:** Article 371 actor/state/amendment traps and routed
+  Article 370/asymmetric-federalism demands were retained. Full Scheduled/Tribal
+  Areas doctrine is deliberately deferred to Topic 26 rather than duplicated.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Original MCQ loop - strict A -> B -> C -> D rotation
@@ -1075,7 +1121,7 @@ D. Article 371 applies only to autonomous councils.
 
 ### OM28. Ladakh demand
 
-As of 28 August 2026:
+As of 5 September 2026:
 
 A. Ladakh is a State.  
 B. Sixth Schedule automatically applies.  
@@ -1550,7 +1596,7 @@ D. 1954 Presidential Order.
 
 **Alternatives:** Statehood, a UT legislature, stronger Hill Councils or Article 371-type safeguards may address some demands, but differ in legal strength and scope.
 
-**Current status:** [CURRENT] No Sixth Schedule or Statehood change has been enacted by 28 August 2026.
+**Current status:** [CURRENT] No Sixth Schedule or Statehood change has been enacted by 5 September 2026.
 
 **Verdict:** The demand deserves negotiated constitutional protection, but the model should preserve national security while granting real land, employment and democratic safeguards rather than symbolic consultation.
 

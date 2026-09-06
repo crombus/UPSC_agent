@@ -1,0 +1,37 @@
+# International Relations Semantic-Completeness Review 04 - Indo-Pacific, Indian Ocean and Maritime Security
+
+**Topic key:** `international-relations-04`  
+**Review date:** 6 September 2026  
+**Result:** PASSED  
+**Canonical Basic owner:** `upsc-ai-kit\knowledge\International-Relations\basic\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md`  
+**Accepted identity:** `international-relations-04:learner-v2:g5`
+
+Only this topic was active. The literal UPSC syllabus, indispensable
+prerequisites, standard International Relations taxonomy, canonical Basic
+owner, Optional Advanced owner, framework and cross-owner bridges, complete
+verified PYQ ledgers and authoritative live sources were reconciled through a
+hostile four-ledger audit.
+
+The bounded canonical repair preserves doctrine, actors, interests,
+bilateral/regional/systemic levels, institutional mandates, membership and
+participation status, treaties and negotiations, projects and corridors,
+contested-claim neutrality, current official evidence and source dates. The
+immutable successor preserves Basic-first and Advanced-last order, final
+register notes, examiner-grade answer contracts, strict A-B-C-D rotation and
+twelve manually authored ASCII panels agreeing with twelve graphical stages.
+Approval remains false. PYQ status: Four General Studies Paper II Mains demands are routed to this topic in the audited routing ledgers and each is reproduced below as a demand card with its printed year, paper, question number, directive, marks and word limit exactly as the ledger records them: 2020 General Studies Paper II question 20 on Indo-United States and Indo-Russian defence deals and Indo-Pacific stability, a Discuss demand of 15 marks and 250 words; 2021 General Studies Paper II question 20 on AUKUS in the Indo-Pacific and existing regional partnerships, a Discuss the strength and impact demand of 15 marks and 250 words, for which the ledger records that the opening clause of the printed stem was truncated in the scan; 2023 General Studies Paper II question 20 on the role of the International Maritime Organization in protecting the environment and maritime safety, a Discuss demand of 15 marks and 250 words with the word limit taken from the instruction block; and 2024 General Studies Paper II question 20 on the geopolitical and geostrategic importance of Maldives for India, a Discuss demand of 15 marks and 250 words..
+
+Validation passed: 151 main pages,
+94 workbook pages,
+10 solved blocks, 80 MCQs,
+12/12 ASCII panels and
+12/12 graphical stages. Targeted tests:
+236; failures: 0.
+
+The authoritative queue advanced exactly one topic to `international-relations-05`.
+
+Machine validation:
+`upsc-ai-kit\manifests\exports\international-relations-04-semantic-validation-2026-09-06.json`
+
+Inventory:
+`upsc-ai-kit\manifests\exports\international-relations-04-semantic-completeness-2026-09-06-changed-files.txt`

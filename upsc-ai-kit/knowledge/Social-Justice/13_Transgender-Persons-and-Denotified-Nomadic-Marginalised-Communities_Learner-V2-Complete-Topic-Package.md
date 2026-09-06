@@ -1238,6 +1238,30 @@ exclusion using recognition, redistribution, representation and data limits.
 - ✅ `Governance/basic/08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md` —
   grievance mechanisms for welfare access.
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Transgender persons, Denotified Tribes, Nomadic Tribes and Semi-Nomadic Tribes require distinct histories, legal categories and policy responses joined by dignity, identity, documentation, livelihood, housing, education, health, mobility and protection from discrimination.
+- **Indispensable distinction and prerequisite taxonomy:** Transgender identity is not limited to medical transition, legal recognition is not social acceptance, DNT is not a constitutional reservation category by itself, nomadic is not homeless, and these communities must not be merged into one generic vulnerable group.
+- **Mechanism, implementation and evidence control:** Use NALSA, the Transgender Persons Act/rules, commissions or boards and DNT development measures with exact authority and status; trace self-identification/documentation, eligibility, discrimination, grievance, participation and outcomes with community-specific evidence.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 2026-09-06: the national transgender portal, Department and DNT development board remain official sources; identity recognition, certificate access, scheme eligibility and community-specific outcomes are distinct. Sources: https://transgender.dosje.gov.in/; https://socialjustice.gov.in/schemes/40; https://dwbdnc.dosje.gov.in/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Social Justice owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/social justice taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** This owner's previous-year record is a transparent zero, and it is stated precisely rather than softened. The audited 2018-2023 Mains routing ledger and the audited 2024-2025 Mains routing ledger route no General Studies question to this owner, and the audited 2018-2023, 2024-2025 and 2026 Prelims routing ledgers route no objective question to it. Both the Basic and the Advanced owner state independently that no direct General Studies Paper II Mains question in the audited 2024-2025 papers names transgender persons or denotified, nomadic and semi-nomadic communities, and both describe the questions they carry as probable or anticipated framing; those anticipated questions are therefore not reproduced anywhere in this package as previous-year questions, and no year, paper, question number, directive, mark value or word limit is asserted for them. The 2021 General Studies Paper I demand on the gig economy and the empowerment of women, the 2024 General Studies Paper I demand on migration to large cities and the General Studies Paper IV case studies involving migrant workers are routed by the audited ledgers to other owners, so none of them is claimed here either. In place of a solved demand card, the package supplies six original Mains questions with model solutions and eighty original objective questions on a strict A-B-C-D rotation, each model solution opening with its analytical claim so that the evidence which follows does argumentative rather than decorative work. The locally held OCR-searchable official General Studies papers were read only to confirm that no routed demand for this owner exists in them; no question was invented from them, no marking scheme or page precision was imported and no official answer key is claimed for any question anywhere in this package.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies What this owner holds and how its previous-year record is stated?

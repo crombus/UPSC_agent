@@ -1,0 +1,348 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "polity-01-05-hostile-semantic-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_society_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true,
+    "polity_legal_source_hierarchy": true,
+    "manually_authored_twelve_panels": true
+  },
+  "topics": [
+    {
+      "topic_key": "polity-05",
+      "display_title": "Union and Territory",
+      "active_generation": 18,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\polity-05_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Articles 1-4: the territorial power hierarchy",
+          "structural_type": "articles-power-hierarchy",
+          "ascii_lines": [
+            "ARTICLE 1",
+            "  India, that is Bharat = Union of States",
+            "  territory = States + Union territories + acquired territories",
+            "        |",
+            "ARTICLE 2",
+            "  Parliament admits into Union or establishes new States",
+            "        |",
+            "ARTICLE 3",
+            "  Parliament forms new States and alters area, boundary or name",
+            "        |",
+            "ARTICLE 4",
+            "  consequential First/Fourth Schedule changes and supplemental provisions",
+            "  laws under Articles 2 and 3 are not amendments under Article 368",
+            "",
+            "FIRST SCHEDULE = living ledger of States and Union territories",
+            "PRINCIPLE: States have constitutional status, but no right to secede.",
+            "MUST REMEMBER: Articles 1-4 and the First/Fourth Schedules separate territorial identity,",
+            "  admission or establishment, internal reorganisation and consequential schedule changes",
+            "  within an indestructible Union."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\05_Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\polity-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Article 3 procedure: consultation without a State veto",
+          "structural_type": "constitutional-procedure-flow",
+          "ascii_lines": [
+            "PRESIDENT'S RECOMMENDATION REQUIRED",
+            "        |",
+            "BILL affects area, boundary or name of a State?",
+            "  +-- YES -> President refers bill to affected State legislature",
+            "  |          +-- specifies time for expressing views",
+            "  |          +-- may extend that time",
+            "  |          +-- Parliament is not bound by those views",
+            "  +-- NO State affected -> proviso referral does not arise in that form",
+            "        |",
+            "PARLIAMENT passes by ordinary legislative majority",
+            "        |",
+            "PRESIDENTIAL ASSENT -> territorial and Schedule changes",
+            "",
+            "State view is required consultation, not consent."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\05_Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\polity-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Article 2, Article 3 and foreign-territory transfer are distinct",
+          "structural_type": "comparison-doctrine-matrix",
+          "ascii_lines": [
+            "QUESTION                         CONSTITUTIONAL ROUTE",
+            "admit or establish new State    Article 2",
+            "reorganise existing Indian unit Article 3",
+            "acquire foreign territory       sovereign power; Article 1 can accommodate it",
+            "cede Indian territory           constitutional amendment under Article 368",
+            "settle uncertain boundary       no cession if agreement only identifies boundary",
+            "",
+            "BERUBARI UNION (1960)",
+            "cession of Indian territory cannot be completed through Article 3 alone.",
+            "",
+            "MAGANBHAI ISHWARBHAI PATEL (1969)",
+            "boundary settlement differs from cession.",
+            "",
+            "100TH AMENDMENT, 2015",
+            "constitutional route used for India-Bangladesh land-boundary exchange."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\05_Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\polity-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "First Schedule as a constitutional change ledger",
+          "structural_type": "schedule-mechanism",
+          "ascii_lines": [
+            "TERRITORIAL LAW UNDER ARTICLE 2 OR 3",
+            "  +-- changes First Schedule: State and Union-territory description",
+            "  +-- may change Fourth Schedule: Rajya Sabha seat allocation",
+            "  +-- may include supplemental, incidental and consequential provisions",
+            "        |",
+            "ARTICLE 4 DECLARATION",
+            "such law is not deemed an Article 368 amendment",
+            "        |",
+            "ORDINARY LEGISLATIVE ROUTE",
+            "",
+            "LIMIT",
+            "Article 4 supports territorial reorganisation;",
+            "it does not bypass Article 368 for unrelated constitutional changes."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\05_Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\polity-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Integration and linguistic reorganisation, 1947-1956",
+          "structural_type": "territorial-evolution-timeline",
+          "ascii_lines": [
+            "1947-49  accession and integration of princely states",
+            "1950     Part A, B, C and D classification begins",
+            "1948     Dhar Commission cautions against language-only reorganisation",
+            "1949     JVP Committee postpones linguistic reorganisation",
+            "1952     Potti Sriramulu's death intensifies Andhra demand",
+            "1953     Andhra State formed; States Reorganisation Commission appointed",
+            "1955     Fazl Ali Commission report",
+            "1956     States Reorganisation Act + Seventh Amendment",
+            "         +-- language accepted with unity, administration and economy",
+            "         +-- Part classifications abolished",
+            "         +-- States and Union territories reorganised",
+            "",
+            "Language became accommodation's basis, not an automatic sole test."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\05_Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\polity-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Post-1956 map-making: reorganisation, creation and renaming",
+          "structural_type": "territorial-branching-map",
+          "ascii_lines": [
+            "1956 SETTLEMENT",
+            "  +-- 1960 Maharashtra + Gujarat",
+            "  +-- 1963 Nagaland",
+            "  +-- 1966 Haryana + Chandigarh; Punjab reorganised",
+            "  +-- 1971 Himachal Pradesh",
+            "  +-- 1972 Meghalaya, Manipur and Tripura",
+            "  +-- 1975 Sikkim becomes a State",
+            "  +-- 1987 Mizoram, Arunachal Pradesh and Goa",
+            "  +-- 2000 Chhattisgarh, Uttarakhand and Jharkhand",
+            "  +-- 2014 Telangana",
+            "  +-- 2019 Jammu and Kashmir reorganised into two Union territories",
+            "",
+            "RENAMING uses Article 3 when a State name changes.",
+            "CURRENT MAP IN SOURCE: 28 States and 8 Union territories.",
+            "CLOSE DISTINCTION: A State legislature supplies non-binding views under Article 3; Article 4",
+            "  uses ordinary legislative procedure, while foreign cession requires Article 368 under",
+            "  Berubari Union (1960) and a mere boundary settlement may not."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\05_Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\polity-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Jammu and Kashmir reorganisation as an Article 3 stress test",
+          "structural_type": "federal-procedure-case-map",
+          "ascii_lines": [
+            "2019 REORGANISATION -> J&K UT WITH LEGISLATURE + LADAKH UT WITHOUT LEGISLATURE",
+            "        |",
+            "IN RE ARTICLE 370 (2023 INSC 1058)",
+            "  +-- State legislature's Article 3 views are recommendatory",
+            "  +-- carving Ladakh as a UT upheld under Article 3(a) + Explanation I",
+            "  +-- whole-State-to-two-UT conversion question NOT finally decided",
+            "  +-- J&K Statehood restoration directed at the earliest",
+            "        |",
+            "STATUS CHECKED 28 AUG 2026",
+            "No enacted restoration located; Ladakh Statehood/Sixth-Schedule demands remain under dialogue.",
+            "",
+            "EXAM LIMIT: do not say the Court generally approved every State-to-UT conversion."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\05_Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\polity-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "New-State demand: democratic claim versus viable federal unit",
+          "structural_type": "problem-response-synthesis",
+          "ascii_lines": [
+            "CLAIM FOR NEW STATE",
+            "identity + distance from capital + uneven development + administrative access",
+            "        |",
+            "CONSTITUTIONAL RESPONSE",
+            "Article 3 reorganisation after required consultation",
+            "        |",
+            "TESTS",
+            "  +-- administrative viability",
+            "  +-- fiscal and resource sustainability",
+            "  +-- minority protection inside proposed unit",
+            "  +-- water, capital, assets, debt and employees",
+            "  +-- security and territorial integrity",
+            "  +-- democratic legitimacy and transition costs",
+            "",
+            "Smaller can improve access; it does not automatically produce capacity or equality."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\05_Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\polity-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Exact verified PYQ controls: wording, demand and answer ownership",
+          "structural_type": "pyq-control-matrix",
+          "ascii_lines": [
+            "2025 PRELIMS GS-I Q52",
+            "Arunachal Pradesh + Nagaland + Tripura pairs -> official key C: all three.",
+            "Nagaland: Statehood Act and accompanying Thirteenth Amendment are not mutually exclusive.",
+            "",
+            "2018 MAINS GS-I Q12 | 15 MARKS | 250 WORDS",
+            "\"Discuss whether formation of new states in recent times is beneficial or not",
+            "  for the economy of India.\"",
+            "Answer demand = economic benefit, capacity, fiscal viability and transition costs.",
+            "",
+            "2022 MAINS GS-I Q11 | 15 MARKS | 250 WORDS",
+            "Political and administrative reorganization has been a continuous ongoing process since the",
+            "  mid-nineteenth century -> prove continuity with colonial + post-1947 examples."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\05_Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\polity-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Exact 10/15/20-mark architecture: flexible territory within an indestructible Union",
+          "structural_type": "answer-architecture",
+          "ascii_lines": [
+            "10 MARKS / 150 WORDS",
+            "Article 1 thesis -> Articles 2/3 distinction -> Article 3 procedure -> one case -> verdict.",
+            "",
+            "15 MARKS / 250 WORDS",
+            "Articles 1-4 + First/Fourth Schedules -> history -> case law -> federal balance -> graded verdict.",
+            "",
+            "20 MARKS / 250 WORDS",
+            "Add chronology as argument, Explanation I State/UT nuance, exact J&K holding, criticism and reform.",
+            "Use validity -> legitimacy -> prudence; never substitute a current proposal for enacted law.",
+            "",
+            "ANSWER CONTROL",
+            "Every model: evidence -> mechanism -> analysis -> limit -> verdict -> answer-specific improvement."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\05_Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\polity-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Qualified final synthesis: flexible map, protected sovereignty, negotiated legitimacy",
+          "structural_type": "qualified-constitutional-synthesis",
+          "ascii_lines": [
+            "INTERNAL FLEXIBILITY",
+            "Articles 3-4 permit ordinary-law reorganisation after constitutionally required consultation.",
+            "        +",
+            "SOVEREIGNTY LIMIT",
+            "Berubari Union (1960) excludes foreign cession; Article 368 supplies the constitutional route.",
+            "        +",
+            "FEDERAL LEGITIMACY",
+            "State views are not a veto, but transparent consultation, viability and negotiated",
+            "  transition matter.",
+            "        +",
+            "CURRENT-LAW DISCIPLINE",
+            "28 States + 8 UTs; J&K remains a UT with Legislature on the 28 Aug 2026 check.",
+            "",
+            "FINAL VERDICT",
+            "Article 3 is a centralising safety valve whose legitimacy depends on using flexibility as",
+            "  constitutional accommodation, not as a substitute for federal trust."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g17\\polity-05_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\05_Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\polity-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Current territorial status and authoritative-source gate",
+          "structural_type": "current-law-source-gate",
+          "ascii_lines": [
+            "CURRENT MAP, RECHECKED 5 SEP 2026 -> 28 STATES + 8 UNION TERRITORIES",
+            "J&K REORGANISATION ACT 2019 -> UT of J&K + UT of Ladakh",
+            "IN RE ARTICLE 370, 11 DEC 2023 -> 2019 measures upheld; early statehood restoration recorded",
+            "NO OPERATIVE RESTORATION NOTIFICATION LOCATED -> J&K remains a UT",
+            "SOURCE ORDER: Constitution -> India Code -> Supreme Court -> MHA -> textbook.",
+            "LEGAL/SOURCE LIMIT: State/UT counts, J&K status and reorganisation claims are date-sensitive:",
+            "  use the Constitution, India Code, MHA and Supreme Court, and never turn an assurance to",
+            "  restore statehood into an accomplished legal notification."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\05_Union-and-Territory.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\polity-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

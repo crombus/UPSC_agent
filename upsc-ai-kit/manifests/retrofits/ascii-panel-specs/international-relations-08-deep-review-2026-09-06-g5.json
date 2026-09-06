@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "international-relations-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "international_relations_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "international-relations-08",
+      "display_title": "Global South and Development Partnering",
+      "active_generation": 5,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-08\\g5\\international-relations-08_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Central question and the category that has no head office",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "CENTRAL QUESTION -> can a category without an organisation be led at all?",
+            "GLOBAL SOUTH -> political-development category across Asia, Africa, Latin America",
+            "  defined by shared development challenges, not by formal membership",
+            "EXPRESSED THROUGH -> G77 | NAM | BRICS | India's own dedicated summit",
+            "UNIFIED BY -> the representation deficit, not by homogeneity",
+            "INDIA'S ROLE -> voice-aggregator and norm entrepreneur, speaking within not for",
+            "BOUNDARY -> BRICS/G20 profiles to topic 10; reform architecture to topic 12",
+            "MUST REMEMBER: Global South diplomacy aggregates development, finance, food, health,..."
+          ],
+          "source_references": [
+            "What this Global South owner holds and how its boundaries are routed",
+            "Global South as a category rather than an organisation",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-08\\g5\\international-relations-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Three coalitions that must never be merged",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "G77   -> over 120 developing countries; UN-system negotiating coalition",
+            "         Chairmanship: highest political body, one year, rotating between",
+            "         Africa, Asia-Pacific and Latin America and the Caribbean",
+            "         For 2026 the Oriental Republic of Uruguay chairs the G77 in New York",
+            "NAM   -> bloc-avoidance heritage; contemporary institutional salience has narrowed",
+            "BRICS -> narrower core; financial-architecture agenda; Rio de Janeiro Declaration,",
+            "         6-7 July 2025; partner-country category created 24 October 2024",
+            "RULE  -> partial overlap only; none is a synonym for the Global South"
+          ],
+          "source_references": [
+            "The Group of 77 as a specific negotiating coalition",
+            "The Group of 77's own machinery as its Secretariat records it",
+            "The Non-Aligned Movement's narrowed institutional salience",
+            "BRICS as a distinct grouping with a partner category",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-08\\g5\\international-relations-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "G77 machinery exactly as the Secretariat records it",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "SOUTH SUMMIT -> the supreme decision-making body of the Group of 77",
+            "  FIRST  -> Havana, Cuba, 10-14 April 2000",
+            "  SECOND -> Doha, Qatar, 12-16 June 2005",
+            "MINISTERS -> annual meeting of Foreign Ministers at the start of the regular",
+            "  session of the UN General Assembly in New York",
+            "IFCC -> Intergovernmental Follow-up and Coordination Committee on South-South",
+            "  Cooperation; plenary of senior officials; meets once every two years;",
+            "  reviews the Caracas Programme of Action adopted in 1981",
+            "PAGE STATE 2026-09-03 -> the Third South Summit is described as due to be held",
+            "  in Africa; recorded as the page's state, not as a claim about any summit"
+          ],
+          "source_references": [
+            "The Group of 77's own machinery as its Secretariat records it",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-08\\g5\\international-relations-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "South-South cooperation: the definition that scores",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "PRINCIPLES (United Nations Office for South-South Cooperation):",
+            "  respect for national sovereignty | national ownership and independence",
+            "  equality | non-conditionality | non-interference | mutual benefit",
+            "AGENDA -> must be determined by the countries of the South themselves",
+            "ORIGIN -> Buenos Aires Plan of Action, endorsed by the General Assembly in 1978",
+            "  through resolution 33/134",
+            "OBJECTIVES -> self-reliance; pooled technical resources; joint analysis;",
+            "  technological capacity; better communication; LDC, LLDC and SIDS needs"
+          ],
+          "source_references": [
+            "The doctrinal definition of South-South cooperation",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-08\\g5\\international-relations-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Triangular cooperation and the complementarity rule",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "TWO OR MORE DEVELOPING COUNTRIES -> Southern-driven partnership",
+            "-> SUPPORTED BY a developed country or a multilateral organisation",
+            "-> IMPLEMENTS development cooperation programmes and projects",
+            "WHY -> Southern partners often need financial, technical and expert support",
+            "NORTHERN GAIN -> stronger Southern institutional capacity; leveraged aid impact",
+            "CONDITION -> the process must be led and owned by Southern actors",
+            "RULE -> South-South cooperation complements, expressly not replaces, North-South aid"
+          ],
+          "source_references": [
+            "Triangular cooperation as the third structural form",
+            "The doctrinal definition of South-South cooperation",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-08\\g5\\international-relations-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "India's convening instrument and its exact record",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "12-13 JANUARY 2023 -> first Voice of Global South Summit, virtual",
+            "17 NOVEMBER 2023   -> second Voice of Global South Summit, virtual",
+            "17 AUGUST 2024     -> third Voice of Global South Summit, virtual;",
+            "  Global Development Compact proposed here",
+            "AS OF 3 AUGUST 2026 -> no fourth edition officially recorded as held or announced",
+            "NATURE -> convening and agenda-setting platform, not a decision-making body",
+            "HONEST LINE -> state the absent fourth edition rather than implying continuity",
+            "CLOSE DISTINCTION: Global South is a political-analytical category rather than a treaty..."
+          ],
+          "source_references": [
+            "The Voice of Global South Summit as India's own instrument",
+            "The Global Development Compact as a four-fold proposal",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-08\\g5\\international-relations-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "The Compact's four limbs and its exact status",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "LIMB 1 -> trade for development",
+            "LIMB 2 -> capacity building for sustainable growth",
+            "LIMB 3 -> technology sharing",
+            "LIMB 4 -> project-specific concessional finance and grants",
+            "STATUS -> a proposal announced on 17 August 2024",
+            "NOT    -> an operational institution with a secretariat, budget or finance window",
+            "RULE   -> treat as an agenda item unless a dated operational instrument is cited"
+          ],
+          "source_references": [
+            "The Global Development Compact as a four-fold proposal",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-08\\g5\\international-relations-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Grievance, agenda-setting and the reform decision",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "GRIEVANCE -> Security Council composition and IMF and World Bank governance",
+            "  under-represent developing countries by population and economic weight",
+            "-> AGGREGATION: coalitions and dedicated summits collect the priorities",
+            "-> AGENDA-SETTING: a framing enters the multilateral conversation",
+            "-> REFORM DECISION: taken only in the institutional venue itself",
+            "BENCHMARK -> 9 September 2023: the African Union becomes a permanent G20 member",
+            "REAL SCALE -> one forum, one seat; financing and UN deficits remain open"
+          ],
+          "source_references": [
+            "The representation deficit as the unifying grievance",
+            "The Group of Twenty outcome that shows realistic scale",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-08\\g5\\international-relations-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Material base behind the convening claim",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "LINES OF CREDIT -> more than 260, valued above USD 26 billion, roughly 62 countries",
+            "  STATUS: extended or committed facilities, expressly not disbursed amounts",
+            "CDRI -> 70 members as of June 2026: 58 countries and 12 partner organisations",
+            "GLOBAL BIOFUELS ALLIANCE -> launched 9 September 2023; 25 countries and",
+            "  12 international organisations agreeing to join as of 30 July 2026",
+            "ISA -> Framework Agreement in force 6 December 2017; headquartered in India",
+            "RULE -> membership counts measure participation, never country-level delivery"
+          ],
+          "source_references": [
+            "India's development-partnership footprint worldwide",
+            "India-initiated plurilateral platforms and their counts",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-08\\g5\\international-relations-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Latin America and the Caribbean with exact legal status",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BRAZIL -> strategic partner; co-member in BRICS, IBSA, G20 and G4",
+            "INDIA-MERCOSUR PTA -> signed 2004; operational from 1 June 2009",
+            "  STATUS: limited goods-preference agreement, not a comprehensive FTA",
+            "INDIA-CHILE -> existing PTA expanded 2017; CEPA terms of reference May 2025;",
+            "  fourth negotiation round concluded 5 December 2025",
+            "  STATUS: negotiation progress, not an agreement concluded or in force",
+            "CELAC -> dialogue route across a diverse 33-state region",
+            "CONSTRAINTS -> distance, connectivity, language, awareness, institutional density"
+          ],
+          "source_references": [
+            "The Latin American and Caribbean limb and its exact status",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-08\\g5\\international-relations-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Why unity is negotiated rather than natural",
+          "structural_type": "problem-response",
+          "ascii_lines": [
+            "PROBLEM -> small island states face existential climate risk",
+            "  RESPONSE: they press for mitigation urgency and loss-and-damage finance",
+            "PROBLEM -> resource-exporting states face transition costs",
+            "  RESPONSE: they press for sequencing and compensation",
+            "PROBLEM -> larger emerging economies claim development space",
+            "  RESPONSE: they press differentiated responsibility",
+            "RESULT -> a common Southern position on climate finance is bargained, not given",
+            "COST -> overlapping platforms multiply coordination and resource burdens"
+          ],
+          "source_references": [
+            "Internal contestation inside the South",
+            "Norm entrepreneurship against institutional power",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-08\\g5\\international-relations-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Answer spine for a Global South demand",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> define the category and separate it from G77, NAM and BRICS by name",
+            "BUILD -> grievance, doctrine and principles, India's dated convening instrument",
+            "EVIDENCE -> credit commitments, permanent institutions, one representation outcome",
+            "TEST -> internal contestation, agenda-setting against institutional power",
+            "OWNERSHIP -> the 2019 Elaborate demand is the only routed Mains question here",
+            "CLOSE -> speaks within the Global South, not for it; predict no reform outcome",
+            "EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Verify summit title, host, date,..."
+          ],
+          "source_references": [
+            "India's aspirational leadership framing in the source",
+            "Honest question ownership for this Global South owner",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\08_Global-South-and-Development-Partnering.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-08\\g5\\international-relations-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

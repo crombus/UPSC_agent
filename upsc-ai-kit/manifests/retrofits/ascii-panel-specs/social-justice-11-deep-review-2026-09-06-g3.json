@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "social-justice-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "social_justice_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "social-justice-11",
+      "display_title": "Persons with Disabilities",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-11\\g3\\social-justice-11_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Recognition to participation",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "IMPAIRMENT -> long-term physical, mental, intellectual or sensory",
+            "-> IN INTERACTION WITH BARRIERS: physical, attitudinal, institutional",
+            "-> RECOGNITION: 21 specified categories; benchmark certification at 40 per cent or more",
+            "-> DUTIES: statutory reservation; reasonable accommodation; accessibility standards",
+            "TEST -> substantive participation in education, employment and public life",
+            "MUST REMEMBER: Disability justice follows equality, dignity, autonomy, accessibility,..."
+          ],
+          "source_references": [
+            "What this owner holds and the exact demands routed to it",
+            "The statutory definition and its convention anchor",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-11\\g3\\social-justice-11_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Category expansion",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "1995 ACT -> seven recognised categories; repealed",
+            "2016 ACT -> twenty-one specified categories in the Schedule",
+            "ADDED SCOPE -> thalassaemia, haemophilia, sickle-cell disease, acid-attack victims",
+            "ALSO -> specific learning disabilities, multiple sclerosis, Parkinson's disease, dwarfism",
+            "OPEN -> the government may notify additional categories"
+          ],
+          "source_references": [
+            "The twenty-one specified disabilities and the power to notify more",
+            "The move from seven categories to twenty-one",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-11\\g3\\social-justice-11_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Threshold and entitlement",
+          "structural_type": "ladder",
+          "ascii_lines": [
+            "STEP 1 -> the Act's definition covers a person with disability without any percentage",
+            "STEP 2 -> a medical authority certifies type and extent of disability",
+            "STEP 3 -> forty per cent or more is benchmark disability",
+            "STEP 4 -> benchmark status triggers reservation eligibility and concessions",
+            "LIMIT -> a person below the threshold may still face significant barriers"
+          ],
+          "source_references": [
+            "Benchmark disability and what it triggers",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-11\\g3\\social-justice-11_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Reservation source card",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "DISABILITY RESERVATION -> statutory, under the 2016 Act",
+            "QUANTUM -> minimum four per cent in government establishments and posts",
+            "QUANTUM -> minimum five per cent in higher-educational institutions",
+            "CASTE RESERVATION -> constitutional, under Article 16(4)",
+            "CONSEQUENCE -> the fifty per cent ceiling jurisprudence does not govern the statutory route"
+          ],
+          "source_references": [
+            "Statutory reservation and why it is not Article 16(4) reservation",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-11\\g3\\social-justice-11_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Accommodation test",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "DEFINITION -> Section 2(y): necessary and appropriate modification and adjustment",
+            "PURPOSE -> enjoyment of rights on an equal basis with others",
+            "LIMIT -> not imposing a disproportionate or undue burden",
+            "SANCTION -> denial of reasonable accommodation is discrimination under the Act",
+            "SCOPE -> physical, procedural, technological and attitudinal, not accessibility alone"
+          ],
+          "source_references": [
+            "Reasonable accommodation and the fact that its denial is discrimination",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-11\\g3\\social-justice-11_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Three models",
+          "structural_type": "dialectic",
+          "ascii_lines": [
+            "MEDICAL MODEL -> disability located in impairment; attention to cure and rehabilitation",
+            "SOCIAL MODEL -> disadvantage located in environments, institutions and attitudes",
+            "RIGHTS MODEL -> enforceable equality, autonomy, accessibility, accommodation duties",
+            "CONVENTION -> ratified by India in 2007; the 2016 Act gives it domestic effect",
+            "RULE -> a recommendation must say which model it operates in",
+            "CLOSE DISTINCTION: Impairment is not disability, accessibility is not reasonable..."
+          ],
+          "source_references": [
+            "The medical, social and rights models",
+            "The statutory definition and its convention anchor",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-11\\g3\\social-justice-11_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Design strategies",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "UNIVERSAL DESIGN -> accessibility built into the original design from inception",
+            "RETROFITTING -> accessibility added to structures built without it",
+            "EFFICIENCY -> universal design is more effective and more cost-efficient",
+            "REALITY -> retrofitting dominates because of legacy infrastructure",
+            "QUALIFICATION -> individual accommodation is still needed where a barrier survives"
+          ],
+          "source_references": [
+            "Universal design against retrofitting",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-11\\g3\\social-justice-11_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Identification platform",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "BEFORE -> fragmented State-level disability certificates",
+            "-> CENTRALISED APPLICATION, CERTIFICATE AND CARD PROCESS",
+            "-> NATIONAL PORTABILITY across States",
+            "-> FRICTION REMOVED: repeated re-certification",
+            "BOUNDARY -> portability is not entitlement; registration counts are dynamic"
+          ],
+          "source_references": [
+            "The portable identity platform and what it does not do",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-11\\g3\\social-justice-11_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Accessibility framework",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "PILLAR 1 -> built environment: ramps, tactile paths, accessible sanitation",
+            "PILLAR 2 -> transport: accessible buses and railway coaches",
+            "PILLAR 3 -> information and communication technology: screen readers, accessible websites",
+            "VEHICLE -> carried through the implementation scheme for the 2016 Act since March 2024",
+            "STANDARDS -> harmonised guidelines; enforcement and access audits remain State and local"
+          ],
+          "source_references": [
+            "The accessibility framework and its present implementation vehicle",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-11\\g3\\social-justice-11_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Institutions kept apart",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "CHIEF COMMISSIONER -> complaints, monitoring of safeguards, remedial recommendations",
+            "STATE COMMISSIONERS -> parallel functions at the State level",
+            "ACCESSIBILITY MISSION -> delivery of built, transport and technology accessibility work",
+            "DEVELOPMENT CORPORATION -> concessional credit and livelihood finance",
+            "TRUST STATUTE 1999 -> guardianship and care for four conditions only"
+          ],
+          "source_references": [
+            "The grievance and monitoring authorities under the 2016 Act",
+            "The 1999 trust statute and its four-condition scope",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-11\\g3\\social-justice-11_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Departmental statement card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "AIM -> facilitate the empowerment of persons with disabilities",
+            "PREVALENCE -> as per Census 2011, 2.68 crore persons with disabilities",
+            "SHARE -> 2.21 per cent of the total population of the country",
+            "CATEGORIES -> twenty-one types of disabilities under the 2016 Act",
+            "NAMED -> locomotor, visual, hearing, speech and language, intellectual, multiple, dwarfism"
+          ],
+          "source_references": [
+            "The department's own dated prevalence statement",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-11\\g3\\social-justice-11_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Gap diagnosis",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "JOINT 1 -> reservation seats unfilled because suitable posts are not identified",
+            "JOINT 2 -> legacy infrastructure; retrofitting slow and costly; timelines extended",
+            "JOINT 3 -> private establishments; accommodation duty applies but enforcement is weaker",
+            "JOINT 4 -> benchmark threshold excludes persons below forty per cent facing real barriers",
+            "ILLUSTRATION -> an accessible coach does not secure mobility if the platform is not accessible",
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use the RPwD Act, UNCRPD status,..."
+          ],
+          "source_references": [
+            "Where the entitlement-to-participation gap actually opens",
+            "Coverage against substantive participation",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\11_Persons-with-Disabilities.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-11\\g3\\social-justice-11_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

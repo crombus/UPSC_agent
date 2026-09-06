@@ -1,0 +1,1077 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-07",
+  "subject": "Economy",
+  "title": "MONEY MARKET, CAPITAL MARKET AND FINANCIAL INSTRUMENTS",
+  "short_route": "MARKET MATURITY FORK → ISSUE-TO-TRADE RAIL → GOVERNMENT BORROWING LADDER → OVERNIGHT MARKET MAP → CORPORATE AND BANK FUNDING → REGULATORY DIVISION",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g3\\economy-07_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-07-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "e688dcae0b183d86d6dacc516787b73027d6b1fa542e999e38ee1451b5731dd8",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "MARKET MATURITY FORK",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MARKET MATURITY FORK",
+          "role": "primary"
+        },
+        {
+          "text": "MONEY MARKET",
+          "role": "outcome"
+        },
+        {
+          "text": "SHORT-TERM FUNDS + LIQUIDITY",
+          "role": "comparison"
+        },
+        {
+          "text": "CAPITAL MARKET",
+          "role": "evidence"
+        },
+        {
+          "text": "MEDIUM/LONG DEBT + EQUITY",
+          "role": "primary"
+        },
+        {
+          "text": "CLASSIFY BY",
+          "role": "outcome"
+        },
+        {
+          "text": "TENOR + CLAIM + FUNCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT BY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MONEY MARKET → short-term funds + liquidity",
+        "CAPITAL MARKET → medium/long debt + equity",
+        "CLASSIFY BY → tenor + claim + function",
+        "NOT BY → issuer name alone",
+        "MUST REMEMBER: Money markets fund short maturities and liquidity; capital markets fund"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MONEY MARKET → short-term funds + liquidity",
+          "CLASSIFY BY → tenor + claim + function",
+          "MUST REMEMBER: Money markets fund short maturities and liquidity; capital markets fund..."
+        ],
+        [
+          "CAPITAL MARKET → medium/long debt + equity",
+          "NOT BY → issuer name alone",
+          "MONEY MARKET → short-term funds + liquidity"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MONEY MARKET → short-term funds + liquidity",
+            "CAPITAL MARKET → medium/long debt + equity"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CLASSIFY BY → tenor + claim + function",
+            "NOT BY → issuer name alone"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Money markets fund short maturities and liquidity; capital markets fund...",
+            "MONEY MARKET → short-term funds + liquidity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Money markets fund short maturities and liquidity; capital markets fund.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g3\\economy-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ISSUE-TO-TRADE RAIL",
+      "structural_type": "market-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ISSUE-TO-TRADE RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "SAVER FUNDS",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIMARY ISSUE",
+          "role": "comparison"
+        },
+        {
+          "text": "FRESH ISSUER FINANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "SECONDARY TRADE",
+          "role": "primary"
+        },
+        {
+          "text": "INVESTOR LIQUIDITY",
+          "role": "outcome"
+        },
+        {
+          "text": "PRICE DISCOVERY",
+          "role": "comparison"
+        },
+        {
+          "text": "FUTURE FINANCING SIGNAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SAVER FUNDS",
+        "PRIMARY ISSUE → fresh issuer finance",
+        "SECONDARY TRADE → investor liquidity",
+        "PRICE DISCOVERY → future financing signal"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SAVER FUNDS",
+            "PRIMARY ISSUE → fresh issuer finance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SECONDARY TRADE → investor liquidity",
+            "PRICE DISCOVERY → future financing signal"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SAVER FUNDS",
+            "PRIMARY ISSUE → fresh issuer finance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SECONDARY TRADE → investor liquidity; PRICE DISCOVERY → future financing signal.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g3\\economy-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "GOVERNMENT BORROWING LADDER",
+      "structural_type": "tenor-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "GOVERNMENT BORROWING LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "TREASURY BILL",
+          "role": "outcome"
+        },
+        {
+          "text": "SHORT TENOR",
+          "role": "comparison"
+        },
+        {
+          "text": "DATED G-SEC",
+          "role": "evidence"
+        },
+        {
+          "text": "LONGER MATURITY",
+          "role": "primary"
+        },
+        {
+          "text": "AUCTION AND MARKET ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "ROLLOVER RISK PERSISTS AT SHORT TENOR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TREASURY BILL → short tenor",
+        "DATED G-SEC → longer maturity",
+        "RBI → auction and market architecture",
+        "ROLLOVER RISK persists at short tenor"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TREASURY BILL → short tenor",
+            "DATED G-SEC → longer maturity"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RBI → auction and market architecture",
+            "ROLLOVER RISK persists at short tenor"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TREASURY BILL → short tenor",
+            "DATED G-SEC → longer maturity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RBI → auction and market architecture; ROLLOVER RISK persists at short tenor.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g3\\economy-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "OVERNIGHT MARKET MAP",
+      "structural_type": "segment-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "OVERNIGHT MARKET MAP",
+          "role": "primary"
+        },
+        {
+          "text": "CALL MONEY",
+          "role": "outcome"
+        },
+        {
+          "text": "UNSECURED OVERNIGHT",
+          "role": "comparison"
+        },
+        {
+          "text": "COLLATERALISED BILATERAL FUNDING",
+          "role": "evidence"
+        },
+        {
+          "text": "TRI-PARTY COLLATERAL PLATFORM",
+          "role": "primary"
+        },
+        {
+          "text": "OLDER MECHANISM REPLACED BY TREPS",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "CALL MONEY → unsecured overnight",
+        "REPO → collateralised bilateral funding",
+        "TREPS → tri-party collateral platform",
+        "CBLO → older mechanism replaced by TREPS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CALL MONEY → unsecured overnight",
+            "REPO → collateralised bilateral funding"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TREPS → tri-party collateral platform",
+            "CBLO → older mechanism replaced by TREPS"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CALL MONEY → unsecured overnight",
+            "REPO → collateralised bilateral funding"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TREPS → tri-party collateral platform; CBLO → older mechanism replaced by TREPS.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g3\\economy-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CORPORATE AND BANK FUNDING",
+      "structural_type": "issuer-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CORPORATE AND BANK FUNDING",
+          "role": "primary"
+        },
+        {
+          "text": "COMMERCIAL PAPER",
+          "role": "outcome"
+        },
+        {
+          "text": "ELIGIBLE INSTITUTION",
+          "role": "institution"
+        },
+        {
+          "text": "CERTIFICATE OF DEPOSIT",
+          "role": "evidence"
+        },
+        {
+          "text": "UNSECURED + ROLLOVER-SENSITIVE",
+          "role": "primary"
+        },
+        {
+          "text": "NEGOTIABLE SHORT-TERM LIABILITY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CORPORATE → Commercial Paper",
+        "BANK / ELIGIBLE INSTITUTION → Certificate of Deposit",
+        "CP → unsecured + rollover-sensitive",
+        "CD → negotiable short-term liability"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CORPORATE → Commercial Paper",
+            "BANK / ELIGIBLE INSTITUTION → Certificate of Deposit"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CP → unsecured + rollover-sensitive",
+            "CD → negotiable short-term liability"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CORPORATE → Commercial Paper",
+            "BANK / ELIGIBLE INSTITUTION → Certificate of Deposit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BANK / ELIGIBLE INSTITUTION → Certificate of Deposit.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g3\\economy-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "REGULATORY DIVISION",
+      "structural_type": "regulator-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "REGULATORY DIVISION",
+          "role": "primary"
+        },
+        {
+          "text": "MONEY MARKET + G-SECS + PAYMENT RAILS",
+          "role": "outcome"
+        },
+        {
+          "text": "SECURITIES ISSUANCE + EXCHANGES",
+          "role": "comparison"
+        },
+        {
+          "text": "UNIFIED IFSC PERIMETER",
+          "role": "evidence"
+        },
+        {
+          "text": "KEEP INSTRUMENT, VENUE AND REGULATOR DISTINCT",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "PRIMARY IS NOT SECONDARY, MONEY MARKET IS NOT MERELY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RBI → money market + G-Secs + payment rails",
+        "SEBI → securities issuance + exchanges",
+        "IFSCA → unified IFSC perimeter",
+        "KEEP instrument, venue and regulator distinct",
+        "CLOSE DISTINCTION: Primary is not secondary, money market is not merely cash, yield is"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RBI → money market + G-Secs + payment rails",
+            "SEBI → securities issuance + exchanges"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IFSCA → unified IFSC perimeter",
+            "KEEP instrument, venue and regulator distinct"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Primary is not secondary, money market is not merely cash, yield is...",
+            "RBI → money market + G-Secs + payment rails"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Primary is not secondary, money market is not merely cash, yield is.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g3\\economy-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "G-SEC TRADING INFRASTRUCTURE",
+      "structural_type": "infrastructure-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "G-SEC TRADING INFRASTRUCTURE",
+          "role": "primary"
+        },
+        {
+          "text": "ELECTRONIC G-SEC TRADING",
+          "role": "outcome"
+        },
+        {
+          "text": "CLEARING AND SETTLEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "OWNERSHIP RECORDS",
+          "role": "evidence"
+        },
+        {
+          "text": "BROKER CONNECT",
+          "role": "primary"
+        },
+        {
+          "text": "ACCESS MODES",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "NDS-OM → electronic G-Sec trading",
+        "CCIL → clearing and settlement",
+        "SGL / DEMAT → ownership records",
+        "DIRECT / INDIRECT / BROKER CONNECT → access modes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NDS-OM → electronic G-Sec trading",
+            "CCIL → clearing and settlement"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SGL / DEMAT → ownership records",
+            "DIRECT / INDIRECT / BROKER CONNECT → access modes"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NDS-OM → electronic G-Sec trading",
+            "CCIL → clearing and settlement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DIRECT / INDIRECT / BROKER CONNECT → access modes.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g3\\economy-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "LIQUIDITY QUALITY BOARD",
+      "structural_type": "quality-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LIQUIDITY QUALITY BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "ABSORB ORDER SIZE",
+          "role": "outcome"
+        },
+        {
+          "text": "PARTICIPANT AND INSTRUMENT RANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSACT QUICKLY",
+          "role": "evidence"
+        },
+        {
+          "text": "RECOVER AFTER SHOCKS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEPTH → absorb order size",
+        "BREADTH → participant and instrument range",
+        "IMMEDIACY → transact quickly",
+        "RESILIENCE → recover after shocks"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DEPTH → absorb order size",
+          "IMMEDIACY → transact quickly",
+          "DEPTH → absorb order size"
+        ],
+        [
+          "BREADTH → participant and instrument range",
+          "RESILIENCE → recover after shocks",
+          "BREADTH → participant and instrument range"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEPTH → absorb order size",
+            "BREADTH → participant and instrument range"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IMMEDIACY → transact quickly",
+            "RESILIENCE → recover after shocks"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEPTH → absorb order size",
+            "BREADTH → participant and instrument range"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "IMMEDIACY → transact quickly; RESILIENCE → recover after shocks.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g3\\economy-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "RISK AND RETURN DIMENSIONS",
+      "structural_type": "dimension-board",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "RISK AND RETURN DIMENSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "MATURITY IS NOT LIQUIDITY",
+          "role": "mechanism"
+        },
+        {
+          "text": "LIQUIDITY IS NOT SAFETY",
+          "role": "evidence"
+        },
+        {
+          "text": "RATING IS NOT GUARANTEE",
+          "role": "comparison"
+        },
+        {
+          "text": "YIELD REFLECTS EXPECTATIONS + PREMIA + RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MATURITY is not LIQUIDITY",
+        "LIQUIDITY is not SAFETY",
+        "RATING is not GUARANTEE",
+        "YIELD reflects expectations + premia + risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MATURITY is not LIQUIDITY",
+            "LIQUIDITY is not SAFETY"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RATING is not GUARANTEE",
+            "YIELD reflects expectations + premia + risk"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MATURITY is not LIQUIDITY",
+            "LIQUIDITY is not SAFETY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RATING is not GUARANTEE; YIELD reflects expectations + premia + risk.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g3\\economy-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PAYMENT-SYSTEM FORK",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PAYMENT-SYSTEM FORK",
+          "role": "primary"
+        },
+        {
+          "text": "REAL TIME + GROSS + TRANSACTION-WISE",
+          "role": "outcome"
+        },
+        {
+          "text": "BATCH SETTLEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "OWNER RECORDS CONTINUOUS OPERATION",
+          "role": "evidence"
+        },
+        {
+          "text": "PAYMENT RAIL IS NOT A CAPITAL-MARKET SECURITY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RTGS → real time + gross + transaction-wise",
+        "NEFT → batch settlement",
+        "BOTH → owner records continuous operation",
+        "PAYMENT RAIL is not a capital-market security"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "RTGS → real time + gross + transaction-wise",
+          "BOTH → owner records continuous operation",
+          "RTGS → real time + gross + transaction-wise"
+        ],
+        [
+          "NEFT → batch settlement",
+          "PAYMENT RAIL is not a capital-market security",
+          "NEFT → batch settlement"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RTGS → real time + gross + transaction-wise",
+            "NEFT → batch settlement"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BOTH → owner records continuous operation",
+            "PAYMENT RAIL is not a capital-market security"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RTGS → real time + gross + transaction-wise",
+            "NEFT → batch settlement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RTGS → real time + gross + transaction-wise.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g3\\economy-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "RECEIVABLES AND PHYSICAL ASSETS",
+      "structural_type": "classification-board",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RECEIVABLES AND PHYSICAL ASSETS",
+          "role": "primary"
+        },
+        {
+          "text": "ACCEPTED MSME RECEIVABLE DISCOUNTING",
+          "role": "outcome"
+        },
+        {
+          "text": "FINANCIAL INSTRUMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "MOTOR VEHICLE",
+          "role": "evidence"
+        },
+        {
+          "text": "PHYSICAL ASSET",
+          "role": "primary"
+        },
+        {
+          "text": "COLLATERAL STATUS DOES NOT CHANGE ASSET CLASS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TReDS → accepted MSME receivable discounting",
+        "ETF / SWAP → financial instruments",
+        "MOTOR VEHICLE → physical asset",
+        "COLLATERAL status does not change asset class"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TReDS → accepted MSME receivable discounting",
+            "ETF / SWAP → financial instruments"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MOTOR VEHICLE → physical asset",
+            "COLLATERAL status does not change asset class"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TReDS → accepted MSME receivable discounting",
+            "ETF / SWAP → financial instruments"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MOTOR VEHICLE → physical asset; COLLATERAL status does not change asset class.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g3\\economy-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "FINANCIAL-MARKET ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "FINANCIAL-MARKET ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CLASSIFY TENOR, ISSUER AND CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "MAP PRIMARY VERSUS SECONDARY FUNCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "TRACE TRADING, CLEARING AND SETTLEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "BALANCE DEPTH WITH DISCLOSURE AND RESILIENCE",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "STATE ISSUER, MATURITY, CLAIM, QUOTATION",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "CLASSIFY tenor, issuer and claim",
+        "MAP primary versus secondary function",
+        "TRACE trading, clearing and settlement",
+        "BALANCE depth with disclosure and resilience",
+        "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State issuer, maturity, claim, quotation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CLASSIFY tenor, issuer and claim",
+            "MAP primary versus secondary function"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRACE trading, clearing and settlement",
+            "BALANCE depth with disclosure and resilience"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State issuer, maturity, claim, quotation,...",
+            "CLASSIFY tenor, issuer and claim"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State issuer, maturity, claim, quotation,.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\07_Money-Market-Capital-Market-and-Financial-Instruments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-07\\g3\\economy-07_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "MONEY MARKETS TRANSMIT MONETARY POLICY BY LINKING CENTRAL-BANK OPERATIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "YIELD CURVES EMBED EXPECTED RATES, TERM PREMIA, LIQUIDITY AND",
+          "role": "comparison"
+        },
+        {
+          "text": "MARKET LIQUIDITY HAS DEPTH, BREADTH, IMMEDIACY AND RESILIENCE DIMENSIONS.",
+          "role": "evidence"
+        },
+        {
+          "text": "CLEARING CORPORATIONS REDUCE COUNTERPARTY EXPOSURE THROUGH NOVATION, MARGINS AND",
+          "role": "primary"
+        },
+        {
+          "text": "INSTITUTIONAL INVESTORS CAN LENGTHEN THE FUNDING HORIZON BUT MAY",
+          "role": "outcome"
+        },
+        {
+          "text": "A COMPLETE MARKET ECOSYSTEM REQUIRES ISSUANCE, TRADING, CLEARING, SETTLEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "TREDS TURNS ACCEPTED MSME RECEIVABLES INTO A COMPETITIVE DISCOUNTING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Money markets transmit monetary policy by linking central-bank operations to overnight",
+            "CAUTION: Yield curves embed expected rates, term premia, liquidity and credit conditions.",
+            "CAUTION: Market liquidity has depth, breadth, immediacy and resilience dimensions.",
+            "CAUTION: Clearing corporations reduce counterparty exposure through novation, margins and"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Institutional investors can lengthen the funding horizon but may create correlated",
+            "CAUTION: A complete market ecosystem requires issuance, trading, clearing, settlement, custody,",
+            "CAUTION: TReDS turns accepted MSME receivables into a competitive discounting opportunity; its",
+            "RBI: oversees money markets, government securities and payment or settlement"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "SEBI: regulates securities issuance, exchanges, intermediaries and investor",
+            "CCIL: clears and settles important government-securities, money and foreign-exchange",
+            "Exchanges, depositories and clearing corporations: provide trading, dematerialised",
+            "CAUTION: Treasury bills finance short-term government needs; dated government securities carry"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

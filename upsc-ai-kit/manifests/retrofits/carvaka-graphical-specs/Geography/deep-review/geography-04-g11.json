@@ -1,0 +1,1221 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-04",
+  "subject": "Geography",
+  "title": "WEATHERING, MASS MOVEMENT, GROUNDWATER / INDIA EROSION-LANDSLIDES-GROUNDWATER",
+  "short_route": "EXOGENIC SOURCE-TRANSFER-STORAGE SYSTEM → WEATHERING TAXONOMY, CONTROLS, REGOLITH → SOIL EROSION SEQUENCE AND → MASS-MOVEMENT TAXONOMY AND SLOPE-STABILITY → INDIA LANDSLIDE GEOGRAPHY, RISK → GROUNDWATER ARCHITECTURE FROM RECHARGE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g11 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-04-deep-review-2026-09-05-g11.json",
+  "ascii_spec_sha256": "7f8533b7bb1331b659babbcc3d96229c89f6f11efe67620fbf9530bd076d317b",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "EXOGENIC SOURCE-TRANSFER-STORAGE SYSTEM",
+      "structural_type": "process-system-overview",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "EXOGENIC SOURCE-TRANSFER-STORAGE SYSTEM",
+          "role": "evidence"
+        },
+        {
+          "text": "EXOGENIC LANDSCAPE SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "HOW IS ROCK CONVERTED INTO LANDFORM?",
+          "role": "comparison"
+        },
+        {
+          "text": "ROCK EXPOSED AT SURFACE WEATHERING IN PLACE REGOLITH AND",
+          "role": "evidence"
+        },
+        {
+          "text": "DENUDATION IS COLLECTIVE LOWERING; WEATHERING, EROSION AND MASS WASTING",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "WEATHERING PREPARES MATERIAL IN SITU, MASS MOVEMENT TRANSFERS IT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EXOGENIC LANDSCAPE SYSTEM",
+        "CENTRAL QUESTION: How is rock converted into landform?",
+        "ROCK EXPOSED AT SURFACE weathering in place regolith and loose material supplied gravity-driven transfer agent-driven",
+        "transfer mass wasting downslope water, wind, ice, waves erosion + transport deposition temporary storage remobilisation",
+        "Denudation is collective lowering; weathering, erosion and mass wasting are linked but distinct processes."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EXOGENIC LANDSCAPE SYSTEM",
+            "CENTRAL QUESTION: How is rock converted into landform?",
+            "ROCK EXPOSED AT SURFACE weathering in place regolith and loose material supplied gravity-driven transfer agent-driven"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "transfer mass wasting downslope water, wind, ice, waves erosion + transport deposition temporary storage remobilisation",
+            "Denudation is collective lowering; weathering, erosion and mass wasting are linked but distinct processes.",
+            "MUST REMEMBER: Weathering prepares material in situ, mass movement transfers it downslope, running water removes it, and groundwater"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Indian analysis links lithology, slope, rainfall, land use and pumping."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Denudation is a connected source–transfer–storage system, but weathering, erosion and mass wasting must still be distinguished by whether material remains in place, is carried by an agent, or moves mainly under gravity.",
+      "source_references": [
+        "{'sessions': [1], 'sections': ['BASIC LEARNING SESSION', 'Process system and definitions'], 'markdown_lines': ['43-124', '2965-2971']}",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "WEATHERING TAXONOMY, CONTROLS, REGOLITH AND SOIL FORMATION",
+      "structural_type": "classification-tree-and-controls-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WEATHERING TAXONOMY, CONTROLS, REGOLITH AND SOIL FORMATION",
+          "role": "primary"
+        },
+        {
+          "text": "MECHANICAL CHEMICAL BIOLOGICAL THERMAL SOLUTION ROOTS/BURROWS UNLOADING CARBONATION ORGANIC",
+          "role": "outcome"
+        },
+        {
+          "text": "REGOLITH ORGANIC INPUTS + ORGANISMS + TRANSLOCATION + TIME",
+          "role": "comparison"
+        },
+        {
+          "text": "R REMOVAL GAIN PARENT ROCK",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTROLS CONVERGE",
+          "role": "primary"
+        },
+        {
+          "text": "MINERALOGY + JOINTS/BEDDING + CLIMATE + RELIEF DRAINAGE +",
+          "role": "outcome"
+        },
+        {
+          "text": "BLACK SOIL LINK",
+          "role": "comparison"
+        },
+        {
+          "text": "DECCAN BASALT PARENT, SHRINK-SWELL CLAY, DEEP DRY CRACKS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MECHANICAL CHEMICAL BIOLOGICAL thermal solution roots/burrows unloading carbonation organic acids frost hydration human exposure salt",
+        "REGOLITH organic inputs + organisms + translocation + time",
+        "O → A/E → B → C → R removal gain parent rock",
+        "CONTROLS CONVERGE: mineralogy + joints/bedding + climate + relief drainage + organisms + time +",
+        "Black soil link: Deccan basalt parent, shrink-swell clay, deep dry cracks"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MECHANICAL CHEMICAL BIOLOGICAL thermal solution roots/burrows unloading carbonation organic acids frost hydration human exposure salt hydrolysis wet-dry oxidation",
+          "O → A/E → B → C → R removal gain parent rock",
+          "Black soil link: Deccan basalt parent, shrink-swell clay, deep dry cracks"
+        ],
+        [
+          "REGOLITH organic inputs + organisms + translocation + time",
+          "CONTROLS CONVERGE: mineralogy + joints/bedding + climate + relief drainage + organisms + time + land use",
+          "parent material does not alone determine every soil property."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MECHANICAL CHEMICAL BIOLOGICAL thermal solution roots/burrows unloading carbonation organic acids frost hydration human exposure salt hydrolysis wet-dry oxidation",
+            "REGOLITH organic inputs + organisms + translocation + time"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "O → A/E → B → C → R removal gain parent rock",
+            "CONTROLS CONVERGE: mineralogy + joints/bedding + climate + relief drainage + organisms + time + land use"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Black soil link: Deccan basalt parent, shrink-swell clay, deep dry cracks",
+            "parent material does not alone determine every soil property."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Weathering is controlled not by climate alone but by the interaction of energy and moisture with mineralogy, discontinuities, relief, biota, time and land use.",
+      "source_references": [
+        "{'sessions': [2, 3, 4], 'sections': ['BASIC LEARNING SESSION', 'Process system and definitions', 'Regolith, soils and erosion'], 'markdown_lines': ['125-466', '2968-2981']}",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SOIL EROSION SEQUENCE AND WATERSHED CONTROL LOGIC",
+      "structural_type": "causal-sequence-and-intervention-chain",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SOIL EROSION SEQUENCE AND WATERSHED CONTROL LOGIC",
+          "role": "primary"
+        },
+        {
+          "text": "RAINDROP IMPACT + BARE SOIL + RUNOFF CONCENTRATION DIFFUSE",
+          "role": "outcome"
+        },
+        {
+          "text": "CHAMBAL CUE",
+          "role": "comparison"
+        },
+        {
+          "text": "WATERSHED RESPONSE COVER SOIL",
+          "role": "evidence"
+        },
+        {
+          "text": "SLOW RUNOFF",
+          "role": "primary"
+        },
+        {
+          "text": "SHORTEN SLOPE LENGTH",
+          "role": "outcome"
+        },
+        {
+          "text": "PROTECT DRAINAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "TREAT GULLY HEAD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RAINDROP IMPACT + BARE SOIL + RUNOFF CONCENTRATION diffuse sheet removal small rill channels entrenched",
+        "WATERSHED RESPONSE cover soil → slow runoff → shorten slope length → contour/terrace",
+        "protect drainage → treat gully head → rehabilitate catchment",
+        "WIND BRANCH surface creep → saltation → suspension",
+        "COASTAL BRANCH wave erosion belongs to the coastal-process system; use only when asked."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RAINDROP IMPACT + BARE SOIL + RUNOFF CONCENTRATION diffuse sheet removal small rill channels entrenched gullies ravine landscape: Chambal cue",
+            "WATERSHED RESPONSE cover soil → slow runoff → shorten slope length → contour/terrace"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "protect drainage → treat gully head → rehabilitate catchment",
+            "WIND BRANCH surface creep → saltation → suspension"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COASTAL BRANCH wave erosion belongs to the coastal-process system; use only when asked.",
+            "A check dam alone cannot replace upstream cover, drainage and maintenance."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Rainwater harvesting becomes effective only when capture, water quality, aquifer suitability, maintenance and demand control are treated as one urban water-budget system.",
+      "source_references": [
+        "{'sessions': [5], 'sections': ['BASIC LEARNING SESSION', 'Regolith, soils and erosion'], 'markdown_lines': ['467-562', '2974-2981']}",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MASS-MOVEMENT TAXONOMY AND SLOPE-STABILITY MECHANISM",
+      "structural_type": "classification-tree-with-force-balance",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MASS-MOVEMENT TAXONOMY AND SLOPE-STABILITY MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "MASS MOVEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "SLOW SLIDE/FALL FLOW/AVALANCHE CREEP, SOLIFLUCTION ROCKFALL DEBRIS FLOW TRANSLATIONAL",
+          "role": "mechanism"
+        },
+        {
+          "text": "SLOPE BALANCE RESISTING STRENGTH",
+          "role": "evidence"
+        },
+        {
+          "text": "COHESION + FRICTION + STRUCTURAL SUPPORT VERSUS DRIVING STRESS",
+          "role": "comparison"
+        },
+        {
+          "text": "GRAVITY COMPONENT + LOADING + TOE LOSS RAIN INFILTRATION",
+          "role": "outcome"
+        },
+        {
+          "text": "ADDED WEIGHT + PORE PRESSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "LOWER EFFECTIVE STRENGTH ROAD OR RIVER CUT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MASS MOVEMENT",
+        "SLOW SLIDE/FALL FLOW/AVALANCHE creep, solifluction rockfall debris flow translational slide",
+        "earth or mud flow rotational slump rock/debris avalanche snow avalanche",
+        "SLOPE BALANCE resisting strength = cohesion + friction + structural support versus driving stress =",
+        "gravity component + loading + toe loss rain infiltration → added weight + pore pressure"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MASS MOVEMENT",
+            "SLOW SLIDE/FALL FLOW/AVALANCHE creep, solifluction rockfall debris flow translational slide",
+            "earth or mud flow rotational slump rock/debris avalanche snow avalanche"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SLOPE BALANCE resisting strength = cohesion + friction + structural support versus driving stress =",
+            "gravity component + loading + toe loss rain infiltration → added weight + pore pressure",
+            "→ lower effective strength road or river cut → steepening / undercutting → support loss"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "quake / quarry / leakage / drainage change → trigger or amplification",
+            "FAILURE WHEN DRIVE RESISTANCE",
+            "Material, movement and water define the event; speed alone does not."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Landslides occur at a threshold where driving stress exceeds resisting strength; water is especially important because it can simultaneously add weight, raise pore pressure and weaken material.",
+      "source_references": [
+        "{'sessions': [6, 7], 'sections': ['BASIC LEARNING SESSION', 'Mass movement and India'], 'markdown_lines': ['563-738', '2982-2991']}",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INDIA LANDSLIDE GEOGRAPHY, RISK PRODUCTION AND MITIGATION STACK",
+      "structural_type": "india-regional-map-and-hazard-response",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INDIA LANDSLIDE GEOGRAPHY, RISK PRODUCTION AND MITIGATION STACK",
+          "role": "caution"
+        },
+        {
+          "text": "INDIA LANDSLIDE GEOGRAPHY",
+          "role": "outcome"
+        },
+        {
+          "text": "YOUNG RELIEF + FRACTURES + INCISION + RAIN +",
+          "role": "comparison"
+        },
+        {
+          "text": "WESTERN GHATS",
+          "role": "evidence"
+        },
+        {
+          "text": "ESCARPMENT + DEEP WEATHERING + OROGRAPHIC RAIN + CUTS",
+          "role": "primary"
+        },
+        {
+          "text": "WEATHERED SLOPES + ROADS + SETTLEMENTS + DRAINAGE CHANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "LOSS GEOLOGY/SLOPE RAIN/QUAKE SLIDE/FLOW ROAD/TOWN DISASTER",
+          "role": "mechanism"
+        },
+        {
+          "text": "GSI LADDER INVENTORY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIA LANDSLIDE GEOGRAPHY",
+        "Himalaya / NE : young relief + fractures + incision + rain + seismicity",
+        "Western Ghats : escarpment + deep weathering + orographic rain + cuts",
+        "Nilgiris : weathered slopes + roads + settlements + drainage change",
+        "PREDISPOSITION → TRIGGER → MOVEMENT → EXPOSURE → LOSS geology/slope rain/quake slide/flow road/town disaster"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INDIA LANDSLIDE GEOGRAPHY",
+            "Himalaya / NE : young relief + fractures + incision + rain + seismicity",
+            "Western Ghats : escarpment + deep weathering + orographic rain + cuts",
+            "Nilgiris : weathered slopes + roads + settlements + drainage change",
+            "PREDISPOSITION → TRIGGER → MOVEMENT → EXPOSURE → LOSS geology/slope rain/quake slide/flow road/town disaster"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GSI LADDER inventory → susceptibility/hazard study → post-event diagnosis",
+            "monitoring / NLFC support → decision communication",
+            "MITIGATION STACK avoid unsafe siting → manage drainage → protect toe",
+            "stabilise slope → bioengineer → control spoil/quarrying",
+            "maintain works → warn/close routes → evacuate and prepare"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Inventory maps past events; susceptibility maps relative likelihood",
+            "neither is a deterministic event prediction.",
+            "Joshimath is a multi-causal subsidence case, not a synonym for landslide."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "India needs a layered landslide strategy—avoid unsafe exposure, control water, stabilise diagnosed slopes, maintain infrastructure, and connect forecasts to last-mile action.",
+      "source_references": [
+        "{'sessions': [8, 9, 10], 'sections': ['BASIC LEARNING SESSION', 'Mass movement and India'], 'markdown_lines': ['739-1003', '2987-2998']}",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "GROUNDWATER ARCHITECTURE FROM RECHARGE TO WELLS",
+      "structural_type": "hydrogeological-cross-section",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "GROUNDWATER ARCHITECTURE FROM RECHARGE TO WELLS",
+          "role": "primary"
+        },
+        {
+          "text": "SOIL MOISTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "GROUND SURFACE RECHARGE AREA SPRING AT SLOPE",
+          "role": "comparison"
+        },
+        {
+          "text": "ZONE OF AERATION PERCHED WATER ON LOCAL AQUITARD CAPILLARY",
+          "role": "evidence"
+        },
+        {
+          "text": "WATER TABLE UNCONFINED AQUIFER PUMPING WELL",
+          "role": "primary"
+        },
+        {
+          "text": "~~~~~~~~~~~~~~~~~~~~~~~\\ CONE OF DEPRESSION",
+          "role": "outcome"
+        },
+        {
+          "text": "AQUITARD SLOW TRANSMISSION",
+          "role": "comparison"
+        },
+        {
+          "text": "CONFINED AQUIFER PRESSURE; WATER RISES TO POTENTIOMETRIC LEVEL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "rain → infiltration → soil moisture → percolation → recharge",
+        "GROUND SURFACE recharge area spring at slope",
+        "ZONE OF AERATION perched water on local aquitard capillary fringe",
+        "WATER TABLE UNCONFINED AQUIFER pumping well",
+        "~~~~~~~~~~~~~~~~~~~~~~~\\ cone of depression"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "rain → infiltration → soil moisture → percolation → recharge",
+            "GROUND SURFACE recharge area spring at slope",
+            "ZONE OF AERATION perched water on local aquitard capillary fringe",
+            "WATER TABLE UNCONFINED AQUIFER pumping well"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "~~~~~~~~~~~~~~~~~~~~~~~\\ cone of depression",
+            "AQUITARD slow transmission",
+            "CONFINED AQUIFER pressure; water rises to potentiometric level",
+            "AQUICLUDE practically no transmission porosity = fraction of voids"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "permeability = connected flow capacity aquifer stores and transmits",
+            "aquitard transmits slowly artesian water rises under pressure; it flows only if head exceeds ground",
+            "Budget: change in storage = recharge + inflow - discharge - pumping - outflow."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Groundwater is a dynamic stock governed by recharge, discharge, pumping, inter-aquifer flow and quality; annual recharge is therefore not a licence to abstract the same quantity everywhere.",
+      "source_references": [
+        "{'sessions': [11, 12, 13, 14], 'sections': ['BASIC LEARNING SESSION', 'Groundwater fundamentals'], 'markdown_lines': ['1004-1368', '2999-3015']}",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INDIA GROUNDWATER DEPLETION, QUALITY AND SUBSIDENCE GEOGRAPHY",
+      "structural_type": "regional-comparison-and-causal-convergence",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INDIA GROUNDWATER DEPLETION, QUALITY AND SUBSIDENCE GEOGRAPHY",
+          "role": "primary"
+        },
+        {
+          "text": "AQUIFER FORM",
+          "role": "outcome"
+        },
+        {
+          "text": "MAJOR PRESSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "LAYERED ALLUVIUM",
+          "role": "evidence"
+        },
+        {
+          "text": "DEPLETION, AS, NITRATE",
+          "role": "primary"
+        },
+        {
+          "text": "WEATHERED FRACTURES",
+          "role": "outcome"
+        },
+        {
+          "text": "DISCONTINUOUS STORAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "DECCAN BASALT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AQUIFER FORM",
+        "MAJOR PRESSURE",
+        "layered alluvium",
+        "depletion, As, nitrate",
+        "weathered fractures"
+      ],
+      "matrix": [
+        [
+          "REGION",
+          "AQUIFER FORM",
+          "MAJOR PRESSURE"
+        ],
+        [
+          "Indo-Gangetic",
+          "layered alluvium",
+          "depletion, As, nitrate"
+        ],
+        [
+          "Peninsular",
+          "weathered fractures",
+          "discontinuous storage"
+        ],
+        [
+          "Deccan basalt",
+          "contacts + fractures",
+          "uneven well yield"
+        ],
+        [
+          "Arid hard rock",
+          "limited recharge",
+          "fluoride, salinity"
+        ],
+        [
+          "Coastal belt",
+          "fresh-saline wedge",
+          "intrusion and upconing crop-water demand + cheap energy + private wells + urban growth weak aquifer regulation + limited recharge falling head → lower yield → higher lift cost → unequal access compressible sediment: pore-pressure loss → compaction → subsidence"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AQUIFER FORM",
+            "MAJOR PRESSURE",
+            "layered alluvium",
+            "depletion, As, nitrate",
+            "weathered fractures"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "contacts + fractures",
+            "uneven well yield",
+            "Arid hard rock",
+            "limited recharge",
+            "fluoride, salinity"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "intrusion and upconing crop-water demand + cheap energy + private wells + urban growth",
+            "weak aquifer regulation + limited recharge falling head → lower yield → higher lift",
+            "cost → unequal access compressible sediment: pore-pressure loss → compaction → subsidence",
+            "Quality paths differ: arsenic redox",
+            "fluoride rock-water interaction nitrate sewage/fertiliser"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Good geography answers move from process to spatial pattern, then from consequence to a mechanism-matched and institutionally realistic response.",
+      "source_references": [
+        "{'sessions': [14, 15, 16, 17], 'sections': ['BASIC LEARNING SESSION', 'India groundwater geography, quantity and quality'], 'markdown_lines': ['1276-1671', '3016-3028']}",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "RECHARGE, DEMAND GOVERNANCE AND INTEGRATED MAINS ANSWER SPINE",
+      "structural_type": "institutional-intervention-stack-and-answer-spine",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "RECHARGE, DEMAND GOVERNANCE AND INTEGRATED MAINS ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "GROUNDWATER SECURITY REQUIRES TWO CONVERGING ARMS",
+          "role": "outcome"
+        },
+        {
+          "text": "RECHARGE DEMAND",
+          "role": "comparison"
+        },
+        {
+          "text": "GOVERNANCE ROOF AND RUNOFF CAPTURE CROP-WATER ALIGNMENT MANAGED AQUIFER",
+          "role": "evidence"
+        },
+        {
+          "text": "AQUIFER PLAN",
+          "role": "primary"
+        },
+        {
+          "text": "CGWB ASSESSMENT + NAQUIM MAPPING + STATE REGULATION",
+          "role": "institution"
+        },
+        {
+          "text": "ATAL BHUJAL LEARNING + LOCAL INSTITUTIONS + PUBLIC DATA",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER SPINE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GROUNDWATER SECURITY REQUIRES TWO CONVERGING ARMS",
+        "SUPPLY / RECHARGE DEMAND / GOVERNANCE roof and runoff capture crop-water alignment managed",
+        "aquifer recharge efficient irrigation watershed treatment well registration/metering spring-shed restoration conjunctive use and",
+        "reuse quality-safe source water community water budgets maintenance and monitoring enforceable state/local rules",
+        "AQUIFER PLAN"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GROUNDWATER SECURITY REQUIRES TWO CONVERGING ARMS",
+            "SUPPLY / RECHARGE DEMAND / GOVERNANCE roof and runoff capture crop-water alignment managed",
+            "aquifer recharge efficient irrigation watershed treatment well registration/metering spring-shed restoration conjunctive use and",
+            "reuse quality-safe source water community water budgets maintenance and monitoring enforceable state/local rules",
+            "AQUIFER PLAN"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "Atal Bhujal learning + local institutions + public data",
+            "ANSWER SPINE",
+            "1 define stock-flow-quality system",
+            "2 draw aquifer or India map",
+            "3 diagnose regional mechanism"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "5 match intervention to cause",
+            "6 qualify limits and equity",
+            "Recharge structures are inputs, not proof of water-table recovery.",
+            "Desalination supplies water but does not restore freshwater aquifer head."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Desalination supplies water but does not restore freshwater aquifer head.",
+      "source_references": [
+        "{'sessions': [18, 19, 20], 'sections': ['BASIC LEARNING SESSION', 'Institutions, current anchors and scheme status', 'Answer-writing keyword bank'], 'markdown_lines': ['1672-1970', '3029-3046']}",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "EVIDENCE LADDER AND CONFIDENCE CONTROL",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EVIDENCE LADDER AND CONFIDENCE CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "1. START WITH MACRO-PHASE, THEN REGIONAL SEQUENCE, DATED STRATUM",
+          "role": "comparison"
+        },
+        {
+          "text": "2. READ CORES, FLAKES, DEBITAGE, WEAR AND RAW MATERIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "3. SEPARATE LITHIC TECHNOLOGY FROM HOMININ TAXONOMY, LANGUAGE AND",
+          "role": "primary"
+        },
+        {
+          "text": "BROAD CHRONOLOGY GUIDES COMPARISON; SITE CONTEXT CONTROLS THE CLAIM.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "EVIDENCE LADDER",
+        "1. Start with macro-phase, then regional sequence, dated stratum and assemblage.",
+        "2. Read cores, flakes, debitage, wear and raw material before inferring behaviour.",
+        "3. Separate lithic technology from hominin taxonomy, language and group identity.",
+        "VERDICT: Broad chronology guides comparison; site context controls the claim."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "EVIDENCE LADDER",
+          "2. Read cores, flakes, debitage, wear and raw material before inferring behaviour.",
+          "VERDICT: Broad chronology guides comparison; site context controls the claim."
+        ],
+        [
+          "1. Start with macro-phase, then regional sequence, dated stratum and assemblage.",
+          "3. Separate lithic technology from hominin taxonomy, language and group identity.",
+          "EVIDENCE LADDER"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EVIDENCE LADDER",
+            "1. Start with macro-phase, then regional sequence, dated stratum and assemblage."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "2. Read cores, flakes, debitage, wear and raw material before inferring behaviour.",
+            "3. Separate lithic technology from hominin taxonomy, language and group identity."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT: Broad chronology guides comparison; site context controls the claim.",
+            "EVIDENCE LADDER"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Broad chronology guides comparison; site context controls the claim.",
+      "answer_line": "Broad chronology guides comparison; site context controls the claim.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "EXAMINER TRAPS AND CONTESTED BOUNDARIES",
+      "structural_type": "trap-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EXAMINER TRAPS AND CONTESTED BOUNDARIES",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. ACHEULIAN IS A TECHNOLOGY, LEVALLOIS A METHOD AND",
+          "role": "comparison"
+        },
+        {
+          "text": "2. BHIMBETKA SPANS MANY PERIODS; ROCK-ART MEANING AND DATES",
+          "role": "evidence"
+        },
+        {
+          "text": "3. MESOLITHIC DOMESTICATION AND SEDENTARINESS MUST BE ESTABLISHED SITE",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSITION MEANS CHANGING COMBINATIONS, OVERLAP AND REGIONAL COEXISTENCE.",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "WEATHERING DIFFERS FROM EROSION, POROSITY FROM PERMEABILITY, WATER TABLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CLOSE DISTINCTIONS",
+        "1. Acheulian is a technology, Levallois a method and microlith a tool element.",
+        "2. Bhimbetka spans many periods; rock-art meaning and dates remain indirect.",
+        "3. Mesolithic domestication and sedentariness must be established site by site.",
+        "VERDICT: Transition means changing combinations, overlap and regional coexistence."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CLOSE DISTINCTIONS",
+          "3. Mesolithic domestication and sedentariness must be established site by site.",
+          "aquifer from aquitard, and slump/slide/flow/creep require movement-specific geometry rather than the generic label landslide."
+        ],
+        [
+          "1. Acheulian is a technology, Levallois a method and microlith a tool element.",
+          "VERDICT: Transition means changing combinations, overlap and regional coexistence.",
+          ""
+        ],
+        [
+          "2. Bhimbetka spans many periods; rock-art meaning and dates remain indirect.",
+          "CLOSE DISTINCTION: Weathering differs from erosion, porosity from permeability, water table from piezometric surface,",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CLOSE DISTINCTIONS",
+            "1. Acheulian is a technology, Levallois a method and microlith a tool element.",
+            "2. Bhimbetka spans many periods; rock-art meaning and dates remain indirect."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "3. Mesolithic domestication and sedentariness must be established site by site.",
+            "VERDICT: Transition means changing combinations, overlap and regional coexistence.",
+            "CLOSE DISTINCTION: Weathering differs from erosion, porosity from permeability, water table from piezometric surface,"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "aquifer from aquitard, and slump/slide/flow/creep require movement-specific geometry rather than the generic label landslide."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Transition means changing combinations, overlap and regional coexistence.",
+      "answer_line": "Transition means changing combinations, overlap and regional coexistence.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INTEGRATED ANSWER SPINE AND QUALIFIED CONCLUSION",
+      "structural_type": "answer-synthesis",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INTEGRATED ANSWER SPINE AND QUALIFIED CONCLUSION",
+          "role": "primary"
+        },
+        {
+          "text": "ANSWER SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "1. USE THE 2019 DENISOVAN PYQ TO SEPARATE POPULATION",
+          "role": "comparison"
+        },
+        {
+          "text": "2. COMPARE PHASES THROUGH TOOLS, ECOLOGY, MOBILITY, HABITATION, ART",
+          "role": "comparison"
+        },
+        {
+          "text": "3. WRITE CLAIM",
+          "role": "primary"
+        },
+        {
+          "text": "DATE/CONTEXT LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "INDIAN PREHISTORY IS REGIONALLY VARIED HISTORY RECONSTRUCTED WITHOUT TEXTS.",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ANSWER SPINE",
+        "1. Use the 2019 Denisovan PYQ to separate population, place and geological period.",
+        "2. Compare phases through tools, ecology, mobility, habitation, art and burials.",
+        "3. Write claim → site/assemblage → significance → date/context limit → verdict.",
+        "VERDICT: Indian prehistory is regionally varied history reconstructed without texts."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ANSWER SPINE",
+            "1. Use the 2019 Denisovan PYQ to separate population, place and geological period.",
+            "2. Compare phases through tools, ecology, mobility, habitation, art and burials."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "3. Write claim → site/assemblage → significance → date/context limit → verdict.",
+            "VERDICT: Indian prehistory is regionally varied history reconstructed without texts.",
+            "EVIDENCE LIMIT: A trigger such as intense rain is not the complete cause: antecedent moisture, discontinuities, toe cutting,"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "groundwater trends and notified areas require dated official status."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Indian prehistory is regionally varied history reconstructed without texts.",
+      "answer_line": "Indian prehistory is regionally varied history reconstructed without texts.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EVIDENCE LADDER AND CONFIDENCE CONTROL — DEEP-REVIEW SYNTHESIS 2",
+      "structural_type": "evidence-matrix",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EVIDENCE LADDER AND CONFIDENCE CONTROL — DEEP-REVIEW SYNTHESIS 2",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "FROM SOURCE BOOK",
+          "role": "evidence"
+        },
+        {
+          "text": "STANDARD KNOWLEDGE",
+          "role": "evidence"
+        },
+        {
+          "text": "CURRENT AFFAIRS.",
+          "role": "primary"
+        },
+        {
+          "text": "2. AGRICULTURE.MD USES \"CHERNOZEM\", \"ALLUVIAL\" AND \"BLACK SOIL\" AS",
+          "role": "outcome"
+        },
+        {
+          "text": "3. EVIDENCE UNITS AVAILABLE IN THIS FILE",
+          "role": "evidence"
+        },
+        {
+          "text": "SOURCE TYPE CONTROLS THE STRENGTH AND LIMITS OF THE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EVIDENCE LADDER",
+        "1. = from source book = inference / standard knowledge = current affairs.",
+        "2. Agriculture.md uses \"chernozem\", \"alluvial\" and \"black soil\" as",
+        "3. Evidence units available in this file",
+        "VERDICT: Source type controls the strength and limits of the historical claim."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EVIDENCE LADDER",
+            "1. = from source book = inference / standard knowledge = current affairs."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "2. Agriculture.md uses \"chernozem\", \"alluvial\" and \"black soil\" as...",
+            "3. Evidence units available in this file"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT: Source type controls the strength and limits of the historical claim.",
+            "EVIDENCE LADDER"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Source type controls the strength and limits of the historical claim.",
+      "answer_line": "Source type controls the strength and limits of the historical claim.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED 1 — EFFECTIVE STRESS, FACTOR OF SAFETY AND",
+          "role": "outcome"
+        },
+        {
+          "text": "ADVANCED 2 — WEATHERING PROFILES, CLAYS AND HYDRO-MECHANICAL FEEDBACK",
+          "role": "comparison"
+        },
+        {
+          "text": "ADVANCED 3 — FORECAST SKILL, FALSE ALARMS AND NON-STATIONARITY",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVANCED 4 — AQUIFER HETEROGENEITY, CAPTURE AND SUSTAINABLE YIELD",
+          "role": "primary"
+        },
+        {
+          "text": "ADVANCED 5 — GOVERNANCE EVALUATION",
+          "role": "outcome"
+        },
+        {
+          "text": "IN TECHNICAL TERMS, SHEAR STRENGTH IS OFTEN REPRESENTED BY",
+          "role": "comparison"
+        },
+        {
+          "text": "COHESION PLUS EFFECTIVE NORMAL STRESS MULTIPLIED BY FRICTION.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "ADVANCED 1 — EFFECTIVE STRESS, FACTOR OF SAFETY AND THRESHOLDS",
+            "ADVANCED 2 — WEATHERING PROFILES, CLAYS AND HYDRO-MECHANICAL FEEDBACK",
+            "ADVANCED 3 — FORECAST SKILL, FALSE ALARMS AND NON-STATIONARITY",
+            "ADVANCED 4 — AQUIFER HETEROGENEITY, CAPTURE AND SUSTAINABLE YIELD"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "ADVANCED 5 — GOVERNANCE EVALUATION",
+            "ADVANCED 1 — EFFECTIVE STRESS, FACTOR OF SAFETY AND THRESHOLDS The simple core rule is driving stress versus resisting strength.",
+            "In technical terms, shear strength is often represented by a Mohr–Coulomb relation: cohesion plus effective normal stress multiplied by friction.",
+            "Pore pressure lowers effective normal stress."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "A factor of safety above one indicates calculated resistance exceeds driving force; near one means marginal stability.",
+            "Real slopes remain uncertain because geometry, groundwater pathways and material properties vary.",
+            "ADVANCED 2 — WEATHERING PROFILES, CLAYS AND HYDRO-MECHANICAL FEEDBACK Weathering",
+            "fronts can create saprolite, corestones, clay-rich horizons and permeability contrasts."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

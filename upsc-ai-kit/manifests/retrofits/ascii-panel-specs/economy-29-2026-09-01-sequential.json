@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-03",
+  "scope": "Economy learner-v2 Topic 29",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_embed_ready_lines": true,
+    "generic_scaffolding_forbidden": true,
+    "tracker_untouched": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-29",
+      "display_title": "Agricultural Technology Missions and Mission-Mode Policy",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Economy\\29_Agricultural-Technology-Missions-and-Mission-Mode-Policy_Learner-V2-Complete-Topic-Package.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Mission-mode policy rail",
+          "structural_type": "cause-effect-rail",
+          "ascii_lines": [
+            "DEFINED BOTTLENECK",
+            "-> TECHNOLOGY PORTFOLIO",
+            "-> DELIVERY + ADOPTION",
+            "-> OUTCOME + FEEDBACK"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+          ]
+        },
+        {
+          "title": "Mission-versus-scheme test",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "MISSION -> outcome + convergence",
+            "ROUTINE SCHEME -> activity risk",
+            "TITLE != design",
+            "TEST theory of change"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+          ]
+        },
+        {
+          "title": "Research-to-market chain",
+          "structural_type": "value-chain",
+          "ascii_lines": [
+            "RESEARCH -> TRIAL",
+            "-> MULTIPLICATION + EXTENSION",
+            "-> FINANCE + COMPLEMENTS",
+            "-> MARKET + REPEATED USE"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+          ]
+        },
+        {
+          "title": "Technology family map",
+          "structural_type": "classification-tree",
+          "ascii_lines": [
+            "BIOLOGICAL + AGRONOMIC",
+            "MECHANICAL + WATER",
+            "DIGITAL + POST-HARVEST",
+            "INSTITUTIONAL innovation"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+          ]
+        },
+        {
+          "title": "Adoption threshold",
+          "structural_type": "decision-board",
+          "ascii_lines": [
+            "EXPECTED RETURN",
+            "- PURCHASE + LEARNING",
+            "- FAILURE + MARKET RISK",
+            "> EXISTING PRACTICE"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+          ]
+        },
+        {
+          "title": "Mission chronology spine",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "1986 -> OILSEEDS",
+            "2000 -> COTTON",
+            "2005-06 -> NHM",
+            "2007-08 -> NFSM"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+          ]
+        },
+        {
+          "title": "Oilseed system split",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "NMEO-OS -> annual oilseeds",
+            "NMEO-OP -> perennial oil palm",
+            "APPROVAL != reach",
+            "TARGET != outcome"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+          ]
+        },
+        {
+          "title": "Horticulture income chain",
+          "structural_type": "value-chain",
+          "ascii_lines": [
+            "PLANTING MATERIAL",
+            "-> PRODUCTION + QUALITY",
+            "-> COLD CHAIN + MARKET",
+            "-> NET INCOME only after cost + price"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+          ]
+        },
+        {
+          "title": "Diffusion institution map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "UNION + ICAR",
+            "STATE + DISTRICT",
+            "KVK + EXTENSION + FPO",
+            "FARMER FEEDBACK closes loop"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+          ]
+        },
+        {
+          "title": "Mission complementarity and weakest-link diagnostic",
+          "structural_type": "bottleneck-map",
+          "ascii_lines": [
+            "QUALITY SEED",
+            "TRUSTED EXTENSION",
+            "FINANCE + WATER ACCESS",
+            "MARKET + REPAIR SERVICE"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+          ]
+        },
+        {
+          "title": "Mission evaluation and attribution ladder",
+          "structural_type": "status-ladder",
+          "ascii_lines": [
+            "BUDGET INPUT",
+            "-> DELIVERY ACTIVITY",
+            "-> MEASURABLE OUTPUT",
+            "-> OUTCOME -> LONG-TERM IMPACT"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+          ]
+        },
+        {
+          "title": "Technology-mission answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE problem + mission",
+            "TRACE research to market",
+            "TEST inclusion + ecology",
+            "EVALUATE outcome + redesign"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

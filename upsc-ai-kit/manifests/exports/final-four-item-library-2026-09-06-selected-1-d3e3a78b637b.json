@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T03:18:53+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\international-relations-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "21ddd59f9bb51fb2db7f7d44de20c2d34d4c4586914f954bc7fc2570810c6796",
+    "sha256_after": "21ddd59f9bb51fb2db7f7d44de20c2d34d4c4586914f954bc7fc2570810c6796",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "International Relations": 1
+  },
+  "sections": {
+    "International Relations — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 10917,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1854,
+    "json_count": 4838,
+    "total_bytes": 4271254915,
+    "by_extension": {
+      ".json": 4838,
+      ".md": 1854,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "international-relations-04",
+      "topic_title": "Indo-Pacific, Indian Ocean and Maritime Security",
+      "subject": "International Relations",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 4,
+      "source_record_id": "international-relations-04:learner-v2:g5",
+      "source_generation": 5,
+      "destination_folder": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\04-Indo-Pacific-698fcab0-Maritime-Security",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-04\\g5\\international-relations-04_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\04-Indo-Pacific-698fcab0-Maritime-Security\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "bc1be7b191f48b6ccab3e3cdf879940f0bfc4f216a7bda53631cd2f87ed73c13",
+          "output_sha256": "bc1be7b191f48b6ccab3e3cdf879940f0bfc4f216a7bda53631cd2f87ed73c13",
+          "source_output_equal": true,
+          "bytes": 951242
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-04\\g5\\international-relations-04_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\04-Indo-Pacific-698fcab0-Maritime-Security\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "1679e8fd879c05164c21acf4533402e07feaca97c2b05c259431c31901f993c5",
+          "output_sha256": "1679e8fd879c05164c21acf4533402e07feaca97c2b05c259431c31901f993c5",
+          "source_output_equal": true,
+          "bytes": 724120
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-04\\carvaka-g5\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\04-Indo-Pacific-698fcab0-Maritime-Security\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "e5255516a60080092ebf967f6c3de120ed17359febb757b01121491ee953b648",
+          "output_sha256": "e5255516a60080092ebf967f6c3de120ed17359febb757b01121491ee953b648",
+          "source_output_equal": true,
+          "bytes": 2499717
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-04\\carvaka-g5\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\04-Indo-Pacific-698fcab0-Maritime-Security\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "cb5affbda9ff0d1fb5a66ed4d29bf0b65795030e816dc7392be13418e1d5d21c",
+          "output_sha256": "cb5affbda9ff0d1fb5a66ed4d29bf0b65795030e816dc7392be13418e1d5d21c",
+          "source_output_equal": true,
+          "bytes": 2774207
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-04\\carvaka-g5\\master.png",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\04-Indo-Pacific-698fcab0-Maritime-Security\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "c35015e11f17192c71d2ae3f5ef0a6233841f8ebe6d27e25de78324e304427c1",
+          "output_sha256": "c35015e11f17192c71d2ae3f5ef0a6233841f8ebe6d27e25de78324e304427c1",
+          "source_output_equal": true,
+          "bytes": 2221933
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-04\\carvaka-g5\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\04-Indo-Pacific-698fcab0-Maritime-Security\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "57df057f9fd8ee981f8238273a0499cff06639b32b7ce9de6d38898100efcb87",
+          "output_sha256": "57df057f9fd8ee981f8238273a0499cff06639b32b7ce9de6d38898100efcb87",
+          "source_output_equal": true,
+          "bytes": 7222
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\International-Relations\\IR\\flowcharts\\iac-04\\carvaka-g5\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\International Relations\\Subject-wide Syllabus\\04-Indo-Pacific-698fcab0-Maritime-Security\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "dfd7cf49da7acb04574ec81bc778f0cfb46a4074238e3a1ecd0a2b2cf2b1380f",
+          "output_sha256": "dfd7cf49da7acb04574ec81bc778f0cfb46a4074238e3a1ecd0a2b2cf2b1380f",
+          "source_output_equal": true,
+          "source_text_sha256": "57df057f9fd8ee981f8238273a0499cff06639b32b7ce9de6d38898100efcb87",
+          "normalized_text_equal": true,
+          "bytes": 59174
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 10,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 9,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 8,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 9,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 7,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 10,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 8,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 8,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 8,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 9,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 9,
+            "maximum_line_characters": 96,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 151,
+        "solved_practice_workbook": 94,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 151,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 94,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11708
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

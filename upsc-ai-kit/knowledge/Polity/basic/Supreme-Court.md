@@ -10,8 +10,8 @@
 |---|---|
 | **Articles** | 124–147 (Part V) |
 | **Inaugurated** | ✅ 28 Jan 1950 (succeeded Federal Court, replaced Privy Council) |
-| **Sanctioned strength** | ✅ **34** (1 CJI + 33; raised from 31 in 2019) |
-| **Working strength** | 📰 **34 on 28 Aug 2026**, counted from the official sitting-judges roster; re-verify before use |
+| **Sanctioned strength** | ✅ **38** (1 CJI + 37; Act 14 of 2026, deemed in force 16 May 2026) |
+| **Working strength** | 📰 **Dynamic official roster**; re-verify working strength before use |
 | **Judiciary type** | ✅ **Integrated / single** (SC → HCs → subordinate courts) |
 | **Judge retires at** | ✅ **65** (HC judge = 62) |
 | **Removal** | Special majority of Parliament; *proved misbehaviour / incapacity* |
@@ -246,7 +246,7 @@ pendency**, keeps judicial reform in the news.
 
 ### 7.13 Factual-risk and current-status controls
 
-- ✅ Strength is **34** (1 CJI + 33), raised from 31 in **2019**; SC judges retire at **65**, HC judges at **62**.
+- ✅ Sanctioned strength is **38** (1 CJI + 37) under Act 14 of 2026, deemed in force from **16 May 2026**; SC judges retire at **65**, HC judges at **62**.
 - ✅ A **Constitution Bench (Art 145(3)) is a minimum of five judges** for a substantial constitutional question or an Art 143 reference — not the whole Court, and not merely a "larger bench."
 - ✅ The **collegium is not in the Constitution** — it is the product of the Second (1993) and Third (1998) Judges cases; the **NJAC / 99th Amendment was struck down in 2015**.
 - ⚠️/📰 Do **not** state live vacancy counts, pendency totals or the current number/percentage of women judges as settled facts — mark them 📰 and re-verify.
@@ -317,3 +317,45 @@ pendency**, keeps judicial reform in the news.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional identity:** Articles 124-147 create the Supreme Court within an
+  integrated judicial hierarchy. It is simultaneously constitutional court,
+  federal umpire, Fundamental-Rights guarantor and final appellate court; High
+  Courts retain independent Articles 226/227/235 functions.
+- **Current statutory strength:** the Supreme Court (Number of Judges) Amendment
+  Act, 2026, Act 14 of 2026, substitutes thirty-seven for thirty-three judges
+  excluding the Chief Justice and is deemed in force from 16 May 2026. Sanctioned
+  strength is therefore thirty-eight including the CJI. Working strength remains
+  a live roster fact and must be verified separately.
+- **Appointment and independence:** Article 124 text, the First, Second and Third
+  Judges Cases, the 99th Amendment/NJAC invalidation and the current collegium
+  route must remain chronological. Security of tenure, charged expenditure,
+  Article 121, removal and post-retirement restrictions are different safeguards.
+- **Jurisdiction gateway:** Article 131 original jurisdiction requires a legal-
+  right federal dispute; Article 32 concerns Fundamental Rights; Articles 132-134A
+  govern appeals; Article 136 is discretionary special leave; Article 143 advice
+  is not an ordinary binding decree. Review under Article 137 and curative relief
+  are separate correction routes.
+- **Precedent and complete justice:** Article 141 binds through the declared ratio,
+  subject to bench strength; Article 142 operates in the cause or matter before
+  the Court and cannot supplant substantive constitutional or statutory limits.
+  Articles 129, 144 and 145 govern record/contempt, aid and procedure.
+- **Constitutional review:** Kesavananda Bharati, Minerva Mills and I.R. Coelho
+  control amendment and Ninth-Schedule review; L. Chandra Kumar preserves High
+  Court/Supreme Court review over tribunals. Judicial review and independence are
+  Basic Structure, not claims of judicial supremacy.
+- **PIL and legislation:** Hussainara Khatoon, S.P. Gupta, Vishaka and continuing
+  mandamus explain access and gap-filling. Rights enforcement and interim norms
+  must be distinguished from permanent policy substitution and merits governance.
+- **Accountability and diversity:** impeachment/removal, in-house procedure,
+  reasoned collegium disclosure, recusal, assets, representation and access reform
+  address different deficits. No lapsed accountability Bill may be taught as law.
+- **Current control:** Justice Surya Kant is Chief Justice of India on the official
+  roster. Special Reference No. 1 of 2025 is an Article 143 advisory opinion:
+  no rigid assent timelines or deemed assent, while prolonged unexplained
+  indefinite inaction remains open to limited mandamus.
+- **Four-ledger/PYQ control:** all direct and routed 2018-2025 jurisdiction,
+  independence, collegium, PIL, environment and accountability demands were
+  preserved; current judge, vacancy and pendency figures remain date-labelled.

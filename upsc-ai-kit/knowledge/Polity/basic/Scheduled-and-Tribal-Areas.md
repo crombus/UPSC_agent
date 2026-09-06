@@ -88,7 +88,7 @@ autonomy** via elected **Autonomous District Councils** in the four north-easter
 ### 5.8 Criticism, counter-argument, State variation and implementation constraints
 
 - **Dormancy critique:** ⚠️ the Governor's Fifth-Schedule powers and the TAC are widely described as under-used; PESA rules were delayed for years in several States.
-- **Counter (real safeguards):** ⚠️ *Samatha*, PESA's Gram-Sabha consent and FRA community rights show the framework can deliver where courts and Gram Sabhas are active.
+- **Counter (real safeguards):** ⚠️ *Samatha*, PESA's differentiated Gram-Sabha approval, consultation and recommendation powers and FRA community rights show the framework can deliver where courts and Gram Sabhas are active.
 - **Fifth vs Sixth variation:** ⚠️ Sixth-Schedule councils genuinely legislate and tax, whereas Fifth-Schedule bodies only advise — autonomy is unequal by design; within the Sixth Schedule, Bodoland's 46-member council is a special case.
 - **Implementation constraints:** ⚠️ delayed PESA State rules, weak TACs, gubernatorial inaction, contested land-transfer enforcement, and pending demands (Ladakh's Sixth-Schedule agitation, new autonomous-council demands in Assam).
 
@@ -187,3 +187,52 @@ autonomy** via elected **Autonomous District Councils** in the four north-easter
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional map:** Article 244(1) applies the Fifth Schedule to Scheduled
+  Areas and Scheduled Tribes in States other than Assam, Meghalaya, Tripura and
+  Mizoram; Article 244(2) applies the Sixth Schedule to tribal areas in those
+  four States. Article 244A is a separate parliamentary route for an autonomous
+  State within Assam.
+- **Fifth-Schedule territory:** the President declares, enlarges, diminishes,
+  alters or rescinds a Scheduled Area by order after the constitutional
+  consultation route. Official Ministry of Tribal Affairs material continues
+  to list Scheduled Areas in ten States.
+- **Fifth-Schedule administration:** State executive power extends to Scheduled
+  Areas; the Governor reports annually, or whenever required, to the President;
+  and Union executive power extends to directions regarding administration.
+- **TAC precision:** a Tribes Advisory Council has not more than twenty members.
+  As nearly as may be, three-fourths are representatives of Scheduled Tribes in
+  the State Legislative Assembly, with the Schedule's shortfall rule. It advises
+  on welfare and advancement matters referred by the Governor; it does not legislate.
+- **Governor's paragraph 5 power:** by public notification the Governor may
+  direct that an Act does not apply, or applies with exceptions/modifications,
+  and may make peace-and-good-government regulations on tribal land transfer,
+  land allotment and money-lending. Regulations require presidential assent and,
+  where a TAC exists, consultation with it.
+- **Sixth-Schedule institutions:** the Governor organises autonomous districts
+  and regions. District and Regional Councils exercise textually specified
+  legislative, judicial, executive and revenue powers; council laws requiring
+  assent, State-law application and parliamentary-law application remain
+  paragraph- and State-specific rather than one blanket rule.
+- **Current council map:** an official MHA Lok Sabha answer dated 4 August 2026
+  lists ten Sixth-Schedule Autonomous District Councils: three in Assam, three
+  in Meghalaya, three in Mizoram and one in Tripura. Special council designs,
+  including Bodoland, must not be replaced by the ordinary maximum-thirty model.
+- **PESA verbs:** section 4 of the PESA Act, 1996 distinguishes Gram Sabha
+  approval of plans/programmes/projects, beneficiary identification, utilisation
+  certification, consultation before land acquisition and rehabilitation, and
+  mandatory prior recommendation for specified minor-mineral licences, leases
+  and concessions. Ownership of minor forest produce and specified control
+  powers do not create a universal project veto.
+- **FRA and judgments:** the Forest Rights Act, 2006 has its own rights-recognition
+  process initiated through the Gram Sabha. Samatha (1997) is used within its
+  Andhra Pradesh Scheduled-Area land-transfer setting. Orissa Mining Corporation
+  (2013) required Gram Sabha determination of specified FRA-linked cultural and
+  religious claims at Niyamgiri while leaving the final Stage-II decision with MoEF.
+- **Ownership/PYQ firewall:** Topic 23 owns Panchayat structure and the PESA
+  local-government bridge; Topic 22 owns Articles 371-371J; Topic 31 owns the
+  National Commissions; Topic 53 owns the wider special-provisions-for-classes
+  architecture. Direct and routed 2019-2026 Scheduled-Area demands retain their
+  official-key or answer-free status without fabricated answer letters.

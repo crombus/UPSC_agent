@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-05T06:06:38+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "a19f709f4ff96e02814b793ee1b886c96bb520082782ec89263dcce3b426499f",
+    "sha256_after": "a19f709f4ff96e02814b793ee1b886c96bb520082782ec89263dcce3b426499f",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Geography": 1
+  },
+  "sections": {
+    "Geography — Part A — Physical Geography": 1
+  },
+  "library_totals": {
+    "file_count": 10109,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1695,
+    "json_count": 4189,
+    "total_bytes": 4222158218,
+    "by_extension": {
+      ".json": 4189,
+      ".md": 1695,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "geography-25",
+      "topic_title": "Arctic or Polar Climate",
+      "subject": "Geography",
+      "section": "Part A — Physical Geography",
+      "catalogue_number": 25,
+      "source_record_id": "geography-25:learner-v2:g5",
+      "source_generation": 5,
+      "destination_folder": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\25-Arctic-or-Polar-Climate",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-25\\g5\\geography-25_Complete-Learning-Session_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\25-Arctic-or-Polar-Climate\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "50cd2bbb081a5de632e8bbb5823a94f8713896012cf590b3e2b51777edaa798d",
+          "output_sha256": "50cd2bbb081a5de632e8bbb5823a94f8713896012cf590b3e2b51777edaa798d",
+          "source_output_equal": true,
+          "bytes": 589682
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-25\\g5\\geography-25_Solved-Practice-Workbook_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\25-Arctic-or-Polar-Climate\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "3def7375a78344c4db2fe01c4b7128b37c23a89d3d47b97e7d0c0c7f180eddfa",
+          "output_sha256": "3def7375a78344c4db2fe01c4b7128b37c23a89d3d47b97e7d0c0c7f180eddfa",
+          "source_output_equal": true,
+          "bytes": 460947
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-25\\carvaka-g5\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\25-Arctic-or-Polar-Climate\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "383ba9cff4eeddafa4c1de12765cc4e0c9a363cd57beec59bdce6db9573a628c",
+          "output_sha256": "383ba9cff4eeddafa4c1de12765cc4e0c9a363cd57beec59bdce6db9573a628c",
+          "source_output_equal": true,
+          "bytes": 2227727
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-25\\carvaka-g5\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\25-Arctic-or-Polar-Climate\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "a3c9779708abe59136dfd770bcb20a9d69b2df02c35ba76cd6f7e7894963c77c",
+          "output_sha256": "a3c9779708abe59136dfd770bcb20a9d69b2df02c35ba76cd6f7e7894963c77c",
+          "source_output_equal": true,
+          "bytes": 2646517
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-25\\carvaka-g5\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\25-Arctic-or-Polar-Climate\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "c7172e45a5f1fc7b92a06481cdca87f4ecf8b49af4a0de55cb8cd0fb8f870eb2",
+          "output_sha256": "c7172e45a5f1fc7b92a06481cdca87f4ecf8b49af4a0de55cb8cd0fb8f870eb2",
+          "source_output_equal": true,
+          "bytes": 1982518
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-25\\carvaka-g5\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\25-Arctic-or-Polar-Climate\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "dc3e0e7bddb0f0e5f1f600cd87e7ea79cd0622d2b8dff1cb9f912a8d6c2bc8c6",
+          "output_sha256": "dc3e0e7bddb0f0e5f1f600cd87e7ea79cd0622d2b8dff1cb9f912a8d6c2bc8c6",
+          "source_output_equal": true,
+          "bytes": 5579
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-25\\carvaka-g5\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\25-Arctic-or-Polar-Climate\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "579b4604706d3df02549a22111a62f214faa03163170bc76b120e0ad89f9ab55",
+          "output_sha256": "579b4604706d3df02549a22111a62f214faa03163170bc76b120e0ad89f9ab55",
+          "source_output_equal": true,
+          "source_text_sha256": "dc3e0e7bddb0f0e5f1f600cd87e7ea79cd0622d2b8dff1cb9f912a8d6c2bc8c6",
+          "normalized_text_equal": true,
+          "bytes": 57396
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 11,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 11,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 11,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 5,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 71,
+        "solved_practice_workbook": 42,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 71,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 42,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11088
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

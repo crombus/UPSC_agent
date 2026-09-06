@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-05T04:41:48+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "f4e9c504881e9936c61b051aeab20ea7baee0fb9ad33eeb4ec83c5ef893c85f6",
+    "sha256_after": "f4e9c504881e9936c61b051aeab20ea7baee0fb9ad33eeb4ec83c5ef893c85f6",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Geography": 1
+  },
+  "sections": {
+    "Geography — Part A — Physical Geography": 1
+  },
+  "library_totals": {
+    "file_count": 9997,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1673,
+    "json_count": 4099,
+    "total_bytes": 4221708799,
+    "by_extension": {
+      ".json": 4099,
+      ".md": 1673,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "geography-06",
+      "topic_title": "Landforms of Glaciation / Himalayan Glaciers-GLOF",
+      "subject": "Geography",
+      "section": "Part A — Physical Geography",
+      "catalogue_number": 6,
+      "source_record_id": "geography-06:learner-v2:g6",
+      "source_generation": 6,
+      "destination_folder": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\06-Landforms-of-Glaciation-Himalayan-Glaciers-GLOF",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-06\\g6\\geography-06_Complete-Learning-Session_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\06-Landforms-of-Glaciation-Himalayan-Glaciers-GLOF\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "df3beb406bdb6740a45e1997f09038a954e0278e1ef5dfea43508c7c7f7e1fe8",
+          "output_sha256": "df3beb406bdb6740a45e1997f09038a954e0278e1ef5dfea43508c7c7f7e1fe8",
+          "source_output_equal": true,
+          "bytes": 588515
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-06\\g6\\geography-06_Solved-Practice-Workbook_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\06-Landforms-of-Glaciation-Himalayan-Glaciers-GLOF\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "f661d10a9f6895eb009881d6e1f13afdedab0300ea618689b3f2dfac1e1f2b62",
+          "output_sha256": "f661d10a9f6895eb009881d6e1f13afdedab0300ea618689b3f2dfac1e1f2b62",
+          "source_output_equal": true,
+          "bytes": 451159
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-06\\carvaka-g6\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\06-Landforms-of-Glaciation-Himalayan-Glaciers-GLOF\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "7dc95544a791bb08efcff721d79fdca9b8c0626fa5f21b8bbf7dd1af97761212",
+          "output_sha256": "7dc95544a791bb08efcff721d79fdca9b8c0626fa5f21b8bbf7dd1af97761212",
+          "source_output_equal": true,
+          "bytes": 1884813
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-06\\carvaka-g6\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\06-Landforms-of-Glaciation-Himalayan-Glaciers-GLOF\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "89948d31415dde5bd3d77decf68a2e2fbeb190b21e5ca37af89c7f389c8d6735",
+          "output_sha256": "89948d31415dde5bd3d77decf68a2e2fbeb190b21e5ca37af89c7f389c8d6735",
+          "source_output_equal": true,
+          "bytes": 2275815
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-06\\carvaka-g6\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\06-Landforms-of-Glaciation-Himalayan-Glaciers-GLOF\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "1cf885cacb710ed961a2f09224a767a99f3b11f15ab1b3acd82a45fdb0be7bf7",
+          "output_sha256": "1cf885cacb710ed961a2f09224a767a99f3b11f15ab1b3acd82a45fdb0be7bf7",
+          "source_output_equal": true,
+          "bytes": 1682572
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-06\\carvaka-g6\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\06-Landforms-of-Glaciation-Himalayan-Glaciers-GLOF\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "81cd1b91215d7cdae4625458e1a4029db397b1bd995490cf527ddf9f3b7481b8",
+          "output_sha256": "81cd1b91215d7cdae4625458e1a4029db397b1bd995490cf527ddf9f3b7481b8",
+          "source_output_equal": true,
+          "bytes": 4252
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-06\\carvaka-g6\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\06-Landforms-of-Glaciation-Himalayan-Glaciers-GLOF\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "f29442e55004a35207900fe4930043ca3f8818a1c1eb0e5d0ecf07297e7b6f96",
+          "output_sha256": "f29442e55004a35207900fe4930043ca3f8818a1c1eb0e5d0ecf07297e7b6f96",
+          "source_output_equal": true,
+          "source_text_sha256": "81cd1b91215d7cdae4625458e1a4029db397b1bd995490cf527ddf9f3b7481b8",
+          "normalized_text_equal": true,
+          "bytes": 56476
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 13,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 52,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 51,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 49,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 11,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 11,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 69,
+        "solved_practice_workbook": 38,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 69,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 38,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10664
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

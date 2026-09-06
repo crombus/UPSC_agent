@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-05T04:20:33+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "5fe5181e365ca42e388dfcbcd8829966ee41e2b857f4baacca482b2d39645472",
+    "sha256_after": "5fe5181e365ca42e388dfcbcd8829966ee41e2b857f4baacca482b2d39645472",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Geography": 1
+  },
+  "sections": {
+    "Geography — Part A — Physical Geography": 1
+  },
+  "library_totals": {
+    "file_count": 9970,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1667,
+    "json_count": 4078,
+    "total_bytes": 4221519533,
+    "by_extension": {
+      ".json": 4078,
+      ".md": 1667,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "geography-02",
+      "topic_title": "The Earth's Crust, Rocks / India Geological Structure",
+      "subject": "Geography",
+      "section": "Part A — Physical Geography",
+      "catalogue_number": 2,
+      "source_record_id": "geography-02:learner-v2:g14",
+      "source_generation": 14,
+      "destination_folder": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\02-The-Earths-Crust-Rocks-India-Geological-Structure",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\geography-02_Complete-Learning-Session_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\02-The-Earths-Crust-Rocks-India-Geological-Structure\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "a03dd33fe153c1ac564028a3d95534380b9b722353e9b060812b7c14a811aa43",
+          "output_sha256": "a03dd33fe153c1ac564028a3d95534380b9b722353e9b060812b7c14a811aa43",
+          "source_output_equal": true,
+          "bytes": 2304321
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\geography-02_Solved-Practice-Workbook_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\02-The-Earths-Crust-Rocks-India-Geological-Structure\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "431e9e76488371fe55bfd21c151baf0b4b9b2933a64d9aec568b097adb1a8576",
+          "output_sha256": "431e9e76488371fe55bfd21c151baf0b4b9b2933a64d9aec568b097adb1a8576",
+          "source_output_equal": true,
+          "bytes": 219473
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-02\\carvaka-g14\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\02-The-Earths-Crust-Rocks-India-Geological-Structure\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "d59e7981c36e5bdabc37fd514dd3399e81334c3fadf879928376ef25fbe95a73",
+          "output_sha256": "d59e7981c36e5bdabc37fd514dd3399e81334c3fadf879928376ef25fbe95a73",
+          "source_output_equal": true,
+          "bytes": 2520702
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-02\\carvaka-g14\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\02-The-Earths-Crust-Rocks-India-Geological-Structure\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "42d1793dbe003ac430e16c842f950262e6a850a828add5534ed538829472ac01",
+          "output_sha256": "42d1793dbe003ac430e16c842f950262e6a850a828add5534ed538829472ac01",
+          "source_output_equal": true,
+          "bytes": 3184268
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-02\\carvaka-g14\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\02-The-Earths-Crust-Rocks-India-Geological-Structure\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "83ffe7735c1979ccce10d260f4ced5c3006de0fc0d7e38ba3929b491cb800c6f",
+          "output_sha256": "83ffe7735c1979ccce10d260f4ced5c3006de0fc0d7e38ba3929b491cb800c6f",
+          "source_output_equal": true,
+          "bytes": 2208121
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-02\\carvaka-g14\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\02-The-Earths-Crust-Rocks-India-Geological-Structure\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "c46c5fb961e77c8a430ffbce33d88c2a069775c155bf924b134da51c15a2df31",
+          "output_sha256": "c46c5fb961e77c8a430ffbce33d88c2a069775c155bf924b134da51c15a2df31",
+          "source_output_equal": true,
+          "bytes": 11072
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-02\\carvaka-g14\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\02-The-Earths-Crust-Rocks-India-Geological-Structure\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "f2556883d70aef7b2512cad469c753272627ceaf6a124e7cefca2a1fe9c3d309",
+          "output_sha256": "f2556883d70aef7b2512cad469c753272627ceaf6a124e7cefca2a1fe9c3d309",
+          "source_output_equal": true,
+          "source_text_sha256": "c46c5fb961e77c8a430ffbce33d88c2a069775c155bf924b134da51c15a2df31",
+          "normalized_text_equal": true,
+          "bytes": 60341
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 28,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 18,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 24,
+            "maximum_line_characters": 98,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 21,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 19,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 21,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 21,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 23,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 9,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 9,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 97,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 107,
+        "solved_practice_workbook": 22,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 107,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 22,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          12920
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

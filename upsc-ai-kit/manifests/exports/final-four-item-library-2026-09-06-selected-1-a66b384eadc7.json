@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T04:39:31+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\economy-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "b87fe050d3b2675af76190b451f04b00c9848ac782db480a66a5fce29ffd0cb7",
+    "sha256_after": "b87fe050d3b2675af76190b451f04b00c9848ac782db480a66a5fce29ffd0cb7",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Economy": 1
+  },
+  "sections": {
+    "Economy — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11073,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1880,
+    "json_count": 4968,
+    "total_bytes": 4271450650,
+    "by_extension": {
+      ".json": 4968,
+      ".md": 1880,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "economy-18",
+      "topic_title": "Infrastructure, PPPs, Logistics and Public Investment",
+      "subject": "Economy",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 18,
+      "source_record_id": "economy-18:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\18-Infrastructure-PPPs-Logistics-and-Public-Investment",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-18\\g3\\economy-18_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\18-Infrastructure-PPPs-Logistics-and-Public-Investment\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "bc2aaf0b5660969949a9a7c9c6e0d5a7304f7dc91be72a20454e874d3098516b",
+          "output_sha256": "bc2aaf0b5660969949a9a7c9c6e0d5a7304f7dc91be72a20454e874d3098516b",
+          "source_output_equal": true,
+          "bytes": 702245
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-18\\g3\\economy-18_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\18-Infrastructure-PPPs-Logistics-and-Public-Investment\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "125a0081c5bf3f205cd36f399ea57f632f08b800781bc202db28f06d6b1eaf67",
+          "output_sha256": "125a0081c5bf3f205cd36f399ea57f632f08b800781bc202db28f06d6b1eaf67",
+          "source_output_equal": true,
+          "bytes": 529950
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-18\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\18-Infrastructure-PPPs-Logistics-and-Public-Investment\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "8a5d709957f8eab2bdaf9b485b822dc48321e39e4a6660d6835457885ad0cc15",
+          "output_sha256": "8a5d709957f8eab2bdaf9b485b822dc48321e39e4a6660d6835457885ad0cc15",
+          "source_output_equal": true,
+          "bytes": 1779987
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-18\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\18-Infrastructure-PPPs-Logistics-and-Public-Investment\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "6f147dc7bc066ad4939eba019d135bc065c8e31aa9bb71a27d23f05b560fca21",
+          "output_sha256": "6f147dc7bc066ad4939eba019d135bc065c8e31aa9bb71a27d23f05b560fca21",
+          "source_output_equal": true,
+          "bytes": 2136399
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-18\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\18-Infrastructure-PPPs-Logistics-and-Public-Investment\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "7acaeed784a0d9dbbdea36732b4d5ac04d9b2c6f361b60bbb22d3e3689e420b1",
+          "output_sha256": "7acaeed784a0d9dbbdea36732b4d5ac04d9b2c6f361b60bbb22d3e3689e420b1",
+          "source_output_equal": true,
+          "bytes": 1571537
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-18\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\18-Infrastructure-PPPs-Logistics-and-Public-Investment\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "c0a368aa1b697e1bdc7d6874207adfd24487c4f5c6533500d932eb29050e5945",
+          "output_sha256": "c0a368aa1b697e1bdc7d6874207adfd24487c4f5c6533500d932eb29050e5945",
+          "source_output_equal": true,
+          "bytes": 2705
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-18\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\18-Infrastructure-PPPs-Logistics-and-Public-Investment\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "fe117e2fcc20d814ed8e8a675cde1eae3f635971b3cc9d656a5eb9311d21d2d9",
+          "output_sha256": "fe117e2fcc20d814ed8e8a675cde1eae3f635971b3cc9d656a5eb9311d21d2d9",
+          "source_output_equal": true,
+          "source_text_sha256": "c0a368aa1b697e1bdc7d6874207adfd24487c4f5c6533500d932eb29050e5945",
+          "normalized_text_equal": true,
+          "bytes": 55549
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 6,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 6,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 50,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 5,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 103,
+        "solved_practice_workbook": 63,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 103,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 63,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10730
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

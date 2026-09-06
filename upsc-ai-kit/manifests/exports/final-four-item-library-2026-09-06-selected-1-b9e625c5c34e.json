@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T02:43:18+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "12ab10156202c79e91e34aba7e663bddf60a7032d407306926842deb61f49ef6",
+    "sha256_after": "12ab10156202c79e91e34aba7e663bddf60a7032d407306926842deb61f49ef6",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Social Justice": 1
+  },
+  "sections": {
+    "Social Justice — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 10893,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1850,
+    "json_count": 4818,
+    "total_bytes": 4271261331,
+    "by_extension": {
+      ".json": 4818,
+      ".md": 1850,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "social-justice-09",
+      "topic_title": "OBC, EWS and Social Mobility",
+      "subject": "Social Justice",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 9,
+      "source_record_id": "social-justice-09:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\09-OBC-EWS-and-Social-Mobility",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-09\\g3\\social-justice-09_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\09-OBC-EWS-and-Social-Mobility\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "870f76d1347df5509befbe19d365f9e4983c2cb5b6710cea246c37de02fe94ae",
+          "output_sha256": "870f76d1347df5509befbe19d365f9e4983c2cb5b6710cea246c37de02fe94ae",
+          "source_output_equal": true,
+          "bytes": 851412
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-09\\g3\\social-justice-09_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\09-OBC-EWS-and-Social-Mobility\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "e8247a2f252da27aa20844384782e0b601fdc95726ed4fe27d711bfe3dcfd004",
+          "output_sha256": "e8247a2f252da27aa20844384782e0b601fdc95726ed4fe27d711bfe3dcfd004",
+          "source_output_equal": true,
+          "bytes": 657584
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\flowcharts\\iac-09\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\09-OBC-EWS-and-Social-Mobility\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "7e8304dcd190ff713ecdf4372acb656b2ccc6d0c5f37cf22aa184a3ca11bdb97",
+          "output_sha256": "7e8304dcd190ff713ecdf4372acb656b2ccc6d0c5f37cf22aa184a3ca11bdb97",
+          "source_output_equal": true,
+          "bytes": 2294258
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\flowcharts\\iac-09\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\09-OBC-EWS-and-Social-Mobility\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "faa19adfcd0fe4c6ba404c39b358182cbe18b2606a292b70d332307a5f349d34",
+          "output_sha256": "faa19adfcd0fe4c6ba404c39b358182cbe18b2606a292b70d332307a5f349d34",
+          "source_output_equal": true,
+          "bytes": 2668677
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\flowcharts\\iac-09\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\09-OBC-EWS-and-Social-Mobility\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "6872ec8a78718f24584841077ae17d66f767ac5e956ba45a75488560a8dc141c",
+          "output_sha256": "6872ec8a78718f24584841077ae17d66f767ac5e956ba45a75488560a8dc141c",
+          "source_output_equal": true,
+          "bytes": 2050636
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\flowcharts\\iac-09\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\09-OBC-EWS-and-Social-Mobility\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "347d0ed7b53502d053e1fb8a6a5c90890c171f8f91488dad56235ef6f834ba69",
+          "output_sha256": "347d0ed7b53502d053e1fb8a6a5c90890c171f8f91488dad56235ef6f834ba69",
+          "source_output_equal": true,
+          "bytes": 5722
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\flowcharts\\iac-09\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\09-OBC-EWS-and-Social-Mobility\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "13825e7c041a5d6cc5b1ac8614066083ad5b3ab38d5153f75cd598e4354b69f2",
+          "output_sha256": "13825e7c041a5d6cc5b1ac8614066083ad5b3ab38d5153f75cd598e4354b69f2",
+          "source_output_equal": true,
+          "source_text_sha256": "347d0ed7b53502d053e1fb8a6a5c90890c171f8f91488dad56235ef6f834ba69",
+          "normalized_text_equal": true,
+          "bytes": 57895
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 7,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 6,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 6,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 6,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 6,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 7,
+            "maximum_line_characters": 96,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 6,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 6,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 129,
+        "solved_practice_workbook": 82,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 129,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 82,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11014
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

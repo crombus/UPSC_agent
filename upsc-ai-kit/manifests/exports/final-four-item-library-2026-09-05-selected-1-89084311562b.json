@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-05T09:54:10+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "bd1d475648965463330a02aa479b5c2aa782a8a815ee97e29cc00f1b29090c6b",
+    "sha256_after": "bd1d475648965463330a02aa479b5c2aa782a8a815ee97e29cc00f1b29090c6b",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Indian Society": 1
+  },
+  "sections": {
+    "Indian Society — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 10256,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1727,
+    "json_count": 4304,
+    "total_bytes": 4222760617,
+    "by_extension": {
+      ".json": 4304,
+      ".md": 1727,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "indian-society-06",
+      "topic_title": "Population and Associated Issues",
+      "subject": "Indian Society",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 6,
+      "source_record_id": "indian-society-06:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\06-Population-and-Associated-Issues",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\06-Population-and-Associated-Issues\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "66b8ef3b27012a8a3e821e0fcc11b24afcc3bfc89b34bc7ea64c3681d21e6981",
+          "output_sha256": "66b8ef3b27012a8a3e821e0fcc11b24afcc3bfc89b34bc7ea64c3681d21e6981",
+          "source_output_equal": true,
+          "bytes": 678344
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Solved-Practice-Workbook_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\06-Population-and-Associated-Issues\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "5ec4a3d5c89c4a89c16b750e26abd63fcee051e3c0b587f88a6464909cdda847",
+          "output_sha256": "5ec4a3d5c89c4a89c16b750e26abd63fcee051e3c0b587f88a6464909cdda847",
+          "source_output_equal": true,
+          "bytes": 516955
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Society\\SOC\\flowcharts\\iac-06\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\06-Population-and-Associated-Issues\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "195662859d2ce01c09111eebf29d621fad028ce0458d1bf7e7edaf7e565d1512",
+          "output_sha256": "195662859d2ce01c09111eebf29d621fad028ce0458d1bf7e7edaf7e565d1512",
+          "source_output_equal": true,
+          "bytes": 2176524
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Society\\SOC\\flowcharts\\iac-06\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\06-Population-and-Associated-Issues\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "da4be4a4e8cd655ce8da7ccdfbe168b88d9f1b506a57b9efa621953e8e33f933",
+          "output_sha256": "da4be4a4e8cd655ce8da7ccdfbe168b88d9f1b506a57b9efa621953e8e33f933",
+          "source_output_equal": true,
+          "bytes": 2562729
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Society\\SOC\\flowcharts\\iac-06\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\06-Population-and-Associated-Issues\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "8cefb3f6e52581b9a98faf1fdde08fce30f9689f5e82d1ad0b85287db46d64a0",
+          "output_sha256": "8cefb3f6e52581b9a98faf1fdde08fce30f9689f5e82d1ad0b85287db46d64a0",
+          "source_output_equal": true,
+          "bytes": 1931692
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Society\\SOC\\flowcharts\\iac-06\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\06-Population-and-Associated-Issues\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "0be0e7f30cd7eab9553bb44202f066eab0f277723b35a9074286ab7308aa59ad",
+          "output_sha256": "0be0e7f30cd7eab9553bb44202f066eab0f277723b35a9074286ab7308aa59ad",
+          "source_output_equal": true,
+          "bytes": 4848
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Society\\SOC\\flowcharts\\iac-06\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\06-Population-and-Associated-Issues\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "0a25e2409a99dd4dc9ad55c1271232c622c9e9d73832a6ad8eb2ce664ba01ced",
+          "output_sha256": "0a25e2409a99dd4dc9ad55c1271232c622c9e9d73832a6ad8eb2ce664ba01ced",
+          "source_output_equal": true,
+          "source_text_sha256": "0be0e7f30cd7eab9553bb44202f066eab0f277723b35a9074286ab7308aa59ad",
+          "normalized_text_equal": true,
+          "bytes": 57259
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 9,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 9,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 75,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 5,
+            "maximum_line_characters": 71,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 5,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 8,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 91,
+        "solved_practice_workbook": 52,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 91,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 52,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10910
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

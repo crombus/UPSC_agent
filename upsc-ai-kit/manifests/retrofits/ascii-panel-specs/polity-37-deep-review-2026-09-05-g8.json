@@ -1,0 +1,385 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "polity-36-40-hostile-semantic-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "polity_legal_source_hierarchy": true,
+    "manually_authored_twelve_panels": true
+  },
+  "topics": [
+    {
+      "topic_key": "polity-37",
+      "display_title": "CVC and CBI",
+      "active_generation": 8,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\g8\\polity-37_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Santhanam trajectory and the CVC-CBI-DSPE legal identity map",
+          "structural_type": "vigilance-investigation-evolution",
+          "ascii_lines": [
+            "ROOT QUESTION",
+            "How should vigilance supervision, police investigation and final adjudication be separated?",
+            "",
+            "EVOLUTION",
+            "1941 Special Police Establishment -> DSPE Act, 1946",
+            "-> CBI resolution, 1 April 1963",
+            "-> CVC resolution, 1964 after Santhanam Committee",
+            "-> Vineet Narain v. Union of India (1997) safeguards -> CVC Act, 2003.",
+            "",
+            "LEGAL IDENTITY",
+            "CVC -> statutory commission under CVC Act.",
+            "CBI -> executive-created organisation.",
+            "DSPE -> statutory police establishment supplying core investigative powers.",
+            "",
+            "LIMIT",
+            "common anti-corruption purpose does not merge advice, police power, prosecution and judgment.",
+            "MUST REMEMBER: Keep the statutory CVC, executive-created CBI and statutory DSPE police",
+            "  establishment legally distinct despite their connected vigilance work."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\37_CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\g8\\polity-37_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "CVC composition, appointment and tenure",
+          "structural_type": "cvc-office-design",
+          "ascii_lines": [
+            "COMPOSITION",
+            "Central Vigilance Commissioner as Chairperson",
+            "+ not more than two Vigilance Commissioners.",
+            "",
+            "APPOINTMENT",
+            "President by warrant after committee recommendation:",
+            "Prime Minister + Union Home Minister + Lok Sabha Opposition Leader/substitute.",
+            "",
+            "QUALIFICATION",
+            "experience in vigilance, policy, administration, police administration,",
+            "finance including insurance and banking, law or investigations.",
+            "",
+            "CURRENT LEADERSHIP: 5 SEPTEMBER 2026",
+            "A S Rajeev: acting Central Vigilance Commissioner from 3 August 2026.",
+            "Praveen Vashista: Vigilance Commissioner.",
+            "Acting charge does not alter the statutory appointment architecture."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\37_CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\g8\\polity-37_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "CVC removal, service safeguards and legal limits",
+          "structural_type": "cvc-independence",
+          "ascii_lines": [
+            "TERM",
+            "four years or age 65, whichever earlier; statutory post-tenure restrictions apply.",
+            "",
+            "REMOVAL",
+            "proved misbehaviour or incapacity -> President after Supreme Court inquiry.",
+            "Direct statutory grounds cover insolvency, moral-turpitude conviction,",
+            "outside paid employment, infirmity and prejudicial interest.",
+            "",
+            "LIMIT",
+            "secure removal does not convert advice into binding adjudication."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\37_CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\g8\\polity-37_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "CVC section 8 vigilance and CBI supervision",
+          "structural_type": "cvc-functions",
+          "ascii_lines": [
+            "CVC FUNCTIONS",
+            "superintend DSPE investigation of specified Prevention of Corruption Act matters",
+            "| issue directions without dictating disposal of a particular case",
+            "| review investigation progress and prosecution-sanction applications",
+            "| inquire or cause inquiry into covered public-servant complaints",
+            "| advise Central Government and covered organisations",
+            "| exercise vigilance-administration superintendence.",
+            "",
+            "CVO CHAIN",
+            "prevention -> surveillance and complaint scrutiny -> departmental inquiry",
+            "-> CVC advice where applicable -> disciplinary authority reasoned decision."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\37_CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\g8\\polity-37_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "CVO network, advice and prosecution-sanction monitoring",
+          "structural_type": "vigilance-network",
+          "ascii_lines": [
+            "PROSECUTION SANCTION",
+            "section 19 PC Act concerns prosecution stage;",
+            "section 17A prior approval concerns specified inquiry/investigation decisions.",
+            "",
+            "LIMIT",
+            "CVC is not a police station, trial court or universal controller of every CBI case."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\37_CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\g8\\polity-37_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "CBI organisation, DSPE powers and mandate",
+          "structural_type": "cbi-dspe-jurisdiction-map",
+          "ascii_lines": [
+            "CBI ORGANISATION",
+            "investigation and anti-corruption | economic offences | special crimes",
+            "| policy, administration, forensics and international cooperation.",
+            "",
+            "DSPE ACT",
+            "section 2 -> Union Territory police-establishment baseline.",
+            "section 3 -> Central notification specifies offence classes.",
+            "section 5 -> Central extension of powers to State areas.",
+            "section 6 -> State consent for ordinary exercise in State area.",
+            "",
+            "POLICE POWER",
+            "FIR or regular case -> search, seizure, arrest and examination under law",
+            "-> evidence assessment -> closure report or charge sheet -> court.",
+            "",
+            "BOUNDARY",
+            "organisational mandate does not override notified offences, territory,",
+            "criminal procedure, special statutes, consent or court directions.",
+            "CLOSE DISTINCTION: CVC superintendence is offence-field specific and does not permit dictating",
+            "  a particular investigation, conviction or disciplinary result."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\37_CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\g8\\polity-37_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "CBI superintendence and investigative judgment",
+          "structural_type": "cbi-superintendence",
+          "ascii_lines": [
+            "SUPERINTENDENCE",
+            "CVC for DSPE investigation of specified corruption offences.",
+            "Central Government for other DSPE matters.",
+            "",
+            "ADMINISTRATION",
+            "Director controls day-to-day administration and investigative judgment,",
+            "subject to statute, law and lawful oversight.",
+            "",
+            "DIRECTOR APPOINTMENT",
+            "Central Government appoints on committee recommendation:",
+            "Prime Minister + Lok Sabha Opposition Leader/substitute + CJI or nominee."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\37_CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\g8\\polity-37_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "CBI Director appointment, tenure and transfer safeguards",
+          "structural_type": "cbi-director",
+          "ascii_lines": [
+            "TENURE",
+            "minimum two years under DSPE Act.",
+            "Current law permits conditional one-year extensions,",
+            "with recorded public-interest reasons, up to aggregate five years.",
+            "",
+            "TRANSFER",
+            "statutory committee safeguard applies.",
+            "",
+            "TRAP",
+            "two-year floor != automatic five-year term and superintendence != case-outcome command.",
+            "",
+            "CURRENT DIRECTOR: 5 SEPTEMBER 2026",
+            "Praveen Sood's dated extension runs through 24 May 2027.",
+            "A one-year extension under the amended law is not an automatic five-year term."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\37_CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\g8\\polity-37_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "State consent and constitutional-court directions",
+          "structural_type": "cbi-federal-consent-case-map",
+          "ascii_lines": [
+            "ORDINARY STATE-AREA ROUTE",
+            "section 5 extension + section 6 general or case-specific State consent.",
+            "Withdrawal of general consent operates prospectively for new ordinary entries.",
+            "",
+            "Kazi Lhendup Dorji v. CBI (1994)",
+            "later withdrawal did not terminate investigations validly begun while consent operated.",
+            "",
+            "State of West Bengal v. Committee for Protection of Democratic Rights (2010)",
+            "High Court under Article 226 and Supreme Court under Article 32",
+            "may direct CBI investigation without State consent, exceptionally and cautiously.",
+            "",
+            "Fertico Marketing and Investment Pvt. Ltd. v. CBI (2020)",
+            "fact-specific consent result; no universal rule that later consent always cures defect.",
+            "",
+            "State of West Bengal v. Union of India (2024)",
+            "preliminary maintainability objection rejected; cited judgment did not decide consent merits.",
+            "",
+            "FEDERAL VERDICT",
+            "qualified State control in ordinary cases + exceptional rights-protecting judicial review."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\37_CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\g8\\polity-37_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Lokpal interface, investigation lifecycle and procedural safeguards",
+          "structural_type": "anti-corruption-case-lifecycle",
+          "ascii_lines": [
+            "LOKPAL ROUTE",
+            "complaint scrutiny -> preliminary inquiry or investigation under Lokpal Act",
+            "-> CVC/CBI or statutory wings as assigned -> reports and directions within the Act.",
+            "",
+            "INVESTIGATION LIFECYCLE",
+            "source information/complaint -> jurisdiction and approval screen",
+            "-> preliminary verification where law permits -> FIR/regular case",
+            "-> evidence collection -> sanction question -> final police report",
+            "-> prosecution -> trial -> judgment.",
+            "",
+            "CBI v. Thommandru Hannah Vijayalakshmi (2021)",
+            "preliminary inquiry is not mandatory before every corruption FIR;",
+            "criminal-procedure and corruption-law requirements control.",
+            "",
+            "SAFEGUARDS",
+            "lawful approval | reasons | search and arrest standards",
+            "| disclosure and fair trial | judicial review | presumption of innocence.",
+            "",
+            "LIMIT",
+            "FIR, charge sheet, vigilance advice and sanction are not findings of guilt."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\37_CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\g8\\polity-37_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "CVC, CBI, Lokpal, NIA and State Police: power-type comparison",
+          "structural_type": "anti-corruption-institution-comparison",
+          "ascii_lines": [
+            "CVC",
+            "statutory vigilance supervision and advice | no general police power.",
+            "",
+            "CBI / DSPE",
+            "executive organisation + statutory police powers | consent and offence controls.",
+            "",
+            "LOKPAL",
+            "statutory ombudsman and complaint-routing authority for covered public functionaries.",
+            "",
+            "NIA",
+            "statutory national-security investigation under NIA Act and scheduled-offence framework.",
+            "",
+            "STATE POLICE / ACB",
+            "State police power and territorial responsibility under ordinary criminal law.",
+            "",
+            "DEPARTMENTAL CVO",
+            "internal prevention, scrutiny and disciplinary-vigilance coordination.",
+            "",
+            "COURT",
+            "authorises, reviews, tries and finally determines guilt.",
+            "",
+            "TRAP",
+            "administrative placement, vigilance supervision and police command are different relationships."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\37_CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\g8\\polity-37_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Cases, caged-parrot criticism and reform synthesis",
+          "structural_type": "cvc-cbi-answer-synthesis",
+          "ascii_lines": [
+            "Vineet Narain v. Union of India (1997)",
+            "institutional safeguards, Director tenure and statutory CVC trajectory.",
+            "",
+            "Alok Kumar Verma v. Union of India (2019)",
+            "statutory committee safeguard constrained removal of Director's functions.",
+            "",
+            "Dr Jaya Thakur v. Union of India (2023)",
+            "current extension framework upheld; extension remains conditional, not automatic.",
+            "",
+            "\"CAGED PARROT\"",
+            "judicial criticism of perceived executive influence in 2013;",
+            "not a statutory status, doctrine or licence for judicial administration of every case.",
+            "",
+            "REFORM",
+            "dedicated law with federal safeguards + predictable consent protocol",
+            "-> professional cadre and budget -> transparent case allocation",
+            "-> timely sanctions -> parliamentary system review + judicial accountability.",
+            "",
+            "PYQ SPINE",
+            "2021 State consent and federalism | 2026 controlled institutional matching.",
+            "",
+            "VERDICT",
+            "operational autonomy must be paired with legality, federal restraint and answerable coercive power.",
+            "LEGAL/SOURCE LIMIT: A S Rajeev is acting Central Vigilance Commissioner; Praveen Vashista is",
+            "  Vigilance Commissioner; Praveen Sood's CBI term runs to 24 May 2027."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\polity-37_Complete-Learning-Session_2026-08-24.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\37_CVC-and-CBI.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\g8\\polity-37_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

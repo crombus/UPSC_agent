@@ -1,0 +1,1120 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-15",
+  "subject": "Geography",
+  "title": "HOT WET EQUATORIAL CLIMATE",
+  "short_route": "EQUATORIAL CLIMATE MAP → CONVECTION DAY CYCLE → TEMPERATURE-RANGE FIREWALL → RAINFALL IDENTITY → RAINFOREST VERTICAL PROFILE → NUTRIENT-CYCLE LOOP",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-15-deep-review-2026-09-05-g4.json",
+  "ascii_spec_sha256": "a202e3d1623c423048da65d64327626a159671b4b635bb96d9e35cf8a467ad43",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "EQUATORIAL CLIMATE MAP",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "EQUATORIAL CLIMATE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "PERSISTENT HIGH SOLAR RECEIPT",
+          "role": "outcome"
+        },
+        {
+          "text": "AMAZON + CONGO",
+          "role": "comparison"
+        },
+        {
+          "text": "MAJOR CONTINENTAL LOWLANDS",
+          "role": "evidence"
+        },
+        {
+          "text": "MALAYSIA + EAST INDIES",
+          "role": "primary"
+        },
+        {
+          "text": "MARITIME EXPRESSION",
+          "role": "outcome"
+        },
+        {
+          "text": "ALTITUDE OR MONSOON MODIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EQUATOR → persistent high solar receipt",
+        "AMAZON + CONGO → major continental lowlands",
+        "MALAYSIA + EAST INDIES → maritime expression",
+        "HIGHLANDS / MARGINS → altitude or monsoon modification",
+        "MUST REMEMBER: Equatorial Af climate follows year-round high sun, ITCZ convection, humid air and weak"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EQUATOR → persistent high solar receipt",
+            "AMAZON + CONGO → major continental lowlands"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MALAYSIA + EAST INDIES → maritime expression",
+            "HIGHLANDS / MARGINS → altitude or monsoon modification"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Equatorial Af climate follows year-round high sun, ITCZ convection, humid air and weak annual thermal range,",
+            "producing frequent rainfall, evergreen stratification, intense chemical weathering and leached soils in Amazon, Congo and Maritime Southeast Asia."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Equatorial Af climate follows year-round high sun, ITCZ convection, humid air and weak annual thermal range, producing frequent rainfall, evergreen stratification, intense chemical weathering and leached soils in Amazon, Congo and Maritime Southeast Asia.",
+      "source_references": [
+        "Af location and equatorial setting",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CONVECTION DAY CYCLE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONVECTION DAY CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "MORNING SUN",
+          "role": "outcome"
+        },
+        {
+          "text": "MOIST SURFACE HEATING",
+          "role": "comparison"
+        },
+        {
+          "text": "NOON ASCENT",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPANDING AND COOLING AIR",
+          "role": "primary"
+        },
+        {
+          "text": "CUMULONIMBUS THUNDERSTORM",
+          "role": "outcome"
+        },
+        {
+          "text": "RAIN-COOLED AIR; CYCLE CAN RECUR",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "MORNING SUN → moist surface heating",
+        "NOON ASCENT → expanding and cooling air",
+        "AFTERNOON → cumulonimbus thunderstorm",
+        "EVENING → rain-cooled air; cycle can recur"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MORNING SUN → moist surface heating",
+            "NOON ASCENT → expanding and cooling air"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AFTERNOON → cumulonimbus thunderstorm",
+            "EVENING → rain-cooled air; cycle can recur"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MORNING SUN → moist surface heating",
+            "NOON ASCENT → expanding and cooling air"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AFTERNOON → cumulonimbus thunderstorm; EVENING → rain-cooled air; cycle can recur.",
+      "source_references": [
+        "Equatorial low and convection",
+        "Afternoon storms and equinox maxima",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "TEMPERATURE-RANGE FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TEMPERATURE-RANGE FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "ANNUAL RANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "USUALLY VERY SMALL",
+          "role": "comparison"
+        },
+        {
+          "text": "DIURNAL RANGE",
+          "role": "evidence"
+        },
+        {
+          "text": "LARGER THAN ANNUAL RANGE",
+          "role": "primary"
+        },
+        {
+          "text": "WEAK SEASONALITY NEAR EQUATOR",
+          "role": "outcome"
+        },
+        {
+          "text": "MEANS DO NOT CAP DAILY EXTREMES",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ANNUAL RANGE → usually very small",
+        "DIURNAL RANGE → larger than annual range",
+        "CAUSE → weak seasonality near Equator",
+        "CAUTION → means do not cap daily extremes"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ANNUAL RANGE → usually very small",
+          "CAUSE → weak seasonality near Equator",
+          "ANNUAL RANGE → usually very small"
+        ],
+        [
+          "DIURNAL RANGE → larger than annual range",
+          "CAUTION → means do not cap daily extremes",
+          "DIURNAL RANGE → larger than annual range"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ANNUAL RANGE → usually very small",
+            "DIURNAL RANGE → larger than annual range"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CAUSE → weak seasonality near Equator",
+            "CAUTION → means do not cap daily extremes"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ANNUAL RANGE → usually very small",
+            "DIURNAL RANGE → larger than annual range"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → means do not cap daily extremes.",
+      "source_references": [
+        "Uniform heat and annual range",
+        "Diurnal range exceeds annual range",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "RAINFALL IDENTITY",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RAINFALL IDENTITY",
+          "role": "primary"
+        },
+        {
+          "text": "RAIN ALL MONTHS",
+          "role": "outcome"
+        },
+        {
+          "text": "SUPPORTS AF READING",
+          "role": "comparison"
+        },
+        {
+          "text": "TRUE DRY SEASON",
+          "role": "evidence"
+        },
+        {
+          "text": "TEST AM OR AW INSTEAD",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE NOTES OFTEN 150-250 CM",
+          "role": "evidence"
+        },
+        {
+          "text": "DISTRIBUTION OUTRANKS ONE ANNUAL NUMBER",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "RAIN ALL MONTHS → supports Af reading",
+        "TRUE DRY SEASON → test Am or Aw instead",
+        "TOTAL → source notes often 150-250 cm",
+        "RULE → distribution outranks one annual number"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RAIN ALL MONTHS → supports Af reading",
+            "TRUE DRY SEASON → test Am or Aw instead"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TOTAL → source notes often 150-250 cm",
+            "RULE → distribution outranks one annual number"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RAIN ALL MONTHS → supports Af reading",
+            "TRUE DRY SEASON → test Am or Aw instead"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRUE DRY SEASON → test Am or Aw instead.",
+      "source_references": [
+        "Year-round rainfall regime",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "RAINFOREST VERTICAL PROFILE",
+      "structural_type": "vertical-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RAINFOREST VERTICAL PROFILE",
+          "role": "primary"
+        },
+        {
+          "text": "CROWNS ABOVE MAIN ROOF",
+          "role": "outcome"
+        },
+        {
+          "text": "DENSE LIGHT-CAPTURING LAYER",
+          "role": "comparison"
+        },
+        {
+          "text": "SHADE-TOLERANT GROWTH",
+          "role": "evidence"
+        },
+        {
+          "text": "DARK, HUMID, RAPID DECAY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "EMERGENTS → crowns above main roof",
+        "CANOPY → dense light-capturing layer",
+        "UNDERSTOREY → shade-tolerant growth",
+        "FLOOR → dark, humid, rapid decay"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EMERGENTS → crowns above main roof",
+            "CANOPY → dense light-capturing layer"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "UNDERSTOREY → shade-tolerant growth",
+            "FLOOR → dark, humid, rapid decay"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EMERGENTS → crowns above main roof",
+            "CANOPY → dense light-capturing layer"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UNDERSTOREY → shade-tolerant growth; FLOOR → dark, humid, rapid decay.",
+      "source_references": [
+        "Rainforest layers",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "NUTRIENT-CYCLE LOOP",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "NUTRIENT-CYCLE LOOP",
+          "role": "mechanism"
+        },
+        {
+          "text": "RAPID WARM-WET DECOMPOSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "ROOT MAT",
+          "role": "comparison"
+        },
+        {
+          "text": "RAPID NUTRIENT UPTAKE",
+          "role": "evidence"
+        },
+        {
+          "text": "PRINCIPAL NUTRIENT CAPITAL",
+          "role": "primary"
+        },
+        {
+          "text": "HEAVY RAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "LEACHING AFTER CLEARANCE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "LITTER → rapid warm-wet decomposition",
+        "ROOT MAT → rapid nutrient uptake",
+        "BIOMASS → principal nutrient capital",
+        "HEAVY RAIN → leaching after clearance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LITTER → rapid warm-wet decomposition",
+            "ROOT MAT → rapid nutrient uptake"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BIOMASS → principal nutrient capital",
+            "HEAVY RAIN → leaching after clearance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LITTER → rapid warm-wet decomposition",
+            "ROOT MAT → rapid nutrient uptake"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BIOMASS → principal nutrient capital; HEAVY RAIN → leaching after clearance.",
+      "source_references": [
+        "Nutrient paradox",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FALLOW DECISION",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FALLOW DECISION",
+          "role": "primary"
+        },
+        {
+          "text": "SMALL CLEARING + LONG FALLOW",
+          "role": "outcome"
+        },
+        {
+          "text": "SHORTENED FALLOW",
+          "role": "comparison"
+        },
+        {
+          "text": "DECLINING BIOMASS",
+          "role": "evidence"
+        },
+        {
+          "text": "STEEP SLOPE + REPEATED FIRE",
+          "role": "primary"
+        },
+        {
+          "text": "EROSION RISK",
+          "role": "caution"
+        },
+        {
+          "text": "TENURE + LIVELIHOOD",
+          "role": "comparison"
+        },
+        {
+          "text": "MANAGEMENT OUTCOME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SMALL CLEARING + LONG FALLOW → recovery",
+        "SHORTENED FALLOW → declining biomass",
+        "STEEP SLOPE + REPEATED FIRE → erosion risk",
+        "TENURE + LIVELIHOOD → management outcome"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SMALL CLEARING + LONG FALLOW → recovery",
+            "SHORTENED FALLOW → declining biomass"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STEEP SLOPE + REPEATED FIRE → erosion risk",
+            "TENURE + LIVELIHOOD → management outcome"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SMALL CLEARING + LONG FALLOW → recovery",
+            "SHORTENED FALLOW → declining biomass"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STEEP SLOPE + REPEATED FIRE → erosion risk.",
+      "source_references": [
+        "Shifting cultivation and fallow",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "HUMID-TROPICS ECONOMY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "HUMID-TROPICS ECONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "CAPITAL + LABOUR + EXPORT CROP",
+          "role": "outcome"
+        },
+        {
+          "text": "MIXED FOREST",
+          "role": "comparison"
+        },
+        {
+          "text": "SELECTIVE LOGGING DIFFICULTY",
+          "role": "evidence"
+        },
+        {
+          "text": "ROAD ACCESS",
+          "role": "primary"
+        },
+        {
+          "text": "EXTRACTION GEOGRAPHY",
+          "role": "outcome"
+        },
+        {
+          "text": "CLIMATE ENABLES; INSTITUTIONS DECIDE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PLANTATION → capital + labour + export crop",
+        "MIXED FOREST → selective logging difficulty",
+        "RIVER / ROAD ACCESS → extraction geography",
+        "RULE → climate enables; institutions decide"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PLANTATION → capital + labour + export crop",
+          "RIVER / ROAD ACCESS → extraction geography",
+          "PLANTATION → capital + labour + export crop"
+        ],
+        [
+          "MIXED FOREST → selective logging difficulty",
+          "RULE → climate enables; institutions decide",
+          "MIXED FOREST → selective logging difficulty"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PLANTATION → capital + labour + export crop",
+            "MIXED FOREST → selective logging difficulty"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RIVER / ROAD ACCESS → extraction geography",
+            "RULE → climate enables; institutions decide"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PLANTATION → capital + labour + export crop",
+            "MIXED FOREST → selective logging difficulty"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PLANTATION → capital + labour + export crop.",
+      "source_references": [
+        "Plantations and commercial forestry",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INDIA ANALOGUE MAP",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INDIA ANALOGUE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "WESTERN GHATS",
+          "role": "outcome"
+        },
+        {
+          "text": "WINDWARD EVERGREEN BELT",
+          "role": "comparison"
+        },
+        {
+          "text": "WET EVERGREEN",
+          "role": "evidence"
+        },
+        {
+          "text": "EASTERN HIMALAYAN FOOTHILLS",
+          "role": "primary"
+        },
+        {
+          "text": "INSULAR RAINFOREST",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "WESTERN GHATS → windward evergreen belt",
+        "NORTH-EAST → wet evergreen / semi-evergreen",
+        "EASTERN HIMALAYAN FOOTHILLS → transition",
+        "ANDAMAN-NICOBAR → insular rainforest"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WESTERN GHATS → windward evergreen belt",
+            "NORTH-EAST → wet evergreen / semi-evergreen"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EASTERN HIMALAYAN FOOTHILLS → transition",
+            "ANDAMAN-NICOBAR → insular rainforest"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WESTERN GHATS → windward evergreen belt",
+            "NORTH-EAST → wet evergreen / semi-evergreen"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EASTERN HIMALAYAN FOOTHILLS → transition; ANDAMAN-NICOBAR → insular rainforest.",
+      "source_references": [
+        "India's equatorial-type boundary",
+        "Indian evergreen distribution",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "OFFICIAL EVIDENCE FIREWALL",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "OFFICIAL EVIDENCE FIREWALL",
+          "role": "evidence"
+        },
+        {
+          "text": "FSI REPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "DATED BIENNIAL ASSESSMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "FOREST COVER",
+          "role": "evidence"
+        },
+        {
+          "text": "CANOPY-BASED MAPPED CLASS",
+          "role": "primary"
+        },
+        {
+          "text": "FOREST TYPE",
+          "role": "outcome"
+        },
+        {
+          "text": "ECOLOGICAL CLASSIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "LEGAL STATUS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FSI REPORT → dated biennial assessment",
+        "FOREST COVER → canopy-based mapped class",
+        "FOREST TYPE → ecological classification",
+        "LEGAL STATUS → separate administrative category",
+        "CLOSE DISTINCTION: Equatorial does not mean everywhere exactly on the Equator, convectional rainfall is not"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FSI REPORT → dated biennial assessment",
+          "FOREST TYPE → ecological classification",
+          "CLOSE DISTINCTION: Equatorial does not mean everywhere exactly on the Equator, convectional rainfall is not continuous all-day"
+        ],
+        [
+          "FOREST COVER → canopy-based mapped class",
+          "LEGAL STATUS → separate administrative category",
+          "rain, and luxuriant biomass does not imply nutrient-rich soil because rapid cycling stores nutrients mainly in biomass."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FSI REPORT → dated biennial assessment",
+            "FOREST COVER → canopy-based mapped class"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FOREST TYPE → ecological classification",
+            "LEGAL STATUS → separate administrative category"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Equatorial does not mean everywhere exactly on the Equator, convectional rainfall is not continuous all-day",
+            "rain, and luxuriant biomass does not imply nutrient-rich soil because rapid cycling stores nutrients mainly in biomass."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Equatorial does not mean everywhere exactly on the Equator, convectional rainfall is not continuous all-day rain, and luxuriant biomass does not imply nutrient-rich soil because rapid cycling stores nutrients mainly in biomass.",
+      "source_references": [
+        "Biodiversity, jhum and FSI evidence",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "VERIFIED PYQ PAIR",
+      "structural_type": "exam-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "VERIFIED PYQ PAIR",
+          "role": "primary"
+        },
+        {
+          "text": "RAINFOREST VEGETATION STRUCTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "NUTRIENTS AND DECOMPOSITION",
+          "role": "comparison"
+        },
+        {
+          "text": "OFFICIAL ANSWER LETTERS WITHHELD",
+          "role": "evidence"
+        },
+        {
+          "text": "TEACH DISTINCTION; DO NOT INVENT KEY",
+          "role": "caution"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "DEFORESTATION ALTERS ENERGY, MOISTURE AND NUTRIENT CYCLES BUT RAINFALL",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "2021 → rainforest vegetation structure",
+        "2023 → nutrients and decomposition",
+        "LEDGER → official answer letters withheld",
+        "METHOD → teach distinction; do not invent key",
+        "EVIDENCE LIMIT: Deforestation alters energy, moisture and nutrient cycles but rainfall feedback magnitude varies by"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "2021 → rainforest vegetation structure",
+          "LEDGER → official answer letters withheld",
+          "EVIDENCE LIMIT: Deforestation alters energy, moisture and nutrient cycles but rainfall feedback magnitude varies by scale and region"
+        ],
+        [
+          "2023 → nutrients and decomposition",
+          "METHOD → teach distinction; do not invent key",
+          "Indian evergreen forests are analogues with monsoonal/topographic differences, not Af replicas."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "2021 → rainforest vegetation structure",
+            "2023 → nutrients and decomposition"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LEDGER → official answer letters withheld",
+            "METHOD → teach distinction; do not invent key"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Deforestation alters energy, moisture and nutrient cycles but rainfall feedback magnitude varies by scale and region",
+            "Indian evergreen forests are analogues with monsoonal/topographic differences, not Af replicas."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Deforestation alters energy, moisture and nutrient cycles but rainfall feedback magnitude varies by scale and region; Indian evergreen forests are analogues with monsoonal/topographic differences, not Af replicas.",
+      "source_references": [
+        "Verified rainforest PYQ routes",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EQUATORIAL ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EQUATORIAL ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "EQUATORIAL LOWLAND BELT",
+          "role": "outcome"
+        },
+        {
+          "text": "HEAT, CONVERGENCE, CONVECTION, RAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "LAYERS, NUTRIENTS AND LAND USE",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIA ANALOGUE AND SOURCE LIMITS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LOCATE → equatorial lowland belt",
+        "DERIVE → heat, convergence, convection, rain",
+        "LINK → layers, nutrients and land use",
+        "QUALIFY → India analogue and source limits"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LOCATE → equatorial lowland belt",
+            "DERIVE → heat, convergence, convection, rain"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LINK → layers, nutrients and land use",
+            "QUALIFY → India analogue and source limits"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LOCATE → equatorial lowland belt",
+            "DERIVE → heat, convergence, convection, rain"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LINK → layers, nutrients and land use; QUALIFY → India analogue and source limits.",
+      "source_references": [
+        "Verified rainforest PYQ routes",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DO NOT GENERALISE",
+          "role": "caution"
+        },
+        {
+          "text": "MOST INDIAN EVERGREEN BELTS ARE MONSOONAL, WHILE LIMITED AF",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA’S CLOSEST EQUIVALENT IS TROPICAL WET EVERGREEN FOREST IN",
+          "role": "evidence"
+        },
+        {
+          "text": "MAIN REGIONS",
+          "role": "primary"
+        },
+        {
+          "text": "WINDWARD WESTERN GHATS",
+          "role": "outcome"
+        },
+        {
+          "text": "MALABAR , NORTH-EAST INDIA , ANDAMAN & NICOBAR ISLANDS",
+          "role": "comparison"
+        },
+        {
+          "text": "MALABAR VEGETATION RANGES FROM MOIST TROPICAL EVERGREEN TO MIXED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Do not generalise: most Indian evergreen belts are monsoonal, while limited Af classification depends on the map/dataset.",
+            "India’s closest equivalent is tropical wet evergreen forest in very high-rainfall belts.",
+            "Main regions: windward Western Ghats / Malabar , North-East India , Andaman & Nicobar Islands .",
+            "Malabar vegetation ranges from moist tropical evergreen to mixed broad-leaved and monsoon deciduous types."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Andaman-Nicobar has tropical evergreen/semi-evergreen and littoral forests with high endemism.",
+            "The archipelago combines forest and reef biodiversity with high seismicity and Barren Island volcanism.",
+            "Western Ghats + North-East India are biodiversity-hotspot landscapes.",
+            "Jhum is shifting cultivation; degradation rises when fallow cycles shorten."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "NOT: India has a true equatorial Af climate in the south → India lacks true Af; it has equatorial-type evergreen forests in wet monsoon belts.",
+            "NOT: The leeward Deccan side of the Western Ghats has evergreen rainforest → Evergreen forest is on the windward western slope",
+            "the leeward side is drier.",
+            "NOT: Andaman forests are ordinary dry deciduous forests → A&N contains tropical evergreen,"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

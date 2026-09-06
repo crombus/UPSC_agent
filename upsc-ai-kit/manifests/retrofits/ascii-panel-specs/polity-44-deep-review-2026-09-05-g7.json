@@ -1,0 +1,311 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "polity-41-45-hostile-semantic-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "polity_legal_source_hierarchy": true,
+    "manually_authored_twelve_panels": true
+  },
+  "topics": [
+    {
+      "topic_key": "polity-44",
+      "display_title": "Pressure Groups",
+      "active_generation": 7,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g7\\polity-44_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Influence without office: definition and boundaries",
+          "structural_type": "definition-distinction-map",
+          "ascii_lines": [
+            "ROOT",
+            "shared interest -> organisation -> influence over public decision",
+            "",
+            "DISTINGUISH",
+            "party: seeks office | pressure group: seeks influence",
+            "NGO: legal/organisational vehicle | movement: broad change",
+            "lobbyist: professional client representation",
+            "",
+            "LIMIT",
+            "forms overlap; dominant purpose and conduct decide the label.",
+            "MUST REMEMBER: Treat pressure group as an analytical role, not a single legal form, and keep",
+            "  parties, movements, NGOs, unions and lobbyists distinct."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\44_Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g7\\polity-44_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Constitutional channels and proportionate limits",
+          "structural_type": "constitutional-channel-map",
+          "ascii_lines": [
+            "ARTICLE 19",
+            "19(1)(a) speech | 19(1)(b) peaceful unarmed assembly | 19(1)(c) association",
+            "subject to Articles 19(2)-(4).",
+            "",
+            "REMEDIES",
+            "Article 32 Supreme Court | Article 226 High Court.",
+            "",
+            "LIMIT",
+            "no separate fundamental right to lobby, strike or occupy public ways indefinitely."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\44_Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g7\\polity-44_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Typology without misclassification",
+          "structural_type": "pressure-group-typology",
+          "ascii_lines": [
+            "ALMOND-POWELL",
+            "associational: formal specialised membership",
+            "non-associational: identity/community articulation",
+            "institutional: interest voiced within durable institutions",
+            "anomic: spontaneous and episodic mobilisation",
+            "",
+            "TRAPS",
+            "anomic != stable armed organisation",
+            "statutory regulator != ordinary voluntary pressure group."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\44_Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g7\\polity-44_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Methods: insider, outsider and corporatist routes",
+          "structural_type": "method-spectrum-rail",
+          "ascii_lines": [
+            "INSIDER",
+            "meeting | consultation | committee | expert evidence | draft comments",
+            "",
+            "OUTSIDER",
+            "petition | publicity | electoral signalling | protest | litigation",
+            "",
+            "CORPORATIST",
+            "State-structured bargaining with selected peak associations.",
+            "",
+            "TEST",
+            "access + cohesion + expertise + numbers + salience + legitimacy."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\44_Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g7\\polity-44_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Pluralist, elite and corporatist lenses",
+          "structural_type": "theory-comparison-matrix",
+          "ascii_lines": [
+            "PLURALIST",
+            "competition and countervailing power",
+            "<-> misses unequal organisation.",
+            "",
+            "ELITE/CAPTURE",
+            "wealth and access shape agendas",
+            "<-> can miss mobilisation by weaker groups.",
+            "",
+            "CORPORATIST",
+            "coordination through peak bodies",
+            "<-> outsider exclusion and State selection."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\44_Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g7\\polity-44_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Business, labour and professional groups",
+          "structural_type": "sector-comparison-matrix",
+          "ascii_lines": [
+            "BUSINESS",
+            "FICCI/CII/ASSOCHAM/NASSCOM -> aggregation + technical input + capture risk.",
+            "",
+            "LABOUR",
+            "bargaining + tripartite consultation + lawful industrial action.",
+            "",
+            "PROFESSIONAL",
+            "voluntary advocacy bodies; separate statutory regulators.",
+            "",
+            "HISTORY",
+            "Madras Labour Union 1918 | AITUC federation 1920.",
+            "CLOSE DISTINCTION: Apply Articles 19, protest regulation, PIL, consultation, FCRA and entity",
+            "  law through separate legal routes rather than inventing a right to lobby."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\44_Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g7\\polity-44_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Farmers' organisations: methods and effectiveness",
+          "structural_type": "farmer-effectiveness-chain",
+          "ascii_lines": [
+            "METHODS",
+            "representation + price/procurement submissions + election signalling",
+            "+ coalition + protest + media + litigation.",
+            "",
+            "2020-21",
+            "mobilisation contributed decisively to conditions before Parliament's 2021 repeal.",
+            "",
+            "LIMIT",
+            "visibility != representation of every region, crop, tenant, woman or marginal farmer."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\44_Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g7\\polity-44_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Environmental, civil-society and digital pressure",
+          "structural_type": "environmental-role-network",
+          "ascii_lines": [
+            "AWARENESS",
+            "Chipko | CSE research.",
+            "",
+            "POLICY",
+            "Silent Valley mobilisation | consultation | monitoring.",
+            "",
+            "ADVOCACY",
+            "NBA rehabilitation/review | eligible PIL under Articles 32/226.",
+            "",
+            "DIGITAL",
+            "rapid agenda-setting <-> misinformation, astroturfing and platform opacity."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\44_Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g7\\polity-44_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Protest rights and judicial boundary",
+          "structural_type": "protest-rights-balance",
+          "ascii_lines": [
+            "Damyanti Naranga v. Union of India (1971)",
+            "association composition/autonomy.",
+            "",
+            "Ramlila Maidan Incident (2012)",
+            "peaceful assembly and police scrutiny.",
+            "",
+            "Mazdoor Kisan Shakti Sangathan v. Union of India (2018)",
+            "balance protest with residents and regulation.",
+            "",
+            "Amit Sahni v. Commissioner of Police (2020)",
+            "no indefinite occupation of public ways.",
+            "",
+            "STRIKE",
+            "regulated action != violence; no general fundamental right."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\44_Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g7\\polity-44_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "FCRA and lobbying: separate legal questions",
+          "structural_type": "regulatory-boundary-board",
+          "ascii_lines": [
+            "FCRA 2010/2020",
+            "foreign-contribution receipt/use; Section 3 prohibitions;",
+            "no transfer; SBI receipt account; 20% admin cap.",
+            "",
+            "Noel Harper v. Union of India (2022)",
+            "framework upheld; passport-based Section 12A accommodation.",
+            "",
+            "LOBBYING",
+            "no comprehensive standalone register as checked 5 September 2026;",
+            "general and sectoral laws still apply.",
+            "",
+            "CURRENT LAW: 5 SEPTEMBER 2026",
+            "The 2025 FCRA Rules changes are procedural application controls.",
+            "FCRA is not a lobbying statute; no comprehensive general Indian",
+            "lobbying-registration or lobbying-disclosure law was located."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\44_Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g7\\polity-44_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Transparent and inclusive consultation design",
+          "structural_type": "reform-architecture",
+          "ascii_lines": [
+            "NOTICE",
+            "draft + impact note + adequate period + accessible languages.",
+            "",
+            "DISCLOSURE",
+            "meetings + submissions + clients + funding + conflicts.",
+            "",
+            "REASONS",
+            "public response matrix.",
+            "",
+            "INTEGRITY",
+            "recusal + cooling-off + anti-corruption rules.",
+            "",
+            "INCLUSION",
+            "outreach to under-organised interests; process audit, not policy veto."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\44_Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g7\\polity-44_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "PYQ and answer synthesis",
+          "structural_type": "pressure-group-exam-synthesis",
+          "ascii_lines": [
+            "VERIFIED PYQS",
+            "2019 farmers' methods/effectiveness 10/150",
+            "2021 business associations/public policies 10/150",
+            "2025 environmental groups awareness/policy/advocacy 15/250.",
+            "",
+            "ANSWER SPINE",
+            "define -> channel -> method -> evidence -> gain -> limit",
+            "-> transparent inclusion -> qualified verdict.",
+            "",
+            "FINAL LINE",
+            "continuous representation is democratic only when access and reasons are visible.",
+            "LEGAL/SOURCE LIMIT: The 2025 FCRA Rules changes are procedural; India still has no",
+            "  comprehensive general lobbying-registration or lobbying-disclosure statute."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-44\\g6-source\\polity-44_g6-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\44_Pressure-Groups.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g7\\polity-44_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

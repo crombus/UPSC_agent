@@ -189,3 +189,47 @@ existence depends on the Assembly.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional map:** Article 168 permits one or two Houses with the Governor
+  as a component of the legislature. Articles 169-177 govern creation,
+  composition, duration, qualification and participation; Articles 178-187
+  officers; Articles 188-212 oath, voting, disqualification, privileges,
+  legislation, finance, procedure and judicial non-interference.
+- **Article 169 route:** the Assembly first resolves by a majority of total
+  membership plus two-thirds present and voting; Parliament then creates or
+  abolishes the Council by ordinary law and simple majority. The resulting law is
+  expressly not an Article 368 constitutional amendment.
+- **Composition:** the Assembly is directly elected and normally has 60-500
+  members subject to special provisions. A Council may not exceed one-third of
+  Assembly strength and ordinarily has at least forty members; Article 171's
+  local-body, graduate, teacher, MLA and nominated fractions must remain exact.
+- **Duration and officers:** the Assembly normally lasts five years and may be
+  dissolved; the Council is permanent with one-third retiring every second year.
+  Speaker/Deputy Speaker and Chairman/Deputy Chairman have distinct removal,
+  vacancy, casting-vote and continuity rules.
+- **Bicameral inequality:** Article 197 allows a Council to delay an ordinary Bill
+  for three months and then one month after Assembly repassage. There is no State
+  joint sitting. A Council-originated Bill rejected by the Assembly ends.
+- **Finance firewall:** Money Bills originate only in the Assembly, receive a
+  fourteen-day recommendatory Council review and Speaker certification. Article
+  207(1) mixed financial Bills and Article 207(3) expenditure Bills are distinct;
+  neither category becomes a Money Bill merely because expenditure is involved.
+- **Lapse and procedure:** prorogation does not lapse Bills; Council-only pending
+  Bills survive Assembly dissolution; Assembly-pending and Assembly-passed/
+  Council-pending Bills lapse. Article 212 protects procedural irregularity, not
+  substantive illegality or unconstitutionality.
+- **Presiding-officer review:** Kihoto Hollohan makes the Speaker a Tenth-Schedule
+  tribunal subject to review. Keisham Meghachandra supplies the ordinarily
+  three-month norm; Padi Kaushik Reddy (31 July 2025) directed the Telangana
+  Speaker to conclude ten pending petitions within three months and confirms that
+  Articles 122/212 immunity does not attach to Paragraph 6 adjudication.
+- **Current representation control:** Andhra Pradesh, Bihar, Karnataka,
+  Maharashtra, Telangana and Uttar Pradesh retain Councils. The 106th Amendment
+  commenced on 16 April 2026 but reservation remains dormant until the Article
+  334A census-publication-delimitation sequence. Census 2027 reference dates are
+  notified; publication and delimitation dates are not.
+- **Four-ledger/PYQ control:** all direct and routed 2018-2025 Council,
+  presiding-officer, Bill, finance and assent demands were retained. Parliament's
+  Union procedure and the Governor's executive doctrine remain cross-owned.

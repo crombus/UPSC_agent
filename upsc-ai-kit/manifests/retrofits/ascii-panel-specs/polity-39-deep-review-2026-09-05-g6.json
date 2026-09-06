@@ -1,0 +1,347 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "polity-36-40-hostile-semantic-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "polity_legal_source_hierarchy": true,
+    "manually_authored_twelve_panels": true
+  },
+  "topics": [
+    {
+      "topic_key": "polity-39",
+      "display_title": "Cooperative Societies",
+      "active_generation": 6,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g6\\polity-39_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Cooperative identity, principles and evolution",
+          "structural_type": "identity-evolution-map",
+          "ascii_lines": [
+            "ROOT QUESTION",
+            "How can member-owned enterprise combine democratic control with commercial discipline?",
+            "",
+            "CORE IDENTITY",
+            "voluntary association + member ownership + one-member democratic voice + shared benefit.",
+            "",
+            "SEVEN PRINCIPLES",
+            "voluntary/open membership | democratic control | member economic participation",
+            "| autonomy | education | cooperation among cooperatives | community concern.",
+            "",
+            "EVOLUTION",
+            "1904 credit law -> 1912 general law -> provincial/State field -> 97th Amendment.",
+            "",
+            "FEDERAL LOCATION",
+            "Entry 32: State cooperatives | Entry 44: multi-State corporations | Entry 45: banking.",
+            "",
+            "LIMIT",
+            "international principles guide interpretation; applicable Indian law controls outcomes.",
+            "MUST REMEMBER: Preserve the post-Union of India v. Rajendra N. Shah (2021) split: State-field",
+            "  cooperatives remain under Entry 32 and State law; Part IXB survives for the multi-State",
+            "  field."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\39_Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g6\\polity-39_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Federal competence and the 97th Amendment",
+          "structural_type": "federal-competence-map",
+          "ascii_lines": [
+            "ENTRY 32, STATE LIST",
+            "State-field cooperatives: State law and Registrar.",
+            "",
+            "ENTRY 44, UNION LIST",
+            "corporations with objects not confined to one State: MSCS field.",
+            "",
+            "97TH AMENDMENT",
+            "Article 19(1)(c) + Article 43B + Part IXB.",
+            "Formation freedom is subject to Article 19(4); Article 43B is a DPSP."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\39_Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g6\\polity-39_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Union of India v. Rajendra N. Shah (2021): severability",
+          "structural_type": "case-severability-flow",
+          "ascii_lines": [
+            "Union of India v. Rajendra N. Shah (2021)",
+            "Part IXB altered the State legislative field without half-State ratification.",
+            "",
+            "MAJORITY RESULT",
+            "State-field application invalid | Article 19(1)(c) and Article 43B survive.",
+            "Article 243ZR permits severance for the valid multi-State field.",
+            "",
+            "UT NUANCE",
+            "MSCS operations in UTs survive; a society confined within one UT is not automatically covered."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\39_Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g6\\polity-39_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Part IXB board and election design",
+          "structural_type": "board-election-matrix",
+          "ascii_lines": [
+            "243ZJ",
+            "maximum twenty-one directors | five-year term | conditional reserved seats",
+            "| limited expert co-option | functional directors separately treated.",
+            "",
+            "243ZK",
+            "election before term expiry; vacancy election within statutory period.",
+            "",
+            "CONTROL",
+            "These rules now operate only in the constitutionally valid multi-State field."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\39_Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g6\\polity-39_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Supersession, audit and returns",
+          "structural_type": "compliance-clock",
+          "ascii_lines": [
+            "243ZL",
+            "limited grounds | ordinarily six months | banking cooperative ceiling differs.",
+            "No supersession where no government share, loan, aid or guarantee.",
+            "",
+            "243ZM",
+            "audit within six months.",
+            "",
+            "243ZN-243ZP",
+            "meetings, member information and returns within statutory clocks.",
+            "243ZQ identifies offence families."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\39_Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g6\\polity-39_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "State societies and multi-State societies",
+          "structural_type": "regime-comparison",
+          "ascii_lines": [
+            "STATE-FIELD SOCIETY",
+            "Entry 32 | State Act/rules/bye-laws | State Registrar.",
+            "",
+            "MULTI-STATE COOPERATIVE SOCIETY",
+            "Entry 44 | MSCS Act 2002 | Central Registrar | surviving Part IXB field.",
+            "",
+            "TRAP",
+            "operating in several districts is not the same as statutory multi-State status.",
+            "CLOSE DISTINCTION: Do not merge the Ministry, CRCS, Election Authority, Ombudsman, RBI,",
+            "  NABARD, representative federations or operating cooperative societies."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\39_Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g6\\polity-39_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "MSCS Amendment 2023 institutions",
+          "structural_type": "statutory-reform-map",
+          "ascii_lines": [
+            "CO-OPERATIVE ELECTION AUTHORITY",
+            "conducts board elections under the amended statute.",
+            "",
+            "CO-OPERATIVE OMBUDSMAN",
+            "member grievance and appeal functions.",
+            "",
+            "CO-OPERATIVE INFORMATION OFFICER",
+            "member information route with reasoned response.",
+            "",
+            "OTHER CONTROLS",
+            "concurrent audit | conflict rules | rehabilitation, reconstruction and development fund."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\39_Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g6\\polity-39_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Ministry, Central Registrar and policy boundary",
+          "structural_type": "institution-policy-map",
+          "ascii_lines": [
+            "MINISTRY OF COOPERATION",
+            "executive-policy coordination; does not transfer Entry 32 competence.",
+            "",
+            "CENTRAL REGISTRAR",
+            "registration, regulation and winding-up functions under the MSCS Act.",
+            "",
+            "CRCS INSTITUTIONS",
+            "Election Authority and Ombudsman publish current official processes.",
+            "Use dated official data; do not freeze dashboard counts.",
+            "",
+            "CURRENT POLICY CONTROL: 5 SEPTEMBER 2026",
+            "National Cooperation Policy 2025 was launched on 24 July 2025.",
+            "Its governance, professionalisation, digital, market, finance and",
+            "inclusion programme is policy; Entry 32 and State-law variation remain."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\39_Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g6\\polity-39_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Cooperative banking regulation",
+          "structural_type": "multi-regulator-grid",
+          "ascii_lines": [
+            "INSTITUTIONS",
+            "Ministry -> Union policy/allocated business.",
+            "CRCS -> MSCS statutory administration.",
+            "State Registrar -> State-law administration.",
+            "NCDC -> statutory development finance.",
+            "NCUI/representative body -> advocacy, education and coordination.",
+            "Operating cooperative -> member-owned enterprise, not regulator.",
+            "",
+            "BANKING OVERLAY",
+            "incorporation/governance law + Banking Regulation Act/RBI",
+            "| NABARD supervision for specified rural cooperative banks",
+            "| PACS boundary must not be erased.",
+            "",
+            "EXAMPLES",
+            "dairy pooling | credit access | agricultural marketing | collective input/procurement.",
+            "",
+            "TRAP",
+            "credit, dairy and agricultural cooperatives do not share one prudential regulator."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\39_Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g6\\polity-39_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Article 12, Article 226 and RTI tests",
+          "structural_type": "status-test-tree",
+          "ascii_lines": [
+            "ARTICLE 12",
+            "instrumentality/control test; registration or aid alone is insufficient.",
+            "",
+            "ARTICLE 226",
+            "writ may follow a public duty even without Article 12 status.",
+            "",
+            "RTI",
+            "section 2(h) control or substantial-finance test is separate.",
+            "",
+            "Thalappalam Service Cooperative Bank (2013)",
+            "substantial finance/control requires evidence, not assumption."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\39_Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g6\\polity-39_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Governance failures and reform sequence",
+          "structural_type": "governance-reform-balance",
+          "ascii_lines": [
+            "Thalappalam Service Cooperative Bank (2013)",
+            "registration and ordinary Registrar control did not automatically create RTI public authority.",
+            "",
+            "THREE DIFFERENT TESTS",
+            "Article 12 State | Article 226 public duty | RTI section 2(h) public authority.",
+            "",
+            "FAILURE CHAIN",
+            "political capture -> delayed elections -> weak audit -> connected lending",
+            "-> member apathy -> losses -> State rescue -> reduced autonomy.",
+            "",
+            "REFORM CHAIN",
+            "timely elections + fit expertise + independent audit + member information",
+            "-> digital but inclusive records + regulator coordination + proportionate intervention.",
+            "",
+            "VERDICT",
+            "autonomy without accountability permits capture; control without autonomy kills cooperation."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\39_Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g6\\polity-39_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "UPSC traps, PYQs and answer synthesis",
+          "structural_type": "exam-synthesis-ladder",
+          "ascii_lines": [
+            "PRELIMS FIREWALL",
+            "Part IXB not uniform for all State cooperatives | Article 43B is DPSP",
+            "| right to form != right to State aid | Entry 32 != Entry 44",
+            "| Ministry != Registrar | RBI != every governance function",
+            "| scheduled constitutional text != enforceable State-field command after 2021.",
+            "",
+            "ADJACENT VERIFIED ROUTES",
+            "2020 DCCB | 2021 UCB | 2023 Small Farmer Large Field.",
+            "They remain Economy/agriculture routes, not invented direct Polity PYQs.",
+            "",
+            "MAINS SPINE",
+            "identity/principles -> federal competence -> 97th Amendment",
+            "-> Union of India v. Rajendra N. Shah (2021) -> State/MSCS regimes -> 2023 accountability",
+            "-> banking coordination -> member-centric professionalisation.",
+            "",
+            "CONCLUSION",
+            "valid reform is cooperative in both enterprise form and federal method.",
+            "LEGAL/SOURCE LIMIT: The MSCS Amendment Act and Rules, 2023 remain operative; National",
+            "  Cooperation Policy 2025 is policy, not a transfer of legislative competence."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\polity-39_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\39_Cooperative-Societies.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g6\\polity-39_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

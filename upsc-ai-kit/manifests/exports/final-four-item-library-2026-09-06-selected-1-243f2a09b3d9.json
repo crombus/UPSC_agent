@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T06:17:34+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\environment-and-ecology-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "d62401ce030d987f6e040160135b07c9bf7a5571c4be7339667fcac4b7967154",
+    "sha256_after": "d62401ce030d987f6e040160135b07c9bf7a5571c4be7339667fcac4b7967154",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Environment and Ecology": 1
+  },
+  "sections": {
+    "Environment and Ecology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11289,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1930,
+    "json_count": 5134,
+    "total_bytes": 4272463678,
+    "by_extension": {
+      ".json": 5134,
+      ".md": 1930,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-15",
+      "topic_title": "Solid Plastic and E-Waste Rules",
+      "subject": "Environment and Ecology",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 15,
+      "source_record_id": "environment-and-ecology-15:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\15-Solid-Plastic-and-E-Waste-Rules",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-15\\g4\\environment-and-ecology-15_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\15-Solid-Plastic-and-E-Waste-Rules\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "e36eeac1f0f28412b49649efb3e82df1e4bbf1b659f6e06f5e7eff11e2c4b079",
+          "output_sha256": "e36eeac1f0f28412b49649efb3e82df1e4bbf1b659f6e06f5e7eff11e2c4b079",
+          "source_output_equal": true,
+          "bytes": 655617
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-15\\g4\\environment-and-ecology-15_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\15-Solid-Plastic-and-E-Waste-Rules\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "f6f3de5cf669c1f002b4af64aa470535a33d003a5e1e33d10a1005d6174a3977",
+          "output_sha256": "f6f3de5cf669c1f002b4af64aa470535a33d003a5e1e33d10a1005d6174a3977",
+          "source_output_equal": true,
+          "bytes": 496157
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-15\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\15-Solid-Plastic-and-E-Waste-Rules\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "6c0329ca4a8ff1f5d834a28d93c85cbe1178842d28fab837bf2f51f5a9fe6d16",
+          "output_sha256": "6c0329ca4a8ff1f5d834a28d93c85cbe1178842d28fab837bf2f51f5a9fe6d16",
+          "source_output_equal": true,
+          "bytes": 2010505
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-15\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\15-Solid-Plastic-and-E-Waste-Rules\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "1c41e0201260a5a35a60c7bea7053dbf31ce6f7a6b22c405cb7bed8aefc64750",
+          "output_sha256": "1c41e0201260a5a35a60c7bea7053dbf31ce6f7a6b22c405cb7bed8aefc64750",
+          "source_output_equal": true,
+          "bytes": 2453303
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-15\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\15-Solid-Plastic-and-E-Waste-Rules\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "3af954f18e1ba559b94a90631e9c44f99a048181765127b31ecfd9420076dfbc",
+          "output_sha256": "3af954f18e1ba559b94a90631e9c44f99a048181765127b31ecfd9420076dfbc",
+          "source_output_equal": true,
+          "bytes": 1788953
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-15\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\15-Solid-Plastic-and-E-Waste-Rules\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "86574a3ff3d8e926fcae7889473475417acabbf3ef999e76fafbb4fe5a39d609",
+          "output_sha256": "86574a3ff3d8e926fcae7889473475417acabbf3ef999e76fafbb4fe5a39d609",
+          "source_output_equal": true,
+          "bytes": 3835
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-15\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\15-Solid-Plastic-and-E-Waste-Rules\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "c93b4188d800d62466ad4525f5c4758f7ed552d94cb84bd8b7edc070ad2b59e3",
+          "output_sha256": "c93b4188d800d62466ad4525f5c4758f7ed552d94cb84bd8b7edc070ad2b59e3",
+          "source_output_equal": true,
+          "source_text_sha256": "86574a3ff3d8e926fcae7889473475417acabbf3ef999e76fafbb4fe5a39d609",
+          "normalized_text_equal": true,
+          "bytes": 56445
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 7,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 6,
+            "maximum_line_characters": 51,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 6,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 6,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 6,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 7,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 6,
+            "maximum_line_characters": 51,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 6,
+            "maximum_line_characters": 52,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 51,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 65,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 84,
+        "solved_practice_workbook": 47,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 84,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 47,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10562
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

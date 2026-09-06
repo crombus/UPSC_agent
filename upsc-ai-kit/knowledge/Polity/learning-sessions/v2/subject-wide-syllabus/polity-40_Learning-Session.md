@@ -2,15 +2,15 @@
 
 **Complete independent learning session + verified PYQ + solved practice workbook + final consolidated register notes**
 
-**Legal/current control date:** 25 August 2026 (Asia/Kolkata)
+**Legal/current control date:** 5 September 2026 (Asia/Kolkata)
 
 > **Tag key:** `[FACT]` = directly supported by a named constitutional, statutory, official, judicial or audited local source; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked against official material for the control date; `[LIMIT]` = qualification, unresolved issue or deliberately unfrozen fact.
 >
 > **Answer-writing discipline:** claim -> named evidence -> analysis -> qualification.
 
-- [CURRENT] Status is controlled to **25 August 2026, Asia/Kolkata**.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
 
-- [CURRENT] **Live official refresh, 25 August 2026:** The Constitution as on 1 May 2026, Official Languages Act and Rules, Committee portal, Eighth Schedule and official classical-language material were rechecked on 25 August 2026. The Constitution still lists 22 scheduled languages; October 2024 classical recognition remains a separate executive-status anchor.
+- [CURRENT] **Live official refresh, 5 September 2026:** The Constitution as on 1 May 2026, Official Languages Act and Rules, Committee portal, Eighth Schedule and official classical-language material were rechecked on 5 September 2026. The Constitution still lists 22 scheduled languages; October 2024 classical recognition remains a separate executive-status anchor.
 #### How to Use This Package
 
 [FACT] The package begins with the certified local Polity owners and then controls the operative law against the Legislative Department’s official Constitution of India consolidation, the Department of Official Language’s consolidated Official Languages Act and Rules, the official constitutional-amendment texts, the Committee of Parliament on Official Language portal, and official linguistic-minority material.
@@ -1323,10 +1323,10 @@ SOURCE TEXT
 
 [LIMIT] General-information translations and AI-generated summaries must never be presented as authoritative judgments or statutes unless the legally competent authority has conferred that status.
 
-### 20. Current Controls as on 25 August 2026
+### 20. Current Controls as on 5 September 2026
 
-Current Controls as on 25 August 2026 denotes the constitutional rules and institutional links organised around Question Controlled current position.
-Current Controls as on 25 August 2026 operates through National language declared? No, connected with Union official language? Hindi in Devanagari, Article 343.
+Current Controls as on 5 September 2026 denotes the constitutional rules and institutional links organised around Question Controlled current position.
+Current Controls as on 5 September 2026 operates through National language declared? No, connected with Union official language? Hindi in Devanagari, Article 343.
 The operative mechanism matters because english continuation? Operative under Official Languages Act section 3.
 Its principal consequence is that eighth-Schedule count? 22.
 The decisive contrast is between Latest listed change? Oriya renamed Odia by 96th Amendment, effective 23-09-2011 and Rules portal status? Rules shown as amended in 1987, 2007 and 2011.
@@ -1563,6 +1563,53 @@ The exam-safe limitation is that select the correct answer using the code given 
 
 [ANALYSIS] The cases show that language policy is controlled by competence, rights,
 minority context and proportionality, not by a single hierarchy of "national" languages.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional status:** Part XVII contains Articles 343-351. Article 343
+  makes Hindi in Devanagari script the official language of the Union and uses
+  the international form of Indian numerals. The Constitution does not declare
+  any national language.
+- **Union settlement:** Article 343(2)'s initial fifteen-year continuation of
+  English was followed by Parliament's Official Languages Act, 1963. Section 3,
+  substituted in 1967, permits English to continue in addition to Hindi and
+  protects Union communication with non-Hindi States through its provisos and
+  section 3(5) consent lock.
+- **Commission/committee distinction:** Article 344 provides the constitutional
+  Commission and parliamentary committee sequence. The continuing Committee of
+  Parliament on Official Language is the thirty-member statutory committee
+  under section 4 of the 1963 Act, not a permanent Article 344 Commission.
+- **Current institutional snapshot, checked 5 September 2026:** the official
+  Committee portal identifies Union Home Minister Amit Shah as Chairperson and
+  displays the thirteenth part of its report. Recommendations or Presidential
+  directions cannot override section 3.
+- **State variation:** Article 345 permits a State legislature to adopt one or
+  more languages in use in the State or Hindi. Articles 346-347 govern
+  intergovernmental communication and recognition of a language spoken by a
+  substantial section. No single State-language template can be universalised.
+- **Courts and authoritative texts:** Article 348 retains English for Supreme
+  Court and High Court proceedings and authoritative legal texts until valid
+  legal change. Article 348(2) and section 7 allow bounded High Court use of
+  Hindi/a State official language with prior Presidential consent and an
+  authoritative English translation of judgments, decrees and orders.
+- **Citizen/minority/development provisions:** Article 350 protects grievance
+  representation in any language used in the Union or State; Articles 350A and
+  350B concern primary-stage mother-tongue facilities and the Special Officer
+  for linguistic minorities; Article 351 directs development of Hindi while
+  drawing on India's composite culture.
+- **Rules:** the Official Languages (Use for Official Purposes of the Union)
+  Rules, 1976 are displayed by the Department as amended in 1987, 2007 and
+  2011. They divide administration into Regions A/B/C and expressly exclude
+  Tamil Nadu from their territorial extent. Rules do not amend Part XVII.
+- **Separate categories:** the Eighth Schedule contains twenty-two languages.
+  Scheduled status does not itself make a language official everywhere.
+  Classical-language status and the three-language formula are separate
+  executive/education-policy categories; October 2024 recognition brought the
+  then official classical-language count to eleven.
+- **Case/PYQ firewall:** Gujarat University, D.A.V. College and Associated
+  Management control competence, minority safeguards and educational choice;
+  none declares a national language. The routed 2024 Prelims constitutional-
+  amendment demand is retained; current proposals are not treated as enacted.
 
 ## BASIC MCQS / REMEDIATION
 
@@ -2542,7 +2589,7 @@ Hindi-Devanagari + international numerals
 | Composition | 20 LS + 10 RS, PR-STV | 20 LS + 10 RS, PR-STV |
 | Legal limit | Opinion is not an amendment | Directions after report cannot contradict section 3 |
 
-- [CURRENT] The official committee portal displayed the **thirteenth part** of its report by 25 August 2026.
+- [CURRENT] The official committee portal displayed the **thirteenth part** of its report by 5 September 2026.
 - [LIMIT] A committee report cannot itself end English use, add a scheduled language or amend Article 343.
 
 ### Articles 345-347 — State autonomy, communication and recognition
@@ -2760,7 +2807,7 @@ correction log + user access
 - [ANALYSIS] Risks: mistranslated qualifiers, version drift, authority confusion, low-resource-language bias and privacy loss.
 - [LIMIT] General summaries may aid comprehension but must identify the controlling judgment/statute and cannot substitute it.
 
-### Current control dashboard — 25 August 2026
+### Current control dashboard — 5 September 2026
 
 - [CURRENT] Legislative Department Constitution consolidation checked: **as on 1 May 2026**.
 - [CURRENT] Eighth Schedule: **22 languages**.

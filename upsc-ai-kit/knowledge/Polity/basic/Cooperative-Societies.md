@@ -118,3 +118,47 @@ BBSSL** and PACS computerisation.
 - ✅ **Ministry of Cooperation (July 2021)** is an **executive act**; do not describe it as constitutional or statutory.
 - ⚠️ Do not say the whole 97th Amendment was struck down, or place co-operatives in the Union List, or call Art 43-B a Fundamental Right.
 - 📰 Governance bodies (NCOL, NCEL, BBSSL) and PACS computerisation are administrative initiatives — verify current status before dating any figures or coverage claims.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Federal map:** State-field cooperative societies belong principally to
+  Entry 32, State List and the respective State cooperative law. Corporations
+  whose objects are not confined to one State fall under Entry 44, Union List
+  and the Multi-State Co-operative Societies Act, 2002.
+- **97th Amendment:** the Constitution (Ninety-seventh Amendment) Act, 2011
+  inserted cooperative societies into Article 19(1)(c), inserted Article 43B,
+  and added Part IXB, Articles 243ZH-243ZT. It came into force on 15 February 2012.
+- **Rajendra N. Shah control:** the Supreme Court's 2021 majority invalidated
+  Part IXB insofar as it governed ordinary State-field cooperatives because the
+  amendment lacked State ratification under Article 368(2). Article 19(1)(c),
+  Article 43B and Part IXB's multi-State operation survive; the whole 97th
+  Amendment was not struck down.
+- **Part IXB content:** within its surviving field it regulates incorporation,
+  board composition and five-year tenure, elections before expiry,
+  supersession limits, audit, returns, offences and member information, subject
+  to the Constitution's own banking and no-government-finance qualifications.
+- **Current central statute:** the MSCS Act, 2002 as amended in 2023 and the
+  amended rules govern multi-State societies. The 2023 architecture includes a
+  Co-operative Election Authority, Co-operative Ombudsman, Co-operative
+  Information Officer, concurrent-audit controls and the Cooperative
+  Rehabilitation, Reconstruction and Development Fund.
+- **Appointments and institutions:** the Central Government appoints the
+  Central Registrar under section 4 and constitutes/appoints the statutory
+  central election, ombudsman and other mechanisms under the amended Act.
+  State Registrars derive authority from State Acts. These offices are not the
+  Election Commission of India, RBI or an operating cooperative.
+- **Banking overlay:** registration under cooperative law and banking
+  regulation are separate. RBI/Banking Regulation Act supervision applies to
+  banking functions; NABARD and financing institutions have distinct roles.
+  A PACS is not automatically a banking company for every legal purpose.
+- **Status tests:** Daman Singh addresses the statutory character of cooperative
+  membership; Thalappalam holds that registration and ordinary regulatory
+  control alone do not automatically make a society an RTI public authority.
+  Article 12 and Article 226 tests remain fact-sensitive.
+- **Current policy control:** National Cooperation Policy 2025, launched
+  24 July 2025, is a policy framework for governance, professionalisation,
+  digitalisation, market linkages, finance, inclusion and sustainability. It
+  does not transfer Entry 32 competence or erase State-law variation.
+- **PYQ firewall:** adjacent 2020 DCCB, 2021 UCB and 2023 cooperative-production
+  objective demands are retained as cross-owned banking/agriculture routes.
+  No direct Polity Mains PYQ is fabricated.

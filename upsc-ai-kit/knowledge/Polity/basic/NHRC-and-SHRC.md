@@ -29,7 +29,7 @@ List matters; it does not mean every state necessarily has a functioning commiss
 - ✅ **Human Rights Courts** in each district (with HC Chief Justice's concurrence).
 
 ## 📰 Current link
-📰 ✅ **Status checked 21 Jul 2026:** NHRC's official site continues to describe India as
+📰 ✅ **Status checked 5 Sep 2026:** NHRC's official site continues to describe India as
 holding GANHRI **A-status** while the review cycle remains unresolved; no official downgrade
 decision has been published. Independence, pluralism and reliance on police investigators remain
 reform concerns, but a proposed/recommended downgrade must not be reported as an accomplished fact.
@@ -100,7 +100,7 @@ reform concerns, but a proposed/recommended downgrade must not be reported as an
 ### 5.6 Bank C — Paris Principles, accreditation and the independence question
 
 - **Claim:** the benchmark for a National Human Rights Institution is the **Paris Principles** (adopted by the UN General Assembly, **1993**), not domestic satisfaction. **Evidence:** they require a **broad mandate anchored in statute/constitution, pluralist composition, independence, adequate powers of investigation and adequate funding**. **Significance:** they are the yardstick every reform answer should cite. **Limitation:** they are **international standards**, not binding Indian law.
-- **Claim:** compliance is externally assessed. **Evidence:** the **Global Alliance of National Human Rights Institutions (GANHRI)** accredits NHRIs as **A/B/C** against the Paris Principles; India's NHRC holds **A-status**. **Significance:** accreditation status is the objective evidence a reform answer needs. 📰 **Status checked 21 Jul 2026:** the NHRC's official site continues to describe India as holding **A-status** while a review cycle remains unresolved; **no official downgrade has been published** — a proposed/deferred review must not be written up as a completed downgrade.
+- **Claim:** compliance is externally assessed. **Evidence:** the **Global Alliance of National Human Rights Institutions (GANHRI)** accredits NHRIs as **A/B/C** against the Paris Principles; India's NHRC holds **A-status**. **Significance:** accreditation status is the objective evidence a reform answer needs. 📰 **Status checked 5 Sep 2026:** the NHRC's official site continues to describe India as holding **A-status** while a review cycle remains unresolved; **no official downgrade has been published** — a proposed/deferred review must not be written up as a completed downgrade.
 - **Claim:** India's structural gaps map onto specific Paris heads. **Evidence:** a former-judge/bureaucrat-heavy membership (pluralism gap), reliance on **police/deputationist investigators** (independence-of-investigation gap) and executive control of budget/appointments (autonomy gap). **Significance:** this turns a vague "toothless" charge into a diagnosable, remediable list. **Limitation:** ⚠️ these are analytical inferences from the design, to be argued rather than asserted as official findings.
 
 ### 5.7 Bank D — Umbrella vs specialised commissions (routed 2018 demand)
@@ -166,7 +166,7 @@ reform concerns, but a proposed/recommended downgrade must not be reported as an
 - ✅ The **2019 Amendment** *reduced* NHRC/SHRC tenure from **5 to 3 years** and *widened* eligibility (SC judge for NHRC chair; HC judge for SHRC chair) and added deemed members — **get the direction of change right**: tenure went down, eligibility widened.
 - ✅ **Removal of both NHRC and SHRC members is by the President** after a Supreme Court inquiry; do not attribute SHRC removal to the Governor.
 - ✅ Recommendations are **advisory**; the government must **respond within one month** but is not bound to comply.
-- 📰 On **GANHRI accreditation**, use the controlling position: **A-status stands and no official downgrade has been published** (checked 21 Jul 2026) — do not report a review or recommendation as a completed downgrade.
+- 📰 On **GANHRI accreditation**, use the controlling position: **A-status stands and no official downgrade has been published** (checked 5 Sep 2026) — do not report a review or recommendation as a completed downgrade.
 - ⚠️ Do not fabricate case-counts, pendency figures or a national tally of functioning SHRCs; state the mechanism and flag the number as variable.
 - ⚠️ Reform ideas (enforceable recommendations, removing the one-year bar, widening the armed-forces mandate) are **proposals, not enacted law** — mark them as such.
 
@@ -192,3 +192,42 @@ reform concerns, but a proposed/recommended downgrade must not be reported as an
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Legal status and latest law:** NHRC and SHRCs are statutory bodies under the
+  Protection of Human Rights Act, 1993. The 2019 amendment remains the latest
+  located amendment affecting composition and tenure on 5 September 2026.
+- **NHRC statutory composition:** section 3 provides a Chairperson who has been
+  CJI or a Supreme Court judge; one serving/former Supreme Court judge; one
+  serving/former High Court Chief Justice; and three human-rights experts, at
+  least one a woman. Seven named office-holders participate as deemed members
+  for section 12(b)-(j), not section 12(a) complaint inquiries.
+- **Current public roster:** the official NHRC composition page rechecked on
+  5 September 2026 displays Chairperson Justice V. Ramasubramanian and Members
+  Justice (Dr) Bidyut Ranjan Sarangi, Vijaya Bharathi Sayani and Priyank
+  Kanoongo. No occupant is inferred for a statutory seat not displayed.
+- **Appointment and tenure:** the President appoints NHRC members after the
+  statutory six-member committee recommendation. The Governor appoints SHRC
+  members after the State committee recommendation. The post-2019 term is
+  three years or age seventy, whichever is earlier, with reappointment allowed.
+- **Removal:** the President removes both NHRC and SHRC members. Proved
+  misbehaviour or incapacity follows the statutory Supreme Court inquiry route;
+  direct statutory grounds remain separate.
+- **Functions and powers:** section 12 covers inquiries, court intervention with
+  approval, institution visits, safeguard review, treaty study, research,
+  literacy and NGO encouragement. Section 13 civil-court powers and section 14
+  investigative assistance support fact-finding, not adjudication.
+- **Limits:** section 18 outputs are recommendations, including relief,
+  prosecution/action or approaching constitutional courts; they are not
+  self-executing decrees. Section 19 substitutes a report-based armed-forces
+  route. Section 36 bars duplicate inquiries and retains the one-year limit.
+- **SHRC boundary:** a State may constitute an SHRC for State/Concurrent-list
+  matters. The chair qualification, smaller ordinary membership and State
+  selection committee differ, while President-only removal remains a federal safeguard.
+- **International status:** the March 2025 GANHRI SCA recommendation and India's
+  challenge remain distinct from a final alteration. GANHRI lists alteration
+  of India's accreditation for a November 2026 session; do not report a
+  completed downgrade on the 5 September 2026 control date.
+- **PYQ firewall:** direct 2018 umbrella-commission and 2021 limitations/remedies
+  demands are owned here; constitutional SC/ST/BC commissions remain Topic 31.

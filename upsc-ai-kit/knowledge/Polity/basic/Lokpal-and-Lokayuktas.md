@@ -191,3 +191,48 @@ unsettled, not a final expansion of Lokpal power.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Status and source:** Lokpal is a statutory body under the Lokpal and
+  Lokayuktas Act, 2013 (Act 1 of 2014), read with the 2016 amendment, Complaint
+  Rules, 2020 and applicable administrative/recruitment rules. It is neither a
+  constitutional court nor a general grievance commission.
+- **Current roster, checked 5 September 2026:** Justice Ajay Manikrao
+  Khanwilkar is Chairperson. The official present-member pages list judicial
+  members Justice L. Narayana Swamy, Justice Sanjay Yadav and Justice Ritu Raj
+  Awasthi, and members Sushil Chandra, Pankaj Kumar and Ajay Tirkey. No occupant
+  is invented for an unfilled statutory seat.
+- **Composition and representation:** Chairperson plus not more than eight
+  Members; at least fifty per cent of Members are judicial, and at least fifty
+  per cent of Members must collectively come from the named SC/ST/OBC/minority/
+  women categories. The representation rule does not add seats.
+- **Selection and tenure:** the statutory selection committee is PM, Lok Sabha
+  Speaker, LoP, CJI/nominee and eminent jurist. A Search Committee assists.
+  The President appoints. Term is five years or age seventy, whichever is
+  earlier, without reappointment; statutory removal safeguards apply.
+- **Jurisdiction:** covered persons include the PM subject to special filters,
+  Union Ministers, MPs, Groups A-D officials, former covered public servants
+  and qualifying government-linked/donation/foreign-contribution entities.
+  Parliamentary speech and vote remain constitutionally protected.
+- **Prime-Minister safeguards:** excluded subject matters, full-bench
+  screening, two-thirds approval, in-camera proceedings and confidentiality
+  qualify the ordinary complaint route. Coverage is not equivalent to an
+  unrestricted investigation power.
+- **Process and powers:** complaint scrutiny may lead to preliminary inquiry or
+  investigation, followed by disciplinary, sanction or prosecution directions
+  within the Act. The Inquiry and Prosecution Wings, CVC and CBI remain distinct;
+  guilt and punishment belong to the Special Court.
+- **Limits:** the Act does not create a general suo-motu grievance power; the
+  seven-year limitation, statutory procedure, natural justice and judicial
+  review remain. The 2016 asset-return amendment must not be confused with
+  restoration of the original public-disclosure form.
+- **Judges and State variation:** the Supreme Court stayed the Lokpal's
+  27 January 2025 High Court-judge jurisdiction order on 20 February 2025; no
+  final merits proposition is asserted. Section 63 requires State establishment,
+  but each Lokayukta's composition, appointment, jurisdiction and powers depend
+  on its own State law.
+- **PYQ/case firewall:** Common Cause (2017) prevented implementation delay;
+  Lok Prahari concerns electoral disclosure; Sita Soren (2024) rejects
+  bribery immunity under legislative privilege. The direct 2025 Prelims Lokpal
+  composition/jurisdiction demand is owned here; no direct Mains PYQ is invented.

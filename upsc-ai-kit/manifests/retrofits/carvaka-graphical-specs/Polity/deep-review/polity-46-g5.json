@@ -1,0 +1,1284 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-46",
+  "subject": "Polity",
+  "title": "ADMINISTRATIVE TRIBUNALS",
+  "short_route": "TRIBUNALISATION: SPECIALIST JUSTICE UNDER → ARTICLES 323A AND 323B → CAT JURISDICTION AND STATUTORY → CAT AND SAT INSTITUTIONAL → APPLICATION, PROCEDURE, POWERS AND → L. CHANDRA KUMAR (1997)",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-46-deep-review-2026-09-05-g5.json",
+  "ascii_spec_sha256": "9446e390b2cad09a30e3133b2c4f390330cbd8634d85e49cbe202f91c394dd5e",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TRIBUNALISATION: SPECIALIST JUSTICE UNDER CONSTITUTIONAL SUPERVISION",
+      "structural_type": "tribunal-purpose-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SPECIALIST JUSTICE UNDER CONSTITUTIONAL SUPERVISION",
+          "role": "primary"
+        },
+        {
+          "text": "ROOT QUESTION",
+          "role": "outcome"
+        },
+        {
+          "text": "CAN SPECIALIST ADJUDICATION IMPROVE ACCESS AND SPEED WITHOUT CREATING",
+          "role": "comparison"
+        },
+        {
+          "text": "RATIONALE EXPERTISE",
+          "role": "evidence"
+        },
+        {
+          "text": "FLEXIBLE PROCEDURE",
+          "role": "primary"
+        },
+        {
+          "text": "HIGH-VOLUME DISPOSAL",
+          "role": "outcome"
+        },
+        {
+          "text": "GEOGRAPHICAL ACCESS",
+          "role": "comparison"
+        },
+        {
+          "text": "LOWER COST.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROOT QUESTION",
+        "Can specialist adjudication improve access and speed without creating executive-controlled courts?",
+        "RATIONALE expertise",
+        "flexible procedure",
+        "high-volume disposal"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ROOT QUESTION",
+            "Can specialist adjudication improve access and speed without creating executive-controlled courts?",
+            "RATIONALE expertise",
+            "flexible procedure"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "high-volume disposal",
+            "geographical access",
+            "lower cost.",
+            "CONSTITUTIONAL SOURCE"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "42nd Amendment 1976 → Part XIVA → Articles 323A and 323B.",
+            "STATUTORY SOURCE",
+            "Administrative Tribunals Act 1985 → CAT and enabled SAT arrangements.",
+            "NON-NEGOTIABLE FLOOR judicial independence + natural justice + reasoned order"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "High Court/Supreme Court constitutional review.",
+            "MUST REMEMBER: Keep Article 323A administrative tribunals, Article 323B subject",
+            "tribunals and the Administrative Tribunals Act, 1985 institutionally distinct."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Keep Article 323A administrative tribunals, Article 323B subject tribunals and the Administrative Tribunals Act, 1985 institutionally distinct.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ARTICLES 323A AND 323B COMPARED",
+      "structural_type": "323a-323b-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ARTICLES 323A AND 323B COMPARED",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 323A PUBLIC-SERVICE RECRUITMENT AND SERVICE CONDITIONS.",
+          "role": "institution"
+        },
+        {
+          "text": "ADMINISTRATIVE-TRIBUNAL DESIGN.",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 323B LISTED SUBJECTS",
+          "role": "institution"
+        },
+        {
+          "text": "TAX, LABOUR, LAND REFORM, ELECTIONS AND OTHERS IN TEXT.",
+          "role": "primary"
+        },
+        {
+          "text": "APPROPRIATE LEGISLATURE WITHIN COMPETENCE.",
+          "role": "outcome"
+        },
+        {
+          "text": "SUBJECT-SPECIFIC TRIBUNAL/HIERARCHY.",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMON HISTORY TEXT ALLOWED COURT EXCLUSION.",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 323A public-service recruitment and service conditions.",
+        "law-maker: Parliament.",
+        "administrative-tribunal design.",
+        "ARTICLE 323B listed subjects: tax, labour, land reform, elections and others in text.",
+        "law-maker: appropriate legislature within competence."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "ARTICLE 323A public-service recruitment and service conditions.",
+          "ARTICLE 323B listed subjects: tax, labour, land reform, elections and others in text.",
+          "COMMON HISTORY text allowed court exclusion.",
+          "TRAP enabling Article != automatic creation of a tribunal."
+        ],
+        [
+          "law-maker: Parliament.",
+          "law-maker: appropriate legislature within competence.",
+          "CURRENT LAW",
+          ""
+        ],
+        [
+          "administrative-tribunal design.",
+          "subject-specific tribunal/hierarchy.",
+          "L. Chandra Kumar (1997): Articles 226/227 and 32 judicial review is basic structure.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ARTICLE 323A public-service recruitment and service conditions.",
+            "law-maker: Parliament.",
+            "administrative-tribunal design."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ARTICLE 323B listed subjects: tax, labour, land reform, elections and others in text.",
+            "law-maker: appropriate legislature within competence.",
+            "subject-specific tribunal/hierarchy."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "COMMON HISTORY text allowed court exclusion.",
+            "CURRENT LAW",
+            "L. Chandra Kumar (1997): Articles 226/227 and 32 judicial review is basic structure."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TRAP enabling Article != automatic creation of a tribunal."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP enabling Article != automatic creation of a tribunal.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CAT JURISDICTION AND STATUTORY EXCLUSIONS",
+      "structural_type": "cat-jurisdiction-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CAT JURISDICTION AND STATUTORY EXCLUSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "SECTION 14 COVERAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "UNION RECRUITMENT AND SERVICE MATTERS",
+          "role": "comparison"
+        },
+        {
+          "text": "NOTIFIED AUTHORITIES AND BODIES.",
+          "role": "evidence"
+        },
+        {
+          "text": "SECTION 2 EXCLUSIONS ARMED FORCES",
+          "role": "primary"
+        },
+        {
+          "text": "SUPREME COURT OR HIGH COURT STAFF SECRETARIAL STAFF OF",
+          "role": "institution"
+        },
+        {
+          "text": "PROCESS GATE COVERAGE",
+          "role": "mechanism"
+        },
+        {
+          "text": "DEPARTMENTAL-REMEDY RULE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SECTION 14 COVERAGE",
+        "Union recruitment and service matters",
+        "notified authorities and bodies.",
+        "SECTION 2 EXCLUSIONS armed forces",
+        "Supreme Court or High Court staff secretarial staff of Parliament and State legislatures."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "SECTION 14 COVERAGE",
+            "Union recruitment and service matters"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "notified authorities and bodies.",
+            "SECTION 2 EXCLUSIONS armed forces"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Supreme Court or High Court staff secretarial staff of Parliament and State legislatures.",
+            "PROCESS GATE coverage → departmental-remedy rule → limitation → Original Application."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TRAP public employment does not automatically create CAT jurisdiction.",
+            "SECTION 14 COVERAGE"
+          ]
+        }
+      ],
+      "mechanism_strip": "PROCESS GATE coverage → departmental-remedy rule → limitation → Original Application.",
+      "answer_line": "TRAP public employment does not automatically create CAT jurisdiction.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-46\\g3-source\\polity-46_g3-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "CAT AND SAT INSTITUTIONAL ARCHITECTURE",
+      "structural_type": "cat-sat-structure",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "CAT AND SAT INSTITUTIONAL ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "PRINCIPAL BENCH + NOTIFIED BENCHES",
+          "role": "outcome"
+        },
+        {
+          "text": "CHAIRPERSON + JUDICIAL MEMBERS + ADMINISTRATIVE MEMBERS UNDER CURRENT",
+          "role": "comparison"
+        },
+        {
+          "text": "JURISDICTION COVERED UNION RECRUITMENT/SERVICE MATTERS AND NOTIFIED BODIES.",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE SERVICE TRIBUNAL MAY EXIST THROUGH STATUTORY ARRANGEMENT",
+          "role": "institution"
+        },
+        {
+          "text": "STATES VARY AND SOME SATS HAVE BEEN ABOLISHED OR",
+          "role": "outcome"
+        },
+        {
+          "text": "EXCLUSIONS FOLLOW EXACT ADMINISTRATIVE TRIBUNALS ACT TEXT AND NOTIFICATIONS",
+          "role": "institution"
+        },
+        {
+          "text": "NOT EVERY PUBLIC EMPLOYEE OR CONSTITUTIONAL OFFICE ENTERS CAT.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "Principal Bench + notified benches",
+        "Chairperson + Judicial Members + Administrative Members under current law.",
+        "JURISDICTION covered Union recruitment/service matters and notified bodies.",
+        "State service tribunal may exist through statutory arrangement",
+        "States vary and some SATs have been abolished or not constituted."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Principal Bench + notified benches",
+            "Chairperson + Judicial Members + Administrative Members under current law."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "JURISDICTION covered Union recruitment/service matters and notified bodies.",
+            "State service tribunal may exist through statutory arrangement"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "States vary and some SATs have been abolished or not constituted.",
+            "EXCLUSIONS follow exact Administrative Tribunals Act text and notifications"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "not every public employee or constitutional office enters CAT.",
+            "CONTROL appointments, tenure and service conditions must be stated with the 5 September 2026 caveat."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTROL appointments, tenure and service conditions must be stated with the 5 September 2026 caveat.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "APPLICATION, PROCEDURE, POWERS AND CONTEMPT",
+      "structural_type": "cat-process-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "APPLICATION, PROCEDURE, POWERS AND CONTEMPT",
+          "role": "primary"
+        },
+        {
+          "text": "PROCESS JURISDICTION CHECK",
+          "role": "mechanism"
+        },
+        {
+          "text": "ORIGINAL APPLICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERIM ISSUE",
+          "role": "evidence"
+        },
+        {
+          "text": "REASONED FINAL ORDER.",
+          "role": "primary"
+        },
+        {
+          "text": "PROCEDURE NATURAL JUSTICE",
+          "role": "outcome"
+        },
+        {
+          "text": "FLEXIBLE PROCEDURE",
+          "role": "comparison"
+        },
+        {
+          "text": "NOT RIGIDLY BOUND BY CPC.",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PROCESS jurisdiction check → Original Application → notice/reply/record",
+        "interim issue → hearing → reasoned final order.",
+        "PROCEDURE natural justice",
+        "flexible procedure",
+        "not rigidly bound by CPC."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PROCESS jurisdiction check → Original Application → notice/reply/record",
+            "interim issue → hearing → reasoned final order.",
+            "PROCEDURE natural justice"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "flexible procedure",
+            "not rigidly bound by CPC.",
+            "POWERS summons"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "review/other statutory powers.",
+            "CONTEMPT statutory power subject to governing law and constitutional review.",
+            "LIMIT procedural flexibility is not freedom from evidence, fairness, reasons or limitation rules."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "flexible procedure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT procedural flexibility is not freedom from evidence, fairness, reasons or limitation rules.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "L. CHANDRA KUMAR (1997) AND THE CORRECT REVIEW CHAIN",
+      "structural_type": "judicial-review-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "L. CHANDRA KUMAR (1997) AND THE CORRECT REVIEW CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "ORIGINAL CONSTITUTIONAL DESIGN TRIBUNAL AS SUBSTITUTE FIRST-INSTANCE FORUM +",
+          "role": "outcome"
+        },
+        {
+          "text": "L. CHANDRA KUMAR (1997)",
+          "role": "comparison"
+        },
+        {
+          "text": "HIGH COURT ARTICLES 226/227 AND SUPREME COURT ARTICLE 32",
+          "role": "institution"
+        },
+        {
+          "text": "EXCLUSION CLAUSES INVALID",
+          "role": "primary"
+        },
+        {
+          "text": "TRIBUNALS MAY TEST VIRES OF SUBORDINATE LEGISLATION AND STATUTES",
+          "role": "outcome"
+        },
+        {
+          "text": "OPERATIVE CHAIN TRIBUNAL ORDER",
+          "role": "comparison"
+        },
+        {
+          "text": "TERRITORIAL HIGH COURT DIVISION BENCH",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ORIGINAL CONSTITUTIONAL DESIGN tribunal as substitute first-instance forum + exclusion clauses.",
+        "L. Chandra Kumar (1997)",
+        "High Court Articles 226/227 and Supreme Court Article 32 review are basic structure",
+        "exclusion clauses invalid",
+        "tribunals may test vires of subordinate legislation and statutes except parent legislation limits."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ORIGINAL CONSTITUTIONAL DESIGN tribunal as substitute first-instance forum + exclusion clauses.",
+            "L. Chandra Kumar (1997)",
+            "High Court Articles 226/227 and Supreme Court Article 32 review are basic structure"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "exclusion clauses invalid",
+            "tribunals may test vires of subordinate legislation and statutes except parent legislation limits.",
+            "OPERATIVE CHAIN tribunal order → territorial High Court Division Bench → Supreme Court constitutional route."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP routine direct appeal from CAT to Supreme Court is not the ordinary substitute for High Court review.",
+            "CLOSE DISTINCTION: Preserve L.",
+            "Chandra Kumar (1997)'s first-instance tribunal role together with Articles 226/227 review by the territorial High Court Division Bench."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "exclusion clauses invalid"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP routine direct appeal from CAT to Supreme Court is not the ordinary substitute for High Court review.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "TRIBUNAL-INDEPENDENCE DOCTRINE ACROSS FIVE DECISIONS",
+      "structural_type": "tribunal-case-timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TRIBUNAL-INDEPENDENCE DOCTRINE ACROSS FIVE DECISIONS",
+          "role": "primary"
+        },
+        {
+          "text": "UNION OF INDIA V. R. GANDHI (2010) TRANSFERRED JUDICIAL",
+          "role": "outcome"
+        },
+        {
+          "text": "MADRAS BAR ASSOCIATION NTT (2014)",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL TAX TRIBUNAL DESIGN INVALIDATED; CORE JUDICIAL FUNCTIONS CANNOT",
+          "role": "evidence"
+        },
+        {
+          "text": "MADRAS BAR ASSOCIATION IV (2020)",
+          "role": "primary"
+        },
+        {
+          "text": "TRIBUNAL RULES SCRUTINISED; SELECTION AND TENURE SAFEGUARDS REINFORCED.",
+          "role": "outcome"
+        },
+        {
+          "text": "MADRAS BAR ASSOCIATION V (2021) SHORT TENURE, AGE AND",
+          "role": "comparison"
+        },
+        {
+          "text": "ROJER MATHEW V. SOUTH INDIAN BANK (2019)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "Union of India v. R. Gandhi (2010) transferred judicial work requires equivalent independence, qualifications and",
+        "Madras Bar Association NTT (2014)",
+        "National Tax Tribunal design invalidated; core judicial functions cannot be executive-dominated.",
+        "Madras Bar Association IV (2020)",
+        "Tribunal Rules scrutinised; selection and tenure safeguards reinforced."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "Union of India v. R. Gandhi (2010) transferred judicial work requires equivalent independence, qualifications and safeguards.",
+            "Madras Bar Association NTT (2014)",
+            "National Tax Tribunal design invalidated; core judicial functions cannot be executive-dominated."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Madras Bar Association IV (2020)",
+            "Tribunal Rules scrutinised; selection and tenure safeguards reinforced.",
+            "Madras Bar Association V (2021) short tenure, age and executive override defects invalidated in the 2021 ordinance/Act line."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Rojer Mathew v. South Indian Bank (2019)",
+            "Finance Act/rules route and tribunal independence examined.",
+            "Madras Bar Association tribunal reforms (2025) reported 2025 INSC 1330 continues the constitutional control and directs institutional reform."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LIMIT service-condition detail remains date-sensitive; doctrine is stable, implementation is not."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT service-condition detail remains date-sensitive; doctrine is stable, implementation is not.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "RATIONALISATION, ABOLITION AND ACCESS-TO-JUSTICE CONSEQUENCES",
+      "structural_type": "rationalisation-balance",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "RATIONALISATION, ABOLITION AND ACCESS-TO-JUSTICE CONSEQUENCES",
+          "role": "primary"
+        },
+        {
+          "text": "2021 RATIONALISATION ABOLISH SPECIFIED APPELLATE BODIES",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSFER FUNCTIONS TO COURTS/OTHER FORUMS",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMON SERVICE FRAMEWORK.",
+          "role": "evidence"
+        },
+        {
+          "text": "POSSIBLE GAIN LESS FRAGMENTATION",
+          "role": "primary"
+        },
+        {
+          "text": "FEWER DUPLICATIVE BODIES",
+          "role": "outcome"
+        },
+        {
+          "text": "CLEARER APPEAL PATH.",
+          "role": "comparison"
+        },
+        {
+          "text": "POSSIBLE COST SPECIALISED EXPERTISE LOST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2021 RATIONALISATION abolish specified appellate bodies → transfer functions to courts/other forums",
+        "common service framework.",
+        "POSSIBLE GAIN less fragmentation",
+        "fewer duplicative bodies",
+        "clearer appeal path."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "2021 RATIONALISATION abolish specified appellate bodies → transfer functions to courts/other forums",
+            "common service framework.",
+            "POSSIBLE GAIN less fragmentation"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "fewer duplicative bodies",
+            "clearer appeal path.",
+            "POSSIBLE COST specialised expertise lost"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "burden shifted to High Courts vacancies and transition delay",
+            "access becomes geographically harder.",
+            "SAT VARIATION abolition/merger differs by State and statute; no uniform live SAT map should be invented."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TEST pendency outcome + bench capacity + independence + user cost + transitional clarity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TEST pendency outcome + bench capacity + independence + user cost + transitional clarity.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CAT, COURTS, COMMISSIONS AND ADR DISTINGUISHED",
+      "structural_type": "institution-comparison-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CAT, COURTS, COMMISSIONS AND ADR DISTINGUISHED",
+          "role": "primary"
+        },
+        {
+          "text": "CAT STATUTORY SERVICE ADJUDICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "BINDING REASONED ORDER",
+          "role": "comparison"
+        },
+        {
+          "text": "HIGH COURT REVIEW.",
+          "role": "institution"
+        },
+        {
+          "text": "HIGH COURT CONSTITUTIONAL COURT",
+          "role": "institution"
+        },
+        {
+          "text": "WRIT/SUPERVISORY JURISDICTION",
+          "role": "outcome"
+        },
+        {
+          "text": "BROAD PUBLIC-LAW CONTROL.",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMISSION INVESTIGATION/ADVICE/REPORT UNLESS STATUTE GRANTS ADJUDICATORY POWER.",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "CAT statutory service adjudication → binding reasoned order → High Court review.",
+        "HIGH COURT constitutional court → writ/supervisory jurisdiction → broad public-law control.",
+        "COMMISSION investigation/advice/report unless statute grants adjudicatory power.",
+        "LOK ADALAT statutory settlement/conciliation → award based on compromise.",
+        "ARBITRATION consensual private adjudication → limited statutory challenge."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "CAT statutory service adjudication → binding reasoned order → High Court review.",
+          "COMMISSION investigation/advice/report unless statute grants adjudicatory power.",
+          "ARBITRATION consensual private adjudication → limited statutory challenge.",
+          "TRAP specialised does not automatically mean tribunal; binding does not automatically mean court."
+        ],
+        [
+          "HIGH COURT constitutional court → writ/supervisory jurisdiction → broad public-law control.",
+          "LOK ADALAT statutory settlement/conciliation → award based on compromise.",
+          "DEPARTMENTAL APPEAL administrative reconsideration → not independent judicial adjudication.",
+          "CAT statutory service adjudication → binding reasoned order → High Court review."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CAT statutory service adjudication → binding reasoned order → High Court review.",
+            "HIGH COURT constitutional court → writ/supervisory jurisdiction → broad public-law control."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "COMMISSION investigation/advice/report unless statute grants adjudicatory power.",
+            "LOK ADALAT statutory settlement/conciliation → award based on compromise."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARBITRATION consensual private adjudication → limited statutory challenge.",
+            "DEPARTMENTAL APPEAL administrative reconsideration → not independent judicial adjudication."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TRAP specialised does not automatically mean tribunal; binding does not automatically mean court.",
+            "CAT statutory service adjudication → binding reasoned order → High Court review."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP specialised does not automatically mean tribunal; binding does not automatically mean court.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CURRENT JUDICIAL AND LEGISLATIVE STATUS CONTROL",
+      "structural_type": "current-status-control",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CURRENT JUDICIAL AND LEGISLATIVE STATUS CONTROL",
+          "role": "primary"
+        },
+        {
+          "text": "19 NOVEMBER 2025",
+          "role": "outcome"
+        },
+        {
+          "text": "2025 INSC 1330 INVALIDATED SPECIFIED RE-ENACTED SERVICE-CONDITION DEFECTS AND",
+          "role": "comparison"
+        },
+        {
+          "text": "9 MARCH 2026 ORDER SPECIFIED INCUMBENT CONTINUITY UNTIL 8",
+          "role": "evidence"
+        },
+        {
+          "text": "AUGUST 2026 CAUTION ENACTMENT",
+          "role": "caution"
+        },
+        {
+          "text": "OPERATIONAL COMMISSION.",
+          "role": "outcome"
+        },
+        {
+          "text": "USE GAZETTE COMMENCEMENT AND APPOINTMENT RECORDS BEFORE CLAIMING OPERATION.",
+          "role": "comparison"
+        },
+        {
+          "text": "CURRENT CONTROL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "19 NOVEMBER 2025",
+        "2025 INSC 1330 invalidated specified re-enacted service-condition defects and directed a National Tribunals Commission.",
+        "9 MARCH 2026 ORDER specified incumbent continuity until 8 September 2026 or maximum age.",
+        "AUGUST 2026 CAUTION enactment != commencement != operational commission.",
+        "Use Gazette commencement and appointment records before claiming operation."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "19 NOVEMBER 2025",
+            "2025 INSC 1330 invalidated specified re-enacted service-condition defects and directed a National Tribunals Commission."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "9 MARCH 2026 ORDER specified incumbent continuity until 8 September 2026 or maximum age.",
+            "AUGUST 2026 CAUTION enactment != commencement != operational commission."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Use Gazette commencement and appointment records before claiming operation.",
+            "CURRENT CONTROL: 5 SEPTEMBER 2026"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "2025 INSC 1330 remains the merits baseline; the 9 March 2026 order continues specified incumbents only until 8 September 2026/maximum age.",
+            "Parliament passed the Tribunals Reforms Bill, 2026, but no official assented Act or commencement notification was located; do not call it operative."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Parliament passed the Tribunals Reforms Bill, 2026, but no official assented Act or commencement notification was located; do not call it operative.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-46\\g3-source\\polity-46_g3-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "EXACT PYQ DEMAND AND ANSWER ARCHITECTURE",
+      "structural_type": "tribunal-pyq-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "EXACT PYQ DEMAND AND ANSWER ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "2018 GS-II 15/250 COURT-JURISDICTION CURTAILMENT + VALIDITY + COMPETENCY.",
+          "role": "institution"
+        },
+        {
+          "text": "2019 GS-II 10/150",
+          "role": "comparison"
+        },
+        {
+          "text": "CAT AS INDEPENDENT JUDICIAL AUTHORITY.",
+          "role": "evidence"
+        },
+        {
+          "text": "2024 GS-II 10/150",
+          "role": "primary"
+        },
+        {
+          "text": "LOK ADALAT VERSUS ARBITRATION + CIVIL/CRIMINAL JURISDICTION.",
+          "role": "comparison"
+        },
+        {
+          "text": "2025 GS-II 10/150 NEED FOR TRIBUNALS + ASSESS 2021",
+          "role": "comparison"
+        },
+        {
+          "text": "EXECUTION THESIS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2018 GS-II 15/250 court-jurisdiction curtailment + validity + competency.",
+        "2019 GS-II 10/150",
+        "CAT as independent judicial authority.",
+        "2024 GS-II 10/150",
+        "Lok Adalat versus arbitration + civil/criminal jurisdiction."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "2018 GS-II 15/250 court-jurisdiction curtailment + validity + competency.",
+            "2019 GS-II 10/150"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CAT as independent judicial authority.",
+            "2024 GS-II 10/150"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Lok Adalat versus arbitration + civil/criminal jurisdiction.",
+            "2025 GS-II 10/150 need for tribunals + assess 2021 rationalisation."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "EXECUTION thesis → law → mechanism → case → constraint → verdict.",
+            "2018 GS-II 15/250 court-jurisdiction curtailment + validity + competency."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXECUTION thesis → law → mechanism → case → constraint → verdict.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-46\\g3-source\\polity-46_g3-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "UPSC SYNTHESIS AND REFORM ARCHITECTURE",
+      "structural_type": "tribunal-answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "UPSC SYNTHESIS AND REFORM ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "PRELIMS FIREWALL",
+          "role": "outcome"
+        },
+        {
+          "text": "323A SERVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "323B LISTED SUBJECTS",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSTITUTIONAL COURT",
+          "role": "institution"
+        },
+        {
+          "text": "ARBITRARY FIRST INSTANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "FINAL CONSTITUTIONAL WORD",
+          "role": "comparison"
+        },
+        {
+          "text": "PENDENCY CURE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRELIMS FIREWALL",
+        "323A service != 323B listed subjects",
+        "enabling != creating",
+        "CAT != constitutional court",
+        "flexible != arbitrary first instance != final constitutional word"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRELIMS FIREWALL",
+            "323A service != 323B listed subjects",
+            "enabling != creating",
+            "CAT != constitutional court",
+            "flexible != arbitrary first instance != final constitutional word"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "rationalisation != pendency cure.",
+            "MAINS SPINE rationale → constitutional/statutory source → structure/jurisdiction",
+            "procedure/powers → L. Chandra Kumar (1997) chain",
+            "independence cases → rationalisation/access → reform.",
+            "REFORM independent appointments body"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "secure adequate tenure",
+            "transparent vacancies administrative autonomy",
+            "national data/standards",
+            "regional benches coherent appeals",
+            "periodic performance review without decisional interference."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "VERDICT tribunals are justified only as independent, accessible specialist courts under constitutional supervision.",
+            "LEGAL/SOURCE LIMIT: Parliament passed the Tribunals Reforms Bill, 2026, but no official",
+            "assented Act or commencement notification was located by 5 September 2026."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT tribunals are justified only as independent, accessible specialist courts under constitutional supervision.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "S.P. SAMPATH KUMAR INITIALLY ACCEPTED TRIBUNAL SUBSTITUTION IF THE",
+          "role": "outcome"
+        },
+        {
+          "text": "L. CHANDRA KUMAR (1997) HELD THAT EXCLUSION OF HIGH",
+          "role": "comparison"
+        },
+        {
+          "text": "TRIBUNALS MAY DECIDE CONSTITUTIONAL QUESTIONS IN THE FIRST INSTANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "THIS PROTECTS CONSTITUTIONAL SUPERVISION BUT ADDS ANOTHER TIER; SPEED",
+          "role": "primary"
+        },
+        {
+          "text": "THE ACT RATIONALISED THE TRIBUNAL LANDSCAPE BY ABOLISHING SPECIFIED",
+          "role": "institution"
+        },
+        {
+          "text": "IT ESTABLISHED A COMMON SERVICE-CONDITION FRAMEWORK FOR COVERED TRIBUNAL",
+          "role": "comparison"
+        },
+        {
+          "text": "THE SUPREME COURT'S MADRAS BAR ASSOCIATION LINE INSISTS THAT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "S.P. Sampath Kumar initially accepted tribunal substitution if the alternative",
+            "L. Chandra Kumar (1997) held that exclusion of High Court/Supreme Court judicial review",
+            "Tribunals may decide constitutional questions in the first instance, but their",
+            "CAUTION: This protects constitutional supervision but adds another tier; speed therefore"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "The Act rationalised the tribunal landscape by abolishing specified appellate",
+            "It established a common service-condition framework for covered tribunal",
+            "The Supreme Court's Madras Bar Association line insists that tribunal",
+            "On 19 Nov 2025 , the Supreme Court in 2025 INSC 1330 struck down the"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "On 9 Mar 2026 , the Court made a separate continuity arrangement extending",
+            "2025 GS-II Q2 (10 marks, 150 words): “Comment on the need of administrative",
+            "Thesis: Tribunals remain justified by specialisation, accessibility and potential",
+            "Structure: need - constitutional limits - 2021 rationalisation - gains and"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

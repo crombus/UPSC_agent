@@ -1,0 +1,1152 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "governance-13",
+  "subject": "Governance",
+  "title": "PUBLIC FINANCE AND SERVICE-DELIVERY TOOLS",
+  "short_route": "BUDGET-TO-BENEFICIARY CHAIN → THE TOOL STACK AND → THE JAM FOUNDATION → SCOPE CARD FOR AUTHENTICATED → RELEASE ARCHITECTURE SUCCESSION → JUST-IN-TIME RELEASE MECHANISM",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-13\\g3\\governance-13_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\governance-13-deep-review-2026-09-05-g3.json",
+  "ascii_spec_sha256": "942db74b2456b75f0153c868e707e4ec079b1e77ba1d6b7d3fbe29318845444e",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "BUDGET-TO-BENEFICIARY CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BUDGET-TO-BENEFICIARY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "1 BUDGET",
+          "role": "outcome"
+        },
+        {
+          "text": "APPROPRIATION, SCHEME APPROVAL, OUTLAY; FAILURE",
+          "role": "comparison"
+        },
+        {
+          "text": "AN UNREALISTIC OUTLAY",
+          "role": "evidence"
+        },
+        {
+          "text": "2 RELEASE",
+          "role": "primary"
+        },
+        {
+          "text": "UNION TO STATE OR AGENCY, JUST-IN-TIME VIA E-KUBER; FAILURE",
+          "role": "institution"
+        },
+        {
+          "text": "DELAY, FLOAT",
+          "role": "comparison"
+        },
+        {
+          "text": "3 AGENCY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1 BUDGET → appropriation, scheme approval, outlay; failure: an unrealistic outlay",
+        "2 RELEASE → Union to State or agency, just-in-time via e-Kuber; failure: delay, float",
+        "3 AGENCY → agency receives, incurs and reports; failure: diversion and idle balance",
+        "4 PROCUREMENT → goods, works and services under the rules; failure: specification, cartel",
+        "5 BENEFICIARY → transfer or service delivered; failure: exclusion, last-mile cash access"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1 BUDGET → appropriation, scheme approval, outlay; failure: an unrealistic outlay",
+            "2 RELEASE → Union to State or agency, just-in-time via e-Kuber; failure: delay, float",
+            "3 AGENCY → agency receives, incurs and reports; failure: diversion and idle balance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "4 PROCUREMENT → goods, works and services under the rules; failure: specification, cartel",
+            "5 BENEFICIARY → transfer or service delivered; failure: exclusion, last-mile cash access",
+            "6 OUTCOME → did the money change anything; failure: outputs counted in place of outcomes"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Public finance for service delivery follows need and entitlement,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Public finance for service delivery follows need and entitlement,.",
+      "source_references": [
+        "The six-stage budget-to-beneficiary chain as a routing device",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-13\\g3\\governance-13_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "THE TOOL STACK AND THE PROBLEM EACH SOLVES",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THE TOOL STACK AND THE PROBLEM EACH SOLVES",
+          "role": "primary"
+        },
+        {
+          "text": "THE PRECONDITION",
+          "role": "outcome"
+        },
+        {
+          "text": "A VERIFIABLE PERSON, A USABLE ACCOUNT, A NOTIFICATION CHANNEL",
+          "role": "comparison"
+        },
+        {
+          "text": "DIRECT BENEFIT TRANSFER",
+          "role": "evidence"
+        },
+        {
+          "text": "IDENTITY-BASED LEAKAGE FROM FAKE, DUPLICATE, INELIGIBLE ENTRIES",
+          "role": "primary"
+        },
+        {
+          "text": "PUBLIC FINANCIAL MANAGEMENT SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "DIVERSION AND IDLE BALANCES AT THE AGENCY LEVEL",
+          "role": "comparison"
+        },
+        {
+          "text": "FLOAT AND ADVANCE PARKING IN THE CENTRALLY SPONSORED SCHEME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "JAM → the precondition: a verifiable person, a usable account, a notification channel",
+        "DIRECT BENEFIT TRANSFER → identity-based leakage from fake, duplicate, ineligible entries",
+        "PUBLIC FINANCIAL MANAGEMENT SYSTEM → diversion and idle balances at the agency level",
+        "SNA-SPARSH → float and advance parking in the centrally sponsored scheme release chain",
+        "GENERAL FINANCIAL RULES, 2017 → procedural discipline over sanction and procurement"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "JAM → the precondition: a verifiable person, a usable account, a notification channel",
+          "PUBLIC FINANCIAL MANAGEMENT SYSTEM → diversion and idle balances at the agency level",
+          "GENERAL FINANCIAL RULES, 2017 → procedural discipline over sanction and procurement"
+        ],
+        [
+          "DIRECT BENEFIT TRANSFER → identity-based leakage from fake, duplicate, ineligible entries",
+          "SNA-SPARSH → float and advance parking in the centrally sponsored scheme release chain",
+          "JAM → the precondition: a verifiable person, a usable account, a notification channel"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "JAM → the precondition: a verifiable person, a usable account, a notification channel",
+            "DIRECT BENEFIT TRANSFER → identity-based leakage from fake, duplicate, ineligible entries"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PUBLIC FINANCIAL MANAGEMENT SYSTEM → diversion and idle balances at the agency level",
+            "SNA-SPARSH → float and advance parking in the centrally sponsored scheme release chain"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GENERAL FINANCIAL RULES, 2017 → procedural discipline over sanction and procurement",
+            "JAM → the precondition: a verifiable person, a usable account, a notification channel"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GENERAL FINANCIAL RULES, 2017 → procedural discipline over sanction and procurement.",
+      "source_references": [
+        "The budget-to-beneficiary chain this owner holds",
+        "Direct Benefit Transfer is a payments reform broader than cash",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-13\\g3\\governance-13_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THE JAM FOUNDATION",
+      "structural_type": "root-axes",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THE JAM FOUNDATION",
+          "role": "primary"
+        },
+        {
+          "text": "JAN DHAN",
+          "role": "outcome"
+        },
+        {
+          "text": "UNIVERSAL BANK-ACCOUNT ACCESS AS THE DESTINATION OF A TRANSFER",
+          "role": "comparison"
+        },
+        {
+          "text": "UNIQUE IDENTITY THAT MAKES INDIVIDUAL-LEVEL DE-DUPLICATION POSSIBLE",
+          "role": "evidence"
+        },
+        {
+          "text": "THE TRANSACTION AND NOTIFICATION CHANNEL THAT CLOSES THE LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "AN ACCOUNT THAT EXISTS IS NOT ALWAYS AN ACCOUNT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "JAN DHAN → universal bank-account access as the destination of a transfer",
+        "AADHAAR → unique identity that makes individual-level de-duplication possible",
+        "MOBILE → the transaction and notification channel that closes the loop",
+        "LIMIT → an account that exists is not always an account the holder can actually"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "JAN DHAN → universal bank-account access as the destination of a transfer",
+            "AADHAAR → unique identity that makes individual-level de-duplication possible"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MOBILE → the transaction and notification channel that closes the loop",
+            "LIMIT → an account that exists is not always an account the holder can actually use"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "JAN DHAN → universal bank-account access as the destination of a transfer",
+            "AADHAAR → unique identity that makes individual-level de-duplication possible"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → an account that exists is not always an account the holder can actually use.",
+      "source_references": [
+        "The identity and payments foundation named JAM",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-13\\g3\\governance-13_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SCOPE CARD FOR AUTHENTICATED TRANSFER",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SCOPE CARD FOR AUTHENTICATED TRANSFER",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSFERS CREDITED TO AN INDIVIDUAL VERIFIED BENEFICIARY ACCOUNT",
+          "role": "outcome"
+        },
+        {
+          "text": "IN KIND",
+          "role": "comparison"
+        },
+        {
+          "text": "BENEFITS DELIVERED THROUGH AUTHENTICATED SYSTEMS RATHER THAN CREDITED",
+          "role": "evidence"
+        },
+        {
+          "text": "SERVICE ENABLERS",
+          "role": "primary"
+        },
+        {
+          "text": "CERTAIN TRANSFERS MADE TO THOSE WHO ENABLE THE SERVICE",
+          "role": "outcome"
+        },
+        {
+          "text": "SCOPE ERROR",
+          "role": "comparison"
+        },
+        {
+          "text": "EQUATING THE INSTRUMENT WITH CASH TRANSFER ALONE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CASH → transfers credited to an individual verified beneficiary account",
+        "IN KIND → benefits delivered through authenticated systems rather than credited",
+        "SERVICE ENABLERS → certain transfers made to those who enable the service",
+        "SCOPE ERROR → equating the instrument with cash transfer alone"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CASH → transfers credited to an individual verified beneficiary account",
+          "SERVICE ENABLERS → certain transfers made to those who enable the service",
+          "CASH → transfers credited to an individual verified beneficiary account"
+        ],
+        [
+          "IN KIND → benefits delivered through authenticated systems rather than credited",
+          "SCOPE ERROR → equating the instrument with cash transfer alone",
+          "IN KIND → benefits delivered through authenticated systems rather than credited"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CASH → transfers credited to an individual verified beneficiary account",
+            "IN KIND → benefits delivered through authenticated systems rather than credited"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SERVICE ENABLERS → certain transfers made to those who enable the service",
+            "SCOPE ERROR → equating the instrument with cash transfer alone"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CASH → transfers credited to an individual verified beneficiary account",
+            "IN KIND → benefits delivered through authenticated systems rather than credited"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SCOPE ERROR → equating the instrument with cash transfer alone.",
+      "source_references": [
+        "Direct Benefit Transfer is a payments reform broader than cash",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-13\\g3\\governance-13_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "RELEASE ARCHITECTURE SUCCESSION",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "RELEASE ARCHITECTURE SUCCESSION",
+          "role": "primary"
+        },
+        {
+          "text": "SINGLE NODAL AGENCY MODEL",
+          "role": "outcome"
+        },
+        {
+          "text": "DESIGNATED AGENCY AND ACCOUNT PER SCHEME",
+          "role": "comparison"
+        },
+        {
+          "text": "13 JULY 2023",
+          "role": "evidence"
+        },
+        {
+          "text": "OFFICE MEMORANDUM NO. 1(27)/PFMS/2020 INTRODUCES SNA-SPARSH",
+          "role": "caution"
+        },
+        {
+          "text": "10 JUNE 2025 OM",
+          "role": "outcome"
+        },
+        {
+          "text": "THIRTY-SEVEN FURTHER SCHEMES BROUGHT IN FROM 1 JULY 2025",
+          "role": "comparison"
+        },
+        {
+          "text": "1 NOVEMBER 2025",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2021 → Single Nodal Agency model: designated agency and account per scheme",
+        "13 JULY 2023 → Office Memorandum No. 1(27)/PFMS/2020 introduces SNA-SPARSH",
+        "10 JUNE 2025 OM → thirty-seven further schemes brought in from 1 July 2025",
+        "1 NOVEMBER 2025 → applies to all such schemes in States and Union Territories with",
+        "BOUNDARY → applicable from is provable; operational in all is not"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "2021 → Single Nodal Agency model: designated agency and account per scheme",
+            "13 JULY 2023 → Office Memorandum No. 1(27)/PFMS/2020 introduces SNA-SPARSH"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "10 JUNE 2025 OM → thirty-seven further schemes brought in from 1 July 2025",
+            "1 NOVEMBER 2025 → applies to all such schemes in States and Union Territories with legislatures"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → applicable from is provable; operational in all is not",
+            "2021 → Single Nodal Agency model: designated agency and account per scheme"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → applicable from is provable; operational in all is not.",
+      "source_references": [
+        "The 2021 Single Nodal Agency model and its supersession",
+        "SNA-SPARSH, just-in-time release and its dated notification trail",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-13\\g3\\governance-13_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "JUST-IN-TIME RELEASE MECHANISM",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "JUST-IN-TIME RELEASE MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "PUBLIC FINANCIAL MANAGEMENT SYSTEM PLUS STATE IFMIS PLUS RBI",
+          "role": "institution"
+        },
+        {
+          "text": "UNION AND STATE SHARES RELEASED TOGETHER AGAINST AN ACTUAL",
+          "role": "institution"
+        },
+        {
+          "text": "IDLE FLOAT AND ADVANCE PARKING ARE REMOVED FROM THE",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE CASH-PLANNING BUFFER IS LOST AND AGENCY RECONCILIATION LOAD",
+          "role": "institution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "BUDGET ALLOCATION IS NOT RELEASE, RELEASE IS NOT EXPENDITURE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "INTEGRATION → Public Financial Management System plus State IFMIS plus RBI e-Kuber",
+        "RULE → Union and State shares released together against an actual expenditure claim",
+        "GAIN → idle float and advance parking are removed from the release chain",
+        "COST → State cash-planning buffer is lost and agency reconciliation load rises",
+        "CLOSE DISTINCTION: Budget allocation is not release, release is not expenditure"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INTEGRATION → Public Financial Management System plus State IFMIS plus RBI e-Kuber",
+            "RULE → Union and State shares released together against an actual expenditure claim"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GAIN → idle float and advance parking are removed from the release chain",
+            "COST → State cash-planning buffer is lost and agency reconciliation load rises"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Budget allocation is not release, release is not expenditure,...",
+            "INTEGRATION → Public Financial Management System plus State IFMIS plus RBI e-Kuber"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → Union and State shares released together against an actual expenditure claim.",
+      "source_references": [
+        "SNA-SPARSH, just-in-time release and its dated notification trail",
+        "RBI e-Kuber as settlement infrastructure rather than policy",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-13\\g3\\governance-13_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ERROR MATRIX",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ERROR MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "E1 INCLUSION ERROR",
+          "role": "outcome"
+        },
+        {
+          "text": "AN INELIGIBLE PERSON RECEIVES; CAUSE",
+          "role": "mechanism"
+        },
+        {
+          "text": "FAKE, DUPLICATE, OUTDATED LISTS",
+          "role": "evidence"
+        },
+        {
+          "text": "E1 INSTRUMENTS",
+          "role": "primary"
+        },
+        {
+          "text": "AUTHENTICATION, DE-DUPLICATION, VERIFICATION; COST",
+          "role": "outcome"
+        },
+        {
+          "text": "RAISES E2",
+          "role": "comparison"
+        },
+        {
+          "text": "E2 EXCLUSION ERROR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "E1 INCLUSION ERROR → an ineligible person receives; cause: fake, duplicate, outdated lists",
+        "E1 INSTRUMENTS → authentication, de-duplication, verification; cost: raises E2",
+        "E2 EXCLUSION ERROR → an eligible person is denied; cause: authentication and seeding failure",
+        "E2 CORRECTIVES → offline fallback, named exception officer, list revision, timed grievance"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "E1 INCLUSION ERROR → an ineligible person receives; cause: fake, duplicate, outdated lists",
+          "E2 EXCLUSION ERROR → an eligible person is denied; cause: authentication and seeding failure",
+          "E1 INCLUSION ERROR → an ineligible person receives; cause: fake, duplicate, outdated lists"
+        ],
+        [
+          "E1 INSTRUMENTS → authentication, de-duplication, verification; cost: raises E2",
+          "E2 CORRECTIVES → offline fallback, named exception officer, list revision, timed grievance",
+          "E1 INSTRUMENTS → authentication, de-duplication, verification; cost: raises E2"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "E1 INCLUSION ERROR → an ineligible person receives; cause: fake, duplicate, outdated lists",
+            "E1 INSTRUMENTS → authentication, de-duplication, verification; cost: raises E2"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "E2 EXCLUSION ERROR → an eligible person is denied; cause: authentication and seeding failure",
+            "E2 CORRECTIVES → offline fallback, named exception officer, list revision, timed grievance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "E1 INCLUSION ERROR → an ineligible person receives; cause: fake, duplicate, outdated lists",
+            "E1 INSTRUMENTS → authentication, de-duplication, verification; cost: raises E2"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "E2 CORRECTIVES → offline fallback, named exception officer, list revision, timed grievance.",
+      "source_references": [
+        "Inclusion error and the instruments that reduce it",
+        "Exclusion error and the correctives that reduce it",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-13\\g3\\governance-13_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "WHICH ERROR THE STATE CHOOSES TO BEAR",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WHICH ERROR THE STATE CHOOSES TO BEAR",
+          "role": "institution"
+        },
+        {
+          "text": "A FISCAL COST FALLING ON THE EXCHEQUER AND RECOVERABLE",
+          "role": "outcome"
+        },
+        {
+          "text": "A SUBSISTENCE COST FALLING ON ONE PERSON IN THE",
+          "role": "comparison"
+        },
+        {
+          "text": "FOR FOOD, PENSION AND WAGE ENTITLEMENTS THE ASYMMETRY FAVOURS",
+          "role": "evidence"
+        },
+        {
+          "text": "WORN FINGERPRINTS, ELDERLY USERS AND LOW-CONNECTIVITY AREAS BEAR E2",
+          "role": "primary"
+        },
+        {
+          "text": "ANSWER MOVE",
+          "role": "outcome"
+        },
+        {
+          "text": "SAY WHICH ERROR THE DESIGN OPTIMISES AGAINST AND WHY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "E1 → a fiscal cost falling on the exchequer and recoverable in later years",
+        "E2 → a subsistence cost falling on one person in the year the benefit was",
+        "FOR FOOD, PENSION AND WAGE ENTITLEMENTS the asymmetry favours tolerating some E1",
+        "INCIDENCE: worn fingerprints, elderly users and low-connectivity areas bear E2 first",
+        "ANSWER MOVE → say which error the design optimises against and why"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "E1 → a fiscal cost falling on the exchequer and recoverable in later years",
+            "E2 → a subsistence cost falling on one person in the year the benefit was needed"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FOR FOOD, PENSION AND WAGE ENTITLEMENTS the asymmetry favours tolerating some E1",
+            "INCIDENCE: worn fingerprints, elderly users and low-connectivity areas bear E2 first"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ANSWER MOVE → say which error the design optimises against and why",
+            "E1 → a fiscal cost falling on the exchequer and recoverable in later years"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER MOVE → say which error the design optimises against and why.",
+      "source_references": [
+        "Which error the design is willing to bear",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-13\\g3\\governance-13_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "THREE FAILURES, THREE INSTRUMENTS",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE FAILURES, THREE INSTRUMENTS",
+          "role": "primary"
+        },
+        {
+          "text": "BENEFIT DIVERTED TO SOMEONE NOT ENTITLED; INSTRUMENT",
+          "role": "caution"
+        },
+        {
+          "text": "DE-DUPLICATION, TRACKING",
+          "role": "comparison"
+        },
+        {
+          "text": "BENEFIT NEVER REACHES AN ELIGIBLE PERSON; INSTRUMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "FALLBACK AND GRIEVANCE",
+          "role": "primary"
+        },
+        {
+          "text": "BENEFIT DELIVERED AT EXCESSIVE COST; INSTRUMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "PROCUREMENT AND DESIGN",
+          "role": "comparison"
+        },
+        {
+          "text": "MERGING ALL THREE INTO PLUGGING THE LEAKAGES PRODUCES RECOMMENDATIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LEAKAGE → benefit diverted to someone not entitled; instrument: de-duplication, tracking",
+        "EXCLUSION → benefit never reaches an eligible person; instrument: fallback and grievance",
+        "INEFFICIENCY → benefit delivered at excessive cost; instrument: procurement and design",
+        "ERROR → merging all three into plugging the leakages produces recommendations that fail"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "LEAKAGE → benefit diverted to someone not entitled; instrument: de-duplication, tracking",
+          "INEFFICIENCY → benefit delivered at excessive cost; instrument: procurement and design",
+          "LEAKAGE → benefit diverted to someone not entitled; instrument: de-duplication, tracking"
+        ],
+        [
+          "EXCLUSION → benefit never reaches an eligible person; instrument: fallback and grievance",
+          "ERROR → merging all three into plugging the leakages produces recommendations that fail",
+          "EXCLUSION → benefit never reaches an eligible person; instrument: fallback and grievance"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LEAKAGE → benefit diverted to someone not entitled; instrument: de-duplication, tracking",
+            "EXCLUSION → benefit never reaches an eligible person; instrument: fallback and grievance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INEFFICIENCY → benefit delivered at excessive cost; instrument: procurement and design",
+            "ERROR → merging all three into plugging the leakages produces recommendations that fail"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LEAKAGE → benefit diverted to someone not entitled; instrument: de-duplication, tracking",
+            "EXCLUSION → benefit never reaches an eligible person; instrument: fallback and grievance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ERROR → merging all three into plugging the leakages produces recommendations that fail.",
+      "source_references": [
+        "Leakage, exclusion and inefficiency are three different failures",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-13\\g3\\governance-13_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PROCUREMENT FAILURE AND INTEGRITY MAP",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PROCUREMENT FAILURE AND INTEGRITY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "OVER-SPECIFIED OR VENDOR-TAILORED TERMS NARROW THE FIELD BEFORE BIDDING",
+          "role": "outcome"
+        },
+        {
+          "text": "SINGLE-BID AND LIMITED-COMPETITION OUTCOMES REMOVE THE PRICE DISCIPLINE",
+          "role": "comparison"
+        },
+        {
+          "text": "LOWEST-COST SELECTION FOR QUALITY-DEPENDENT SERVICES BUYS THE WRONG THING",
+          "role": "evidence"
+        },
+        {
+          "text": "AFTER AWARD",
+          "role": "primary"
+        },
+        {
+          "text": "WEAK CONTRACT MANAGEMENT AND THIN TECHNICAL EVALUATION CAPACITY",
+          "role": "outcome"
+        },
+        {
+          "text": "DISCLOSURE, DEBARMENT, INDEPENDENT COMPLAINT HANDLING, AUDIT OF THE AWARD",
+          "role": "comparison"
+        },
+        {
+          "text": "TIGHTER RULES RAISE INTEGRITY, LENGTHEN TIMELINES AND DETER CAPABLE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SPECIFICATION → over-specified or vendor-tailored terms narrow the field before bidding",
+        "COMPETITION → single-bid and limited-competition outcomes remove the price discipline",
+        "SELECTION → lowest-cost selection for quality-dependent services buys the wrong thing",
+        "AFTER AWARD → weak contract management and thin technical evaluation capacity",
+        "INTEGRITY → disclosure, debarment, independent complaint handling, audit of the award"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SPECIFICATION → over-specified or vendor-tailored terms narrow the field before bidding",
+            "COMPETITION → single-bid and limited-competition outcomes remove the price discipline"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SELECTION → lowest-cost selection for quality-dependent services buys the wrong thing",
+            "AFTER AWARD → weak contract management and thin technical evaluation capacity"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INTEGRITY → disclosure, debarment, independent complaint handling, audit of the award",
+            "TRADE-OFF → tighter rules raise integrity, lengthen timelines and deter capable suppliers"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRADE-OFF → tighter rules raise integrity, lengthen timelines and deter capable suppliers.",
+      "source_references": [
+        "Procurement failure points beyond corruption",
+        "Procurement integrity instruments and the disclosure discipline",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-13\\g3\\governance-13_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "LOCAL-BODY FINANCE THREE-SOURCE TEST",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LOCAL-BODY FINANCE THREE-SOURCE TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "SOURCE 1",
+          "role": "evidence"
+        },
+        {
+          "text": "OWN REVENUE RAISED BY THE LOCAL BODY ITSELF",
+          "role": "comparison"
+        },
+        {
+          "text": "SOURCE 2",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE DEVOLUTION ON STATE FINANCE COMMISSION RECOMMENDATIONS",
+          "role": "institution"
+        },
+        {
+          "text": "SOURCE 3",
+          "role": "evidence"
+        },
+        {
+          "text": "UNION FINANCE COMMISSION GRANTS UNDER ARTICLE 280(3)(BB) AND ARTICLE",
+          "role": "institution"
+        },
+        {
+          "text": "DEPENDENCE ON SOURCE THREE ALONE IS SPENDING CAPACITY WITHOUT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SOURCE 1 → own revenue raised by the local body itself",
+        "SOURCE 2 → State devolution on State Finance Commission recommendations",
+        "SOURCE 3 → Union Finance Commission grants under Article 280(3)(bb) and Article 280(3)(c)",
+        "TEST → dependence on source three alone is spending capacity without fiscal autonomy",
+        "CONDITION → audited accounts, predictable release, transparent formula, public disclosure"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SOURCE 1 → own revenue raised by the local body itself",
+            "SOURCE 2 → State devolution on State Finance Commission recommendations"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOURCE 3 → Union Finance Commission grants under Article 280(3)(bb) and Article 280(3)(c)",
+            "TEST → dependence on source three alone is spending capacity without fiscal autonomy"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONDITION → audited accounts, predictable release, transparent formula, public disclosure",
+            "SOURCE 1 → own revenue raised by the local body itself"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONDITION → audited accounts, predictable release, transparent formula, public disclosure.",
+      "source_references": [
+        "Local-body finance and the three-source test",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-13\\g3\\governance-13_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER SPINE FOR A FINANCIAL-FLOW DEMAND",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE FOR A FINANCIAL-FLOW DEMAND",
+          "role": "mechanism"
+        },
+        {
+          "text": "NAME THE STAGE OF THE CHAIN THE STEM OCCUPIES",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSIGN EACH TOOL ITS OWN PROBLEM, MECHANISM AND LIMITATION",
+          "role": "mechanism"
+        },
+        {
+          "text": "SEPARATE LEAKAGE, EXCLUSION AND INEFFICIENCY AND STATE WHICH ERROR",
+          "role": "institution"
+        },
+        {
+          "text": "GRADED VERDICT WITH THE REPORTING-DATE CAVEAT AND NO DASHBOARD",
+          "role": "caution"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "USE PFMS, DBT, GOVERNMENT E-MARKETPLACE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "OPEN → name the stage of the chain the stem occupies and the failure that",
+        "BUILD → assign each tool its own problem, mechanism and limitation, never one system",
+        "CORRECT → separate leakage, exclusion and inefficiency and state which error is borne",
+        "CLOSE → graded verdict with the reporting-date caveat and no dashboard total asserted",
+        "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use PFMS, DBT, Government e-Marketplace"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → name the stage of the chain the stem occupies and the failure that belongs to it",
+            "BUILD → assign each tool its own problem, mechanism and limitation, never one system"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CORRECT → separate leakage, exclusion and inefficiency and state which error is borne",
+            "CLOSE → graded verdict with the reporting-date caveat and no dashboard total asserted"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use PFMS, DBT, Government e-Marketplace,...",
+            "OPEN → name the stage of the chain the stem occupies and the failure that belongs to it"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → graded verdict with the reporting-date caveat and no dashboard total asserted.",
+      "source_references": [
+        "Outcome measurement, data quality and honest question ownership",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\13_Public-Finance-and-Service-Delivery-Tools.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-13\\g3\\governance-13_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "A RIGOROUS CRITIQUE OF DBT \"SAVINGS\" FIGURES SHOULD NOTE",
+          "role": "outcome"
+        },
+        {
+          "text": "SNA'S JUST-IN-TIME RELEASE MODEL ILLUSTRATES A RECURRING CENTRE-STATE FISCAL",
+          "role": "institution"
+        },
+        {
+          "text": "PFMS'S SCHEME-COVERAGE EXPANSION OVER TIME (FROM A NARROWER INITIAL",
+          "role": "evidence"
+        },
+        {
+          "text": "THE DBT MISSION COORDINATES POLICY ACROSS MINISTRIES BUT DOES",
+          "role": "primary"
+        },
+        {
+          "text": "PFMS HAS PROGRESSIVELY EXPANDED ITS SCHEME COVERAGE AND FUNCTIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "THE GENERAL FINANCIAL RULES WERE COMPREHENSIVELY REVISED IN 2017",
+          "role": "comparison"
+        },
+        {
+          "text": "THE SNA MODEL, APPLIED PROGRESSIVELY TO MORE CENTRALLY SPONSORED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: A rigorous critique of DBT \"savings\" figures should note that reported savings",
+            "CAUTION: SNA's just-in-time release model illustrates a recurring Centre-State fiscal",
+            "CAUTION: PFMS's scheme-coverage expansion over time (from a narrower initial set of schemes to a",
+            "The DBT Mission coordinates policy across ministries but does not itself administer"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "PFMS has progressively expanded its scheme coverage and functional scope (from fund",
+            "The General Financial Rules were comprehensively revised in 2017, consolidating and",
+            "CAUTION: The SNA model, applied progressively to more centrally sponsored schemes since its",
+            "CAUTION: A PDS or MGNREGA de-duplication exercise removing verified-fake job cards/ration cards"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: Boundary case: a genuinely eligible elderly pension beneficiary repeatedly failing",
+            "CAUTION: A state receiving just-in-time SNA-routed funds for a centrally sponsored scheme,",
+            "CAUTION: DBT's de-duplication strength in reducing E1 (inclusion error/leakage) must be weighed",
+            "CAUTION: SNA's just-in-time release improves Union-level fiscal discipline and visibility but"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

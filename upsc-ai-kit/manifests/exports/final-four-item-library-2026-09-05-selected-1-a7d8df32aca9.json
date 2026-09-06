@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-05T04:49:35+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "67aa0ba7f22f42243201cb98d4423dcbdbe621cae55a755c944d5cadc7589a3c",
+    "sha256_after": "67aa0ba7f22f42243201cb98d4423dcbdbe621cae55a755c944d5cadc7589a3c",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Geography": 1
+  },
+  "sections": {
+    "Geography — Part A — Physical Geography": 1
+  },
+  "library_totals": {
+    "file_count": 10009,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1675,
+    "json_count": 4109,
+    "total_bytes": 4221759387,
+    "by_extension": {
+      ".json": 4109,
+      ".md": 1675,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "geography-08",
+      "topic_title": "Limestone and Karst Landforms / India Caves-Meghalayan Age",
+      "subject": "Geography",
+      "section": "Part A — Physical Geography",
+      "catalogue_number": 8,
+      "source_record_id": "geography-08:learner-v2:g5",
+      "source_generation": 5,
+      "destination_folder": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\08-Limestone-and-Karst-1747e64f-Caves-Meghalayan-Age",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-08\\g5\\geography-08_Complete-Learning-Session_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\08-Limestone-and-Karst-1747e64f-Caves-Meghalayan-Age\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "8283c7514c65f27e80eeb4de446c71b569d39b24d7cba7e041b262f5a0352990",
+          "output_sha256": "8283c7514c65f27e80eeb4de446c71b569d39b24d7cba7e041b262f5a0352990",
+          "source_output_equal": true,
+          "bytes": 577113
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-08\\g5\\geography-08_Solved-Practice-Workbook_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\08-Limestone-and-Karst-1747e64f-Caves-Meghalayan-Age\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "a6f0e2d22d97fd396184da937e096a2d9cc44816a3c9e93046c8bf132fa1b572",
+          "output_sha256": "a6f0e2d22d97fd396184da937e096a2d9cc44816a3c9e93046c8bf132fa1b572",
+          "source_output_equal": true,
+          "bytes": 450418
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-08\\carvaka-g5\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\08-Limestone-and-Karst-1747e64f-Caves-Meghalayan-Age\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "596b4870a09aabb921e0ef4d41121fe4600ced47718e79a864719f7be0d11f6d",
+          "output_sha256": "596b4870a09aabb921e0ef4d41121fe4600ced47718e79a864719f7be0d11f6d",
+          "source_output_equal": true,
+          "bytes": 1914590
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-08\\carvaka-g5\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\08-Limestone-and-Karst-1747e64f-Caves-Meghalayan-Age\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "a5fa0b770f90cc383b4b13aa021594138f4046c1f718d055477b51848399c3da",
+          "output_sha256": "a5fa0b770f90cc383b4b13aa021594138f4046c1f718d055477b51848399c3da",
+          "source_output_equal": true,
+          "bytes": 2286327
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-08\\carvaka-g5\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\08-Limestone-and-Karst-1747e64f-Caves-Meghalayan-Age\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "d573f2b0d375ae944989f566655585f6274f7516fa3740fc0a03f857f03a9509",
+          "output_sha256": "d573f2b0d375ae944989f566655585f6274f7516fa3740fc0a03f857f03a9509",
+          "source_output_equal": true,
+          "bytes": 1704751
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-08\\carvaka-g5\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\08-Limestone-and-Karst-1747e64f-Caves-Meghalayan-Age\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "99edb64296e1eaf058e33af9cff7332cba8eae995e22480e3f442a1c89897bc4",
+          "output_sha256": "99edb64296e1eaf058e33af9cff7332cba8eae995e22480e3f442a1c89897bc4",
+          "source_output_equal": true,
+          "bytes": 4153
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-08\\carvaka-g5\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\08-Limestone-and-Karst-1747e64f-Caves-Meghalayan-Age\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "b8998e14df0082a0cb86b70e2c2827bfe1549b5ff73769949eb52db6306eefec",
+          "output_sha256": "b8998e14df0082a0cb86b70e2c2827bfe1549b5ff73769949eb52db6306eefec",
+          "source_output_equal": true,
+          "source_text_sha256": "99edb64296e1eaf058e33af9cff7332cba8eae995e22480e3f442a1c89897bc4",
+          "normalized_text_equal": true,
+          "bytes": 56192
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 11,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 47,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 51,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 50,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 52,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 49,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 46,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 11,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 11,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 64,
+        "solved_practice_workbook": 35,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 64,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 35,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10772
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

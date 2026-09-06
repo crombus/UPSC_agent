@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-35",
+  "title": "NHRC and SHRC",
+  "generation": 8,
+  "generation_date": "2026-09-05",
+  "approval": false,
+  "review_state": "passed",
+  "baseline_record_id": "polity-35:learner-v2:g5",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\NHRC-and-SHRC.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\NHRC-and-SHRC.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\35_NHRC-and-SHRC.md",
+  "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+  "pyq_ledgers": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+  ],
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+    "upsc-ai-kit\\knowledge\\Political-Theory\\basic\\17_Human-Rights-Civil-Liberties-and-Democratic-Rights.md": "4e253cb3313a110eebe1e1c3cd6dbbd01c169fe281969daa3c80eae5c0709f5a",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\35_NHRC-and-SHRC.md": "7d367e11c3f652f9daaf3ff9d36b962c62ccaa2ee865de64ebb1e42914e36b19",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md": "0e917838b5ce6168b85bc6d986699728c10600d6010ff2bf303caf41b0729b4f",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\National-Commissions-SC-ST-BC.md": "a2dc9e573379c47b2ef3835ce0e4c3e79690405a6d041c8f6de35f651323e23c",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\NHRC-and-SHRC.md": "309dcc04ccc143b42369d8e3904c19cabcc99d352903b85ce42fc2170c050613",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Statutory-Regulatory-and-Quasi-Judicial-Bodies.md": "06b5119d2410d5c4602dde2e2cb4ea3c7640f0898a5323ba563c0bc8fdc198ca",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Supreme-Court.md": "ac05a06d4ed198b9fa6f1aaf1f6b19ae1fd68397275d9b467c1f88d5bc90e10d",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "fecfb9e4a78671056ff154eb37c92412a47f77baaffa362f6cbe0c9b610fee50",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md": "8a2559da77f8dd12061f510946d689be7ffdae32b79752cfe0980e657f76176d"
+  },
+  "coverage_contract": {
+    "complete_core_before_advanced": true,
+    "evidence_classes_distinguished": true,
+    "contested_claims_qualified": true,
+    "all_solved_answers_exam_executable": true,
+    "strict_mcq_rotation": true,
+    "graphical_and_ascii_independently_complete": true,
+    "current_examples_source_dated": true
+  },
+  "repairs": [
+    "Hostile four-ledger ownership/PYQ control is absent.",
+    "Authoritative current-law source status is not dated."
+  ],
+  "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\g8\\polity-35_Complete-Learning-Session_2026-09-05.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\g8\\polity-35_Solved-Practice-Workbook_2026-09-05.md",
+  "live_official_sources": [
+    "https://www.indiacode.nic.in/handle/123456789/15709",
+    "https://nhrc.nic.in/acts-and-rules/protection-human-rights-act-1993",
+    "https://nhrc.nic.in/about-us/composition_of_commission",
+    "https://www.ohchr.org/en/instruments-mechanisms/instruments/principles-relating-status-national-institutions-paris",
+    "https://ganhri.org/accreditation/sca-reports/",
+    "https://ganhri.org/upcoming-sessions/",
+    "https://api.sci.gov.in/jonew/judis/25688.pdf",
+    "https://api.sci.gov.in/jonew/judis/43775.pdf"
+  ],
+  "current_status_control": "Rechecked 2026-09-05: the PHRA 1993 as amended in 2019 controls composition, three-year tenure and jurisdiction. The official NHRC page displays four ordinary incumbents; GANHRI alteration review remains pending rather than a completed downgrade.",
+  "live_sources_rechecked_on": "2026-09-05"
+}

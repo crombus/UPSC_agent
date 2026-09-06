@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-05T04:22:50+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "da7d20a0e7ee363dfe63806b18a6046b86094e252e03d4c2b78a0fc69e836afb",
+    "sha256_after": "da7d20a0e7ee363dfe63806b18a6046b86094e252e03d4c2b78a0fc69e836afb",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Geography": 1
+  },
+  "sections": {
+    "Geography — Part A — Physical Geography": 1
+  },
+  "library_totals": {
+    "file_count": 9976,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1668,
+    "json_count": 4083,
+    "total_bytes": 4221573361,
+    "by_extension": {
+      ".json": 4083,
+      ".md": 1668,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "geography-03",
+      "topic_title": "Vulcanism and Earthquakes / India Seismic Zones",
+      "subject": "Geography",
+      "section": "Part A — Physical Geography",
+      "catalogue_number": 3,
+      "source_record_id": "geography-03:learner-v2:g10",
+      "source_generation": 10,
+      "destination_folder": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\03-Vulcanism-and-Earthquakes-India-Seismic-Zones",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-03\\g10\\geography-03_Complete-Learning-Session_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\03-Vulcanism-and-Earthquakes-India-Seismic-Zones\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "3dedfd334c4fe9e6ffc2247928c5c83500c5cb3b4dcf7a1b05e3f13622760efa",
+          "output_sha256": "3dedfd334c4fe9e6ffc2247928c5c83500c5cb3b4dcf7a1b05e3f13622760efa",
+          "source_output_equal": true,
+          "bytes": 694388
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-03\\g10\\geography-03_Solved-Practice-Workbook_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\03-Vulcanism-and-Earthquakes-India-Seismic-Zones\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "10f6b9b6b19f780979f04740b2992f37b4895505965a8a64bd09825aa12955a0",
+          "output_sha256": "10f6b9b6b19f780979f04740b2992f37b4895505965a8a64bd09825aa12955a0",
+          "source_output_equal": true,
+          "bytes": 526729
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-03\\carvaka-g10\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\03-Vulcanism-and-Earthquakes-India-Seismic-Zones\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "68ff28657285d6ea269689879886a3763db64e2e171957d35bf74cf3983a54a8",
+          "output_sha256": "68ff28657285d6ea269689879886a3763db64e2e171957d35bf74cf3983a54a8",
+          "source_output_equal": true,
+          "bytes": 2578543
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-03\\carvaka-g10\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\03-Vulcanism-and-Earthquakes-India-Seismic-Zones\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "cd1fa5c29584770ca2323c56e8239c44d9ff5af3281d17e3a38ba3560a08d1d5",
+          "output_sha256": "cd1fa5c29584770ca2323c56e8239c44d9ff5af3281d17e3a38ba3560a08d1d5",
+          "source_output_equal": true,
+          "bytes": 3170066
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-03\\carvaka-g10\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\03-Vulcanism-and-Earthquakes-India-Seismic-Zones\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "3877341acd423f8e03c01ed2e741daa4fec862aeced31b306ffe25d381427333",
+          "output_sha256": "3877341acd423f8e03c01ed2e741daa4fec862aeced31b306ffe25d381427333",
+          "source_output_equal": true,
+          "bytes": 2267085
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-03\\carvaka-g10\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\03-Vulcanism-and-Earthquakes-India-Seismic-Zones\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "0a8481e4a6168897b7e418a5af4737c7e41483b6d92bf0f89ad17c3188c614e0",
+          "output_sha256": "0a8481e4a6168897b7e418a5af4737c7e41483b6d92bf0f89ad17c3188c614e0",
+          "source_output_equal": true,
+          "bytes": 10589
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-03\\carvaka-g10\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\03-Vulcanism-and-Earthquakes-India-Seismic-Zones\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "334b4fa8e19a7d83ba42bf8ffd96e42f4af6933926f666de10cec05c77cca2d8",
+          "output_sha256": "334b4fa8e19a7d83ba42bf8ffd96e42f4af6933926f666de10cec05c77cca2d8",
+          "source_output_equal": true,
+          "source_text_sha256": "0a8481e4a6168897b7e418a5af4737c7e41483b6d92bf0f89ad17c3188c614e0",
+          "normalized_text_equal": true,
+          "bytes": 60513
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 29,
+            "maximum_line_characters": 99,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 23,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 18,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 20,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 21,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 17,
+            "maximum_line_characters": 99,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 20,
+            "maximum_line_characters": 100,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 22,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 9,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 9,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 97,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 76,
+        "solved_practice_workbook": 29,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 76,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 29,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          13184
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

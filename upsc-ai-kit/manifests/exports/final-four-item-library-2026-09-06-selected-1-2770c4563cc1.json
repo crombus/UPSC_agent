@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T06:22:30+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\environment-and-ecology-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "9eab541080d2d6fef207d2886628044438c8e5be24b0022b4fd1a2e5d7312877",
+    "sha256_after": "9eab541080d2d6fef207d2886628044438c8e5be24b0022b4fd1a2e5d7312877",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Environment and Ecology": 1
+  },
+  "sections": {
+    "Environment and Ecology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11301,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1932,
+    "json_count": 5144,
+    "total_bytes": 4272507381,
+    "by_extension": {
+      ".json": 5144,
+      ".md": 1932,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-17",
+      "topic_title": "Climate Change Science Greenhouse Effect",
+      "subject": "Environment and Ecology",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 17,
+      "source_record_id": "environment-and-ecology-17:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\17-Climate-Change-Science-Greenhouse-Effect",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-17\\g4\\environment-and-ecology-17_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\17-Climate-Change-Science-Greenhouse-Effect\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "2934679905adf967fe0469042eb3adec2b501a1f212042e1ef9fad9501016737",
+          "output_sha256": "2934679905adf967fe0469042eb3adec2b501a1f212042e1ef9fad9501016737",
+          "source_output_equal": true,
+          "bytes": 685352
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-17\\g4\\environment-and-ecology-17_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\17-Climate-Change-Science-Greenhouse-Effect\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "0fbf03e880344c63e89861ebb954486ec5ba7686912ff56df605e818161616f4",
+          "output_sha256": "0fbf03e880344c63e89861ebb954486ec5ba7686912ff56df605e818161616f4",
+          "source_output_equal": true,
+          "bytes": 524695
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-17\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\17-Climate-Change-Science-Greenhouse-Effect\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "256f8284dbb587cf4b6c1f445e4498fd6b77f70bea4ef6bc35846af0f6ea9658",
+          "output_sha256": "256f8284dbb587cf4b6c1f445e4498fd6b77f70bea4ef6bc35846af0f6ea9658",
+          "source_output_equal": true,
+          "bytes": 2032222
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-17\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\17-Climate-Change-Science-Greenhouse-Effect\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "580ef2e2128715a3d536d44170f307c9d43f6a09a124021b82bdeae6d1591dbb",
+          "output_sha256": "580ef2e2128715a3d536d44170f307c9d43f6a09a124021b82bdeae6d1591dbb",
+          "source_output_equal": true,
+          "bytes": 2474672
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-17\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\17-Climate-Change-Science-Greenhouse-Effect\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "f0c520369a219a6f06ec87e0784393d112c3395914dcb7ea780a90d6b2673353",
+          "output_sha256": "f0c520369a219a6f06ec87e0784393d112c3395914dcb7ea780a90d6b2673353",
+          "source_output_equal": true,
+          "bytes": 1802731
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-17\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\17-Climate-Change-Science-Greenhouse-Effect\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "4a0a3e5d3e6a81a6159ff81cc11471f03368c87006df04b2ee94bd1983414e09",
+          "output_sha256": "4a0a3e5d3e6a81a6159ff81cc11471f03368c87006df04b2ee94bd1983414e09",
+          "source_output_equal": true,
+          "bytes": 4343
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-17\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\17-Climate-Change-Science-Greenhouse-Effect\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "fd5def7a6dcfb5e28591c6b1126f6bc0a656e2f3ba13d77503347666c649ffad",
+          "output_sha256": "fd5def7a6dcfb5e28591c6b1126f6bc0a656e2f3ba13d77503347666c649ffad",
+          "source_output_equal": true,
+          "source_text_sha256": "4a0a3e5d3e6a81a6159ff81cc11471f03368c87006df04b2ee94bd1983414e09",
+          "normalized_text_equal": true,
+          "bytes": 56690
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 8,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 6,
+            "maximum_line_characters": 66,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 6,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 6,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 6,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 6,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 6,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 6,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 63,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 8,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 8,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 62,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 94,
+        "solved_practice_workbook": 58,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 94,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 58,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10648
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

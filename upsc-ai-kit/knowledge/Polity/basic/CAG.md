@@ -184,3 +184,40 @@ most important officer under the Constitution."**
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional/statutory map:** Articles 148-151 create and protect the
+  single Comptroller and Auditor General; Article 149 leaves detailed duties to
+  Parliament, chiefly the Comptroller and Auditor-General's (Duties, Powers and
+  Conditions of Service) Act, 1971, as amended in 1976, 1984, 1987 and 1994.
+- **Current officeholder:** the official CAG page rechecked on 5 September 2026
+  identifies Shri K. Sanjay Murthy, sworn in and assuming office on
+  21 November 2024.
+- **Appointment and tenure:** the President appoints by warrant under hand and
+  seal. Section 4 of the 1971 Act fixes six years or age sixty-five, whichever
+  is earlier. Removal follows the Supreme-Court-judge process; service
+  conditions cannot be varied to disadvantage after appointment.
+- **Independence:** salary and administrative expenses are charged on the
+  Consolidated Fund of India, and the CAG is ineligible for further office
+  under the Union or a State after demitting office. The Constitution prescribes
+  no collegium for appointment.
+- **Functions:** audit receipts and expenditure and the three public-account
+  funds within the statutory mandate; audit grants, substantially financed
+  bodies, government companies and corporations through their governing legal
+  routes; advise the President on the form of accounts under Article 150; and
+  finally certify net proceeds under Article 279.
+- **Report route:** Union reports go to the President for laying before
+  Parliament; State reports go to the Governor for laying before the State
+  legislature. PAC/COPU scrutiny and executive follow-up give reports
+  consequence; the CAG does not itself recover, prosecute or invalidate.
+- **Audit limits:** India's CAG does not control the issue of money and is
+  therefore a comptroller in name but an ex-post auditor in operation.
+  Legality/compliance audit is mandatory; propriety and performance review must
+  not become substitution of audit judgment for lawful policy choice.
+- **Classification control:** there is no immutable constitutional list of
+  exactly three reports, and entity labels alone do not decide audit coverage.
+  Apply the DPC Act, Companies Act and entity statute rather than memorised lists.
+- **PYQ/ownership firewall:** direct 2018 appointment-powers and 2024
+  legality-propriety demands are owned here; Budget procedure, parliamentary
+  committees and Finance Commission devolution remain cross-owned.

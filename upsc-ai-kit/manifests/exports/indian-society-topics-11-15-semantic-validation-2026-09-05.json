@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "batch_id": "indian-society-topics-11-15-semantic-2026-09-05",
+  "generated_on": "2026-09-05",
+  "result": "passed",
+  "approval": false,
+  "sequence": {
+    "strict_order": [
+      "indian-society-11",
+      "indian-society-12",
+      "indian-society-13",
+      "indian-society-14",
+      "indian-society-15"
+    ],
+    "one_topic_at_a_time": true
+  },
+  "accepted_identities": [
+    "indian-society-11:learner-v2:g3",
+    "indian-society-12:learner-v2:g3",
+    "indian-society-13:learner-v2:g3",
+    "indian-society-14:learner-v2:g3",
+    "indian-society-15:learner-v2:g3"
+  ],
+  "aggregate_metrics": {
+    "main_pdf_pages": 443,
+    "workbook_pdf_pages": 250,
+    "solved_blocks": 53,
+    "mcqs": 400,
+    "ascii_panels": 60,
+    "graphical_stages": 60,
+    "targeted_tests": 1083
+  },
+  "quality_controls": {
+    "all_ten_semantic_gates_passed": true,
+    "all_topic_validations_passed": true,
+    "all_approvals_false": true,
+    "mcq_rotation_abcd": true,
+    "blank_pages": 0,
+    "near_empty_pages": 0,
+    "clipped_text_pages": 0,
+    "replacement_glyph_pages": 0,
+    "unresolved_blockers": []
+  },
+  "status": {
+    "indian_society": "passed",
+    "indian_society_topics": "15/15",
+    "global_passed": "218/516",
+    "next_topic_key": "polity-01",
+    "next_topic": "Polity — Historical Background"
+  }
+}

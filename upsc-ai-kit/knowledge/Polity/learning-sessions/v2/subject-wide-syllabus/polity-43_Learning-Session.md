@@ -2,14 +2,14 @@
 
 **Complete independent learning session + verified PYQ routing + solved practice workbook + final consolidated register notes**
 
-**Legal/current control date:** 25 August 2026 (Asia/Kolkata)
+**Legal/current control date:** 5 September 2026 (Asia/Kolkata)
 
 > **Tag key:** `[FACT]` = named constitutional, statutory, official, judicial or audited local support; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked for the control date; `[LIMIT]` = qualification.
 >
 > **Answer-writing discipline:** claim -> named evidence -> analysis -> qualification.
 
-- [CURRENT] Status is controlled to **25 August 2026, Asia/Kolkata**.
-- [CURRENT] **Live official refresh, 25 August 2026:** Section 29A, the Election Symbols Order, the post-electoral-bonds legal position and controlling party-registration, disclosure, criminalisation and symbol-dispute decisions were rechecked on 25 August 2026. Recognition criteria are stated as dated rules; the current list of recognised parties is deliberately not frozen.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
+- [CURRENT] **Live official refresh, 5 September 2026:** Section 29A, the Election Symbols Order, the post-electoral-bonds legal position and controlling party-registration, disclosure, criminalisation and symbol-dispute decisions were rechecked on 5 September 2026. Recognition criteria are stated as dated rules; the current list of recognised parties is deliberately not frozen.
 
 #### How to Use This Package
 
@@ -83,7 +83,7 @@ The exam-safe limitation is that [CURRENT] Electoral Bonds struck down by the SC
 ![Topic-specific visual map: Current link.](../../../../../../notes/Polity/assets/43_Political-Parties/03_current_link.png)
 [CURRENT] **Electoral Bonds struck down** by the SC (**ADR case, Feb 2024**) as unconstitutional
 (right to information). **ECI orders of 10 Apr 2023** made AAP a national party and withdrew
-national status from TMC, NCP and CPI; **official list checked 21 Jul 2026 as a dated illustration only; the list must be rechecked before use**. The RTI/inner-party-democracy debate continues.
+national status from TMC, NCP and CPI; **official list checked 5 September 2026 as a dated illustration only; the list must be rechecked before use**. The RTI/inner-party-democracy debate continues.
 
 ### 05. 5. Answer architecture (10/15/20-mark support)
 
@@ -269,7 +269,7 @@ Its principal consequence is that [LIMIT] Do not quantify party income, corporat
 The decisive contrast is between [LIMIT] Do not quantify party income, corporate-donation shares or bond values from memory; funding figures change and are contested and [LIMIT] Do not quantify party income, corporate-donation shares or bond values from memory; funding figures change and are contested.
 The exam-safe limitation is that [LIMIT] Do not quantify party income, corporate-donation shares or bond values from memory; funding figures change and are contested.
 ![Topic-specific visual map: 5.11 Factual-risk and current-status controls.](../../../../../../notes/Polity/assets/43_Political-Parties/10_5_11_factual_risk_and_current_status_controls.png)
-- [CURRENT] **Recognition thresholds and national-party counts change by ECI order.** State the *criteria structure* (votes-plus-seats in either House) and cross-link `basic/Election-Commission.md`; if a count is needed, mark it [CURRENT] with the check date (e.g. six national parties, list checked 21 Jul 2026) and flag it for re-verification.
+- [CURRENT] **Recognition thresholds and national-party counts change by ECI order.** State the *criteria structure* (votes-plus-seats in either House) and cross-link `basic/Election-Commission.md`; if a count is needed, mark it [CURRENT] with the check date (e.g. six national parties, list checked 5 September 2026) and flag it for re-verification.
 - [FACT] **Distinguish the legal layers:** Tenth Schedule (Constitution) ≠ Sec 29A (statute) ≠ 1968 Symbols Order (ECI subordinate order). Do not attribute registration to the Constitution or recognition to the RPA sections alone.
 - [FACT] **Electoral bonds:** the scheme was **struck down (Feb 2024)**; do not describe it as an operative funding route. Cite *ADR* as a **right-to-information (Art 19(1)(a))** holding.
 - [LIMIT] **Do not quantify** party income, corporate-donation shares or bond values from memory; funding figures change and are contested.
@@ -323,6 +323,47 @@ The exam-safe limitation is that regulator should not select a party's ideology,
 
 [LIMIT] A statutory internal-democracy floor can protect members and voters, but a
 regulator should not select a party's ideology, leadership or candidates.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Layered legal identity:** Section 29A of the Representation of the People
+  Act, 1951 governs registration; the Election Symbols (Reservation and
+  Allotment) Order, 1968 governs recognition and symbols; the Tenth Schedule
+  governs legislative defection. These are not interchangeable.
+- **Registration:** an association of Indian citizens applies to the ECI and
+  must carry the statutory constitutional-allegiance declaration. Registration
+  does not itself confer National or State party recognition.
+- **Bounded deregistration:** Indian National Congress (I) v Institute of
+  Social Welfare (2002) treats the ECI's Section 29A function as quasi-judicial
+  and rejects a general merits-based deregistration power, while preserving
+  narrow fraud, non-compliance and unlawful-object situations recognised in
+  the judgment.
+- **Recognition and symbols:** the Symbols Order supplies performance criteria,
+  reserved/free symbols and paragraph 15 faction adjudication. Sadiq Ali
+  sustains the ECI's party-identity jurisdiction. Recognition lists and
+  election-specific concessions are date-sensitive and deliberately unfrozen.
+- **Finance:** Sections 29B-29C, the Companies Act, Income-tax law, FCRA and ECI
+  disclosure directions operate through different tests. A contribution
+  threshold, foreign-source rule or candidate-expenditure ceiling must not be
+  transferred to another legal route.
+- **Electoral bonds, checked 5 September 2026:** Association for Democratic
+  Reforms v Union of India, 2024 INSC 113, remains the controlling official
+  judgment invalidating the scheme and enabling amendments on Article
+  19(1)(a), proportionality and corporate-funding grounds. It did not enact a
+  complete new campaign-finance code.
+- **Criminalisation:** ADR (2002) and PUCL (2003) ground candidate disclosure;
+  Lily Thomas removes the former sitting-member protection after conviction;
+  Rambabu Singh Thakur requires party publication of criminal antecedents and
+  reasons for selection. Disclosure is not pre-conviction disqualification.
+- **Internal democracy:** no comprehensive enacted party-democracy code
+  controls leadership succession, membership and candidate selection. ECI,
+  committee and Law Commission proposals remain proposals.
+- **System analysis:** national/regional behaviour varies with organisation,
+  territorial base and position in Union or State power. Coalition,
+  centralisation and autonomy claims require evidence and qualification.
+- **PYQ firewall:** the 2022 GS-II centralisation/autonomy demand is shared
+  with Federal System, while the party-system incentive analysis is owned
+  here. Recognition and finance questions retain exact legal-source labels.
 
 ## BASIC MCQS / REMEDIATION
 
@@ -1090,7 +1131,7 @@ regulator should not select a party's ideology, leadership or candidates.
   Electoral Bond Scheme **unconstitutional** (violates the **right to information, Art 19(1)(a)**); ordered the SBI to
   disclose donor data.
 - 📰 ✅ **ECI orders dated 10 Apr 2023:** AAP gained national-party status; TMC,
-  NCP and CPI lost it. **Status checked 21 Jul 2026 against ECI's notified list:** six
+  NCP and CPI lost it. **Status checked 5 September 2026 against ECI's notified list:** six
   national parties — BJP, INC, CPI(M), BSP, NPP and AAP.
 - 📰 Debate on bringing parties under the **RTI Act** (CIC held 6 national parties are "public authorities," 2013 — not
   complied with) and **inner-party democracy** / criminalisation of politics.
@@ -1125,7 +1166,7 @@ regulator should not select a party's ideology, leadership or candidates.
 
 ### Political Parties: Rapid Constitutional Recall
 
-- **Current-control rule:** Section 29A, the Election Symbols Order, the post-electoral-bonds legal position and controlling party-registration, disclosure, criminalisation and symbol-dispute decisions were rechecked on 25 August 2026. Recognition criteria are stated as dated rules; the current list of recognised parties is deliberately not frozen.
+- **Current-control rule:** Section 29A, the Election Symbols Order, the post-electoral-bonds legal position and controlling party-registration, disclosure, criminalisation and symbol-dispute decisions were rechecked on 5 September 2026. Recognition criteria are stated as dated rules; the current list of recognised parties is deliberately not frozen.
 - **Factual caveat:** India has no comprehensive constitutional party code. Registration, recognition, finance, defection and candidate disclosure arise from different legal instruments. The ECI cannot use Section 29A as a general merits-based deregistration power, and the electoral-bonds judgment did not create a complete campaign-finance code.
 
 #### Snapshot
@@ -1150,7 +1191,7 @@ regulator should not select a party's ideology, leadership or candidates.
 
 - [CURRENT] Electoral Bonds struck down by the SC ( ADR case, Feb 2024 ) as unconstitutional
 - (right to information). ECI orders of 10 Apr 2023 made AAP a national party and withdrew
-- national status from TMC, NCP and CPI; official list checked 21 Jul 2026 as a dated illustration only; the list must be rechecked before use . The RTI/inner-party-democracy debate continues.
+- national status from TMC, NCP and CPI; official list checked 5 September 2026 as a dated illustration only; the list must be rechecked before use . The RTI/inner-party-democracy debate continues.
 
 #### 5. Answer architecture (10/15/20-mark support)
 

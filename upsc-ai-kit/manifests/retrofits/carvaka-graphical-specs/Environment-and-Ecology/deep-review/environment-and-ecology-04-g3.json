@@ -1,0 +1,1186 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-04",
+  "subject": "Environment-and-Ecology",
+  "title": "BIODIVERSITY LEVELS AND HOTSPOTS",
+  "short_route": "THREE-LEVEL BIODIVERSITY LADDER → SPECIES-DIVERSITY COMPONENTS → ALPHA BETA GAMMA MAP → ECOLOGICAL AND TAXONOMIC AXES → DISTRIBUTION VOCABULARY → HOTSPOT CRITERIA GATE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g3\\environment-and-ecology-04_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-04-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "03552ac50055333181f137050365e38fe98a06101024b12544363e09b48e847e",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THREE-LEVEL BIODIVERSITY LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THREE-LEVEL BIODIVERSITY LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "VARIATION WITHIN A SPECIES OR POPULATION",
+          "role": "outcome"
+        },
+        {
+          "text": "VARIETY AND RELATIVE ABUNDANCE WITHIN A STATED AREA",
+          "role": "comparison"
+        },
+        {
+          "text": "VARIETY OF HABITATS, COMMUNITIES AND PROCESSES",
+          "role": "evidence"
+        },
+        {
+          "text": "LOSS AT ONE LEVEL CAN WEAKEN THE OTHERS",
+          "role": "primary"
+        },
+        {
+          "text": "LEVEL IS ECOLOGICAL SCALE, NOT TAXONOMIC RANK",
+          "role": "caution"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "BIODIVERSITY OPERATES AT GENETIC, SPECIES AND ECOSYSTEM LEVELS; RICHNESS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GENETIC → variation within a species or population",
+        "SPECIES → variety and relative abundance within a stated area",
+        "ECOSYSTEM → variety of habitats, communities and processes",
+        "DEPENDENCE → loss at one level can weaken the others",
+        "RULE → level is ecological scale, not taxonomic rank"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GENETIC → variation within a species or population",
+            "SPECIES → variety and relative abundance within a stated area"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ECOSYSTEM → variety of habitats, communities and processes",
+            "DEPENDENCE → loss at one level can weaken the others"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → level is ecological scale, not taxonomic rank",
+            "MUST REMEMBER: Biodiversity operates at genetic, species and ecosystem levels; richness,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → level is ecological scale, not taxonomic rank.",
+      "source_references": [
+        "Genetic diversity",
+        "Species diversity",
+        "Ecosystem diversity",
+        "Ecological and taxonomic levels",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g3\\environment-and-ecology-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SPECIES-DIVERSITY COMPONENTS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SPECIES-DIVERSITY COMPONENTS",
+          "role": "primary"
+        },
+        {
+          "text": "NUMBER OF SPECIES",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTRIBUTION OF ABUNDANCE AMONG SPECIES",
+          "role": "comparison"
+        },
+        {
+          "text": "SAME RICHNESS",
+          "role": "evidence"
+        },
+        {
+          "text": "CAN COEXIST WITH DIFFERENT EVENNESS",
+          "role": "primary"
+        },
+        {
+          "text": "DIVERSITY INDEX",
+          "role": "outcome"
+        },
+        {
+          "text": "DEPENDS ON ITS STATED FORMULA AND SAMPLE",
+          "role": "comparison"
+        },
+        {
+          "text": "NEVER INFER COMMUNITY QUALITY FROM COUNT ALONE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RICHNESS → number of species",
+        "EVENNESS → distribution of abundance among species",
+        "SAME RICHNESS → can coexist with different evenness",
+        "DIVERSITY INDEX → depends on its stated formula and sample",
+        "CAUTION → never infer community quality from count alone"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "RICHNESS → number of species",
+          "SAME RICHNESS → can coexist with different evenness",
+          "CAUTION → never infer community quality from count alone"
+        ],
+        [
+          "EVENNESS → distribution of abundance among species",
+          "DIVERSITY INDEX → depends on its stated formula and sample",
+          "RICHNESS → number of species"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RICHNESS → number of species",
+            "EVENNESS → distribution of abundance among species"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SAME RICHNESS → can coexist with different evenness",
+            "DIVERSITY INDEX → depends on its stated formula and sample"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION → never infer community quality from count alone",
+            "RICHNESS → number of species"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → never infer community quality from count alone.",
+      "source_references": [
+        "Richness and evenness",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g3\\environment-and-ecology-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ALPHA BETA GAMMA MAP",
+      "structural_type": "spatial",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ALPHA BETA GAMMA MAP",
+          "role": "primary"
+        },
+        {
+          "text": "HABITAT A",
+          "role": "outcome"
+        },
+        {
+          "text": "ALPHA DIVERSITY INSIDE ONE LOCAL COMMUNITY",
+          "role": "comparison"
+        },
+        {
+          "text": "HABITAT B",
+          "role": "evidence"
+        },
+        {
+          "text": "ITS OWN LOCAL ALPHA DIVERSITY",
+          "role": "primary"
+        },
+        {
+          "text": "A TO B TURNOVER",
+          "role": "outcome"
+        },
+        {
+          "text": "BETA DIVERSITY",
+          "role": "comparison"
+        },
+        {
+          "text": "WHOLE LANDSCAPE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HABITAT A → alpha diversity inside one local community",
+        "HABITAT B → its own local alpha diversity",
+        "A TO B TURNOVER → beta diversity",
+        "WHOLE LANDSCAPE → gamma diversity",
+        "RULE → every term requires a stated sampling or regional boundary"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HABITAT A → alpha diversity inside one local community",
+            "HABITAT B → its own local alpha diversity"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "A TO B TURNOVER → beta diversity",
+            "WHOLE LANDSCAPE → gamma diversity"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → every term requires a stated sampling or regional boundary",
+            "HABITAT A → alpha diversity inside one local community"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → every term requires a stated sampling or regional boundary.",
+      "source_references": [
+        "Alpha diversity",
+        "Beta diversity",
+        "Gamma diversity",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g3\\environment-and-ecology-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "ECOLOGICAL AND TAXONOMIC AXES",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ECOLOGICAL AND TAXONOMIC AXES",
+          "role": "primary"
+        },
+        {
+          "text": "ECOLOGICAL LEVEL",
+          "role": "outcome"
+        },
+        {
+          "text": "GENETIC, SPECIES, ECOSYSTEM",
+          "role": "comparison"
+        },
+        {
+          "text": "SPATIAL DIVERSITY",
+          "role": "evidence"
+        },
+        {
+          "text": "ALPHA, BETA, GAMMA",
+          "role": "primary"
+        },
+        {
+          "text": "TAXONOMIC RANK",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIES, GENUS, FAMILY AND HIGHER RANKS",
+          "role": "comparison"
+        },
+        {
+          "text": "THREAT STATUS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ECOLOGICAL LEVEL → genetic, species, ecosystem",
+        "SPATIAL DIVERSITY → alpha, beta, gamma",
+        "TAXONOMIC RANK → species, genus, family and higher ranks",
+        "THREAT STATUS → separate assessment of extinction risk",
+        "RULE → answer on the axis actually asked"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ECOLOGICAL LEVEL → genetic, species, ecosystem",
+          "TAXONOMIC RANK → species, genus, family and higher ranks",
+          "RULE → answer on the axis actually asked"
+        ],
+        [
+          "SPATIAL DIVERSITY → alpha, beta, gamma",
+          "THREAT STATUS → separate assessment of extinction risk",
+          "ECOLOGICAL LEVEL → genetic, species, ecosystem"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ECOLOGICAL LEVEL → genetic, species, ecosystem",
+            "SPATIAL DIVERSITY → alpha, beta, gamma"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TAXONOMIC RANK → species, genus, family and higher ranks",
+            "THREAT STATUS → separate assessment of extinction risk"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → answer on the axis actually asked",
+            "ECOLOGICAL LEVEL → genetic, species, ecosystem"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → answer on the axis actually asked.",
+      "source_references": [
+        "Ecological and taxonomic levels",
+        "Endemic versus rare or threatened",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g3\\environment-and-ecology-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "DISTRIBUTION VOCABULARY",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DISTRIBUTION VOCABULARY",
+          "role": "primary"
+        },
+        {
+          "text": "OCCURS NATURALLY IN THE DEFINED REGION",
+          "role": "outcome"
+        },
+        {
+          "text": "NATURALLY RESTRICTED TO THE DEFINED REGION",
+          "role": "comparison"
+        },
+        {
+          "text": "LOW ABUNDANCE OR OCCURRENCE UNDER A STATED MEASURE",
+          "role": "evidence"
+        },
+        {
+          "text": "STATUS UNDER AN ASSESSMENT FRAMEWORK",
+          "role": "primary"
+        },
+        {
+          "text": "ONE SPECIES MAY SATISFY SEVERAL, BUT TERMS ARE NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NATIVE → occurs naturally in the defined region",
+        "ENDEMIC → naturally restricted to the defined region",
+        "RARE → low abundance or occurrence under a stated measure",
+        "THREATENED → status under an assessment framework",
+        "CAUTION → one species may satisfy several, but terms are not synonyms"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "NATIVE → occurs naturally in the defined region",
+          "RARE → low abundance or occurrence under a stated measure",
+          "CAUTION → one species may satisfy several, but terms are not synonyms"
+        ],
+        [
+          "ENDEMIC → naturally restricted to the defined region",
+          "THREATENED → status under an assessment framework",
+          "NATIVE → occurs naturally in the defined region"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NATIVE → occurs naturally in the defined region",
+            "ENDEMIC → naturally restricted to the defined region"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RARE → low abundance or occurrence under a stated measure",
+            "THREATENED → status under an assessment framework"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION → one species may satisfy several, but terms are not synonyms",
+            "NATIVE → occurs naturally in the defined region"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → one species may satisfy several, but terms are not synonyms.",
+      "source_references": [
+        "Endemic versus native",
+        "Endemic versus rare or threatened",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g3\\environment-and-ecology-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "HOTSPOT CRITERIA GATE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "HOTSPOT CRITERIA GATE",
+          "role": "primary"
+        },
+        {
+          "text": "GATE 1",
+          "role": "outcome"
+        },
+        {
+          "text": "AT LEAST 1,500 ENDEMIC VASCULAR PLANT SPECIES",
+          "role": "comparison"
+        },
+        {
+          "text": "GATE 2",
+          "role": "evidence"
+        },
+        {
+          "text": "30 PER CENT OR LESS OF ORIGINAL NATURAL VEGETATION",
+          "role": "primary"
+        },
+        {
+          "text": "BOTH GATES MET",
+          "role": "outcome"
+        },
+        {
+          "text": "HOTSPOT PRIORITISATION FRAMEWORK APPLIES",
+          "role": "comparison"
+        },
+        {
+          "text": "FAILED GATE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GATE 1 → at least 1,500 endemic vascular plant species",
+        "GATE 2 → 30 per cent or less of original natural vegetation remains",
+        "BOTH GATES MET → hotspot prioritisation framework applies",
+        "FAILED GATE → species richness alone cannot create hotspot status",
+        "CLOSE DISTINCTION: Richness is not abundance or evenness, hotspot is not a statutory"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GATE 1 → at least 1,500 endemic vascular plant species",
+            "GATE 2 → 30 per cent or less of original natural vegetation remains"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BOTH GATES MET → hotspot prioritisation framework applies",
+            "FAILED GATE → species richness alone cannot create hotspot status"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Richness is not abundance or evenness, hotspot is not a statutory...",
+            "GATE 1 → at least 1,500 endemic vascular plant species"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Richness is not abundance or evenness, hotspot is not a statutory.",
+      "source_references": [
+        "Hotspot dual criteria",
+        "Hotspot versus general richness",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g3\\environment-and-ecology-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DESIGNATION FIREWALL",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DESIGNATION FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "CONSERVATION INTERNATIONAL SCIENTIFIC PRIORITISATION FRAMEWORK",
+          "role": "outcome"
+        },
+        {
+          "text": "PROTECTED AREA",
+          "role": "comparison"
+        },
+        {
+          "text": "LEGAL DESIGNATION UNDER APPLICABLE DOMESTIC LAW",
+          "role": "evidence"
+        },
+        {
+          "text": "BIODIVERSITY HERITAGE SITE",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE STATUTORY CATEGORY",
+          "role": "outcome"
+        },
+        {
+          "text": "ECO-SENSITIVE ZONE",
+          "role": "comparison"
+        },
+        {
+          "text": "NOTIFICATION-BASED REGULATORY STATUS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HOTSPOT → Conservation International scientific prioritisation framework",
+        "PROTECTED AREA → legal designation under applicable domestic law",
+        "BIODIVERSITY HERITAGE SITE → separate statutory category",
+        "ECO-SENSITIVE ZONE → notification-based regulatory status",
+        "RULE → one label never automatically confers another status"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "HOTSPOT → Conservation International scientific prioritisation framework",
+          "BIODIVERSITY HERITAGE SITE → separate statutory category",
+          "RULE → one label never automatically confers another status"
+        ],
+        [
+          "PROTECTED AREA → legal designation under applicable domestic law",
+          "ECO-SENSITIVE ZONE → notification-based regulatory status",
+          "HOTSPOT → Conservation International scientific prioritisation framework"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HOTSPOT → Conservation International scientific prioritisation framework",
+            "PROTECTED AREA → legal designation under applicable domestic law"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BIODIVERSITY HERITAGE SITE → separate statutory category",
+            "ECO-SENSITIVE ZONE → notification-based regulatory status"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → one label never automatically confers another status",
+            "HOTSPOT → Conservation International scientific prioritisation framework"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → one label never automatically confers another status.",
+      "source_references": [
+        "Norman Myers and operational status",
+        "Hotspot versus general richness",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g3\\environment-and-ecology-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INDIA-LINKED HOTSPOT MAP IN WORDS",
+      "structural_type": "spatial",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INDIA-LINKED HOTSPOT MAP IN WORDS",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSBOUNDARY MOUNTAIN BIODIVERSITY REGION",
+          "role": "outcome"
+        },
+        {
+          "text": "WIDER MAINLAND SOUTHEAST ASIAN BIOGEOGRAPHIC REGION",
+          "role": "comparison"
+        },
+        {
+          "text": "WESTERN GHATS-SRI LANKA",
+          "role": "evidence"
+        },
+        {
+          "text": "LINKED BIOGEOGRAPHIC HOTSPOT NAME",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA'S REPRESENTED PORTION IS THE NICOBAR ISLANDS",
+          "role": "outcome"
+        },
+        {
+          "text": "HOTSPOT EXTENT IS NOT COTERMINOUS WITH INDIA'S BORDER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "HIMALAYA → transboundary mountain biodiversity region",
+        "INDO-BURMA → wider mainland Southeast Asian biogeographic region",
+        "WESTERN GHATS-SRI LANKA → linked biogeographic hotspot name",
+        "SUNDALAND → India's represented portion is the Nicobar Islands",
+        "CAUTION → hotspot extent is not coterminous with India's border"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HIMALAYA → transboundary mountain biodiversity region",
+            "INDO-BURMA → wider mainland Southeast Asian biogeographic region"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WESTERN GHATS-SRI LANKA → linked biogeographic hotspot name",
+            "SUNDALAND → India's represented portion is the Nicobar Islands"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION → hotspot extent is not coterminous with India's border",
+            "HIMALAYA → transboundary mountain biodiversity region"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → hotspot extent is not coterminous with India's border.",
+      "source_references": [
+        "India-linked hotspots",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g3\\environment-and-ecology-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "TRIAGE AND COMPLETENESS",
+      "structural_type": "dialectic",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "TRIAGE AND COMPLETENESS",
+          "role": "primary"
+        },
+        {
+          "text": "HOTSPOT LOGIC",
+          "role": "outcome"
+        },
+        {
+          "text": "FOCUS SCARCE RESOURCES WHERE ENDEMISM AND HABITAT LOSS COINCIDE",
+          "role": "comparison"
+        },
+        {
+          "text": "PLANT CRITERIA CAN UNDERSTATE OTHER NATIONALLY IMPORTANT VALUES",
+          "role": "evidence"
+        },
+        {
+          "text": "NON-HOTSPOT EXAMPLES",
+          "role": "primary"
+        },
+        {
+          "text": "GRASSLANDS, WETLANDS AND COLD DESERTS",
+          "role": "outcome"
+        },
+        {
+          "text": "USE HOTSPOTS FOR PRIORITY, NOT FOR EXCLUSION",
+          "role": "caution"
+        },
+        {
+          "text": "NATIONAL STRATEGY MUST RETAIN A WIDER ECOLOGICAL BASELINE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HOTSPOT LOGIC → focus scarce resources where endemism and habitat loss coincide",
+        "PRESSURE → plant criteria can understate other nationally important values",
+        "NON-HOTSPOT EXAMPLES → grasslands, wetlands and cold deserts",
+        "REPLY → use hotspots for priority, not for exclusion",
+        "VERDICT → national strategy must retain a wider ecological baseline"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HOTSPOT LOGIC → focus scarce resources where endemism and habitat loss coincide",
+            "PRESSURE → plant criteria can understate other nationally important values"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NON-HOTSPOT EXAMPLES → grasslands, wetlands and cold deserts",
+            "REPLY → use hotspots for priority, not for exclusion"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → national strategy must retain a wider ecological baseline",
+            "HOTSPOT LOGIC → focus scarce resources where endemism and habitat loss coincide"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → national strategy must retain a wider ecological baseline.",
+      "source_references": [
+        "Hotspot triage and non-hotspot value",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g3\\environment-and-ecology-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "COUNTRY, LABEL AND INSTITUTION",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COUNTRY, LABEL AND INSTITUTION",
+          "role": "institution"
+        },
+        {
+          "text": "MEGADIVERSE COUNTRY",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONAL BIODIVERSITY DESCRIPTOR",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERNATIONAL POLITICAL GROUPING",
+          "role": "evidence"
+        },
+        {
+          "text": "TRANSBOUNDARY SCIENTIFIC PRIORITY REGION",
+          "role": "primary"
+        },
+        {
+          "text": "NBA, SBB, BMC",
+          "role": "outcome"
+        },
+        {
+          "text": "DOMESTIC STATUTORY GOVERNANCE LEVELS",
+          "role": "comparison"
+        },
+        {
+          "text": "FOUR CATEGORIES ANSWER DIFFERENT QUESTIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MEGADIVERSE COUNTRY → national biodiversity descriptor",
+        "LMMC → international political grouping",
+        "HOTSPOT → transboundary scientific priority region",
+        "NBA, SBB, BMC → domestic statutory governance levels",
+        "RULE → four categories answer different questions"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MEGADIVERSE COUNTRY → national biodiversity descriptor",
+          "HOTSPOT → transboundary scientific priority region",
+          "RULE → four categories answer different questions"
+        ],
+        [
+          "LMMC → international political grouping",
+          "NBA, SBB, BMC → domestic statutory governance levels",
+          "MEGADIVERSE COUNTRY → national biodiversity descriptor"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MEGADIVERSE COUNTRY → national biodiversity descriptor",
+            "LMMC → international political grouping"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HOTSPOT → transboundary scientific priority region",
+            "NBA, SBB, BMC → domestic statutory governance levels"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → four categories answer different questions",
+            "MEGADIVERSE COUNTRY → national biodiversity descriptor"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NBA, SBB, BMC → domestic statutory governance levels.",
+      "source_references": [
+        "Megadiverse and LMMC distinction",
+        "NBA, SBB and BMC levels",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g3\\environment-and-ecology-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ABS GOVERNANCE RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ABS GOVERNANCE RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "BIOLOGICAL RESOURCE OR ASSOCIATED KNOWLEDGE",
+          "role": "outcome"
+        },
+        {
+          "text": "ACCESS REQUEST",
+          "role": "comparison"
+        },
+        {
+          "text": "RELEVANT AUTHORITY",
+          "role": "evidence"
+        },
+        {
+          "text": "SCRUTINY UNDER THE LEGAL ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "COMMERCIAL OR RESEARCH USE",
+          "role": "outcome"
+        },
+        {
+          "text": "APPLICABLE CONDITIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "BENEFIT SHARING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BIOLOGICAL RESOURCE OR ASSOCIATED KNOWLEDGE → access request",
+        "RELEVANT AUTHORITY → scrutiny under the legal architecture",
+        "COMMERCIAL OR RESEARCH USE → applicable conditions",
+        "BENEFIT SHARING → intended return to eligible claimants or communities",
+        "PBR → local documentation; not proof that benefits were delivered"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BIOLOGICAL RESOURCE OR ASSOCIATED KNOWLEDGE → access request",
+            "RELEVANT AUTHORITY → scrutiny under the legal architecture"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMMERCIAL OR RESEARCH USE → applicable conditions",
+            "BENEFIT SHARING → intended return to eligible claimants or communities"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PBR → local documentation; not proof that benefits were delivered",
+            "BIOLOGICAL RESOURCE OR ASSOCIATED KNOWLEDGE → access request"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PBR → local documentation; not proof that benefits were delivered.",
+      "source_references": [
+        "NBA, SBB and BMC levels",
+        "Access, benefit sharing and PBRs",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g3\\environment-and-ecology-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "GLOBAL AND PYQ BOUNDARY",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "GLOBAL AND PYQ BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "KMGBF TARGET 3",
+          "role": "outcome"
+        },
+        {
+          "text": "AREA-BASED CONSERVATION AND OECMS IN THE OWNER",
+          "role": "comparison"
+        },
+        {
+          "text": "CBD GUIDANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "DOES NOT REPLACE OR QUALIFY ADOPTED COP DECISIONS",
+          "role": "caution"
+        },
+        {
+          "text": "MASS EXTINCTION ROUTE",
+          "role": "outcome"
+        },
+        {
+          "text": "HUMAN DRIVERS, NO INFERRED OBJECTIVE ANSWER",
+          "role": "caution"
+        },
+        {
+          "text": "ISSG AND EU NRL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "KMGBF TARGET 3 → area-based conservation and OECMs in the owner",
+        "CBD GUIDANCE → does not replace or qualify adopted COP decisions",
+        "MASS EXTINCTION ROUTE → human drivers, no inferred objective answer",
+        "ISSG AND EU NRL → external institutional or legal comparators",
+        "CLOSE → scientific label, domestic law and external comparator stay distinct"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "KMGBF TARGET 3 → area-based conservation and OECMs in the owner",
+            "CBD GUIDANCE → does not replace or qualify adopted COP decisions"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MASS EXTINCTION ROUTE → human drivers, no inferred objective answer",
+            "ISSG AND EU NRL → external institutional or legal comparators"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE → scientific label, domestic law and external comparator stay distinct",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Attach metric, taxon, geography and..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Attach metric, taxon, geography and...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Attach metric, taxon, geography and.",
+      "source_references": [
+        "KMGBF, OECMs and status boundary",
+        "Verified PYQ and current-claim boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\04_Biodiversity-Levels-and-Hotspots.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-04\\g3\\environment-and-ecology-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE CBD'S KUNMING-MONTREAL GLOBAL BIODIVERSITY FRAMEWORK (ADOPTED AT CBD",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIA'S IMPLEMENTATION OF 30X30-TYPE COMMITMENTS INTERACTS DIRECTLY WITH THE",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL SPECIES-COUNT FIGURES FOR INDIA ARE COMPILED BY BSI/ZSI",
+          "role": "evidence"
+        },
+        {
+          "text": "ENDEMISM IS SOMETIMES CONFLATED IN POPULAR SOURCES WITH SIMPLE",
+          "role": "primary"
+        },
+        {
+          "text": "\"MEGADIVERSE COUNTRY\" LISTS (ORIGINATING FROM CONSERVATION INTERNATIONAL/UNEP-WCMC",
+          "role": "outcome"
+        },
+        {
+          "text": "THE BIOLOGICAL DIVERSITY ACT, 2002 ESTABLISHED A THREE-TIER STRUCTURE",
+          "role": "institution"
+        },
+        {
+          "text": "NBA (NATIONAL)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "The CBD's Kunming-Montreal Global Biodiversity Framework (adopted at CBD COP15, 2022)",
+            "CAUTION: India's implementation of 30x30-type commitments interacts directly with the protected",
+            "CAUTION: National species-count figures for India are compiled by BSI/ZSI across decades of",
+            "CAUTION: Endemism is sometimes conflated in popular sources with simple rarity; an advanced"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: \"Megadiverse country\" lists (originating from Conservation International/UNEP-WCMC",
+            "The Biological Diversity Act, 2002 established a three-tier structure: NBA (national),",
+            "Access and Benefit Sharing (ABS) requires NBA/SBB approval for accessing India's",
+            "The CBD's Kunming-Montreal Global Biodiversity Framework (2022) set the 30x30 target —"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "KMGBF's 30x30 target explicitly counts \"other effective area-based conservation",
+            "CBD COP16 (Cali 2024, resumed Rome February 2025) created the Cali Fund for sharing",
+            "India's four biodiversity hotspots are Himalaya, Indo-Burma, Western Ghats-Sri Lanka and",
+            "NOT: NBA directly regulates access by all Indian citizens/entities. - NBA primarily regulates"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

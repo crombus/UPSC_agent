@@ -154,3 +154,44 @@ coalition politics. The **ECI** grants **national/state** recognition based on *
 - ⚠️ **NCRWC (2002)** proposed regulating parties' internal functioning and finances by law; treat it as a **recommendation**, not existing law.
 - ✅ **Star-campaigner ceilings (40 for a recognised political party and 20 for another political party)** arise from the explanation to **RPA Section 77** — cite the structure, verify the current figure before quoting.
 - ✅ Distinguish the **52nd Amendment (1985, Tenth Schedule)** from the **91st Amendment (2003, deletion of the split exception + CoM cap)** — a common Prelims trap.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Layered legal identity:** Section 29A of the Representation of the People
+  Act, 1951 governs registration; the Election Symbols (Reservation and
+  Allotment) Order, 1968 governs recognition and symbols; the Tenth Schedule
+  governs legislative defection. These are not interchangeable.
+- **Registration:** an association of Indian citizens applies to the ECI and
+  must carry the statutory constitutional-allegiance declaration. Registration
+  does not itself confer National or State party recognition.
+- **Bounded deregistration:** Indian National Congress (I) v Institute of
+  Social Welfare (2002) treats the ECI's Section 29A function as quasi-judicial
+  and rejects a general merits-based deregistration power, while preserving
+  narrow fraud, non-compliance and unlawful-object situations recognised in
+  the judgment.
+- **Recognition and symbols:** the Symbols Order supplies performance criteria,
+  reserved/free symbols and paragraph 15 faction adjudication. Sadiq Ali
+  sustains the ECI's party-identity jurisdiction. Recognition lists and
+  election-specific concessions are date-sensitive and deliberately unfrozen.
+- **Finance:** Sections 29B-29C, the Companies Act, Income-tax law, FCRA and ECI
+  disclosure directions operate through different tests. A contribution
+  threshold, foreign-source rule or candidate-expenditure ceiling must not be
+  transferred to another legal route.
+- **Electoral bonds, checked 5 September 2026:** Association for Democratic
+  Reforms v Union of India, 2024 INSC 113, remains the controlling official
+  judgment invalidating the scheme and enabling amendments on Article
+  19(1)(a), proportionality and corporate-funding grounds. It did not enact a
+  complete new campaign-finance code.
+- **Criminalisation:** ADR (2002) and PUCL (2003) ground candidate disclosure;
+  Lily Thomas removes the former sitting-member protection after conviction;
+  Rambabu Singh Thakur requires party publication of criminal antecedents and
+  reasons for selection. Disclosure is not pre-conviction disqualification.
+- **Internal democracy:** no comprehensive enacted party-democracy code
+  controls leadership succession, membership and candidate selection. ECI,
+  committee and Law Commission proposals remain proposals.
+- **System analysis:** national/regional behaviour varies with organisation,
+  territorial base and position in Union or State power. Coalition,
+  centralisation and autonomy claims require evidence and qualification.
+- **PYQ firewall:** the 2022 GS-II centralisation/autonomy demand is shared
+  with Federal System, while the party-system incentive analysis is owned
+  here. Recognition and finance questions retain exact legal-source labels.

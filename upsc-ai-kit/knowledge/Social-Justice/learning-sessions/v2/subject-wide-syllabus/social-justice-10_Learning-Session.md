@@ -1254,6 +1254,30 @@ autonomy, substantive equality, regional variation and common citizenship.
 - ✅ `Polity/basic/National-Commissions-SC-ST-BC.md` — comparison with constitutional
   commissions (NCSC/NCST/NCBC).
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Minority justice combines equal citizenship, freedom of conscience, cultural and educational rights, security, non-discrimination and capability, while religious and linguistic minorities remain internally diverse by gender, class, caste-like stratification, sect and region.
+- **Indispensable distinction and prerequisite taxonomy:** Minority is context- and provision-specific, Article 30 is not immunity from reasonable regulation, religious freedom is not exemption from public order, health, morality or other rights, and welfare schemes do not define constitutional minority status.
+- **Mechanism, implementation and evidence control:** Use Articles 14-16 and 25-30, NCM/minority institutions, educational safeguards and named regional evidence with exact jurisdiction; distinguish right, regulation, adjudication, scheme eligibility, discrimination, grievance and outcome without collective stereotyping.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 2026-09-06: the Ministry, NCM and Constitution remain official sources; constitutional minority rights, regulatory power, notified scheme eligibility, institutional jurisdiction and measured outcomes are distinct. Sources: https://minorityaffairs.gov.in/; https://ncm.nic.in/; https://legislative.gov.in/constitution-of-india/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Social Justice owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/social justice taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** The audited routing ledgers route no General Studies Mains demand and no objective demand to this owner for the covered years, and that zero is reported openly rather than concealed or filled with a manufactured demand card. The four audited ledgers consulted are the Mains routing ledgers for 2018 to 2023 and for 2024 to 2025 and the Prelims routing ledgers for 2018 to 2023 and for 2024 to 2025, and neither the Basic owner nor the Advanced owner for this topic carries a generated previous-year integration block, which is itself consistent with that zero. Both owners state independently that there is no confirmed direct 2024 or 2025 General Studies Paper II Mains question specifically on minority rights or welfare in the audited local previous-year texts, and this package adopts exactly that position. The nearest neighbouring demand is the 2018 General Studies Paper II question on the Scheduled Caste commission and reservation for Scheduled Castes in minority institutions, and the audited 2018-2023 Mains routing ledger routes it to the Polity commissions owner together with the consolidated body-design owner, so no ownership is claimed over it here; the doctrinal interpretation of Articles 29 and 30 is likewise routed to the Polity fundamental-rights owner and is cross-linked rather than duplicated. The practice in this package therefore consists of six original Mains questions with model solutions, each written to the repository's examiner-grade standard using the claim, named evidence, analysis and qualification pattern, together with eighty original objective questions on a strict A-B-C-D rotation. Each model solution opens with its analytical claim so that the evidence which follows does argumentative rather than decorative work. The locally held OCR-searchable official General Studies papers were read only to confirm that no question on this owner's subject matter is routed here; no question was invented from them, no marking scheme or page precision was imported and no official answer key is claimed for any question anywhere in this package.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies What this owner holds and why its previous-year record is stated as zero?

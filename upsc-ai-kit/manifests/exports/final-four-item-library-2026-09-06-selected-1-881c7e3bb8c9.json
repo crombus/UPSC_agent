@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T06:16:00+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\environment-and-ecology-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "8120ffbcb2f133ee42f6fbc00beb5b6ebc033781de5fc0d6a5ab0fad2bc3a35d",
+    "sha256_after": "8120ffbcb2f133ee42f6fbc00beb5b6ebc033781de5fc0d6a5ab0fad2bc3a35d",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Environment and Ecology": 1
+  },
+  "sections": {
+    "Environment and Ecology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11283,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1929,
+    "json_count": 5129,
+    "total_bytes": 4272416329,
+    "by_extension": {
+      ".json": 5129,
+      ".md": 1929,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-14",
+      "topic_title": "Water Pollution and River Cleaning Missions",
+      "subject": "Environment and Ecology",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 14,
+      "source_record_id": "environment-and-ecology-14:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\14-Water-Pollution-and-River-Cleaning-Missions",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-14\\g4\\environment-and-ecology-14_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\14-Water-Pollution-and-River-Cleaning-Missions\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "82790ba398e8983cf9af6c34061d655723359a0c3f8206983cbad64e24586592",
+          "output_sha256": "82790ba398e8983cf9af6c34061d655723359a0c3f8206983cbad64e24586592",
+          "source_output_equal": true,
+          "bytes": 651464
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-14\\g4\\environment-and-ecology-14_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\14-Water-Pollution-and-River-Cleaning-Missions\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "90367c1f2184693fda0b3873311031cf361ffb57dcdfd5489bca5c8c70d0cb67",
+          "output_sha256": "90367c1f2184693fda0b3873311031cf361ffb57dcdfd5489bca5c8c70d0cb67",
+          "source_output_equal": true,
+          "bytes": 489883
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-14\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\14-Water-Pollution-and-River-Cleaning-Missions\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "1546e9190dfe817ef6d7de7878dcc07a7e11c41ced13c416ab8c2b5b318471e1",
+          "output_sha256": "1546e9190dfe817ef6d7de7878dcc07a7e11c41ced13c416ab8c2b5b318471e1",
+          "source_output_equal": true,
+          "bytes": 1959844
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-14\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\14-Water-Pollution-and-River-Cleaning-Missions\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "50300dfdba58fa22c31522bd5981691bc8230c357a88cb3b4a249b67346c454e",
+          "output_sha256": "50300dfdba58fa22c31522bd5981691bc8230c357a88cb3b4a249b67346c454e",
+          "source_output_equal": true,
+          "bytes": 2474572
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-14\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\14-Water-Pollution-and-River-Cleaning-Missions\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "77dfd2203dc3357410968fa3e754c7ad30ceebdd7eb99ddb44ac7633feb136db",
+          "output_sha256": "77dfd2203dc3357410968fa3e754c7ad30ceebdd7eb99ddb44ac7633feb136db",
+          "source_output_equal": true,
+          "bytes": 1741861
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-14\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\14-Water-Pollution-and-River-Cleaning-Missions\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "fa1d1bea04543d38eb9c891cce1e94a95be8cc8de11a61b5f800aefb01ace070",
+          "output_sha256": "fa1d1bea04543d38eb9c891cce1e94a95be8cc8de11a61b5f800aefb01ace070",
+          "source_output_equal": true,
+          "bytes": 3767
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-14\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\14-Water-Pollution-and-River-Cleaning-Missions\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "759559d8368c1d2632b54edff675e6ef8b962b89a9fc610f72bb1c612e0ff671",
+          "output_sha256": "759559d8368c1d2632b54edff675e6ef8b962b89a9fc610f72bb1c612e0ff671",
+          "source_output_equal": true,
+          "source_text_sha256": "fa1d1bea04543d38eb9c891cce1e94a95be8cc8de11a61b5f800aefb01ace070",
+          "normalized_text_equal": true,
+          "bytes": 56465
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 7,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 6,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 6,
+            "maximum_line_characters": 60,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 6,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 6,
+            "maximum_line_characters": 63,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 7,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 6,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 6,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 63,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 83,
+        "solved_practice_workbook": 46,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 83,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 46,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10274
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

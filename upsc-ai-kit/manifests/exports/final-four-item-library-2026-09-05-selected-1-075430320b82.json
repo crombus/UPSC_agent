@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-05T06:37:59+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "c48a660ae1e694d019bad0b48fa4eb4b94ae4021f805452b51eede2c6f714b60",
+    "sha256_after": "c48a660ae1e694d019bad0b48fa4eb4b94ae4021f805452b51eede2c6f714b60",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Geography": 1
+  },
+  "sections": {
+    "Geography — Part B — Human, Economic and Regional Geography": 1
+  },
+  "library_totals": {
+    "file_count": 10165,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1706,
+    "json_count": 4234,
+    "total_bytes": 4222512238,
+    "by_extension": {
+      ".json": 4234,
+      ".md": 1706,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "geography-30-primary-economic-activities-agriculture",
+      "topic_title": "Primary Economic Activities: Agriculture",
+      "subject": "Geography",
+      "section": "Part B — Human, Economic and Regional Geography",
+      "catalogue_number": 30,
+      "source_record_id": "geography-30-primary-economic-activities-agriculture:learner-v2:g15",
+      "source_generation": 15,
+      "destination_folder": "notes\\Final-Learning-Packages\\Geography\\Part B — Human, Economic and Regional Geography\\30-Primary-7ceaad52-Agriculture",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\geography-30-primary-economic-activities-agriculture_Complete-Learning-Session_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part B — Human, Economic and Regional Geography\\30-Primary-7ceaad52-Agriculture\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "1ca1bf7662c3fce838e046e1263784babc3f4e1cad8d2d89b482c67acf7fe567",
+          "output_sha256": "1ca1bf7662c3fce838e046e1263784babc3f4e1cad8d2d89b482c67acf7fe567",
+          "source_output_equal": true,
+          "bytes": 2402101
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\geography-30-primary-economic-activities-agriculture_Solved-Practice-Workbook_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part B — Human, Economic and Regional Geography\\30-Primary-7ceaad52-Agriculture\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "d4c3c3fb1ac8acb4b63493c884146fe9b58004267776e0341c849835584d3449",
+          "output_sha256": "d4c3c3fb1ac8acb4b63493c884146fe9b58004267776e0341c849835584d3449",
+          "source_output_equal": true,
+          "bytes": 311530
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-30\\carvaka-g15\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part B — Human, Economic and Regional Geography\\30-Primary-7ceaad52-Agriculture\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "39871a7b4662381bedcc9dcf353da2106b6c37d4ac9846a05552d352b2da3292",
+          "output_sha256": "39871a7b4662381bedcc9dcf353da2106b6c37d4ac9846a05552d352b2da3292",
+          "source_output_equal": true,
+          "bytes": 2589162
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-30\\carvaka-g15\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part B — Human, Economic and Regional Geography\\30-Primary-7ceaad52-Agriculture\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "c88fd79c6d801063baea6e4fc84bc27711fd8e447e19b0af510d44081fece4e4",
+          "output_sha256": "c88fd79c6d801063baea6e4fc84bc27711fd8e447e19b0af510d44081fece4e4",
+          "source_output_equal": true,
+          "bytes": 3110157
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-30\\carvaka-g15\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part B — Human, Economic and Regional Geography\\30-Primary-7ceaad52-Agriculture\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "773a54380e144f0239f051c9f0f5b6f54a5096a08ef087c5bb661a8a9f949ec8",
+          "output_sha256": "773a54380e144f0239f051c9f0f5b6f54a5096a08ef087c5bb661a8a9f949ec8",
+          "source_output_equal": true,
+          "bytes": 2276979
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-30\\carvaka-g15\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part B — Human, Economic and Regional Geography\\30-Primary-7ceaad52-Agriculture\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "9937ea92a88f639286f67f333fac2fea0412a56685390d5cb8fe02ffe34e3af3",
+          "output_sha256": "9937ea92a88f639286f67f333fac2fea0412a56685390d5cb8fe02ffe34e3af3",
+          "source_output_equal": true,
+          "bytes": 12220
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-30\\carvaka-g15\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part B — Human, Economic and Regional Geography\\30-Primary-7ceaad52-Agriculture\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "c51d955513242a11c22c275a4913f2ae39062197e6c6a8033b2d82b1e56715da",
+          "output_sha256": "c51d955513242a11c22c275a4913f2ae39062197e6c6a8033b2d82b1e56715da",
+          "source_output_equal": true,
+          "source_text_sha256": "9937ea92a88f639286f67f333fac2fea0412a56685390d5cb8fe02ffe34e3af3",
+          "normalized_text_equal": true,
+          "bytes": 61019
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 29,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 19,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 22,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 19,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 21,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 21,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 23,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 24,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 14,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 16,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 97,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 80,
+        "solved_practice_workbook": 33,
+        "graphical_poster": 1,
+        "graphical_tiled": 5,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 80,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 33,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 5,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          13532
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

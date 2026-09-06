@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "economy-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "economy_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-15",
+      "display_title": "Food Processing, Cold Chains and Value Addition",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-15\\g3\\economy-15_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Farm-to-value rail",
+          "structural_type": "value-flow",
+          "ascii_lines": [
+            "FARM OUTPUT",
+            "-> AGGREGATION + GRADING",
+            "-> COLD / AMBIENT LOGISTICS + PROCESSING",
+            "-> PACKAGING + MARKET -> DISTRIBUTED VALUE",
+            "MUST REMEMBER: Food processing adds value through sorting, grading, storage,..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-15\\g3\\economy-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Cold-chain continuity",
+          "structural_type": "process-chain",
+          "ascii_lines": [
+            "PACK HOUSE",
+            "-> PRE-COOLING",
+            "-> COLD STORAGE",
+            "-> REEFER -> PROCESSOR / RETAIL"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-15\\g3\\economy-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Capacity accounting fork",
+          "structural_type": "stock-flow-map",
+          "ascii_lines": [
+            "INSTALLED CAPACITY -> stock",
+            "OPERATIONAL CAPACITY -> available stock",
+            "THROUGHPUT -> period flow",
+            "VALUE ADDED -> output value minus inputs"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-15\\g3\\economy-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "PMKSY umbrella",
+          "structural_type": "scheme-map",
+          "ascii_lines": [
+            "COMMON / CLUSTER INFRASTRUCTURE",
+            "COLD CHAIN + VALUE ADDITION",
+            "PROCESSING + QUALITY SUPPORT",
+            "STATUS -> guideline and component vintage"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-15\\g3\\economy-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Scheme-stage ladder",
+          "structural_type": "implementation-ladder",
+          "ascii_lines": [
+            "APPROVAL / SANCTION",
+            "-> INVESTMENT / CONSTRUCTION",
+            "-> OPERATION + CAPACITY USE",
+            "-> SALES / DISBURSAL / OUTCOME"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-15\\g3\\economy-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Operation Greens boundary",
+          "structural_type": "scope-board",
+          "ascii_lines": [
+            "PERISHABLE PRICE STRESS",
+            "SPECIFIED COMMODITY / WINDOW",
+            "STORAGE + PROCESSING LINK",
+            "NOT universal farm-price insurance",
+            "CLOSE DISTINCTION: Processing is not only manufacturing, cold storage is not an end-to-..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-15\\g3\\economy-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Food Park cluster",
+          "structural_type": "cluster-map",
+          "ascii_lines": [
+            "COLLECTION CENTRE",
+            "-> PRIMARY PROCESSING",
+            "-> COMMON CENTRAL FACILITIES",
+            "-> PROCESSOR + MARKET LINK"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-15\\g3\\economy-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Regulatory-export fork",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "FSSAI -> food-safety regulation",
+            "APEDA -> export development / market access",
+            "SPS + TESTING -> compliance gate",
+            "TRACEABILITY -> chain evidence"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-15\\g3\\economy-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Value-capture board",
+          "structural_type": "power-matrix",
+          "ascii_lines": [
+            "FARMER / FPO -> raw material + aggregation",
+            "PROCESSOR -> transformation + quality risk",
+            "LOGISTICS / RETAIL -> access + shelf",
+            "CONTRACT + COMPETITION -> margin split"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-15\\g3\\economy-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Employment chain",
+          "structural_type": "jobs-map",
+          "ascii_lines": [
+            "FARM-GATE SORTING",
+            "COLD LOGISTICS + MAINTENANCE",
+            "PROCESSING + PACKAGING + TESTING",
+            "RETAIL / EXPORT; test formality + seasonality"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-15\\g3\\economy-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Small-processor constraint wheel",
+          "structural_type": "constraint-wheel",
+          "ascii_lines": [
+            "WORKING CAPITAL",
+            "POWER + TECHNOLOGY",
+            "TESTING + FORMALISATION",
+            "MARKET + BRAND + DISTRIBUTION"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-15\\g3\\economy-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Processing answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE chain and accounting units",
+            "MAP missing node and scheme stage",
+            "TEST standards, jobs and bargaining",
+            "CONCLUDE with throughput + fair value capture",
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Use commodity-specific chain,..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\15_Food-Processing-Cold-Chains-and-Value-Addition.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-15\\g3\\economy-15_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

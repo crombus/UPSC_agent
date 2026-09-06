@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T04:33:36+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\economy-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "6cf4263b94a199ad4f261175af4340f31d171ad2407721bdfe871cb4f20fa3cd",
+    "sha256_after": "6cf4263b94a199ad4f261175af4340f31d171ad2407721bdfe871cb4f20fa3cd",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Economy": 1
+  },
+  "sections": {
+    "Economy — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11055,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1877,
+    "json_count": 4953,
+    "total_bytes": 4271414003,
+    "by_extension": {
+      ".json": 4953,
+      ".md": 1877,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "economy-15",
+      "topic_title": "Food Processing, Cold Chains and Value Addition",
+      "subject": "Economy",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 15,
+      "source_record_id": "economy-15:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\15-Food-Processing-Cold-Chains-and-Value-Addition",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-15\\g3\\economy-15_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\15-Food-Processing-Cold-Chains-and-Value-Addition\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "11a79ecc3fde587b28799f16c6fbb4ecfc394bfa38359933bee08cf3807da522",
+          "output_sha256": "11a79ecc3fde587b28799f16c6fbb4ecfc394bfa38359933bee08cf3807da522",
+          "source_output_equal": true,
+          "bytes": 655051
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-15\\g3\\economy-15_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\15-Food-Processing-Cold-Chains-and-Value-Addition\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "22831fc3c557bad7441e176ecae2107f0226c10d13e3509a5b659b2a39beefd4",
+          "output_sha256": "22831fc3c557bad7441e176ecae2107f0226c10d13e3509a5b659b2a39beefd4",
+          "source_output_equal": true,
+          "bytes": 501899
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-15\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\15-Food-Processing-Cold-Chains-and-Value-Addition\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "ebebc058a73a301731be0fc79402c7864aadbe8c2f2593243de6fc12646012ca",
+          "output_sha256": "ebebc058a73a301731be0fc79402c7864aadbe8c2f2593243de6fc12646012ca",
+          "source_output_equal": true,
+          "bytes": 1695758
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-15\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\15-Food-Processing-Cold-Chains-and-Value-Addition\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "eecda3c343e6b6457625f81dcbcfd9cff0d377cd5f6daa3b78f9a6f706109fc5",
+          "output_sha256": "eecda3c343e6b6457625f81dcbcfd9cff0d377cd5f6daa3b78f9a6f706109fc5",
+          "source_output_equal": true,
+          "bytes": 2027703
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-15\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\15-Food-Processing-Cold-Chains-and-Value-Addition\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "7c50ed7c183820b85b6ea8f3a0f5c4c9212b4c1f6b81d4687e335d492b8b0891",
+          "output_sha256": "7c50ed7c183820b85b6ea8f3a0f5c4c9212b4c1f6b81d4687e335d492b8b0891",
+          "source_output_equal": true,
+          "bytes": 1496639
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-15\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\15-Food-Processing-Cold-Chains-and-Value-Addition\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "a8613ff0a5a903b8d5cc1c9af1bf641d16ff557cbccd97915ab0b1b2371fe2df",
+          "output_sha256": "a8613ff0a5a903b8d5cc1c9af1bf641d16ff557cbccd97915ab0b1b2371fe2df",
+          "source_output_equal": true,
+          "bytes": 2380
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-15\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\15-Food-Processing-Cold-Chains-and-Value-Addition\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "ef8720bf567890630d459bc5a128de9afe828498ac073594d783606ddc70a07c",
+          "output_sha256": "ef8720bf567890630d459bc5a128de9afe828498ac073594d783606ddc70a07c",
+          "source_output_equal": true,
+          "source_text_sha256": "a8613ff0a5a903b8d5cc1c9af1bf641d16ff557cbccd97915ab0b1b2371fe2df",
+          "normalized_text_equal": true,
+          "bytes": 55300
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 6,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 56,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 46,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 51,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 6,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 49,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 54,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 51,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 5,
+            "maximum_line_characters": 49,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 5,
+            "maximum_line_characters": 65,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 94,
+        "solved_practice_workbook": 58,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 94,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 58,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10616
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

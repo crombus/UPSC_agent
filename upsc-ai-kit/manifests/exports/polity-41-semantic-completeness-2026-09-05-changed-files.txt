@@ -1,0 +1,110 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+KNOWLEDGE-SEMANTIC-COMPLETENESS-PLAN.md
+KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\EVIDENCE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\ISSUE-LEDGER.md
+notes\Final-Learning-Packages\_deep-content-review\MD-CHANGE-SUGGESTIONS.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\polity-41-g4-to-g5.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-41\FILES-CHANGED.txt
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-41\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-41\g3-source\polity-41_g3-reviewed-source.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-41\g4-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-41\g4-source\polity-41_g4-reviewed-source.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-41\g5-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-41\g5-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-41\polity-41-g3-content-review.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-41\polity-41-g3-generation-spec.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-41\polity-41-g3-staged-records.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-41\polity-41-g3-validation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-41\polity-41-g4-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-41\polity-41-g4-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-41\polity-41-g4-finalization-manifest.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-41\polity-41-g4-generation-spec.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-41\polity-41-g4-staged-records.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-41\polity-41-g4-validation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-41\polity-41-g5-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\polity-41\REVIEW-REPORT.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\Indian Society\INDEX.md
+notes\Final-Learning-Packages\Indian Society\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\41-Public-Services\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\41-Public-Services\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\41-Public-Services\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\41-Public-Services\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\41-Public-Services\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\41-Public-Services\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\41-Public-Services\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\41-Public-Services\README.txt
+notes\Final-Learning-Packages\START-HERE.md
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-41\carvaka-g5\ascii-master.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-41\carvaka-g5\ascii-master.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-41\carvaka-g5\build-audit.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-41\carvaka-g5\editable\README.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-41\carvaka-g5\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-41\carvaka-g5\master.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-41\carvaka-g5\poster.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-41\carvaka-g5\preservation-hashes.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-41\carvaka-g5\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-41\carvaka-g5\previews\master-overview.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-41\carvaka-g5\previews\page-001.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-41\carvaka-g5\previews\page-002.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-41\carvaka-g5\previews\page-003.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-41\carvaka-g5\previews\page-004.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-41\carvaka-g5\previews\page-005.png
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-41\carvaka-g5\README.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-41\carvaka-g5\tiled.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\flowcharts\polity-41\carvaka-g5\validation-report.txt
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-41\g5\polity-41_Complete-Learning-Session_2026-09-05.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-41\g5\polity-41_Solved-Practice-Workbook_2026-09-05.pdf
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-41\g5\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-41\g5\validation\workbook-visual-audit-map.json
+notes\Polity\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Polity\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Polity\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+tools\regenerate_polity_26_30_deep_review.py
+tools\regenerate_polity_41_45_deep_review.py
+tools\run_polity_41_45_semantic_topic.py
+tools\run_polity_semantic_topic.py
+tools\test_regenerate_polity_26_30_deep_review.py
+tools\test_regenerate_polity_41_45_deep_review.py
+tools\test_run_polity_41_45_semantic_topic.py
+tools\test_run_polity_semantic_topic.py
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-41\g5\assets\01_part_xiv_constitutionalising_the_permanent_executive.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-41\g5\assets\02_classification_do_not_confuse_constitutional_categor.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-41\g5\assets\03_article_309_legislature_first_rule_making_until_law.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-41\g5\assets\04_article_310_doctrine_of_pleasure_constitutionally_fe.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-41\g5\assets\05_article_311_protected_persons_and_protected_penaltie.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-41\g5\assets\06_article_311_2_inquiry_charges_and_reasonable_opportu.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-41\g5\assets\07_the_three_article_311_2_proviso_exceptions.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-41\g5\assets\08_punitive_action_versus_termination_simpliciter.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-41\g5\assets\09_landmark_case_law_spine.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-41\g5\assets\10_article_312_creating_and_regulating_all_india_servic.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-41\g5\assets\11_ais_dual_control_and_federal_design.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-41\g5\assets\12_rights_of_civil_servants_citizens_with_service_oblig.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-41\g5\assets\13_neutrality_political_activity_association_and_strike.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-41\g5\assets\14_administrative_tribunals_and_judicial_review.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-41\g5\assets\15_generalist_specialist_and_lateral_entry.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-41\g5\assets\16_article_335_representation_and_administrative_effici.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-41\g5\assets\polity-41_Teaching-Navigation_2026-08-28.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-41\g5\polity-41_Complete-Learning-Session_2026-09-05.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Polity\Subject-Wide-Syllabus\learning-sessions\polity-41\g5\polity-41_Solved-Practice-Workbook_2026-09-05.md
+upsc-ai-kit\knowledge\Polity\basic\Public-Services.md
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-05-selected-1-bf313cfe935b-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-05-selected-1-bf313cfe935b.json
+upsc-ai-kit\manifests\exports\polity-41-learner-v2-g5-2026-09-05-changed-files.txt
+upsc-ai-kit\manifests\exports\polity-41-learner-v2-g5-2026-09-05-record.json
+upsc-ai-kit\manifests\exports\polity-41-learner-v2-g5-2026-09-05-validation.json
+upsc-ai-kit\manifests\exports\polity-41-semantic-completeness-2026-09-05-changed-files.txt
+upsc-ai-kit\manifests\exports\polity-41-semantic-validation-2026-09-05.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\polity-41-deep-review-2026-09-05-g5.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Polity\deep-review\polity-41-g5.json
+upsc-ai-kit\manifests\reviews\knowledge-semantic-completeness-status.json
+upsc-ai-kit\manifests\reviews\polity\41-public-services-semantic-completeness-review-2026-09-05.md
+upsc-ai-kit\manifests\v2\polity--subject-wide-syllabus-content-specs\polity-41-g5.json
+upsc-ai-kit\manifests\v2\polity--subject-wide-syllabus.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

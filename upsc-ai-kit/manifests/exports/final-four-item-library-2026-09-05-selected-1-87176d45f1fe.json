@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-05T08:50:09+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "6596e17d51d3ae7acef3250635ea75f41a24ca72f92435de50ef0650f2e33745",
+    "sha256_after": "6596e17d51d3ae7acef3250635ea75f41a24ca72f92435de50ef0650f2e33745",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Geography": 1
+  },
+  "sections": {
+    "Geography — Part B — Human, Economic and Regional Geography": 1
+  },
+  "library_totals": {
+    "file_count": 10205,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1716,
+    "json_count": 4264,
+    "total_bytes": 4222658398,
+    "by_extension": {
+      ".json": 4264,
+      ".md": 1716,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "geography-36",
+      "topic_title": "Contemporary Geographical Issues (India)",
+      "subject": "Geography",
+      "section": "Part B — Human, Economic and Regional Geography",
+      "catalogue_number": 36,
+      "source_record_id": "geography-36:learner-v2:g5",
+      "source_generation": 5,
+      "destination_folder": "notes\\Final-Learning-Packages\\Geography\\Part B — Human, Economic and Regional Geography\\36-Contemporary-ea8dbded-India",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g5\\geography-36_Complete-Learning-Session_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part B — Human, Economic and Regional Geography\\36-Contemporary-ea8dbded-India\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "d81626d5c4f60711d3befce69a32a5462208eddc54a16556a46805a0834024f6",
+          "output_sha256": "d81626d5c4f60711d3befce69a32a5462208eddc54a16556a46805a0834024f6",
+          "source_output_equal": true,
+          "bytes": 643599
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g5\\geography-36_Solved-Practice-Workbook_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part B — Human, Economic and Regional Geography\\36-Contemporary-ea8dbded-India\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "face09d1d404e6fb29bd0b0e3749058d9a15ea69bcbfb13f3ea52893e62a2011",
+          "output_sha256": "face09d1d404e6fb29bd0b0e3749058d9a15ea69bcbfb13f3ea52893e62a2011",
+          "source_output_equal": true,
+          "bytes": 497463
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-36\\carvaka-g5\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part B — Human, Economic and Regional Geography\\36-Contemporary-ea8dbded-India\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "8574f7d526a3d5bd97e96c6f43508aba8b795819edf1713fbc17e10cabdad404",
+          "output_sha256": "8574f7d526a3d5bd97e96c6f43508aba8b795819edf1713fbc17e10cabdad404",
+          "source_output_equal": true,
+          "bytes": 2533660
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-36\\carvaka-g5\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part B — Human, Economic and Regional Geography\\36-Contemporary-ea8dbded-India\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "be42e2ce696493381b467bfbf5d70baca5f156a9c5f7499b62a3a8c9456b2491",
+          "output_sha256": "be42e2ce696493381b467bfbf5d70baca5f156a9c5f7499b62a3a8c9456b2491",
+          "source_output_equal": true,
+          "bytes": 2824131
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-36\\carvaka-g5\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part B — Human, Economic and Regional Geography\\36-Contemporary-ea8dbded-India\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "bdd3ba0481493ad903088c9104c23e195d4653ca8417b65f89b1ec9210eb62af",
+          "output_sha256": "bdd3ba0481493ad903088c9104c23e195d4653ca8417b65f89b1ec9210eb62af",
+          "source_output_equal": true,
+          "bytes": 2249970
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-36\\carvaka-g5\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part B — Human, Economic and Regional Geography\\36-Contemporary-ea8dbded-India\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "792b2cd762985f3abfea35c44b2b7a01d10afd3f887dc1bde9361ec325623b0a",
+          "output_sha256": "792b2cd762985f3abfea35c44b2b7a01d10afd3f887dc1bde9361ec325623b0a",
+          "source_output_equal": true,
+          "bytes": 7398
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-36\\carvaka-g5\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part B — Human, Economic and Regional Geography\\36-Contemporary-ea8dbded-India\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "c09a48f7ba905eb2b053772b0713b39af1a26dd00af4413eb7d7b3b2f3c64617",
+          "output_sha256": "c09a48f7ba905eb2b053772b0713b39af1a26dd00af4413eb7d7b3b2f3c64617",
+          "source_output_equal": true,
+          "source_text_sha256": "792b2cd762985f3abfea35c44b2b7a01d10afd3f887dc1bde9361ec325623b0a",
+          "normalized_text_equal": true,
+          "bytes": 58638
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 14,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 6,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 6,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 6,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 6,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 6,
+            "maximum_line_characters": 83,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 6,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 6,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 72,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 12,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 14,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 84,
+        "solved_practice_workbook": 47,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 84,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 47,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11646
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

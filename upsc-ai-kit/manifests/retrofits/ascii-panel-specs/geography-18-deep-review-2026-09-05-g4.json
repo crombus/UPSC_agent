@@ -1,0 +1,253 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "geography_process_spatial_causal_control": true,
+    "map_and_current_status_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-18",
+      "display_title": "Hot and MidLatitude Desert Climate",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g4\\geography-18_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Desert identity test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "MOISTURE DEFICIT -> desert criterion",
+            "HOT + ARID -> BWh tendency",
+            "COLD WINTER + ARID -> BWk tendency",
+            "SAND / HEAT -> possible, not defining",
+            "MUST REMEMBER: Hot deserts cluster near subtropical subsidence, western-margin cold currents,",
+            "  continental interiors and rain shadows, while mid-latitude deserts add distance and mountain",
+            "  barriers; large diurnal range, episodic rain and xerophytes follow water-energy balance.",
+            "MUST REMEMBER: Hot deserts cluster near subtropical subsidence, western-margin cold currents,",
+            "  continental interiors and rain shadows, while mid-latitude deserts add distance and mountain",
+            "  barriers; large diurnal range, episodic rain and xerophytes follow water-energy balance."
+          ],
+          "source_references": [
+            "Aridity, not heat",
+            "Hot and mid-latitude desert map",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\18_Hot-and-MidLatitude-Desert-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\18_Thar-Desert-and-GIB.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g3\\geography-18_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g4\\geography-18_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Aridity cause matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SUBSIDENCE -> stable descending air",
+            "OFFSHORE FLOW -> weak moisture supply",
+            "COLD CURRENT -> fog but weak convection",
+            "CONTINENT / RAIN SHADOW -> inland dryness"
+          ],
+          "source_references": [
+            "Subtropical subsidence",
+            "Offshore winds and cold currents",
+            "Continentality and rain shadow",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\18_Hot-and-MidLatitude-Desert-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\18_Thar-Desert-and-GIB.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g3\\geography-18_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g4\\geography-18_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Cold-current coast",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "COLD WATER -> chilled marine boundary layer",
+            "STABLE AIR -> weak vertical uplift",
+            "FOG / MIST -> moisture without deep rain",
+            "COASTAL DESERT -> aridity persists"
+          ],
+          "source_references": [
+            "Offshore winds and cold currents",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\18_Hot-and-MidLatitude-Desert-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\18_Thar-Desert-and-GIB.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g3\\geography-18_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g4\\geography-18_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Temperature firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "HOT DESERT -> very large day-night range",
+            "MID-LATITUDE DESERT -> cold winter",
+            "CLEAR SKY -> rapid nocturnal radiation",
+            "RULE -> do not equate desert with constant heat"
+          ],
+          "source_references": [
+            "Rainfall and temperature regimes",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\18_Hot-and-MidLatitude-Desert-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\18_Thar-Desert-and-GIB.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g3\\geography-18_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g4\\geography-18_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Wadi flood chain",
+          "structural_type": "hazard-flow",
+          "ascii_lines": [
+            "RARE INTENSE STORM -> high rain rate",
+            "BARE / CRUSTED SURFACE -> rapid runoff",
+            "DRY CHANNEL -> sudden flow concentration",
+            "SETTLEMENT / ROAD -> flash-flood exposure"
+          ],
+          "source_references": [
+            "Flash floods and wadis",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\18_Hot-and-MidLatitude-Desert-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\18_Thar-Desert-and-GIB.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g3\\geography-18_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g4\\geography-18_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Plant-water adaptations",
+          "structural_type": "classification-tree",
+          "ascii_lines": [
+            "LEAF -> reduced, waxy or thorny",
+            "STEM -> water storage in some species",
+            "ROOT -> deep tap or wide shallow network",
+            "SPACING -> lower competition for water"
+          ],
+          "source_references": [
+            "Xerophytes and oasis ecology",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\18_Hot-and-MidLatitude-Desert-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\18_Thar-Desert-and-GIB.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g3\\geography-18_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g4\\geography-18_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Oasis and water strategy",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "AQUIFER / SPRING / EXOTIC RIVER -> source",
+            "WELL / CONDUIT / TANK -> access",
+            "DATE PALM + CROPS -> layered use",
+            "OVERUSE -> depletion, salinity or conflict"
+          ],
+          "source_references": [
+            "Desert societies and water",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\18_Hot-and-MidLatitude-Desert-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\18_Thar-Desert-and-GIB.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g3\\geography-18_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g4\\geography-18_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Thar aridity map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "ARABIAN SEA BRANCH -> approaches north-west",
+            "ARAVALLIS -> broadly parallel orientation",
+            "WEAK FORCED ASCENT -> little orographic rain",
+            "CONTINENTALITY + SUBSIDENCE -> reinforce aridity"
+          ],
+          "source_references": [
+            "Thar location and gradient",
+            "Why the Thar is arid",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\18_Hot-and-MidLatitude-Desert-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\18_Thar-Desert-and-GIB.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g3\\geography-18_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g4\\geography-18_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Thar landscape ledger",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "DUNES -> barchan, seif and sand sheets",
+            "DHANDS / PLAYAS -> inland salt basins",
+            "LUNI -> principal inland-draining river",
+            "KHEJRI / GRASS -> xeric open habitat"
+          ],
+          "source_references": [
+            "Thar landforms and drainage",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\18_Hot-and-MidLatitude-Desert-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\18_Thar-Desert-and-GIB.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g3\\geography-18_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g4\\geography-18_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Transformation trade-off",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "TANKA / KHADIN / JOHAD -> local harvesting",
+            "CANAL -> irrigation and settlement expansion",
+            "RENEWABLE GRID -> low-carbon power",
+            "RISKS -> salinity, waterlogging, habitat collision",
+            "CLOSE DISTINCTION: Hot desert differs from cold/mid-latitude desert, aridity from drought, and",
+            "  cold current promotes coastal stability/fog rather than directly 'removing' all rain; Thar's",
+            "  monsoon-margin setting differs from Sahara's dominant controls.",
+            "CLOSE DISTINCTION: Hot desert differs from cold/mid-latitude desert, aridity from drought, and",
+            "  cold current promotes coastal stability/fog rather than directly 'removing' all rain; Thar's",
+            "  monsoon-margin setting differs from Sahara's dominant controls."
+          ],
+          "source_references": [
+            "Water harvesting and canal change",
+            "GIB and renewable-energy planning",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\18_Hot-and-MidLatitude-Desert-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\18_Thar-Desert-and-GIB.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g3\\geography-18_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g4\\geography-18_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "UNCCD status gate",
+          "structural_type": "evidence-ladder",
+          "ascii_lines": [
+            "COP16 -> Riyadh, 2-13 December 2024",
+            "LAND + DROUGHT -> resilience agenda advanced",
+            "BINDING FRAMEWORK -> not finalised",
+            "PYQ LEDGER -> no direct Topic 18 demand",
+            "EVIDENCE LIMIT: Desert location is multicausal and boundaries migrate; Great Indian Bustard",
+            "  habitat policy, renewable infrastructure and desertification trends require dated, spatially",
+            "  explicit sources and trade-off analysis.",
+            "EVIDENCE LIMIT: Desert location is multicausal and boundaries migrate; Great Indian Bustard",
+            "  habitat policy, renewable infrastructure and desertification trends require dated, spatially",
+            "  explicit sources and trade-off analysis."
+          ],
+          "source_references": [
+            "UNCCD drought governance and PYQ boundary",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\18_Hot-and-MidLatitude-Desert-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\18_Thar-Desert-and-GIB.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g3\\geography-18_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g4\\geography-18_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Desert answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> aridity and water balance",
+            "MAP -> circulation, current and relief causes",
+            "COMPARE -> hot versus mid-latitude",
+            "APPLY -> Thar, GIB and drought governance"
+          ],
+          "source_references": [
+            "UNCCD drought governance and PYQ boundary",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\18_Hot-and-MidLatitude-Desert-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\18_Thar-Desert-and-GIB.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g3\\geography-18_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g4\\geography-18_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

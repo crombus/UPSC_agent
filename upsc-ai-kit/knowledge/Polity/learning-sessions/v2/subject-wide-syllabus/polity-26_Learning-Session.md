@@ -17,8 +17,8 @@ evidence_key: "[FACT] verified constitutional, statutory, judicial or official p
 #### Package method, source priority and current legal control
 
 - [FACT] Source order followed: `basic/Scheduled-and-Tribal-Areas.md` -> `advanced/26_Scheduled-and-Tribal-Areas.md` -> Polity 23 Panchayati Raj, Polity 22 Special Provisions, Fundamental Rights, Supreme Court, Environment/FRA and EIA owners only for cross-links -> audited PYQ routing ledgers and locally held official Prelims papers/keys -> authoritative Constitution, India Code, Ministry of Tribal Affairs, Ministry of Panchayati Raj, Supreme Court and official State/ADC sources. Qdrant was not used.
-- [CURRENT] Legal and institutional control date is **28 August 2026, Asia/Kolkata**.
-- [CURRENT] **Live official refresh, 28 August 2026:** Ministry of Tribal Affairs Fifth-Schedule material, Ministry of Panchayati Raj PESA-rules listings, MHA Ladakh committee material and the official Supreme Court judgment source were rechecked. Jharkhand PESA Rules, 2025 remain listed; no Sixth-Schedule grant to Ladakh was located.
+- [CURRENT] Legal and institutional control date is **5 September 2026, Asia/Kolkata**.
+- [CURRENT] **Live official refresh, 5 September 2026:** Ministry of Tribal Affairs Fifth-Schedule material, Ministry of Panchayati Raj PESA-rules listings, MHA Ladakh committee material and the official Supreme Court judgment source were rechecked. Jharkhand PESA Rules, 2025 remain listed; no Sixth-Schedule grant to Ladakh was located.
 - [FACT] Article **244(1)** applies the Fifth Schedule to Scheduled Areas and Scheduled Tribes in States other than Assam, Meghalaya, Tripura and Mizoram. Article **244(2)** applies the Sixth Schedule to tribal areas in those four States.
 - [CURRENT] The official Ministry of Panchayati Raj state-wise document identifies notified Fifth Schedule areas in **10 States**: Andhra Pradesh, Telangana, Chhattisgarh, Gujarat, Himachal Pradesh, Jharkhand, Madhya Pradesh, Maharashtra, Odisha and Rajasthan.
 - [LIMIT] A State's inclusion in that list does not make the whole State a Scheduled Area. Only territory covered by the operative Presidential Orders has that status. Presence of a Scheduled Tribe population also does not by itself notify a Scheduled Area.
@@ -1209,6 +1209,55 @@ CLAIM
 | reform | transparency, records, capacity and remedy must connect constitutional text to community power |
 
 
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional map:** Article 244(1) applies the Fifth Schedule to Scheduled
+  Areas and Scheduled Tribes in States other than Assam, Meghalaya, Tripura and
+  Mizoram; Article 244(2) applies the Sixth Schedule to tribal areas in those
+  four States. Article 244A is a separate parliamentary route for an autonomous
+  State within Assam.
+- **Fifth-Schedule territory:** the President declares, enlarges, diminishes,
+  alters or rescinds a Scheduled Area by order after the constitutional
+  consultation route. Official Ministry of Tribal Affairs material continues
+  to list Scheduled Areas in ten States.
+- **Fifth-Schedule administration:** State executive power extends to Scheduled
+  Areas; the Governor reports annually, or whenever required, to the President;
+  and Union executive power extends to directions regarding administration.
+- **TAC precision:** a Tribes Advisory Council has not more than twenty members.
+  As nearly as may be, three-fourths are representatives of Scheduled Tribes in
+  the State Legislative Assembly, with the Schedule's shortfall rule. It advises
+  on welfare and advancement matters referred by the Governor; it does not legislate.
+- **Governor's paragraph 5 power:** by public notification the Governor may
+  direct that an Act does not apply, or applies with exceptions/modifications,
+  and may make peace-and-good-government regulations on tribal land transfer,
+  land allotment and money-lending. Regulations require presidential assent and,
+  where a TAC exists, consultation with it.
+- **Sixth-Schedule institutions:** the Governor organises autonomous districts
+  and regions. District and Regional Councils exercise textually specified
+  legislative, judicial, executive and revenue powers; council laws requiring
+  assent, State-law application and parliamentary-law application remain
+  paragraph- and State-specific rather than one blanket rule.
+- **Current council map:** an official MHA Lok Sabha answer dated 4 August 2026
+  lists ten Sixth-Schedule Autonomous District Councils: three in Assam, three
+  in Meghalaya, three in Mizoram and one in Tripura. Special council designs,
+  including Bodoland, must not be replaced by the ordinary maximum-thirty model.
+- **PESA verbs:** section 4 of the PESA Act, 1996 distinguishes Gram Sabha
+  approval of plans/programmes/projects, beneficiary identification, utilisation
+  certification, consultation before land acquisition and rehabilitation, and
+  mandatory prior recommendation for specified minor-mineral licences, leases
+  and concessions. Ownership of minor forest produce and specified control
+  powers do not create a universal project veto.
+- **FRA and judgments:** the Forest Rights Act, 2006 has its own rights-recognition
+  process initiated through the Gram Sabha. Samatha (1997) is used within its
+  Andhra Pradesh Scheduled-Area land-transfer setting. Orissa Mining Corporation
+  (2013) required Gram Sabha determination of specified FRA-linked cultural and
+  religious claims at Niyamgiri while leaving the final Stage-II decision with MoEF.
+- **Ownership/PYQ firewall:** Topic 23 owns Panchayat structure and the PESA
+  local-government bridge; Topic 22 owns Articles 371-371J; Topic 31 owns the
+  National Commissions; Topic 53 owns the wider special-provisions-for-classes
+  architecture. Direct and routed 2019-2026 Scheduled-Area demands retain their
+  official-key or answer-free status without fabricated answer letters.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Original MCQ loop - strict continuous A -> B -> C -> D rotation
@@ -1228,7 +1277,7 @@ D. Article 339-Sixth Schedule council composition.
 
 ### OM2. Fifth Schedule States
 
-Which statement is correct as on 28 August 2026?
+Which statement is correct as on 5 September 2026?
 
 A. Every State with an ST population has a notified Scheduled Area.  
 B. Official Central material identifies notified Fifth Schedule areas in 10 States.  
@@ -1657,7 +1706,7 @@ D. ADCs are ordinary Zila Parishads.
 
 ### OM35. Current PESA rule status
 
-Which dated statement is supported by the official MoPR listing on 28 August 2026?
+Which dated statement is supported by the official MoPR listing on 5 September 2026?
 
 A. Odisha is the only State with rules.  
 B. All ten States have identical rules.  

@@ -2,15 +2,15 @@
 
 **Complete independent learning session + verified PYQ routing + solved practice workbook + final consolidated register notes**
 
-**Legal/current control date:** 25 August 2026 (Asia/Kolkata)
+**Legal/current control date:** 5 September 2026 (Asia/Kolkata)
 
 > **Tag key:** `[FACT]` = supported by a named constitutional, statutory, official, judicial or audited local source; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked against official material for the control date; `[LIMIT]` = qualification, unresolved issue or deliberately unfrozen fact.
 >
 > **Answer-writing discipline:** claim -> named evidence -> analysis -> qualification.
 
-- [CURRENT] Status is controlled to **25 August 2026, Asia/Kolkata**.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
 
-- [CURRENT] **Live official refresh, 25 August 2026:** The Constitution as on 1 May 2026, 52nd/91st Amendment texts, House procedure and controlling Supreme Court cases were rechecked on 25 August 2026. Nabam Rebia remains subject to the larger-bench reference; current party alignments and reported merger litigation are not frozen.
+- [CURRENT] **Live official refresh, 5 September 2026:** The Constitution as on 1 May 2026, 52nd/91st Amendment texts, House procedure and controlling Supreme Court cases were rechecked on 5 September 2026. Nabam Rebia remains subject to the larger-bench reference; current party alignments and reported merger litigation are not frozen.
 #### How to Use This Package
 
 [FACT] Local sources were read first: `Polity/basic/Anti-Defection-Law.md`, `Polity/advanced/42_Anti-Defection-Law.md`, the related Parliament, State Legislature, political-party, Election Commission and constitutional-amendment owners, and all available Prelims/Mains routing and PYQ-integration ledgers.
@@ -1438,6 +1438,45 @@ The exam-safe limitation is that every dissenting speech violates whip paragraph
 | party expulsion automatically disqualifies | not by itself; deemed-party status remains relevant |
 
 *Caption: These are close-option errors rather than broad conceptual mistakes.*
+
+### Semantic-completeness ownership and PYQ control
+
+- **Text and amendments:** the 52nd Amendment Act, 1985 inserted the Tenth
+  Schedule and amended Articles 101, 102, 190 and 191. The 91st Amendment Act,
+  2003 deleted the one-third split defence, retained the paragraph 4 merger
+  route and added ministry-size and office bars.
+- **Grounds:** a party member may be disqualified for voluntarily giving up
+  membership or voting/abstaining contrary to a direction without prior
+  permission and without condonation within fifteen days. Conduct may prove
+  voluntary giving up; formal resignation is not indispensable.
+- **Member types:** an independent member is disqualified on joining any
+  political party. A nominated member may join within six months of taking the
+  seat but is disqualified for joining after that period.
+- **Merger and exemption:** paragraph 4 requires merger of the original
+  political party and agreement by not less than two-thirds of the legislature
+  party. Paragraph 5 narrowly protects a presiding officer who gives up party
+  membership on election to the chair. The deleted split cannot be revived.
+- **Decision and review:** paragraph 6 assigns the question to the Speaker or
+  Chairman. Kihoto Hollohan treats that officer as a tribunal subject to
+  judicial review; Rajendra Singh Rana permits review of disabling inaction;
+  Keisham Meghachandra states an ordinary three-month norm and recommends an
+  independent tribunal without enacting one.
+- **Party/whip control:** Subhash Desai (2023) requires recognition of the whip
+  and leader appointed by the political party, not merely a legislature-party
+  faction, and requires party identity to be assessed through the party
+  constitution and organisation rather than legislator headcount alone.
+- **Parallel tracks:** a symbol dispute before the ECI and disqualification
+  proceedings before the Speaker perform different functions and may proceed
+  independently. Resignation does not erase antecedent disqualifying conduct.
+- **Pending doctrine, checked 5 September 2026:** the Nabam Rebia question
+  concerning a Speaker facing removal notice remains referred for larger-bench
+  reconsideration in the latest official Supreme Court material located. No
+  later merits disposition is asserted.
+- **Reform status:** limiting whips, imposing a statutory deadline or shifting
+  adjudication to an independent tribunal remain proposals, not Tenth Schedule
+  text. The law disqualifies membership; it does not criminalise defection.
+- **PYQ firewall:** the verified 2022 nominated-member and 2025 political-party
+  objective demands are owned here. No direct Mains PYQ is fabricated.
 
 ## BASIC MCQS / REMEDIATION
 

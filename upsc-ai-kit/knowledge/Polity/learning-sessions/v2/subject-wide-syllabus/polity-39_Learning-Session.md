@@ -2,15 +2,15 @@
 
 **Complete independent learning session + verified adjacent PYQs + solved practice workbook + final consolidated register notes**
 
-**Legal/current control date:** 25 August 2026 (Asia/Kolkata)
+**Legal/current control date:** 5 September 2026 (Asia/Kolkata)
 
 > **Tag key:** `[FACT]` = directly supported by a named constitutional, statutory, judicial, official or local source; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked against official material for the control date; `[LIMIT]` = qualification, unresolved issue or deliberately unfrozen fact.
 >
 > **Answer-writing discipline:** claim -> named evidence -> analysis -> qualification.
 
-- [CURRENT] Status is controlled to **25 August 2026, Asia/Kolkata**.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
 
-- [CURRENT] **Live official refresh, 25 August 2026:** The official Constitution, Rajendra N. Shah judgment, current Multi-State Co-operative Societies Act and 2023 amendment framework, Ministry/CRCS, RBI and NABARD material were rechecked on 25 August 2026. National Cooperation Policy 2025 is a dated policy anchor, not a transfer of State legislative competence.
+- [CURRENT] **Live official refresh, 5 September 2026:** The official Constitution, Rajendra N. Shah judgment, current Multi-State Co-operative Societies Act and 2023 amendment framework, Ministry/CRCS, RBI and NABARD material were rechecked on 5 September 2026. National Cooperation Policy 2025 is a dated policy anchor, not a transfer of State legislative competence.
 #### How to Use This Package
 
 [FACT] This package starts with the local Polity owners, then controls every live legal proposition against the official Constitution, the official Supreme Court judgment in ***Union of India v. Rajendra N. Shah*** (2021), the current India Code text of the **Multi-State Co-operative Societies Act, 2002** as amended in 2023, Ministry of Cooperation/Central Registrar material, and official RBI/NABARD material.
@@ -1205,6 +1205,50 @@ The exam-safe limitation is that pYQ, Practice and Solved Workbook.
 
 [LIMIT] A national label, Union support or multi-State operation does not merge policy,
 registration, finance, representation, ownership and prudential supervision into one office.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Federal map:** State-field cooperative societies belong principally to
+  Entry 32, State List and the respective State cooperative law. Corporations
+  whose objects are not confined to one State fall under Entry 44, Union List
+  and the Multi-State Co-operative Societies Act, 2002.
+- **97th Amendment:** the Constitution (Ninety-seventh Amendment) Act, 2011
+  inserted cooperative societies into Article 19(1)(c), inserted Article 43B,
+  and added Part IXB, Articles 243ZH-243ZT. It came into force on 15 February 2012.
+- **Rajendra N. Shah control:** the Supreme Court's 2021 majority invalidated
+  Part IXB insofar as it governed ordinary State-field cooperatives because the
+  amendment lacked State ratification under Article 368(2). Article 19(1)(c),
+  Article 43B and Part IXB's multi-State operation survive; the whole 97th
+  Amendment was not struck down.
+- **Part IXB content:** within its surviving field it regulates incorporation,
+  board composition and five-year tenure, elections before expiry,
+  supersession limits, audit, returns, offences and member information, subject
+  to the Constitution's own banking and no-government-finance qualifications.
+- **Current central statute:** the MSCS Act, 2002 as amended in 2023 and the
+  amended rules govern multi-State societies. The 2023 architecture includes a
+  Co-operative Election Authority, Co-operative Ombudsman, Co-operative
+  Information Officer, concurrent-audit controls and the Cooperative
+  Rehabilitation, Reconstruction and Development Fund.
+- **Appointments and institutions:** the Central Government appoints the
+  Central Registrar under section 4 and constitutes/appoints the statutory
+  central election, ombudsman and other mechanisms under the amended Act.
+  State Registrars derive authority from State Acts. These offices are not the
+  Election Commission of India, RBI or an operating cooperative.
+- **Banking overlay:** registration under cooperative law and banking
+  regulation are separate. RBI/Banking Regulation Act supervision applies to
+  banking functions; NABARD and financing institutions have distinct roles.
+  A PACS is not automatically a banking company for every legal purpose.
+- **Status tests:** Daman Singh addresses the statutory character of cooperative
+  membership; Thalappalam holds that registration and ordinary regulatory
+  control alone do not automatically make a society an RTI public authority.
+  Article 12 and Article 226 tests remain fact-sensitive.
+- **Current policy control:** National Cooperation Policy 2025, launched
+  24 July 2025, is a policy framework for governance, professionalisation,
+  digitalisation, market linkages, finance, inclusion and sustainability. It
+  does not transfer Entry 32 competence or erase State-law variation.
+- **PYQ firewall:** adjacent 2020 DCCB, 2021 UCB and 2023 cooperative-production
+  objective demands are retained as cross-owned banking/agriculture routes.
+  No direct Polity Mains PYQ is fabricated.
 
 ## BASIC MCQS / REMEDIATION
 

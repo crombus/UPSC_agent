@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "economy-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "economy_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-16",
+      "display_title": "Industrial Policy, 1991 Reforms, PSUs and Disinvestment",
+      "active_generation": 5,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-16\\g5\\economy-16_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Industrial-policy chronology",
+          "structural_type": "timeline-strip",
+          "ascii_lines": [
+            "1948 -> mixed-economy role",
+            "1956 -> Schedules A / B / C + commanding heights",
+            "1980s -> modernisation + selective delicensing",
+            "1991 -> systemic delicensing + wider reform package",
+            "MUST REMEMBER: Industrial policy evolved from licensing and public-sector leadership..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-16\\g5\\economy-16_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Licence-to-competition transition",
+          "structural_type": "transition-flow",
+          "ascii_lines": [
+            "LICENCE RAJ -> entry + capacity + location controls",
+            "DELICENSING -> wider firm choice",
+            "COMPETITION -> productivity pressure",
+            "REGULATION REMAINS -> standards + environment + market power"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-16\\g5\\economy-16_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Reform-package map",
+          "structural_type": "policy-wheel",
+          "ascii_lines": [
+            "INDUSTRIAL DELICENSING",
+            "TRADE OPENING",
+            "EXCHANGE-RATE REFORM",
+            "FINANCIAL REFORM -> connected, not isolated"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-16\\g5\\economy-16_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Ownership-change spectrum",
+          "structural_type": "classification-ladder",
+          "ascii_lines": [
+            "MINORITY SALE -> government control retained",
+            "STRATEGIC DISINVESTMENT -> stake + management control",
+            "PRIVATISATION -> control passes to private buyer",
+            "CLOSURE / MERGER -> separate restructuring routes"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-16\\g5\\economy-16_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Air India status chain",
+          "structural_type": "status-flow",
+          "ascii_lines": [
+            "POLICY / TRANSACTION DESIGN",
+            "-> BID + APPROVAL",
+            "-> OWNERSHIP AND CONTROL TRANSFER",
+            "-> JANUARY 2022 COMPLETION; do not generalise"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-16\\g5\\economy-16_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "New PSE Policy map",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "FOUR STRATEGIC SECTORS -> bare-minimum public presence",
+            "OTHER STRATEGIC CPSEs -> privatise / merge / subsidiary / close",
+            "NON-STRATEGIC -> privatise where feasible or consider closure",
+            "EXCLUDED CLASSES -> preserve official policy boundary",
+            "CLOSE DISTINCTION: Liberalisation is not absence of regulation, privatisation is not..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-16\\g5\\economy-16_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Disinvestment versus monetisation",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "DISINVESTMENT -> equity stake",
+            "STRATEGIC SALE -> equity + control",
+            "MONETISATION -> time-bound operating / revenue rights",
+            "FISCAL RULE -> one-off asset receipt, not recurring revenue"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-16\\g5\\economy-16_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "PSU mandate board",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "COMMERCIAL GOAL",
+            "STRATEGIC / PUBLIC-SERVICE OBLIGATION",
+            "OWNERSHIP FUNCTION",
+            "REGULATOR FUNCTION -> keep separate"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-16\\g5\\economy-16_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Competition safeguard chain",
+          "structural_type": "cause-effect-board",
+          "ascii_lines": [
+            "PRIVATISATION WITHOUT CONTESTABILITY",
+            "-> PRIVATE MARKET POWER",
+            "-> PRICE / QUALITY RISK",
+            "-> NEED competition law + sector regulation"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-16\\g5\\economy-16_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Plan-thrust distinctions",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "SECOND PLAN -> heavy / basic industry",
+            "SIXTH -> modernisation + productivity",
+            "SEVENTH -> technology + early delicensing",
+            "EIGHTH -> post-1991 industrial + financial reform"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-16\\g5\\economy-16_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Objective PYQ distinctions",
+          "structural_type": "trap-board",
+          "ascii_lines": [
+            "CCO -> regulatory office; CIL -> producer",
+            "CSR -> statutory Board duty; not ordinary tax",
+            "SCHEDULES A/B/C -> 1956 vintage",
+            "ANSWER KEY -> never infer from routing"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-16\\g5\\economy-16_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Industrial-policy answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "TRACE chronology and binding constraint",
+            "DISTINGUISH licensing, ownership and control",
+            "TEST competition, capability, jobs and regions",
+            "CONCLUDE with explicit mandates + review",
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Separate 1991 measures by legal/executive..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-16\\g5\\economy-16_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

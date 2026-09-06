@@ -16,8 +16,8 @@ evidence_key: "[FACT] verified constitutional, judicial or official proposition;
 
 - Source order followed: `basic/Panchayati-Raj.md` -> `advanced/23_Panchayati-Raj.md` -> `basic/Scheduled-and-Tribal-Areas.md` -> official Ministry of Panchayati Raj material on devolution, XVI Finance Commission rural-local-body guidelines, eGramSwaraj, PESA and SVAMITVA. Qdrant was not used.
 - [FACT] The Core owner supersedes stale or less-qualified Advanced statements.
-- [CURRENT] Status is controlled to **28 August 2026, Asia/Kolkata**.
-- [CURRENT] **Live official refresh, 28 August 2026:** The Ministry of Panchayati Raj, eGramSwaraj, AuditOnline, SVAMITVA and Finance Commission portals were rechecked on 28 August 2026. The Devolution Index 2024 and 2026-31 local-body grant period are dated anchors; no changing dashboard total is frozen.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
+- [CURRENT] **Live official refresh, 5 September 2026:** The Ministry of Panchayati Raj, eGramSwaraj, AuditOnline, SVAMITVA and Finance Commission portals were rechecked on 5 September 2026. The Devolution Index 2024 and 2026-31 local-body grant period are dated anchors; no changing dashboard total is frozen.
 - [CURRENT] Part IX, Articles 243-243O, the Eleventh Schedule and the PESA Act, 1996 remain the controlling constitutional/statutory framework.
 - [CURRENT] The Ministry of Panchayati Raj hosts the Panchayat Devolution Index 2024, which evaluates devolution across functions, finances, functionaries and enabling/accountability conditions.
 - [CURRENT] Operational guidelines for rural local bodies under the Sixteenth Finance Commission award period **2026-27 to 2030-31** are controlled through the Commission report and Union action memorandum.
@@ -805,6 +805,48 @@ judicial institutions, not Gram Sabhas, Gram Panchayats or a fourth Panchayat ti
 - [FACT] *Vikas Kishanrao Gawali v. State of Maharashtra* (2021) states the triple test: a dedicated commission, contemporaneous rigorous empirical inquiry for each local body, and reservation calibrated without breaching the aggregate ceiling.
 - [FACT] *State of Goa v. Fouziya Imtiaz Shaikh* (2021) requires a genuinely independent SEC and rejects entrusting it to a serving government officer.
 - [LIMIT] Gram Nyayalayas under the 2008 Act are courts; they are not Gram Sabhas, Panchayats or Nyaya Panchayats.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional birth:** the Constitution (Seventy-third Amendment) Act, 1992
+  inserted Part IX and the Eleventh Schedule and commenced on 24 April 1993.
+  Articles 243-243O and the twenty-nine Schedule matters are the exact core.
+- **Democratic structure:** Article 243A leaves Gram Sabha powers to State law;
+  Article 243B creates village, intermediate and district tiers, with the
+  population-not-exceeding-twenty-lakh intermediate-tier exception; Articles
+  243C-243F govern composition, reservation, duration and disqualification.
+- **Election precision:** Article 243E requires election before expiry or within
+  six months of dissolution, unless the remainder is under six months; a
+  reconstituted Panchayat serves only the unexpired term. Article 243K vests
+  electoral control in the State Election Commission; Article 243O channels
+  challenges through election petitions.
+- **Devolution limit:** Article 243G and the Eleventh Schedule enable State-law
+  endowment of powers; they do not automatically transfer all twenty-nine matters.
+  Article 243H supplies taxes, assignments, grants and funds; Articles 243I/J
+  provide the State Finance Commission and audit routes.
+- **PESA scope:** Article 243M excludes specified areas and States. The Provisions
+  of the Panchayats (Extension to the Scheduled Areas) Act, 1996 extends a
+  modified framework only to Fifth Schedule Scheduled Areas, not Sixth Schedule areas.
+- **PESA verb control:** Section 4 requires consultation before land acquisition
+  and resettlement/rehabilitation; mandatory prior recommendation before minor-
+  mineral prospecting licences, mining leases and concessions; ownership of minor
+  forest produce; and specified powers over alienation, markets, money-lending,
+  social sectors and local plans. These verbs are not one universal Gram Sabha veto.
+- **Inclusion:** Article 243D makes SC/ST seat reservation population-linked,
+  reserves not less than one-third of all seats and chairperson offices for women,
+  and permits backward-class reservation. State laws providing fifty per cent
+  women's reservation are State-specific, not the constitutional national floor.
+- **Current evidence:** the Ministry of Panchayati Raj's Devolution Index Report
+  2024 remains the latest named national index located on the dated review. The
+  Sixteenth Finance Commission award period is 2026-27 to 2030-31; report ratios
+  and portal totals remain dated evidence.
+- **Ownership boundary:** Topic 23 owns Panchayat institutions and the PESA
+  Panchayat interface. Topic 26 owns the Fifth Schedule Governor/TAC/President
+  machinery and Sixth Schedule autonomous councils; PESA must not be used to
+  erase that distinction.
+- **Four-ledger/PYQ control:** direct 2018 finance and 2025 intermediate-tier
+  demands plus routed 2019-2024 women, three-F and rural-urban merger demands were
+  retained with official-key discipline and cross-owner labels.
 
 ## BASIC MCQS / REMEDIATION
 

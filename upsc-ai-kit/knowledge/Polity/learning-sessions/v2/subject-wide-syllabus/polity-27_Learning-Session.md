@@ -7,7 +7,7 @@ control_date: 2026-08-19
 
 # Polity 27 - Election Commission - Complete Topic Package
 
-> **Control date:** 28 August 2026, Asia/Kolkata  
+> **Control date:** 5 September 2026, Asia/Kolkata  
 > **Tags:** `[FACT]` directly supported by a named local or official source; `[ANALYSIS]` reasoned exam use; `[CURRENT]` date-sensitive control; `[LIMIT]` boundary, uncertainty or non-ownership.  
 > **Core discipline:** claim -> named evidence -> analysis -> qualification.  
 > **Scope:** constitutional design, composition, appointment, tenure, removal, administration, rolls, parties and symbols, Model Code of Conduct (MCC), EVM-VVPAT, case law, independence, accountability and reform.
@@ -18,10 +18,10 @@ control_date: 2026-08-19
 - [FACT] Structural and validation reference only: Polity 24, 25 and 26 complete packages. Their subject content has not been imported.
 - [FACT] The controlling appointment statute was checked against the official India Code PDF of **The Chief Election Commissioner and other Election Commissioners (Appointment, Conditions of Service and Term of Office) Act, 2023**, Act 49 of 2023, including sections 3-11 and 16-18.
 - [CURRENT] The 2023 Act commenced on **2 January 2024** under S.O. 35(E), as recorded in the India Code text.
-- [CURRENT] **Live official refresh, 28 August 2026:** India Code, ECI leadership/manuals, the official 2024 EVM-VVPAT judgment and Supreme Court appointment-case orders were rechecked. The 2023 Act remains operative; no official stay or merits judgment was located.
+- [CURRENT] **Live official refresh, 5 September 2026:** India Code, ECI leadership/manuals, the official 2024 EVM-VVPAT judgment and Supreme Court appointment-case orders were rechecked. The 2023 Act remains operative; no official stay or merits judgment was located.
 - [CURRENT] The official ECI leadership page, checked for this control date, lists Chief Election Commissioner **Gyanesh Kumar** and Election Commissioners **Dr Sukhbir Singh Sandhu** and **Dr Vivek Joshi**.
 - [CURRENT] The Supreme Court's official 22 March 2024 order dismissed applications seeking a stay of section 7 and the appointments, while expressly treating its observations as tentative because the constitutional challenge remained sub judice.
-- [LIMIT] The official Supreme Court record confirms the 22 March 2024 refusal of interim interference. No later official stay or merits judgment was located by 28 August 2026. The safe answer is therefore: **the Act operates; there is no located stay or merits verdict; do not say it has been upheld or struck down.**
+- [LIMIT] The official Supreme Court record confirms the 22 March 2024 refusal of interim interference; 2026 INSC 564 separately controls the electoral-roll/citizenship boundary. No later official stay or merits judgment was located by 5 September 2026. The safe answer is therefore: **the Act operates; there is no located stay or merits verdict; do not say it has been upheld or struck down.**
 - [LIMIT] No volatile turnout, elector-total or fraud allegation is frozen into this package. Any State-specific electoral-roll revision must be read with the exact ECI order and current court record.
 
 ### Authoritative source map
@@ -352,7 +352,7 @@ Need: criteria + adequate dossiers + reasons + meaningful deliberation
 
 [FACT] The same order expressed concern that full candidate details should be circulated to every Selection Committee member and that procedural sanctity requires fair deliberation.
 
-[CURRENT] No official merits verdict or stay was located as of 28 August 2026.
+[CURRENT] No official merits verdict or stay was located as of 5 September 2026.
 
 ### Visual 13 - Constitutional issue tree
 
@@ -1266,6 +1266,54 @@ VERDICT
 | 2023 Act has been upheld/struck down | no located merits verdict as of control date |
 
 
+### Semantic-completeness ownership and PYQ control
+
+- **Constitution/statute map:** Article 324 vests superintendence, direction and
+  control of electoral rolls and elections in the ECI; Articles 325-329 add the
+  common-roll, adult-suffrage, legislative and election-petition framework. The
+  RPA 1950 chiefly governs rolls and allocation architecture; the RPA 1951
+  governs conduct, corrupt practices, disqualifications and election petitions.
+- **Institution boundary:** the ECI conducts elections to Parliament, State
+  legislatures, President and Vice-President. State Election Commissions conduct
+  Panchayat and municipal elections. A Delimitation Commission, when constituted
+  by statute, is not the ECI acting alone.
+- **Current composition:** the official ECI leadership page rechecked on
+  5 September 2026 lists Chief Election Commissioner Gyanesh Kumar and Election
+  Commissioners Dr Sukhbir Singh Sandhu and Dr Vivek Joshi.
+- **Act 49 of 2023:** eligible appointees must hold or have held Secretary-to-
+  Government-of-India-equivalent rank and possess integrity plus election-
+  management knowledge and experience. The Law Minister heads the three-member
+  Search Committee that prepares five names.
+- **Selection and service:** the President appoints on the recommendation of
+  the Prime Minister, Leader of Opposition (or leader of the largest opposition
+  party) and a PM-nominated Union Cabinet Minister. The Selection Committee may
+  consider a person outside the Search Committee panel. Term is six years or
+  age sixty-five, whichever is earlier; reappointment is barred and aggregate
+  EC-plus-CEC tenure cannot exceed six years. Salary equals that of a Supreme
+  Court judge.
+- **Removal and business:** the CEC is removed like a Supreme Court judge; an
+  Election Commissioner or Regional Commissioner is removed only on the CEC's
+  recommendation. Commission business should be unanimous where possible and
+  otherwise follows the majority under section 18 of the 2023 Act.
+- **Appointment litigation:** Anoop Baranwal (2023) supplied the PM-LoP-CJI
+  arrangement only until Parliament enacted a law. Dr Jaya Thakur (2024 INSC 246)
+  refused interim stay and made its observations tentative. No later official
+  stay or merits judgment was located by 5 September 2026; the Act operates
+  while the section 7 challenge remains pending.
+- **EVM-VVPAT control:** Association for Democratic Reforms v ECI, 2024 INSC
+  341, refused a return to paper ballots and 100 per cent VVPAT counting while
+  directing forty-five-day sealing of Symbol Loading Units and a candidate-
+  requested post-result microcontroller verification route.
+- **Electoral-roll control:** Association for Democratic Reforms v ECI, 2026
+  INSC 564, upheld the Bihar Special Intensive Revision framework, recognised a
+  limited ECI eligibility/citizenship inquiry for electoral purposes, denied it
+  final citizenship-determination power and required reference to the competent
+  Citizenship Act authority where citizenship remained in issue.
+- **PYQ firewall:** direct election-reform, Model Code, corrupt-practice,
+  delimitation and candidature demands remain attached to their verified
+  ledgers. Electoral bonds, anti-defection, local elections and full
+  delimitation doctrine retain their separate owners and are only bridged here.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Original MCQ loop - strict continuous A -> B -> C -> D rotation
@@ -1363,7 +1411,7 @@ D. It prohibited Parliament from legislating on appointments.
 
 ### OM8. 2023 Act status
 
-As on 28 August 2026, the safest statement is:
+As on 5 September 2026, the safest statement is:
 
 A. The Act has been struck down.  
 B. The CJI has been restored by final judgment.  
@@ -2200,7 +2248,7 @@ D. Four
 
 **Named evidence:** [FACT] *Anoop Baranwal* created a CJI-inclusive committee only till parliamentary law. The official 22 March 2024 order refused to rewrite section 7 at the interim stage but stressed full dossiers and fair deliberation.
 
-**Current control:** [CURRENT] The Act operates; no official merits verdict or stay was located as of 28 August 2026.
+**Current control:** [CURRENT] The Act operates; no official merits verdict or stay was located as of 5 September 2026.
 
 **Reform:** publish criteria, ensure adequate dossier time, record comparative reasons, strengthen search independence and consider a committee whose majority is not controlled by the incumbent executive.
 
@@ -2384,7 +2432,7 @@ Legislatures, the offices of President & Vice-President**. An **all-India body**
   **Union Cabinet Minister** → selection committee = **PM (chair) + a Union Minister + LoP**, giving the executive
   a **2:1 majority**. Critics say it dilutes EC independence.
 - 📰 **CEC Gyanesh Kumar** was appointed in **Feb 2025** under the new Act. **Status
-  checked 28 Aug 2026:** the constitutional challenge to section 7 remains pending; the
+  checked 5 Sep 2026:** the constitutional challenge to section 7 remains pending; the
   Supreme Court's 22 Mar 2024 order declined interim interference with the appointments.
   The question is the Act's compatibility with institutional-independence and free-and-fair-
   election principles, not Parliament's competence to enact a law after *Anoop Baranwal*.
@@ -2580,8 +2628,8 @@ legislative vacuum
 - [FACT] Do not say old appointments were simply declared unconstitutional.
 - [FACT] Official 22 March 2024 order dismissed stay applications and refused interim judicial rewriting.
 - [FACT] That order called for full candidate details and fair deliberation.
-- [CURRENT] No located official merits verdict or stay as of 28 August 2026.
-- [LIMIT] No later official stay or merits judgment was located by 28 August 2026; do not infer a result from hearing reports.
+- [CURRENT] No located official merits verdict or stay as of 5 September 2026.
+- [LIMIT] No later official stay or merits judgment was located by 5 September 2026; do not infer a result from hearing reports.
 
 ### Tenure, salary, protection and removal
 

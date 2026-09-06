@@ -203,3 +203,40 @@ required for any mark.*
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** constitutional development from
+  the Regulating Act 1773 to the Indian Independence Act 1947, arranged by
+  control, centralisation, representation, responsibility, federal design and
+  transfer of constituent sovereignty.
+- **Exact chronology:** 1773 GG of Bengal and Calcutta Supreme Court; 1781
+  jurisdictional settlement; 1784 Board of Control; 1813/1833/1853 Charter
+  transitions; 1858 Crown rule; 1861 association; 1892 scrutiny; 1909 separate
+  Muslim electorates; 1919 provincial dyarchy and central bicameralism; 1935
+  provincial autonomy and an uncommenced federation; 1947 dominion independence.
+- **Institutional mechanism:** trace Parliament/Crown, Court of Directors,
+  Board of Control, Secretary of State, Governor-General/Viceroy, councils,
+  ministers, legislatures, Federal Court, public-service commissions and lists.
+- **1935 precision:** proposed federation, provincial autonomy, proposed central
+  dyarchy, Federal/Provincial/Concurrent Lists, Governor-General residuary
+  allocation, safeguards and discretionary powers; do not say the federation
+  or central dyarchy commenced.
+- **Continuity and rupture:** the Constitution retained administrative,
+  judicial, service and federal machinery but rejected imperial sovereignty,
+  official majorities, communal electorates and restricted franchise through
+  popular sovereignty, rights, review and universal adult suffrage.
+- **Boundary:** Topic 02 owns the Constituent Assembly's detailed composition
+  and drafting; Modern History owns nationalist movements and Partition;
+  Salient Features owns comparative constitutional borrowing.
+- **Four-ledger hostile audit:** literal syllabus, indispensable constitutional
+  chronology, standard textbook Act taxonomy and every routed 2018-2026 demand
+  were checked for dates, offices, commencement, exceptions and causal overreach.
+- **Verified PYQ ownership, 2018-2026:** the direct route is 2024 Prelims GS-I
+  Q62 on the 1935 federation and reserved defence/external-affairs control.
+  No other direct route is fabricated; adjacent reform demands retain their
+  catalogue owners and no unavailable answer key is promoted.
+- **Source hierarchy:** official constitutional/statutory text first, then
+  authoritative institutional records, reported judgments, Constituent
+  Assembly materials and standard textbooks; static colonial history is not
+  refreshed through unsourced current-affairs claims.

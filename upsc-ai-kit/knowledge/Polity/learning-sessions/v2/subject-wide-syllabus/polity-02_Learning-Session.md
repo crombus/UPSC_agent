@@ -1065,6 +1065,42 @@ ENACTED TEXT + STRUCTURE + BINDING DOCTRINE
 
 Use a four-step paragraph: textual ambiguity -> debate/purpose -> later doctrinal development -> limit that the enacted Constitution prevails.
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** the 1934 demand, Congress demand,
+  August Offer, Cripps proposal, Cabinet Mission scheme, elections/nominations,
+  first sitting, committees, drafting stages, adoption, signing and commencement.
+- **Composition controls:** original strength 389; post-Partition strength 299;
+  211 attended the first sitting; 284 signed on 24 January 1950. Provincial
+  representatives were indirectly elected by proportional representation with
+  the single transferable vote; princely-state representatives were nominated.
+- **People and committees:** Sachchidananda Sinha, Rajendra Prasad, H.C.
+  Mookherjee, B.N. Rau, B.R. Ambedkar and the seven-member Drafting Committee;
+  keep the Union Powers/Union Constitution/States, Provincial Constitution,
+  Advisory, Rules and Steering committees distinct.
+- **Legal transition:** Article 393 supplies the short title; Article 394
+  brought specified provisions into force on 26 November 1949 and the remainder
+  on 26 January 1950; Article 395 repealed the 1935 and 1947 Acts. Adoption,
+  signing and commencement are separate dates.
+- **Doctrine and interpretive boundary:** Constituent Assembly Debates may aid
+  interpretation but do not override enacted text. The Assembly became fully
+  sovereign after the Indian Independence Act 1947 while continuing its
+  legislative role for the Dominion.
+- **Criticism/reply mechanism:** test indirect election, restricted franchise,
+  Congress predominance, League boycott, lawyer dominance and duration against
+  committee pluralism, expert deliberation, post-1947 sovereignty and the
+  Constitution's immediate universal-franchise commitment.
+- **Four-ledger hostile audit:** literal syllabus, indispensable process,
+  textbook committee/person taxonomy and complete PYQ demands were checked
+  separately for every number, date, role, legal stage and legitimacy claim.
+- **Verified PYQ ownership, 2018-2026:** direct routes are 2021 Prelims Q93
+  (Republic/constitutional status), 2023 Q85 (Constitution Day/adoption),
+  2024 Q61 (temporary President) and provisional-key 2026 Q55
+  (Articles 393-395). Provisional or unavailable keys remain labelled.
+- **Current-status control:** Constitution Day is an executive designation
+  observed since 2015; the 75th-adoption commemoration began 26 November 2024.
+  Neither is a constitutional amendment or a substitute for the 1949/1950 dates.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Practice design and rotation

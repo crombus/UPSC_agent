@@ -274,3 +274,27 @@ representation, and synthesise evidence from Topics 02-05 and 17.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Social justice joins equal citizenship, redistribution, recognition, capabilities, participation and dignity; a welfare state must secure enforceable floors and accountable access rather than merely announce benevolent schemes.
+- **Indispensable distinction and prerequisite taxonomy:** Formal equality is not substantive equality, welfare is not charity, inclusion is not assimilation, reservation is not the whole of social justice, and a Directive Principle is not automatically an individually enforceable entitlement.
+- **Mechanism, implementation and evidence control:** Map rights-holder, duty-bearer, institution, finance, frontline delivery, grievance, social audit and outcome; distinguish constitutional value, statute, judgment, executive policy, scheme design, coverage and lived implementation.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 2026-09-06: the Constitution and Department of Social Justice and Empowerment remain authoritative starting points; a constitutional value, enforceable right, Directive Principle, statute and executive welfare measure retain distinct legal force. Sources: https://legislative.gov.in/constitution-of-india/; https://socialjustice.gov.in/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Social Justice owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/social justice taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Four General Studies Mains demands are routed to this topic in the audited routing ledgers and each is reproduced below as a demand card with its printed year, paper, question number, directive, marks and word limit exactly as the ledger records them: 2019 General Studies Paper II Question 6, 2023 General Studies Paper I Question 16, 2024 General Studies Paper I Question 18 and 2025 General Studies Paper II Question 16. No objective demand is routed to this topic in the audited 2018-2023, 2024-2025 or 2026 Prelims ledgers, so no objective card is manufactured, no official answer key is consulted or inferred for this topic and no option is recorded. The locally held OCR-searchable official General Studies papers were read only to confirm the printed wording of the routed Mains demands; no question was invented from them, no stem was paraphrased into an apparent routing, and no marking scheme or page precision was imported. Every model solution below is original work written to the repository's examiner-grade standard using the claim, named evidence, analysis and qualification pattern, and none of them reproduces or claims an official answer.

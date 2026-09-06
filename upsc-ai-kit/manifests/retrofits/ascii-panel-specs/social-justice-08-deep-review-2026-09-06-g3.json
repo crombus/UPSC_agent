@@ -1,0 +1,239 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "social-justice-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "social_justice_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "social-justice-08",
+      "display_title": "Scheduled Tribes, PVTGs and Tribal Welfare",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-08\\g3\\social-justice-08_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Two axes and a third",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "AXIS 1 DISPLACEMENT -> mining and industry, dams and submergence, protected areas, alienation",
+            "-> LOSS: land, forest access, livelihood, habitation",
+            "AXIS 2 REHABILITATION -> forest-rights recognition, convergence mission, produce, schooling",
+            "-> AXIS 3 CANDIDATE A: livelihood and market integration; title is not income",
+            "-> AXIS 3 CANDIDATE B: cultural autonomy; resettlement is not identity or self-government",
+            "MUST REMEMBER: Scheduled Tribe and PVTG policy must connect land, forest, habitat,..."
+          ],
+          "source_references": [
+            "The two-axis frame and the third-axis debate",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-08\\g3\\social-justice-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Three rights categories",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "INDIVIDUAL FOREST RIGHTS -> hold and live in forest land for habitation or self-cultivation",
+            "LIMITS -> area actually occupied; ceiling of four hectares per nuclear family",
+            "TENURE -> heritable but not transferable or alienable",
+            "COMMUNITY RIGHTS -> minor forest produce, grazing, water bodies, biodiversity, custom",
+            "COMMUNITY FOREST RESOURCE -> Gram Sabha protects, regenerates, conserves and manages"
+          ],
+          "source_references": [
+            "The forest-rights statute and its three categories of right",
+            "Individual forest rights and their exact limits",
+            "Community rights as the livelihood limb of the statute",
+            "Community forest resource rights as the governance limb",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-08\\g3\\social-justice-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Ministry statement card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "RECOGNISES -> dependence of forest dwellers for livelihood, habitation, socio-cultural needs",
+            "INCLUDES -> habitat rights for particularly vulnerable groups; nomadic seasonal access",
+            "ALSO -> community intellectual property and traditional knowledge; developmental land use",
+            "WITH THE 2013 LAW -> protects against eviction without rehabilitation and settlement",
+            "OBJECTIVES -> undo historical injustice; secure tenure and food security; strengthen conservation"
+          ],
+          "source_references": [
+            "The ministry's own account of the statute, verified on the record date",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-08\\g3\\social-justice-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Claim chain",
+          "structural_type": "ladder",
+          "ascii_lines": [
+            "STEP 1 -> Gram Sabha receives claims, verifies them and recommends",
+            "STEP 2 -> Sub-Divisional Level Committee examines and verifies the recommendation",
+            "STEP 3 -> District Level Committee is the final adjudicating authority",
+            "RULES -> specify timelines and the evidence a claimant must produce",
+            "DIAGNOSIS -> name the tier at which recognition actually failed"
+          ],
+          "source_references": [
+            "The claim process from Gram Sabha to district committee",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-08\\g3\\social-justice-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Rejection is not eviction",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "LEGAL POSITION -> rejection does not erase due-process duties",
+            "NO AUTOMATIC POWER -> rejection is not authority to evict a claimant",
+            "2019 EPISODE -> the eviction direction concerning rejected claims was stayed",
+            "PRACTICAL POSITION -> high rejection rates still create real eviction risk",
+            "RULE -> state the legal power and the practical risk as two separate facts"
+          ],
+          "source_references": [
+            "Rejection of a claim is not authority to evict",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-08\\g3\\social-justice-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Protected-area conditions",
+          "structural_type": "ladder",
+          "ascii_lines": [
+            "CONDITION 1 -> recognition of rights in the area must first be completed",
+            "CONDITION 2 -> a scientific case for modification of rights must be made out",
+            "CONDITION 3 -> coexistence must be assessed and found not to be possible",
+            "CONDITION 4 -> the Gram Sabha must give free informed consent",
+            "CONDITION 5 -> a secure resettlement and livelihood package must be in place",
+            "CLOSE DISTINCTION: Scheduled Tribe, PVTG, forest dweller and indigenous people are not..."
+          ],
+          "source_references": [
+            "Rights in a critical wildlife habitat and the cumulative safeguards",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-08\\g3\\social-justice-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Scheduled-Areas welfare powers",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "SCOPE -> Scheduled Areas notified under the Fifth Schedule only, not all rural areas",
+            "CONSULTATION -> mandatory before land acquisition and before resettlement",
+            "OWNERSHIP -> minor forest produce vests with the Gram Sabha",
+            "REGULATION -> control over money-lending affecting Scheduled Tribes",
+            "MARKETS -> management of village markets; institutional design owned by the Polity owner"
+          ],
+          "source_references": [
+            "The self-governance law read for its welfare content",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-08\\g3\\social-justice-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Vulnerable-group criteria",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "CRITERION 1 -> pre-agricultural or low level of technology",
+            "CRITERION 2 -> low level of literacy",
+            "CRITERION 3 -> declining or stagnant population",
+            "CRITERION 4 -> economic backwardness relative to other tribal groups",
+            "COUNT -> seventy-five communities officially identified; a sub-category, not all tribes"
+          ],
+          "source_references": [
+            "Particularly vulnerable tribal groups and their identification criteria",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-08\\g3\\social-justice-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Convergence mission card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "LAUNCH -> 15 November 2023, Ministry of Tribal Affairs",
+            "TARGET -> the seventy-five identified communities across eighteen States and Union Territories",
+            "HOUSING AND INFRASTRUCTURE -> rural housing convergence; road, electricity and water",
+            "HEALTH AND EDUCATION -> mobile medical units, Anganwadi outreach, schools and hostels",
+            "CAUTION -> a sanction or dashboard count is not proof of completed delivery"
+          ],
+          "source_references": [
+            "The convergence mission for the most vulnerable groups",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-08\\g3\\social-justice-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Produce to income",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "COMMUNITY RIGHT -> ownership of minor forest produce under the forest-rights statute",
+            "-> VILLAGE ENTERPRISE UNIT: aggregation, processing and packaging at village level",
+            "-> PRICE SUPPORT: minimum-support-price arrangement for minor forest produce",
+            "-> MARKET LINKAGE through the national tribal-produce marketing agency",
+            "LIMIT -> these village units are not universal, so benefits accrue unevenly"
+          ],
+          "source_references": [
+            "Community rights as the livelihood limb of the statute",
+            "Minor forest produce, the village enterprise unit and price support",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-08\\g3\\social-justice-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Education and institutions",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "RESIDENTIAL SCHOOLS -> Class VI to Class XII under the Ministry of Tribal Affairs",
+            "NORM -> one school per block with at least fifty per cent Scheduled Tribe population",
+            "AND -> at least twenty thousand Scheduled Tribe persons, or as per ministry criteria",
+            "COMMISSION -> National Commission for Scheduled Tribes under Article 338A",
+            "ROUTING -> composition and mandate detail belong to the Polity commissions owner"
+          ],
+          "source_references": [
+            "Residential education and the block-level norm",
+            "The constitutional commission and the ownership of institutional detail",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-08\\g3\\social-justice-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Alienation and authorities",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "PROHIBITION EXISTS -> State tenancy and land-transfer laws in Fifth Schedule areas",
+            "EXAMPLES -> Chotanagpur Tenancy Act; Andhra Pradesh Scheduled Areas Land Transfer Regulation",
+            "FAILURE -> informal and illegal transfers persist; enforcement is the weak link",
+            "AUTHORITIES -> Samatha on transfer and mining; Niyamgiri on Gram Sabha determination",
+            "DIAGNOSIS -> the Xaxa Committee on alienation, displacement and weak self-government",
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Gram Sabha, habitat/community forest..."
+          ],
+          "source_references": [
+            "Land alienation and the State laws that address it",
+            "The case bank and the committee diagnosis",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-08\\g3\\social-justice-08_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

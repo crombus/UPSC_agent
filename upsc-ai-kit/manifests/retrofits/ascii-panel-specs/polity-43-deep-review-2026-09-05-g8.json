@@ -1,0 +1,367 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "polity-41-45-hostile-semantic-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "polity_legal_source_hierarchy": true,
+    "manually_authored_twelve_panels": true
+  },
+  "topics": [
+    {
+      "topic_key": "polity-43",
+      "display_title": "Political Parties",
+      "active_generation": 8,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\polity-43_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Party as democratic intermediary, not constitutional sovereign",
+          "structural_type": "party-role-constitution-map",
+          "ascii_lines": [
+            "ROOT QUESTION",
+            "How can parties aggregate citizens and govern without becoming private constitutional sovereigns?",
+            "",
+            "DEMOCRATIC FUNCTIONS",
+            "representation | aggregation | recruitment | programme choice",
+            "| government | opposition | legislative coordination | accountability.",
+            "",
+            "LEGAL LOCATION",
+            "original Constitution: no comprehensive party code.",
+            "Tenth Schedule: defection only.",
+            "RPA 1951: registration, contribution and disclosure fields.",
+            "Symbols Order 1968: recognition and symbol disputes.",
+            "",
+            "TENSION",
+            "public democratic power <-> Article 19(1)(c) associational autonomy.",
+            "MUST REMEMBER: Separate Section 29A registration, Symbols Order recognition, Tenth Schedule",
+            "  discipline, finance disclosure and candidate regulation."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\g7-source\\polity-43_g7-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\43_Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\polity-43_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Section 29A registration and ECI's bounded cancellation power",
+          "structural_type": "registration-deregistration-rail",
+          "ascii_lines": [
+            "SECTION 29A",
+            "association applies to ECI -> memorandum/rules -> allegiance declaration",
+            "to Constitution, socialism, secularism, democracy, sovereignty, unity and integrity.",
+            "",
+            "REGISTRATION != RECOGNITION",
+            "registration creates statutory party status;",
+            "recognition follows Symbols Order performance criteria.",
+            "",
+            "Indian National Congress v. Institute of Social Welfare (2002)",
+            "ECI has no general review/deregistration power;",
+            "narrow cancellation survives for fraud, foundational disqualification or analogous grounds.",
+            "",
+            "TRAP",
+            "loss of recognition, symbol consequence and deregistration are different legal events."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\g7-source\\polity-43_g7-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\43_Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\polity-43_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Recognition and symbol architecture without freezing party lists",
+          "structural_type": "recognition-criteria-matrix",
+          "ascii_lines": [
+            "SYMBOLS ORDER 1968",
+            "recognised National party | recognised State party | registered-unrecognised party.",
+            "",
+            "NATIONAL: ANY ONE DATED ROUTE",
+            "6% valid votes in four or more States + four Lok Sabha seats",
+            "| 2% Lok Sabha seats from at least three States",
+            "| State-party recognition in four States.",
+            "",
+            "STATE: ANY ONE DATED ROUTE",
+            "vote-plus-seat tests | 3% or three Assembly seats | Lok Sabha ratio route | 8% vote route.",
+            "",
+            "PRIVILEGE",
+            "reserved symbol and specified electoral facilities.",
+            "",
+            "CONTROL",
+            "criteria are Order-based and re-verifiable; do not freeze the current party list."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\g7-source\\polity-43_g7-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\43_Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\polity-43_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Party system evolution, regionalisation and coalition federalism",
+          "structural_type": "party-system-timeline",
+          "ascii_lines": [
+            "EVOLUTION",
+            "1952-1967 Congress system -> 1967 fragmentation",
+            "-> 1977 alternation -> 1989-2014 coalition bargaining",
+            "-> 2014/2019 single-party Union majorities",
+            "-> coalition-supported Union government after the 2024 election",
+            "-> continued strong State-party competition.",
+            "",
+            "PARTY-SYSTEM TYPES",
+            "one-party dominance | two-party tendency | multi-party competition | coalition system.",
+            "",
+            "REGIONAL PARTIES",
+            "identity representation + State autonomy + policy innovation",
+            "<-> personalisation + fragmentation + bargaining cost.",
+            "",
+            "2022 GS-II",
+            "centralisation/autonomy preference follows organisational position and power incentives,",
+            "not a permanent ideological law."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\g7-source\\polity-43_g7-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\43_Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\polity-43_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Internal democracy, membership, candidates and dynastic control",
+          "structural_type": "internal-democracy-lifecycle",
+          "ascii_lines": [
+            "MEMBERSHIP",
+            "published eligibility -> reliable roll -> notice/hearing for discipline -> appeal.",
+            "",
+            "LEADERSHIP",
+            "periodic election -> real competition -> transparent counting -> State-unit voice.",
+            "",
+            "CANDIDATES",
+            "local consultation + published criteria + integrity + representativeness",
+            "<-> dynasty + money + winnability + central nomination.",
+            "",
+            "CURRENT GAP",
+            "ECI receives organisational particulars but no comprehensive statutory",
+            "internal-democracy code exists.",
+            "",
+            "REFORM LIMIT",
+            "minimum process safeguards must not authorise State selection of ideology or leaders."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\g7-source\\polity-43_g7-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\43_Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\polity-43_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Finance and the electoral-bonds constitutional reset",
+          "structural_type": "finance-disclosure-chain",
+          "ascii_lines": [
+            "STATUTORY SPINE",
+            "RPA Section 29B: contributions subject to foreign-source prohibition.",
+            "Section 29C: report contributions exceeding Rs 20,000; tax-relief consequence.",
+            "FCRA 2010: political parties cannot accept foreign contribution.",
+            "",
+            "Association for Democratic Reforms v. Union of India (2024)",
+            "Electoral Bond Scheme and enabling anonymity/unlimited-corporate changes struck down;",
+            "voter Article 19(1)(a) right to information protected; SBI-ECI disclosure ordered.",
+            "",
+            "LIMIT",
+            "The verdict removed one opacity mechanism; it did not enact a complete finance code.",
+            "",
+            "CURRENT LAW: 5 SEPTEMBER 2026",
+            "ADR, 2024 INSC 113, remains the controlling electoral-bonds judgment.",
+            "It invalidated the scheme and enabling amendments; it did not enact",
+            "a complete replacement campaign-finance code.",
+            "CLOSE DISTINCTION: Do not convert the ECI's bounded registration/symbol powers into a general",
+            "  power to control internal democracy or deregister parties on the merits."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\g7-source\\polity-43_g7-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\43_Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\polity-43_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Whips, anti-defection and party-symbol identity",
+          "structural_type": "party-discipline-distinction",
+          "ascii_lines": [
+            "PARTY ORGANISATION",
+            "membership, leadership and candidate selection.",
+            "",
+            "LEGISLATURE PARTY",
+            "members of the House belonging to the political party.",
+            "",
+            "TENTH SCHEDULE",
+            "voluntary giving up | vote/abstention direction | merger | presiding-officer decision.",
+            "",
+            "SYMBOLS ORDER",
+            "ECI decides rival-faction symbol/recognition questions.",
+            "",
+            "Sadiq Ali v. Election Commission of India (1972)",
+            "majority in organisational and legislative wings informs symbol identity.",
+            "",
+            "TRAP",
+            "symbol dispute, internal leadership, whip authorisation and defection are related",
+            "but legally separate proceedings."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\g7-source\\polity-43_g7-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\43_Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\polity-43_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Criminalisation, disclosure and NOTA limits",
+          "structural_type": "criminalisation-choice-map",
+          "ascii_lines": [
+            "Union of India v. Association for Democratic Reforms (2002) + PUCL (2003)",
+            "candidate criminal, financial and educational disclosure protects informed voting.",
+            "",
+            "Public Interest Foundation (2018)",
+            "no judicially invented pre-conviction ban; wider publicity ordered.",
+            "",
+            "Rambabu Singh Thakur v. Sunil Arora (2020)",
+            "parties publish pending cases and qualification-based selection reasons.",
+            "",
+            "Lily Thomas v. Union of India (2013)",
+            "Section 8(4) shield invalid; disqualification follows conviction.",
+            "A stay of conviction differs from suspension of sentence.",
+            "",
+            "LIMIT",
+            "due process and speedy trials must accompany disclosure.",
+            "",
+            "People's Union for Civil Liberties (2013)",
+            "NOTA protects negative secret choice but does not trigger automatic re-poll."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\g7-source\\polity-43_g7-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\43_Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\polity-43_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Donations, disclosure and foreign-source controls",
+          "structural_type": "finance-compliance-matrix",
+          "ascii_lines": [
+            "RECEIPT",
+            "Section 29B permission -> company/tax controls -> FCRA foreign-source prohibition.",
+            "",
+            "DISCLOSURE",
+            "Section 29C: contributions exceeding Rs 20,000",
+            "-> treasurer report to ECI before income-tax return due date",
+            "-> non-compliance affects tax relief.",
+            "",
+            "TRACEABLE ROUTES",
+            "banking channel | electoral trust | audited party account | beneficial ownership.",
+            "",
+            "DO NOT CONFLATE",
+            "party contribution reporting != candidate expenditure",
+            "| tax cash limit != Section 29C threshold",
+            "| lawful privacy != blanket donor anonymity."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\g7-source\\polity-43_g7-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\43_Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\polity-43_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Judgment chain and bounded institutional powers",
+          "structural_type": "party-case-law-timeline",
+          "ascii_lines": [
+            "Sadiq Ali v. Election Commission of India (1972) -> symbol identity uses organisational and",
+            "  legislative support.",
+            "Union of India v. Association for Democratic Reforms (2002)",
+            "-> candidate information and informed voting.",
+            "PUCL (2003) -> disclosure safeguards sustained.",
+            "Institute of Social Welfare (2002) -> no general ECI deregistration power.",
+            "Lily Thomas v. Union of India (2013) -> Section 8(4) protection invalid.",
+            "Public Interest Foundation (2018) -> no court-created pre-conviction ban.",
+            "Rambabu Singh Thakur v. Sunil Arora (2020) -> party publicity and selection reasons.",
+            "Association for Democratic Reforms v. Union of India (2024)",
+            "-> electoral-bond anonymity struck down.",
+            "",
+            "CONTROL",
+            "State the exact proposition; do not turn a direction or narrow exception into a general power.",
+            "People's Union for Civil Liberties (2013) -> NOTA as negative secret choice."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\g7-source\\polity-43_g7-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\43_Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\polity-43_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "PYQ demand decoding and executable answer spine",
+          "structural_type": "pyq-answer-architecture",
+          "ascii_lines": [
+            "2022 GS-II Q13",
+            "test centralisation/autonomy proposition -> incentives and organisation",
+            "-> coalition chronology -> counter-evidence -> institutional federal safeguards -> verdict.",
+            "",
+            "OTHER HIGH-YIELD DEMANDS",
+            "internal democracy | regulation at edges/interior | finance after 2024",
+            "| criminalisation | coalition federalism | fragmented oversight.",
+            "",
+            "ANSWER METHOD",
+            "opening thesis -> correct legal source -> mechanism -> named evidence",
+            "-> limitation/counter -> proportionate reform -> one-line verdict.",
+            "",
+            "QUALITY CONTROL",
+            "exact year/paper/marks/words | no party-list padding | answer-specific compression."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\g7-source\\polity-43_g7-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\43_Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\polity-43_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "UPSC answer synthesis and reform balance",
+          "structural_type": "party-answer-synthesis",
+          "ascii_lines": [
+            "PRELIMS FIREWALL",
+            "29A registration != recognition | reserved != free symbol",
+            "| recognition loss != deregistration | disclosure != disqualification",
+            "| NOTA != re-poll | party != legislature party | bonds verdict != finance code.",
+            "",
+            "MAINS SPINE",
+            "democratic role -> segmented legal basis -> party-system evolution",
+            "-> internal democracy -> finance -> criminalisation -> whip/symbol interfaces",
+            "-> autonomy-transparency balance -> reform.",
+            "",
+            "REFORM PACKAGE",
+            "verified internal elections | candidate criteria | donation transparency",
+            "| independent audit | trial expedition | narrow deregistration amendment",
+            "| proportionate ECI power + judicial review.",
+            "",
+            "VERDICT",
+            "regulate the party's public consequences while preserving its legitimate associational core.",
+            "LEGAL/SOURCE LIMIT: The 2024 electoral-bonds judgment remains controlling; recognition lists,",
+            "  party counts, officeholders and election-specific symbol concessions are not frozen."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-43\\g7-source\\polity-43_g7-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\43_Political-Parties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\polity-43_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

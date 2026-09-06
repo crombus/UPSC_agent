@@ -1,0 +1,252 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "geography_process_spatial_causal_control": true,
+    "map_and_current_status_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-21",
+      "display_title": "Warm Temperate Eastern Margin China Type",
+      "active_generation": 5,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Eastern-margin world map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "CHINA -> central and north China + southern Japan: temperate monsoonal",
+            "SE UNITED STATES -> Gulf type: slight-monsoonal, Gulf of Mexico coast",
+            "NATAL + E AUSTRALIA + SE S. AMERICA -> non-monsoonal southern hemisphere",
+            "WESTERN MARGIN (same latitude) -> Mediterranean: summer drought contrast",
+            "MUST REMEMBER: Warm temperate eastern-margin China type combines humid subtropical latitude,",
+            "  onshore summer flow, convection/cyclones and winter continental influence, producing hot wet",
+            "  summers, cooler winters and mixed crops/forests in East Asia and analogous margins.",
+            "MUST REMEMBER: Warm temperate eastern-margin China type combines humid subtropical latitude,",
+            "  onshore summer flow, convection/cyclones and winter continental influence, producing hot wet",
+            "  summers, cooler winters and mixed crops/forests in East Asia and analogous margins."
+          ],
+          "source_references": [
+            "Eastern-margin location and rainfall contrast",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\21_Warm-Temperate-Eastern-Margin-China-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\21_India-Humid-Subtropical-NE.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g4\\geography-21_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Pressure-reversal mechanism",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SUMMER -> intense heating over Asian interior -> low pressure",
+            "INFLOW -> tropical Pacific air stream drawn onshore -> summer rain",
+            "WINTER -> cooling over continental mass -> high pressure",
+            "OUTFLOW -> cold dry air moves offshore -> drier, cooler winter"
+          ],
+          "source_references": [
+            "Temperate monsoon identity",
+            "Asiatic pressure reversal",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\21_Warm-Temperate-Eastern-Margin-China-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\21_India-Humid-Subtropical-NE.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g4\\geography-21_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Three sub-types comparison",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CHINA TYPE -> temperate monsoonal, harshest winter (large Asian landmass)",
+            "GULF TYPE -> slight-monsoonal, SE USA, moderate winter",
+            "NATAL TYPE -> non-monsoonal, southern hemisphere, mildest winter",
+            "CAUSE -> winter severity depends on size of adjoining continental mass"
+          ],
+          "source_references": [
+            "Three sub-types",
+            "Sub-type winter-severity contrast",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\21_Warm-Temperate-Eastern-Margin-China-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\21_India-Humid-Subtropical-NE.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g4\\geography-21_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "East-west rainfall asymmetry",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "EASTERN MARGIN -> summer rain from onshore flow, no summer drought",
+            "WESTERN MARGIN -> summer drought under subtropical high, winter rain",
+            "MECHANISM -> same latitude, opposite pressure-wind regime",
+            "HIGHEST-VALUE COMPARISON -> in the warm temperate latitude belt"
+          ],
+          "source_references": [
+            "Eastern-margin location and rainfall contrast",
+            "Sub-type winter-severity contrast",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\21_Warm-Temperate-Eastern-Margin-China-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\21_India-Humid-Subtropical-NE.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g4\\geography-21_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Typhoon track map",
+          "structural_type": "hazard-flow",
+          "ascii_lines": [
+            "ORIGIN -> warm western Pacific Ocean, low-latitude genesis",
+            "TRACK -> westward toward South China Sea coasts",
+            "SEASON -> late summer, July to September peak",
+            "IMPACT -> wind, surge and flood on densely settled coastal plains"
+          ],
+          "source_references": [
+            "Typhoon mechanism and seasonality",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\21_Warm-Temperate-Eastern-Margin-China-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\21_India-Humid-Subtropical-NE.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g4\\geography-21_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Agriculture-hazard duality",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "SUMMER INFLOW -> warm moist air gives long wet growing season",
+            "RESULT -> rice, tea, sugar-cane, maize: dense rural population",
+            "SAME MECHANISM -> brings typhoons, floods and surges",
+            "PARADOX -> richness and hazard arise from the same maritime source"
+          ],
+          "source_references": [
+            "Vegetation, crops and agricultural intensity",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\21_Warm-Temperate-Eastern-Margin-China-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\21_India-Humid-Subtropical-NE.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g4\\geography-21_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "India humid eastern-margin map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "BENGAL PLAIN -> West Bengal plain, about 150 cm Bay-of-Bengal monsoon",
+            "BRAHMAPUTRA VALLEY -> Assam, hot sub-humid to perhumid",
+            "NE INDIA (R.L. Singh) -> NE except Tripura, Sikkim, NW W. Bengal",
+            "RAINFALL -> above 200 cm in Humid NE; July 25-33 C, Jan 10-25 C"
+          ],
+          "source_references": [
+            "India China-type analogue",
+            "Humid North-East division",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\21_Warm-Temperate-Eastern-Margin-China-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\21_India-Humid-Subtropical-NE.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g4\\geography-21_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Monsoon-branch discriminator",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "QUESTION: which monsoon branch serves NE India?",
+            "BAY OF BENGAL BRANCH -> correct for Bengal-Brahmaputra region",
+            "ARABIAN SEA BRANCH -> serves western coast, NOT NE India",
+            "EXAM TRAP -> this is a standard close-option Prelims discriminator"
+          ],
+          "source_references": [
+            "Bay of Bengal branch",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\21_Warm-Temperate-Eastern-Margin-China-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\21_India-Humid-Subtropical-NE.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g4\\geography-21_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Flood-fertility paradox",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "HEAVY MONSOON RAIN -> annual flooding of Brahmaputra floodplain",
+            "POSITIVE -> alluvial fertility renews rice-tea economy each year",
+            "NEGATIVE -> bank erosion, displacement, crop loss, infrastructure damage",
+            "CONCLUSION -> flood management must preserve fertility, not exclude water"
+          ],
+          "source_references": [
+            "Flood-fertility paradox and tea",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\21_Warm-Temperate-Eastern-Margin-China-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\21_India-Humid-Subtropical-NE.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g4\\geography-21_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Tea-industry vulnerability",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "ASSAM -> central to India's tea output, world's 2nd-largest producer",
+            "RISK -> erratic rainfall, drought, flood: second-flush crop losses",
+            "CAUSE -> humid eastern-margin monsoon regime variability",
+            "SIGNIFICANCE -> climate change links to NE livelihoods and export crop",
+            "CLOSE DISTINCTION: China type is an eastern-margin climate label, not China's entire climate;",
+            "  it differs from tropical monsoon by winter temperature and from Laurentian by warmer",
+            "  conditions and different ocean-current/air-mass relations.",
+            "CLOSE DISTINCTION: China type is an eastern-margin climate label, not China's entire climate;",
+            "  it differs from tropical monsoon by winter temperature and from Laurentian by warmer",
+            "  conditions and different ocean-current/air-mass relations."
+          ],
+          "source_references": [
+            "Flood-fertility paradox and tea",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\21_Warm-Temperate-Eastern-Margin-China-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\21_India-Humid-Subtropical-NE.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g4\\geography-21_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Trewartha classification note",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "TREWARTHA -> humid mesothermal and tropical-humid types in India",
+            "H CLASS -> undifferentiated highland for elevated regions",
+            "NE BELT -> spans several codes depending on elevation and scheme",
+            "CAUTION -> do not force entire region into one Cwg or Amw code",
+            "EVIDENCE LIMIT: East-margin similarity does not erase monsoon, current and topographic",
+            "  differences; Northeast India is an anchored comparison whose altitude and exceptional",
+            "  rainfall prevent one-code generalisation.",
+            "EVIDENCE LIMIT: East-margin similarity does not erase monsoon, current and topographic",
+            "  differences; Northeast India is an anchored comparison whose altitude and exceptional",
+            "  rainfall prevent one-code generalisation."
+          ],
+          "source_references": [
+            "Trewartha and classification",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\21_Warm-Temperate-Eastern-Margin-China-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\21_India-Humid-Subtropical-NE.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g4\\geography-21_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "China-type answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> warm temperate eastern margin with summer-rain regime",
+            "COMPARE -> east vs west margin at same latitude (highest-value contrast)",
+            "EXPLAIN -> pressure reversal, sub-types, agriculture-hazard duality",
+            "APPLY -> India's Bengal-NE as the China-type analogue with flood-fertility paradox"
+          ],
+          "source_references": [
+            "PYQ boundary and answer spine",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\21_Warm-Temperate-Eastern-Margin-China-Type.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\21_India-Humid-Subtropical-NE.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g4\\geography-21_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

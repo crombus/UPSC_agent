@@ -157,3 +157,41 @@ views are **not binding**).
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Article 1 name/territory; Article 2
+  admission or establishment; Article 3 formation, area, boundary and name
+  changes; Article 4 First/Fourth Schedules and supplemental consequences.
+- **Procedure:** an Article 3 bill requires the President's recommendation and,
+  when a State is affected, referral for views within the specified period;
+  those views are not binding. Article 4 laws use ordinary/simple-majority
+  procedure and are not amendments for Article 368 purposes.
+- **Doctrinal distinctions:** Union of India (States) is narrower than territory
+  of India (States, Union territories and acquired territories); Art 2 and Art 3
+  are distinct; internal reorganisation differs from foreign cession.
+- **Cases and amendments:** Berubari Union (1960) requires Article 368 for
+  cession; the Ninth Amendment 1960 supplied authority for contemplated
+  transfer; Maganbhai Ishwarbhai Patel (1969) distinguishes settlement of a
+  boundary dispute; the 100th Amendment 2015 implemented the India-Bangladesh
+  land-boundary/enclave exchange.
+- **Chronology:** integration after 1947; Dhar (1948), JVP (1948-49), Fazl Ali
+  Commission (1953-55); Andhra 1953; States Reorganisation Act and Seventh
+  Amendment 1956; Maharashtra/Gujarat 1960; 2000 States; Telangana 2014; J&K
+  Reorganisation Act 2019 and the 2020 UT merger.
+- **Institutional/current mechanism:** the First Schedule records current
+  States/UTs; India has 28 States and 8 Union territories as rechecked
+  5 September 2026. J&K remains a Union territory unless an authoritative law
+  or notification effects statehood restoration.
+- **Cross-owner boundary:** Union Territories owns administration under
+  Articles 239-241/239AA; Special Provisions owns Articles 370/371 detail;
+  Federal System owns the full Centre-State balance.
+- **Four-ledger hostile audit:** constitutional text, prerequisites, textbook
+  taxonomy and every 2018-2026 route were checked for procedure, consent,
+  schedules, cession, boundary settlement, chronology and status.
+- **Verified PYQ ownership, 2018-2026:** the direct route is 2025 Prelims GS-I
+  Q52 on Nagaland (1963), Tripura (1972) and Arunachal Pradesh (1987).
+  No other direct question or answer key is invented.
+- **Source hierarchy:** Legislative Department Constitution → India Code
+  reorganisation enactments → Supreme Court holdings → MHA current list →
+  standard textbook; political statements never displace operative law.

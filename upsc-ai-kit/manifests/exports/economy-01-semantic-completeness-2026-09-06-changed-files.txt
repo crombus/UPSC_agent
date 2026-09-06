@@ -1,0 +1,80 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+KNOWLEDGE-SEMANTIC-COMPLETENESS-PLAN.md
+KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md
+notes\Economy\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Economy\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Economy\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-01-g5-to-g6.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-01\economy-01-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-01\economy-01-g5-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-01\economy-01-g5-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-01\economy-01-g6-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-01\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-01\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-01\g4-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-01\g5-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-01\g5-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-01\g5-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-01\g6-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-01\g6-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-01\REVIEW-REPORT.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\Economy\INDEX.md
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\01-National-Income-GDP-GVA-GNP-NDP-and-Measurement\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\01-National-Income-GDP-GVA-GNP-NDP-and-Measurement\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\01-National-Income-GDP-GVA-GNP-NDP-and-Measurement\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\01-National-Income-GDP-GVA-GNP-NDP-and-Measurement\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\01-National-Income-GDP-GVA-GNP-NDP-and-Measurement\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\01-National-Income-GDP-GVA-GNP-NDP-and-Measurement\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\01-National-Income-GDP-GVA-GNP-NDP-and-Measurement\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\01-National-Income-GDP-GVA-GNP-NDP-and-Measurement\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-01\g6\economy-01_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-01\g6\economy-01_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-01\g6\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-01\g6\validation\workbook-visual-audit-map.json
+tools\regenerate_economy_deep_review.py
+tools\run_economy_semantic_topic.py
+tools\test_regenerate_economy_deep_review.py
+tools\test_run_economy_semantic_topic.py
+upsc-ai-kit\knowledge\Economy\basic\01_National-Income-GDP-GVA-and-Measurement.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-01\g6\assets\economy-01_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-01\g6\economy-01_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-01\g6\economy-01_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\manifests\exports\economy-01-learner-v2-g6-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-01-learner-v2-g6-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-01-learner-v2-g6-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-01-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-01-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-31a9b47de7cd-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-31a9b47de7cd.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-01-deep-review-2026-09-06-g6.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-01-g6.json
+upsc-ai-kit\manifests\reviews\economy\01-national-income-gdp-gva-gnp-ndp-and-measurement-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\knowledge-semantic-completeness-status.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-01-g6.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

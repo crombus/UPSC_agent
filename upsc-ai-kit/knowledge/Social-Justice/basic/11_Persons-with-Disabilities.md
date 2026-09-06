@@ -267,3 +267,27 @@ social and rights models, universal design, intersectionality and enforceability
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Disability justice follows equality, dignity, autonomy, accessibility, reasonable accommodation, supported decision-making and community participation through a social and rights-based model rather than a charity-only approach.
+- **Indispensable distinction and prerequisite taxonomy:** Impairment is not disability, accessibility is not reasonable accommodation, benchmark disability is not every disability, reservation eligibility is not the entire RPwD Act, and a certificate or portal registration is not substantive inclusion.
+- **Mechanism, implementation and evidence control:** Use the RPwD Act, UNCRPD status, commissioners, accessibility standards and UDID with precise scope; trace assessment, certification, accommodation, education/work access, transport/digital design, grievance and remedy while preserving agency and avoiding ableist assumptions.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 2026-09-06: DEPwD and UDID remain official sources; disability, benchmark disability, certification, registration, accessibility, reasonable accommodation and realised inclusion are separate claims. Sources: https://depwd.gov.in/acts/; https://depwd.gov.in/important-documents/; https://www.swavlambancard.gov.in/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Social Justice owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/social justice taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** This owner's previous-year record is a verified one rather than a zero, and it is stated precisely. The audited 2018-2023 Mains routing ledger routes exactly one General Studies Mains demand here, the 2022 General Studies Paper II question numbered 7 on the Rights of Persons with Disabilities Act, 2016 and sensitisation, with the directive Comment, ten marks and one hundred and fifty words, and with the ledger note that this core route supersedes the older Advanced ownership; that demand is therefore solved in this package with a model answer written to the repository's examiner-grade standard using the claim, named evidence, analysis and qualification pattern. The audited 2026 Prelims routing ledger routes exactly one objective demand here, question 56 of the 2026 Prelims General Studies Paper I on disability rights law, the accessibility mission and the disability development corporation, and that ledger records expressly that the locally held 2026 Set-A key is provisional, so no option, key or inferred answer letter is recorded for it anywhere in this package and the demand is instead covered as taught content by naming the statute, the accessibility mission and its implementation vehicle, and the development-finance corporation as a distinct credit and livelihood route. The audited 2024-2025 Mains and Prelims routing ledgers route no further demand to this owner, and both the Basic and the Advanced owner state independently that no confirmed direct 2024 or 2025 General Studies Paper II Mains question on persons with disabilities exists in the audited local texts, which is consistent with that record. Alongside the solved demand card, the package adds six original Mains questions with model solutions and eighty original objective questions on a strict A-B-C-D rotation. Each model solution opens with its analytical claim so that the evidence which follows does argumentative rather than decorative work. The locally held OCR-searchable official General Studies papers were read only to confirm the printed wording of the routed Mains demand; no question was invented from them, no marking scheme or page precision was imported and no official answer key is claimed for any question anywhere in this package.

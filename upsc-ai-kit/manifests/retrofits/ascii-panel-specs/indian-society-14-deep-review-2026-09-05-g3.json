@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "indian-society-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_society_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-society-14",
+      "display_title": "Regionalism",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g3\\indian-society-14_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Four concepts card",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "DIVERSITY -> distinct linguistic, cultural, ecological and historical identities",
+            "REGIONALISM -> political assertion of a region's identity and interest",
+            "SUB-REGIONALISM -> assertion within an already-recognised state or region",
+            "DISPARITY -> unequal income, infrastructure, human development, fiscal capacity",
+            "MUST REMEMBER: Regionalism is political, economic or cultural mobilisation around territory",
+            "  and perceived interests; it can deepen federal representation and cultural recognition or",
+            "  become exclusionary when joined to unequal development, resource competition and",
+            "  insider-outsider politics."
+          ],
+          "source_references": [
+            "The four concepts examiners blur",
+            "Diversity as the base layer",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g3\\indian-society-14_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Two independent axes",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "DISTINCT AND PROSPEROUS -> cultural difference without a development gap",
+            "DISTINCT AND LAGGING -> cultural difference with a development gap",
+            "SIMILAR AND LAGGING -> a development gap inside a culturally similar space",
+            "CONCLUSION -> the axes are independent, so the definitions must stay separate"
+          ],
+          "source_references": [
+            "Disparity and the independence of the two axes",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g3\\indian-society-14_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Demand decomposition",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PART ONE -> define regional disparity as an outcome-based development gap",
+            "PART TWO -> distinguish it from diversity with a paired example",
+            "PART THREE -> assess seriousness with named indicator families",
+            "FAILURE MODE -> one blended paragraph that answers none of the three"
+          ],
+          "source_references": [
+            "What the 2024 demand actually asks",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g3\\indian-society-14_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Driver and instrument",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "IDENTITY-DRIVEN -> seeks linguistic status, cultural autonomy, representation",
+            "RESPONSE -> recognition, not a development package",
+            "DISPARITY-DRIVEN -> seeks infrastructure, investment, fiscal transfer",
+            "RESPONSE -> redistribution, not a symbolic gesture"
+          ],
+          "source_references": [
+            "Identity-driven and disparity-driven assertion",
+            "Matching the instrument to the diagnosis",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g3\\indian-society-14_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Compounded case",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "INPUT -> distinct sub-regional identity within an existing state",
+            "ADDED -> perceived neglect in infrastructure and investment",
+            "ADDED -> under-representation in state-level political power",
+            "RULE -> compounding is possible, escalation is never automatic"
+          ],
+          "source_references": [
+            "Compounded sub-regional grievance",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g3\\indian-society-14_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Movement forms",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "STATEHOOD -> a new unit within the Union",
+            "AUTONOMY -> greater self-governance inside an existing unit",
+            "SECESSION -> separation from the Union, the least common Indian form",
+            "PROHIBITION -> the three are not a compulsory escalation ladder",
+            "CLOSE DISTINCTION: Region is not state, regionalism is not automatically separatism, federal",
+            "  autonomy is not sovereignty, sub-state demand is not secession, and linguistic",
+            "  reorganisation, inter-state disputes, special provisions and local nativism have distinct",
+            "  constitutional routes."
+          ],
+          "source_references": [
+            "Movement forms and the accommodation record",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g3\\indian-society-14_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Accommodation precedent",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "STATUTE -> States Reorganisation Act, 1956",
+            "BASIS -> restructuring substantially along linguistic lines",
+            "MEANING -> regionalism accommodated through recognition, not suppressed",
+            "LIMIT -> a precedent, not proof that reorganisation always succeeds"
+          ],
+          "source_references": [
+            "Linguistic reorganisation as accommodation",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g3\\indian-society-14_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Index card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "SOURCE -> NITI Aayog SDG India Index, composite state and union territory ranking",
+            "EDITION -> 2023-24 is the most recently published as of July 2026",
+            "USE -> benchmarking of state-wise development outcomes",
+            "LIMIT -> aggregation hides a lagging sub-region inside a well-ranked state"
+          ],
+          "source_references": [
+            "The index anchor and what it hides",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g3\\indian-society-14_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Seriousness assessment",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "INCOME -> per-capita and household outcome gaps between regions",
+            "INFRASTRUCTURE -> connectivity, power, water and service availability",
+            "HUMAN DEVELOPMENT -> education and health attainment",
+            "FISCAL CAPACITY -> the region's own capacity to fund its correction"
+          ],
+          "source_references": [
+            "Indicator families for a seriousness verdict",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g3\\indian-society-14_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Cost of a new unit",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "GAIN -> a recognition grievance is answered by a new political boundary",
+            "RISK -> the new unit contains its own internal lagging sub-region",
+            "IMPLICATION -> reorganisation relocates rather than dissolves disparity",
+            "ANSWER USE -> pair the accommodation record with this internal cost"
+          ],
+          "source_references": [
+            "The cost of creating a new unit",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g3\\indian-society-14_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Cross-owner boundary",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "SOCIETY OWNS -> grievance, assertion, movement form and accommodation",
+            "GEOGRAPHY OWNS -> five-year-plan and regional-development policy mechanics",
+            "POLITY OWNS -> Centre-State fiscal transfer and federal doctrine",
+            "RULE -> cross-link the instrument, do not re-derive it"
+          ],
+          "source_references": [
+            "Cross-owner boundaries in a regionalism answer",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g3\\indian-society-14_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Regionalism answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> define diversity and disparity separately in the first two lines",
+            "BODY -> paired example, then indicator families for the seriousness verdict",
+            "TEST -> identity driver against development driver, then compounding",
+            "CLOSE -> diagnosis-matched response with the index limitation stated",
+            "EVIDENCE LIMIT: Use Andhra, Maharashtra-Gujarat, Telangana, Gorkhaland, Bodoland, Northeast",
+            "  autonomy and river/resource disputes with historical specificity; distinguish grievance,",
+            "  leadership, mobilisation and outcome, and do not infer separatism from every regional party."
+          ],
+          "source_references": [
+            "Question ownership and the answer spine",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\14_Regionalism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-14\\g3\\indian-society-14_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

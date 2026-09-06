@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T05:19:00+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\economy-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "6cf8c63092c125b44525cdfaac6e69c1a8940e3e025bcface837b063a9cb4f47",
+    "sha256_after": "6cf8c63092c125b44525cdfaac6e69c1a8940e3e025bcface837b063a9cb4f47",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Economy": 1
+  },
+  "sections": {
+    "Economy — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11161,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1908,
+    "json_count": 5028,
+    "total_bytes": 4271705991,
+    "by_extension": {
+      ".json": 5028,
+      ".md": 1908,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "economy-25",
+      "topic_title": "Climate Economics, Green Finance and Circular Economy",
+      "subject": "Economy",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 25,
+      "source_record_id": "economy-25:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\25-Climate-Economics-Green-Finance-and-Circular-Economy",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g3\\economy-25_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\25-Climate-Economics-Green-Finance-and-Circular-Economy\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "a57262e859dfc3fa5445953e9e4148944528b0ab4aeb39de6a7f9dee870d47f8",
+          "output_sha256": "a57262e859dfc3fa5445953e9e4148944528b0ab4aeb39de6a7f9dee870d47f8",
+          "source_output_equal": true,
+          "bytes": 646263
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g3\\economy-25_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\25-Climate-Economics-Green-Finance-and-Circular-Economy\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "a92969ac9da11ddb3ab4553a0445689aeb97cfd1602e1251f5a013efd234f08c",
+          "output_sha256": "a92969ac9da11ddb3ab4553a0445689aeb97cfd1602e1251f5a013efd234f08c",
+          "source_output_equal": true,
+          "bytes": 487673
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-25\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\25-Climate-Economics-Green-Finance-and-Circular-Economy\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "9d82a69d37544eada2db81e5ceb5e7bf4b719ade6cd725c2340d893b1c3a6c53",
+          "output_sha256": "9d82a69d37544eada2db81e5ceb5e7bf4b719ade6cd725c2340d893b1c3a6c53",
+          "source_output_equal": true,
+          "bytes": 1691957
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-25\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\25-Climate-Economics-Green-Finance-and-Circular-Economy\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "699469cc968a49b3a7842246de1e44d7b59b544a4cfabe6c72f45e5adb394171",
+          "output_sha256": "699469cc968a49b3a7842246de1e44d7b59b544a4cfabe6c72f45e5adb394171",
+          "source_output_equal": true,
+          "bytes": 2056337
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-25\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\25-Climate-Economics-Green-Finance-and-Circular-Economy\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "1ffe289110c33ee928c3fe3c033839b4fb28a7eee85a1d77c275f94cfe12c741",
+          "output_sha256": "1ffe289110c33ee928c3fe3c033839b4fb28a7eee85a1d77c275f94cfe12c741",
+          "source_output_equal": true,
+          "bytes": 1498920
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-25\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\25-Climate-Economics-Green-Finance-and-Circular-Economy\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "d2de1faefdb2b6b482ca8b1c71037abc211c9284f11dd29f1cdfd566a4a6862b",
+          "output_sha256": "d2de1faefdb2b6b482ca8b1c71037abc211c9284f11dd29f1cdfd566a4a6862b",
+          "source_output_equal": true,
+          "bytes": 2374
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Economy\\ECO\\flowcharts\\iac-25\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Economy\\Subject-wide Syllabus\\25-Climate-Economics-Green-Finance-and-Circular-Economy\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "0897493b4d2e4a496854db185b9bef5f17e63ae2854a2a9104ec3791100d45b9",
+          "output_sha256": "0897493b4d2e4a496854db185b9bef5f17e63ae2854a2a9104ec3791100d45b9",
+          "source_output_equal": true,
+          "source_text_sha256": "d2de1faefdb2b6b482ca8b1c71037abc211c9284f11dd29f1cdfd566a4a6862b",
+          "normalized_text_equal": true,
+          "bytes": 55328
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 6,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 52,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 6,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 49,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 53,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 49,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 5,
+            "maximum_line_characters": 52,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 88,
+        "solved_practice_workbook": 50,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 88,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 50,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10530
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

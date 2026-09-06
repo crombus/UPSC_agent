@@ -1,0 +1,88 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+KNOWLEDGE-SEMANTIC-COMPLETENESS-PLAN.md
+KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\international-relations-01-g5-to-g6.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-01\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-01\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-01\g3-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-01\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-01\g4-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-01\g4-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-01\g4-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-01\g5-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-01\g5-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-01\g5-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-01\g6-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-01\g6-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-01\international-relations-01-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-01\international-relations-01-g3-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-01\international-relations-01-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-01\international-relations-01-g4-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-01\international-relations-01-g4-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-01\international-relations-01-g5-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-01\international-relations-01-g5-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-01\international-relations-01-g6-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\international-relations-01\REVIEW-REPORT.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\International Relations\INDEX.md
+notes\Final-Learning-Packages\International Relations\Subject-wide Syllabus\01-Foreign-Policy-cb463ecd-Autonomy\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\International Relations\Subject-wide Syllabus\01-Foreign-Policy-cb463ecd-Autonomy\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\International Relations\Subject-wide Syllabus\01-Foreign-Policy-cb463ecd-Autonomy\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\International Relations\Subject-wide Syllabus\01-Foreign-Policy-cb463ecd-Autonomy\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\International Relations\Subject-wide Syllabus\01-Foreign-Policy-cb463ecd-Autonomy\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\International Relations\Subject-wide Syllabus\01-Foreign-Policy-cb463ecd-Autonomy\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\International Relations\Subject-wide Syllabus\01-Foreign-Policy-cb463ecd-Autonomy\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\International Relations\Subject-wide Syllabus\01-Foreign-Policy-cb463ecd-Autonomy\README.txt
+notes\Final-Learning-Packages\International Relations\Subject-wide Syllabus\INDEX.md
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\International-Relations\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\International-Relations\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\International-Relations\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+notes\Learner-v2-Refreshed\International-Relations\IR\flowcharts\iac-01\carvaka-g6\ascii-master.pdf
+notes\Learner-v2-Refreshed\International-Relations\IR\flowcharts\iac-01\carvaka-g6\ascii-master.txt
+notes\Learner-v2-Refreshed\International-Relations\IR\flowcharts\iac-01\carvaka-g6\build-audit.json
+notes\Learner-v2-Refreshed\International-Relations\IR\flowcharts\iac-01\carvaka-g6\editable\README.txt
+notes\Learner-v2-Refreshed\International-Relations\IR\flowcharts\iac-01\carvaka-g6\editable\topic-spec.json
+notes\Learner-v2-Refreshed\International-Relations\IR\flowcharts\iac-01\carvaka-g6\master.png
+notes\Learner-v2-Refreshed\International-Relations\IR\flowcharts\iac-01\carvaka-g6\poster.pdf
+notes\Learner-v2-Refreshed\International-Relations\IR\flowcharts\iac-01\carvaka-g6\preservation-hashes.json
+notes\Learner-v2-Refreshed\International-Relations\IR\flowcharts\iac-01\carvaka-g6\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\International-Relations\IR\flowcharts\iac-01\carvaka-g6\previews\master-overview.png
+notes\Learner-v2-Refreshed\International-Relations\IR\flowcharts\iac-01\carvaka-g6\previews\page-001.png
+notes\Learner-v2-Refreshed\International-Relations\IR\flowcharts\iac-01\carvaka-g6\previews\page-002.png
+notes\Learner-v2-Refreshed\International-Relations\IR\flowcharts\iac-01\carvaka-g6\previews\page-003.png
+notes\Learner-v2-Refreshed\International-Relations\IR\flowcharts\iac-01\carvaka-g6\previews\page-004.png
+notes\Learner-v2-Refreshed\International-Relations\IR\flowcharts\iac-01\carvaka-g6\README.txt
+notes\Learner-v2-Refreshed\International-Relations\IR\flowcharts\iac-01\carvaka-g6\tiled.pdf
+notes\Learner-v2-Refreshed\International-Relations\IR\flowcharts\iac-01\carvaka-g6\validation-report.txt
+notes\Learner-v2-Refreshed\International-Relations\IR\learning-sessions\iac-01\g6\international-relations-01_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\International-Relations\IR\learning-sessions\iac-01\g6\international-relations-01_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\International-Relations\IR\learning-sessions\iac-01\g6\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\International-Relations\IR\learning-sessions\iac-01\g6\validation\workbook-visual-audit-map.json
+tools\regenerate_international_relations_deep_review.py
+tools\run_international_relations_semantic_topic.py
+tools\test_regenerate_international_relations_deep_review.py
+tools\test_run_international_relations_semantic_topic.py
+upsc-ai-kit\knowledge\International-Relations\basic\01_Foreign-Policy-Foundations-and-Strategic-Autonomy.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\International-Relations\IR\learning-sessions\iac-01\g6\assets\international-relations-01_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\International-Relations\IR\learning-sessions\iac-01\g6\international-relations-01_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\International-Relations\IR\learning-sessions\iac-01\g6\international-relations-01_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-18f8f1ef5f32-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-18f8f1ef5f32.json
+upsc-ai-kit\manifests\exports\international-relations-01-learner-v2-g6-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\international-relations-01-learner-v2-g6-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\international-relations-01-learner-v2-g6-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\international-relations-01-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\international-relations-01-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\international-relations-01-deep-review-2026-09-06-g6.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\International-Relations\deep-review\international-relations-01-g6.json
+upsc-ai-kit\manifests\reviews\international-relations\01-foreign-policy-foundations-and-strategic-autonomy-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\knowledge-semantic-completeness-status.json
+upsc-ai-kit\manifests\v2\international-relations--subject-wide-syllabus-content-specs\international-relations-01-g6.json
+upsc-ai-kit\manifests\v2\international-relations--subject-wide-syllabus.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

@@ -1,0 +1,248 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "geography_process_spatial_causal_control": true,
+    "map_and_current_status_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-07",
+      "display_title": "Arid Desert Landforms / Thar Desertification",
+      "active_generation": 5,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g5\\geography-07_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Concept firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DESERT -> climatic region",
+            "ARIDITY -> long-term moisture deficit",
+            "DROUGHT -> temporary anomaly",
+            "DESERTIFICATION -> degradation within drylands",
+            "MUST REMEMBER: Arid geomorphology links moisture deficit, sparse cover, mechanical weathering,",
+            "  episodic runoff, deflation, abrasion and dune migration; pediment–bajada–playa and Thar",
+            "  land-use pressures frame desertification as land degradation.",
+            "MUST REMEMBER: Arid geomorphology links moisture deficit, sparse cover, mechanical weathering,",
+            "  episodic runoff, deflation, abrasion and dune migration; pediment–bajada–playa and Thar",
+            "  land-use pressures frame desertification as land degradation."
+          ],
+          "source_references": [
+            "Desert, aridity, drought and degradation",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\07_Arid-Desert-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\07_Thar-Desertification.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g4\\geography-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g5\\geography-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Desert-forming controls",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "SUBTROPICAL HIGH -> descending dry air",
+            "CONTINENTALITY / RAIN SHADOW -> moisture loss",
+            "COLD CURRENT -> stable dry coastal air",
+            "POLAR COLD -> low absolute moisture"
+          ],
+          "source_references": [
+            "Why deserts form",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\07_Arid-Desert-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\07_Thar-Desertification.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g4\\geography-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g5\\geography-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Aeolian transport",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CREEP -> coarse grains roll or slide",
+            "SALTATION -> sand grains bounce",
+            "SUSPENSION -> fine dust travels far",
+            "DEPOSITION -> velocity or carrying power falls"
+          ],
+          "source_references": [
+            "Creep, saltation and suspension",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\07_Arid-Desert-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\07_Thar-Desertification.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g4\\geography-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g5\\geography-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Dune discriminator",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BARCHAN -> limited sand, horns downwind",
+            "TRANSVERSE -> abundant sand, one dominant wind",
+            "LONGITUDINAL -> aligned with resultant winds",
+            "PARABOLIC / STAR -> vegetation anchor / multidirectional winds"
+          ],
+          "source_references": [
+            "Dune types and wind regimes",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\07_Arid-Desert-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\07_Thar-Desertification.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g4\\geography-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g5\\geography-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Water in the desert",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "STORM RUNOFF -> wadi discharge",
+            "MOUNTAIN FRONT -> alluvial fan",
+            "FANS COALESCE -> bajada",
+            "CLOSED BASIN -> playa and salt concentration"
+          ],
+          "source_references": [
+            "Wadis, fans, pediments and playas",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\07_Arid-Desert-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\07_Thar-Desertification.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g4\\geography-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g5\\geography-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Thar spatial anatomy",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "WEST -> sandy Marusthali core",
+            "EAST -> Bagar and Aravalli transition",
+            "SOUTHWEST -> Luni and saline-basin route",
+            "NORTH -> canal-alluvial transformation"
+          ],
+          "source_references": [
+            "Thar regional mosaic",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\07_Arid-Desert-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\07_Thar-Desertification.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g4\\geography-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g5\\geography-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Susceptibility-to-degradation",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "VARIABLE RAIN + WIND -> natural stress",
+            "COVER LOSS + SOIL DISTURBANCE -> exposure",
+            "WATER MISMANAGEMENT -> salinity or depletion",
+            "THRESHOLD CROSSED -> recovery capacity declines"
+          ],
+          "source_references": [
+            "Human acceleration and thresholds",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\07_Arid-Desert-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\07_Thar-Desertification.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g4\\geography-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g5\\geography-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Aravalli boundary",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "RELIEF -> modifies local wind and runoff",
+            "DRAINAGE -> divides and routes water",
+            "HABITAT -> supports connectivity",
+            "LIMIT -> not an impermeable desert wall"
+          ],
+          "source_references": [
+            "Aravalli ecological functions",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\07_Arid-Desert-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\07_Thar-Desertification.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g4\\geography-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g5\\geography-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Canal balance",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "BENEFIT -> water supply and production",
+            "SEEPAGE -> water-table rise",
+            "POOR DRAINAGE -> waterlogging and salinity",
+            "MANAGEMENT -> crop-water fit + drainage + monitoring"
+          ],
+          "source_references": [
+            "Indira Gandhi Canal trade-offs",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\07_Arid-Desert-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\07_Thar-Desertification.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g4\\geography-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g5\\geography-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "LDN response hierarchy",
+          "structural_type": "ladder",
+          "ascii_lines": [
+            "AVOID -> protect functioning land",
+            "REDUCE -> improve grazing, tillage and water use",
+            "REVERSE -> restore soil, grass and drainage",
+            "BALANCE -> monitor gains and losses transparently",
+            "CLOSE DISTINCTION: Desert is a climatic moisture condition, desertification is degradation in",
+            "  drylands, and drought is a temporary anomaly; barchan, transverse, longitudinal and",
+            "  parabolic dunes encode different wind/sediment/vegetation controls.",
+            "CLOSE DISTINCTION: Desert is a climatic moisture condition, desertification is degradation in",
+            "  drylands, and drought is a temporary anomaly; barchan, transverse, longitudinal and",
+            "  parabolic dunes encode different wind/sediment/vegetation controls."
+          ],
+          "source_references": [
+            "PYQ boundary and LDN",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\07_Arid-Desert-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\07_Thar-Desertification.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g4\\geography-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g5\\geography-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Restoration matrix",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "WIND EROSION -> cover, shelter and dune management",
+            "RUNOFF EROSION -> contour and watershed treatment",
+            "SALINITY -> drainage and water balance",
+            "RANGELAND DECLINE -> native grass + institutions",
+            "EVIDENCE LIMIT: Wind is not the sole desert agent and every dune is not freely migrating;",
+            "  grazing, irrigation salinity, groundwater, shelterbelts and rainfall variability have",
+            "  locally different effects, so causal conclusions must be spatially qualified.",
+            "EVIDENCE LIMIT: Wind is not the sole desert agent and every dune is not freely migrating;",
+            "  grazing, irrigation salinity, groundwater, shelterbelts and rainfall variability have",
+            "  locally different effects, so causal conclusions must be spatially qualified."
+          ],
+          "source_references": [
+            "Restoration and monitoring",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\07_Arid-Desert-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\07_Thar-Desertification.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g4\\geography-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g5\\geography-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Desertification answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> retain UNCCD dryland boundary",
+            "MAP -> locate process and pressure",
+            "DIAGNOSE -> susceptibility plus accelerator",
+            "RESPOND -> process-matched, monitored and qualified"
+          ],
+          "source_references": [
+            "PYQ ownership and current boundary",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\07_Arid-Desert-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\07_Thar-Desertification.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g4\\geography-07_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-07\\g5\\geography-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

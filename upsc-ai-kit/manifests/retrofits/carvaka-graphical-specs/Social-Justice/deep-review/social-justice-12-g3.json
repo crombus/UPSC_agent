@@ -1,0 +1,1175 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "social-justice-12",
+  "subject": "Social-Justice",
+  "title": "ELDERLY AND SENIOR CITIZENS",
+  "short_route": "THREE LIMBS OF AGEING → STATUTORY DEFINITIONS → TRIBUNAL DESIGN → PROPERTY REMEDY LADDER → LEGISLATIVE STATUS LEDGER → MINISTRY STATEMENT CARD",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g3\\social-justice-12_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\social-justice-12-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "cf93e8fc8a5cfbaa1d76281135e2ec1b888c5f1e58147cb5827cedb44ec9a1f8",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THREE LIMBS OF AGEING POLICY",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THREE LIMBS OF AGEING POLICY",
+          "role": "primary"
+        },
+        {
+          "text": "INCOME SECURITY, HEALTH AND CONTINUING CARE, SAFETY AND DIGNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "LEGAL LIMB",
+          "role": "comparison"
+        },
+        {
+          "text": "MAINTENANCE OBLIGATION; TRIBUNAL; CONDITIONAL PROPERTY REMEDY; HOME DIRECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "WELFARE LIMB",
+          "role": "primary"
+        },
+        {
+          "text": "UMBRELLA SCHEME WITH FIVE RECORDED COMPONENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "HEALTH LIMB",
+          "role": "comparison"
+        },
+        {
+          "text": "GERIATRIC PROGRAMME; AGE-BASED HOSPITALISATION ROUTE FOR THOSE AGED SEVENTY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NEED → income security, health and continuing care, safety and dignity in the household",
+        "LEGAL LIMB: maintenance obligation; tribunal; conditional property remedy; home direction",
+        "WELFARE LIMB: umbrella scheme with five recorded components",
+        "HEALTH LIMB: geriatric programme; age-based hospitalisation route for those aged seventy plus",
+        "TEST → dignity, security, participation and intergenerational equity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NEED → income security, health and continuing care, safety and dignity in the household",
+            "LEGAL LIMB: maintenance obligation; tribunal; conditional property remedy; home direction"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WELFARE LIMB: umbrella scheme with five recorded components",
+            "HEALTH LIMB: geriatric programme; age-based hospitalisation route for those aged seventy plus"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TEST → dignity, security, participation and intergenerational equity",
+            "MUST REMEMBER: Ageing policy must integrate income security, health and long-term care,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Ageing policy must integrate income security, health and long-term care,.",
+      "source_references": [
+        "What this owner holds and how its routed demand is divided",
+        "The geriatric limb of the health system",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g3\\social-justice-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "STATUTORY DEFINITIONS",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "STATUTORY DEFINITIONS",
+          "role": "primary"
+        },
+        {
+          "text": "SENIOR CITIZEN",
+          "role": "outcome"
+        },
+        {
+          "text": "SECTION 2(H)",
+          "role": "comparison"
+        },
+        {
+          "text": "A CITIZEN OF INDIA WHO HAS ATTAINED THE AGE",
+          "role": "evidence"
+        },
+        {
+          "text": "FOOD, CLOTHING, RESIDENCE, AND MEDICAL ATTENDANCE AND TREATMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CHILDREN OF THE PARENT OR SENIOR CITIZEN",
+          "role": "outcome"
+        },
+        {
+          "text": "ALSO OBLIGED",
+          "role": "comparison"
+        },
+        {
+          "text": "RELATIVES WHO ARE OR WHO WILL BE LEGAL HEIRS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SENIOR CITIZEN → Section 2(h): a citizen of India who has attained the age of",
+        "MAINTENANCE → food, clothing, residence, and medical attendance and treatment",
+        "OBLIGED → children of the parent or senior citizen",
+        "ALSO OBLIGED → relatives who are or who will be legal heirs of the property",
+        "REASON → the heirship link covers childless senior citizens whom a parental link would miss"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SENIOR CITIZEN → Section 2(h): a citizen of India who has attained the age of sixty years",
+            "MAINTENANCE → food, clothing, residence, and medical attendance and treatment"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OBLIGED → children of the parent or senior citizen",
+            "ALSO OBLIGED → relatives who are or who will be legal heirs of the property"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "REASON → the heirship link covers childless senior citizens whom a parental link would miss",
+            "SENIOR CITIZEN → Section 2(h): a citizen of India who has attained the age of sixty years"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REASON → the heirship link covers childless senior citizens whom a parental link would miss.",
+      "source_references": [
+        "Who is a senior citizen and what maintenance means",
+        "Who owes the obligation",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g3\\social-justice-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "TRIBUNAL DESIGN",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TRIBUNAL DESIGN",
+          "role": "primary"
+        },
+        {
+          "text": "MAINTENANCE TRIBUNAL IN EVERY SUB-DIVISION; SUMMARY ADJUDICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "THE SENIOR CITIZEN OR A PERSON AUTHORISED ON THEIR",
+          "role": "comparison"
+        },
+        {
+          "text": "ORDINARILY DECIDED WITHIN NINETY DAYS, EXTENDABLE IN EXCEPTIONAL CIRCUMSTANCES",
+          "role": "evidence"
+        },
+        {
+          "text": "A STATE-PRESCRIBED ALLOWANCE CANNOT EXCEED ₹10,000 PER MONTH",
+          "role": "institution"
+        },
+        {
+          "text": "SUMMARY ACCESS RAISES REACH; THE CEILING LIMITS ADEQUACY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "FORUM → Maintenance Tribunal in every sub-division; summary adjudication",
+        "APPLICANT → the senior citizen or a person authorised on their behalf",
+        "TIME → ordinarily decided within ninety days, extendable in exceptional circumstances",
+        "CEILING → a State-prescribed allowance cannot exceed ₹10,000 per month",
+        "TRADE-OFF → summary access raises reach; the ceiling limits adequacy"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FORUM → Maintenance Tribunal in every sub-division; summary adjudication",
+          "TIME → ordinarily decided within ninety days, extendable in exceptional circumstances",
+          "TRADE-OFF → summary access raises reach; the ceiling limits adequacy"
+        ],
+        [
+          "APPLICANT → the senior citizen or a person authorised on their behalf",
+          "CEILING → a State-prescribed allowance cannot exceed ₹10,000 per month",
+          "FORUM → Maintenance Tribunal in every sub-division; summary adjudication"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FORUM → Maintenance Tribunal in every sub-division; summary adjudication",
+            "APPLICANT → the senior citizen or a person authorised on their behalf"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TIME → ordinarily decided within ninety days, extendable in exceptional circumstances",
+            "CEILING → a State-prescribed allowance cannot exceed ₹10,000 per month"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRADE-OFF → summary access raises reach; the ceiling limits adequacy",
+            "FORUM → Maintenance Tribunal in every sub-division; summary adjudication"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRADE-OFF → summary access raises reach; the ceiling limits adequacy.",
+      "source_references": [
+        "The tribunal and the ceiling on its order",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g3\\social-justice-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PROPERTY REMEDY LADDER",
+      "structural_type": "ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PROPERTY REMEDY LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "STEP 1",
+          "role": "outcome"
+        },
+        {
+          "text": "THE SENIOR CITIZEN TRANSFERS PROPERTY BY GIFT OR OTHERWISE",
+          "role": "comparison"
+        },
+        {
+          "text": "STEP 2",
+          "role": "evidence"
+        },
+        {
+          "text": "THE TRANSFER IS SUBJECT TO THE CONDITION OF BASIC",
+          "role": "primary"
+        },
+        {
+          "text": "STEP 3",
+          "role": "outcome"
+        },
+        {
+          "text": "THE TRANSFEREE REFUSES OR FAILS TO PROVIDE THEM",
+          "role": "comparison"
+        },
+        {
+          "text": "STEP 4",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "STEP 1 → the senior citizen transfers property by gift or otherwise",
+        "STEP 2 → the transfer is subject to the condition of basic amenities and physical",
+        "STEP 3 → the transferee refuses or fails to provide them",
+        "STEP 4 → the transfer may be declared void at the option of the senior",
+        "LIMIT → without the condition there is no revocation route under this section"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STEP 1 → the senior citizen transfers property by gift or otherwise",
+            "STEP 2 → the transfer is subject to the condition of basic amenities and physical needs"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STEP 3 → the transferee refuses or fails to provide them",
+            "STEP 4 → the transfer may be declared void at the option of the senior citizen"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT → without the condition there is no revocation route under this section",
+            "STEP 1 → the senior citizen transfers property by gift or otherwise"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → without the condition there is no revocation route under this section.",
+      "source_references": [
+        "The property-revocation remedy and its condition",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g3\\social-justice-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "LEGISLATIVE STATUS LEDGER",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "LEGISLATIVE STATUS LEDGER",
+          "role": "primary"
+        },
+        {
+          "text": "THE MAINTENANCE AND WELFARE OF PARENTS AND SENIOR CITIZENS",
+          "role": "outcome"
+        },
+        {
+          "text": "DECEMBER 2019",
+          "role": "comparison"
+        },
+        {
+          "text": "AMENDMENT BILL INTRODUCED",
+          "role": "evidence"
+        },
+        {
+          "text": "DIGNITY DEFINITION, PENALTIES, INCOME DEDUCTION",
+          "role": "primary"
+        },
+        {
+          "text": "THAT BILL FELL WITH THE DISSOLUTION OF THAT LOK",
+          "role": "outcome"
+        },
+        {
+          "text": "PRIVATE MEMBERS' BILLS INTRODUCED IN THE LOK SABHA AND",
+          "role": "comparison"
+        },
+        {
+          "text": "AS AT 21 JULY 2026",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "2007 → the Maintenance and Welfare of Parents and Senior Citizens Act is enacted",
+        "DECEMBER 2019 → amendment Bill introduced: dignity definition, penalties, income deduction",
+        "LAPSED → that Bill fell with the dissolution of that Lok Sabha and was never",
+        "2025 → Private Members' Bills introduced in the Lok Sabha and the Rajya Sabha",
+        "AS AT 21 JULY 2026 → neither is enacted; the 2007 Act remains the law"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "2007 → the Maintenance and Welfare of Parents and Senior Citizens Act is enacted",
+            "DECEMBER 2019 → amendment Bill introduced: dignity definition, penalties, income deduction"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LAPSED → that Bill fell with the dissolution of that Lok Sabha and was never enacted",
+            "2025 → Private Members' Bills introduced in the Lok Sabha and the Rajya Sabha"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AS AT 21 JULY 2026 → neither is enacted; the 2007 Act remains the law in force",
+            "2007 → the Maintenance and Welfare of Parents and Senior Citizens Act is enacted"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AS AT 21 JULY 2026 → neither is enacted; the 2007 Act remains the law in force.",
+      "source_references": [
+        "Enacted law against proposed amendment",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g3\\social-justice-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MINISTRY STATEMENT CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MINISTRY STATEMENT CARD",
+          "role": "primary"
+        },
+        {
+          "text": "A SCHEME TO IMPROVE THE QUALITY OF LIFE OF",
+          "role": "outcome"
+        },
+        {
+          "text": "SHELTER, FOOD, MEDICAL CARE AND ENTERTAINMENT OPPORTUNITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "ENCOURAGING PRODUCTIVE AND ACTIVE AGEING THROUGH CAPACITY BUILDING",
+          "role": "evidence"
+        },
+        {
+          "text": "STATES AND UNION TERRITORIES, NON-GOVERNMENTAL ORGANISATIONS, PANCHAYATI RAJ",
+          "role": "primary"
+        },
+        {
+          "text": "FINANCIAL SECURITY; HEALTH AND NUTRITION; SHELTER; PROTECTION OF LIFE",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "SENIOR CITIZEN IS A STATUTORY OR PROGRAMME CATEGORY, NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PURPOSE → a scheme to improve the quality of life of senior citizens",
+        "MEANS → shelter, food, medical care and entertainment opportunities",
+        "PLUS → encouraging productive and active ageing through capacity building",
+        "PARTNERS → States and Union Territories, non-governmental organisations, Panchayati Raj",
+        "GOALS → financial security; health and nutrition; shelter; protection of life and property"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PURPOSE → a scheme to improve the quality of life of senior citizens",
+          "PLUS → encouraging productive and active ageing through capacity building",
+          "GOALS → financial security; health and nutrition; shelter; protection of life and property"
+        ],
+        [
+          "MEANS → shelter, food, medical care and entertainment opportunities",
+          "PARTNERS → States and Union Territories, non-governmental organisations, Panchayati Raj",
+          "CLOSE DISTINCTION: Senior citizen is a statutory or programme category, not a homogeneous..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PURPOSE → a scheme to improve the quality of life of senior citizens",
+            "MEANS → shelter, food, medical care and entertainment opportunities"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PLUS → encouraging productive and active ageing through capacity building",
+            "PARTNERS → States and Union Territories, non-governmental organisations, Panchayati Raj"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GOALS → financial security; health and nutrition; shelter; protection of life and property",
+            "CLOSE DISTINCTION: Senior citizen is a statutory or programme category, not a homogeneous..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Senior citizen is a statutory or programme category, not a homogeneous.",
+      "source_references": [
+        "The ministry's own account of the umbrella scheme",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g3\\social-justice-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FIVE RECORDED COMPONENTS",
+      "structural_type": "classification",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FIVE RECORDED COMPONENTS",
+          "role": "primary"
+        },
+        {
+          "text": "INTEGRATED PROGRAMME",
+          "role": "outcome"
+        },
+        {
+          "text": "MAINTENANCE OF SENIOR-CITIZEN HOMES FOR INDIGENT SENIOR CITIZENS",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE ACTION PLAN",
+          "role": "institution"
+        },
+        {
+          "text": "EACH STATE FRAMES A FIVE-YEAR STRATEGY AND ANNUAL ACTION",
+          "role": "institution"
+        },
+        {
+          "text": "DEVICE SCHEME",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL SECTOR; ASSISTED-LIVING DEVICES FOR AGE-RELATED INFIRMITY",
+          "role": "comparison"
+        },
+        {
+          "text": "PRODUCTIVE ENGAGEMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INTEGRATED PROGRAMME → maintenance of senior-citizen homes for indigent senior citizens",
+        "STATE ACTION PLAN → each State frames a five-year strategy and annual action plans",
+        "DEVICE SCHEME → Central Sector; assisted-living devices for age-related infirmity",
+        "PRODUCTIVE ENGAGEMENT → a portal matching experienced seniors with enterprises",
+        "AGED-CARE ENGINE → identify, evaluate, verify, aggregate and deliver products and services"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INTEGRATED PROGRAMME → maintenance of senior-citizen homes for indigent senior citizens",
+            "STATE ACTION PLAN → each State frames a five-year strategy and annual action plans"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DEVICE SCHEME → Central Sector; assisted-living devices for age-related infirmity",
+            "PRODUCTIVE ENGAGEMENT → a portal matching experienced seniors with enterprises"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AGED-CARE ENGINE → identify, evaluate, verify, aggregate and deliver products and services",
+            "INTEGRATED PROGRAMME → maintenance of senior-citizen homes for indigent senior citizens"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AGED-CARE ENGINE → identify, evaluate, verify, aggregate and deliver products and services.",
+      "source_references": [
+        "The five components recorded on that page",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g3\\social-justice-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "DEVICE ELIGIBILITY CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DEVICE ELIGIBILITY CARD",
+          "role": "primary"
+        },
+        {
+          "text": "SIXTY YEARS AND ABOVE",
+          "role": "outcome"
+        },
+        {
+          "text": "SUFFERING FROM AN AGE-RELATED DISABILITY OR INFIRMITY",
+          "role": "comparison"
+        },
+        {
+          "text": "MEANS TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "BELOW THE POVERTY LINE, OR FAMILY INCOME UP TO",
+          "role": "primary"
+        },
+        {
+          "text": "DEVICES CONFORMING TO BUREAU OF INDIAN STANDARDS SPECIFICATIONS WHERE",
+          "role": "outcome"
+        },
+        {
+          "text": "TARGETED ASSISTANCE, NOT A UNIVERSAL ENTITLEMENT OF OLD AGE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "AGE → sixty years and above",
+        "CONDITION → suffering from an age-related disability or infirmity",
+        "MEANS TEST → below the poverty line, or family income up to ₹15,000 per month",
+        "QUALITY → devices conforming to Bureau of Indian Standards specifications where applicable",
+        "BOUNDARY → targeted assistance, not a universal entitlement of old age"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "AGE → sixty years and above",
+          "MEANS TEST → below the poverty line, or family income up to ₹15,000 per month",
+          "BOUNDARY → targeted assistance, not a universal entitlement of old age"
+        ],
+        [
+          "CONDITION → suffering from an age-related disability or infirmity",
+          "QUALITY → devices conforming to Bureau of Indian Standards specifications where applicable",
+          "AGE → sixty years and above"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AGE → sixty years and above",
+            "CONDITION → suffering from an age-related disability or infirmity"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MEANS TEST → below the poverty line, or family income up to ₹15,000 per month",
+            "QUALITY → devices conforming to Bureau of Indian Standards specifications where applicable"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → targeted assistance, not a universal entitlement of old age",
+            "AGE → sixty years and above"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → targeted assistance, not a universal entitlement of old age.",
+      "source_references": [
+        "What the assistive-device component actually requires",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g3\\social-justice-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INCOME FLOOR",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INCOME FLOOR",
+          "role": "primary"
+        },
+        {
+          "text": "CENTRAL ASSISTANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "₹200 PER MONTH FOR ELIGIBLE BELOW-POVERTY-LINE PERSONS AGED 60",
+          "role": "comparison"
+        },
+        {
+          "text": "₹500 PER MONTH FOR THOSE AGED EIGHTY AND ABOVE",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE TOP-UP",
+          "role": "institution"
+        },
+        {
+          "text": "VARIES BY STATE AND IS A SEPARATE COMPONENT",
+          "role": "institution"
+        },
+        {
+          "text": "PRESENTING A STATE'S HIGHER COMBINED AMOUNT AS THE NATIONAL",
+          "role": "institution"
+        },
+        {
+          "text": "AN ASSISTANCE FLOOR, NOT AN EARNINGS-REPLACEMENT PENSION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CENTRAL ASSISTANCE → ₹200 per month for eligible below-poverty-line persons aged 60 to 79",
+        "CENTRAL ASSISTANCE → ₹500 per month for those aged eighty and above",
+        "STATE TOP-UP → varies by State and is a separate component",
+        "ERROR → presenting a State's higher combined amount as the national figure",
+        "CONCEPT → an assistance floor, not an earnings-replacement pension"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENTRAL ASSISTANCE → ₹200 per month for eligible below-poverty-line persons aged 60 to 79",
+          "STATE TOP-UP → varies by State and is a separate component",
+          "CONCEPT → an assistance floor, not an earnings-replacement pension"
+        ],
+        [
+          "CENTRAL ASSISTANCE → ₹500 per month for those aged eighty and above",
+          "ERROR → presenting a State's higher combined amount as the national figure",
+          "CENTRAL ASSISTANCE → ₹200 per month for eligible below-poverty-line persons aged 60 to 79"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL ASSISTANCE → ₹200 per month for eligible below-poverty-line persons aged 60 to 79",
+            "CENTRAL ASSISTANCE → ₹500 per month for those aged eighty and above"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STATE TOP-UP → varies by State and is a separate component",
+            "ERROR → presenting a State's higher combined amount as the national figure"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONCEPT → an assistance floor, not an earnings-replacement pension",
+            "CENTRAL ASSISTANCE → ₹200 per month for eligible below-poverty-line persons aged 60 to 79"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONCEPT → an assistance floor, not an earnings-replacement pension.",
+      "source_references": [
+        "The old-age pension floor and how to use it",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g3\\social-justice-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "CARE CONTINUUM GAP",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CARE CONTINUUM GAP",
+          "role": "primary"
+        },
+        {
+          "text": "AGE-BASED ROUTE COVERING EVERY CITIZEN AGED SEVENTY AND ABOVE",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT COVERED BY IT",
+          "role": "caution"
+        },
+        {
+          "text": "OUTPATIENT CARE, REHABILITATION, PALLIATIVE CARE, LONG-TERM CARE",
+          "role": "evidence"
+        },
+        {
+          "text": "PRIMARY AND SECONDARY",
+          "role": "primary"
+        },
+        {
+          "text": "LIMITED GERIATRIC CAPACITY; NEEDS MANAGED INFORMALLY OR IN TERTIARY",
+          "role": "outcome"
+        },
+        {
+          "text": "INTEGRATION BETWEEN THE SOCIAL-JUSTICE AND HEALTH MINISTRIES IS WEAK",
+          "role": "comparison"
+        },
+        {
+          "text": "AN INTEGRATION FAILURE RATHER THAN AN ABSENCE OF SCHEMES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HOSPITALISATION → age-based route covering every citizen aged seventy and above",
+        "NOT COVERED BY IT → outpatient care, rehabilitation, palliative care, long-term care",
+        "PRIMARY AND SECONDARY → limited geriatric capacity; needs managed informally or in tertiary",
+        "COORDINATION → integration between the social-justice and health ministries is weak",
+        "RESULT → an integration failure rather than an absence of schemes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HOSPITALISATION → age-based route covering every citizen aged seventy and above",
+            "NOT COVERED BY IT → outpatient care, rehabilitation, palliative care, long-term care"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PRIMARY AND SECONDARY → limited geriatric capacity; needs managed informally or in tertiary",
+            "COORDINATION → integration between the social-justice and health ministries is weak"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RESULT → an integration failure rather than an absence of schemes",
+            "HOSPITALISATION → age-based route covering every citizen aged seventy and above"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → an integration failure rather than an absence of schemes.",
+      "source_references": [
+        "The geriatric limb of the health system",
+        "The care economy under demographic and household change",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g3\\social-justice-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "ABUSE TYPOLOGY AND SUPPRESSORS",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ABUSE TYPOLOGY AND SUPPRESSORS",
+          "role": "primary"
+        },
+        {
+          "text": "VIOLENCE AND RESTRAINT",
+          "role": "outcome"
+        },
+        {
+          "text": "FINANCIAL AND PROPERTY",
+          "role": "comparison"
+        },
+        {
+          "text": "COERCED TRANSFER, THEFT, MISUSE OF FUNDS",
+          "role": "evidence"
+        },
+        {
+          "text": "VERBAL AGGRESSION, ISOLATION, HUMILIATION",
+          "role": "primary"
+        },
+        {
+          "text": "FAILURE TO PROVIDE CARE, EXTENDING TO ABANDONMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "DEPENDENCE ON THE ABUSER, SHAME, FAMILY LOYALTY, FEAR OF",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PHYSICAL → violence and restraint",
+        "FINANCIAL AND PROPERTY → coerced transfer, theft, misuse of funds",
+        "EMOTIONAL → verbal aggression, isolation, humiliation",
+        "NEGLECT → failure to provide care, extending to abandonment",
+        "SUPPRESSORS → dependence on the abuser, shame, family loyalty, fear of abandonment, stigma"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PHYSICAL → violence and restraint",
+          "EMOTIONAL → verbal aggression, isolation, humiliation",
+          "SUPPRESSORS → dependence on the abuser, shame, family loyalty, fear of abandonment, stigma"
+        ],
+        [
+          "FINANCIAL AND PROPERTY → coerced transfer, theft, misuse of funds",
+          "NEGLECT → failure to provide care, extending to abandonment",
+          "PHYSICAL → violence and restraint"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PHYSICAL → violence and restraint",
+            "FINANCIAL AND PROPERTY → coerced transfer, theft, misuse of funds"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EMOTIONAL → verbal aggression, isolation, humiliation",
+            "NEGLECT → failure to provide care, extending to abandonment"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SUPPRESSORS → dependence on the abuser, shame, family loyalty, fear of abandonment, stigma",
+            "PHYSICAL → violence and restraint"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SUPPRESSORS → dependence on the abuser, shame, family loyalty, fear of abandonment, stigma.",
+      "source_references": [
+        "Elder abuse as a typology, not a single act",
+        "Why elder abuse is under-reported",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g3\\social-justice-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "DEMOGRAPHIC SERIES",
+      "structural_type": "timeline",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "DEMOGRAPHIC SERIES",
+          "role": "primary"
+        },
+        {
+          "text": "1.98 CRORE ELDERLY PERSONS, AS RECORDED ON THE SCHEME",
+          "role": "outcome"
+        },
+        {
+          "text": "7.6 CRORE, AS RECORDED ON THE SAME PAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "10.38 CRORE, AS RECORDED ON THE SAME PAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "PROJECTED 2021",
+          "role": "primary"
+        },
+        {
+          "text": "14.3 CRORE; PROJECTED 2026",
+          "role": "outcome"
+        },
+        {
+          "text": "17.3 CRORE, RECORDED AS PROJECTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "CITE A RECORDED COUNT AS A COUNT AND A",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1951 → 1.98 crore elderly persons, as recorded on the scheme page",
+        "2001 → 7.6 crore, as recorded on the same page",
+        "2011 → 10.38 crore, as recorded on the same page",
+        "PROJECTED 2021 → 14.3 crore; PROJECTED 2026 → 17.3 crore, recorded as projections",
+        "RULE → cite a recorded count as a count and a projection as a projection"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1951 → 1.98 crore elderly persons, as recorded on the scheme page",
+            "2001 → 7.6 crore, as recorded on the same page"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "2011 → 10.38 crore, as recorded on the same page",
+            "PROJECTED 2021 → 14.3 crore; PROJECTED 2026 → 17.3 crore, recorded as projections"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → cite a recorded count as a count and a projection as a projection",
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use the Maintenance and Welfare of Parents..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → cite a recorded count as a count and a projection as a projection.",
+      "source_references": [
+        "The official demographic series and the projection boundary",
+        "The verified previous-year ownership stated precisely",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\12_Elderly-and-Senior-Citizens.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-12\\g3\\social-justice-12_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "2007 ACT LIMITATIONS",
+          "role": "institution"
+        },
+        {
+          "text": "THE STATE-PRESCRIBED MAINTENANCE ALLOWANCE CANNOT EXCEED",
+          "role": "institution"
+        },
+        {
+          "text": "2019 BILL (LAPSED)",
+          "role": "evidence"
+        },
+        {
+          "text": "PROPOSED BROADER DIGNITY DEFINITION (LIFE OF DIGNITY",
+          "role": "primary"
+        },
+        {
+          "text": "2025 PRIVATE MEMBERS' BILLS (PENDING)",
+          "role": "outcome"
+        },
+        {
+          "text": "INTRODUCED SEPARATELY IN BOTH HOUSES",
+          "role": "comparison"
+        },
+        {
+          "text": "AVYAY COMPONENTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "2007 Act limitations: The State-prescribed maintenance allowance cannot exceed",
+            "2019 Bill (lapsed): Proposed broader dignity definition (life of dignity",
+            "2025 Private Members' Bills (pending): Introduced separately in both Houses;",
+            "AVYAY components: IPSC (grants to NGOs/state governments for old-age homes,"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: SAGE: Supports elderly-care start-ups through a curated marketplace and",
+            "CAUTION: A senior citizen in a rural area with no functioning Maintenance Tribunal",
+            "CAUTION: An urban elderly couple living alone, children migrated to another city, unable",
+            "CAUTION: A family caregiver (typically a daughter or daughter-in-law) providing unpaid care"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: Maintenance cap: The Act's ₹10,000 ceiling may be inadequate in high-cost",
+            "CAUTION: Enforcement gap: Tribunal orders lack strong enforcement mechanisms; defaulters",
+            "CAUTION: Formal-care stigma: Old-age homes carry social stigma in many communities;",
+            "CAUTION: Data scarcity on abuse: LASI and small surveys provide some estimates, but"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

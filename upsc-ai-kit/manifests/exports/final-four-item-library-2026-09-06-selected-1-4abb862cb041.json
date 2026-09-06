@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T05:53:25+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\environment-and-ecology-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "57f5b6038d57af683380ccb4b14869256cd3d76040d5132a1c89ded6f3b889e5",
+    "sha256_after": "57f5b6038d57af683380ccb4b14869256cd3d76040d5132a1c89ded6f3b889e5",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Environment and Ecology": 1
+  },
+  "sections": {
+    "Environment and Ecology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11205,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1916,
+    "json_count": 5064,
+    "total_bytes": 4271876485,
+    "by_extension": {
+      ".json": 5064,
+      ".md": 1916,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-01",
+      "topic_title": "Ecosystem Structure and Function",
+      "subject": "Environment and Ecology",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 1,
+      "source_record_id": "environment-and-ecology-01:learner-v2:g6",
+      "source_generation": 6,
+      "destination_folder": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\01-Ecosystem-Structure-and-Function",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-01\\g6\\environment-and-ecology-01_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\01-Ecosystem-Structure-and-Function\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "8fc2fdb51900733c3c7c6605d6ea10aa99b304c8993d4604174241c134ac5d9e",
+          "output_sha256": "8fc2fdb51900733c3c7c6605d6ea10aa99b304c8993d4604174241c134ac5d9e",
+          "source_output_equal": true,
+          "bytes": 676984
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-01\\g6\\environment-and-ecology-01_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\01-Ecosystem-Structure-and-Function\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "19d05b23bf4e73155a692de43e815390c78fbf194d0aa589ff92ce7dbc96e1e2",
+          "output_sha256": "19d05b23bf4e73155a692de43e815390c78fbf194d0aa589ff92ce7dbc96e1e2",
+          "source_output_equal": true,
+          "bytes": 514933
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-01\\carvaka-g6\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\01-Ecosystem-Structure-and-Function\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "d8d26d3d7e8ad003f9bb905b1917a513b127fab73fe9cac46fd464917c67abdc",
+          "output_sha256": "d8d26d3d7e8ad003f9bb905b1917a513b127fab73fe9cac46fd464917c67abdc",
+          "source_output_equal": true,
+          "bytes": 2201403
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-01\\carvaka-g6\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\01-Ecosystem-Structure-and-Function\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "e9c4be92c30d1bca940786e648e085e3cec34ad84bc1f2ca9e7048dda2c2299d",
+          "output_sha256": "e9c4be92c30d1bca940786e648e085e3cec34ad84bc1f2ca9e7048dda2c2299d",
+          "source_output_equal": true,
+          "bytes": 2603475
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-01\\carvaka-g6\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\01-Ecosystem-Structure-and-Function\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "c4e502dd874f6a22d2bb217e9137f8b96a20c38c81f20f706b666195e82ce8f5",
+          "output_sha256": "c4e502dd874f6a22d2bb217e9137f8b96a20c38c81f20f706b666195e82ce8f5",
+          "source_output_equal": true,
+          "bytes": 1953733
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-01\\carvaka-g6\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\01-Ecosystem-Structure-and-Function\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "4424f0b379a898e044085ca507193f716e62fd731697c8f68001b406133c5d3c",
+          "output_sha256": "4424f0b379a898e044085ca507193f716e62fd731697c8f68001b406133c5d3c",
+          "source_output_equal": true,
+          "bytes": 4729
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-01\\carvaka-g6\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\01-Ecosystem-Structure-and-Function\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "b40c7ab7f482abca81bbf852f25045ecc046f3288323e6255aac38ff9e597369",
+          "output_sha256": "b40c7ab7f482abca81bbf852f25045ecc046f3288323e6255aac38ff9e597369",
+          "source_output_equal": true,
+          "source_text_sha256": "4424f0b379a898e044085ca507193f716e62fd731697c8f68001b406133c5d3c",
+          "normalized_text_equal": true,
+          "bytes": 57121
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 7,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 6,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 6,
+            "maximum_line_characters": 59,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 6,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 6,
+            "maximum_line_characters": 67,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 7,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 6,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 6,
+            "maximum_line_characters": 67,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 69,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 70,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 91,
+        "solved_practice_workbook": 54,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 91,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 54,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10962
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

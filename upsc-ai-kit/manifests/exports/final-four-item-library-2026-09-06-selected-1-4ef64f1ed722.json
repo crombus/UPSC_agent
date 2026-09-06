@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T06:29:59+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "upsc-ai-kit\\manifests\\exports\\environment-and-ecology-live-status-snapshot-2026-09-06.json",
+    "sha256_before": "b6a743b6c6a328af6087f563a7d01934884637b063bc14f85af7b66e8041fa06",
+    "sha256_after": "b6a743b6c6a328af6087f563a7d01934884637b063bc14f85af7b66e8041fa06",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Environment and Ecology": 1
+  },
+  "sections": {
+    "Environment and Ecology — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 11319,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1935,
+    "json_count": 5159,
+    "total_bytes": 4272576827,
+    "by_extension": {
+      ".json": 5159,
+      ".md": 1935,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-20",
+      "topic_title": "India Climate Policy NAPCC Panchamrit LTLEDS",
+      "subject": "Environment and Ecology",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 20,
+      "source_record_id": "environment-and-ecology-20:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\20-India-Climate-Policy-NAPCC-Panchamrit-LTLEDS",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-20\\g4\\environment-and-ecology-20_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\20-India-Climate-Policy-NAPCC-Panchamrit-LTLEDS\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "6e915413f86a2a187bc1745174dd7667b8a94c5bc39d2789c769ae46d7c0a44b",
+          "output_sha256": "6e915413f86a2a187bc1745174dd7667b8a94c5bc39d2789c769ae46d7c0a44b",
+          "source_output_equal": true,
+          "bytes": 686833
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-20\\g4\\environment-and-ecology-20_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\20-India-Climate-Policy-NAPCC-Panchamrit-LTLEDS\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "6d1c14e75fedd62b905c2daa157b6bc6595c65042f83d2b9b671472e149b94b8",
+          "output_sha256": "6d1c14e75fedd62b905c2daa157b6bc6595c65042f83d2b9b671472e149b94b8",
+          "source_output_equal": true,
+          "bytes": 527700
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-20\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\20-India-Climate-Policy-NAPCC-Panchamrit-LTLEDS\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "99a7f261301486cc3514b82fa82361e5b159080569f786d2cbb8877b2e749cc3",
+          "output_sha256": "99a7f261301486cc3514b82fa82361e5b159080569f786d2cbb8877b2e749cc3",
+          "source_output_equal": true,
+          "bytes": 2092053
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-20\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\20-India-Climate-Policy-NAPCC-Panchamrit-LTLEDS\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "1961c27a4118de9ec2bd0f463f6478f1911cb9ce6d5c18560de93a4cfa2052d7",
+          "output_sha256": "1961c27a4118de9ec2bd0f463f6478f1911cb9ce6d5c18560de93a4cfa2052d7",
+          "source_output_equal": true,
+          "bytes": 2525512
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-20\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\20-India-Climate-Policy-NAPCC-Panchamrit-LTLEDS\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "532b7ff874c27beabf1966b50cba8ca31e017da5bc392f879f67c56032c397ab",
+          "output_sha256": "532b7ff874c27beabf1966b50cba8ca31e017da5bc392f879f67c56032c397ab",
+          "source_output_equal": true,
+          "bytes": 1852821
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-20\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\20-India-Climate-Policy-NAPCC-Panchamrit-LTLEDS\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "f4299c73684a57249fee8c0dc8f2cadbb600c7f4486ec26186b666dd9ba9d2e5",
+          "output_sha256": "f4299c73684a57249fee8c0dc8f2cadbb600c7f4486ec26186b666dd9ba9d2e5",
+          "source_output_equal": true,
+          "bytes": 4413
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\flowcharts\\iac-20\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Environment and Ecology\\Subject-wide Syllabus\\20-India-Climate-Policy-NAPCC-Panchamrit-LTLEDS\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "8a5e6ea1ced366f27442d1688679e7297bdd9befcd42af6bbc4921a74062d0bf",
+          "output_sha256": "8a5e6ea1ced366f27442d1688679e7297bdd9befcd42af6bbc4921a74062d0bf",
+          "source_output_equal": true,
+          "source_text_sha256": "f4299c73684a57249fee8c0dc8f2cadbb600c7f4486ec26186b666dd9ba9d2e5",
+          "normalized_text_equal": true,
+          "bytes": 56797
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 8,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 6,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 6,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 6,
+            "maximum_line_characters": 66,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 6,
+            "maximum_line_characters": 66,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 6,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 6,
+            "maximum_line_characters": 64,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 6,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 8,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 8,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 61,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 92,
+        "solved_practice_workbook": 56,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 92,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 56,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10910
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

@@ -15,9 +15,9 @@ approval: false
 
 #### Package method, source priority and legal-current control
 
-- [CURRENT] Status is controlled to **24 August 2026, Asia/Kolkata**.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
 
-- [CURRENT] **Live official refresh, 24 August 2026:** The official 56th GST Council meeting release dated 3 September 2025 and the April 2026 Secretariat newsletter were rechecked on 24 August 2026. They are dated recommendation and notification-chain anchors, not a frozen commodity-wise rate code.
+- [CURRENT] **Live official refresh, 5 September 2026:** The official 56th GST Council meeting release dated 3 September 2025 and the April 2026 Secretariat newsletter were rechecked on 5 September 2026. They are dated recommendation and notification-chain anchors, not a frozen commodity-wise rate code.
 - [FACT] Local-first sequence followed: `Polity/basic/GST-Council.md` -> `Polity/advanced/30_GST-Council.md` -> Polity owners for Finance Commission, Centre-State Relations, constitutional amendment and Parliament -> Economy taxation/GST/fiscal-federalism owner -> audited PYQ routing and integration ledgers.
 - [FACT] Polity packages 27, 28 and 29 were used only as structural, visual and validation references. Their subject content has not been imported.
 - [FACT] The constitutional text was controlled against the Legislative Department's official consolidation and the official Gazette text of the Constitution (One Hundred and First Amendment) Act, 2016.
@@ -984,7 +984,7 @@ The exam-safe limitation is that 15 architecture - voting - law interaction - fe
 | electricity equals alcohol exclusion | electricity follows a different entry/notification logic |
 | Council press release itself changes tax | legal effect requires competent instrument |
 
-#### Visual 50 - Current-control board, 24 August 2026
+#### Visual 50 - Current-control board, 5 September 2026
 
 | Field | Safe statement |
 |---|---|
@@ -995,6 +995,51 @@ The exam-safe limitation is that 15 architecture - voting - law interaction - fe
 | compensation cess | specified old rates continued pending entire loan/interest discharge; no exact end date frozen |
 | Article 279A(11) | duty exists; complete public mechanism not verified |
 | case law | *Mohit Minerals* remains controlling Supreme Court proposition located |
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional map:** the 101st Amendment inserted Articles 246A, 269A and
+  279A and amended related provisions. Article 246A creates simultaneous Union-
+  State GST competence subject to Parliament's exclusive inter-State field;
+  Article 269A governs inter-State levy/collection and apportionment; Article
+  279A creates the recommendatory Council.
+- **Composition:** the Union Finance Minister chairs; the Union Minister of State
+  in charge of Revenue or Finance and one finance/taxation or nominated Minister
+  from each State are members. State members may choose a Vice-Chairperson.
+  Nirmala Sitharaman remains the official Union Finance Minister/current Chair
+  on the 5 September 2026 control date.
+- **Voting:** one-half of total membership is quorum. At a meeting the Union has
+  one-third of total votes cast, States together two-thirds, and a proposal
+  requires at least three-fourths of weighted votes of members present and voting.
+  Quorum, vote weight and decision threshold must never be conflated.
+- **Procedure rules:** the official Conduct of Business Rules provide ordinarily
+  seven days' meeting notice, agenda notes at least three days before the meeting
+  and a two-day emergency-meeting route with Chair approval. The Vice-Chairperson
+  has a two-year term or until ceasing to be a member/resigning, whichever is earlier.
+- **Secretariat boundary:** the Revenue Secretary is ex-officio Secretary and
+  the CBIC Chair is a permanent non-voting invitee by the 2016 Cabinet decision;
+  neither becomes a voting constitutional member. GSTN and GSTAT are different institutions.
+- **Recommendation-to-law chain:** a Council recommendation is not a tax rate
+  by itself. Parliament/State law and valid delegated notifications give legal
+  effect subject to the governing statute and constitutional competence.
+- **Judicial rule:** Union of India v Mohit Minerals (2022) holds Council
+  recommendations persuasive rather than binding because Union and States hold
+  simultaneous Article 246A legislative power. The ocean-freight levy failed
+  on the statutory/constitutional analysis; the case does not erase the Council.
+- **Current meeting:** the official 56th GST Council release dated 3 September
+  2025 is the latest meeting release located by 5 September 2026. It recommended
+  broad 5 and 18 per cent rates plus a special 40 per cent demerit rate, with
+  most changes intended from 22 September 2025. Every supply-specific legal rate
+  still requires the applicable CBIC notification.
+- **Compensation status:** the statutory five-year State-compensation entitlement
+  ended in June 2022. Under the 56th-meeting official material, compensation
+  cess continued on specified tobacco-related goods until discharge of the
+  related loan and interest liabilities; no universal post-2022 entitlement is implied.
+- **Institution/PYQ firewall:** the GST Council does not distribute the divisible
+  pool (Finance Commission), administer GST (tax administrations), operate the
+  network (GSTN) or adjudicate appeals (GSTAT). The direct 2023 accommodative-
+  federalism Mains demand and routed GST/fiscal-federalism demands retain their
+  verified ownership.
 
 ## BASIC MCQS / REMEDIATION
 
@@ -1578,7 +1623,7 @@ D. Article 279A makes the Secretariat a fourth constitutional government.
 
 Which dated formulation is safest?
 
-A. “As of 24 August 2026, the latest official meeting release located is the 56th meeting release of 3 September 2025.”  
+A. “As of 5 September 2026, the latest official meeting release located is the 56th meeting release of 3 September 2025.”  
 B. “A 57th meeting certainly occurred in August 2026.”  
 C. “The April 2026 newsletter is the 57th meeting.”  
 D. “All 2025 recommendations were self-executing.”

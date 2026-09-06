@@ -320,3 +320,27 @@ a graded universal-versus-targeted judgment.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Poverty, hunger, food insecurity, undernutrition and malnutrition overlap but use different concepts, indicators and denominators; deprivation is produced through income, assets, prices, care, disease, sanitation, discrimination and public-service access.
+- **Indispensable distinction and prerequisite taxonomy:** Poverty incidence is not depth, food availability is not household access, calorie adequacy is not diet quality, stunting is not wasting, NFSA entitlement is not universal nutrition security, and scheme coverage is not nutritional outcome.
+- **Mechanism, implementation and evidence control:** Use NFSA, PDS/ONORC, ICDS/Saksham Anganwadi, PM POSHAN, POSHAN evidence and MPI/NFHS data with source, reference period and denominator; trace eligibility, documentation, portability, exclusion, grievance and convergence without inferring causality from headline statistics.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 2026-09-06: NFSA, NITI Aayog and the official nutrition platform remain the relevant official owners; entitlement, administrative coverage, survey estimate and nutrition outcome require separate dates, denominators and methods. Sources: https://nfsa.gov.in/; https://www.niti.gov.in/whats-new/national-multidimentional-poverty-index-2023; https://poshantracker.in/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Social Justice owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/social justice taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Three General Studies Mains demands and two objective demands are routed to this topic in the audited routing ledgers, and each Mains demand is reproduced below as a demand card with its printed year, paper, question number, directive, marks and word limit exactly as the ledgers record them: 2018 General Studies Paper II Question 17, 2019 General Studies Paper II Question 7 and 2024 General Studies Paper II Question 7. Two objective demands are also routed, namely 2018 Prelims General Studies Paper I Question 25 on the beneficiary categories and provisions of the National Food Security Act, 2013 and 2023 Prelims General Studies Paper I Question 52 on the interventions and target groups of the Anaemia Mukt Bharat strategy; the audited ledger records that the official 2018-2023 Prelims keys are not held locally, so no option, key or inferred answer is recorded for either objective demand and neither is converted into a solved question. The locally held OCR-searchable official General Studies papers were read only to confirm the printed wording of the routed Mains demands; no question was invented from them and no marking scheme or page precision was imported. Every model solution below is original work written to the repository's examiner-grade standard using the claim, named evidence, analysis and qualification pattern.

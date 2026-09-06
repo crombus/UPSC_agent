@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "governance-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "governance_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "governance-02",
+      "display_title": "Government Policy Design and Implementation",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-02\\g3\\governance-02_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Design against implementation",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "DESIGN SIDE -> problem diagnosis, target population, incentive, realism against capacity",
+            "IMPLEMENTATION SIDE -> clearance points, frontline discretion, citizen interface, remedy",
+            "SYLLABUS RULE -> the clause names both, so answer in two labelled halves",
+            "GAP -> design realism multiplied by clearance-point count multiplied by discretion quality",
+            "MUST REMEMBER: Policy design proceeds through problem definition, evidence and..."
+          ],
+          "source_references": [
+            "Locating failure on the policy cycle",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-02\\g3\\governance-02_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Clearance-point arithmetic",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "EACH APPROVAL -> Union, state, district, panchayat sign-off adds an independent point",
+            "EFFECT -> cumulative failure probability rises even where every point is separately likely",
+            "CONTRAST -> a single-agency central-sector scheme carries fewer points by construction",
+            "COST OF THE FIX -> removing points centralises decisions and reduces local adaptation"
+          ],
+          "source_references": [
+            "Clearance points and the complexity of joint action",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-02\\g3\\governance-02_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Frontline discretion",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "TOP-DOWN -> did frontline action match the original design",
+            "BOTTOM-UP -> frontline output is the real policy regardless of design intent",
+            "COPING ROUTINES -> rationing attention, creaming the easier cases, informal rule-bending",
+            "PAYOFF -> explains exclusion error without alleging corruption"
+          ],
+          "source_references": [
+            "Street-level bureaucracy",
+            "Coping routines and exclusion without corruption",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-02\\g3\\governance-02_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Consultation and ex-ante design",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "POLICY -> Pre-Legislative Consultation Policy, 2014, executive and not statutory",
+            "WINDOW -> ordinary minimum public comment period of about thirty days",
+            "DEPTH AGAINST COMPLIANCE -> publishing a draft is not incorporating feedback",
+            "REGULATORY IMPACT ASSESSMENT -> emerging and unevenly institutionalised, not uniformly binding"
+          ],
+          "source_references": [
+            "Pre-legislative consultation and its statutory status",
+            "Regulatory impact assessment as an emerging practice",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-02\\g3\\governance-02_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Public Examinations Act card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "STATUTE -> Public Examinations (Prevention of Unfair Means) Act, 2024",
+            "COMMENCEMENT -> in force 21 June 2024 by notification S.O. 2422(E)",
+            "SCHEDULED AUTHORITIES -> UPSC, SSC, Railway Recruitment Boards, IBPS, NTA, Central departments",
+            "COVERAGE RULE -> authority-based; a state board or university examination is not automatic"
+          ],
+          "source_references": [
+            "The Public Examinations Act, 2024 and its scope rule",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-02\\g3\\governance-02_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Aims against scope",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "AIMS -> prevent and penalise paper leaks, impersonation and tampering; protect credibility",
+            "SCOPE -> scheduled authority, or a Central Government notification, or separate state law",
+            "ERROR -> reading territorial extent as coverage",
+            "ANSWER MOVE -> answer the scope half separately and explicitly",
+            "CLOSE DISTINCTION: Policy, statute, rule, scheme, guideline, budget and administrative..."
+          ],
+          "source_references": [
+            "The Public Examinations Act, 2024 and its scope rule",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-02\\g3\\governance-02_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Six-stage implementation map",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "1 LEGAL AUTHORITY -> Act, rule, guideline or executive scheme, and who is bound",
+            "2 RULES AND PROCEDURE -> entitlement, eligibility and process specified",
+            "3 AGENCY AND RESOURCES -> named responsible tier; sanctioned against filled posts; fund flow",
+            "4 CITIZEN INTERFACE AND REMEDY -> awareness, documents, distance, language; appeal and review"
+          ],
+          "source_references": [
+            "The six-stage implementation map",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-02\\g3\\governance-02_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Aspirational Districts design card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "UNIT -> inter-district divergence; 112 districts under NITI Aayog",
+            "MEASUREMENT -> 49 key performance indicators across five named themes",
+            "LEVERS -> convergence, collaboration with the Prabhari officer arrangement, competition",
+            "SEPARATE UNIT -> Aspirational Blocks Programme covering 513 blocks"
+          ],
+          "source_references": [
+            "Aspirational districts: convergence, collaboration, competition",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-02\\g3\\governance-02_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Delta ranking and its limit",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "CHOICE -> rank on the pace of improvement rather than the absolute level",
+            "REASON -> the historically worst-off district is not permanently bottom and unmotivated",
+            "LIMIT -> dashboard data is largely district-self-reported with selective validation",
+            "READING -> an administrative-attention and convergence instrument, not a financing instrument"
+          ],
+          "source_references": [
+            "Aspirational districts: convergence, collaboration, competition",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-02\\g3\\governance-02_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Contradiction as externality",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "MANDATES -> each ministry optimises its own objective function",
+            "GAP -> no single actor is accountable for the aggregate environmental outcome",
+            "MECHANISM -> the environmental cost sits in nobody's departmental performance metric",
+            "QUALIFICATION -> some contradictions are value conflicts, not coordination failures"
+          ],
+          "source_references": [
+            "Contradictory sectoral policies and the environmental externality",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-02\\g3\\governance-02_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Coordination against authority",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "PM GATISHAKTI -> shared geographic-information-system layer for multi-modal connectivity",
+            "GAIN -> removes sequencing failure and lowers private-sector information risk",
+            "LIMIT -> coordinates information, not authority over land, utilities and approvals",
+            "PARTNERSHIP CHAIN -> risk allocation, competitive procurement, performance payment, exit rules"
+          ],
+          "source_references": [
+            "PM GatiShakti and public-private coordination",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-02\\g3\\governance-02_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Targeting and answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "TRADE-OFF -> tighter verification lowers inclusion error and raises exclusion error",
+            "RULE -> fix the tolerable exclusion error first for subsistence entitlements; add assisted fallback",
+            "OWNERSHIP -> one routed demand sits with the Basic owner; three sit with the Advanced owner",
+            "CLOSE -> name the stalling stage, attach one corrective and state its cost",
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Map Union, state, district, local body,..."
+          ],
+          "source_references": [
+            "Targeting error and honest question ownership",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\02_Government-Policy-Design-and-Implementation.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-02\\g3\\governance-02_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

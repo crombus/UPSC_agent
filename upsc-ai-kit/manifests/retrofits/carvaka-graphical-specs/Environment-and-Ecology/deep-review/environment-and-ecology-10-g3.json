@@ -1,0 +1,1148 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-10",
+  "subject": "Environment-and-Ecology",
+  "title": "CMS BONN CONVENTION MIGRATORY SPECIES",
+  "short_route": "MIGRATORY-SPECIES GATE → RANGE GEOGRAPHY → RANGE STATE MAP → APPENDIX I DUTY CHAIN → APPENDIX II COOPERATION CHAIN → DUAL-LISTING MATRIX",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-10-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "e9b5c1cd66faeadafc054601f8375d7446e68e4e2c43bfad2dbde53698d8a07c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "MIGRATORY-SPECIES GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MIGRATORY-SPECIES GATE",
+          "role": "primary"
+        },
+        {
+          "text": "MOVEMENT OBSERVED",
+          "role": "outcome"
+        },
+        {
+          "text": "ASK WHETHER IT CROSSES NATIONAL JURISDICTION",
+          "role": "comparison"
+        },
+        {
+          "text": "SIGNIFICANT PROPORTION CROSSES CYCLICALLY AND PREDICTABLY",
+          "role": "evidence"
+        },
+        {
+          "text": "CMS MIGRATORY-SPECIES TEST MAY BE MET",
+          "role": "primary"
+        },
+        {
+          "text": "MOBILITY ALONE DOES NOT ESTABLISH CMS STATUS",
+          "role": "caution"
+        },
+        {
+          "text": "USE THE TAXON AND CURRENT APPENDIX RECORD",
+          "role": "comparison"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MOVEMENT OBSERVED → ask whether it crosses national jurisdiction",
+        "PATTERN → significant proportion crosses cyclically and predictably",
+        "YES → CMS migratory-species test may be met",
+        "NO → mobility alone does not establish CMS status",
+        "VERIFY → use the taxon and current Appendix record"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MOVEMENT OBSERVED → ask whether it crosses national jurisdiction",
+            "PATTERN → significant proportion crosses cyclically and predictably"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "YES → CMS migratory-species test may be met",
+            "NO → mobility alone does not establish CMS status"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERIFY → use the taxon and current Appendix record",
+            "MUST REMEMBER: CMS conserves migratory species across range states through appendices and..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: CMS conserves migratory species across range states through appendices and.",
+      "source_references": [
+        "Migratory-species test",
+        "Current-listing boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "RANGE GEOGRAPHY",
+      "structural_type": "route-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RANGE GEOGRAPHY",
+          "role": "primary"
+        },
+        {
+          "text": "BREEDING SITE",
+          "role": "outcome"
+        },
+        {
+          "text": "LIFE-CYCLE STAGE",
+          "role": "mechanism"
+        },
+        {
+          "text": "PASSAGE AND STOPOVER",
+          "role": "evidence"
+        },
+        {
+          "text": "TEMPORARY HABITAT AND ROUTE LINK",
+          "role": "primary"
+        },
+        {
+          "text": "WINTERING OR FEEDING SITE",
+          "role": "outcome"
+        },
+        {
+          "text": "ANOTHER LIFE-CYCLE STAGE",
+          "role": "mechanism"
+        },
+        {
+          "text": "OVERFLIGHT OR WATER ROUTE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "BREEDING SITE → life-cycle stage",
+        "PASSAGE AND STOPOVER → temporary habitat and route link",
+        "WINTERING OR FEEDING SITE → another life-cycle stage",
+        "OVERFLIGHT OR WATER ROUTE → also within Convention range",
+        "RULE → conserve the connected circuit, not only endpoints"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BREEDING SITE → life-cycle stage",
+            "PASSAGE AND STOPOVER → temporary habitat and route link"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WINTERING OR FEEDING SITE → another life-cycle stage",
+            "OVERFLIGHT OR WATER ROUTE → also within Convention range"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → conserve the connected circuit, not only endpoints",
+            "BREEDING SITE → life-cycle stage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → conserve the connected circuit, not only endpoints.",
+      "source_references": [
+        "Range definition",
+        "Weakest-link logic",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "RANGE STATE MAP",
+      "structural_type": "authority-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RANGE STATE MAP",
+          "role": "institution"
+        },
+        {
+          "text": "STATE A",
+          "role": "institution"
+        },
+        {
+          "text": "BREEDING JURISDICTION",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE B",
+          "role": "institution"
+        },
+        {
+          "text": "PASSAGE OR STOPOVER JURISDICTION",
+          "role": "primary"
+        },
+        {
+          "text": "STATE C",
+          "role": "institution"
+        },
+        {
+          "text": "WINTERING JURISDICTION",
+          "role": "comparison"
+        },
+        {
+          "text": "FLAG STATE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "STATE A → breeding jurisdiction",
+        "STATE B → passage or stopover jurisdiction",
+        "STATE C → wintering jurisdiction",
+        "FLAG STATE → relevant taking beyond national limits where applicable",
+        "CMS TASK → coordinate every material jurisdiction"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STATE A → breeding jurisdiction",
+            "STATE B → passage or stopover jurisdiction"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STATE C → wintering jurisdiction",
+            "FLAG STATE → relevant taking beyond national limits where applicable"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CMS TASK → coordinate every material jurisdiction",
+            "STATE A → breeding jurisdiction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FLAG STATE → relevant taking beyond national limits where applicable.",
+      "source_references": [
+        "Range State definition",
+        "Weakest-link logic",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "APPENDIX I DUTY CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "APPENDIX I DUTY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "ENDANGERED MIGRATORY SPECIES",
+          "role": "outcome"
+        },
+        {
+          "text": "APPENDIX I",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSERVE AND RESTORE WHERE FEASIBLE AND APPROPRIATE",
+          "role": "evidence"
+        },
+        {
+          "text": "PREVENT, REMOVE, COMPENSATE FOR OR MINIMIZE",
+          "role": "primary"
+        },
+        {
+          "text": "PROHIBIT SUBJECT TO NARROW CONVENTION EXCEPTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "PRECISE CONTENT PLUS SPACE-AND-TIME LIMITS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ENDANGERED MIGRATORY SPECIES → Appendix I",
+        "HABITAT → conserve and restore where feasible and appropriate",
+        "OBSTACLES → prevent, remove, compensate for or minimize",
+        "TAKING → prohibit subject to narrow Convention exceptions",
+        "EXCEPTION → precise content plus space-and-time limits"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ENDANGERED MIGRATORY SPECIES → Appendix I",
+            "HABITAT → conserve and restore where feasible and appropriate"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OBSTACLES → prevent, remove, compensate for or minimize",
+            "TAKING → prohibit subject to narrow Convention exceptions"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EXCEPTION → precise content plus space-and-time limits",
+            "ENDANGERED MIGRATORY SPECIES → Appendix I"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TAKING → prohibit subject to narrow Convention exceptions.",
+      "source_references": [
+        "Appendix I",
+        "Taking exceptions",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "APPENDIX II COOPERATION CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "APPENDIX II COOPERATION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "UNFAVOURABLE STATUS OR SIGNIFICANT BENEFIT",
+          "role": "outcome"
+        },
+        {
+          "text": "APPENDIX II",
+          "role": "comparison"
+        },
+        {
+          "text": "RANGE STATES",
+          "role": "evidence"
+        },
+        {
+          "text": "ENDEAVOUR TO CONCLUDE AGREEMENTS",
+          "role": "primary"
+        },
+        {
+          "text": "WHOLE RANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "AGREEMENT DESIGN OBJECTIVE",
+          "role": "comparison"
+        },
+        {
+          "text": "HABITAT, MONITORING, INFORMATION AND THREATS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UNFAVOURABLE STATUS OR SIGNIFICANT BENEFIT → Appendix II",
+        "RANGE STATES → endeavour to conclude AGREEMENTS",
+        "WHOLE RANGE → agreement design objective",
+        "COORDINATION → habitat, monitoring, information and threats",
+        "RULE → cooperation route is not Appendix I duplication"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "UNFAVOURABLE STATUS OR SIGNIFICANT BENEFIT → Appendix II",
+            "RANGE STATES → endeavour to conclude AGREEMENTS"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WHOLE RANGE → agreement design objective",
+            "COORDINATION → habitat, monitoring, information and threats"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → cooperation route is not Appendix I duplication",
+            "UNFAVOURABLE STATUS OR SIGNIFICANT BENEFIT → Appendix II"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → cooperation route is not Appendix I duplication.",
+      "source_references": [
+        "Appendix II",
+        "AGREEMENT architecture",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "DUAL-LISTING MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DUAL-LISTING MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "APPENDIX I",
+          "role": "outcome"
+        },
+        {
+          "text": "ENDANGERED STATUS AND IMMEDIATE PROTECTION DUTIES",
+          "role": "comparison"
+        },
+        {
+          "text": "APPENDIX II",
+          "role": "evidence"
+        },
+        {
+          "text": "INTERNATIONAL-COOPERATION AND AGREEMENT ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "EXPRESSLY POSSIBLE UNDER ARTICLE IV",
+          "role": "institution"
+        },
+        {
+          "text": "NOT HIERARCHY",
+          "role": "caution"
+        },
+        {
+          "text": "FUNCTIONS OVERLAP WITHOUT CANCELLING EACH OTHER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "APPENDIX I → endangered status and immediate protection duties",
+        "APPENDIX II → international-cooperation and agreement route",
+        "BOTH → expressly possible under Article IV",
+        "NOT HIERARCHY → functions overlap without cancelling each other",
+        "ANSWER → state each consequence separately"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "APPENDIX I → endangered status and immediate protection duties",
+          "BOTH → expressly possible under Article IV",
+          "ANSWER → state each consequence separately"
+        ],
+        [
+          "APPENDIX II → international-cooperation and agreement route",
+          "NOT HIERARCHY → functions overlap without cancelling each other",
+          "CLOSE DISTINCTION: Appendix I and II have distinct consequences, CMS is not CITES, range..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "APPENDIX I → endangered status and immediate protection duties",
+            "APPENDIX II → international-cooperation and agreement route"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BOTH → expressly possible under Article IV",
+            "NOT HIERARCHY → functions overlap without cancelling each other"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ANSWER → state each consequence separately",
+            "CLOSE DISTINCTION: Appendix I and II have distinct consequences, CMS is not CITES, range..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Appendix I and II have distinct consequences, CMS is not CITES, range.",
+      "source_references": [
+        "Appendix I",
+        "Appendix II",
+        "Dual listing",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "INSTRUMENT-STATUS LADDER",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INSTRUMENT-STATUS LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "CONVENTION LISTING STATUS",
+          "role": "outcome"
+        },
+        {
+          "text": "IDENTIFY EXACT BINDING INSTRUMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTIFY EXACT NON-BINDING INSTRUMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "ACTION PLAN",
+          "role": "primary"
+        },
+        {
+          "text": "PLANNED MEASURES UNDER ITS ADOPTING AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCERTED ACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "PRIORITY COOPERATIVE WORK BETWEEN COPS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "APPENDIX → Convention listing status",
+        "AGREEMENT → identify exact binding instrument",
+        "MOU → identify exact non-binding instrument",
+        "ACTION PLAN → planned measures under its adopting authority",
+        "CONCERTED ACTION → priority cooperative work between COPs"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "APPENDIX → Convention listing status",
+          "MOU → identify exact non-binding instrument",
+          "CONCERTED ACTION → priority cooperative work between COPs"
+        ],
+        [
+          "AGREEMENT → identify exact binding instrument",
+          "ACTION PLAN → planned measures under its adopting authority",
+          "APPENDIX → Convention listing status"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "APPENDIX → Convention listing status",
+            "AGREEMENT → identify exact binding instrument"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MOU → identify exact non-binding instrument",
+            "ACTION PLAN → planned measures under its adopting authority"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONCERTED ACTION → priority cooperative work between COPs",
+            "APPENDIX → Convention listing status"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONCERTED ACTION → priority cooperative work between COPs.",
+      "source_references": [
+        "Agreement versus MOU",
+        "Action Plan boundary",
+        "Concerted Action boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "AGREEMENT DESIGN RAIL",
+      "structural_type": "layered-rail",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "AGREEMENT DESIGN RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "WHOLE MIGRATORY RANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "OPEN TO RELEVANT RANGE STATES",
+          "role": "comparison"
+        },
+        {
+          "text": "STATUS REVIEW, RESEARCH AND INFORMATION EXCHANGE",
+          "role": "evidence"
+        },
+        {
+          "text": "NETWORK, RESTORATION AND OBSTACLE RESPONSE",
+          "role": "primary"
+        },
+        {
+          "text": "AUTHORITY, MONITORING, REPORTING AND COORDINATION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "SCOPE → whole migratory range",
+        "ACCESS → open to relevant Range States",
+        "SCIENCE → status review, research and information exchange",
+        "HABITAT → network, restoration and obstacle response",
+        "GOVERNANCE → authority, monitoring, reporting and coordination"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SCOPE → whole migratory range",
+            "ACCESS → open to relevant Range States"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SCIENCE → status review, research and information exchange",
+            "HABITAT → network, restoration and obstacle response"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GOVERNANCE → authority, monitoring, reporting and coordination",
+            "SCOPE → whole migratory range"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SCIENCE → status review, research and information exchange.",
+      "source_references": [
+        "AGREEMENT architecture",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CENTRAL ASIAN FLYWAY FIREWALL",
+      "structural_type": "layered-rail",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CENTRAL ASIAN FLYWAY FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "ECOLOGICAL MIGRATION GEOGRAPHY",
+          "role": "outcome"
+        },
+        {
+          "text": "COP14 COOPERATION ARRANGEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "COORDINATING UNIT",
+          "role": "evidence"
+        },
+        {
+          "text": "OFFICIAL RELEASE LOCATES IT IN INDIA",
+          "role": "primary"
+        },
+        {
+          "text": "AGREEMENT OR MOU",
+          "role": "outcome"
+        },
+        {
+          "text": "NOT INFERRED",
+          "role": "caution"
+        },
+        {
+          "text": "NOT INFERRED FROM INSTITUTIONAL ADOPTION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FLYWAY → ecological migration geography",
+        "INITIATIVE → COP14 cooperation arrangement",
+        "COORDINATING UNIT → official release locates it in India",
+        "AGREEMENT OR MOU → not inferred",
+        "OUTCOME → not inferred from institutional adoption"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FLYWAY → ecological migration geography",
+            "INITIATIVE → COP14 cooperation arrangement"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COORDINATING UNIT → official release locates it in India",
+            "AGREEMENT OR MOU → not inferred"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OUTCOME → not inferred from institutional adoption",
+            "FLYWAY → ecological migration geography"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COORDINATING UNIT → official release locates it in India.",
+      "source_references": [
+        "Central Asian Flyway",
+        "COP14 initiative",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PLAN-VERSUS-OUTCOME GATE",
+      "structural_type": "decision-gate",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PLAN-VERSUS-OUTCOME GATE",
+          "role": "comparison"
+        },
+        {
+          "text": "SAMARKAND, FEBRUARY 2024",
+          "role": "outcome"
+        },
+        {
+          "text": "STRATEGIC PLAN",
+          "role": "comparison"
+        },
+        {
+          "text": "2024-2032 DIRECTION AND TARGETS",
+          "role": "evidence"
+        },
+        {
+          "text": "CENTRAL ASIAN FLYWAY COORDINATION STEP",
+          "role": "primary"
+        },
+        {
+          "text": "NEEDED FOR IMPLEMENTATION EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "ADOPTION IS AN OUTPUT, NOT SPECIES RECOVERY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "COP14 → Samarkand, February 2024",
+        "STRATEGIC PLAN → 2024-2032 direction and targets",
+        "INITIATIVE → Central Asian Flyway coordination step",
+        "MONITORING → needed for implementation evidence",
+        "RULE → adoption is an output, not species recovery"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COP14 → Samarkand, February 2024",
+            "STRATEGIC PLAN → 2024-2032 direction and targets"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INITIATIVE → Central Asian Flyway coordination step",
+            "MONITORING → needed for implementation evidence"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → adoption is an output, not species recovery",
+            "COP14 → Samarkand, February 2024"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → adoption is an output, not species recovery.",
+      "source_references": [
+        "COP14 initiative",
+        "Strategic plan status",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "THREAT-LOCATION MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREAT-LOCATION MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "HABITAT NETWORK, TAKING AND SHARED DATA",
+          "role": "outcome"
+        },
+        {
+          "text": "POWER LINE, WETLAND LOSS OR LOCAL ENFORCEMENT",
+          "role": "mechanism"
+        },
+        {
+          "text": "LOCAL SUCCESS",
+          "role": "evidence"
+        },
+        {
+          "text": "DOYANG OR PANGTI STOPOVER PROTECTION",
+          "role": "primary"
+        },
+        {
+          "text": "ONE REPAIRED LINK DOES NOT PROVE WHOLE-ROUTE SAFETY",
+          "role": "caution"
+        },
+        {
+          "text": "MATCH INSTITUTION TO THREAT LOCATION",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ROUTE-WIDE → habitat network, taking and shared data",
+        "DOMESTIC → power line, wetland loss or local enforcement",
+        "LOCAL SUCCESS → Doyang or Pangti stopover protection",
+        "LIMIT → one repaired link does not prove whole-route safety",
+        "RESPONSE → match institution to threat location"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ROUTE-WIDE → habitat network, taking and shared data",
+          "LOCAL SUCCESS → Doyang or Pangti stopover protection",
+          "RESPONSE → match institution to threat location"
+        ],
+        [
+          "DOMESTIC → power line, wetland loss or local enforcement",
+          "LIMIT → one repaired link does not prove whole-route safety",
+          "ROUTE-WIDE → habitat network, taking and shared data"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ROUTE-WIDE → habitat network, taking and shared data",
+            "DOMESTIC → power line, wetland loss or local enforcement"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LOCAL SUCCESS → Doyang or Pangti stopover protection",
+            "LIMIT → one repaired link does not prove whole-route safety"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RESPONSE → match institution to threat location",
+            "ROUTE-WIDE → habitat network, taking and shared data"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → one repaired link does not prove whole-route safety.",
+      "source_references": [
+        "Threat classification",
+        "Amur Falcon distinction",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ AND CONVENTION SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ AND CONVENTION SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "MIGRATORY SPECIES, RANGE AND RANGE STATE",
+          "role": "institution"
+        },
+        {
+          "text": "APPENDIX I, II OR BOTH",
+          "role": "comparison"
+        },
+        {
+          "text": "AGREEMENT, MOU, ACTION PLAN OR CONCERTED ACTION",
+          "role": "evidence"
+        },
+        {
+          "text": "AMUR FALCON ANSWER-FREE ROUTE-AND-COMMUNITY CONCEPT",
+          "role": "primary"
+        },
+        {
+          "text": "CMS, CITES, RAMSAR AND CURRENT-LISTING EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "VERIFY MEMBERSHIP, APPENDIX, TAXON, RANGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DEFINE → migratory species, range and Range State",
+        "CLASSIFY → Appendix I, II or both",
+        "NAME → Agreement, MOU, Action Plan or Concerted Action",
+        "APPLY → Amur Falcon answer-free route-and-community concept",
+        "SEPARATE → CMS, CITES, Ramsar and current-listing evidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE → migratory species, range and Range State",
+            "CLASSIFY → Appendix I, II or both"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NAME → Agreement, MOU, Action Plan or Concerted Action",
+            "APPLY → Amur Falcon answer-free route-and-community concept"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SEPARATE → CMS, CITES, Ramsar and current-listing evidence",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify membership, appendix, taxon, range..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify membership, appendix, taxon, range...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify membership, appendix, taxon, range.",
+      "source_references": [
+        "Amur Falcon PYQ anchor",
+        "CMS-CITES-Ramsar split",
+        "Current-listing boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE GREAT INDIAN BUSTARD SITS AT THE INTERSECTION OF",
+          "role": "outcome"
+        },
+        {
+          "text": "THE SPECIES' PRIMARY DOCUMENTED THREAT (COLLISION WITH HIGH-VOLTAGE OVERHEAD",
+          "role": "comparison"
+        },
+        {
+          "text": "MIGRATORY-SPECIES POPULATION AND ROUTE DATA INCREASINGLY RELY ON SATELLITE",
+          "role": "evidence"
+        },
+        {
+          "text": "THE DISTINCTION BETWEEN A BINDING CMS AGREEMENT AND A",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPREHENSIVE ASSESSMENT OF \"HOW WELL\" A GIVEN FLYWAY IS",
+          "role": "outcome"
+        },
+        {
+          "text": "CMS INSTRUMENTS RANGE FROM BINDING APPENDIX I OBLIGATIONS AND",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA HOSTED CMS COP13 IN GANDHINAGAR, GUJARAT (2020) AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: The Great Indian Bustard sits at the intersection of multiple frameworks studied across",
+            "CAUTION: The species' primary documented threat (collision with high-voltage overhead",
+            "CAUTION: Migratory-species population and route data increasingly rely on satellite telemetry",
+            "CAUTION: The distinction between a binding CMS Agreement and a non-binding MOU is sometimes"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Comprehensive assessment of \"how well\" a given flyway is institutionally coordinated is",
+            "CMS instruments range from binding Appendix I obligations and binding Agreements to",
+            "India hosted CMS CoP13 in Gandhinagar, Gujarat (2020) and held the subsequent CMS",
+            "The Central Asian Flyway passes through India and has historically had a less"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "The Great Indian Bustard's primary documented threat (power-line collision) is a",
+            "NOT: All CMS-listed species are protected through the same binding legal mechanism. - CMS",
+            "NOT: The Central Asian Flyway has an equally formalised, long-standing institutional",
+            "NOT: Every threat to a CMS-listed migratory species is necessarily a multi-country"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

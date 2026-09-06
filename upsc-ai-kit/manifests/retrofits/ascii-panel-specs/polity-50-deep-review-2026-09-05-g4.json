@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "polity-46-50-hostile-semantic-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "polity_legal_source_hierarchy": true,
+    "manually_authored_twelve_panels": true
+  },
+  "topics": [
+    {
+      "topic_key": "polity-50",
+      "display_title": "Concept of the Constitution",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "The central idea: constitute and restrain public power",
+          "structural_type": "constitution-root-map",
+          "ascii_lines": [
+            "ROOT QUESTION",
+            "What makes a political community governed by a Constitution rather than by rulers alone?",
+            "",
+            "CONSTITUTION",
+            "+-- creates institutions and offices",
+            "+-- allocates horizontal and federal authority",
+            "+-- identifies people, territory and political membership",
+            "+-- protects rights and states public goals",
+            "+-- provides amendment, conflict-resolution and continuity rules.",
+            "",
+            "CONSTITUTIONALISM",
+            "limited power + rule of law + checks + rights + accountability + remedies.",
+            "",
+            "MASTER DISTINCTION",
+            "constitutional document can exist without effective constitutionalism.",
+            "MUST REMEMBER: Keep constitution, constitutional law, constitutionalism, constituent power and",
+            "  ordinary constituted power conceptually distinct."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Classification without false binaries",
+          "structural_type": "classification-matrix",
+          "ascii_lines": [
+            "FORM AXES",
+            "enacted/evolved | codified/uncodified | rigid/flexible | federal/unitary",
+            "| supreme/parliamentary | procedural/prescriptive.",
+            "",
+            "INDIA",
+            "enacted + codified + supreme",
+            "mixed rigidity + federal division with centralising features",
+            "parliamentary responsibility + judicial review",
+            "procedure + transformative commitments.",
+            "",
+            "TRAPS",
+            "written != rigid | uncodified != unwritten | federal != presidential",
+            "| parliamentary government != parliamentary sovereignty.",
+            "",
+            "ANSWER STRIP",
+            "Classifications isolate dimensions; India is a designed synthesis across them."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Constituent power and constitutional change",
+          "structural_type": "constituent-power-tree",
+          "ascii_lines": [
+            "CONSTITUENT POWER",
+            "people/founding authority -> creates constitutional order.",
+            "                     |",
+            "                     v",
+            "CONSTITUTED POWERS",
+            "Parliament | executive | judiciary | Union/States | constitutional bodies.",
+            "",
+            "ARTICLE 368",
+            "change within Constitution -> procedure + federal ratification where required.",
+            "",
+            "Kesavananda Bharati (1973)",
+            "amending power is wide but cannot destroy basic structure.",
+            "",
+            "Minerva Mills (1980)",
+            "limited amendment and rights-DPSP harmony are part of constitutional identity.",
+            "",
+            "LIMIT",
+            "no constituted organ becomes legally unlimited by invoking democracy or necessity."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Rule of law, limited government and legitimacy",
+          "structural_type": "constitutionalism-mechanism",
+          "ascii_lines": [
+            "POPULAR CONSENT",
+            "election and representation -> authority to govern.",
+            "             v",
+            "RULE OF LAW",
+            "legal competence + non-arbitrariness + equality + reasoned procedure.",
+            "             v",
+            "LIMITED GOVERNMENT",
+            "rights + separation/checks + federalism + responsible executive.",
+            "             v",
+            "ACCOUNTABILITY",
+            "Parliament + audit + courts + elections + free public reason.",
+            "",
+            "Maneka Gandhi (1978)",
+            "fair, just and reasonable procedure joins legality to substantive non-arbitrariness.",
+            "",
+            "VERDICT",
+            "legitimacy requires source, process, rights and accountable performance."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Sovereignty, legal-political constitution and conventions",
+          "structural_type": "sovereignty-convention-map",
+          "ascii_lines": [
+            "POPULAR SOVEREIGNTY",
+            "We, the People -> democratic authorship.",
+            "",
+            "CONSTITUTIONAL SOVEREIGNTY",
+            "supreme Constitution -> every institution legally limited.",
+            "",
+            "PARLIAMENT",
+            "democratically central, but not British-style legally sovereign.",
+            "",
+            "LEGAL CONSTITUTION",
+            "text/rights/review/remedy.",
+            "",
+            "POLITICAL CONSTITUTION",
+            "confidence/election/committee/federal bargaining/convention.",
+            "",
+            "CONVENTION",
+            "politically obligatory practice; not automatically judicially enforceable law."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Morality, transformation and constitutional identity",
+          "structural_type": "normative-doctrine-map",
+          "ascii_lines": [
+            "CONSTITUTIONAL MORALITY",
+            "text + form + procedure + institutional role + equal citizenship.",
+            "",
+            "TRANSFORMATIVE CONSTITUTIONALISM",
+            "dignity + equality + social justice -> lawful anti-hierarchy change.",
+            "",
+            "S.R. Bommai (1994)",
+            "federalism and secularism constrain partisan central power.",
+            "",
+            "Navtej Singh Johar v. Union of India (2018)",
+            "dignity, equality and constitutional morality protect minority citizenship.",
+            "",
+            "LIMIT",
+            "morality/transformative language cannot float free of text, structure and competence.",
+            "CLOSE DISTINCTION: Treat basic structure, constitutional morality, transformative and living",
+            "  constitutionalism as bounded doctrines, not free-standing judicial preference."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Living constitution with interpretive discipline",
+          "structural_type": "interpretive-approach-grid",
+          "ascii_lines": [
+            "TEXT/ORIGINAL MEANING",
+            "adopted language and history constrain.",
+            "",
+            "STRUCTURE/PRECEDENT",
+            "relationships and doctrine maintain coherence.",
+            "",
+            "LIVING APPLICATION",
+            "enduring principle -> new circumstance -> reasoned doctrinal bridge.",
+            "",
+            "K.S. Puttaswamy (2017)",
+            "privacy and dignity apply constitutional liberty to technological conditions.",
+            "",
+            "CONTROL QUESTIONS",
+            "textual hook? institutional competence? evidence? remedy? democratic space?",
+            "",
+            "TRAP",
+            "living Constitution != amendment by judicial preference."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Identity, emergency and constitutional failure",
+          "structural_type": "failure-response-system",
+          "ascii_lines": [
+            "INDIAN IDENTITY",
+            "Preamble + democracy + rights + federalism + responsibility",
+            "+ judicial review + social transformation.",
+            "",
+            "FAILURE BRANCHES",
+            "emergency abuse | rights hollowing | captured institution",
+            "| convention breakdown | majority treated as unlimited.",
+            "",
+            "RESPONSE LADDER",
+            "reasons/review -> Parliament/accountability -> federal checks",
+            "-> election/public reason -> lawful amendment and institutional repair.",
+            "",
+            "SOCIAL REVOLUTION + RESTRAINT",
+            "transform hierarchy, but preserve competence, rights, procedure and plural consent.",
+            "",
+            "LIMIT",
+            "constitutional survival is institutional practice, not text alone."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Purpose, sovereignty and legitimacy architecture",
+          "structural_type": "purpose-legitimacy-chain",
+          "ascii_lines": [
+            "PEOPLE / FOUNDING AUTHORITY",
+            "   -> CONSTITUTIONAL ORDER",
+            "   -> CREATED INSTITUTIONS + DISTRIBUTED COMPETENCE",
+            "   -> RIGHTS + LIMITS + ACCOUNTABILITY",
+            "   -> AMENDMENT + CONTINUITY",
+            "",
+            "LEGITIMACY TEST",
+            "popular source + lawful process + rights + justified performance.",
+            "",
+            "SOVEREIGNTY",
+            "people authorise; Constitution is supreme; every institution remains constituted.",
+            "",
+            "ANSWER STRIP",
+            "A Constitution creates legitimate authority only while preserving limits on its exercise."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-50\\g3-source\\polity-50_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Legal, political and aspirational constitution",
+          "structural_type": "three-dimension-triangle",
+          "ascii_lines": [
+            "LEGAL",
+            "text | competence | rights | review | remedy",
+            "       /                         \\",
+            "POLITICAL ---------------- ASPIRATIONAL",
+            "elections | confidence       Preamble | FR | DPSP",
+            "scrutiny | convention        dignity | equality | justice",
+            "",
+            "FAILURES",
+            "legalism without democracy | electoralism without limits",
+            "| aspiration without lawful capacity.",
+            "",
+            "ANSWER STRIP",
+            "Law authorises and limits, politics represents and answers, aspiration directs change."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-50\\g3-source\\polity-50_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Doctrine qualification and answer execution",
+          "structural_type": "doctrine-answer-matrix",
+          "ascii_lines": [
+            "IDEA -> ANCHOR -> USE -> LIMIT",
+            "amending power -> Kesavananda Bharati (1973) -> change -> no destruction",
+            "constitutional morality -> NCT Delhi (2018)",
+            "  + Navtej Singh Johar v. Union of India (2018) -> role and equality",
+            "  -> no personal morality",
+            "transformation -> Navtej Singh Johar v. Union of India (2018)",
+            "  + Joseph Shine (2018) -> anti-hierarchy -> competence and remedy",
+            "living Constitution -> K.S. Puttaswamy (2017) -> new conditions -> textual bridge",
+            "",
+            "ANSWER STRIP",
+            "Conceptual answers earn marks when every doctrine carries an anchor, mechanism and limit.",
+            "",
+            "CURRENT CONTROL: 5 SEPTEMBER 2026",
+            "The official text remains amended through the 106th Amendment.",
+            "Basic structure and constitutional morality are bounded judicial",
+            "doctrines, not separately enumerated Articles or personal preference."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-50\\g3-source\\polity-50_g3-reviewed-source.md",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-50\\g3-source\\polity-50_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "UPSC synthesis: higher law, democratic change and restraint",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "PRELIMS FIREWALL",
+            "constitution != constitutional law | constitution != constitutionalism",
+            "| convention != enforceable rule | written != rigid | federal != presidential",
+            "| Parliament != sovereign in British sense | basic structure != express list.",
+            "",
+            "MAINS SPINE",
+            "definition/functions -> classifications -> constituent power",
+            "-> rule of law/legitimacy -> sovereignty/conventions",
+            "-> morality/transformation -> interpretation -> identity/failure.",
+            "",
+            "PYQ SPINE",
+            "2021 morality | 2023 living instrument | 2025 independence-accountability.",
+            "",
+            "VERDICT",
+            "India's Constitution enables democratic transformation by limiting every constituted power.",
+            "LEGAL/SOURCE LIMIT: The official constitutional text remains amended through the 106th",
+            "  Amendment; no political slogan or pending claim is converted into doctrine."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

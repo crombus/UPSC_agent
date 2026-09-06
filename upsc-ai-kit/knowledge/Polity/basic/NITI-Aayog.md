@@ -182,3 +182,40 @@ debate.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Legal status:** NITI Aayog was created by the Union Cabinet resolution of
+  1 January 2015. It is executive, non-constitutional and non-statutory; its
+  advice becomes operative only through a competent legal or executive authority.
+- **Institutional composition:** the Prime Minister is Chairperson. The design
+  includes a Vice Chairperson, full-time members, up to two part-time members,
+  up to four ex-officio Union Ministers, special invitees, a CEO and a Governing
+  Council of State Chief Ministers, Chief Ministers of UTs with legislatures
+  and Lieutenant Governors/Administrators of other UTs.
+- **Latest formal composition control:** Cabinet Secretariat Notification
+  No. 511/1/1/2024-Cab. dated 24 April 2026 appoints Ashok Kumar Lahiri as Vice
+  Chairperson and Rajiv Gauba, Prof. K. V. Raju, Prof. Gobardhan Das,
+  Prof. Abhay Karandikar and Dr M. Srinivas as full-time members, from
+  assumption of charge until further orders. It retains the ex-officio members
+  and special invitees in the 16 July 2024 notification.
+- **Retained ex-officio members:** Raj Nath Singh, Amit Shah, Shivraj Singh
+  Chouhan and Nirmala Sitharaman. The retained special invitees are Nitin
+  Gadkari, J. P. Nadda, H. D. Kumaraswamy, Jitan Ram Manjhi, Rajiv Ranjan
+  Singh, Virendra Kumar, K. Rammohan Naidu, Jual Oram, Annpurna Devi,
+  Chirag Paswan and Rao Inderjit Singh, by the dated notifications.
+- **Administrative roster:** the official 18 June 2026 directory identifies
+  Nidhi Chhibber as CEO with additional charge. A directory entry is an
+  operational snapshot, not a fixed constitutional or statutory tenure.
+- **Functions:** foster cooperative federalism, formulate strategic policy,
+  provide knowledge and technical support, monitor/evaluate programmes and use
+  evidence, indices and initiatives to encourage learning and competition.
+- **Limits:** NITI cannot legislate, tax, allocate the divisible pool, issue a
+  Finance Commission award, bind States, or directly implement every programme.
+  Rankings show measured performance; they do not by themselves prove causation.
+- **Institution firewall:** Article 280 Finance Commission transfers, Article
+  279A GST Council recommendations, Article 263 coordination and statutory
+  Zonal Councils retain distinct sources and powers.
+- **PYQ firewall:** the direct 2018 Planning-Commission comparison and routed
+  2019 Atal Innovation Mission demand remain attached to this owner with
+  notification-sensitive current composition.

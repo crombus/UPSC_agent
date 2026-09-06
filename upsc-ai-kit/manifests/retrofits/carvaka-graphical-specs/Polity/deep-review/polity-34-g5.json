@@ -1,0 +1,1227 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-34",
+  "subject": "Polity",
+  "title": "NITI AAYOG",
+  "short_route": "2015 ORIGIN, LEGAL STATUS → MANDATE: THINK, CONVENE AND → COMPOSITION AND NOTIFICATION-SENSITIVE ROLES → GOVERNING COUNCIL AND REGIONAL → PLANNING COMMISSION TRANSITION → COOPERATIVE AND COMPETITIVE FEDERALISM",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g5\\polity-34_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-34-deep-review-2026-09-05-g5.json",
+  "ascii_spec_sha256": "79eedde3fa66dd38c4427020daf95ba808a61dce204d215b743e692b727224a5",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "2015 ORIGIN, LEGAL STATUS AND POWER BOUNDARY",
+      "structural_type": "niti-origin-status",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "2015 ORIGIN, LEGAL STATUS AND POWER BOUNDARY",
+          "role": "mechanism"
+        },
+        {
+          "text": "1 JANUARY 2015",
+          "role": "outcome"
+        },
+        {
+          "text": "UNION CABINET RESOLUTION CREATES NITI AAYOG",
+          "role": "comparison"
+        },
+        {
+          "text": "EXECUTIVE + NON-CONSTITUTIONAL + NON-STATUTORY",
+          "role": "evidence"
+        },
+        {
+          "text": "ADVISE, CONVENE, STRATEGISE, MONITOR AND SUPPORT CAPACITY",
+          "role": "primary"
+        },
+        {
+          "text": "NO OWN POWER",
+          "role": "caution"
+        },
+        {
+          "text": "LEGISLATE, TAX, ALLOCATE DIVISIBLE POOL OR IMPOSE STATE PLANS",
+          "role": "institution"
+        },
+        {
+          "text": "RECOMMENDATION BECOMES ACTION ONLY THROUGH COMPETENT GOVERNMENT AUTHORITY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1 JANUARY 2015 → Union Cabinet resolution creates NITI Aayog",
+        "STATUS → executive + non-constitutional + non-statutory",
+        "ROLE → advise, convene, strategise, monitor and support capacity",
+        "NO OWN POWER → legislate, tax, allocate divisible pool or impose State plans",
+        "LIMIT: recommendation becomes action only through competent government authority."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "1 JANUARY 2015 → Union Cabinet resolution creates NITI Aayog",
+            "STATUS → executive + non-constitutional + non-statutory"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ROLE → advise, convene, strategise, monitor and support capacity",
+            "NO OWN POWER → legislate, tax, allocate divisible pool or impose State plans"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT: recommendation becomes action only through competent government authority.",
+            "MUST REMEMBER: NITI Aayog is an executive, non-constitutional and non-statutory policy platform created by the Cabinet resolution of 1 January 2015."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "1 JANUARY 2015 → Union Cabinet resolution creates NITI Aayog",
+            "STATUS → executive + non-constitutional + non-statutory"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: NITI Aayog is an executive, non-constitutional and non-statutory policy platform created by the Cabinet resolution of 1 January 2015.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\34_NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g5\\polity-34_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MANDATE: THINK, CONVENE AND LEARN",
+      "structural_type": "niti-mandate-triad",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THINK, CONVENE AND LEARN",
+          "role": "primary"
+        },
+        {
+          "text": "STRATEGY, POLICY RESEARCH AND KNOWLEDGE NETWORKS",
+          "role": "outcome"
+        },
+        {
+          "text": "UNION-STATE DIALOGUE AND INTER-SECTOR COORDINATION",
+          "role": "institution"
+        },
+        {
+          "text": "MONITORING, EVALUATION, FEEDBACK AND ADAPTATION",
+          "role": "evidence"
+        },
+        {
+          "text": "SHARED VISION + BOTTOM-UP PLANS + VULNERABLE GROUPS +",
+          "role": "primary"
+        },
+        {
+          "text": "AN OFFICIAL OBJECTIVE IS A MANDATE, NOT EVIDENCE OF",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "THINK → strategy, policy research and knowledge networks",
+        "CONVENE → Union-State dialogue and inter-sector coordination",
+        "LEARN → monitoring, evaluation, feedback and adaptation",
+        "FOUNDATION → shared vision + bottom-up plans + vulnerable groups + technology",
+        "TRAP: an official objective is a mandate, not evidence of achieved outcomes."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "THINK → strategy, policy research and knowledge networks",
+            "CONVENE → Union-State dialogue and inter-sector coordination"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "LEARN → monitoring, evaluation, feedback and adaptation",
+            "FOUNDATION → shared vision + bottom-up plans + vulnerable groups + technology"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP: an official objective is a mandate, not evidence of achieved outcomes.",
+            "THINK → strategy, policy research and knowledge networks"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CONVENE → Union-State dialogue and inter-sector coordination",
+            "LEARN → monitoring, evaluation, feedback and adaptation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "an official objective is a mandate, not evidence of achieved outcomes.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\34_NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g5\\polity-34_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "COMPOSITION AND NOTIFICATION-SENSITIVE ROLES",
+      "structural_type": "niti-composition-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "COMPOSITION AND NOTIFICATION-SENSITIVE ROLES",
+          "role": "primary"
+        },
+        {
+          "text": "PRIME MINISTER",
+          "role": "outcome"
+        },
+        {
+          "text": "GOVERNING COUNCIL",
+          "role": "institution"
+        },
+        {
+          "text": "STATE CMS + RELEVANT UT LEADERSHIP",
+          "role": "institution"
+        },
+        {
+          "text": "EXPERT SIDE",
+          "role": "primary"
+        },
+        {
+          "text": "VICE-CHAIRPERSON + FULL-TIME AND PART-TIME MEMBERS",
+          "role": "outcome"
+        },
+        {
+          "text": "UNION LINK",
+          "role": "comparison"
+        },
+        {
+          "text": "EX-OFFICIO MINISTERS + SPECIAL INVITEES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CHAIRPERSON → Prime Minister",
+        "GOVERNING COUNCIL → State CMs + relevant UT leadership",
+        "EXPERT SIDE → Vice-Chairperson + full-time and part-time members",
+        "UNION LINK → ex-officio Ministers + special invitees",
+        "ADMINISTRATION → CEO"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CHAIRPERSON → Prime Minister",
+            "GOVERNING COUNCIL → State CMs + relevant UT leadership",
+            "EXPERT SIDE → Vice-Chairperson + full-time and part-time members",
+            "UNION LINK → ex-officio Ministers + special invitees"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "ADMINISTRATION → CEO",
+            "CONTROL: names, portfolios and invitees require a dated official notification.",
+            "LATEST FORMAL ROSTER: 24 APRIL 2026",
+            "Vice Chairperson: Ashok Kumar Lahiri."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Full-time: Rajiv Gauba",
+            "K. V. Raju",
+            "Gobardhan Das",
+            "Abhay Karandikar"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "M. Srinivas.",
+            "Ex-officio members and special invitees remain those in the 16 July 2024 notice."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Ex-officio members and special invitees remain those in the 16 July 2024 notice.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\34_NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g5\\polity-34_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "GOVERNING COUNCIL AND REGIONAL COUNCILS",
+      "structural_type": "niti-council-system",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "GOVERNING COUNCIL AND REGIONAL COUNCILS",
+          "role": "institution"
+        },
+        {
+          "text": "GOVERNING COUNCIL",
+          "role": "institution"
+        },
+        {
+          "text": "CONTINUING PM-CHAIRED DEVELOPMENT-POLICY FORUM",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE AND UT POLITICAL LEADERSHIP UNDER CURRENT CONSTITUTION/ORDER",
+          "role": "institution"
+        },
+        {
+          "text": "REGIONAL COUNCIL",
+          "role": "institution"
+        },
+        {
+          "text": "TEMPORARY, ISSUE-SPECIFIC, MULTI-STATE OR REGIONAL MECHANISM",
+          "role": "institution"
+        },
+        {
+          "text": "JOINT DIAGNOSIS",
+          "role": "comparison"
+        },
+        {
+          "text": "AGREED FOLLOW-UP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GOVERNING COUNCIL → continuing PM-chaired development-policy forum",
+        "MEMBERS → State and UT political leadership under current constitution/order",
+        "REGIONAL COUNCIL → temporary, issue-specific, multi-State or regional mechanism",
+        "PROCESS → agenda → joint diagnosis → consultation → agreed follow-up",
+        "LIMIT: consensus is political coordination, not binding law or a State veto."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "GOVERNING COUNCIL → continuing PM-chaired development-policy forum",
+            "MEMBERS → State and UT political leadership under current constitution/order"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "REGIONAL COUNCIL → temporary, issue-specific, multi-State or regional mechanism",
+            "PROCESS → agenda → joint diagnosis → consultation → agreed follow-up"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT: consensus is political coordination, not binding law or a State veto.",
+            "GOVERNING COUNCIL → continuing PM-chaired development-policy forum"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "MEMBERS → State and UT political leadership under current constitution/order",
+            "REGIONAL COUNCIL → temporary, issue-specific, multi-State or regional mechanism"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: consensus is political coordination, not binding law or a State veto.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\34_NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g5\\polity-34_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PLANNING COMMISSION TRANSITION",
+      "structural_type": "niti-planning-transition",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PLANNING COMMISSION TRANSITION",
+          "role": "primary"
+        },
+        {
+          "text": "BOTH BODIES AROSE THROUGH EXECUTIVE RESOLUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "PLANNING COMMISSION",
+          "role": "comparison"
+        },
+        {
+          "text": "FIVE-YEAR PLANS + PLAN-RESOURCE INFLUENCE + CENTRAL NEGOTIATION",
+          "role": "evidence"
+        },
+        {
+          "text": "INDICATIVE STRATEGY + FEDERAL DIALOGUE + MONITORING + KNOWLEDGE",
+          "role": "primary"
+        },
+        {
+          "text": "LATER REFORM",
+          "role": "outcome"
+        },
+        {
+          "text": "PLAN/NON-PLAN BUDGET DISTINCTION ENDED SEPARATELY",
+          "role": "comparison"
+        },
+        {
+          "text": "DIRECTIVE ALLOCATION SHIFTED TOWARD ADVISORY COORDINATION AND SOFTER LEVERAGE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CONTINUITY → both bodies arose through executive resolution",
+        "PLANNING COMMISSION → Five-Year Plans + plan-resource influence + central negotiation",
+        "NITI → indicative strategy + federal dialogue + monitoring + knowledge",
+        "LATER REFORM → plan/non-plan budget distinction ended separately",
+        "VERDICT: directive allocation shifted toward advisory coordination and softer leverage."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CONTINUITY → both bodies arose through executive resolution",
+            "PLANNING COMMISSION → Five-Year Plans + plan-resource influence + central negotiation"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "NITI → indicative strategy + federal dialogue + monitoring + knowledge",
+            "LATER REFORM → plan/non-plan budget distinction ended separately"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT: directive allocation shifted toward advisory coordination and softer leverage.",
+            "CONTINUITY → both bodies arose through executive resolution"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "PLANNING COMMISSION → Five-Year Plans + plan-resource influence + central negotiation",
+            "NITI → indicative strategy + federal dialogue + monitoring + knowledge"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: directive allocation shifted toward advisory coordination and softer leverage.",
+      "answer_line": "directive allocation shifted toward advisory coordination and softer leverage.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\34_NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g5\\polity-34_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "COOPERATIVE AND COMPETITIVE FEDERALISM",
+      "structural_type": "niti-federalism-cycle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "COOPERATIVE AND COMPETITIVE FEDERALISM",
+          "role": "primary"
+        },
+        {
+          "text": "SHARED AGENDA + STATE VOICE + JOINT PROBLEM-SOLVING +",
+          "role": "institution"
+        },
+        {
+          "text": "COMMON INDICATOR",
+          "role": "comparison"
+        },
+        {
+          "text": "ADMINISTRATIVE RESPONSE",
+          "role": "evidence"
+        },
+        {
+          "text": "STATE SUPPORT",
+          "role": "institution"
+        },
+        {
+          "text": "POLICY AND INSTITUTIONAL CAPABILITY PARTNERSHIPS",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL AGENDA POWER + BOYCOTT/NON-ATTENDANCE + UNEQUAL CAPACITY +",
+          "role": "mechanism"
+        },
+        {
+          "text": "PARTICIPATION IMPROVES LEGITIMACY ONLY WHEN EVIDENCE AND FOLLOW-UP ARE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COOPERATIVE → shared agenda + State voice + joint problem-solving + capacity support",
+        "COMPETITIVE → common indicator → comparison → reputation → administrative response",
+        "STATE SUPPORT → policy and institutional capability partnerships",
+        "RISKS → central agenda power + boycott/non-attendance + unequal capacity + data gaming",
+        "BALANCE: participation improves legitimacy only when evidence and follow-up are credible."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "COOPERATIVE → shared agenda + State voice + joint problem-solving + capacity support",
+            "COMPETITIVE → common indicator → comparison → reputation → administrative response"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "STATE SUPPORT → policy and institutional capability partnerships",
+            "RISKS → central agenda power + boycott/non-attendance + unequal capacity + data gaming"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "BALANCE: participation improves legitimacy only when evidence and follow-up are credible.",
+            "CLOSE DISTINCTION: Advice, convening, monitoring and rankings do not confer legislative, taxing, devolution, fund-allocation or implementation powers."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "COOPERATIVE → shared agenda + State voice + joint problem-solving + capacity support",
+            "COMPETITIVE → common indicator → comparison → reputation → administrative response"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Advice, convening, monitoring and rankings do not confer legislative, taxing, devolution, fund-allocation or implementation powers.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\34_NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g5\\polity-34_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "EVIDENCE, INDICATORS AND EVALUATION",
+      "structural_type": "niti-evidence-action-loop",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EVIDENCE, INDICATORS AND EVALUATION",
+          "role": "evidence"
+        },
+        {
+          "text": "VERIFIED DATA",
+          "role": "outcome"
+        },
+        {
+          "text": "MONITORING AND EVALUATION SUPPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "SAFE REPORTING",
+          "role": "evidence"
+        },
+        {
+          "text": "RANK + ABSOLUTE LEVEL + CHANGE + UNCERTAINTY +",
+          "role": "primary"
+        },
+        {
+          "text": "DASHBOARD MOVEMENT DOES NOT BY ITSELF ESTABLISH CAUSATION OR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "OUTCOME → indicator → baseline → verified data → comparison",
+        "diagnosis → intervention → reassessment",
+        "DMEO → monitoring and evaluation support",
+        "SAFE REPORTING → rank + absolute level + change + uncertainty + field evidence",
+        "TRAP: dashboard movement does not by itself establish causation or durable welfare gain."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "OUTCOME → indicator → baseline → verified data → comparison",
+            "diagnosis → intervention → reassessment"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "DMEO → monitoring and evaluation support",
+            "SAFE REPORTING → rank + absolute level + change + uncertainty + field evidence"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRAP: dashboard movement does not by itself establish causation or durable welfare gain.",
+            "OUTCOME → indicator → baseline → verified data → comparison"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "diagnosis → intervention → reassessment",
+            "DMEO → monitoring and evaluation support"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "dashboard movement does not by itself establish causation or durable welfare gain.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\34_NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g5\\polity-34_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ASPIRATIONAL DISTRICTS AND BLOCKS",
+      "structural_type": "niti-aspirational-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ASPIRATIONAL DISTRICTS AND BLOCKS",
+          "role": "primary"
+        },
+        {
+          "text": "ALIGN SCHEMES AND AGENCIES",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRE + STATE + DISTRICT/BLOCK TEAMS",
+          "role": "institution"
+        },
+        {
+          "text": "DELTA INDICATORS AND PEER COMPARISON",
+          "role": "evidence"
+        },
+        {
+          "text": "REMAINS WITH COMPETENT GOVERNMENTS AND FIELD ADMINISTRATION",
+          "role": "primary"
+        },
+        {
+          "text": "NITI COORDINATES AND MONITORS; IT DOES NOT DIRECTLY DELIVER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CONVERGENCE → align schemes and agencies",
+        "COLLABORATION → Centre + State + district/block teams",
+        "COMPETITION → delta indicators and peer comparison",
+        "DELIVERY → remains with competent governments and field administration",
+        "LIMIT: NITI coordinates and monitors; it does not directly deliver every service."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CONVERGENCE → align schemes and agencies",
+            "COLLABORATION → Centre + State + district/block teams"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "COMPETITION → delta indicators and peer comparison",
+            "DELIVERY → remains with competent governments and field administration"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT: NITI coordinates and monitors; it does not directly deliver every service.",
+            "CONVERGENCE → align schemes and agencies"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "COLLABORATION → Centre + State + district/block teams",
+            "COMPETITION → delta indicators and peer comparison"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT: NITI coordinates and monitors; it does not directly deliver every service.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\34_NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g5\\polity-34_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SDGS, DMEO AND ATAL INNOVATION MISSION",
+      "structural_type": "niti-programme-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SDGS, DMEO AND ATAL INNOVATION MISSION",
+          "role": "primary"
+        },
+        {
+          "text": "SDG LOCALISATION",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE/LOCAL ATTENTION",
+          "role": "institution"
+        },
+        {
+          "text": "PROGRAMME MONITORING AND EVALUATION",
+          "role": "evidence"
+        },
+        {
+          "text": "INNOVATION INITIATIVE UNDER NITI; ARCHITECTURE IS DATE-SENSITIVE",
+          "role": "primary"
+        },
+        {
+          "text": "PROGRAMME TEST",
+          "role": "outcome"
+        },
+        {
+          "text": "OWNER + MECHANISM + IMPLEMENTER + EVIDENCE + LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "PYQ 2019",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SDG LOCALISATION → goals → indicators → State/local attention",
+        "DMEO → programme monitoring and evaluation",
+        "AIM → innovation initiative under NITI; architecture is date-sensitive",
+        "PROGRAMME TEST → owner + mechanism + implementer + evidence + limit",
+        "PYQ 2019: institutional ownership matters more than the programme name."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "SDG LOCALISATION → goals → indicators → State/local attention",
+            "DMEO → programme monitoring and evaluation"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "AIM → innovation initiative under NITI; architecture is date-sensitive",
+            "PROGRAMME TEST → owner + mechanism + implementer + evidence + limit"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "PYQ 2019: institutional ownership matters more than the programme name.",
+            "SDG LOCALISATION → goals → indicators → State/local attention"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "DMEO → programme monitoring and evaluation",
+            "AIM → innovation initiative under NITI; architecture is date-sensitive"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PYQ 2019: institutional ownership matters more than the programme name.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\34_NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g5\\polity-34_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "NITI AND NEIGHBOURING INSTITUTIONS",
+      "structural_type": "niti-institution-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NITI AND NEIGHBOURING INSTITUTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "EXECUTIVE STRATEGY, DIALOGUE AND MONITORING",
+          "role": "outcome"
+        },
+        {
+          "text": "FINANCE COMMISSION",
+          "role": "comparison"
+        },
+        {
+          "text": "ARTICLE 280 FISCAL RECOMMENDATIONS",
+          "role": "institution"
+        },
+        {
+          "text": "GST COUNCIL",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 279A GST RECOMMENDATIONS",
+          "role": "institution"
+        },
+        {
+          "text": "INTER-STATE COUNCIL",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 263 COORDINATION ROUTE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "NITI → executive strategy, dialogue and monitoring",
+        "FINANCE COMMISSION → Article 280 fiscal recommendations",
+        "GST COUNCIL → Article 279A GST recommendations",
+        "INTER-STATE COUNCIL → Article 263 coordination route",
+        "ZONAL COUNCILS → statutory regional cooperation"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "NITI → executive strategy, dialogue and monitoring",
+          "GST COUNCIL → Article 279A GST recommendations",
+          "ZONAL COUNCILS → statutory regional cooperation",
+          "Never transfer one body’s source or power to another."
+        ],
+        [
+          "FINANCE COMMISSION → Article 280 fiscal recommendations",
+          "INTER-STATE COUNCIL → Article 263 coordination route",
+          "STATE FINANCE COMMISSIONS → State-local fiscal recommendations",
+          "NITI → executive strategy, dialogue and monitoring"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "NITI → executive strategy, dialogue and monitoring",
+            "FINANCE COMMISSION → Article 280 fiscal recommendations"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "GST COUNCIL → Article 279A GST recommendations",
+            "INTER-STATE COUNCIL → Article 263 coordination route"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "ZONAL COUNCILS → statutory regional cooperation",
+            "STATE FINANCE COMMISSIONS → State-local fiscal recommendations"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Never transfer one body’s source or power to another.",
+            "NITI → executive strategy, dialogue and monitoring"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Never transfer one body’s source or power to another.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\34_NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g5\\polity-34_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "STRENGTHS, DEFICITS AND ACCOUNTABLE REFORM",
+      "structural_type": "niti-reform-map",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STRENGTHS, DEFICITS AND ACCOUNTABLE REFORM",
+          "role": "primary"
+        },
+        {
+          "text": "FLEXIBILITY + EXPERTISE + CONVENING + CROSS-SECTOR EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "NON-BINDING ADVICE + CENTRAL AGENDA + WEAK REPORTING +",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE AGENDA WINDOWS + PUBLISHED CONSULTATIONS + INDEPENDENT DATA",
+          "role": "institution"
+        },
+        {
+          "text": "ACTION TRACKING + PARLIAMENTARY VISIBILITY + IMPLEMENTATION FEEDBACK",
+          "role": "primary"
+        },
+        {
+          "text": "RETAIN FLEXIBILITY WHILE MAKING INFLUENCE TRANSPARENT AND EVALUABLE.",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "STRENGTHS → flexibility + expertise + convening + cross-sector evidence",
+        "DEFICITS → non-binding advice + central agenda + weak reporting + data risk",
+        "REFORM → State agenda windows + published consultations + independent data audit",
+        "action tracking + parliamentary visibility + implementation feedback",
+        "GOAL: retain flexibility while making influence transparent and evaluable."
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "STRENGTHS → flexibility + expertise + convening + cross-sector evidence",
+          "REFORM → State agenda windows + published consultations + independent data audit",
+          "GOAL: retain flexibility while making influence transparent and evaluable.",
+          "DEFICITS → non-binding advice + central agenda + weak reporting + data risk"
+        ],
+        [
+          "DEFICITS → non-binding advice + central agenda + weak reporting + data risk",
+          "action tracking + parliamentary visibility + implementation feedback",
+          "STRENGTHS → flexibility + expertise + convening + cross-sector evidence",
+          "REFORM → State agenda windows + published consultations + independent data audit"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "STRENGTHS → flexibility + expertise + convening + cross-sector evidence",
+            "DEFICITS → non-binding advice + central agenda + weak reporting + data risk"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "REFORM → State agenda windows + published consultations + independent data audit",
+            "action tracking + parliamentary visibility + implementation feedback"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "GOAL: retain flexibility while making influence transparent and evaluable.",
+            "STRENGTHS → flexibility + expertise + convening + cross-sector evidence"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "DEFICITS → non-binding advice + central agenda + weak reporting + data risk",
+            "REFORM → State agenda windows + published consultations + independent data audit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GOAL: retain flexibility while making influence transparent and evaluable.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\34_NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g5\\polity-34_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ ROUTES AND ANSWER SYNTHESIS",
+      "structural_type": "niti-answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ ROUTES AND ANSWER SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "PYQ 2018",
+          "role": "outcome"
+        },
+        {
+          "text": "NITI PRINCIPLES VERSUS PLANNING COMMISSION",
+          "role": "comparison"
+        },
+        {
+          "text": "PYQ 2019",
+          "role": "evidence"
+        },
+        {
+          "text": "ATAL INNOVATION MISSION INSTITUTIONAL LOCATION",
+          "role": "primary"
+        },
+        {
+          "text": "FEDERAL MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "PROGRAMME EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "FISCAL/DATA LIMITS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PYQ 2018 → NITI principles versus Planning Commission",
+        "PYQ 2019 → Atal Innovation Mission institutional location",
+        "PRELIMS → executive != unconstitutional",
+        "Council != legislature",
+        "index != power"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PYQ 2018 → NITI principles versus Planning Commission",
+            "PYQ 2019 → Atal Innovation Mission institutional location",
+            "PRELIMS → executive != unconstitutional"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Council != legislature",
+            "index != power",
+            "MAINS → origin → mandate → composition → federal mechanism → programme evidence"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "fiscal/data limits → accountable reform → qualified verdict",
+            "NITI succeeds through credible persuasion, State ownership and implementation.",
+            "LEGAL/SOURCE LIMIT: The 24 April 2026 Gazette replaced the Vice Chairperson and"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "full-time member roster while retaining the July 2024 ex-officio members and invitees."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "fiscal/data limits → accountable reform → qualified verdict.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-34\\g4-source\\polity-34_g4-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\34_NITI-Aayog.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g5\\polity-34_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INSTITUTIONAL ENRICHMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "[ANALYSIS] THE KEY DESIGN TRADE-OFF IS FLEXIBILITY VERSUS ACCOUNTABLE",
+          "role": "comparison"
+        },
+        {
+          "text": "EXECUTIVE STATUS",
+          "role": "evidence"
+        },
+        {
+          "text": "PERMITS RAPID ADAPTATION BUT WEAKENS MANDATORY REPORTING AND STABLE",
+          "role": "primary"
+        },
+        {
+          "text": "[ANALYSIS] COMPETITIVE FEDERALISM WORKS ONLY WHEN INDICATORS ARE COMPARABLE",
+          "role": "outcome"
+        },
+        {
+          "text": "[LIMIT] STATE PARTICIPATION IN THE GOVERNING COUNCIL DOES NOT",
+          "role": "caution"
+        },
+        {
+          "text": "[LIMIT] PROGRAMME OWNERSHIP, INDEX EDITIONS AND MEETING THEMES ARE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "Institutional enrichment",
+            "[ANALYSIS] The key design trade-off is flexibility versus accountable permanence: executive status",
+            "permits rapid adaptation but weakens mandatory reporting and stable intergovernmental procedure."
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "[ANALYSIS] Competitive federalism works only when indicators are comparable, auditable and paired with absolute levels and field evidence.",
+            "[LIMIT] State participation in the Governing Council does not create a State veto, binding compact or second federal chamber.",
+            "[LIMIT] Programme ownership, index editions and meeting themes are dated evidence of institutional activity, not proof of outcomes."
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "Institutional enrichment - [ANALYSIS] The key design trade-off is flexibility versus accountable permanence:",
+            "executive status permits rapid adaptation but weakens mandatory reporting and stable intergovernmental procedure."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

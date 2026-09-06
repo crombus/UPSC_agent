@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-05T17:32:58+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "10c6327c70027077466782029bd24233fb10ccd521fc3341682633785a28f579",
+    "sha256_after": "10c6327c70027077466782029bd24233fb10ccd521fc3341682633785a28f579",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Governance": 1
+  },
+  "sections": {
+    "Governance — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 10781,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1828,
+    "json_count": 4728,
+    "total_bytes": 4270900955,
+    "by_extension": {
+      ".json": 4728,
+      ".md": 1828,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "governance-15",
+      "topic_title": "Monitoring, Evaluation and Outcomes",
+      "subject": "Governance",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 15,
+      "source_record_id": "governance-15:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\15-Monitoring-Evaluation-and-Outcomes",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-15\\g3\\governance-15_Complete-Learning-Session_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\15-Monitoring-Evaluation-and-Outcomes\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "8315ca3734d051ad7920c273e5915c2f227cd272a3e1b0b04bfb398325f194e9",
+          "output_sha256": "8315ca3734d051ad7920c273e5915c2f227cd272a3e1b0b04bfb398325f194e9",
+          "source_output_equal": true,
+          "bytes": 801068
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-15\\g3\\governance-15_Solved-Practice-Workbook_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\15-Monitoring-Evaluation-and-Outcomes\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "be0ed91acce3217f63c2d7fd6d2cbf88cc230f598bb81cc8d6f101ca42928137",
+          "output_sha256": "be0ed91acce3217f63c2d7fd6d2cbf88cc230f598bb81cc8d6f101ca42928137",
+          "source_output_equal": true,
+          "bytes": 609384
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\flowcharts\\iac-15\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\15-Monitoring-Evaluation-and-Outcomes\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "687cda0e5583efa957541507fd7b9c79c853fee816c76367b0b8641d168e11f0",
+          "output_sha256": "687cda0e5583efa957541507fd7b9c79c853fee816c76367b0b8641d168e11f0",
+          "source_output_equal": true,
+          "bytes": 2235417
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\flowcharts\\iac-15\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\15-Monitoring-Evaluation-and-Outcomes\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "869a945bcda9281e8fed819054c15bb686fa74cff2b9e5cdc5b22bdb3744f00d",
+          "output_sha256": "869a945bcda9281e8fed819054c15bb686fa74cff2b9e5cdc5b22bdb3744f00d",
+          "source_output_equal": true,
+          "bytes": 2685170
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\flowcharts\\iac-15\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\15-Monitoring-Evaluation-and-Outcomes\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "7ee90fb649bc522b12c08592323363cd1749fc0d2867310249a4da6b75f33e6c",
+          "output_sha256": "7ee90fb649bc522b12c08592323363cd1749fc0d2867310249a4da6b75f33e6c",
+          "source_output_equal": true,
+          "bytes": 1972184
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\flowcharts\\iac-15\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\15-Monitoring-Evaluation-and-Outcomes\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "20dd62a18207e1c6abbedd54e018c268ae47e622aad616a4c20fe85aae569a26",
+          "output_sha256": "20dd62a18207e1c6abbedd54e018c268ae47e622aad616a4c20fe85aae569a26",
+          "source_output_equal": true,
+          "bytes": 5493
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\flowcharts\\iac-15\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\15-Monitoring-Evaluation-and-Outcomes\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "fc3126711d29e7f45d8dcf7253980f2b1eb6278fedd87a46cef2afadaa31ce76",
+          "output_sha256": "fc3126711d29e7f45d8dcf7253980f2b1eb6278fedd87a46cef2afadaa31ce76",
+          "source_output_equal": true,
+          "source_text_sha256": "20dd62a18207e1c6abbedd54e018c268ae47e622aad616a4c20fe85aae569a26",
+          "normalized_text_equal": true,
+          "bytes": 57704
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 8,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 6,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 6,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 6,
+            "maximum_line_characters": 79,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 6,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 7,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 7,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 116,
+        "solved_practice_workbook": 72,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 116,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 72,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10886
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

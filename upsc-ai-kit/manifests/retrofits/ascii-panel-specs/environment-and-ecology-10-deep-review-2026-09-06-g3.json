@@ -1,0 +1,247 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "environment-and-ecology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "environment_and_ecology_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-10",
+      "display_title": "CMS Bonn Convention Migratory Species",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Migratory-species gate",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "MOVEMENT OBSERVED -> ask whether it crosses national jurisdiction",
+            "PATTERN -> significant proportion crosses cyclically and predictably",
+            "YES -> CMS migratory-species test may be met",
+            "NO -> mobility alone does not establish CMS status",
+            "VERIFY -> use the taxon and current Appendix record",
+            "MUST REMEMBER: CMS conserves migratory species across range states through appendices and..."
+          ],
+          "source_references": [
+            "Migratory-species test",
+            "Current-listing boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Range geography",
+          "structural_type": "route-map",
+          "ascii_lines": [
+            "BREEDING SITE -> life-cycle stage",
+            "PASSAGE AND STOPOVER -> temporary habitat and route link",
+            "WINTERING OR FEEDING SITE -> another life-cycle stage",
+            "OVERFLIGHT OR WATER ROUTE -> also within Convention range",
+            "RULE -> conserve the connected circuit, not only endpoints"
+          ],
+          "source_references": [
+            "Range definition",
+            "Weakest-link logic",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Range State map",
+          "structural_type": "authority-map",
+          "ascii_lines": [
+            "STATE A -> breeding jurisdiction",
+            "STATE B -> passage or stopover jurisdiction",
+            "STATE C -> wintering jurisdiction",
+            "FLAG STATE -> relevant taking beyond national limits where applicable",
+            "CMS TASK -> coordinate every material jurisdiction"
+          ],
+          "source_references": [
+            "Range State definition",
+            "Weakest-link logic",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Appendix I duty chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ENDANGERED MIGRATORY SPECIES -> Appendix I",
+            "HABITAT -> conserve and restore where feasible and appropriate",
+            "OBSTACLES -> prevent, remove, compensate for or minimize",
+            "TAKING -> prohibit subject to narrow Convention exceptions",
+            "EXCEPTION -> precise content plus space-and-time limits"
+          ],
+          "source_references": [
+            "Appendix I",
+            "Taking exceptions",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Appendix II cooperation chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "UNFAVOURABLE STATUS OR SIGNIFICANT BENEFIT -> Appendix II",
+            "RANGE STATES -> endeavour to conclude AGREEMENTS",
+            "WHOLE RANGE -> agreement design objective",
+            "COORDINATION -> habitat, monitoring, information and threats",
+            "RULE -> cooperation route is not Appendix I duplication"
+          ],
+          "source_references": [
+            "Appendix II",
+            "AGREEMENT architecture",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Dual-listing matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "APPENDIX I -> endangered status and immediate protection duties",
+            "APPENDIX II -> international-cooperation and agreement route",
+            "BOTH -> expressly possible under Article IV",
+            "NOT HIERARCHY -> functions overlap without cancelling each other",
+            "ANSWER -> state each consequence separately",
+            "CLOSE DISTINCTION: Appendix I and II have distinct consequences, CMS is not CITES, range..."
+          ],
+          "source_references": [
+            "Appendix I",
+            "Appendix II",
+            "Dual listing",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Instrument-status ladder",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "APPENDIX -> Convention listing status",
+            "AGREEMENT -> identify exact binding instrument",
+            "MOU -> identify exact non-binding instrument",
+            "ACTION PLAN -> planned measures under its adopting authority",
+            "CONCERTED ACTION -> priority cooperative work between COPs"
+          ],
+          "source_references": [
+            "Agreement versus MOU",
+            "Action Plan boundary",
+            "Concerted Action boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "AGREEMENT design rail",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "SCOPE -> whole migratory range",
+            "ACCESS -> open to relevant Range States",
+            "SCIENCE -> status review, research and information exchange",
+            "HABITAT -> network, restoration and obstacle response",
+            "GOVERNANCE -> authority, monitoring, reporting and coordination"
+          ],
+          "source_references": [
+            "AGREEMENT architecture",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Central Asian Flyway firewall",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "FLYWAY -> ecological migration geography",
+            "INITIATIVE -> COP14 cooperation arrangement",
+            "COORDINATING UNIT -> official release locates it in India",
+            "AGREEMENT OR MOU -> not inferred",
+            "OUTCOME -> not inferred from institutional adoption"
+          ],
+          "source_references": [
+            "Central Asian Flyway",
+            "COP14 initiative",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Plan-versus-outcome gate",
+          "structural_type": "decision-gate",
+          "ascii_lines": [
+            "COP14 -> Samarkand, February 2024",
+            "STRATEGIC PLAN -> 2024-2032 direction and targets",
+            "INITIATIVE -> Central Asian Flyway coordination step",
+            "MONITORING -> needed for implementation evidence",
+            "RULE -> adoption is an output, not species recovery"
+          ],
+          "source_references": [
+            "COP14 initiative",
+            "Strategic plan status",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Threat-location matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ROUTE-WIDE -> habitat network, taking and shared data",
+            "DOMESTIC -> power line, wetland loss or local enforcement",
+            "LOCAL SUCCESS -> Doyang or Pangti stopover protection",
+            "LIMIT -> one repaired link does not prove whole-route safety",
+            "RESPONSE -> match institution to threat location"
+          ],
+          "source_references": [
+            "Threat classification",
+            "Amur Falcon distinction",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "PYQ and convention spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> migratory species, range and Range State",
+            "CLASSIFY -> Appendix I, II or both",
+            "NAME -> Agreement, MOU, Action Plan or Concerted Action",
+            "APPLY -> Amur Falcon answer-free route-and-community concept",
+            "SEPARATE -> CMS, CITES, Ramsar and current-listing evidence",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify membership, appendix, taxon, range..."
+          ],
+          "source_references": [
+            "Amur Falcon PYQ anchor",
+            "CMS-CITES-Ramsar split",
+            "Current-listing boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\10_CMS-Bonn-Convention-Migratory-Species.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-10\\g3\\environment-and-ecology-10_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

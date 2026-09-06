@@ -85,7 +85,7 @@ SCs/STs.
 
 ✅ The official consolidated Constitution incorporates the 106th Amendment, but incorporation in
 an updated constitutional edition is not a commencement notification under section 1(2) of the
-Amendment Act. As at **29 August 2026**, no verified Central Government Gazette notification
+Amendment Act. As at **5 September 2026**, no verified Central Government Gazette notification
 appointing a commencement date has been located. Even after commencement, Article 334A separately
 postpones **electoral operation** until:
 
@@ -97,7 +97,7 @@ first census after commencement of the 106th Amendment
 ```
 
 📜 Census 2027 was officially notified on **16 June 2025**. Its general reference date is
-1 March 2027, with 1 October 2026 for specified snow-bound areas. As at **28 August 2026**, the
+1 March 2027, with 1 October 2026 for specified snow-bound areas. As at **5 September 2026**, the
 relevant population figures have not been published and the Article 334A delimitation trigger has
 not been completed. The reservation is therefore in constitutional text but not yet operational in
 elections.
@@ -276,7 +276,7 @@ categories.
 | **103rd (2019)** | Inserted Arts 15(6) and 16(6) for EWS | Did not amend SC/ST/SEBC identification lists |
 | **104th (2019; effective 2020)** | Extended SC/ST legislative-seat reservation to eighty years; Anglo-Indian nomination remained at seventy | Did not necessarily delete the printed text of Arts 331/333 |
 | **105th (2021)** | Restored express State/UT power, by law, to maintain own-purpose SEBC lists; Central List retained | Did not give States power to alter Arts 341/342 SC/ST lists |
-| **106th (2023; commencement not verified as at 29 August 2026)** | Inserted Arts 330A, 332A, 334A and Delhi-Assembly clauses; section 1(2) requires a Gazette-appointed commencement date | Did not make women's reservation immediately operational or extend it to Rajya Sabha/Legislative Councils |
+| **106th (2023; commenced on 16 April 2026 by S.O. 1922(E))** | Inserted Arts 330A, 332A, 334A and Delhi-Assembly clauses; section 1(2) was satisfied by S.O. 1922(E) on 16 April 2026 | Did not make women's reservation immediately operational or extend it to Rajya Sabha/Legislative Councils |
 
 ---
 
@@ -352,7 +352,7 @@ legislative-seat provisions.
 - ✅ SC/ST legislative reservation currently runs to 25 January 2030; Anglo-Indian nomination
   ceased from 25 January 2020.
 - ✅ The 106th Amendment is enacted and incorporated in updated official constitutional text, but
-  a section 1(2) commencement notification was not verified as at 29 August 2026; after
+  a section 1(2) commencement notification was not verified as at 5 September 2026; after
   commencement, electoral operation still awaits publication of the first post-commencement
   census figures and a purpose-specific delimitation.
 - ✅ Art 335 is a service-claim/efficiency provision, not a universal reservation clause.
@@ -385,3 +385,46 @@ legislative-seat provisions.
 - Scheduled/tribal administration: `Scheduled-and-Tribal-Areas.md`
 - Women's reservation and delimitation status: `Parliament.md`
 - Election administration: `Election-Commission.md`
+
+### Semantic-completeness ownership and PYQ control
+
+- **Four-technique map:** Articles 330-334A govern legislative representation;
+  Article 335 concerns SC/ST service claims and efficiency; Articles 338-340
+  create safeguard, supervision and investigation mechanisms; Articles
+  341-342A identify constitutional beneficiary classes.
+- **Representation:** Articles 330 and 332 reserve Lok Sabha and Assembly seats
+  for SCs/STs while the ordinary territorial electorate votes. They do not
+  create separate electorates or Rajya Sabha/Legislative Council reservation.
+- **Article 334 clocks:** the 104th Amendment extended SC/ST legislative-seat
+  reservation to eighty years from commencement, presently to 25 January 2030,
+  but did not extend Anglo-Indian nomination beyond the seventy-year period.
+- **106th Amendment commencement:** Gazette notification S.O. 1922(E), dated
+  16 April 2026, appointed that date under section 1(2), so the amendment's
+  provisions are now in force. Earlier statements that commencement was not
+  notified are superseded.
+- **Electoral-operation gate:** commencement is not implementation. Article
+  334A still requires publication of figures from the first post-commencement
+  census and a delimitation exercise for this purpose before reserved seats
+  operate. Census publication alone cannot draw or rotate constituencies.
+- **Women-within-category design:** Articles 330A and 332A include one-third
+  reservation within SC/ST reserved seats for Lok Sabha, State Assemblies and
+  the Delhi Assembly; they do not extend to Rajya Sabha or Legislative Councils.
+- **Services:** Article 335 supplies an efficiency consideration and the 82nd
+  Amendment relaxation proviso. It neither defines efficiency nor creates a
+  universal quota; education/employment benefits principally route through
+  Articles 15-16, valid law and controlling case doctrine.
+- **Commissions and lists:** Articles 338, 338A and 338B establish NCSC, NCST
+  and NCBC. Civil-court inquiry powers do not make reports binding decrees.
+  Under Articles 341-342, the President initially specifies State/UT lists and
+  Parliament alone includes or excludes communities by law.
+- **SEBC/EWS firewall:** the 102nd-105th Amendment sequence preserves a Central
+  SEBC List and State/UT own-purpose lists by law. EWS derives separately from
+  Articles 15(6)-16(6), upheld 3:2 in Janhit Abhiyan, not Article 342A or 335.
+- **Davinder Singh:** State of Punjab v Davinder Singh (2024) permits
+  evidence-based SC sub-classification for fair benefit distribution but does
+  not transfer Article 341 list alteration, compel a nationwide model or permit
+  complete exclusion of a listed caste.
+- **Live-status control, checked 5 September 2026:** official constitutional,
+  Gazette, Census, commission and Social Justice sources control current lists
+  and implementation. The amendment is commenced but women's legislative
+  reservation is not yet electorally operational.

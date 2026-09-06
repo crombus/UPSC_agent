@@ -1,0 +1,258 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "environment-and-ecology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "environment_and_ecology_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-27",
+      "display_title": "Environmental Institutions (MoEFCC, CPCB, NBA, WII)",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g3\\environment-and-ecology-27_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Institution-type compass",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MINISTRY -> policy administration and coordination",
+            "STATUTORY BOARD OR AUTHORITY -> Act-defined functions",
+            "RESEARCH INSTITUTE -> evidence training and advisory work",
+            "ENFORCEMENT BODY -> investigation or operational compliance role",
+            "TRIBUNAL -> adjudication within statutory jurisdiction",
+            "MUST REMEMBER: Environmental governance distributes policy, standard-setting, consent,...",
+            "MUST REMEMBER: Environmental governance distributes policy, standard-setting, consent,..."
+          ],
+          "source_references": [
+            "Institution-type boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g3\\environment-and-ecology-27_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "MoEFCC role map",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "UNION MINISTRY -> executive policy institution",
+            "LAW AND RULE ADMINISTRATION -> subject to statutory allocation",
+            "PROGRAMME AND INTERNATIONAL COORDINATION -> ministry function",
+            "SUBORDINATE OR AUTONOMOUS BODIES -> separate legal identities",
+            "RULE -> ministry is not every field regulator"
+          ],
+          "source_references": [
+            "MoEFCC ministry role",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g3\\environment-and-ecology-27_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "CPCB national rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ADVISE CENTRAL GOVERNMENT -> national policy input",
+            "COORDINATE STATE BOARDS -> inter-board function",
+            "TECHNICAL SUPPORT AND RESEARCH -> capacity and evidence",
+            "DATA GUIDELINES AND STANDARDS -> national outputs",
+            "IMPLEMENTATION -> relevant State Board or Committee remains distinct"
+          ],
+          "source_references": [
+            "CPCB statutory identity",
+            "CPCB national function",
+            "SPCB consent-enforcement role",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g3\\environment-and-ecology-27_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Standards-consent firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CPCB STANDARD OR GUIDELINE -> national regulatory benchmark",
+            "SPCB OR PCC CONSENT -> project-specific permission context",
+            "INSPECTION AND ENFORCEMENT -> competent territorial authority",
+            "CENTRAL DIRECTION OR COORDINATION -> separate legal route",
+            "RULE -> one output cannot be substituted for another"
+          ],
+          "source_references": [
+            "Standards-consent boundary",
+            "Central-state jurisdiction boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g3\\environment-and-ecology-27_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Biodiversity governance ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "NBA -> national biodiversity authority level",
+            "SBB -> state biodiversity governance level",
+            "BMC -> local-body biodiversity level",
+            "PBR -> local documentation instrument",
+            "ABS -> access and fair-benefit mechanism"
+          ],
+          "source_references": [
+            "NBA statutory identity",
+            "SBB role boundary",
+            "BMC local role",
+            "PBR evidence boundary",
+            "ABS boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g3\\environment-and-ecology-27_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "PBR-to-ABS sequence",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "LOCAL KNOWLEDGE AND BIODIVERSITY -> documented carefully",
+            "PBR -> evidence and community knowledge record",
+            "ACCESS PROPOSAL -> separate legal assessment",
+            "BENEFIT ARRANGEMENT -> applicable ABS process",
+            "OUTCOME -> documentation alone grants no approval"
+          ],
+          "source_references": [
+            "PBR evidence boundary",
+            "ABS boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g3\\environment-and-ecology-27_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "WII science pipeline",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "RESEARCH QUESTION -> species habitat or management issue",
+            "FIELD AND ANALYTICAL STUDY -> evidence generated",
+            "TRAINING AND ADVISORY OUTPUT -> capacity and recommendations",
+            "COMPETENT AUTHORITY -> formal decision under law",
+            "RULE -> science informs but does not become regulation itself"
+          ],
+          "source_references": [
+            "WII institutional identity",
+            "Science-regulation boundary",
+            "Evidence-decision chain",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g3\\environment-and-ecology-27_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Wildlife body comparison",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "WII -> research training and advisory science",
+            "NTCA -> tiger-conservation statutory authority",
+            "WCCB -> wildlife-crime coordination",
+            "STATE WILDLIFE MACHINERY -> territorial implementation",
+            "CPCB -> pollution control, not wildlife governance"
+          ],
+          "source_references": [
+            "NTCA-WCCB boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g3\\environment-and-ecology-27_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Adjudication boundary",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "ADMINISTRATIVE DECISION -> ministry authority board or state body",
+            "MONITORING OR ENFORCEMENT -> competent executive institution",
+            "CHALLENGE OR DISPUTE -> applicable adjudicatory route",
+            "NGT -> tribunal within its statutory jurisdiction",
+            "RULE -> adjudication does not erase executive responsibility"
+          ],
+          "source_references": [
+            "NGT adjudication boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g3\\environment-and-ecology-27_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Legal-basis test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "CREATED DIRECTLY BY ACT -> statutory body",
+            "CONSTITUTED UNDER PARENT ACT -> notified authority",
+            "DELEGATED POWER -> scope follows delegation",
+            "AUTONOMOUS OR RESEARCH BODY -> institutional mandate",
+            "VERDICT -> cite the exact founding instrument",
+            "CLOSE DISTINCTION: MoEFCC is not CPCB, CPCB standards are not every SPCB consent...",
+            "CLOSE DISTINCTION: MoEFCC is not CPCB, CPCB standards are not every SPCB consent..."
+          ],
+          "source_references": [
+            "Constituted-delegated boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g3\\environment-and-ecology-27_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Governance coordination chain",
+          "structural_type": "causal-chain",
+          "ascii_lines": [
+            "POLICY -> sets direction",
+            "SCIENCE -> supplies evidence",
+            "STANDARD AND CONSENT -> regulate activity",
+            "MONITORING AND ENFORCEMENT -> test compliance",
+            "ADJUDICATION -> resolves qualifying disputes",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State institution type, parent...",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State institution type, parent..."
+          ],
+          "source_references": [
+            "Coordination chain",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g3\\environment-and-ecology-27_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Institutions answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "IDENTIFY -> ministry board authority institute force or tribunal",
+            "CITE -> founding Act notification delegation or mandate",
+            "MAP -> national state and local jurisdiction",
+            "SEPARATE -> standards consent science enforcement and adjudication",
+            "VERIFY -> current power direction staffing budget and reform evidence"
+          ],
+          "source_references": [
+            "Current evidence boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g2\\environment-and-ecology-27_Complete-Learning-Session_2026-09-03.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-27\\g3\\environment-and-ecology-27_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

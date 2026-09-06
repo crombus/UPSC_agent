@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-06T02:37:54+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "df4a4664cdc5f727cb35a1c2fe6e6585b49f23d7c2e5fb130921c7afe4008a24",
+    "sha256_after": "df4a4664cdc5f727cb35a1c2fe6e6585b49f23d7c2e5fb130921c7afe4008a24",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Social Justice": 1
+  },
+  "sections": {
+    "Social Justice — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 10893,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1850,
+    "json_count": 4818,
+    "total_bytes": 4271261331,
+    "by_extension": {
+      ".json": 4818,
+      ".md": 1850,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "social-justice-03",
+      "topic_title": "Health Systems, Public Health and Universal Health Coverage",
+      "subject": "Social Justice",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 3,
+      "source_record_id": "social-justice-03:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\03-Health-Systems-Public-d4ffe203-Health-Coverage",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-03\\g3\\social-justice-03_Complete-Learning-Session_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\03-Health-Systems-Public-d4ffe203-Health-Coverage\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "279dee4cf02f8cc871767a0dd0d0cac804444661e3ef7b595988ed78e33852a1",
+          "output_sha256": "279dee4cf02f8cc871767a0dd0d0cac804444661e3ef7b595988ed78e33852a1",
+          "source_output_equal": true,
+          "bytes": 844162
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-03\\g3\\social-justice-03_Solved-Practice-Workbook_2026-09-06.pdf",
+          "output": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\03-Health-Systems-Public-d4ffe203-Health-Coverage\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "926af0c2ebe13cab7954f8b7609378d9828676813ec5764a8d4b3925222467ac",
+          "output_sha256": "926af0c2ebe13cab7954f8b7609378d9828676813ec5764a8d4b3925222467ac",
+          "source_output_equal": true,
+          "bytes": 648795
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\flowcharts\\iac-03\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\03-Health-Systems-Public-d4ffe203-Health-Coverage\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "c953afe8e296be2de86c252658e979503581597797e38a8885d72ba9f6d9f438",
+          "output_sha256": "c953afe8e296be2de86c252658e979503581597797e38a8885d72ba9f6d9f438",
+          "source_output_equal": true,
+          "bytes": 2232974
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\flowcharts\\iac-03\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\03-Health-Systems-Public-d4ffe203-Health-Coverage\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "b98255ffac948cd9c6a71d388c6b932c9f960e6756832449fc0bce7ba5f5a11d",
+          "output_sha256": "b98255ffac948cd9c6a71d388c6b932c9f960e6756832449fc0bce7ba5f5a11d",
+          "source_output_equal": true,
+          "bytes": 2645916
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\flowcharts\\iac-03\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\03-Health-Systems-Public-d4ffe203-Health-Coverage\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "780b1b093423712b9bf19033588172750c466554f5cc0004cbec9dcf93066905",
+          "output_sha256": "780b1b093423712b9bf19033588172750c466554f5cc0004cbec9dcf93066905",
+          "source_output_equal": true,
+          "bytes": 1973728
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\flowcharts\\iac-03\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\03-Health-Systems-Public-d4ffe203-Health-Coverage\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "24ec2dc06debc52b3b3576658ebc3d9ea20c45914249b25f45c68927ec0149ee",
+          "output_sha256": "24ec2dc06debc52b3b3576658ebc3d9ea20c45914249b25f45c68927ec0149ee",
+          "source_output_equal": true,
+          "bytes": 5438
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Social-Justice\\SJ\\flowcharts\\iac-03\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Social Justice\\Subject-wide Syllabus\\03-Health-Systems-Public-d4ffe203-Health-Coverage\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "64bc72dd9f3e61547d1d83d1a77c9f85e93f4e38b9cfbfb8e3041623f750fea5",
+          "output_sha256": "64bc72dd9f3e61547d1d83d1a77c9f85e93f4e38b9cfbfb8e3041623f750fea5",
+          "source_output_equal": true,
+          "source_text_sha256": "24ec2dc06debc52b3b3576658ebc3d9ea20c45914249b25f45c68927ec0149ee",
+          "normalized_text_equal": true,
+          "bytes": 57705
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 6,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 7,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 6,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 6,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 7,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 6,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 6,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 6,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 7,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 129,
+        "solved_practice_workbook": 82,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 129,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 82,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10950
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

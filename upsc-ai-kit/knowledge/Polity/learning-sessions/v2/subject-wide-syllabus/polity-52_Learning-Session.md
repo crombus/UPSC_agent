@@ -2,14 +2,14 @@
 
 **Complete independent learning session + verified PYQ routing + solved practice workbook + final consolidated register notes**
 
-**Legal/current control date:** 25 August 2026 (Asia/Kolkata)
+**Legal/current control date:** 5 September 2026 (Asia/Kolkata)
 
 > **Tag key:** `[FACT]` = named constitutional, statutory, official, judicial or audited local support; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked for the control date; `[LIMIT]` = qualification.
 >
 > **Answer-writing discipline:** claim -> named evidence -> analysis -> qualification.
 
-- [CURRENT] Status is controlled to **25 August 2026, Asia/Kolkata**.
-- [CURRENT] **Live official refresh, 25 August 2026:** The Department of Legal Affairs NCRWC report gateway, the official Constitution/Supreme Court and Parliament portals, and the later legal instruments used in the implementation matrix were rechecked on 25 August 2026. The official report is a 2002 recommendation source; later similarity is not labelled implementation without instrument-specific support.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
+- [CURRENT] **Live official refresh, 5 September 2026:** The Department of Legal Affairs NCRWC report gateway, the official Constitution/Supreme Court and Parliament portals, and the later legal instruments used in the implementation matrix were rechecked on 5 September 2026. The official report is a 2002 recommendation source; later similarity is not labelled implementation without instrument-specific support.
 
 #### How to Use This Package
 
@@ -612,6 +612,41 @@ K.S. Puttaswamy (2017) -> privacy/dignity in modern governance.
 Navtej Singh Johar (2018) -> constitutional morality and transformation.
 
 [LIMIT] These are governing judicial developments, not proof that the Court implemented NCRWC.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Identity:** the NCRWC was constituted by Government of India resolution on
+  22 February 2000, chaired by former CJI M.N. Venkatachaliah, and remained an
+  executive, temporary and advisory body rather than a constitutional organ.
+- **Mandate boundary:** it reviewed fifty years of constitutional working
+  within parliamentary democracy and without disturbing basic structure. It
+  did not exercise original constituent power or Parliament's Article 368 power.
+- **Report control:** the eleven-member Commission adopted its report on
+  11 March 2002 and presented it on 31 March 2002. P.A. Sangma had resigned;
+  the secretary and advisory-panel participants were not additional members.
+- **Recommendation status:** the report's constitutional-amendment,
+  legislative and executive routes describe how recommendations might be
+  implemented. No recommendation became law by appearing in the report.
+- **Working framework:** constitutional performance must be tested through
+  text, statutes, institutions, conventions, parties, administration, federal
+  consultation, legislative deliberation, rights outcomes and effective remedies.
+- **Implementation method:** compare the exact recommendation with the later
+  instrument and classify it as exact, modified, related, rejected, overtaken
+  or pending. Similarity and sequence do not prove adoption or NCRWC causation.
+- **High-yield mismatch controls:** the NCRWC proposed a 10% ministry ceiling,
+  while the 91st Amendment uses 15%; its judicial commission was not the later
+  NJAC and is not the collegium; its ECI appointment and anti-defection routes
+  are not current law merely because reform debate continued.
+- **Current-law owners:** Articles 200-201, the Tenth Schedule, election law,
+  Parts IX/IXA, judicial appointments, RTI, Lokpal and disaster management must
+  be stated from their current constitutional/statutory sources, not the report.
+- **Evaluation:** the report remains valuable as a cross-institutional diagnosis
+  and reform menu, but selective constitutional maintenance requires democratic
+  legitimacy, feasibility, rights, federalism and basic-structure control.
+- **Official-source control, checked 5 September 2026:** the Department of
+  Legal Affairs and Inter-State Council portals remain the authoritative report
+  repositories. No official consolidated implementation notification gives the
+  report legal force. Routed constitutional-reform PYQs remain cross-owned.
 
 ## BASIC MCQS / REMEDIATION
 
@@ -1417,7 +1452,7 @@ reviewability.
 
 ### NCRWC and Working of the Constitution: Rapid Constitutional Recall
 
-- **Current-control rule:** The Department of Legal Affairs NCRWC report gateway, the official Constitution/Supreme Court and Parliament portals, and the later legal instruments used in the implementation matrix were rechecked on 25 August 2026. The official report is a 2002 recommendation source; later similarity is not labelled implementation without instrument-specific support.
+- **Current-control rule:** The Department of Legal Affairs NCRWC report gateway, the official Constitution/Supreme Court and Parliament portals, and the later legal instruments used in the implementation matrix were rechecked on 5 September 2026. The official report is a 2002 recommendation source; later similarity is not labelled implementation without instrument-specific support.
 - **Factual caveat:** The NCRWC was an executive, temporary, advisory commission established in 2000 under Justice M.N. Venkatachaliah. Its 2002 recommendations are not law. Every implementation claim is proposal-specific; working of the Constitution includes institutions, conventions, political practice, capacity and remedies.
 
 #### 1. Identity and mandate

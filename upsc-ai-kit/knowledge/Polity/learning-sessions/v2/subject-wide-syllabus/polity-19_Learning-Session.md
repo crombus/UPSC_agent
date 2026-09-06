@@ -1269,6 +1269,49 @@ VERDICT
 5. **Ordinance:** Article 213 urgency -> laying/six weeks -> *Wadhwa* -> *Krishna Kumar Singh* -> emergency bridge, not bypass.
 6. **CM/CoM:** Articles 163-164 -> Assembly confidence -> Article 167 -> 91st Amendment cap -> real-executive verdict.
 
+### Semantic-completeness ownership and PYQ control
+
+- **Office map:** Articles 153-162 govern the Governor and State executive power;
+  Articles 163-164 govern advice, discretion, ministers and responsibility;
+  Articles 165-167 govern the Advocate General, business and the Chief Minister's
+  information duties. Article 361 immunity protects the person, not unlawful State action.
+- **Advice and discretion:** Shamsher Singh makes ministerial advice the default.
+  Express or necessarily implied exceptions remain narrow: specified Article 200
+  choices, government formation, objective floor-test situations, Article 356
+  reporting and specially worded constitutional responsibilities.
+- **Formation and confidence:** the Governor invites the person most likely to
+  command Assembly confidence and uses an early floor test where objective doubt
+  exists. Bommai, Rameshwar Prasad and Subhash Desai reject subjective arithmetic,
+  speculative dissolution and use of a floor test to settle an internal party dispute.
+- **Tenure and neutrality:** Article 156 pleasure does not make the Governor a
+  Union employee. B.P. Singhal bars arbitrary, capricious or mala fide removal;
+  Sarkaria, Punchhi and NCRWC proposals remain reform recommendations, not law.
+- **Article 200 current rule:** Special Reference No. 1 of 2025 identifies three
+  options—assent, reserve, or withhold and return a non-Money Bill with comments.
+  The Governor chooses among them in discretion and is not bound by State-Cabinet
+  advice for that choice. Merits review, rigid timelines and deemed assent are
+  unavailable; prolonged, unexplained and indefinite inaction permits only a
+  limited mandamus to discharge the function within a reasonable time.
+- **Article 201:** Presidential assent/withholding is not merits-justiciable and
+  carries no court-created deadline. The President need not seek Article 143
+  advice whenever a Bill is reserved, and courts cannot adjudicate a Bill's
+  contents before it becomes law.
+- **Ordinance:** Article 213 requires the relevant House or Houses not to be in
+  session and immediate action. D.C. Wadhwa and Krishna Kumar Singh condemn
+  routine re-promulgation, require laying and preserve judicial review of satisfaction.
+- **Clemency correction:** Article 161 is controlled by the offence-law nexus to
+  State executive power; it can include pardon of a death sentence within that
+  field. Unlike Article 72, it has no court-martial limb and no separate power over
+  every death sentence regardless of legislative field. Maru Ram, State of Haryana
+  v. Raj Kumar @ Bittu and A.G. Perarivalan make Cabinet advice binding and delay reviewable.
+- **Chief Minister and Council:** Article 164 appointment and collective
+  responsibility run to the Legislative Assembly. Article 164(1A) caps ministers
+  at fifteen per cent of Assembly strength with a minimum of twelve; clause (1B)
+  bars defectors. Article 167 parallels the Union Article 78 information bridge.
+- **Four-ledger/PYQ control:** all direct and supporting 2018-2025 Governor,
+  ordinance, defection, assent and federal-neutrality demands were reconciled;
+  State-legislature procedure remains owned by Topic 20.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Original MCQ loop - strict A -> B -> C -> D rotation
@@ -2193,7 +2236,7 @@ Article 213 permits an ordinance when the session condition is met and immediate
 
 **Claim:** [FACT] Articles 72 and 161 create parallel humanitarian powers, but presidential jurisdiction is broader.
 
-**Comparison:** The President may grant pardon, reprieve, respite, remission or commutation in court-martial cases, Union-field offences and every death sentence. The Governor acts for offences against laws within State executive power. The Governor has no court-martial jurisdiction and cannot pardon a death sentence, though suspension, remission or commutation of that sentence is possible.
+**Comparison:** The President may grant pardon, reprieve, respite, remission or commutation in court-martial cases, Union-field offences and every death sentence. The Governor acts for offences against laws within State executive power. The Governor has no court-martial jurisdiction but may pardon a death sentence where the offence-law nexus lies within State executive power.
 
 **Named evidence:** *Maru Ram* establishes that clemency is exercised on ministerial advice, defeating the notion of personal mercy. *Kehar Singh*, in the presidential context, shows that the executive may reconsider merits without becoming an appellate court. *Epuru Sudhakar* permits limited review for mala fides, arbitrariness, non-application of mind and relevant/irrelevant-material defects.
 
@@ -2774,7 +2817,7 @@ Articles 163-164 -> Assembly responsibility
 19. Prolonged unexplained indefinite inaction remains reviewable.
 20. Article 213 ordinances must be laid.
 21. Serial re-promulgation is unconstitutional.
-22. Governor cannot pardon death sentence but may suspend/remit/commute.
+22. Governor may pardon a death sentence within the State offence-law field; court-martial remains outside Article 161.
 23. Governor has no court-martial clemency.
 24. CM non-member window is six consecutive months.
 25. Six-month rule cannot cure disqualification.

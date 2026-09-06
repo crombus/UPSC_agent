@@ -151,3 +151,48 @@ into the bureaucracy remains a live debate on the merit system.
 - ✅ The **JSPSC is statutory**, not constitutional; the SPSC retirement age is **62**, not 65.
 - ✅ Art 319's bar does not cover a **constitutional office** (Governor) — cite the exact scope, not a blanket ban.
 - 📰 The **Puja Khedkar** verification controversy (2024) and **lateral entry** are current debates — tag them as current and verify status before dating.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional map:** Articles 315-323 separately govern establishment,
+  appointment/tenure, removal/suspension, service conditions, post-office bars,
+  functions, extension of functions, charged expenditure and annual reporting
+  for the UPSC, SPSCs and Joint State Public Service Commissions.
+- **Composition:** the Constitution fixes no numerical strength. The President
+  appoints UPSC and Joint Commission members and determines their number/service
+  conditions under Article 318; the Governor performs the corresponding SPSC
+  functions. As nearly as may be, one-half of members must have held government
+  office for at least ten years.
+- **Current UPSC control:** the official UPSC Commission page, last updated
+  3 September 2026 and rechecked 5 September 2026, identifies Dr Ajay Kumar as
+  Chairman. The package does not freeze an unsupported full roster or a
+  constitutionally fixed member count.
+- **Tenure and acting chair:** Article 316 gives six years subject to age
+  sixty-five for UPSC and sixty-two for SPSC/Joint Commission members. The
+  President or Governor, as applicable, may appoint a member as acting chair.
+- **Removal/suspension precision:** only the President removes any PSC member.
+  Misbehaviour requires a presidential reference, Supreme Court inquiry and
+  recommendation under Article 317(1). Pending inquiry, the President may
+  suspend a UPSC or Joint Commission member, while the Governor may suspend an
+  SPSC member. Article 317(3)-(4) contains the separate objective/deemed grounds.
+- **Post-office and finance:** Article 319's eligibility bars are office-specific
+  and do not mean one blanket ban. Article 322 charges UPSC/Joint Commission
+  expenses on the Consolidated Fund of India and SPSC expenses on the
+  Consolidated Fund of the State.
+- **Functions and exclusions:** Article 320 covers examinations, recruitment
+  methods, appointments/promotions/transfers and disciplinary/claim advice.
+  Article 320(4) excludes consultation on Article 16(4) and Article 335 matters;
+  the proviso to Article 320(3) authorises valid exemption regulations.
+- **Judicial rule:** State of U.P. v Manbodhan Lal Srivastava (1957) holds
+  Article 320(3)(c) consultation directory: non-consultation does not by itself
+  invalidate action or confer a cause of action. Advice remains institutionally
+  important and Article 323 requires reports plus reasons for non-acceptance.
+- **Recruitment rule:** selection/recommendation does not itself create an
+  indefeasible right to appointment. Tej Prakash Pathak (2024 INSC 847) supplies
+  the current Constitution-Bench control against arbitrary mid-process changes
+  to recruitment rules, subject to the governing rules and non-arbitrariness.
+- **Institution firewall:** UPSC/SPSC recruitment and advice are distinct from
+  DoPT cadre administration, the Public Examinations Act integrity framework,
+  tribunals, Election Commissions and Finance Commissions. A Joint State PSC
+  follows State resolutions and parliamentary law; it is not a permanent third
+  constitutionally mandated tier.

@@ -1270,6 +1270,30 @@ distinguishing ST/PVTG conditions.
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Scheduled Tribe and PVTG policy must connect land, forest, habitat, livelihood, culture, health, education, displacement, self-governance and consent while respecting major regional differences among central Indian, Northeast, Himalayan, island and pastoral communities.
+- **Indispensable distinction and prerequisite taxonomy:** Scheduled Tribe, PVTG, forest dweller and indigenous people are not interchangeable legal categories; Fifth Schedule, Sixth Schedule, PESA and Forest Rights Act have distinct territories, institutions and rights, and welfare delivery is not self-governance.
+- **Mechanism, implementation and evidence control:** Use Gram Sabha, habitat/community forest rights, NCST, EMRS and PM-JANMAN only with exact status and scope; map recognition, evidence, claim, verification, appeal, consent/consultation, displacement safeguards and outcomes without homogenising tribes.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 2026-09-06: the Ministry of Tribal Affairs, NCST and official FRA materials remain authoritative; ST, PVTG and forest-rights categories, territorial regimes, claim recognition and implementation outcomes must not be conflated. Sources: https://tribal.nic.in/; https://ncst.nic.in/; https://tribal.nic.in/FRA.aspx
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Social Justice owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/social justice taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** No General Studies Mains demand is routed to this owner in the audited routing ledgers, and exactly two objective demands are, so the ownership statement is a mixed one and is reported precisely. The two routed objective demands are 2019 Prelims General Studies Paper I Question 51 on the criteria for particularly vulnerable tribal groups in India and 2021 Prelims General Studies Paper I Question 84 on the nodal ministry for the Forest Rights Act, 2006, both recorded in the audited 2018-2023 Prelims routing ledger, which states expressly that the official 2018-2023 Prelims keys are not held locally, so no option, key or inferred answer is recorded for either demand and neither is converted into a solved question; both are instead covered as taught content, the four identification criteria being stated in full and the administering ministry being identified from its own official page. No Mains demand card is manufactured for this topic. The Basic and Advanced owners both discuss the 2025 General Studies Paper I question asking whether tribal development in India centres around the two axes of displacement and rehabilitation, but the audited 2024-2025 Mains routing ledger routes that question to the Indian Society owner, so no demand card is created for it here and no ownership is claimed over it; the same ledger routes the 2021 and 2022 General Studies Paper I demands on tribal knowledge systems and tribal diversity to that owner, the 2023 colonial-rule-and-tribals demand to the Modern History owner, and the Fifth Schedule, Scheduled Area and forest-rights objective demands of 2018, 2019, 2022, 2023, 2024 and 2025 to the Polity and Environment owners, so none of those is claimed either. The practice in this package therefore consists of six original Mains questions with model solutions, each written to the repository's examiner-grade standard using the claim, named evidence, analysis and qualification pattern, together with eighty original objective questions on a strict A-B-C-D rotation. Each model solution opens with its analytical claim so that the evidence which follows does argumentative rather than decorative work. The locally held OCR-searchable official General Studies papers were read only to confirm that no Mains question on this owner's subject matter is routed here; no question was invented from them, no marking scheme or page precision was imported and no official answer key is claimed anywhere in this package.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies What this owner holds and the demands routed to it?

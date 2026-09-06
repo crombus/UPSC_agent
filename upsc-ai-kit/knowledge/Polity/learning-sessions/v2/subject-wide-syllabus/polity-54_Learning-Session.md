@@ -2,14 +2,14 @@
 
 **Complete independent learning session + verified PYQ routing + solved practice workbook + final consolidated register notes**
 
-**Legal/current control date:** 25 August 2026 (Asia/Kolkata)
+**Legal/current control date:** 5 September 2026 (Asia/Kolkata)
 
 > **Tag key:** `[FACT]` = named constitutional, statutory, official, judicial or audited local support; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked for the control date; `[LIMIT]` = qualification.
 >
 > **Answer-writing discipline:** claim -> named evidence -> analysis -> qualification.
 
-- [CURRENT] Status is controlled to **25 August 2026, Asia/Kolkata**.
-- [CURRENT] **Live official refresh, 25 August 2026:** NALSA, the Department of Justice and India Code sources for the Legal Services Authorities Act 1987, Gram Nyayalayas Act 2008 and Mediation Act 2023 were rechecked on 25 August 2026. No notification-sensitive pecuniary ceiling, operational court count or commencement assumption is frozen.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
+- [CURRENT] **Live official refresh, 5 September 2026:** NALSA, the Department of Justice and India Code sources for the Legal Services Authorities Act 1987, Gram Nyayalayas Act 2008 and Mediation Act 2023 were rechecked on 5 September 2026. No notification-sensitive pecuniary ceiling, operational court count or commencement assumption is frozen.
 
 #### How to Use This Package
 
@@ -644,6 +644,46 @@ Fast Track/Evening Courts -> capacity or scheduling designs, not new constitutio
 Special Court -> exact parent statute controls jurisdiction and appeal.
 
 [LIMIT] A label never answers consent, merits power, appeal or review by itself.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional anchor:** Article 39A directs equal-opportunity justice and
+  free legal aid. Article 21 jurisprudence supplies fair-procedure and speedy-
+  justice reinforcement; Article 39A does not itself create every forum.
+- **Institutional ladder:** the Legal Services Authorities Act, 1987 creates
+  NALSA, the Supreme Court Committee, SLSAs, High Court Committees, DLSAs and
+  Taluk Committees. Section 12 combines status-based vulnerability categories
+  with prescribed income eligibility and a prima-facie-case gate.
+- **Ordinary Lok Adalat:** it handles pending or pre-litigation matters within
+  court jurisdiction, excluding non-compoundable offences, and can only
+  facilitate compromise. Jalour Singh confirms that failure of settlement
+  returns the matter to the ordinary route; no merits award may be imposed.
+- **Ordinary award:** a genuine settlement award is deemed a civil-court
+  decree, final and binding with no statutory appeal. Finality does not cure
+  fraud, absence of consent, jurisdictional error or constitutional illegality.
+- **Permanent Lok Adalat:** Chapter VI-A creates a standing pre-litigation
+  public-utility forum. It conciliates first and, after failed conciliation, may
+  decide an eligible dispute on merits within statutory exclusions and the
+  currently notified pecuniary framework.
+- **Court firewall:** Gram Nyayalayas and Family Courts are statutory courts
+  capable of adjudication with defined appeal routes. Fast-track courts are
+  capacity schemes; special and commercial courts derive jurisdiction from
+  their parent law. Labels do not determine constitutional status.
+- **ADR firewall:** mediation produces a party-made settlement, arbitration an
+  adjudicatory award, ordinary Lok Adalat a compromise award, and Permanent Lok
+  Adalat a limited post-conciliation merits decision. Consent and review differ.
+- **Mediation commencement:** S.O. 4384(E) commenced only sections 1, 3, 26,
+  31-38, 45-47, 50-54 and 56-57 on 9 October 2023. Unnotified sections must not
+  be described as fully operative.
+- **2026 institutional update:** S.O. 4781(E), dated 27 August 2026, established
+  the Mediation Council of India under section 31(1), with head office at Delhi.
+  Establishment does not retrospectively commence every provision of the Act.
+- **Implementation control:** Gram Nyayalaya, Family Court, Lok Adalat and legal
+  aid counts are date-sensitive. Access must be evaluated through voluntariness,
+  counsel quality, staffing, distance, digital inclusion, reasons and review.
+- **Official-source control, checked 5 September 2026:** NALSA, India Code,
+  Department of Justice, Parliament and Gazette sources control. The verified
+  2020, 2023 and 2024 demands remain routed without inventing an official key.
 
 ## BASIC MCQS / REMEDIATION
 
@@ -1427,7 +1467,7 @@ Evaluate access institutions by:
 
 ### Lok Adalats and Other Courts: Rapid Constitutional Recall
 
-- **Current-control rule:** NALSA, the Department of Justice and India Code sources for the Legal Services Authorities Act 1987, Gram Nyayalayas Act 2008 and Mediation Act 2023 were rechecked on 25 August 2026. No notification-sensitive pecuniary ceiling, operational court count or commencement assumption is frozen.
+- **Current-control rule:** NALSA, the Department of Justice and India Code sources for the Legal Services Authorities Act 1987, Gram Nyayalayas Act 2008 and Mediation Act 2023 were rechecked on 5 September 2026. No notification-sensitive pecuniary ceiling, operational court count or commencement assumption is frozen.
 - **Factual caveat:** Ordinary Lok Adalats settle only by compromise and cannot decide merits. Permanent Lok Adalats are pre-litigation public-utility bodies that conciliate first and may then decide an eligible dispute. Courts, tribunals, mediation, schemes and operational Lok Adalat formats remain legally distinct.
 
 #### 1. Constitutional anchor: access to justice

@@ -1244,6 +1244,30 @@ fiscal design and data rights.
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Labour social security must cover lifecycle and work-related risks across organised, unorganised, migrant, self-employed and platform/gig work, with registration, contribution, benefit portability, financing and enforceable responsibility.
+- **Indispensable distinction and prerequisite taxonomy:** Gig worker is not necessarily an employee, platform registration is not social-security coverage, a code's enactment is not the same as commencement of every provision, occupational welfare is not identical to contributory insurance, and formalisation is not just digitisation.
+- **Mechanism, implementation and evidence control:** Use labour codes only with notified/operative status, e-Shram, EPFO/ESIC and state welfare boards with exact coverage; map worker, aggregator/employer, board, government and grievance roles plus eligibility, contribution, portability, claim, appeal and adequacy.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 2026-09-06: the Labour Ministry, e-Shram, EPFO and ESIC remain authoritative; enactment, commencement, registration, contribution, eligibility, claim access, portability and adequacy must be qualified separately. Sources: https://labour.gov.in/labour-codes; https://eshram.gov.in/; https://www.epfindia.gov.in/; https://www.esic.gov.in/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Social Justice owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/social justice taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** This owner's previous-year record is a verified objective ownership rather than a Mains ownership, and it is stated precisely together with the boundary of what is claimed. The audited 2024-2025 Prelims routing ledger routes exactly one demand here, question 100 of the 2024 Prelims General Studies Paper I on Pradhan Mantri Shram Yogi Maan-dhan, the pension scheme for unorganised workers, and that ledger records expressly that although the official Set-A answer key is available locally the answer is not recorded there; the Basic owner's own generated integration block applies the same rule and states that it does not convert an unkeyed or answer-free objective question into a solved answer. This package therefore records no option, no key and no inferred answer letter for that question anywhere, and discharges the owner requirement by teaching the scheme's voluntary and contributory character, its matching-contribution structure, its monthly pension of three thousand rupees after the age of sixty subject to scheme conditions, and its statement-level distinction from a registration database. No Mains demand is claimed: the audited 2018-2023 and 2024-2025 Mains routing ledgers route no General Studies Paper II question to this owner, and both the Basic and the Advanced owner state expressly that the 2024 General Studies Paper III question on the Labour Codes is analysed in the Economy employment and labour-codes owner rather than here, so that demand is not reproduced, solved or counted as this owner's ownership and no year, paper, question number, directive, mark value or word limit is asserted for it. The 2021 General Studies Paper I demand on the gig economy and the empowerment of women is routed by the audited ledger to the Indian Society women and women's organisations owner and is likewise not claimed here. Because no solved Mains demand card is available, the package supplies six original Mains questions with model solutions and eighty original objective questions on a strict A-B-C-D rotation, each model solution opening with its analytical claim so that the evidence which follows does argumentative rather than decorative work. The locally held OCR-searchable official General Studies papers were read only to confirm that no routed Mains demand for this owner appears in them; no question was invented from them, no marking scheme or page precision was imported and no official answer key is claimed for any question anywhere in this package.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies What this owner holds and how its routed demand is bounded?

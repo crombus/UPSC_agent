@@ -170,13 +170,13 @@ shrinking the divisible pool remains a live states'-grievance debate.
 | Divisible pool base | Devolution applies to **Art 270** net proceeds — **not** to cess/surcharge (Art 271) or non-tax revenue |
 | Who constitutes / qualifications | The **President** constitutes the FC (Art 280); **Parliament** prescribes the members' qualifications and manner of selection |
 | Local-body grants | The FC recommends grants to **panchayats and municipalities** to augment State funds (**Art 280(3)(bb)/(c)**) — distinct from the **State FC** (Art 243-I/243-Y) |
-| **Recommendations of the 15th Finance Commission** | ✅ Vertical share **41%** of the divisible pool (retained by the 16th FC); ✅ horizontal criteria and weights — **income distance 45%, population (2011) 15%, area 15%, demographic performance 12.5%, forest & ecology 10%, tax and fiscal effort 2.5%** (📰 sourced from the **16th FC's side-by-side comparison**, verified against the official FC-16 report and Explanatory Memorandum on **28 Aug 2026**); it also recommended local-body, health-sector and disaster-management grants. ⚠️ Cite the weights from §5.6's sourced table, not from memory, and do **not** assert its chair unless certain |
+| **Recommendations of the 15th Finance Commission** | ✅ Vertical share **41%** of the divisible pool (retained by the 16th FC); ✅ horizontal criteria and weights — **income distance 45%, population (2011) 15%, area 15%, demographic performance 12.5%, forest & ecology 10%, tax and fiscal effort 2.5%** (📰 sourced from the **16th FC's side-by-side comparison**, verified against the official FC-16 report and Explanatory Memorandum on **5 Sep 2026**); it also recommended local-body, health-sector and disaster-management grants. ⚠️ Cite the weights from §5.6's sourced table, not from memory, and do **not** assert its chair unless certain |
 
 ### 5.12 Factual-risk and current-status controls
 
 - ✅ **Composition is Chairman + 4 members**; **qualifications are prescribed by Parliament**; advice is **advisory**.
 - ✅ The **15th and 16th FC vertical share of 41%** is supported; the **16th FC (Arvind Panagariya)** award runs **2026–31**, effective **1 April 2026**. 📰 Verify any award figure before dating it.
-- ✅ **The former prohibition on stating 15th FC horizontal weights is now CLOSED.** 📰 The **16th FC report presents the two awards side by side** (verified against the official FC-16 report and Explanatory Memorandum on **28 Aug 2026**), so §5.6 carries a sourced comparison: **income distance 45% → 42.5%**, **population (2011) 15% → 17.5%**, **demographic performance 12.5% → 10%**, **area 15% → 10%**, **forest & ecology 10% → 10%**, **tax and fiscal effort 2.5% → dropped**, **contribution to GDP — → 10%**. ⚠️ Cite **only** from that table; do **not** reconstruct any weight from memory, do **not** attribute these weights to the **14th** FC, and do **not** convert them into State-wise rupee or share figures.
+- ✅ **The former prohibition on stating 15th FC horizontal weights is now CLOSED.** 📰 The **16th FC report presents the two awards side by side** (verified against the official FC-16 report and Explanatory Memorandum on **5 Sep 2026**), so §5.6 carries a sourced comparison: **income distance 45% → 42.5%**, **population (2011) 15% → 17.5%**, **demographic performance 12.5% → 10%**, **area 15% → 10%**, **forest & ecology 10% → 10%**, **tax and fiscal effort 2.5% → dropped**, **contribution to GDP — → 10%**. ⚠️ Cite **only** from that table; do **not** reconstruct any weight from memory, do **not** attribute these weights to the **14th** FC, and do **not** convert them into State-wise rupee or share figures.
 - ✅ **Fourteenth Finance Commission vertical devolution:** the official report raised the collective States’ share from **32% to 42%** for 2015–20. Do not reconstruct its horizontal weights without the report.
 - ✅ **Cess and surcharge are excluded from the divisible pool** — do not treat them as shareable.
 - ✅ **Art 275 (statutory) ≠ Art 282 (discretionary)**; the Planning Commission was **non-constitutional**, replaced by **NITI Aayog in 2015**, which has **no fund-allocation role**.
@@ -202,3 +202,46 @@ shrinking the divisible pool remains a live states'-grievance debate.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional map:** Article 280 requires a Finance Commission every fifth
+  year or earlier, consisting of a Chairman and four other members appointed by
+  the President. Article 281 requires the report and an explanatory memorandum
+  on action taken to be laid before Parliament.
+- **Statutory qualifications:** the Finance Commission (Miscellaneous Provisions)
+  Act, 1951 requires public-affairs experience for the Chairman and draws the
+  four members from High-Court judicial qualification, government finance and
+  accounts, financial administration and economics. Disqualification and
+  financial-interest safeguards are statutory, not invented constitutional text.
+- **Current composition:** the Sixteenth Finance Commission was chaired by
+  Dr Arvind Panagariya, with full-time members Annie George Mathew and Dr Manoj
+  Panda and part-time members T. Rabi Sankar and Dr Soumya Kanti Ghosh. It was
+  constituted on 31 December 2023 and submitted its report on 17 November 2025.
+- **Vertical devolution:** the February 2026 Explanatory Memorandum records
+  Government acceptance of the Commission's recommendation to retain States'
+  share at 41 per cent of Article 270 net proceeds for 2026-27 to 2030-31.
+  This is not 41 per cent of gross Union tax revenue.
+- **Horizontal formula:** the accepted formula assigns 42.5 per cent to per-
+  capita GSDP distance, 17.5 per cent to 2011 population and 10 per cent each
+  to demographic performance, area, forest and contribution to GDP. The last
+  criterion is new; tax/fiscal effort is not a separate Sixteenth-FC weight.
+- **Grant status:** no revenue-deficit, sector-specific or State-specific grants
+  were recommended. Government took note of that assessment. The accepted
+  local-body design totals Rs 7,91,493 crore over five years; the accepted
+  State disaster-fund corpus totals Rs 2,04,401 crore. These are award envelopes,
+  not annual releases.
+- **Local bodies:** Article 280(3)(bb) and (c) concern augmentation of State
+  Consolidated Funds on the basis of State Finance Commission recommendations.
+  The national Finance Commission does not replace Articles 243-I and 243-Y SFCs.
+- **Divisible-pool firewall:** Article 279 defines net proceeds and makes the
+  CAG certificate final; Article 270 governs sharing; Article 271 surcharges
+  and applicable specific-purpose cesses remain outside the divisible pool.
+  Article 275 grants and Article 282 discretionary public-purpose grants are distinct.
+- **Advisory status:** Finance Commission recommendations are not judicial
+  decrees. Recommendation, Government acceptance, presidential order, budgetary
+  provision, release and expenditure are separate stages.
+- **Institution/PYQ firewall:** the Article 280 Finance Commission is distinct
+  from the GST Council, NITI Aayog and State Finance Commissions. Direct 2018
+  constitution/terms-of-reference and 2020 fiscal-position Mains demands and
+  routed 2023/2025 objective demands retain their verified ownership and key status.

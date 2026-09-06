@@ -1275,6 +1275,30 @@ long-term-care finance, gender and rural-urban variation.
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Ageing policy must integrate income security, health and long-term care, housing, accessibility, protection from abuse, legal capacity, social participation and caregiver support while recognising gender, widowhood, disability, rurality and class differences.
+- **Indispensable distinction and prerequisite taxonomy:** Senior citizen is a statutory or programme category, not a homogeneous condition; pension coverage is not adequacy, family maintenance duty is not a substitute for public responsibility, and institutional care is not the default solution.
+- **Mechanism, implementation and evidence control:** Use the Maintenance and Welfare of Parents and Senior Citizens Act, NSAP pensions, health programmes and demographic data with exact age, date and denominator; map access, portability, abuse reporting, tribunals, community care, grievance and outcomes.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 2026-09-06: the Department, NSAP and MoSPI remain official sources; statutory maintenance, programme eligibility, pension coverage, adequacy, care access and demographic estimates require exact scope and date. Sources: https://socialjustice.gov.in/schemes/37; https://nsap.nic.in/; https://mospi.gov.in/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Social Justice owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/social justice taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** This owner's previous-year record is a verified one rather than a zero, and it is stated precisely together with the boundary of what is claimed. The audited 2018-2023 Mains routing ledger routes exactly one General Studies Mains demand here, the 2020 General Studies Paper II question numbered 6 on health policies for geriatric and maternal care, with the directive Discuss, ten marks and one hundred and fifty words, and it records the ownership as cross-cutting between this owner and the health-systems and universal-health-coverage owner because the question names two distinct care domains. The Basic owner's answer architecture records the division in the same terms, stating that the elderly-care half of that demand is owned here and supersedes the older Advanced ownership. This package therefore solves the geriatric limb of that demand with a model answer written to the repository's examiner-grade standard using the claim, named evidence, analysis and qualification pattern, and states expressly in the demand card that the maternal-care limb belongs to the health-systems owner and is not claimed here, so that the same question is not double-counted as two independent ownerships. No other Mains or objective demand is claimed: the audited 2024-2025 Mains and Prelims routing ledgers route none to this owner, both the Basic and the Advanced owner state independently that no confirmed direct 2024 or 2025 General Studies Paper II Mains question specifically on elderly welfare exists in the audited local texts, and the 2018 General Studies Paper IV case study involving a district officer and an elderly couple seeking a senior-citizen healthcare scheme is routed by the audited ledger to the Ethics case-study and public-service-values owners, so it is not claimed here either. Alongside the solved demand card, the package adds six original Mains questions with model solutions and eighty original objective questions on a strict A-B-C-D rotation. Each model solution opens with its analytical claim so that the evidence which follows does argumentative rather than decorative work. The locally held OCR-searchable official General Studies papers were read only to confirm the printed wording of the routed Mains demand; no question was invented from them, no marking scheme or page precision was imported and no official answer key is claimed for any question anywhere in this package.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies What this owner holds and how its routed demand is divided?

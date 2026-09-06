@@ -1288,6 +1288,30 @@ privacy, federalism, capacity, local institutions and distributional impact.
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Scheme performance requires a theory of change from need and entitlement through finance, institution, frontline process and output to outcome and impact, with convergence, participation, grievance, social audit and course correction.
+- **Indispensable distinction and prerequisite taxonomy:** Allocation is not release, expenditure is not output, output is not outcome, coverage is not adequacy, dashboard is not evaluation, inclusion error adds ineligible persons while exclusion error leaves eligible persons out, and correlation is not attributable impact.
+- **Mechanism, implementation and evidence control:** Use SECC/Census/survey data, DBT, portability, DMEO and named scheme evaluations with source, reference period, denominator and status; test universalism-targeting trade-offs, data minimisation, privacy, authentication failure, federal fragmentation and beneficiary voice.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 2026-09-06: DMEO, DBT Bharat and PFMS remain official sources; allocation, release, expenditure, output, outcome, impact, inclusion error, exclusion error and attribution require separate evidence. Sources: https://dmeo.gov.in/; https://dbtbharat.gov.in/; https://pfms.nic.in/SitePages/aboutus.aspx
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Social Justice owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/social justice taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** This owner's previous-year record is a verified Mains ownership of exactly two demands, and it is stated precisely together with the boundary of what is claimed. The audited 2018-2023 Mains routing ledger routes the 2019 General Studies Paper II question numbered 18 here, whose printed wording states that the performance of welfare schemes that are implemented for vulnerable sections is not so effective due to the absence of their awareness and active involvement at all stages of the policy process, with the directive Discuss, fifteen marks and two hundred and fifty words; and it routes the 2023 General Studies Paper II question numbered 17 here, whose printed wording states that development and welfare schemes for the vulnerable, by their nature, are discriminatory in approach and asks whether the candidate agrees and to give reasons for the answer, with fifteen marks and two hundred and fifty words. For both the ledger records that the core route supersedes the older Advanced ownership, and the Basic owner's answer architecture records the same ownership in the same terms. Both demands are therefore solved in this package with model answers written to the repository's examiner-grade standard using the claim, named evidence, analysis and qualification pattern. No further demand is claimed: the audited 2024-2025 Mains routing ledger and the audited 2018-2023, 2024-2025 and 2026 Prelims routing ledgers route no additional question to this owner, and both the Basic and the Advanced owner state independently that no General Studies Paper II question in the audited 2024-2025 papers directly names the social-assistance umbrella, the targeting database or convergence. Alongside the two solved demand cards, the package adds six original Mains questions with model solutions and eighty original objective questions on a strict A-B-C-D rotation, each model solution opening with its analytical claim so that the evidence which follows does argumentative rather than decorative work. The locally held OCR-searchable official General Studies papers were read only to confirm the printed wording of the two routed Mains demands; no question was invented from them, no marking scheme or page precision was imported and no official answer key is claimed for any question anywhere in this package.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies What this capstone owner holds and which demands are routed to it?

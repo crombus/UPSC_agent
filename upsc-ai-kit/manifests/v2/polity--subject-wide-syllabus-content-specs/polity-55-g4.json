@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-55",
+  "title": "Constitutional Interpretation Doctrines",
+  "generation": 4,
+  "generation_date": "2026-09-05",
+  "approval": false,
+  "review_state": "passed",
+  "baseline_record_id": "polity-55:learner-v2:g3",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\55_Constitutional-Interpretation-Doctrines.md",
+  "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+  "pyq_ledgers": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+  ],
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\55_Constitutional-Interpretation-Doctrines.md": "977fd9c87777ed0ec26757f576938e7355e9b0827e4f3201d718abe33db9e9d6",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md": "08e5c6cb6a6e1bf01e6d21edd24d0871bae90ede9acff5998b156287ae56da22",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Centre-State-Relations.md": "b67671cf66783396a79ac7767ca3118f443c3dbe4085ab89fb59d7c9d0c60ff0",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md": "4482fda6f6717e70c19efe7df93a52977e1a4b46456f0d4980125cb552e2b5a7",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md": "20a345dfecb6e014df0d21af04c8015c68b9de579f2bdcec7006e6edcf71e57c",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Duties.md": "94972aabd488b0790b16ba3557a5f425f197e907aef15df5740b21f9b605fd2d",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md": "0e917838b5ce6168b85bc6d986699728c10600d6010ff2bf303caf41b0729b4f",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\High-Court.md": "61707bf1d65c4a8a1dd2adf5025a562bba7ab8f92b89fdde89f01d7b001bf27d",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Supreme-Court.md": "ac05a06d4ed198b9fa6f1aaf1f6b19ae1fd68397275d9b467c1f88d5bc90e10d",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "fecfb9e4a78671056ff154eb37c92412a47f77baaffa362f6cbe0c9b610fee50",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md": "8a2559da77f8dd12061f510946d689be7ffdae32b79752cfe0980e657f76176d"
+  },
+  "coverage_contract": {
+    "complete_core_before_advanced": true,
+    "evidence_classes_distinguished": true,
+    "contested_claims_qualified": true,
+    "all_solved_answers_exam_executable": true,
+    "strict_mcq_rotation": true,
+    "graphical_and_ascii_independently_complete": true,
+    "current_examples_source_dated": true
+  },
+  "repairs": [
+    "Hostile four-ledger ownership/PYQ control is absent.",
+    "Authoritative current-law source status is not dated."
+  ],
+  "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\g4\\polity-55_Complete-Learning-Session_2026-09-05.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\g4\\polity-55_Solved-Practice-Workbook_2026-09-05.md",
+  "live_official_sources": [
+    "https://legislative.gov.in/document/constitution-of-india-in-english",
+    "https://www.sci.gov.in/latest-judgements/",
+    "https://scr.sci.gov.in/",
+    "https://verdictfinder.sci.gov.in/",
+    "https://scdg.sci.gov.in/"
+  ],
+  "current_status_control": "Rechecked 2026-09-05: no located 2025-26 official judgment displaced the established doctrine map. The essential-religious-practices nine-judge reference remains pending and is not represented as a final holding.",
+  "live_sources_rechecked_on": "2026-09-05"
+}

@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "indian-society-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_society_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-society-06",
+      "display_title": "Population and Associated Issues",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Population as a social process",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "ENTRY -> schooling, marriage timing, desired family size, son preference",
+            "SERVICES -> contraceptive access and maternal and child health provision",
+            "EXCLUDED -> stage-based transition model and dividend theory owned by Geography",
+            "OUTPUT -> a social explanation, not a model recital",
+            "MUST REMEMBER: Population analysis separates size, growth, fertility, mortality, age",
+            "  structure, sex composition, density, distribution, migration and human capability;",
+            "  demographic transition and dividend are conditional processes shaped by health, education,",
+            "  gender agency and employment."
+          ],
+          "source_references": [
+            "How population becomes a social question",
+            "The determinant set behind fertility",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Determinant interaction",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "EDUCATION -> later marriage plus contraceptive knowledge and wider options",
+            "MARRIAGE TIMING -> compressed reproductive window, better maternal outcomes",
+            "COST OF CHILDREN -> urban housing, schooling and foregone earnings",
+            "RULE -> determinants interact; no single factor is the sole cause"
+          ],
+          "source_references": [
+            "Women's education as the central pathway",
+            "Marriage timing and the reproductive window",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Attitude and metric",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SON PREFERENCE -> attitude rooted in inheritance and old-age expectations",
+            "SEX RATIO AT BIRTH -> the measurable demographic outcome",
+            "COEXISTENCE -> smaller desired family size with continued son-seeking",
+            "OWNERSHIP -> sex-selection law belongs to Social Justice and Polity"
+          ],
+          "source_references": [
+            "Son preference as a persisting attitude",
+            "Sex ratio at birth as the measured outcome",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Policy card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "DOCUMENT -> National Population Policy, 2000, Ministry of Health and Family Welfare",
+            "IMMEDIATE -> address unmet contraceptive need",
+            "MEDIUM TERM -> bring Total Fertility Rate to replacement level",
+            "LONG TERM -> stable population by around 2045 with sustainable development"
+          ],
+          "source_references": [
+            "The National Population Policy, 2000",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Evidence-status ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "NFHS-6 -> released 29 May 2026, total 2.0, urban 1.6, rural 2.1, provisional",
+            "NFHS-5 -> 2019-21 round, Total Fertility Rate 2.0, historical comparator",
+            "CENSUS -> 2011 is the last completed full count; Census 2027 is prospective",
+            "PROHIBITION -> no survey average may be quoted as a state or current stock"
+          ],
+          "source_references": [
+            "Reading the two survey rounds honestly",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Aggregate against divergence",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "NATIONAL -> a weighted summary of states in different transition phases",
+            "BELOW REPLACEMENT -> ageing pressure and workforce-shrinkage risk",
+            "ABOVE REPLACEMENT -> young structure with an open dividend window",
+            "VERDICT -> the honest answer is state-graded, not nation-uniform",
+            "CLOSE DISTINCTION: Population growth is not fertility, replacement fertility is not zero",
+            "  growth, density is not pressure, sex ratio at birth is not overall sex ratio, Census stock",
+            "  is not survey flow, and demographic dividend is an opportunity rather than an automatic",
+            "  bonus."
+          ],
+          "source_references": [
+            "Sub-national divergence",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Winter and dividend",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "DEMOGRAPHIC WINTER -> sustained sub-replacement fertility with ageing and decline",
+            "DEMOGRAPHIC DIVIDEND -> largest working-age share, growth-favourable window",
+            "RELATION -> near-opposite phases of the same transition",
+            "CAUTION -> a large country can display both across its regions"
+          ],
+          "source_references": [
+            "Demographic winter beside the dividend",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Ageing double reading",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ACHIEVEMENT -> longer life from successful mortality and health transition",
+            "BURDEN -> rising old-age dependency and workforce recomposition",
+            "SUPPORT -> family-based care weakened by nuclearisation",
+            "GAP -> formal old-age security not yet scaled where fertility fell earliest"
+          ],
+          "source_references": [
+            "Ageing as achievement and as burden",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Two transition frameworks",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "FIRST TRANSITION -> mortality decline followed by fertility decline",
+            "SECOND TRANSITION -> value and family-formation shift below replacement",
+            "ORIGIN -> the second framework is largely European in derivation",
+            "STATUS -> an analytical lens, never an established Indian diagnosis"
+          ],
+          "source_references": [
+            "First and second demographic transition",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Migration offset",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "RECEIVING REGION -> working-age inflow cushions workforce shrinkage",
+            "SENDING REGION -> elderly parents left with thinner household support",
+            "NET EFFECT -> the ageing problem is redistributed, not removed",
+            "ANSWER USE -> state the regional trade-off before recommending mobility"
+          ],
+          "source_references": [
+            "Migration as an offset with a cost",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Population education design",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CONTENT -> age-appropriate, scientific and rights-respecting instruction",
+            "OBJECTIVES -> health information, gender equality, voluntary choice, resource awareness",
+            "DELIVERY -> schools, community outreach and health services",
+            "SAFEGUARD -> capability building, never a demographic target"
+          ],
+          "source_references": [
+            "Population education and its safeguards",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Population answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> define the term precisely and name the social mechanism",
+            "BODY -> dated anchor, then immediate disaggregation by state",
+            "TEST -> ageing pressure against continuing dividend conditions",
+            "CLOSE -> graded verdict with the survey-versus-census caveat",
+            "EVIDENCE LIMIT: Census 2011 is the latest completed census baseline as of review, while SRS,",
+            "  NFHS-5 and projections have different dates and methods; compare Kerala/Tamil Nadu ageing,",
+            "  EAG-state youth and migration destinations without causal claims from state averages alone."
+          ],
+          "source_references": [
+            "Question ownership and the answer spine",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "environment-and-ecology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "environment_and_ecology_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-14",
+      "display_title": "Water Pollution and River Cleaning Missions",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-14\\g4\\environment-and-ecology-14_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Source-pathway map",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "POINT SOURCE -> identifiable pipe, drain or outfall",
+            "NON-POINT SOURCE -> diffuse catchment runoff",
+            "PATHWAY -> source to receiving water",
+            "MONITORING -> source sample versus catchment evidence",
+            "CONTROL -> tool must match the pathway",
+            "MUST REMEMBER: Water pollution links pollutant load, concentration, dissolved oxygen,..."
+          ],
+          "source_references": [
+            "Point and non-point sources",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-14\\g4\\environment-and-ecology-14_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Standard firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "EFFLUENT STANDARD -> controls discharge from a source",
+            "WATER-QUALITY CRITERION -> describes receiving water",
+            "USE CLASS -> intended-water-use framework",
+            "UNIT AND SAMPLING -> belong to the exact indicator",
+            "RULE -> never exchange these values"
+          ],
+          "source_references": [
+            "Water-quality and effluent boundary",
+            "Water class and discharge boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-14\\g4\\environment-and-ecology-14_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Organic-pollution diagnostic",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ORGANIC LOAD -> microbial decomposition",
+            "BOD -> oxygen demand during decomposition",
+            "DO -> oxygen remaining for aquatic life",
+            "FAECAL INDICATOR -> contamination warning",
+            "DIAGNOSIS -> use indicators together, not interchangeably"
+          ],
+          "source_references": [
+            "BOD and DO relation",
+            "Faecal-indicator boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-14\\g4\\environment-and-ecology-14_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Eutrophication chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "NUTRIENT INPUT -> nitrogen or phosphorus enrichment",
+            "ALGAL GROWTH -> biomass increase",
+            "DECOMPOSITION -> oxygen demand",
+            "LOW OXYGEN -> ecological stress",
+            "BOUNDARY -> not identical to toxic industrial discharge"
+          ],
+          "source_references": [
+            "Eutrophication chain",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-14\\g4\\environment-and-ecology-14_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Institution and approval ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "WATER ACT -> statutory pollution-control framework",
+            "CPCB -> national coordination and framework",
+            "SPCB OR PCC -> consent, monitoring and enforcement",
+            "CTE OR CTO -> source permission layer",
+            "ENVIRONMENTAL CLEARANCE -> separate prior-appraisal layer"
+          ],
+          "source_references": [
+            "Water Act institution layer",
+            "CTE and CTO boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-14\\g4\\environment-and-ecology-14_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Sewage quantity ledger",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "GENERATED -> total wastewater produced",
+            "SEWERED -> flow reaching a network",
+            "INSTALLED -> nameplate treatment capacity",
+            "ACTUALLY TREATED -> operating inflow and performance",
+            "REUSED OR DISCHARGED -> final pathway and quality",
+            "CLOSE DISTINCTION: BOD is not COD, sewage generation is not treatment capacity or actual..."
+          ],
+          "source_references": [
+            "Sewage quantity chain",
+            "Capacity and utilisation",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-14\\g4\\environment-and-ecology-14_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Treatment-plant matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "STP -> municipal or domestic sewage",
+            "ETP -> one establishment's industrial effluent",
+            "CETP -> common treatment for a group of units",
+            "INSTALLATION -> infrastructure output",
+            "COMPLIANT OPERATION -> separately verified performance"
+          ],
+          "source_references": [
+            "Municipal and industrial streams",
+            "STP ETP and CETP",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-14\\g4\\environment-and-ecology-14_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Regulator-mission firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CPCB OR SPCB -> statutory pollution-control role",
+            "RIVER MISSION -> project and basin coordination",
+            "NMCG -> Ganga mission implementation architecture",
+            "ULB -> sewerage service and local operation",
+            "RULE -> one actor never substitutes for all others"
+          ],
+          "source_references": [
+            "Regulation and mission boundary",
+            "NMCG institutional boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-14\\g4\\environment-and-ecology-14_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "River-mission component wheel",
+          "structural_type": "layered-rail",
+          "ascii_lines": [
+            "SEWAGE INFRASTRUCTURE -> intercept and treat flow",
+            "INDUSTRIAL MONITORING -> source compliance",
+            "ECOLOGY -> biodiversity and riverbank measures",
+            "PUBLIC PARTICIPATION -> behaviour and accountability",
+            "VISIBLE WORK -> not itself a water-quality outcome"
+          ],
+          "source_references": [
+            "Namami Gange component boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-14\\g4\\environment-and-ecology-14_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Programme-scope gate",
+          "structural_type": "decision-gate",
+          "ascii_lines": [
+            "GANGA QUESTION -> use notified Ganga architecture",
+            "OTHER RIVER -> identify applicable programme and state actors",
+            "NRCP -> wider river-conservation programme context",
+            "RESULT -> retain river, stretch and date",
+            "NO TRANSFER -> never move one mission result to another river"
+          ],
+          "source_references": [
+            "NRCP and river scope",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-14\\g4\\environment-and-ecology-14_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Performance and evidence chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "OUTLAY OR SANCTION -> input",
+            "EXPENDITURE -> financial activity",
+            "ASSET COMPLETED -> physical output",
+            "FLOW TREATED OR LOAD REDUCED -> operational result",
+            "RIVER QUALITY -> stretch-season-indicator outcome"
+          ],
+          "source_references": [
+            "Input output outcome chain",
+            "Stretch season indicator",
+            "Dilution and ecological flow",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-14\\g4\\environment-and-ecology-14_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Water answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DIAGNOSE -> source, pathway and pollutant",
+            "MEASURE -> indicator, unit, location, season and sampling",
+            "REGULATE -> consent, effluent control and enforcement",
+            "TREAT -> sewer network, STP, ETP or CETP operation",
+            "JUDGE -> load and river outcome, with PYQ and live-data limits",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Fix parameter, unit, sampling..."
+          ],
+          "source_references": [
+            "Audited evidence boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\14_Water-Pollution-and-River-Cleaning-Missions.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-14\\g4\\environment-and-ecology-14_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

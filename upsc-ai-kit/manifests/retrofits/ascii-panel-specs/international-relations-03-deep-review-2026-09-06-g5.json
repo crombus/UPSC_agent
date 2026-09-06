@@ -1,0 +1,250 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "international-relations-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "international_relations_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "international-relations-03",
+      "display_title": "India, China, Major Powers and Resilient Supply Chains",
+      "active_generation": 5,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-03\\g5\\international-relations-03_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Three structurally different major-power ties",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "CHINA -> interdependence plus mistrust; largest trade partner in the book-period",
+            "assessment; unresolved boundary dispute drives the strategic reading",
+            "UNITED STATES -> technology-led tactical convergence; enabling agreements and",
+            "frameworks; high-technology export restrictions persist",
+            "RUSSIA -> defence-energy complementarity; energy-deficient meets energy-surplus;",
+            "high-technology equipment unavailable from elsewhere",
+            "RULE -> a three-track hedge, never a binary China-versus-West alignment",
+            "MUST REMEMBER: India's relations with China and other major powers combine border..."
+          ],
+          "source_references": [
+            "The India-China economic-strategic paradox",
+            "The United States track as technology-led tactical convergence",
+            "Russia as defence-energy complementarity rather than one-sided dependence",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-03\\g5\\international-relations-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Policy-term discipline",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "DE-RISKING -> reduce overconcentration while sustaining engagement; India's posture",
+            "DECOUPLING -> sever engagement altogether; expressly not India's posture",
+            "FRIEND-SHORING -> divert critical supply chains toward trusted partners, not cost alone",
+            "REPLACEMENT -> the incorrect reading; the correct one is diversification of dependence"
+          ],
+          "source_references": [
+            "De-risking against decoupling",
+            "Friend-shoring and trusted supply chains as the Western policy logic",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-03\\g5\\international-relations-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "India-United States technology timeline",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "MAY 2022 -> initiative on Critical and Emerging Technology announced",
+            "31 JANUARY 2023 -> inaugural National Security Adviser-level meeting",
+            "17 JUNE 2024 -> second National Security Adviser-level review",
+            "21 SEPTEMBER 2024 -> clean-energy supply-chain commitments announced",
+            "13 FEBRUARY 2025 -> TRUST and COMPACT announced with Mission 500 and trade talks",
+            "STATUS -> cooperation initiatives and branding; no documented legal succession"
+          ],
+          "source_references": [
+            "The initiative on Critical and Emerging Technology and its exact status",
+            "Clean-energy supply-chain commitments of September 2024",
+            "TRUST, COMPACT and Mission 500 of February 2025",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-03\\g5\\international-relations-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Defence architecture ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "2016 -> India designated a Major Defence Partner by the United States",
+            "LEMOA 2016 -> reciprocal logistics support",
+            "COMCASA 2018 -> secure communications",
+            "BECA 2020 -> exchange of geospatial information",
+            "31 OCTOBER 2025 -> ten-year Framework for the US-India Major Defense Partnership",
+            "LIMIT -> enabling agreements and a framework; no collective defence, no basing right"
+          ],
+          "source_references": [
+            "The ten-year defence framework of October 2025 and its non-treaty character",
+            "The enabling-agreement architecture and what it does not create",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-03\\g5\\international-relations-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Russia track evidence card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "COMPLEMENTARITY -> India energy-deficient, Russia energy-surplus",
+            "UNIQUE SUPPLY -> high-technology equipment including nuclear-powered submarines",
+            "INSTALLED BASE -> Su-30MKI licensed production; BrahMos joint venture",
+            "2018 -> S-400 contract as the named high-end acquisition",
+            "AK-203 -> Indo-Russian Rifles Private Limited at Korwa; localisation to be verified",
+            "UNVERIFIED -> S-400 delivery status and Russian-crude volumes without an official figure"
+          ],
+          "source_references": [
+            "Russia as defence-energy complementarity rather than one-sided dependence",
+            "The Russian installed base, joint production and third-party sanctions exposure",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-03\\g5\\international-relations-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "India-China process architecture",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "21 OCTOBER 2024 -> patrolling arrangements announced; specified as Depsang and Demchok",
+            "-> 18 DECEMBER 2024: twenty-third Special Representatives round, Beijing",
+            "-> 19 AUGUST 2025: twenty-fourth round, New Delhi; Expert Group on early harvest",
+            "delimitation; WMCC working group; General-Level Mechanisms in Eastern and Middle sectors",
+            "-> 31 AUGUST 2025: leaders meet at Tianjin",
+            "-> 27 MAY 2026: thirty-fifth WMCC, Beijing, prepares the next round",
+            "STATUS -> process architecture, expressly not a boundary settlement",
+            "CLOSE DISTINCTION: Border claim, Line of Actual Control perception, agreed boundary,..."
+          ],
+          "source_references": [
+            "The India-China border and dialogue architecture as process, not settlement",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-03\\g5\\international-relations-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Designated border-trade points",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "LIPULEKH -> existing designated point provided for in the reopening arrangement",
+            "SHIPKI LA -> existing designated point provided for in the reopening arrangement",
+            "NATHU LA -> existing designated point provided for in the reopening arrangement",
+            "SOURCE -> agreed at the twenty-fourth Special Representatives round, 19 August 2025",
+            "LIMIT -> provision for reopening trade is not evidence of resumed trade volume"
+          ],
+          "source_references": [
+            "The India-China border and dialogue architecture as process, not settlement",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-03\\g5\\international-relations-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Tariff cycle stress test",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "7 AUGUST 2025 -> 25 per cent India-specific reciprocal duty, Executive Order 14326",
+            "27 AUGUST 2025 -> additional 25 per cent Russian-oil-linked duty, Executive Order 14329",
+            "4 AND 6 AUGUST 2025 -> India calls the action unjustified and unreasonable",
+            "7 FEBRUARY 2026 -> additional duty removed, Executive Order 14384",
+            "FEBRUARY 2026 -> IEEPA additional duties ended by Executive Order 14389",
+            "24 JULY 2026 -> separate 10 per cent Section 301 duty on specified Indian goods",
+            "READING -> partnership and coercive trade measures ran from the same partner at once"
+          ],
+          "source_references": [
+            "The United States tariff cycle of 2025-26 as an architecture stress test",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-03\\g5\\international-relations-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Japan diversification pillar",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "2014 -> elevated to a Special Strategic and Global Partnership",
+            "20 AUGUST 2024 -> third two-plus-two agrees to revise the 2008 security declaration",
+            "SEPTEMBER 2020 -> Reciprocal Provision of Supplies and Services signed; operational 2021",
+            "SINCE 2017 -> JICA commitments exceeding one trillion yen for high-speed rail",
+            "APRIL 2021 -> Supply Chain Resilience Initiative with Australia and Japan",
+            "LIMIT -> logistics access is not collective defence; matching is not relocated production"
+          ],
+          "source_references": [
+            "The Japan pillar as a non-treaty security, infrastructure and technology partner",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-03\\g5\\international-relations-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "European Union pillar and legal status",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "CHANNEL -> Trade and Technology Council for technology, green transition and standards",
+            "27 JANUARY 2026 -> free trade agreement negotiations concluded",
+            "PENDING -> legal review and ratification remained necessary before entry into force",
+            "CONSEQUENCE -> a concluded negotiation is neither signature nor entry into force",
+            "GAIN -> wider technology, market and regulatory options beyond US-China competition"
+          ],
+          "source_references": [
+            "The European Union pillar and the not-yet-in-force qualification",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-03\\g5\\international-relations-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Ukraine engine and minilateral balancing",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PRINCIPLES -> dialogue and diplomacy; sovereignty and territorial integrity invoked",
+            "-> UN POSTURE: generally abstained on polarising resolutions; humanitarian assistance sent",
+            "-> ENERGY AND FERTILISER: discounted supplies redirected toward India",
+            "-> EXPOSURE: sanctions risk, payment and logistics friction, unilateral tariff pressure",
+            "-> MINILATERAL: non-treaty Quad and I2U2 add channels at a coordination cost",
+            "SPILLOVER -> Black Sea disruption affected food, fertiliser, freight and energy markets"
+          ],
+          "source_references": [
+            "The Ukraine posture, minilateral balancing and honest question ownership",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-03\\g5\\international-relations-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Answer spine for a major-power demand",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> state the structural difference between the China, United States and Russia ties",
+            "BUILD -> evidence each track with one dated instrument at its exact evidentiary level",
+            "TEST -> price the tariff cycle and the technology-access friction as real, dated limits",
+            "CLOSE -> refuse the replacement narrative and relink the verdict to strategic autonomy",
+            "EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Distinguish announced initiative,..."
+          ],
+          "source_references": [
+            "What this owner holds and how its boundaries are routed",
+            "The Ukraine posture, minilateral balancing and honest question ownership",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\03_India-China-Major-Powers-and-Resilient-Supply-Chains.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-03\\g5\\international-relations-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

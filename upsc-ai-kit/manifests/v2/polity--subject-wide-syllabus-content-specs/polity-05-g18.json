@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-05",
+  "title": "Union and Territory",
+  "generation": 18,
+  "generation_date": "2026-09-05",
+  "approval": false,
+  "review_state": "passed",
+  "baseline_record_id": "polity-05:learner-v2:g17",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-and-Territory.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\05_Union-and-Territory_Complete-Topic-Package.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\05_Union-and-Territory.md",
+  "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+  "pyq_ledgers": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+  ],
+  "source_hashes": {
+    "books\\prelima_question_paper_answers\\2025-GS1-Set A.pdf": "524ebaa954062e0fe173ed432d37ffd3bf2bad9359756eb68bf3bb0ca56cd5d1",
+    "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf": "d009c1f8703abbf92d5b2a00781a93278fbf5b95097bf19306f5f4f1cdc6cf90",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+    "upsc-ai-kit\\knowledge\\Polity\\05_Union-and-Territory_Complete-Topic-Package.md": "f88b8de1167e219f175ae07dc2996e63eb0ffc965523450c00aed632aa39a970",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\05_Union-and-Territory.md": "3005f985ce578dfa7bf392c846c6fb7291cbf7c5a3e7122860772a0920a0686c",
+    "upsc-ai-kit\\knowledge\\Polity\\ANSWER-WORTHINESS-AUDIT.md": "c08bfa6257e930f3afdb49ee3e7fb583708258f3aa033e50230eac10f8b5f62a",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-and-Territory.md": "904c84df6373aaf0a40ef2addeea97fd34f1e59838fd7ccf2a9a5d7a8d2d8b53",
+    "upsc-ai-kit\\knowledge\\Polity\\LEARNING-SESSION-COMMAND-INDEX.md": "572981123613172c9e7efa33b9b5845239df6238e1b692acbf9508a07df4deee",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "fecfb9e4a78671056ff154eb37c92412a47f77baaffa362f6cbe0c9b610fee50",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md": "8a2559da77f8dd12061f510946d689be7ffdae32b79752cfe0980e657f76176d"
+  },
+  "coverage_contract": {
+    "complete_core_before_advanced": true,
+    "evidence_classes_distinguished": true,
+    "contested_claims_qualified": true,
+    "all_solved_answers_exam_executable": true,
+    "strict_mcq_rotation": true,
+    "graphical_and_ascii_independently_complete": true,
+    "current_examples_source_dated": true
+  },
+  "repairs": [
+    "Hostile four-ledger ownership/PYQ control is absent.",
+    "Authoritative current-law source status is not dated.",
+    "Graphical flow does not contain twelve Core stages.",
+    "Embedded ASCII atlas does not contain twelve panels."
+  ],
+  "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\polity-05_Complete-Learning-Session_2026-09-05.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\polity-05_Solved-Practice-Workbook_2026-09-05.md",
+  "live_official_sources": [
+    "https://legislative.gov.in/documents/constitution-of-india",
+    "https://www.indiacode.nic.in/handle/123456789/11595?sam_handle=123456789/1362",
+    "https://www.indiacode.nic.in/handle/123456789/2059?sam_handle=123456789/1362",
+    "https://www.indiacode.nic.in/handle/123456789/1680?locale=en",
+    "https://www.mha.gov.in/en/commoncontent/state-and-uts-police",
+    "https://api.sci.gov.in/supremecourt/2019/29796/29796_2019_1_1501_49019_Judgement_11-Dec-2023.pdf"
+  ],
+  "current_status_control": "Rechecked 2026-09-05: the operative map remains 28 States and 8 Union territories. India Code supplies the 1956, 2014 and 2019 reorganisation enactments; the Supreme Court directed early J&K statehood restoration but did not itself convert the Union territory into a State.",
+  "live_sources_rechecked_on": "2026-09-05"
+}

@@ -1,0 +1,1301 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "polity-50",
+  "subject": "Polity",
+  "title": "CONCEPT OF THE CONSTITUTION",
+  "short_route": "THE CENTRAL IDEA: CONSTITUTE → CLASSIFICATION WITHOUT FALSE BINARIES → CONSTITUENT POWER AND CONSTITUTIONAL → RULE OF LAW, LIMITED → SOVEREIGNTY, LEGAL-POLITICAL CONSTITUTION AND → MORALITY, TRANSFORMATION AND CONSTITUTIONAL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-50-deep-review-2026-09-05-g4.json",
+  "ascii_spec_sha256": "d6f7744f64bdb0e4b4ea250e7fdebe47af7de99e5fcb1678faeaf25a1abd854b",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THE CENTRAL IDEA: CONSTITUTE AND RESTRAIN PUBLIC POWER",
+      "structural_type": "constitution-root-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "THE CENTRAL IDEA",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTITUTE AND RESTRAIN PUBLIC POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "ROOT QUESTION",
+          "role": "comparison"
+        },
+        {
+          "text": "WHAT MAKES A POLITICAL COMMUNITY GOVERNED BY A CONSTITUTION",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSTITUTION CREATES INSTITUTIONS AND OFFICES ALLOCATES HORIZONTAL AND FEDERAL",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTITUTIONALISM LIMITED POWER + RULE OF LAW + CHECKS",
+          "role": "mechanism"
+        },
+        {
+          "text": "MASTER DISTINCTION CONSTITUTIONAL DOCUMENT CAN EXIST WITHOUT EFFECTIVE CONSTITUTIONALISM.",
+          "role": "comparison"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ROOT QUESTION",
+        "What makes a political community governed by a Constitution rather than by rulers alone?",
+        "CONSTITUTION creates institutions and offices allocates horizontal and federal authority identifies people, territory and",
+        "political membership protects rights and states public goals provides amendment, conflict-resolution and continuity rules.",
+        "CONSTITUTIONALISM limited power + rule of law + checks + rights + accountability + remedies."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "ROOT QUESTION",
+            "What makes a political community governed by a Constitution rather than by rulers alone?"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CONSTITUTION creates institutions and offices allocates horizontal and federal authority identifies people, territory and",
+            "political membership protects rights and states public goals provides amendment, conflict-resolution and continuity rules."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONSTITUTIONALISM limited power + rule of law + checks + rights + accountability + remedies.",
+            "MASTER DISTINCTION constitutional document can exist without effective constitutionalism."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "MUST REMEMBER: Keep constitution, constitutional law, constitutionalism, constituent power and ordinary constituted power conceptually distinct.",
+            "ROOT QUESTION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONSTITUTIONALISM limited power + rule of law + checks + rights + accountability + remedies.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CLASSIFICATION WITHOUT FALSE BINARIES",
+      "structural_type": "classification-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CLASSIFICATION WITHOUT FALSE BINARIES",
+          "role": "primary"
+        },
+        {
+          "text": "FORM AXES ENACTED/EVOLVED",
+          "role": "outcome"
+        },
+        {
+          "text": "FEDERAL/UNITARY SUPREME/PARLIAMENTARY",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA ENACTED + CODIFIED + SUPREME MIXED RIGIDITY +",
+          "role": "evidence"
+        },
+        {
+          "text": "TRAPS WRITTEN",
+          "role": "primary"
+        },
+        {
+          "text": "PRESIDENTIAL PARLIAMENTARY GOVERNMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "PARLIAMENTARY SOVEREIGNTY.",
+          "role": "comparison"
+        },
+        {
+          "text": "ANSWER STRIP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FORM AXES enacted/evolved",
+        "federal/unitary supreme/parliamentary",
+        "INDIA enacted + codified + supreme mixed rigidity + federal division with",
+        "centralising features parliamentary responsibility + judicial review procedure + transformative commitments.",
+        "TRAPS written != rigid"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "FORM AXES enacted/evolved",
+          "centralising features parliamentary responsibility + judicial review procedure + transformative commitments.",
+          "federal != presidential parliamentary government != parliamentary sovereignty.",
+          "centralising features parliamentary responsibility + judicial review procedure + transformative commitments."
+        ],
+        [
+          "federal/unitary supreme/parliamentary",
+          "TRAPS written != rigid",
+          "ANSWER STRIP",
+          ""
+        ],
+        [
+          "INDIA enacted + codified + supreme mixed rigidity + federal division with",
+          "uncodified != unwritten",
+          "Classifications isolate dimensions; India is a designed synthesis across them.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "FORM AXES enacted/evolved",
+            "federal/unitary supreme/parliamentary",
+            "INDIA enacted + codified + supreme mixed rigidity + federal division with"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "centralising features parliamentary responsibility + judicial review procedure + transformative commitments.",
+            "TRAPS written != rigid",
+            "uncodified != unwritten"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "federal != presidential parliamentary government != parliamentary sovereignty.",
+            "ANSWER STRIP",
+            "Classifications isolate dimensions; India is a designed synthesis across them."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "centralising features parliamentary responsibility + judicial review procedure + transformative commitments."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Classifications isolate dimensions; India is a designed synthesis across them.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CONSTITUENT POWER AND CONSTITUTIONAL CHANGE",
+      "structural_type": "constituent-power-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CONSTITUENT POWER AND CONSTITUTIONAL CHANGE",
+          "role": "mechanism"
+        },
+        {
+          "text": "CONSTITUENT POWER PEOPLE/FOUNDING AUTHORITY",
+          "role": "mechanism"
+        },
+        {
+          "text": "CREATES CONSTITUTIONAL ORDER.",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSTITUTED POWERS",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSTITUTIONAL BODIES.",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 368 CHANGE WITHIN CONSTITUTION",
+          "role": "institution"
+        },
+        {
+          "text": "PROCEDURE + FEDERAL RATIFICATION WHERE REQUIRED.",
+          "role": "comparison"
+        },
+        {
+          "text": "KESAVANANDA BHARATI (1973) AMENDING POWER IS WIDE BUT CANNOT",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "CONSTITUENT POWER people/founding authority → creates constitutional order.",
+        "CONSTITUTED POWERS",
+        "constitutional bodies.",
+        "ARTICLE 368 change within Constitution → procedure + federal ratification where required.",
+        "Kesavananda Bharati (1973) amending power is wide but cannot destroy basic structure."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CONSTITUENT POWER people/founding authority → creates constitutional order.",
+            "CONSTITUTED POWERS"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "constitutional bodies.",
+            "ARTICLE 368 change within Constitution → procedure + federal ratification where required."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Kesavananda Bharati (1973) amending power is wide but cannot destroy basic structure.",
+            "Minerva Mills (1980) limited amendment and rights-DPSP harmony are part of constitutional identity."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LIMIT no constituted organ becomes legally unlimited by invoking democracy or necessity.",
+            "CONSTITUENT POWER people/founding authority → creates constitutional order."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT no constituted organ becomes legally unlimited by invoking democracy or necessity.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "RULE OF LAW, LIMITED GOVERNMENT AND LEGITIMACY",
+      "structural_type": "constitutionalism-mechanism",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "RULE OF LAW, LIMITED GOVERNMENT AND LEGITIMACY",
+          "role": "primary"
+        },
+        {
+          "text": "POPULAR CONSENT ELECTION AND REPRESENTATION",
+          "role": "outcome"
+        },
+        {
+          "text": "AUTHORITY TO GOVERN.",
+          "role": "comparison"
+        },
+        {
+          "text": "RULE OF LAW LEGAL COMPETENCE + NON-ARBITRARINESS + EQUALITY",
+          "role": "evidence"
+        },
+        {
+          "text": "LIMITED GOVERNMENT RIGHTS + SEPARATION/CHECKS + FEDERALISM + RESPONSIBLE",
+          "role": "primary"
+        },
+        {
+          "text": "PARLIAMENT + AUDIT + COURTS + ELECTIONS + FREE",
+          "role": "outcome"
+        },
+        {
+          "text": "MANEKA GANDHI (1978) FAIR, JUST AND REASONABLE PROCEDURE JOINS",
+          "role": "comparison"
+        },
+        {
+          "text": "VERDICT LEGITIMACY REQUIRES SOURCE, PROCESS, RIGHTS AND ACCOUNTABLE PERFORMANCE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "POPULAR CONSENT election and representation → authority to govern.",
+        "RULE OF LAW legal competence + non-arbitrariness + equality + reasoned procedure.",
+        "LIMITED GOVERNMENT rights + separation/checks + federalism + responsible executive.",
+        "Parliament + audit + courts + elections + free public reason.",
+        "Maneka Gandhi (1978) fair, just and reasonable procedure joins legality to substantive non-arbitrariness."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "POPULAR CONSENT election and representation → authority to govern.",
+            "RULE OF LAW legal competence + non-arbitrariness + equality + reasoned procedure."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "LIMITED GOVERNMENT rights + separation/checks + federalism + responsible executive.",
+            "Parliament + audit + courts + elections + free public reason."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "Maneka Gandhi (1978) fair, just and reasonable procedure joins legality to substantive non-arbitrariness.",
+            "VERDICT legitimacy requires source, process, rights and accountable performance."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "POPULAR CONSENT election and representation → authority to govern.",
+            "RULE OF LAW legal competence + non-arbitrariness + equality + reasoned procedure."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT legitimacy requires source, process, rights and accountable performance.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "SOVEREIGNTY, LEGAL-POLITICAL CONSTITUTION AND CONVENTIONS",
+      "structural_type": "sovereignty-convention-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SOVEREIGNTY, LEGAL-POLITICAL CONSTITUTION AND CONVENTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "POPULAR SOVEREIGNTY",
+          "role": "outcome"
+        },
+        {
+          "text": "WE, THE PEOPLE",
+          "role": "comparison"
+        },
+        {
+          "text": "DEMOCRATIC AUTHORSHIP.",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSTITUTIONAL SOVEREIGNTY SUPREME CONSTITUTION",
+          "role": "primary"
+        },
+        {
+          "text": "EVERY INSTITUTION LEGALLY LIMITED.",
+          "role": "institution"
+        },
+        {
+          "text": "PARLIAMENT DEMOCRATICALLY CENTRAL, BUT NOT BRITISH-STYLE LEGALLY SOVEREIGN.",
+          "role": "caution"
+        },
+        {
+          "text": "LEGAL CONSTITUTION TEXT/RIGHTS/REVIEW/REMEDY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "POPULAR SOVEREIGNTY",
+        "We, the People → democratic authorship.",
+        "CONSTITUTIONAL SOVEREIGNTY supreme Constitution → every institution legally limited.",
+        "PARLIAMENT democratically central, but not British-style legally sovereign.",
+        "LEGAL CONSTITUTION text/rights/review/remedy."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "POPULAR SOVEREIGNTY",
+            "We, the People → democratic authorship."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "CONSTITUTIONAL SOVEREIGNTY supreme Constitution → every institution legally limited.",
+            "PARLIAMENT democratically central, but not British-style legally sovereign."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "LEGAL CONSTITUTION text/rights/review/remedy.",
+            "POLITICAL CONSTITUTION confidence/election/committee/federal bargaining/convention."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CONVENTION politically obligatory practice; not automatically judicially enforceable law.",
+            "POPULAR SOVEREIGNTY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONVENTION politically obligatory practice; not automatically judicially enforceable law.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "MORALITY, TRANSFORMATION AND CONSTITUTIONAL IDENTITY",
+      "structural_type": "normative-doctrine-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MORALITY, TRANSFORMATION AND CONSTITUTIONAL IDENTITY",
+          "role": "primary"
+        },
+        {
+          "text": "CONSTITUTIONAL MORALITY TEXT + FORM + PROCEDURE + INSTITUTIONAL",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSFORMATIVE CONSTITUTIONALISM DIGNITY + EQUALITY + SOCIAL JUSTICE",
+          "role": "comparison"
+        },
+        {
+          "text": "LAWFUL ANTI-HIERARCHY CHANGE.",
+          "role": "evidence"
+        },
+        {
+          "text": "S.R. BOMMAI (1994) FEDERALISM AND SECULARISM CONSTRAIN PARTISAN CENTRAL",
+          "role": "primary"
+        },
+        {
+          "text": "NAVTEJ SINGH JOHAR V. UNION OF INDIA (2018) DIGNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "LIMIT MORALITY/TRANSFORMATIVE LANGUAGE CANNOT FLOAT FREE OF TEXT, STRUCTURE",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CONSTITUTIONAL MORALITY text + form + procedure + institutional role + equal citizenship.",
+        "TRANSFORMATIVE CONSTITUTIONALISM dignity + equality + social justice → lawful anti-hierarchy change.",
+        "S.R. Bommai (1994) federalism and secularism constrain partisan central power.",
+        "Navtej Singh Johar v. Union of India (2018) dignity, equality and constitutional morality protect minority",
+        "LIMIT morality/transformative language cannot float free of text, structure and competence."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "CONSTITUTIONAL MORALITY text + form + procedure + institutional role + equal citizenship.",
+            "TRANSFORMATIVE CONSTITUTIONALISM dignity + equality + social justice → lawful anti-hierarchy change."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "S.R. Bommai (1994) federalism and secularism constrain partisan central power.",
+            "Navtej Singh Johar v. Union of India (2018) dignity, equality and constitutional morality protect minority citizenship."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIMIT morality/transformative language cannot float free of text, structure and competence.",
+            "CLOSE DISTINCTION: Treat basic structure, constitutional morality, transformative and living constitutionalism as bounded doctrines, not free-standing judicial preference."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "CONSTITUTIONAL MORALITY text + form + procedure + institutional role + equal citizenship.",
+            "TRANSFORMATIVE CONSTITUTIONALISM dignity + equality + social justice → lawful anti-hierarchy change."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Treat basic structure, constitutional morality, transformative and living constitutionalism as bounded doctrines, not free-standing judicial preference.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "LIVING CONSTITUTION WITH INTERPRETIVE DISCIPLINE",
+      "structural_type": "interpretive-approach-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LIVING CONSTITUTION WITH INTERPRETIVE DISCIPLINE",
+          "role": "primary"
+        },
+        {
+          "text": "TEXT/ORIGINAL MEANING ADOPTED LANGUAGE AND HISTORY CONSTRAIN.",
+          "role": "outcome"
+        },
+        {
+          "text": "STRUCTURE/PRECEDENT RELATIONSHIPS AND DOCTRINE MAINTAIN COHERENCE.",
+          "role": "comparison"
+        },
+        {
+          "text": "LIVING APPLICATION ENDURING PRINCIPLE",
+          "role": "evidence"
+        },
+        {
+          "text": "NEW CIRCUMSTANCE",
+          "role": "primary"
+        },
+        {
+          "text": "REASONED DOCTRINAL BRIDGE.",
+          "role": "outcome"
+        },
+        {
+          "text": "K.S. PUTTASWAMY (2017) PRIVACY AND DIGNITY APPLY CONSTITUTIONAL LIBERTY",
+          "role": "comparison"
+        },
+        {
+          "text": "CONTROL QUESTIONS TEXTUAL HOOK? INSTITUTIONAL COMPETENCE? EVIDENCE? REMEDY? DEMOCRATIC",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TEXT/ORIGINAL MEANING adopted language and history constrain.",
+        "STRUCTURE/PRECEDENT relationships and doctrine maintain coherence.",
+        "LIVING APPLICATION enduring principle → new circumstance → reasoned doctrinal bridge.",
+        "K.S. Puttaswamy (2017) privacy and dignity apply constitutional liberty to technological conditions.",
+        "CONTROL QUESTIONS textual hook? institutional competence? evidence? remedy? democratic space?"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "TEXT/ORIGINAL MEANING adopted language and history constrain.",
+          "LIVING APPLICATION enduring principle → new circumstance → reasoned doctrinal bridge.",
+          "CONTROL QUESTIONS textual hook? institutional competence? evidence? remedy? democratic space?",
+          "TEXT/ORIGINAL MEANING adopted language and history constrain."
+        ],
+        [
+          "STRUCTURE/PRECEDENT relationships and doctrine maintain coherence.",
+          "K.S. Puttaswamy (2017) privacy and dignity apply constitutional liberty to technological conditions.",
+          "TRAP living Constitution != amendment by judicial preference.",
+          "STRUCTURE/PRECEDENT relationships and doctrine maintain coherence."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "TEXT/ORIGINAL MEANING adopted language and history constrain.",
+            "STRUCTURE/PRECEDENT relationships and doctrine maintain coherence."
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "LIVING APPLICATION enduring principle → new circumstance → reasoned doctrinal bridge.",
+            "K.S. Puttaswamy (2017) privacy and dignity apply constitutional liberty to technological conditions."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONTROL QUESTIONS textual hook? institutional competence? evidence? remedy? democratic space?",
+            "TRAP living Constitution != amendment by judicial preference."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "TEXT/ORIGINAL MEANING adopted language and history constrain.",
+            "STRUCTURE/PRECEDENT relationships and doctrine maintain coherence."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP living Constitution != amendment by judicial preference.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "IDENTITY, EMERGENCY AND CONSTITUTIONAL FAILURE",
+      "structural_type": "failure-response-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "IDENTITY, EMERGENCY AND CONSTITUTIONAL FAILURE",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN IDENTITY",
+          "role": "outcome"
+        },
+        {
+          "text": "PREAMBLE + DEMOCRACY + RIGHTS + FEDERALISM + RESPONSIBILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "FAILURE BRANCHES EMERGENCY ABUSE",
+          "role": "evidence"
+        },
+        {
+          "text": "RIGHTS HOLLOWING",
+          "role": "primary"
+        },
+        {
+          "text": "CAPTURED INSTITUTION CONVENTION BREAKDOWN",
+          "role": "institution"
+        },
+        {
+          "text": "MAJORITY TREATED AS UNLIMITED.",
+          "role": "comparison"
+        },
+        {
+          "text": "RESPONSE LADDER REASONS/REVIEW",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIAN IDENTITY",
+        "Preamble + democracy + rights + federalism + responsibility judicial review + social transformation.",
+        "FAILURE BRANCHES emergency abuse",
+        "rights hollowing",
+        "captured institution convention breakdown"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "INDIAN IDENTITY",
+            "Preamble + democracy + rights + federalism + responsibility judicial review + social transformation.",
+            "FAILURE BRANCHES emergency abuse"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "rights hollowing",
+            "captured institution convention breakdown",
+            "majority treated as unlimited."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "RESPONSE LADDER reasons/review → Parliament/accountability → federal checks",
+            "election/public reason → lawful amendment and institutional repair.",
+            "SOCIAL REVOLUTION + RESTRAINT transform hierarchy, but preserve competence, rights, procedure and plural consent."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "LIMIT constitutional survival is institutional practice, not text alone."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT constitutional survival is institutional practice, not text alone.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "PURPOSE, SOVEREIGNTY AND LEGITIMACY ARCHITECTURE",
+      "structural_type": "purpose-legitimacy-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "PURPOSE, SOVEREIGNTY AND LEGITIMACY ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "FOUNDING AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "CONSTITUTIONAL ORDER",
+          "role": "comparison"
+        },
+        {
+          "text": "CREATED INSTITUTIONS + DISTRIBUTED COMPETENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "RIGHTS + LIMITS + ACCOUNTABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "AMENDMENT + CONTINUITY",
+          "role": "outcome"
+        },
+        {
+          "text": "LEGITIMACY TEST POPULAR SOURCE + LAWFUL PROCESS + RIGHTS",
+          "role": "evidence"
+        },
+        {
+          "text": "SOVEREIGNTY PEOPLE AUTHORISE; CONSTITUTION IS SUPREME; EVERY INSTITUTION REMAINS",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "PEOPLE / FOUNDING AUTHORITY",
+        "CONSTITUTIONAL ORDER",
+        "CREATED INSTITUTIONS + DISTRIBUTED COMPETENCE",
+        "RIGHTS + LIMITS + ACCOUNTABILITY",
+        "AMENDMENT + CONTINUITY"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PEOPLE / FOUNDING AUTHORITY",
+            "CONSTITUTIONAL ORDER",
+            "CREATED INSTITUTIONS + DISTRIBUTED COMPETENCE"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "RIGHTS + LIMITS + ACCOUNTABILITY",
+            "AMENDMENT + CONTINUITY",
+            "LEGITIMACY TEST popular source + lawful process + rights + justified performance."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "SOVEREIGNTY people authorise; Constitution is supreme; every institution remains constituted.",
+            "ANSWER STRIP",
+            "A Constitution creates legitimate authority only while preserving limits on its exercise."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "RIGHTS + LIMITS + ACCOUNTABILITY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "A Constitution creates legitimate authority only while preserving limits on its exercise.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-50\\g3-source\\polity-50_g3-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "LEGAL, POLITICAL AND ASPIRATIONAL CONSTITUTION",
+      "structural_type": "three-dimension-triangle",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LEGAL, POLITICAL AND ASPIRATIONAL CONSTITUTION",
+          "role": "primary"
+        },
+        {
+          "text": "LEGAL TEXT",
+          "role": "outcome"
+        },
+        {
+          "text": "POLITICAL ---------------- ASPIRATIONAL ELECTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "CONFIDENCE PREAMBLE",
+          "role": "evidence"
+        },
+        {
+          "text": "DPSP SCRUTINY",
+          "role": "primary"
+        },
+        {
+          "text": "CONVENTION DIGNITY",
+          "role": "outcome"
+        },
+        {
+          "text": "FAILURES LEGALISM WITHOUT DEMOCRACY",
+          "role": "comparison"
+        },
+        {
+          "text": "ELECTORALISM WITHOUT LIMITS ASPIRATION WITHOUT LAWFUL CAPACITY.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LEGAL text",
+        "POLITICAL ---------------- ASPIRATIONAL elections",
+        "confidence Preamble",
+        "DPSP scrutiny",
+        "convention dignity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "LEGAL text",
+            "POLITICAL ---------------- ASPIRATIONAL elections",
+            "confidence Preamble"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "DPSP scrutiny",
+            "convention dignity",
+            "FAILURES legalism without democracy"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "electoralism without limits aspiration without lawful capacity.",
+            "ANSWER STRIP",
+            "Law authorises and limits, politics represents and answers, aspiration directs change."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "DPSP scrutiny"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Law authorises and limits, politics represents and answers, aspiration directs change.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-50\\g3-source\\polity-50_g3-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "DOCTRINE QUALIFICATION AND ANSWER EXECUTION",
+      "structural_type": "doctrine-answer-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DOCTRINE QUALIFICATION AND ANSWER EXECUTION",
+          "role": "primary"
+        },
+        {
+          "text": "LIMIT AMENDING POWER",
+          "role": "caution"
+        },
+        {
+          "text": "KESAVANANDA BHARATI (1973)",
+          "role": "comparison"
+        },
+        {
+          "text": "NO DESTRUCTION CONSTITUTIONAL MORALITY",
+          "role": "caution"
+        },
+        {
+          "text": "NCT DELHI (2018)",
+          "role": "primary"
+        },
+        {
+          "text": "NAVTEJ SINGH JOHAR V. UNION OF INDIA (2018)",
+          "role": "outcome"
+        },
+        {
+          "text": "ROLE AND EQUALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "NO PERSONAL MORALITY TRANSFORMATION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "IDEA → ANCHOR → USE → LIMIT amending power → Kesavananda Bharati (1973) → change",
+        "Navtej Singh Johar v. Union of India (2018) → role and equality",
+        "no personal morality transformation → Navtej Singh Johar v. Union of India (2018)",
+        "Joseph Shine (2018) → anti-hierarchy → competence and remedy living Constitution → K.S. Puttaswamy (2017)",
+        "ANSWER STRIP"
+      ],
+      "matrix": [
+        [
+          "CONSTITUTIONAL BASIS / ARTICLE",
+          "POWER / PROCEDURE",
+          "CHECK / LIMIT",
+          "FEDERAL / RIGHTS IMPACT"
+        ],
+        [
+          "IDEA → ANCHOR → USE → LIMIT amending power → Kesavananda Bharati (1973) → change → no destruction constitutional morality → NCT Delhi (2018)",
+          "Joseph Shine (2018) → anti-hierarchy → competence and remedy living Constitution → K.S. Puttaswamy (2017) → new conditions → textual bridge",
+          "CURRENT CONTROL: 5 SEPTEMBER 2026",
+          "Joseph Shine (2018) → anti-hierarchy → competence and remedy living Constitution → K.S. Puttaswamy (2017) → new conditions → textual bridge"
+        ],
+        [
+          "Navtej Singh Johar v. Union of India (2018) → role and equality",
+          "ANSWER STRIP",
+          "The official text remains amended through the 106th Amendment.",
+          ""
+        ],
+        [
+          "no personal morality transformation → Navtej Singh Johar v. Union of India (2018)",
+          "Conceptual answers earn marks when every doctrine carries an anchor, mechanism and limit.",
+          "Basic structure and constitutional morality are bounded judicial doctrines, not separately enumerated Articles or personal preference.",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "IDEA → ANCHOR → USE → LIMIT amending power → Kesavananda Bharati (1973) → change → no destruction constitutional morality → NCT Delhi (2018)",
+            "Navtej Singh Johar v. Union of India (2018) → role and equality",
+            "no personal morality transformation → Navtej Singh Johar v. Union of India (2018)"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Joseph Shine (2018) → anti-hierarchy → competence and remedy living Constitution → K.S. Puttaswamy (2017) → new conditions → textual bridge",
+            "ANSWER STRIP",
+            "Conceptual answers earn marks when every doctrine carries an anchor, mechanism and limit."
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "CURRENT CONTROL: 5 SEPTEMBER 2026",
+            "The official text remains amended through the 106th Amendment.",
+            "Basic structure and constitutional morality are bounded judicial doctrines, not separately enumerated Articles or personal preference."
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "Joseph Shine (2018) → anti-hierarchy → competence and remedy living Constitution → K.S. Puttaswamy (2017) → new conditions → textual bridge"
+          ]
+        }
+      ],
+      "mechanism_strip": "Conceptual answers earn marks when every doctrine carries an anchor, mechanism and limit.",
+      "answer_line": "Basic structure and constitutional morality are bounded judicial doctrines, not separately enumerated Articles or personal preference.",
+      "source_references": [
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-50\\g3-source\\polity-50_g3-reviewed-source.md",
+        "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-50\\g3-source\\polity-50_g3-reviewed-source.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "UPSC SYNTHESIS: HIGHER LAW, DEMOCRATIC CHANGE AND RESTRAINT",
+      "structural_type": "answer-synthesis",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "UPSC SYNTHESIS",
+          "role": "primary"
+        },
+        {
+          "text": "HIGHER LAW, DEMOCRATIC CHANGE AND RESTRAINT",
+          "role": "outcome"
+        },
+        {
+          "text": "PRELIMS FIREWALL CONSTITUTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSTITUTIONAL LAW",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSTITUTIONALISM CONVENTION",
+          "role": "primary"
+        },
+        {
+          "text": "ENFORCEABLE RULE",
+          "role": "outcome"
+        },
+        {
+          "text": "SOVEREIGN IN BRITISH SENSE",
+          "role": "comparison"
+        },
+        {
+          "text": "BASIC STRUCTURE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRELIMS FIREWALL constitution != constitutional law",
+        "constitution != constitutionalism convention != enforceable rule",
+        "written != rigid",
+        "federal != presidential",
+        "Parliament != sovereign in British sense"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CONSTITUTIONAL BASIS / ARTICLE",
+          "role": "institution",
+          "items": [
+            "PRELIMS FIREWALL constitution != constitutional law",
+            "constitution != constitutionalism convention != enforceable rule",
+            "written != rigid",
+            "federal != presidential"
+          ]
+        },
+        {
+          "heading": "POWER / PROCEDURE",
+          "role": "mechanism",
+          "items": [
+            "Parliament != sovereign in British sense",
+            "basic structure != express list.",
+            "MAINS SPINE definition/functions → classifications → constituent power",
+            "rule of law/legitimacy → sovereignty/conventions"
+          ]
+        },
+        {
+          "heading": "CHECK / LIMIT",
+          "role": "caution",
+          "items": [
+            "morality/transformation → interpretation → identity/failure.",
+            "PYQ SPINE",
+            "2021 morality",
+            "2023 living instrument"
+          ]
+        },
+        {
+          "heading": "FEDERAL / RIGHTS IMPACT",
+          "role": "outcome",
+          "items": [
+            "2025 independence-accountability.",
+            "India's Constitution enables democratic transformation by limiting every constituted power.",
+            "LEGAL/SOURCE LIMIT: The official constitutional text remains amended through the 106th",
+            "Amendment; no political slogan or pending claim is converted into doctrine."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PRELIMS FIREWALL constitution != constitutional law | constitution != constitutionalism convention != enforceable rule | written != rigid | federal != presidential.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\polity-50_Complete-Learning-Session_2026-08-25.md",
+        "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. CONSTITUENT POWER AND CONSTITUTED POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "2. LEGAL AND POLITICAL CONSTITUTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "3. CONSTITUTIONAL CONVENTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "4. CONSTITUTIONAL MORALITY",
+          "role": "primary"
+        },
+        {
+          "text": "5. TRANSFORMATIVE CONSTITUTIONALISM",
+          "role": "outcome"
+        },
+        {
+          "text": "6. LIVING CONSTITUTION AND ORIGINAL MEANING",
+          "role": "comparison"
+        },
+        {
+          "text": "7. POPULAR, PARLIAMENTARY AND CONSTITUTIONAL SOVEREIGNTY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL DOCTRINE / CASE",
+          "role": "institution",
+          "items": [
+            "1. Constituent power and constituted power",
+            "2. Legal and political constitutions",
+            "3. Constitutional conventions",
+            "4. Constitutional morality"
+          ]
+        },
+        {
+          "heading": "ADVANCED LIMIT",
+          "role": "caution",
+          "items": [
+            "5. Transformative constitutionalism",
+            "6. Living constitution and original meaning",
+            "7. Popular, parliamentary and constitutional sovereignty",
+            "8. Constitutional identity"
+          ]
+        },
+        {
+          "heading": "COMPARATIVE NUANCE",
+          "role": "comparison",
+          "items": [
+            "9. Emergency and constitutional failure",
+            "10. Normative evaluation framework",
+            "selection of a Prime Minister able to command Lok Sabha confidence;",
+            "cabinet solidarity and ministerial resignation;"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

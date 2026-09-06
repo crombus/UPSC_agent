@@ -934,6 +934,44 @@ CONSEQUENCE / CONTRAST: India's territorial Constitution works best when parliam
 UPSC TRAP / ANSWER-USE: Prelims traps to recite before any objective question: Article 2 is not Article 3; State consent is not mandatory; a UT has no proviso consultation right; Article 4 keeps internal reorganisation outside Article 368; cession requires Article 368; the current count is 28 States and 8 UTs.
 ANSWER-GRABBING FORMULATION: Article 3 is a centralising safety valve: its flexibility can absorb regional demands, but legitimacy depends on consultation, transparency and negotiated transition because affected States possess no constitutional veto.
 ```
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Article 1 name/territory; Article 2
+  admission or establishment; Article 3 formation, area, boundary and name
+  changes; Article 4 First/Fourth Schedules and supplemental consequences.
+- **Procedure:** an Article 3 bill requires the President's recommendation and,
+  when a State is affected, referral for views within the specified period;
+  those views are not binding. Article 4 laws use ordinary/simple-majority
+  procedure and are not amendments for Article 368 purposes.
+- **Doctrinal distinctions:** Union of India (States) is narrower than territory
+  of India (States, Union territories and acquired territories); Art 2 and Art 3
+  are distinct; internal reorganisation differs from foreign cession.
+- **Cases and amendments:** Berubari Union (1960) requires Article 368 for
+  cession; the Ninth Amendment 1960 supplied authority for contemplated
+  transfer; Maganbhai Ishwarbhai Patel (1969) distinguishes settlement of a
+  boundary dispute; the 100th Amendment 2015 implemented the India-Bangladesh
+  land-boundary/enclave exchange.
+- **Chronology:** integration after 1947; Dhar (1948), JVP (1948-49), Fazl Ali
+  Commission (1953-55); Andhra 1953; States Reorganisation Act and Seventh
+  Amendment 1956; Maharashtra/Gujarat 1960; 2000 States; Telangana 2014; J&K
+  Reorganisation Act 2019 and the 2020 UT merger.
+- **Institutional/current mechanism:** the First Schedule records current
+  States/UTs; India has 28 States and 8 Union territories as rechecked
+  5 September 2026. J&K remains a Union territory unless an authoritative law
+  or notification effects statehood restoration.
+- **Cross-owner boundary:** Union Territories owns administration under
+  Articles 239-241/239AA; Special Provisions owns Articles 370/371 detail;
+  Federal System owns the full Centre-State balance.
+- **Four-ledger hostile audit:** constitutional text, prerequisites, textbook
+  taxonomy and every 2018-2026 route were checked for procedure, consent,
+  schedules, cession, boundary settlement, chronology and status.
+- **Verified PYQ ownership, 2018-2026:** the direct route is 2025 Prelims GS-I
+  Q52 on Nagaland (1963), Tripura (1972) and Arunachal Pradesh (1987).
+  No other direct question or answer key is invented.
+- **Source hierarchy:** Legislative Department Constitution → India Code
+  reorganisation enactments → Supreme Court holdings → MHA current list →
+  standard textbook; political statements never displace operative law.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Forty core diagnostic MCQs

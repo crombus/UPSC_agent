@@ -221,3 +221,50 @@ Both are **anti-corruption** bodies — but **neither is constitutional**. **CVC
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Legal identity:** CVC is statutory under the Central Vigilance Commission
+  Act, 2003. CBI is an organisation constituted by executive resolution on
+  1 April 1963; the Delhi Special Police Establishment Act, 1946 supplies its
+  core police powers. Neither is a constitutional body.
+- **Current leadership, checked 5 September 2026:** A S Rajeev, a serving
+  Vigilance Commissioner, is authorised to act as Central Vigilance
+  Commissioner from 3 August 2026; Praveen Vashista is the other officially
+  identified Vigilance Commissioner. Praveen Sood continues as CBI Director
+  under the dated extension through 24 May 2027.
+- **CVC appointment and tenure:** the President appoints the Central Vigilance
+  Commissioner and up to two Vigilance Commissioners after recommendation by
+  the PM-Home Minister-LoP committee. The term is four years or age sixty-five,
+  whichever is earlier. Removal for proved misbehaviour/incapacity uses a
+  Supreme Court inquiry; direct statutory grounds remain separate.
+- **CVC jurisdiction:** section 8 functions include specified superintendence
+  over DSPE corruption investigations, vigilance administration, inquiry or
+  investigation on references/complaints, review of investigation progress and
+  prosecution-sanction applications, and advice. Directions cannot require
+  disposal of a particular case in a particular manner.
+- **CVO and disciplinary boundary:** Central Vigilance Officers connect
+  prevention, complaint scrutiny and departmental action. CVC advice informs
+  the competent disciplinary authority but is not a criminal judgment or
+  universally binding adjudication.
+- **CBI Director:** appointment follows DSPE section 4A through the
+  PM-LoP-CJI/nominee committee after the statutory eligibility panel. The
+  minimum tenure is two years. The 2021 amendment permits recorded
+  public-interest extensions one year at a time up to five years in aggregate;
+  five years is not automatic. Transfer requires committee consent.
+- **Territorial jurisdiction:** sections 3 and 5 identify notified offences and
+  extension of DSPE powers; section 6 ordinarily requires State consent.
+  General consent can be withdrawn prospectively, specific consent remains
+  possible, and constitutional courts retain exceptional Articles 32/226 power
+  to direct a CBI investigation without consent.
+- **Superintendence split:** CVC superintends DSPE investigation of specified
+  Prevention of Corruption Act offences; the Central Government superintends
+  other DSPE matters. Lokpal has bounded superintendence for Lokpal-referred cases.
+- **Case controls:** Vineet Narain created the independence architecture;
+  Committee for Protection of Democratic Rights (2010) preserves constitutional
+  court power; Kazi Lhendup Dorji addresses validly begun investigations after
+  consent withdrawal; Fertico is fact-specific; Alok Kumar Verma protects the
+  statutory Director process; Jaya Thakur upheld the conditional extension framework.
+- **PYQ firewall:** the verified 2021 GS-II federal-consent demand and the
+  controlled 2026 objective institutional-matching demand are owned here.
+  No current State-consent count or caseload statistic is frozen.

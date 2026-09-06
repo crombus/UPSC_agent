@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-30",
+  "title": "GST Council",
+  "generation": 5,
+  "generation_date": "2026-09-05",
+  "approval": false,
+  "review_state": "passed",
+  "baseline_record_id": "polity-30:learner-v2:g4",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\GST-Council.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\GST-Council.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\30_GST-Council.md",
+  "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+  "pyq_ledgers": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+  ],
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+    "upsc-ai-kit\\knowledge\\Economy\\basic\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md": "fd99b497c081397790cda792eb40fef958d9d004e47b5e62cfde66d0409d3053",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\30_GST-Council.md": "77420ab4ec3bcdd0e6a62722cbca33a3a0f697213c30761a3f07b2cd70622a8d",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md": "08e5c6cb6a6e1bf01e6d21edd24d0871bae90ede9acff5998b156287ae56da22",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Centre-State-Relations.md": "b67671cf66783396a79ac7767ca3118f443c3dbe4085ab89fb59d7c9d0c60ff0",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md": "fd234b12e0cc5a4469c3a1ee800a0b95bb05a46379f3adea549ddc4438513308",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\GST-Council.md": "19648fb2529f7802023be8e2c9201eb53c9cbe7bf9be779d9aa2ba6b0a34123f",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md": "17617ad8a6c37ca19797d694327a71564d9377b08a2dfabe6c0ba02d9dfa3f2a",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "fecfb9e4a78671056ff154eb37c92412a47f77baaffa362f6cbe0c9b610fee50",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md": "8a2559da77f8dd12061f510946d689be7ffdae32b79752cfe0980e657f76176d"
+  },
+  "coverage_contract": {
+    "complete_core_before_advanced": true,
+    "evidence_classes_distinguished": true,
+    "contested_claims_qualified": true,
+    "all_solved_answers_exam_executable": true,
+    "strict_mcq_rotation": true,
+    "graphical_and_ascii_independently_complete": true,
+    "current_examples_source_dated": true
+  },
+  "repairs": [
+    "Hostile four-ledger ownership/PYQ control is absent.",
+    "Authoritative current-law source status is not dated."
+  ],
+  "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\g5\\polity-30_Complete-Learning-Session_2026-09-05.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\g5\\polity-30_Solved-Practice-Workbook_2026-09-05.md",
+  "live_official_sources": [
+    "https://legislative.gov.in/en/constitution-of-india",
+    "https://gstcouncil.gov.in/en/gst-council",
+    "https://gstcouncil.gov.in/sites/default/files/2024-02/procedure_conduct_business.pdf",
+    "https://gstcouncil.gov.in/sites/default/files/2025-09/press_release_press_information_bureau.pdf",
+    "https://gstcouncil.gov.in/sites/default/files/2025-09/faq_0.pdf",
+    "https://api.sci.gov.in/pdfdate/index1.php?dno=230832020&dt=2022-05-19&filename=supremecourt/2020/23083/23083_2020_4_1501_35969_Judgement_19-May-2022.pdf"
+  ],
+  "current_status_control": "Rechecked 2026-09-05: Article 279A and the official Conduct of Business Rules control composition, quorum and voting. The 56th meeting release of 3 September 2025 is the latest official meeting outcome located; Mohit Minerals remains controlling and recommendations are not self-executing.",
+  "live_sources_rechecked_on": "2026-09-05"
+}

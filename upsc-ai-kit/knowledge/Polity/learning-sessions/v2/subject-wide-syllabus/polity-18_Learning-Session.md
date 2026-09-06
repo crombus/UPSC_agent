@@ -111,7 +111,7 @@ Final constitutional + civil + criminal appellate court
 ### 02. Constitutional location, composition, seat and benches
 
 Constitutional location, composition, seat and benches denotes the constitutional rules and institutional links organised around Feature Stable constitutional or statutory control.
-Constitutional location, composition, seat and benches operates through Constitutional range [FACT] Articles 124-147, Part V, connected with Sanctioned strength [FACT] 34 including the CJI.
+Constitutional location, composition, seat and benches operates through Constitutional range [FACT] Articles 124-147, Part V, connected with Sanctioned strength [FACT] 38 including the CJI.
 The operative mechanism matters because original constitutional design [FACT] CJI plus not more than seven other judges.
 Its principal consequence is that retirement [FACT] 65 years.
 The decisive contrast is between Principal seat [FACT] Delhi under Article 130 and Other place of sitting [FACT] CJI may appoint with the President's approval.
@@ -122,7 +122,7 @@ The exam-safe limitation is that constitution Bench [FACT] Minimum five judges u
 | Feature | Stable constitutional or statutory control |
 |---|---|
 | Constitutional range | [FACT] Articles 124-147, Part V |
-| Sanctioned strength | [FACT] 34 including the CJI |
+| Sanctioned strength | [FACT] 38 including the CJI |
 | Original constitutional design | [FACT] CJI plus not more than seven other judges |
 | Retirement | [FACT] 65 years |
 | Principal seat | [FACT] Delhi under Article 130 |
@@ -1178,6 +1178,48 @@ graded answer to the exact demand
 - **Environment:** Articles 21/48A/51A(g) -> case line -> continuing mandamus -> regulator dependence -> constitutionalisation verdict.
 - **Comparative:** shared function -> structural divergence -> consequence -> risk in each model -> no mechanical transplant.
 
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional identity:** Articles 124-147 create the Supreme Court within an
+  integrated judicial hierarchy. It is simultaneously constitutional court,
+  federal umpire, Fundamental-Rights guarantor and final appellate court; High
+  Courts retain independent Articles 226/227/235 functions.
+- **Current statutory strength:** the Supreme Court (Number of Judges) Amendment
+  Act, 2026, Act 14 of 2026, substitutes thirty-seven for thirty-three judges
+  excluding the Chief Justice and is deemed in force from 16 May 2026. Sanctioned
+  strength is therefore thirty-eight including the CJI. Working strength remains
+  a live roster fact and must be verified separately.
+- **Appointment and independence:** Article 124 text, the First, Second and Third
+  Judges Cases, the 99th Amendment/NJAC invalidation and the current collegium
+  route must remain chronological. Security of tenure, charged expenditure,
+  Article 121, removal and post-retirement restrictions are different safeguards.
+- **Jurisdiction gateway:** Article 131 original jurisdiction requires a legal-
+  right federal dispute; Article 32 concerns Fundamental Rights; Articles 132-134A
+  govern appeals; Article 136 is discretionary special leave; Article 143 advice
+  is not an ordinary binding decree. Review under Article 137 and curative relief
+  are separate correction routes.
+- **Precedent and complete justice:** Article 141 binds through the declared ratio,
+  subject to bench strength; Article 142 operates in the cause or matter before
+  the Court and cannot supplant substantive constitutional or statutory limits.
+  Articles 129, 144 and 145 govern record/contempt, aid and procedure.
+- **Constitutional review:** Kesavananda Bharati, Minerva Mills and I.R. Coelho
+  control amendment and Ninth-Schedule review; L. Chandra Kumar preserves High
+  Court/Supreme Court review over tribunals. Judicial review and independence are
+  Basic Structure, not claims of judicial supremacy.
+- **PIL and legislation:** Hussainara Khatoon, S.P. Gupta, Vishaka and continuing
+  mandamus explain access and gap-filling. Rights enforcement and interim norms
+  must be distinguished from permanent policy substitution and merits governance.
+- **Accountability and diversity:** impeachment/removal, in-house procedure,
+  reasoned collegium disclosure, recusal, assets, representation and access reform
+  address different deficits. No lapsed accountability Bill may be taught as law.
+- **Current control:** Justice Surya Kant is Chief Justice of India on the official
+  roster. Special Reference No. 1 of 2025 is an Article 143 advisory opinion:
+  no rigid assent timelines or deemed assent, while prolonged unexplained
+  indefinite inaction remains open to limited mandamus.
+- **Four-ledger/PYQ control:** all direct and routed 2018-2025 jurisdiction,
+  independence, collegium, PIL, environment and accountability demands were
+  preserved; current judge, vacancy and pendency figures remain date-labelled.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Original MCQ loop - strict A -> B -> C -> D rotation
@@ -1707,7 +1749,7 @@ Which present-tense statement should be avoided without fresh verification?
 
 A. Supreme Court judges retire at 65.  
 B. Article 145(3) requires at least five judges in specified cases.  
-C. Sanctioned strength is 34 including the CJI.  
+C. Sanctioned strength is 38 including the CJI.  
 D. The exact working strength, vacancy count or pendency total is fixed and current.
 
 **Answer: D.** [LIMIT] Working strength and pendency are live variables.
@@ -2202,7 +2244,7 @@ Both Union and State law enforced through one hierarchy
 
 | Recall | Control |
 |---|---|
-| Sanctioned strength | 34 including CJI |
+| Sanctioned strength | 38 including CJI |
 | Working strength | Live; verify separately |
 | Retirement | 65 |
 | Seat | Delhi; another place by CJI with President's approval |
@@ -2574,7 +2616,7 @@ delay + cost + unequal access
 
 ### Final rapid-fire traps
 
-1. Sanctioned strength **34 including CJI**; working strength is live.
+1. Sanctioned strength **38 including CJI**; working strength is live.
 2. SC retirement **65**; HC retirement **62**.
 3. No minimum appointment age.
 4. Distinguished jurist is eligible for SC.

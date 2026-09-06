@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "economy-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "economy_topic_review_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "economy-21",
+      "display_title": "IMF, World Bank, ADB, AIIB, NDB and Global Governance",
+      "active_generation": 24,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g24\\economy-21_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Institution comparison grid",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "MANDATE -> stabilisation or development purpose",
+            "CLIENT -> sovereign or private counterparty",
+            "INSTRUMENT -> loan, guarantee, surveillance or advice",
+            "GOVERNANCE + CONDITIONALITY -> voice and implementation rules",
+            "MUST REMEMBER: IMF, World Bank Group, ADB, AIIB and NDB differ in membership, voting,..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g24\\economy-21_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "IMF function rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SURVEILLANCE",
+            "-> EXTERNAL FINANCING NEED",
+            "-> FACILITY + CONDITIONALITY",
+            "-> REVIEWS + REPAYMENT"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g24\\economy-21_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Quota and SDR map",
+          "structural_type": "relationship-map",
+          "ascii_lines": [
+            "QUOTA -> contribution",
+            "QUOTA -> voting + access",
+            "QUOTA -> general SDR allocation share",
+            "SDR -> reserve asset; not loan"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g24\\economy-21_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Reserve tranche trap",
+          "structural_type": "terminology-board",
+          "ascii_lines": [
+            "RESERVE TRANCHE POSITION -> liquid IMF claim",
+            "GOLD TRANCHE -> historical name",
+            "PROGRAMME CREDIT -> separate borrowing",
+            "RESERVE ASSET != fiscal receipt"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g24\\economy-21_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "IMF facility ladder",
+          "structural_type": "comparison-ladder",
+          "ascii_lines": [
+            "RFI -> urgent one-off support",
+            "SBA -> shorter stabilisation arrangement",
+            "EFF -> medium-term structural need",
+            "VERIFY current access limits separately"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g24\\economy-21_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "World Bank Group map",
+          "structural_type": "institution-map",
+          "ascii_lines": [
+            "IBRD -> eligible sovereign borrowers",
+            "IDA -> concessional sovereign window",
+            "IFC -> private sector",
+            "MIGA -> political-risk guarantees",
+            "CLOSE DISTINCTION: IMF quota is not World Bank capital, SDR is not a currency, project..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g24\\economy-21_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Development-bank family",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "ADB -> Asia-Pacific regional bank",
+            "AIIB -> sustainable infrastructure + connectivity",
+            "NDB -> BRICS-founded development bank",
+            "MANDATES overlap but governance differs"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g24\\economy-21_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "ADB PYQ anchor",
+          "structural_type": "objective-card",
+          "ascii_lines": [
+            "NATURE SOLUTIONS FINANCE HUB",
+            "LAUNCHED BY ADB",
+            "ASIA AND THE PACIFIC",
+            "DO NOT invent current finance totals"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g24\\economy-21_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Lending-window distinction",
+          "structural_type": "two-track-flow",
+          "ascii_lines": [
+            "PROJECT LOAN -> asset + appraisal",
+            "POLICY LOAN -> reform programme",
+            "GUARANTEE -> defined risk",
+            "CO-FINANCE -> shared funding structure"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g24\\economy-21_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Foreign-currency risk chain",
+          "structural_type": "cause-effect-board",
+          "ascii_lines": [
+            "FOREIGN-CURRENCY LIABILITY",
+            "DOMESTIC-CURRENCY REVENUE",
+            "DEPRECIATION -> repayment burden",
+            "CONCESSIONAL TERMS do not erase mismatch"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g24\\economy-21_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Debt-treatment timeline",
+          "structural_type": "timeline-strip",
+          "ascii_lines": [
+            "DSSI -> temporary suspension",
+            "COMMON FRAMEWORK -> treatment beyond DSSI",
+            "OFFICIAL + PRIVATE creditor coordination",
+            "CASE STATUS -> verify by date"
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g24\\economy-21_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Global-governance answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "COMPARE mandate + window",
+            "TEST voice + ownership",
+            "ASSESS additionality + debt",
+            "CONCLUDE reformed plural multilateralism",
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Verify institution, window, borrower..."
+          ],
+          "source_references": [
+            "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g24\\economy-21_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

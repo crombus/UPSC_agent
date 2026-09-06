@@ -2,14 +2,14 @@
 
 **Complete independent learning session + verified PYQ routing + solved practice workbook + final consolidated register notes**
 
-**Legal/current control date:** 25 August 2026 (Asia/Kolkata)
+**Legal/current control date:** 5 September 2026 (Asia/Kolkata)
 
 > **Tag key:** `[FACT]` = named constitutional, statutory, official, judicial or audited local support; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked for the control date; `[LIMIT]` = qualification.
 >
 > **Answer-writing discipline:** claim -> named evidence -> analysis -> qualification.
 
-- [CURRENT] Status is controlled to **25 August 2026, Asia/Kolkata**.
-- [CURRENT] **Live official refresh, 25 August 2026:** The official Constitution/Supreme Court portals and the controlling decision-year ledger were rechecked on 25 August 2026. Decided holdings are separated from later references, reviews, interim orders and pending questions; no pending doctrinal issue is presented as settled law.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
+- [CURRENT] **Live official refresh, 5 September 2026:** The official Constitution/Supreme Court portals and the controlling decision-year ledger were rechecked on 5 September 2026. Decided holdings are separated from later references, reviews, interim orders and pending questions; no pending doctrinal issue is presented as settled law.
 
 #### How to Use This Package
 
@@ -891,6 +891,49 @@ temporary procedural control, not necessarily final doctrine.
 CONSTITUTIONAL MORALITY / ERP / TRANSFORMATION
 identify text, right, conflict, precedent and remedy; never invoke as slogans.
 
+### Semantic-completeness ownership and PYQ control
+
+- **Method before label:** begin with constitutional text, structure, purpose,
+  history and binding precedent. Identify whether the problem concerns
+  competence, rights, meaning, precedent, time or remedy before naming a doctrine.
+- **Rights-validity set:** severability preserves an intended workable valid
+  remainder; classical eclipse suspends inconsistent pre-Constitution law;
+  Fundamental Rights generally cannot be waived to validate unconstitutional
+  State action. These doctrines have different triggers and legal effects.
+- **Competence set:** pith and substance locates true nature; ancillary power
+  supports effective exercise; colourability tests disguised lack of competence;
+  territorial nexus tests real connection; Article 254 repugnancy operates in
+  the Concurrent field and cannot cure lack of competence.
+- **Meaning/remedy set:** harmonious construction reconciles provisions;
+  reading down chooses a textually available valid meaning; reading into needs
+  a strong constitutional basis; severance or striking down follows when no
+  lawful saving construction remains. Courts may interpret but not enact a code.
+- **Authority and time:** Article 141 binds through ratio subject to
+  bench-strength discipline. Article 142 does complete justice in the cause but
+  is not a substitute for binding law. Prospective overruling must be expressly
+  fashioned rather than presumed whenever precedent changes.
+- **Amendment control:** Kesavananda Bharati, Indira Nehru Gandhi, Minerva Mills,
+  Waman Rao and I.R. Coelho keep Article 368 amendment power wide but limited
+  by basic structure. The doctrine is judicially developed, not an enumerated list.
+- **Equality intensity:** presumption of constitutionality is rebuttable;
+  administrative arbitrariness, classification review and manifest arbitrariness
+  are not synonyms. Proportionality asks legality, legitimate aim, rational
+  connection, necessity and balance without transferring policy choice to courts.
+- **Morality and transformation:** constitutional morality and transformative
+  constitutionalism must be anchored in text, equal citizenship, role morality,
+  precedent and a legitimate remedy. They do not authorise personal moral review.
+- **Religion caution:** Shirur Mutt anchors essential-religious-practices
+  analysis, but equality, dignity, denominational autonomy and secular activity
+  remain separate questions. The nine-judge reference arising from the
+  Sabarimala review remains pending; no fresh final holding is asserted.
+- **Neighbouring doctrines:** pleasure, legitimate expectation, promissory
+  estoppel, casus omissus, constitutional silence and conventions solve narrower
+  problems and must not replace the primary competence or rights doctrine.
+- **Official-source control, checked 5 September 2026:** the Constitution,
+  Supreme Court/e-SCR judgments and bench procedure remain authoritative. No
+  located 2025-26 decision displaced the established map; direct and routed PYQ
+  ownership is preserved without treating a smaller bench as overruling.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Original MCQs 1-36 — Broad Coverage
@@ -1735,7 +1778,7 @@ legal effect -> institutional limitation -> qualified remedy`.
 
 ### Constitutional Interpretation Doctrines: Rapid Constitutional Recall
 
-- **Current-control rule:** The official Constitution/Supreme Court portals and the controlling decision-year ledger were rechecked on 25 August 2026. Decided holdings are separated from later references, reviews, interim orders and pending questions; no pending doctrinal issue is presented as settled law.
+- **Current-control rule:** The official Constitution/Supreme Court portals and the controlling decision-year ledger were rechecked on 5 September 2026. Decided holdings are separated from later references, reviews, interim orders and pending questions; no pending doctrinal issue is presented as settled law.
 - **Factual caveat:** A doctrine is a structured test anchored in text, structure and precedent, not a substitute for the governing Article. Interpretation, amendment and judicial legislation are distinct. Bench strength, decision year, legal effect and limitation must accompany every case-based doctrine.
 
 #### 1. Why doctrines matter

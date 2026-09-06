@@ -2,13 +2,13 @@
 
 **Complete learning session + solved PYQs + solved practice + final register notes**
 
-**Legal/current control date:** 24 August 2026 (Asia/Kolkata)
+**Legal/current control date:** 5 September 2026 (Asia/Kolkata)
 
 > **Tag key:** `[FACT]` = directly supported by a named legal/official source; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked for this package's control date; `[LIMIT]` = a boundary, qualification, unresolved issue, or deliberately unfrozen fact.
 
-- [CURRENT] Status is controlled to **24 August 2026, Asia/Kolkata**.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
 
-- [CURRENT] **Live official refresh, 24 August 2026:** The CVC Act, DSPE Act, Lokpal and Prevention of Corruption Act interfaces, official CVC/CBI/DoPT descriptions and controlling Supreme Court decisions were rechecked on 24 August 2026. Officeholders, consent-State counts and live caseloads are not frozen.
+- [CURRENT] **Live official refresh, 5 September 2026:** The CVC Act, DSPE Act, Lokpal and Prevention of Corruption Act interfaces, official CVC/CBI/DoPT descriptions and controlling Supreme Court decisions were rechecked on 5 September 2026. The dated CVC and CBI leadership is recorded; consent-State counts and live caseloads remain variable.
 #### How to Use This Package
 
 This is an independent UPSC learning session, not a short revision sheet. Read the concept sections first, then attempt the PYQ and practice workbook. The **Final Consolidated Register Notes** are deliberately placed last.
@@ -1328,7 +1328,7 @@ The exam-safe limitation is that included as stable legal control Deliberately n
 
 [CURRENT] Legal verification for this package used official statute/Gazette or Government-hosted text and official Supreme Court judgments/orders available for the control exercise.
 
-[LIMIT] “Current as of 24 August 2026” is a control label for the package. Where a live matter lacks a separately verified official merits decision, the text stops at the last verified holding instead of predicting an outcome.
+[LIMIT] “Current as of 5 September 2026” is a control label for the package. Where a live matter lacks a separately verified official merits decision, the text stops at the last verified holding instead of predicting an outcome.
 
 ### 22. Answer-Writing Frameworks
 
@@ -1473,6 +1473,53 @@ The exam-safe limitation is that [FACT] Central Vigilance Commission Act, 2003: 
 - `[FACT]` *Dr Jaya Thakur v. Union of India (2023) v Union of India* (2023 INSC 616).
 - `[FACT]` *State of West Bengal v Union of India* (2024 INSC 502), limited to the preliminary ruling stated above.
 - `[FACT]` Official UPSC Civil Services (Main) Examination 2021 GS-II question and official 2026 Prelims GS-I Set A paper.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Legal identity:** CVC is statutory under the Central Vigilance Commission
+  Act, 2003. CBI is an organisation constituted by executive resolution on
+  1 April 1963; the Delhi Special Police Establishment Act, 1946 supplies its
+  core police powers. Neither is a constitutional body.
+- **Current leadership, checked 5 September 2026:** A S Rajeev, a serving
+  Vigilance Commissioner, is authorised to act as Central Vigilance
+  Commissioner from 3 August 2026; Praveen Vashista is the other officially
+  identified Vigilance Commissioner. Praveen Sood continues as CBI Director
+  under the dated extension through 24 May 2027.
+- **CVC appointment and tenure:** the President appoints the Central Vigilance
+  Commissioner and up to two Vigilance Commissioners after recommendation by
+  the PM-Home Minister-LoP committee. The term is four years or age sixty-five,
+  whichever is earlier. Removal for proved misbehaviour/incapacity uses a
+  Supreme Court inquiry; direct statutory grounds remain separate.
+- **CVC jurisdiction:** section 8 functions include specified superintendence
+  over DSPE corruption investigations, vigilance administration, inquiry or
+  investigation on references/complaints, review of investigation progress and
+  prosecution-sanction applications, and advice. Directions cannot require
+  disposal of a particular case in a particular manner.
+- **CVO and disciplinary boundary:** Central Vigilance Officers connect
+  prevention, complaint scrutiny and departmental action. CVC advice informs
+  the competent disciplinary authority but is not a criminal judgment or
+  universally binding adjudication.
+- **CBI Director:** appointment follows DSPE section 4A through the
+  PM-LoP-CJI/nominee committee after the statutory eligibility panel. The
+  minimum tenure is two years. The 2021 amendment permits recorded
+  public-interest extensions one year at a time up to five years in aggregate;
+  five years is not automatic. Transfer requires committee consent.
+- **Territorial jurisdiction:** sections 3 and 5 identify notified offences and
+  extension of DSPE powers; section 6 ordinarily requires State consent.
+  General consent can be withdrawn prospectively, specific consent remains
+  possible, and constitutional courts retain exceptional Articles 32/226 power
+  to direct a CBI investigation without consent.
+- **Superintendence split:** CVC superintends DSPE investigation of specified
+  Prevention of Corruption Act offences; the Central Government superintends
+  other DSPE matters. Lokpal has bounded superintendence for Lokpal-referred cases.
+- **Case controls:** Vineet Narain created the independence architecture;
+  Committee for Protection of Democratic Rights (2010) preserves constitutional
+  court power; Kazi Lhendup Dorji addresses validly begun investigations after
+  consent withdrawal; Fertico is fact-specific; Alok Kumar Verma protects the
+  statutory Director process; Jaya Thakur upheld the conditional extension framework.
+- **PYQ firewall:** the verified 2021 GS-II federal-consent demand and the
+  controlled 2026 objective institutional-matching demand are owned here.
+  No current State-consent count or caseload statistic is frozen.
 
 ## BASIC MCQS / REMEDIATION
 
@@ -2973,7 +3020,7 @@ GUILT: court alone
 
 ### 21. Current-Control Limits to Write in the Margin
 
-- `[CURRENT]` Structure and holdings controlled to 24 August 2026 for this package.
+- `[CURRENT]` Structure and holdings controlled to 5 September 2026 for this package.
 - `[LIMIT]` No current officeholders frozen.
 - `[LIMIT]` No count of States withholding consent frozen.
 - `[LIMIT]` No live case, conviction, vacancy or sanction-pendency statistic frozen.

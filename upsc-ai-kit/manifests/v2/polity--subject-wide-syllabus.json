@@ -38,10 +38,19 @@
         "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf"
       ],
       "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Historical-Background.md",
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-01_Learning-Session.md",
-      "notes_pdf": "notes\\Polity\\learning-session-v2\\polity-01\\polity-01_Learning-Session_2026-08-21.pdf",
-      "workbook_pdf": "notes\\Polity\\learning-session-v2\\polity-01\\polity-01_Solved-Workbook_2026-08-21.pdf",
-      "superseded_v1": "polity-01:legacy-v1:g1"
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\polity-01_Complete-Learning-Session_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\polity-01_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\polity-01_Solved-Practice-Workbook_2026-09-05.pdf",
+      "superseded_v1": "polity-01:legacy-v1:g1",
+      "status": "generated_unapproved",
+      "generation": 17,
+      "record_id": "polity-01:learner-v2:g17",
+      "approved": false,
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\polity-01_Solved-Practice-Workbook_2026-09-05.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-01-deep-review-2026-09-05-g17.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-01\\carvaka-g17",
+      "generation_identity": "polity-01:learner-v2:g17"
     },
     {
       "topic_key": "polity-02",
@@ -67,10 +76,10 @@
         "books\\prelima_question_paper_answers\\Ans-2026-GS1-Provisional.pdf"
       ],
       "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Making-of-the-Constitution.md",
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-02_Learning-Session.md",
-      "notes_pdf": "notes\\Polity\\learning-session-v2\\polity-02\\polity-02_Learning-Session_2026-08-21.pdf",
-      "workbook_pdf": "notes\\Polity\\learning-session-v2\\polity-02\\polity-02_Solved-Workbook_2026-08-21.pdf",
-      "asset_folder": "notes\\Polity\\learning-session-v2\\polity-02\\assets",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\polity-02_Complete-Learning-Session_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\polity-02_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\polity-02_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\assets",
       "flowchart_pdf": "notes\\Polity\\flowcharts\\polity-02\\polity-02_Complete-MultiPage-Flowchart_2026-08-21.pdf",
       "flowchart_previews": [
         "notes\\Polity\\flowcharts\\polity-02\\polity-02_Complete-MultiPage-Flowchart_2026-08-21_p01.png",
@@ -82,7 +91,7 @@
         "notes\\Polity\\flowcharts\\polity-02\\polity-02_Complete-MultiPage-Flowchart_2026-08-21_p07.png",
         "notes\\Polity\\flowcharts\\polity-02\\polity-02_Complete-MultiPage-Flowchart_2026-08-21_p08.png"
       ],
-      "generation_identity": "polity-02:learner-v2:g2",
+      "generation_identity": "polity-02:learner-v2:g18",
       "approved": false,
       "superseded_v1": "polity-02:legacy-v1:g1",
       "provenance": {
@@ -94,7 +103,13 @@
         "live_sources": [],
         "current_linkage_note": "No live current-affairs story was inserted. Samvidhan Divas (Constitution Day) is retained only as static context tied to 26 November; no 2026 commemorative claim is made.",
         "pyq_status_note": "2024 Q61 is verified against the official Set-A key. The 2021 and 2023 model answers are constitutional/static-evidence solutions because local official keys are unavailable. The 2026 Q55 constitutional-text solution D conflicts with repository provisional key B and is explicitly not presented as an official final key."
-      }
+      },
+      "status": "generated_unapproved",
+      "generation": 18,
+      "record_id": "polity-02:learner-v2:g18",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-02\\g18\\polity-02_Solved-Practice-Workbook_2026-09-05.md",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-02-deep-review-2026-09-05-g18.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-02\\carvaka-g18"
     },
     {
       "topic_key": "polity-03",
@@ -116,10 +131,10 @@
         "books\\prelima_question_paper_answers\\Ans-2024-GS1.pdf"
       ],
       "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Salient-Features.md",
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-03_Learning-Session.md",
-      "notes_pdf": "notes\\Polity\\learning-session-v2\\polity-03\\polity-03_Learning-Session_2026-08-21.pdf",
-      "workbook_pdf": "notes\\Polity\\learning-session-v2\\polity-03\\polity-03_Solved-Workbook_2026-08-21.pdf",
-      "asset_folder": "notes\\Polity\\learning-session-v2\\polity-03\\assets",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\polity-03_Complete-Learning-Session_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\polity-03_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\polity-03_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\assets",
       "flowchart_pdf": "notes\\Polity\\flowcharts\\polity-03\\polity-03_Complete-MultiPage-Flowchart_2026-08-21.pdf",
       "flowchart_previews": [
         "notes\\Polity\\flowcharts\\polity-03\\polity-03_Complete-MultiPage-Flowchart_2026-08-21_p01.png",
@@ -131,7 +146,7 @@
         "notes\\Polity\\flowcharts\\polity-03\\polity-03_Complete-MultiPage-Flowchart_2026-08-21_p07.png",
         "notes\\Polity\\flowcharts\\polity-03\\polity-03_Complete-MultiPage-Flowchart_2026-08-21_p08.png"
       ],
-      "generation_identity": "polity-03:learner-v2:g2",
+      "generation_identity": "polity-03:learner-v2:g19",
       "approved": false,
       "superseded_v1": "polity-03:legacy-v1:g1",
       "provenance": {
@@ -146,7 +161,13 @@
           "https://api.sci.gov.in/supremecourt/2013/21321/21321_2013_32_1501_28728_Judgement_20-Jul-2021.pdf"
         ],
         "current_linkage_note": "Only Gazette commencement, Article 370/J&K status and cooperative-society legal status were retained as dated supporting illustrations. No Governor timeline, implementation election, seat projection or decorative current-affairs claim was inserted."
-      }
+      },
+      "status": "generated_unapproved",
+      "generation": 19,
+      "record_id": "polity-03:learner-v2:g19",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-03\\g19\\polity-03_Solved-Practice-Workbook_2026-09-05.md",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-03-deep-review-2026-09-05-g19.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-03\\carvaka-g19"
     },
     {
       "topic_key": "polity-04",
@@ -173,10 +194,10 @@
         "books\\mains\\UPSC Mains 2025 GS Paper 4.pdf"
       ],
       "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Preamble.md",
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-04_Learning-Session.md",
-      "notes_pdf": "notes\\Polity\\learning-session-v2\\polity-04\\polity-04_Learning-Session_2026-08-21.pdf",
-      "workbook_pdf": "notes\\Polity\\learning-session-v2\\polity-04\\polity-04_Solved-Workbook_2026-08-21.pdf",
-      "asset_folder": "notes\\Polity\\learning-session-v2\\polity-04\\assets",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\polity-04_Complete-Learning-Session_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\polity-04_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\polity-04_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\assets",
       "flowchart_pdf": "notes\\Polity\\flowcharts\\polity-04\\polity-04_Complete-MultiPage-Flowchart_2026-08-21.pdf",
       "flowchart_previews": [
         "notes\\Polity\\flowcharts\\polity-04\\polity-04_Complete-MultiPage-Flowchart_2026-08-21_p01.png",
@@ -190,7 +211,7 @@
         "notes\\Polity\\flowcharts\\polity-04\\polity-04_Complete-MultiPage-Flowchart_2026-08-21_p09.png",
         "notes\\Polity\\flowcharts\\polity-04\\polity-04_Complete-MultiPage-Flowchart_2026-08-21_p10.png"
       ],
-      "generation_identity": "polity-04:learner-v2:g2",
+      "generation_identity": "polity-04:learner-v2:g19",
       "approved": false,
       "superseded_v1": "polity-04:legacy-v1:g1",
       "provenance": {
@@ -204,7 +225,13 @@
         ],
         "current_linkage_note": "Dr Balram Singh (25 November 2024) remains the verified controlling public decision through exact official-domain/citation searches to 21 August 2026; no later official judgment or order altering it was located.",
         "pyq_status_note": "2020 Prelims Q16 is the direct owner. 2024 GS-II Q15 and 2025 GS-II Q11 are verified from local official papers and retained as shared Preamble applications while their primary routing owners remain Comparative Constitutional Schemes and Supreme Court."
-      }
+      },
+      "status": "generated_unapproved",
+      "generation": 19,
+      "record_id": "polity-04:learner-v2:g19",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\polity-04_Solved-Practice-Workbook_2026-09-05.md",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-04-deep-review-2026-09-05-g19.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-04\\carvaka-g19"
     },
     {
       "topic_key": "polity-05",
@@ -225,9 +252,9 @@
         "books\\prelima_question_paper_answers\\Ans-2025-GS1.pdf"
       ],
       "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-and-Territory.md",
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-05_Learning-Session.md",
-      "notes_pdf": "notes\\Polity\\learning-session-v2\\polity-05\\polity-05_Learning-Session_2026-08-21.pdf",
-      "workbook_pdf": "notes\\Polity\\learning-session-v2\\polity-05\\polity-05_Solved-Workbook_2026-08-21.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\polity-05_Complete-Learning-Session_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\polity-05_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\polity-05_Solved-Practice-Workbook_2026-09-05.pdf",
       "flowchart_pdf": "notes\\Polity\\flowcharts\\polity-05\\polity-05_Complete-MultiPage-Flowchart_2026-08-21.pdf",
       "flowchart_previews": [
         "notes\\Polity\\flowcharts\\polity-05\\polity-05_Complete-MultiPage-Flowchart_2026-08-21_p01.png",
@@ -238,7 +265,7 @@
         "notes\\Polity\\flowcharts\\polity-05\\polity-05_Complete-MultiPage-Flowchart_2026-08-21_p06.png",
         "notes\\Polity\\flowcharts\\polity-05\\polity-05_Complete-MultiPage-Flowchart_2026-08-21_p07.png"
       ],
-      "generation_identity": "polity-05:learner-v2:g2",
+      "generation_identity": "polity-05:learner-v2:g18",
       "approved": false,
       "superseded_v1": "polity-05:legacy-v1:g1",
       "provenance": {
@@ -257,7 +284,14 @@
         ],
         "current_linkage_note": "Official sources checked through 21 August 2026 support 28 States and 8 Union Territories, J&K as a UT with Legislature and Ladakh as a UT without Legislature. No later dated official status-changing notification or order was located; Ladakh Statehood and Sixth-Schedule demands remain under official dialogue rather than enacted law.",
         "pyq_status_note": "2025 Prelims GS-I Q52 and official answer C are verified from the local official Set-A paper and key. 2018 Mains GS-I Q12 and 2022 Mains GS-I Q11 are owner-preserved and corroborated by the central routing ledger; no additional local official-paper file was found for those two Mains questions."
-      }
+      },
+      "status": "generated_unapproved",
+      "generation": 18,
+      "record_id": "polity-05:learner-v2:g18",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\polity-05_Solved-Practice-Workbook_2026-09-05.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-05\\g18\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-05-deep-review-2026-09-05-g18.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-05\\carvaka-g18"
     },
     {
       "topic_key": "polity-06",
@@ -278,9 +312,9 @@
         "books\\more_previous_papers\\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf"
       ],
       "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Citizenship.md",
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-06_Learning-Session.md",
-      "notes_pdf": "notes\\Polity\\learning-session-v2\\polity-06\\polity-06_Learning-Session_2026-08-21.pdf",
-      "workbook_pdf": "notes\\Polity\\learning-session-v2\\polity-06\\polity-06_Solved-Workbook_2026-08-21.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g17\\polity-06_Complete-Learning-Session_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g17\\polity-06_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g17\\polity-06_Solved-Practice-Workbook_2026-09-05.pdf",
       "flowchart_pdf": "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21.pdf",
       "flowchart_previews": [
         "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p01.png",
@@ -297,7 +331,7 @@
         "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_p12.png"
       ],
       "flowchart_contact_sheet": "notes\\Polity\\flowcharts\\polity-06\\polity-06_Complete-MultiPage-Flowchart_2026-08-21_contact-sheet.png",
-      "generation_identity": "polity-06:learner-v2:g2",
+      "generation_identity": "polity-06:learner-v2:g17",
       "approved": false,
       "superseded_v1": "polity-06:legacy-v1:g1",
       "provenance": {
@@ -328,7 +362,14 @@
         ],
         "current_linkage_note": "Official sources checked through 21 August 2026 show the 2019 Act and 2024 Rules operative; no later citizenship amendment/rule altering the scheme was located. The 2025 immigration regime preserves but does not expand CAA citizenship eligibility; its 31 December 2024 exemption date is not the CAA's 31 December 2014 citizenship cut-off. CAA challenges have procedural Supreme Court orders in February/March 2026 but no located final judgment. Section 6A remains valid 4:1 with implementation monitoring, and the 2021 OCI notification remains the latest located Section 7B notification.",
         "pyq_status_note": "2021 Prelims GS-I Q89 is the direct owner and 2018 Prelims GS-I Q12 is a genuine cross-topic citizenship-proof PYQ. Both question texts were verified from local official papers; direct local official keys were unavailable, so both answers are prominently labelled inferred. No direct Mains citizenship PYQ was located."
-      }
+      },
+      "status": "generated_unapproved",
+      "generation": 17,
+      "record_id": "polity-06:learner-v2:g17",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g17\\polity-06_Solved-Practice-Workbook_2026-09-05.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-06\\g17\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-06-deep-review-2026-09-05-g17.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-06\\carvaka-g17"
     },
     {
       "topic_key": "polity-07",
@@ -356,9 +397,9 @@
         "books\\mains\\02 UPSC 2024 Paper-II.pdf"
       ],
       "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md",
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Polity\\learning-sessions\\v2\\subject-wide-syllabus\\polity-07_Learning-Session.md",
-      "notes_pdf": "notes\\Polity\\learning-session-v2\\polity-07\\polity-07_Learning-Session_2026-08-21.pdf",
-      "workbook_pdf": "notes\\Polity\\learning-session-v2\\polity-07\\polity-07_Solved-Workbook_2026-08-21.pdf",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\polity-07_Complete-Learning-Session_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\polity-07_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\polity-07_Solved-Practice-Workbook_2026-09-05.pdf",
       "flowchart_pdf": "notes\\Polity\\flowcharts\\polity-07\\polity-07_Complete-MultiPage-Flowchart_2026-08-21.pdf",
       "flowchart_previews": [
         "notes\\\\Polity\\\\flowcharts\\\\polity-07\\\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_p01.png",
@@ -372,7 +413,7 @@
         "notes\\\\Polity\\\\flowcharts\\\\polity-07\\\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_p09.png",
         "notes\\\\Polity\\\\flowcharts\\\\polity-07\\\\polity-07_Complete-MultiPage-Flowchart_2026-08-21_p10.png"
       ],
-      "generation_identity": "polity-07:learner-v2:g2",
+      "generation_identity": "polity-07:learner-v2:g19",
       "approved": false,
       "superseded_v1": "polity-07:legacy-v1:g1",
       "provenance": {
@@ -399,7 +440,14 @@
         ],
         "current_linkage_note": "Official materials checked through 21 August 2026: no later altering official decision was located for Electoral Bonds, Davinder Singh or Property Owners; DPDP Act/Rules use final 13 November 2025 phased notifications and only their first tranche is operative by the control date; BNS/BNSS operate from 1 July 2024; the Supreme Court issued Section 152 vires notice on 28 August 2025 but no final merits disposition was located.",
         "pyq_status_note": "All 21 owner-routed PYQs are preserved: six Mains; thirteen 2018-2023 Prelims solutions labelled inferred; 2024 Q76 officially keyed D; 2026 Q54 provisionally keyed D and explicitly non-official."
-      }
+      },
+      "status": "generated_unapproved",
+      "generation": 19,
+      "record_id": "polity-07:learner-v2:g19",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\polity-07_Solved-Practice-Workbook_2026-09-05.md",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-07\\g19\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-07-deep-review-2026-09-05-g19.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-07\\carvaka-g19"
     },
     {
       "topic_key": "polity-08",
@@ -427,11 +475,11 @@
       "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Directive-Principles.md",
       "source_complete_package": "upsc-ai-kit\\knowledge\\Polity\\08_Directive-Principles_Complete-Topic-Package.md",
       "current_audit": "upsc-ai-kit\\manifests\\exports\\polity-08-source-pyq-current-audit-2026-08-24.json",
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Complete-Learning-Session_2026-08-24.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\polity-08_Solved-Practice-Workbook_2026-08-24.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\assets",
-      "generation_identity": "polity-08:learner-v2:g2",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\polity-08_Complete-Learning-Session_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\polity-08_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\polity-08_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\assets",
+      "generation_identity": "polity-08:learner-v2:g9",
       "approved": false,
       "superseded_v1": "polity-08:legacy-v1:g1",
       "provenance": {
@@ -445,7 +493,13 @@
         ],
         "current_linkage_note": "Official NALSA homepage accessed 24 August 2026 anchors Article 39A institutionally. No six-month controlling change to Part IV or Article 31C was located; no change is inferred.",
         "pyq_status_note": "Exact routed wording retained. 2025 Q55 uses the verified local official Set-A key; 2020/2021 answers remain explicitly inferred; Mains models are independent because UPSC supplies no model solution."
-      }
+      },
+      "status": "generated_unapproved",
+      "generation": 9,
+      "record_id": "polity-08:learner-v2:g9",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\polity-08_Solved-Practice-Workbook_2026-09-05.md",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-08-deep-review-2026-09-05-g9.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-08\\carvaka-g9"
     },
     {
       "topic_key": "polity-09",
@@ -471,11 +525,11 @@
       "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Duties.md",
       "source_complete_package": "upsc-ai-kit\\knowledge\\Polity\\09_Fundamental-Duties_Complete-Topic-Package.md",
       "current_audit": "upsc-ai-kit\\manifests\\exports\\polity-09-source-pyq-current-audit-2026-08-24.json",
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Complete-Learning-Session_2026-08-24.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\polity-09_Solved-Practice-Workbook_2026-08-24.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\assets",
-      "generation_identity": "polity-09:learner-v2:g2",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\polity-09_Complete-Learning-Session_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\polity-09_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\polity-09_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\assets",
+      "generation_identity": "polity-09:learner-v2:g5",
       "approved": false,
       "superseded_v1": "polity-09:legacy-v1:g1",
       "provenance": {
@@ -489,7 +543,13 @@
         ],
         "current_linkage_note": "Official MoEF page accessed 24 August 2026 is used only as a current Article 51A(g) administrative anchor. No later Durga Dutt merits ruling is claimed.",
         "pyq_status_note": "No directly owned routed PYQ was found. Supporting 2020 Q8 and 2025 Q55 retain polity-08 ownership; 2025 key is official locally and 2020 remains inferred."
-      }
+      },
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "polity-09:learner-v2:g5",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\polity-09_Solved-Practice-Workbook_2026-09-05.md",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-09-deep-review-2026-09-05-g5.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-09\\carvaka-g5"
     },
     {
       "topic_key": "polity-10",
@@ -523,11 +583,11 @@
       "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Amendment-and-Basic-Structure.md",
       "source_complete_package": "upsc-ai-kit\\knowledge\\Polity\\10_Amendment-and-Basic-Structure_Complete-Topic-Package.md",
       "current_audit": "upsc-ai-kit\\manifests\\exports\\polity-10-source-pyq-current-audit-2026-08-24.json",
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\polity-10_Complete-Learning-Session_2026-08-24.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\polity-10_Complete-Learning-Session_2026-08-24.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\polity-10_Solved-Practice-Workbook_2026-08-24.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\assets",
-      "generation_identity": "polity-10:learner-v2:g2",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\polity-10_Complete-Learning-Session_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\polity-10_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\polity-10_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\assets",
+      "generation_identity": "polity-10:learner-v2:g8",
       "approved": false,
       "superseded_v1": "polity-10:legacy-v1:g1",
       "provenance": {
@@ -541,7 +601,13 @@
         ],
         "current_linkage_note": "Official Gazette S.O. 1922(E), fetched 24 August 2026, anchors the 106th Amendment commencement-versus-operation distinction; the defeated 131st Bill remains a proposal only.",
         "pyq_status_note": "Exact wording retained for 2 Mains and 8 Prelims PYQs. Official local keys verified for 2024 Q66 and 2025 Q58; older objective answers remain explicitly inferred."
-      }
+      },
+      "status": "generated_unapproved",
+      "generation": 8,
+      "record_id": "polity-10:learner-v2:g8",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-10\\g8\\polity-10_Solved-Practice-Workbook_2026-09-05.md",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-10-deep-review-2026-09-05-g8.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-10\\carvaka-g8"
     },
     {
       "topic_key": "polity-11",
@@ -571,11 +637,11 @@
       "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliamentary-System.md",
       "source_complete_package": "upsc-ai-kit\\knowledge\\Polity\\11_Parliamentary-System_Complete-Topic-Package.md",
       "current_audit": "upsc-ai-kit\\manifests\\exports\\polity-11-source-pyq-current-audit-2026-08-24.json",
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\polity-11_Complete-Learning-Session_2026-08-24.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\polity-11_Complete-Learning-Session_2026-08-24.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\polity-11_Solved-Practice-Workbook_2026-08-24.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\assets",
-      "generation_identity": "polity-11:learner-v2:g2",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\g5\\polity-11_Complete-Learning-Session_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\g5\\polity-11_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\g5\\polity-11_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\g5\\assets",
+      "generation_identity": "polity-11:learner-v2:g5",
       "approved": false,
       "superseded_v1": "polity-11:legacy-v1:g1",
       "provenance": {
@@ -590,7 +656,13 @@
         ],
         "current_linkage_note": "Cabinet Secretariat and Digital Sansad were accessed on 24 August 2026. Cabinet coordination is the institutional anchor; the 129th Bill remains a proposal and Article 82A is not current text.",
         "pyq_status_note": "Exact wording retained for 5 routed PYQs. Historical objective keys remain explicitly inferred; Mains models are independent."
-      }
+      },
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "polity-11:learner-v2:g5",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-11\\g5\\polity-11_Solved-Practice-Workbook_2026-09-05.md",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-11-deep-review-2026-09-05-g5.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-11\\carvaka-g5"
     },
     {
       "topic_key": "polity-12",
@@ -620,11 +692,11 @@
       "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Federal-System.md",
       "source_complete_package": "upsc-ai-kit\\knowledge\\Polity\\12_Federal-System_Complete-Topic-Package.md",
       "current_audit": "upsc-ai-kit\\manifests\\exports\\polity-12-source-pyq-current-audit-2026-08-24.json",
-      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Complete-Learning-Session_2026-08-24.md",
-      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Complete-Learning-Session_2026-08-24.pdf",
-      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\polity-12_Solved-Practice-Workbook_2026-08-24.pdf",
-      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\assets",
-      "generation_identity": "polity-12:learner-v2:g2",
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\g8\\polity-12_Complete-Learning-Session_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\g8\\polity-12_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\g8\\polity-12_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\g8\\assets",
+      "generation_identity": "polity-12:learner-v2:g8",
       "approved": false,
       "superseded_v1": "polity-12:legacy-v1:g1",
       "provenance": {
@@ -639,7 +711,13 @@
         ],
         "current_linkage_note": "GST Council and Inter-State Council Secretariat official sites were accessed on 24 August 2026 as shared-rule anchors. Current fiscal, assent, CBI and delimitation controls remain explicitly bounded.",
         "pyq_status_note": "Exact wording retained for 5 routed PYQs. Objective answers remain explicitly inferred where official keys are unavailable; Mains models are independent."
-      }
+      },
+      "status": "generated_unapproved",
+      "generation": 8,
+      "record_id": "polity-12:learner-v2:g8",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-12\\g8\\polity-12_Solved-Practice-Workbook_2026-09-05.md",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-12-deep-review-2026-09-05-g8.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-12\\carvaka-g8"
     },
     {
       "topic_key": "polity-13",
@@ -649,7 +727,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\13_Centre-State-and-Inter-State-Relations.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Centre-State-Relations.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Centre-State-Relations.md",
+      "status": "generated_unapproved",
+      "generation": 4,
+      "record_id": "polity-13:learner-v2:g4",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\g4\\polity-13_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\g4\\polity-13_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\g4\\polity-13_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\g4\\polity-13_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-13\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-13-deep-review-2026-09-05-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-13\\carvaka-g4",
+      "generation_identity": "polity-13:learner-v2:g4"
     },
     {
       "topic_key": "polity-14",
@@ -659,7 +749,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\14_Emergency-Provisions.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md",
+      "status": "generated_unapproved",
+      "generation": 4,
+      "record_id": "polity-14:learner-v2:g4",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\polity-14_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\polity-14_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\polity-14_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\polity-14_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-14-deep-review-2026-09-05-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-14\\carvaka-g4",
+      "generation_identity": "polity-14:learner-v2:g4"
     },
     {
       "topic_key": "polity-15",
@@ -669,7 +771,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\15_President-and-Vice-President.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\President-and-Vice-President.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\President-and-Vice-President.md",
+      "status": "generated_unapproved",
+      "generation": 6,
+      "record_id": "polity-15:learner-v2:g6",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\g6\\polity-15_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\g6\\polity-15_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\g6\\polity-15_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\g6\\polity-15_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-15\\g6\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-15-deep-review-2026-09-05-g6.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-15\\carvaka-g6",
+      "generation_identity": "polity-15:learner-v2:g6"
     },
     {
       "topic_key": "polity-16",
@@ -679,7 +793,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\16_PM-and-Council-of-Ministers.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\PM-and-Council-of-Ministers.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\PM-and-Council-of-Ministers.md",
+      "status": "generated_unapproved",
+      "generation": 7,
+      "record_id": "polity-16:learner-v2:g7",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-16\\g7\\polity-16_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-16\\g7\\polity-16_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-16\\g7\\polity-16_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-16\\g7\\polity-16_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-16\\g7\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-16-deep-review-2026-09-05-g7.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-16\\carvaka-g7",
+      "generation_identity": "polity-16:learner-v2:g7"
     },
     {
       "topic_key": "polity-17",
@@ -689,7 +815,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\17_Parliament.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Parliament.md",
+      "status": "generated_unapproved",
+      "generation": 6,
+      "record_id": "polity-17:learner-v2:g6",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\g6\\polity-17_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\g6\\polity-17_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\g6\\polity-17_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\g6\\polity-17_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-17\\g6\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-17-deep-review-2026-09-05-g6.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-17\\carvaka-g6",
+      "generation_identity": "polity-17:learner-v2:g6"
     },
     {
       "topic_key": "polity-18",
@@ -729,7 +867,19 @@
       ],
       "current_linkage_note": "Official sitting-judges roster counted 34 judges on 28 August 2026, equal to the 34-judge sanctioned strength under the 2019 Act. Current office-holder, working-strength, collegium and annual-report claims remain explicitly dated.",
       "pyq_status_note": "Eight routed Mains demands retain year, paper, question number, marks and word-limit guidance. Seven routed Prelims demands retain key-provenance limits; no missing official key is fabricated.",
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Supreme-Court.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Supreme-Court.md",
+      "status": "generated_unapproved",
+      "generation": 4,
+      "record_id": "polity-18:learner-v2:g4",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-18\\g4\\polity-18_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-18\\g4\\polity-18_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-18\\g4\\polity-18_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-18\\g4\\polity-18_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-18\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-18-deep-review-2026-09-05-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-18\\carvaka-g4",
+      "generation_identity": "polity-18:learner-v2:g4"
     },
     {
       "topic_key": "polity-19",
@@ -770,7 +920,19 @@
       ],
       "current_linkage_note": "Assent doctrine and the unresolved Nabam Rebia reference were rechecked through 28 August 2026. B.P. Singhal, Subhash Desai and official commission reports provide appointment, removal, formation and reform controls.",
       "pyq_status_note": "Five routed Mains and four routed Prelims demands retain metadata and key-provenance limits. Cross-owned federal and emergency questions are explicitly labelled rather than misrepresented as direct Governor PYQs.",
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Governor-and-CM.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Governor-and-CM.md",
+      "status": "generated_unapproved",
+      "generation": 9,
+      "record_id": "polity-19:learner-v2:g9",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\g9\\polity-19_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\g9\\polity-19_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\g9\\polity-19_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\g9\\polity-19_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-19\\g9\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-19-deep-review-2026-09-05-g9.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-19\\carvaka-g9",
+      "generation_identity": "polity-19:learner-v2:g9"
     },
     {
       "topic_key": "polity-20",
@@ -810,7 +972,19 @@
       ],
       "current_linkage_note": "Six Legislative Council States, the failed/withdrawn 2026 delimitation package, Census 2027 reference dates, the 106th Amendment activation sequence, current assent law and Padi Kaushik Reddy Speaker-delay control were rechecked through 28 August 2026.",
       "pyq_status_note": "Two direct Mains PYQs and three routed Prelims demands retain exact available metadata and key-provenance limits; no unverified answer key is invented.",
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\State-Legislature.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\State-Legislature.md",
+      "status": "generated_unapproved",
+      "generation": 8,
+      "record_id": "polity-20:learner-v2:g8",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\g8\\polity-20_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\g8\\polity-20_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\g8\\polity-20_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\g8\\polity-20_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\g8\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-20-deep-review-2026-09-05-g8.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-20\\carvaka-g8",
+      "generation_identity": "polity-20:learner-v2:g8"
     },
     {
       "topic_key": "polity-21",
@@ -850,7 +1024,19 @@
         "https://ecourts.gov.in/ecourts_home/"
       ],
       "current_linkage_note": "The 1 July 2026 High Court strength statement, Rejanish Article 233 rule, 2025 All India Judges Association recruitment reforms, K. Valarmathi supervisory restraint, eCourts Phase III and collegium status were verified through 28 August 2026.",
-      "pyq_status_note": "Two cross-owned Mains PYQs and two routed Prelims demands retain exact available metadata and provenance limits; no unsupported objective key or official model is invented."
+      "pyq_status_note": "Two cross-owned Mains PYQs and two routed Prelims demands retain exact available metadata and provenance limits; no unsupported objective key or official model is invented.",
+      "status": "generated_unapproved",
+      "generation": 7,
+      "record_id": "polity-21:learner-v2:g7",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-21\\g7\\polity-21_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-21\\g7\\polity-21_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-21\\g7\\polity-21_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-21\\g7\\polity-21_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-21\\g7\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-21-deep-review-2026-09-05-g7.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-21\\carvaka-g7",
+      "generation_identity": "polity-21:learner-v2:g7"
     },
     {
       "topic_key": "polity-22",
@@ -881,7 +1067,19 @@
         "https://kkrdb.karnataka.gov.in/en"
       ],
       "current_linkage_note": "Article 370/J&K/Ladakh status and operative Articles 371-371J were verified through 28 August 2026; no J&K Statehood or Ladakh Sixth Schedule change was treated as enacted.",
-      "pyq_status_note": "One cross-owned 2025 Mains application and four routed Prelims demands retain exact available metadata and provenance limits."
+      "pyq_status_note": "One cross-owned 2025 Mains application and four routed Prelims demands retain exact available metadata and provenance limits.",
+      "status": "generated_unapproved",
+      "generation": 6,
+      "record_id": "polity-22:learner-v2:g6",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\g6\\polity-22_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\g6\\polity-22_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\g6\\polity-22_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\g6\\polity-22_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-22\\g6\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-22-deep-review-2026-09-05-g6.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-22\\carvaka-g6",
+      "generation_identity": "polity-22:learner-v2:g6"
     },
     {
       "topic_key": "polity-23",
@@ -918,7 +1116,19 @@
         "https://api.sci.gov.in/supremecourt/2021/5892/5892_2021_33_1501_26888_Order_12-Mar-2021.pdf"
       ],
       "current_linkage_note": "Constitution, Devolution Index 2024, Sixteenth Finance Commission 2026-31 framework, PESA-rule directory and controlling local-election judgments verified through 28 August 2026; no changing dashboard total frozen.",
-      "pyq_status_note": "Three direct/cross-owned Mains demands, one supporting 2024 local-body demand and the 2025 intermediate-tier Prelims route retain exact available metadata without invented official model answers."
+      "pyq_status_note": "Three direct/cross-owned Mains demands, one supporting 2024 local-body demand and the 2025 intermediate-tier Prelims route retain exact available metadata without invented official model answers.",
+      "status": "generated_unapproved",
+      "generation": 7,
+      "record_id": "polity-23:learner-v2:g7",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\polity-23_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\polity-23_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\polity-23_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\polity-23_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-23\\g7\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-23-deep-review-2026-09-05-g7.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-23\\carvaka-g7",
+      "generation_identity": "polity-23:learner-v2:g7"
     },
     {
       "topic_key": "polity-24",
@@ -952,7 +1162,19 @@
         "https://api.sci.gov.in/jonew/judis/28143.pdf"
       ],
       "current_linkage_note": "Part IXA, RBI Municipal Finances 2022, Sixteenth Finance Commission 2026-31, AMRUT 2.0 and SEBI municipal-debt controls verified through 28 August 2026; changing dashboard totals are not frozen.",
-      "pyq_status_note": "2023 direct Mains, supporting 2020/2024 Mains and official-keyed 2024 Prelims routes retain exact available metadata."
+      "pyq_status_note": "2023 direct Mains, supporting 2020/2024 Mains and official-keyed 2024 Prelims routes retain exact available metadata.",
+      "status": "generated_unapproved",
+      "generation": 4,
+      "record_id": "polity-24:learner-v2:g4",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-24\\g4\\polity-24_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-24\\g4\\polity-24_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-24\\g4\\polity-24_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-24\\g4\\polity-24_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-24\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-24-deep-review-2026-09-05-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-24\\carvaka-g4",
+      "generation_identity": "polity-24:learner-v2:g4"
     },
     {
       "topic_key": "polity-25",
@@ -971,7 +1193,19 @@
         "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
         "books\\mains\\UPSC Mains 2025 GS Paper 2.pdf"
       ],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-Territories.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Union-Territories.md",
+      "status": "generated_unapproved",
+      "generation": 6,
+      "record_id": "polity-25:learner-v2:g6",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g6\\polity-25_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g6\\polity-25_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g6\\polity-25_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g6\\polity-25_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-25\\g6\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-25-deep-review-2026-09-05-g6.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-25\\carvaka-g6",
+      "generation_identity": "polity-25:learner-v2:g6"
     },
     {
       "topic_key": "polity-26",
@@ -981,7 +1215,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\26_Scheduled-and-Tribal-Areas.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Scheduled-and-Tribal-Areas.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Scheduled-and-Tribal-Areas.md",
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "polity-26:learner-v2:g5",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g5\\polity-26_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g5\\polity-26_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g5\\polity-26_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g5\\polity-26_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-26\\g5\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-26-deep-review-2026-09-05-g5.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-26\\carvaka-g5",
+      "generation_identity": "polity-26:learner-v2:g5"
     },
     {
       "topic_key": "polity-27",
@@ -991,7 +1237,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\27_Election-Commission.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Election-Commission.md",
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "polity-27:learner-v2:g5",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\g5\\polity-27_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\g5\\polity-27_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\g5\\polity-27_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\g5\\polity-27_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-27\\g5\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-27-deep-review-2026-09-05-g5.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-27\\carvaka-g5",
+      "generation_identity": "polity-27:learner-v2:g5"
     },
     {
       "topic_key": "polity-28",
@@ -1001,7 +1259,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\28_UPSC-and-SPSC.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\UPSC-and-SPSC.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\UPSC-and-SPSC.md",
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "polity-28:learner-v2:g5",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\g5\\polity-28_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\g5\\polity-28_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\g5\\polity-28_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\g5\\polity-28_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-28\\g5\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-28-deep-review-2026-09-05-g5.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-28\\carvaka-g5",
+      "generation_identity": "polity-28:learner-v2:g5"
     },
     {
       "topic_key": "polity-29",
@@ -1011,7 +1281,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\29_Finance-Commission.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Finance-Commission.md",
+      "status": "generated_unapproved",
+      "generation": 4,
+      "record_id": "polity-29:learner-v2:g4",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\g4\\polity-29_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\g4\\polity-29_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\g4\\polity-29_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\g4\\polity-29_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-29\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-29-deep-review-2026-09-05-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-29\\carvaka-g4",
+      "generation_identity": "polity-29:learner-v2:g4"
     },
     {
       "topic_key": "polity-30",
@@ -1021,7 +1303,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\30_GST-Council.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\GST-Council.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\GST-Council.md",
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "polity-30:learner-v2:g5",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\g5\\polity-30_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\g5\\polity-30_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\g5\\polity-30_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\g5\\polity-30_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-30\\g5\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-30-deep-review-2026-09-05-g5.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-30\\carvaka-g5",
+      "generation_identity": "polity-30:learner-v2:g5"
     },
     {
       "topic_key": "polity-31",
@@ -1031,7 +1325,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\31_National-Commissions-SC-ST-BC.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\National-Commissions-SC-ST-BC.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\National-Commissions-SC-ST-BC.md",
+      "status": "generated_unapproved",
+      "generation": 4,
+      "record_id": "polity-31:learner-v2:g4",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\g4\\polity-31_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\g4\\polity-31_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\g4\\polity-31_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\g4\\polity-31_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-31\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-31-deep-review-2026-09-05-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-31\\carvaka-g4",
+      "generation_identity": "polity-31:learner-v2:g4"
     },
     {
       "topic_key": "polity-32",
@@ -1041,7 +1347,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\32_CAG.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\CAG.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\CAG.md",
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "polity-32:learner-v2:g5",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\g5\\polity-32_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\g5\\polity-32_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\g5\\polity-32_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\g5\\polity-32_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-32\\g5\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-32-deep-review-2026-09-05-g5.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-32\\carvaka-g5",
+      "generation_identity": "polity-32:learner-v2:g5"
     },
     {
       "topic_key": "polity-33",
@@ -1051,7 +1369,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\33_Attorney-General-and-Advocate-General.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Attorney-General.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Attorney-General.md",
+      "status": "generated_unapproved",
+      "generation": 6,
+      "record_id": "polity-33:learner-v2:g6",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\g6\\polity-33_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\g6\\polity-33_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\g6\\polity-33_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\g6\\polity-33_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-33\\g6\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-33-deep-review-2026-09-05-g6.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-33\\carvaka-g6",
+      "generation_identity": "polity-33:learner-v2:g6"
     },
     {
       "topic_key": "polity-34",
@@ -1061,7 +1391,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\34_NITI-Aayog.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\NITI-Aayog.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\NITI-Aayog.md",
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "polity-34:learner-v2:g5",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g5\\polity-34_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g5\\polity-34_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g5\\polity-34_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g5\\polity-34_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-34\\g5\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-34-deep-review-2026-09-05-g5.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-34\\carvaka-g5",
+      "generation_identity": "polity-34:learner-v2:g5"
     },
     {
       "topic_key": "polity-35",
@@ -1071,7 +1413,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\35_NHRC-and-SHRC.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\NHRC-and-SHRC.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\NHRC-and-SHRC.md",
+      "status": "generated_unapproved",
+      "generation": 8,
+      "record_id": "polity-35:learner-v2:g8",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\g8\\polity-35_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\g8\\polity-35_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\g8\\polity-35_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\g8\\polity-35_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-35\\g8\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-35-deep-review-2026-09-05-g8.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-35\\carvaka-g8",
+      "generation_identity": "polity-35:learner-v2:g8"
     },
     {
       "topic_key": "polity-36",
@@ -1081,7 +1435,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\36_CIC-and-SIC.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\CIC-and-SIC.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\CIC-and-SIC.md",
+      "status": "generated_unapproved",
+      "generation": 6,
+      "record_id": "polity-36:learner-v2:g6",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\g6\\polity-36_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\g6\\polity-36_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\g6\\polity-36_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\g6\\polity-36_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-36\\g6\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-36-deep-review-2026-09-05-g6.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-36\\carvaka-g6",
+      "generation_identity": "polity-36:learner-v2:g6"
     },
     {
       "topic_key": "polity-37",
@@ -1091,7 +1457,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\37_CVC-and-CBI.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\CVC-and-CBI.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\CVC-and-CBI.md",
+      "status": "generated_unapproved",
+      "generation": 8,
+      "record_id": "polity-37:learner-v2:g8",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\g8\\polity-37_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\g8\\polity-37_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\g8\\polity-37_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\g8\\polity-37_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-37\\g8\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-37-deep-review-2026-09-05-g8.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-37\\carvaka-g8",
+      "generation_identity": "polity-37:learner-v2:g8"
     },
     {
       "topic_key": "polity-38",
@@ -1101,7 +1479,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\38_Lokpal-and-Lokayuktas.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Lokpal-and-Lokayuktas.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Lokpal-and-Lokayuktas.md",
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "polity-38:learner-v2:g5",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\g5\\polity-38_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\g5\\polity-38_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\g5\\polity-38_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\g5\\polity-38_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-38\\g5\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-38-deep-review-2026-09-05-g5.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-38\\carvaka-g5",
+      "generation_identity": "polity-38:learner-v2:g5"
     },
     {
       "topic_key": "polity-39",
@@ -1111,7 +1501,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\39_Cooperative-Societies.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Cooperative-Societies.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Cooperative-Societies.md",
+      "status": "generated_unapproved",
+      "generation": 6,
+      "record_id": "polity-39:learner-v2:g6",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g6\\polity-39_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g6\\polity-39_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g6\\polity-39_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g6\\polity-39_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-39\\g6\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-39-deep-review-2026-09-05-g6.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-39\\carvaka-g6",
+      "generation_identity": "polity-39:learner-v2:g6"
     },
     {
       "topic_key": "polity-40",
@@ -1121,7 +1523,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\40_Official-Language.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Official-Language.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Official-Language.md",
+      "status": "generated_unapproved",
+      "generation": 6,
+      "record_id": "polity-40:learner-v2:g6",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\polity-40_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\polity-40_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\polity-40_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\polity-40_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-40\\g6\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-40-deep-review-2026-09-05-g6.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-40\\carvaka-g6",
+      "generation_identity": "polity-40:learner-v2:g6"
     },
     {
       "topic_key": "polity-41",
@@ -1131,7 +1545,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\41_Public-Services.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Public-Services.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Public-Services.md",
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "polity-41:learner-v2:g5",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\polity-41_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\polity-41_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\polity-41_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\polity-41_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-41\\g5\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-41-deep-review-2026-09-05-g5.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-41\\carvaka-g5",
+      "generation_identity": "polity-41:learner-v2:g5"
     },
     {
       "topic_key": "polity-42",
@@ -1141,7 +1567,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\42_Anti-Defection-Law.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Anti-Defection-Law.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Anti-Defection-Law.md",
+      "status": "generated_unapproved",
+      "generation": 6,
+      "record_id": "polity-42:learner-v2:g6",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\g6\\polity-42_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\g6\\polity-42_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\g6\\polity-42_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\g6\\polity-42_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-42\\g6\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-42-deep-review-2026-09-05-g6.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-42\\carvaka-g6",
+      "generation_identity": "polity-42:learner-v2:g6"
     },
     {
       "topic_key": "polity-43",
@@ -1161,7 +1599,19 @@
         "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
         "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md"
       ],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Political-Parties.md",
+      "status": "generated_unapproved",
+      "generation": 8,
+      "record_id": "polity-43:learner-v2:g8",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\polity-43_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\polity-43_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\polity-43_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\polity-43_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-43\\g8\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-43-deep-review-2026-09-05-g8.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-43\\carvaka-g8",
+      "generation_identity": "polity-43:learner-v2:g8"
     },
     {
       "topic_key": "polity-44",
@@ -1180,7 +1630,19 @@
         "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
         "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md"
       ],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Pressure-Groups.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Pressure-Groups.md",
+      "status": "generated_unapproved",
+      "generation": 7,
+      "record_id": "polity-44:learner-v2:g7",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g7\\polity-44_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g7\\polity-44_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g7\\polity-44_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g7\\polity-44_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-44\\g7\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-44-deep-review-2026-09-05-g7.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-44\\carvaka-g7",
+      "generation_identity": "polity-44:learner-v2:g7"
     },
     {
       "topic_key": "polity-45",
@@ -1190,7 +1652,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\45_National-Integration-and-Foreign-Policy.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\National-Integration-and-Foreign-Policy.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\National-Integration-and-Foreign-Policy.md",
+      "status": "generated_unapproved",
+      "generation": 8,
+      "record_id": "polity-45:learner-v2:g8",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g8\\polity-45_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g8\\polity-45_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g8\\polity-45_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g8\\polity-45_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-45\\g8\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-45-deep-review-2026-09-05-g8.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-45\\carvaka-g8",
+      "generation_identity": "polity-45:learner-v2:g8"
     },
     {
       "topic_key": "polity-46",
@@ -1200,7 +1674,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "polity-46:learner-v2:g5",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-46-deep-review-2026-09-05-g5.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-46\\carvaka-g5",
+      "generation_identity": "polity-46:learner-v2:g5"
     },
     {
       "topic_key": "polity-47",
@@ -1210,7 +1696,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\47_Comparative-Constitutional-Design.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Comparative-Constitutional-Schemes.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Comparative-Constitutional-Schemes.md",
+      "status": "generated_unapproved",
+      "generation": 6,
+      "record_id": "polity-47:learner-v2:g6",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\g6\\polity-47_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\g6\\polity-47_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\g6\\polity-47_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\g6\\polity-47_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-47\\g6\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-47-deep-review-2026-09-05-g6.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-47\\carvaka-g6",
+      "generation_identity": "polity-47:learner-v2:g6"
     },
     {
       "topic_key": "polity-48",
@@ -1220,7 +1718,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\48_Ministries-Departments-and-Central-Secretariat.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Ministries-and-Departments-of-Government.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Ministries-and-Departments-of-Government.md",
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "polity-48:learner-v2:g5",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g5\\polity-48_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g5\\polity-48_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g5\\polity-48_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g5\\polity-48_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-48\\g5\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-48-deep-review-2026-09-05-g5.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-48\\carvaka-g5",
+      "generation_identity": "polity-48:learner-v2:g5"
     },
     {
       "topic_key": "polity-49",
@@ -1230,7 +1740,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\49_Regulatory-State-and-Quasi-Judicial-Institutions.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Statutory-Regulatory-and-Quasi-Judicial-Bodies.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Statutory-Regulatory-and-Quasi-Judicial-Bodies.md",
+      "status": "generated_unapproved",
+      "generation": 6,
+      "record_id": "polity-49:learner-v2:g6",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g6\\polity-49_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g6\\polity-49_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g6\\polity-49_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g6\\polity-49_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-49\\g6\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-49-deep-review-2026-09-05-g6.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-49\\carvaka-g6",
+      "generation_identity": "polity-49:learner-v2:g6"
     },
     {
       "topic_key": "polity-50",
@@ -1240,7 +1762,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\50_Concept-of-the-Constitution.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Concept-of-the-Constitution.md",
+      "status": "generated_unapproved",
+      "generation": 4,
+      "record_id": "polity-50:learner-v2:g4",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\polity-50_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-50\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-50-deep-review-2026-09-05-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-50\\carvaka-g4",
+      "generation_identity": "polity-50:learner-v2:g4"
     },
     {
       "topic_key": "polity-51",
@@ -1250,7 +1784,19 @@
       "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\51_Rights-and-Liabilities-of-the-Government.md",
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Rights-and-Liabilities-of-the-Government.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Rights-and-Liabilities-of-the-Government.md",
+      "status": "generated_unapproved",
+      "generation": 4,
+      "record_id": "polity-51:learner-v2:g4",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-51\\g4\\polity-51_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-51\\g4\\polity-51_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-51\\g4\\polity-51_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-51\\g4\\polity-51_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-51\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-51-deep-review-2026-09-05-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-51\\carvaka-g4",
+      "generation_identity": "polity-51:learner-v2:g4"
     },
     {
       "topic_key": "polity-52",
@@ -1260,7 +1806,19 @@
       "source_advanced": null,
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\NCRWC-and-Working-of-the-Constitution.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\NCRWC-and-Working-of-the-Constitution.md",
+      "status": "generated_unapproved",
+      "generation": 5,
+      "record_id": "polity-52:learner-v2:g5",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g5\\polity-52_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g5\\polity-52_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g5\\polity-52_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g5\\polity-52_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g5\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-52-deep-review-2026-09-05-g5.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-52\\carvaka-g5",
+      "generation_identity": "polity-52:learner-v2:g5"
     },
     {
       "topic_key": "polity-53",
@@ -1270,7 +1828,19 @@
       "source_advanced": null,
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions-Relating-to-Certain-Classes.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions-Relating-to-Certain-Classes.md",
+      "status": "generated_unapproved",
+      "generation": 4,
+      "record_id": "polity-53:learner-v2:g4",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\g4\\polity-53_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\g4\\polity-53_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\g4\\polity-53_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\g4\\polity-53_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-53-deep-review-2026-09-05-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-53\\carvaka-g4",
+      "generation_identity": "polity-53:learner-v2:g4"
     },
     {
       "topic_key": "polity-54",
@@ -1280,7 +1850,19 @@
       "source_advanced": null,
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Lok-Adalats-and-Other-Courts.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Lok-Adalats-and-Other-Courts.md",
+      "status": "generated_unapproved",
+      "generation": 4,
+      "record_id": "polity-54:learner-v2:g4",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\g4\\polity-54_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\g4\\polity-54_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\g4\\polity-54_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\g4\\polity-54_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-54\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-54-deep-review-2026-09-05-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-54\\carvaka-g4",
+      "generation_identity": "polity-54:learner-v2:g4"
     },
     {
       "topic_key": "polity-55",
@@ -1290,7 +1872,19 @@
       "source_advanced": null,
       "cross_topic_sources": [],
       "verified_pyq_sources": [],
-      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md"
+      "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Constitutional-Interpretation-Doctrines.md",
+      "status": "generated_unapproved",
+      "generation": 4,
+      "record_id": "polity-55:learner-v2:g4",
+      "approved": false,
+      "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\g4\\polity-55_Complete-Learning-Session_2026-09-05.md",
+      "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\g4\\polity-55_Solved-Practice-Workbook_2026-09-05.md",
+      "notes_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\g4\\polity-55_Complete-Learning-Session_2026-09-05.pdf",
+      "workbook_pdf": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\g4\\polity-55_Solved-Practice-Workbook_2026-09-05.pdf",
+      "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-55\\g4\\assets",
+      "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\polity-55-deep-review-2026-09-05-g4.json",
+      "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-55\\carvaka-g4",
+      "generation_identity": "polity-55:learner-v2:g4"
     }
   ]
 }

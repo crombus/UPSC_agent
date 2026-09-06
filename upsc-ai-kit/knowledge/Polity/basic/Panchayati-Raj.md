@@ -114,7 +114,7 @@ bodies keep the fiscal-devolution ("3 Fs") debate alive.
 ### 5.8 Bank E — Committee lineage and PESA (evolution and tribal extension)
 
 - **Claim:** PRIs grew from a settled committee lineage. → **Evidence:** **Balwant Rai Mehta (1957)** — "democratic decentralisation", the 3-tier scheme (Gram Panchayat–Panchayat Samiti–Zila Parishad), first launched in **Rajasthan (Nagaur, 2 Oct 1959)**; **Ashok Mehta (1977–78)** — a 2-tier scheme and open party participation; **G.V.K. Rao (1985)** — the district as the basic planning unit, warning against bureaucratisation; **L.M. Singhvi (1986)** — **constitutional status** for PRIs and Nyaya Panchayats. → **Significance:** the 73rd Amendment enacted Singhvi's core recommendation. → **Caution:** ✅ do not swap the recommendations — Ashok Mehta = 2-tier, Balwant Rai Mehta = 3-tier.
-- **Claim:** Tribal areas get a bespoke self-governance statute. → **Evidence:** **Art 243M** excludes Fifth/Sixth Schedule areas from Part IX; **PESA 1996** extends the panchayat framework to **Fifth Schedule areas**, vesting the **Gram Sabha** with control over local resources, minor forest produce, land-alienation prevention and mandatory consultation before land acquisition/mining; the **Forest Rights Act 2006** is the companion rights statute. → **Significance:** the constitutional-plus-PESA design makes the tribal Gram Sabha the strongest in law. → **Caution:** ✅ PESA covers **Fifth**, not Sixth, Schedule areas; ⚠️ implementation lags the statute.
+- **Claim:** Tribal areas get a bespoke self-governance statute. → **Evidence:** **Art 243M** excludes Fifth/Sixth Schedule areas from Part IX; **PESA 1996** extends the panchayat framework to **Fifth Schedule areas**, vesting the **Gram Sabha** with ownership of minor forest produce and specified control over local resources/land alienation; consultation before land acquisition and mandatory prior recommendation for minor-mineral licences, leases and concessions; the **Forest Rights Act 2006** is the companion rights statute. → **Significance:** the constitutional-plus-PESA design makes the tribal Gram Sabha the strongest in law. → **Caution:** ✅ PESA covers **Fifth**, not Sixth, Schedule areas; ⚠️ implementation lags the statute.
 
 ### 5.9 Mechanism, institutional incentives and consequences
 
@@ -193,4 +193,46 @@ bodies keep the fiscal-devolution ("3 Fs") debate alive.
 - ✅ **Articles 243L and 243N:** the President may apply Part IX to a Union Territory with exceptions; inconsistent pre-existing Panchayat laws could continue only up to one year from commencement unless earlier changed.
 - ✅ **Article 243M:** the Nagaland/Meghalaya/Mizoram extension route requires a State Assembly resolution supported by a majority of total membership and at least two-thirds present and voting; the parliamentary extension law is not treated as an Article 368 amendment. PESA uses the separate Scheduled-Area route for Fifth Schedule areas.
 - ⚖️ **Kishansing Tomar (2006):** timely local elections are a constitutional mandate. **K. Krishna Murthy (2010)** and **Vikas Kishanrao Gawali (2021)** require local-body-specific empirical justification and the triple test for OBC political reservation. **State of Goa v. Fouziya Imtiaz Shaikh (2021)** protects SEC independence.
-- 📰 **Dated current controls (28 August 2026):** use the Ministry's **Devolution Index Report 2024**, the Sixteenth Finance Commission's **2026–31** report/action memorandum, and the Ministry's live State-wise PESA-rules directory. Do not freeze changing portal totals or infer implementation from rule notification alone.
+- 📰 **Dated current controls (5 September 2026):** use the Ministry's **Devolution Index Report 2024**, the Sixteenth Finance Commission's **2026–31** report/action memorandum, and the Ministry's live State-wise PESA-rules directory. Do not freeze changing portal totals or infer implementation from rule notification alone.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional birth:** the Constitution (Seventy-third Amendment) Act, 1992
+  inserted Part IX and the Eleventh Schedule and commenced on 24 April 1993.
+  Articles 243-243O and the twenty-nine Schedule matters are the exact core.
+- **Democratic structure:** Article 243A leaves Gram Sabha powers to State law;
+  Article 243B creates village, intermediate and district tiers, with the
+  population-not-exceeding-twenty-lakh intermediate-tier exception; Articles
+  243C-243F govern composition, reservation, duration and disqualification.
+- **Election precision:** Article 243E requires election before expiry or within
+  six months of dissolution, unless the remainder is under six months; a
+  reconstituted Panchayat serves only the unexpired term. Article 243K vests
+  electoral control in the State Election Commission; Article 243O channels
+  challenges through election petitions.
+- **Devolution limit:** Article 243G and the Eleventh Schedule enable State-law
+  endowment of powers; they do not automatically transfer all twenty-nine matters.
+  Article 243H supplies taxes, assignments, grants and funds; Articles 243I/J
+  provide the State Finance Commission and audit routes.
+- **PESA scope:** Article 243M excludes specified areas and States. The Provisions
+  of the Panchayats (Extension to the Scheduled Areas) Act, 1996 extends a
+  modified framework only to Fifth Schedule Scheduled Areas, not Sixth Schedule areas.
+- **PESA verb control:** Section 4 requires consultation before land acquisition
+  and resettlement/rehabilitation; mandatory prior recommendation before minor-
+  mineral prospecting licences, mining leases and concessions; ownership of minor
+  forest produce; and specified powers over alienation, markets, money-lending,
+  social sectors and local plans. These verbs are not one universal Gram Sabha veto.
+- **Inclusion:** Article 243D makes SC/ST seat reservation population-linked,
+  reserves not less than one-third of all seats and chairperson offices for women,
+  and permits backward-class reservation. State laws providing fifty per cent
+  women's reservation are State-specific, not the constitutional national floor.
+- **Current evidence:** the Ministry of Panchayati Raj's Devolution Index Report
+  2024 remains the latest named national index located on the dated review. The
+  Sixteenth Finance Commission award period is 2026-27 to 2030-31; report ratios
+  and portal totals remain dated evidence.
+- **Ownership boundary:** Topic 23 owns Panchayat institutions and the PESA
+  Panchayat interface. Topic 26 owns the Fifth Schedule Governor/TAC/President
+  machinery and Sixth Schedule autonomous councils; PESA must not be used to
+  erase that distinction.
+- **Four-ledger/PYQ control:** direct 2018 finance and 2025 intermediate-tier
+  demands plus routed 2019-2024 women, three-F and rural-urban merger demands were
+  retained with official-key discipline and cross-owner labels.

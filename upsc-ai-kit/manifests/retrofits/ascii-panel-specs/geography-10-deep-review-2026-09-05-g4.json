@@ -1,0 +1,253 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "geography_process_spatial_causal_control": true,
+    "map_and_current_status_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-10",
+      "display_title": "Coastal Landforms / India Coast and CRZ",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Coastal-system balance",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "WAVES + TIDES + CURRENTS -> marine energy",
+            "RIVERS + CLIFFS + OFFSHORE -> sediment supply",
+            "SEA LEVEL + LAND MOTION -> accommodation space",
+            "HUMAN WORKS -> redistribute erosion and accretion",
+            "MUST REMEMBER: Coastal morphology connects wave generation, refraction, erosion, longshore",
+            "  drift, sediment cells, deposition and sea-level/tectonic change to cliffs,",
+            "  caves-arches-stacks, beaches, spits, bars, lagoons, deltas and India's east-west coast",
+            "  contrast.",
+            "MUST REMEMBER: Coastal morphology connects wave generation, refraction, erosion, longshore",
+            "  drift, sediment cells, deposition and sea-level/tectonic change to cliffs,",
+            "  caves-arches-stacks, beaches, spits, bars, lagoons, deltas and India's east-west coast",
+            "  contrast."
+          ],
+          "source_references": [
+            "Coastal system and sediment budget",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Refraction map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "DEEP WATER -> wave fronts travel faster",
+            "SHALLOW HEADLAND -> fronts slow and converge",
+            "BAY -> fronts diverge and energy disperses",
+            "RESULT -> erosion focus / depositional shelter"
+          ],
+          "source_references": [
+            "Wave refraction and energy concentration",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Erosional sequence",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "JOINT / FAULT -> hydraulic action + abrasion",
+            "CAVE -> widening and roof attack",
+            "ARCH -> roof collapse -> STACK",
+            "STACK -> undercutting -> STUMP"
+          ],
+          "source_references": [
+            "Marine erosion agents",
+            "Cave, arch, stack and stump",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Cliff retreat section",
+          "structural_type": "replacement-diagram",
+          "ascii_lines": [
+            "WAVE NOTCH -> basal undercutting",
+            "OVERHANG -> instability and collapse",
+            "DEBRIS REMOVAL -> renewed attack",
+            "RETREAT -> widening wave-cut platform"
+          ],
+          "source_references": [
+            "Cliff, notch and wave-cut platform",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Depositional discriminator",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SPIT -> one end attached",
+            "BAR -> crosses bay or mouth",
+            "LAGOON -> water enclosed behind bar",
+            "TOMBOLO -> joins island to land"
+          ],
+          "source_references": [
+            "Longshore drift and spits",
+            "Bars, lagoons and tombolos",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Relative sea-level fork",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "LAND RISE / SEA FALL -> emergence",
+            "RAISED BEACH + TERRACE -> exposed marine forms",
+            "LAND FALL / SEA RISE -> submergence",
+            "RIA = drowned river valley / FJORD = glacial trough"
+          ],
+          "source_references": [
+            "Emergent and submergent coasts",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Storm-surge chain",
+          "structural_type": "hazard-flow",
+          "ascii_lines": [
+            "CYCLONE WIND + LOW PRESSURE -> water setup",
+            "TRACK + SHELF + BATHYMETRY -> local amplification",
+            "HIGH TIDE + WAVES + RIVER FLOW -> compound level",
+            "EXPOSURE + WEAK EVACUATION -> disaster risk"
+          ],
+          "source_references": [
+            "Storm surge and compound water level",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "India coast contrast",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "EAST -> broader plains + large deltas",
+            "WEST -> narrower plain + many estuaries",
+            "PORT TEST -> depth, shelter, siltation, engineering",
+            "RULE -> tendency, not universal binary"
+          ],
+          "source_references": [
+            "India east-west coastal map",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "NCCR evidence boundary",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "PERIOD -> 1990-2018 assessment",
+            "ERODING -> about 33.6 percent",
+            "ACCRETING -> about 26.9 percent",
+            "STABLE -> about 39.6 percent; not an annual rate"
+          ],
+          "source_references": [
+            "NCCR shoreline evidence",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "CRZ implementation ladder",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "NOTIFICATION -> category-specific national rules",
+            "MAPPING -> HTL/LTL and technical inputs",
+            "CZMP -> consultation + approval + local map",
+            "PROJECT -> appraisal, decision, compliance",
+            "CLOSE DISTINCTION: Emergent and submergent coasts describe relative sea-level histories,",
+            "  erosional and depositional forms can coexist, and CRZ categories/regulatory lines are",
+            "  legal-planning constructs rather than geomorphic shoreline types.",
+            "CLOSE DISTINCTION: Emergent and submergent coasts describe relative sea-level histories,",
+            "  erosional and depositional forms can coexist, and CRZ categories/regulatory lines are",
+            "  legal-planning constructs rather than geomorphic shoreline types."
+          ],
+          "source_references": [
+            "CRZ category and CZMP logic",
+            "Institutions and clearance boundaries",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Coastal response hierarchy",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "AVOID -> keep new exposure out of high-risk space",
+            "RESTORE / ACCOMMODATE -> buffers + resilient use",
+            "RETREAT -> move assets where persistence fails",
+            "PROTECT -> selective works with downdrift audit",
+            "EVIDENCE LIMIT: Erosion control can shift risk downdrift; ports, dams, sand mining, storms,",
+            "  subsidence and sea-level rise interact, while CRZ rules, clearances and project status",
+            "  require exact notification/date/source discipline.",
+            "EVIDENCE LIMIT: Erosion control can shift risk downdrift; ports, dams, sand mining, storms,",
+            "  subsidence and sea-level rise interact, while CRZ rules, clearances and project status",
+            "  require exact notification/date/source discipline."
+          ],
+          "source_references": [
+            "PYQ route and integrated response",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Coast answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE + MAP -> process and coastal sector",
+            "DERIVE -> energy, sediment and sea-level chain",
+            "VERIFY -> period, category, plan and status",
+            "VERDICT -> integrated, adaptive and locally mapped"
+          ],
+          "source_references": [
+            "PYQ route and integrated response",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\10_Coastal-Landforms.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\10_India-Coast-and-CRZ.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g3\\geography-10_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-10\\g4\\geography-10_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

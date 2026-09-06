@@ -1,0 +1,81 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\geography-32-industries-and-industrial-regions-g16-to-g17.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-32-industries-and-industrial-regions\g16-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-32-industries-and-industrial-regions\g17-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-32-industries-and-industrial-regions\g17-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-32-industries-and-industrial-regions\geography-32-industries-and-industrial-regions-g16-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-32-industries-and-industrial-regions\geography-32-industries-and-industrial-regions-g17-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-32-industries-and-industrial-regions\REVIEW-REPORT.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\Geography\INDEX.md
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\README.txt
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\ascii-master.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\ascii-master.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\build-audit.json
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\editable\README.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\master.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\poster.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\preservation-hashes.json
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\previews\master-overview.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\previews\page-001.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\previews\page-002.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\previews\page-003.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\previews\page-004.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\previews\page-005.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\README.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\tiled.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\validation-report.txt
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\geography-32-industries-and-industrial-regions_Complete-Learning-Session_2026-09-05.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\geography-32-industries-and-industrial-regions_Solved-Practice-Workbook_2026-09-05.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\validation\workbook-visual-audit-map.json
+tools\regenerate_geography_part_b_deep_review.py
+upsc-ai-kit\knowledge\Geography\basic\32_Industries-and-Industrial-Regions.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\01_topic-roadmap.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\02_industry-classification-firewall.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\03_location-factor-wheel.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\04_weber-material-index-isodapane.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\07_agglomeration-diseconomy.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\10_global-industrial-regions.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\12_india-industrial-regions.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\24_pli-status-chain.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\25_corridor-logistics-architecture.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\26_india-corridor-nodes.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\33_monitoring-dashboard.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\34_current-status-firewall.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\35_upsc-answer-spine.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\36_theory-evolution-tree.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\37_location-lockin-relocation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\38_spread-backwash.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\40_sector-location-matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\geography-32_Teaching-Navigation_2026-08-23.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\geography-32-industries-and-industrial-regions_Complete-Learning-Session_2026-09-05.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\geography-32-industries-and-industrial-regions_Solved-Practice-Workbook_2026-09-05.md
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-05-selected-483-61f5badb8603-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-05-selected-483-61f5badb8603.json
+upsc-ai-kit\manifests\exports\geography-32-industries-and-industrial-regions-learner-v2-g17-2026-09-05-changed-files.txt
+upsc-ai-kit\manifests\exports\geography-32-industries-and-industrial-regions-learner-v2-g17-2026-09-05-record.json
+upsc-ai-kit\manifests\exports\geography-32-industries-and-industrial-regions-learner-v2-g17-2026-09-05-validation.json
+upsc-ai-kit\manifests\exports\geography-32-industries-and-industrial-regions-semantic-completeness-2026-09-05-changed-files.txt
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\geography-32-industries-and-industrial-regions-deep-review-2026-09-05-g17.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Geography\deep-review\geography-32-industries-and-industrial-regions-g17.json
+upsc-ai-kit\manifests\reviews\knowledge-semantic-completeness-status.json
+upsc-ai-kit\manifests\v2\geography--part-b-human-economic-and-regional-geography.json
+upsc-ai-kit\manifests\v2\geography--subject-wide-syllabus-content-specs\geography-32-industries-and-industrial-regions-g17.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

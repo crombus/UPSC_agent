@@ -1,0 +1,63 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\geography-31-g4-to-g5.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-31\g4-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-31\g5-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-31\g5-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-31\geography-31-g4-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-31\geography-31-g5-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-31\REVIEW-REPORT.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\Geography\INDEX.md
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\31-Mineral-a721a529-and-India\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\31-Mineral-a721a529-and-India\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\31-Mineral-a721a529-and-India\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\31-Mineral-a721a529-and-India\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\31-Mineral-a721a529-and-India\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\31-Mineral-a721a529-and-India\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\31-Mineral-a721a529-and-India\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\31-Mineral-a721a529-and-India\README.txt
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\ascii-master.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\ascii-master.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\build-audit.json
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\editable\README.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\master.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\poster.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\preservation-hashes.json
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\previews\master-overview.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\previews\page-001.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\previews\page-002.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\previews\page-003.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\previews\page-004.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\README.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\tiled.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\validation-report.txt
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-31\g5\geography-31_Complete-Learning-Session_2026-09-05.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-31\g5\geography-31_Solved-Practice-Workbook_2026-09-05.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-31\g5\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-31\g5\validation\workbook-visual-audit-map.json
+tools\regenerate_geography_part_b_deep_review.py
+upsc-ai-kit\knowledge\Geography\basic\31_Mineral-Energy-Resources-World-and-India.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-31\g5\assets\geography-31_Teaching-Navigation_2026-08-22.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-31\g5\geography-31_Complete-Learning-Session_2026-09-05.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-31\g5\geography-31_Solved-Practice-Workbook_2026-09-05.md
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-05-selected-483-61f5badb8603-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-05-selected-483-61f5badb8603.json
+upsc-ai-kit\manifests\exports\geography-31-learner-v2-g5-2026-09-05-changed-files.txt
+upsc-ai-kit\manifests\exports\geography-31-learner-v2-g5-2026-09-05-record.json
+upsc-ai-kit\manifests\exports\geography-31-learner-v2-g5-2026-09-05-validation.json
+upsc-ai-kit\manifests\exports\geography-31-semantic-completeness-2026-09-05-changed-files.txt
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\geography-31-deep-review-2026-09-05-g5.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Geography\deep-review\geography-31-g5.json
+upsc-ai-kit\manifests\reviews\knowledge-semantic-completeness-status.json
+upsc-ai-kit\manifests\v2\geography--part-b-human-economic-and-regional-geography.json
+upsc-ai-kit\manifests\v2\geography--subject-wide-syllabus-content-specs\geography-31-g5.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

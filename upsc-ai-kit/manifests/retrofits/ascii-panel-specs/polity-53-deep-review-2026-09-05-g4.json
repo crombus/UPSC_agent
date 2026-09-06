@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "polity-51-55-hostile-semantic-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "polity_legal_source_hierarchy": true,
+    "manually_authored_twelve_panels": true
+  },
+  "topics": [
+    {
+      "topic_key": "polity-53",
+      "display_title": "Special Provisions Relating to Certain Classes",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\g4\\polity-53_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Part XVI: four distinct constitutional techniques",
+          "structural_type": "deep-review-01",
+          "ascii_lines": [
+            "ROOT: inclusion is pursued through different legal effects.",
+            "",
+            "REPRESENTATION -> Arts 330-334A.",
+            "SERVICES -> Art 335 with Arts 15-16 cross-route.",
+            "SAFEGUARDS -> Arts 338-340.",
+            "IDENTIFICATION -> Arts 341-342A.",
+            "",
+            "FIREWALL: list != quota != commission report != welfare scheme.",
+            "MUST REMEMBER: Keep representation, service claims, safeguard commissions and beneficiary-list",
+            "  identification as four legally distinct Part XVI techniques."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-53\\g3-source\\polity-53_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\53_Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\g4\\polity-53_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "SC/ST legislative seats and territorial electorate",
+          "structural_type": "deep-review-02",
+          "ascii_lines": [
+            "ART 330 -> Lok Sabha SC/ST seats.",
+            "ART 332 -> Assembly SC/ST seats plus specified North-East rules.",
+            "SEAT/CANDIDACY RESERVED -> all constituency electors vote ordinarily.",
+            "",
+            "LIMIT: no Rajya Sabha or Legislative Council reservation under these Articles.",
+            "TRAP: political reservation != separate electorate."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-53\\g3-source\\polity-53_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\53_Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\g4\\polity-53_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Article 334 clocks and Anglo-Indian transition",
+          "structural_type": "deep-review-03",
+          "ascii_lines": [
+            "104TH AMENDMENT",
+            "SC/ST seat reservation -> eighty years from commencement -> 25 January 2030.",
+            "Anglo-Indian nomination -> seventy-year clock not extended -> ceased in 2020.",
+            "",
+            "ARTS 336-337 -> ten-year transitional protections exhausted.",
+            "TRAP: cessation through time clause != automatic textual deletion."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-53\\g3-source\\polity-53_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\53_Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\g4\\polity-53_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "106th Amendment: five-gate status chain",
+          "structural_type": "deep-review-04",
+          "ascii_lines": [
+            "ENACTMENT / INCORPORATION",
+            "        -> Gazette-appointed COMMENCEMENT under section 1(2)",
+            "        -> first post-commencement census",
+            "        -> relevant figures published",
+            "        -> delimitation for this purpose",
+            "        -> electoral operation under Art 334A.",
+            "",
+            "SCOPE: Lok Sabha, State Assemblies and Delhi Assembly; not Rajya Sabha/Councils.",
+            "",
+            "CURRENT STATUS: 5 SEPTEMBER 2026",
+            "S.O. 1922(E) commenced the Amendment on 16 April 2026.",
+            "The remaining chain is post-commencement census figures -> publication",
+            "-> delimitation -> electoral operation. Commenced != electorally applied."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-53\\g3-source\\polity-53_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\53_Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\g4\\polity-53_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Delimitation and women-within-SC/ST seats",
+          "structural_type": "deep-review-05",
+          "ascii_lines": [
+            "ARTS 330A / 332A -> one-third design, including one-third within SC/ST reserved seats.",
+            "ART 334A -> fifteen-year duration from operational commencement; later continuation by law.",
+            "ROTATION -> after subsequent delimitation as Parliament provides.",
+            "",
+            "TRAP: census publication alone does not draw constituencies."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-53\\g3-source\\polity-53_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\53_Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\g4\\polity-53_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Article 335 and the equality-service bridge",
+          "structural_type": "deep-review-06",
+          "ascii_lines": [
+            "SC/ST CLAIMS IN SERVICES",
+            "        + maintenance of administrative efficiency.",
+            "82ND AMENDMENT PROVISO -> qualifying-mark/evaluation relaxation for promotion reservation.",
+            "M. Nagaraj (2006) + Jarnail Singh (2018) -> controlling promotion doctrine.",
+            "",
+            "TRAP: no fixed quota and no definition of efficiency.",
+            "CLOSE DISTINCTION: Separate list membership, benefit design, sub-classification, monitoring,",
+            "  delimitation and electoral operation by exact competent authority."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-53\\g3-source\\polity-53_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\53_Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\g4\\polity-53_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "NCSC, NCST, NCBC and neighbouring powers",
+          "structural_type": "deep-review-07",
+          "ascii_lines": [
+            "ART 338 -> NCSC | 338A -> NCST | 338B -> NCBC.",
+            "INQUIRY + REPORT + ADVICE + CIVIL-COURT POWERS -> accountability, not binding decree.",
+            "ART 339 -> Scheduled Areas/ST welfare supervision.",
+            "ART 340 -> temporary backward-class investigation commission.",
+            "ART 275 -> separate welfare-grant route."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-53\\g3-source\\polity-53_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\53_Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\g4\\polity-53_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "SC/ST list authority under Articles 341-342",
+          "structural_type": "deep-review-08",
+          "ascii_lines": [
+            "PRESIDENT -> initial State/UT-specific specification after required consultation.",
+            "PARLIAMENT BY LAW -> inclusion/exclusion.",
+            "STATE -> cannot alter list by executive or legislation.",
+            "",
+            "TERRITORIALITY: status is not automatically pan-India.",
+            "TRAP: commission recommendation does not amend the list."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-53\\g3-source\\polity-53_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\53_Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\g4\\polity-53_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "SEBC federalism: 102nd to 105th Amendments",
+          "structural_type": "deep-review-09",
+          "ascii_lines": [
+            "102ND -> Arts 338B + 342A + Art 366(26C).",
+            "Jaishri Laxmanrao Patil (2021) -> pre-105th interpretation.",
+            "105TH -> Central List for Central purposes + State/UT own-purpose list by law.",
+            "",
+            "LIMIT: State SEBC power does not alter SC/ST lists."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-53\\g3-source\\polity-53_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\53_Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\g4\\polity-53_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "EWS as a separate equality route",
+          "structural_type": "deep-review-10",
+          "ascii_lines": [
+            "103RD AMENDMENT -> Arts 15(6) and 16(6).",
+            "ADDITIONAL RESERVATION -> up to 10% in each clause's field.",
+            "JANHIT ABHIYAN (2022) -> upheld 3:2.",
+            "",
+            "FIREWALL: EWS != Article 342A SEBC list != Article 335 SC/ST service claim."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-53\\g3-source\\polity-53_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\53_Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\g4\\polity-53_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Davinder Singh (2024): distribution, not list alteration",
+          "structural_type": "deep-review-11",
+          "ascii_lines": [
+            "E.V. Chinnaiah v. State of Andhra Pradesh (2004) -> earlier indivisibility rule.",
+            "Davinder Singh (2024) -> overruled it on sub-classification.",
+            "STATE MAY -> use evidence for fair distribution within notified SC class.",
+            "STATE MAY NOT -> alter Art 341 list or wholly exclude a listed caste.",
+            "",
+            "No automatic nationwide mandate."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-53\\g3-source\\polity-53_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\53_Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\g4\\polity-53_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "UPSC decision tree and qualified verdict",
+          "structural_type": "deep-review-12",
+          "ascii_lines": [
+            "1 FIELD -> legislature/local body/education/service.",
+            "2 CLASS -> SC/ST/SEBC/EWS.",
+            "3 AUTHORITY -> President/Parliament/State/commission/delimitation body.",
+            "4 EFFECT -> identify/benefit/monitor/adjudicate.",
+            "5 STATUS -> amendment, case, notification and date.",
+            "",
+            "VERDICT: substantive equality requires exact-source discipline.",
+            "LEGAL/SOURCE LIMIT: S.O. 1922(E) commenced the 106th Amendment on 16 April 2026, but Article",
+            "  334A electoral operation still awaits census figures and delimitation."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-53\\g3-source\\polity-53_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\53_Special-Provisions-Relating-to-Certain-Classes.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-53\\g4\\polity-53_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

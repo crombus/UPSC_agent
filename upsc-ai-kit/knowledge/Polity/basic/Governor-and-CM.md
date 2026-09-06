@@ -129,7 +129,7 @@ autonomous tribal-area administration. These exceptional texts must not be gener
 | President's action on reserved Bills | ✅ **Art 201** | President may assent, withhold, or direct the Governor to return it | The President is **not bound to assent** even if the House re-passes it |
 | Ordinances | ✅ **Art 213** | Law with the force of an Act when the Assembly is not in session; **ceases six weeks** after reassembly | **Cannot be serially re-promulgated** (*Wadhwa*, *Krishna Kumar Singh*); **must be laid** before the House |
 
-- **Pardon caution (Art 161):** ✅ the Governor **cannot pardon a death sentence** and **cannot touch court-martial sentences**, but **may suspend, remit or commute** any sentence including a death sentence — never merge Art 161 with the President's Art 72.
+- **Pardon caution (Art 161):** ✅ the Governor may **pardon, reprieve, respite, remit, suspend or commute** a sentence, including a death sentence, when the offence is against a law within State executive power; **court-martial remains outside Article 161** — never merge Art 161 with the President's Art 72.
 
 ### 6.7 Bank D — Chief Minister and the State Council of Ministers
 
@@ -170,7 +170,7 @@ autonomous tribal-area administration. These exceptional texts must not be gener
 | **Governor's immunity + words in the Legislature** (2025 Q59) | ✅ The Governor's protection is **Art 361 office immunity** (no criminal proceedings/arrest during term); immunity for **words spoken in the Legislature (Art 194)** belongs to **members** — the Governor is **not a member** |
 | **Criminal proceedings + emoluments protection** (2018 Q41) | ✅ **Art 361** — no criminal proceedings against the Governor during his term; ✅ his **emoluments/allowances cannot be diminished** during his term |
 | **Ideal appointment criteria** (2019 Q66) | ✅ **Sarkaria/Punchhi/NCRWC** — eminent outsider, non-partisan, not a recent active politician, appointed after **consulting the CM** |
-| President vs Governor pardon | ✅ Governor (Art 161) **cannot pardon death/court-martial**; the President (Art 72) can |
+| President vs Governor pardon | ✅ Governor (Art 161) may pardon within the State offence-law field but has no court-martial limb; President (Art 72) also covers court-martial and every death sentence |
 | Nomination target | ✅ The Governor nominates to the **Legislative Council** (one-sixth), **never** to the Assembly |
 | Advice binding? | ✅ **Not expressly binding** on the Governor (no 42nd-Amdt equivalent), unlike the President |
 | State CoM cap | ✅ **15% of the Assembly, minimum 12** (91st Amdt) — not of both Houses |
@@ -179,7 +179,7 @@ autonomous tribal-area administration. These exceptional texts must not be gener
 
 - ✅ The Governor is **appointed (Art 155), not elected**; minimum age **35 (Art 157)**.
 - ✅ **Art 156** — holds office **during the President's pleasure**; there is **no security of tenure** and no fixed enforceable 5-year right.
-- ✅ **Art 161 ≠ Art 72:** the Governor cannot pardon a death sentence or deal with court-martial sentences; he may only suspend/remit/commute.
+- ✅ **Art 161 ≠ Art 72:** the Governor may pardon within the State offence-law field, including a death sentence, but cannot exercise court-martial clemency.
 - ✅ Distinguish **Art 361** (Governor's personal immunity) from **Art 194** (members' freedom of speech) — do not attribute Art 194 immunity to the Governor.
 - ⚠️ Case propositions, not name-drops: *Shamsher Singh* = act on advice; *Bommai* = reviewable Art 356 + floor test; *Rameshwar Prasad* = mala fide dissolution void; *Nabam Rebia* = discretion is narrow; *Wadhwa*/*Krishna Kumar Singh* = anti-re-promulgation + mandatory laying (seven-judge, 5:2); ✅ ***Subhash Desai* (2023)** = a floor test needs **objective material**, and intra-party dissent is not such material — but the Court granted **no relief** because the incumbent CM had resigned without facing the test. ⚠️ Do **not** say *Subhash Desai* reinstated a government, disqualified anyone, or decided the *Nabam Rebia* Speaker-removal question (that was **referred to a seven-judge Bench** and is undecided).
 - 📰 **Assent doctrine (Art 200/201):** *State of Tamil Nadu v. Governor of Tamil Nadu* (8 Apr 2025, 2025 INSC 481) prescribed timelines/used deemed assent on its facts; the later five-judge **Article 143 opinion of 20 Nov 2025 (2025 INSC 1333)** held there are **no court-created rigid timelines or automatic deemed assent**, though indefinite inaction is reviewable — cite the 20 Nov 2025 position as controlling and verify before dating.
@@ -232,3 +232,46 @@ autonomous tribal-area administration. These exceptional texts must not be gener
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Office map:** Articles 153-162 govern the Governor and State executive power;
+  Articles 163-164 govern advice, discretion, ministers and responsibility;
+  Articles 165-167 govern the Advocate General, business and the Chief Minister's
+  information duties. Article 361 immunity protects the person, not unlawful State action.
+- **Advice and discretion:** Shamsher Singh makes ministerial advice the default.
+  Express or necessarily implied exceptions remain narrow: specified Article 200
+  choices, government formation, objective floor-test situations, Article 356
+  reporting and specially worded constitutional responsibilities.
+- **Formation and confidence:** the Governor invites the person most likely to
+  command Assembly confidence and uses an early floor test where objective doubt
+  exists. Bommai, Rameshwar Prasad and Subhash Desai reject subjective arithmetic,
+  speculative dissolution and use of a floor test to settle an internal party dispute.
+- **Tenure and neutrality:** Article 156 pleasure does not make the Governor a
+  Union employee. B.P. Singhal bars arbitrary, capricious or mala fide removal;
+  Sarkaria, Punchhi and NCRWC proposals remain reform recommendations, not law.
+- **Article 200 current rule:** Special Reference No. 1 of 2025 identifies three
+  options—assent, reserve, or withhold and return a non-Money Bill with comments.
+  The Governor chooses among them in discretion and is not bound by State-Cabinet
+  advice for that choice. Merits review, rigid timelines and deemed assent are
+  unavailable; prolonged, unexplained and indefinite inaction permits only a
+  limited mandamus to discharge the function within a reasonable time.
+- **Article 201:** Presidential assent/withholding is not merits-justiciable and
+  carries no court-created deadline. The President need not seek Article 143
+  advice whenever a Bill is reserved, and courts cannot adjudicate a Bill's
+  contents before it becomes law.
+- **Ordinance:** Article 213 requires the relevant House or Houses not to be in
+  session and immediate action. D.C. Wadhwa and Krishna Kumar Singh condemn
+  routine re-promulgation, require laying and preserve judicial review of satisfaction.
+- **Clemency correction:** Article 161 is controlled by the offence-law nexus to
+  State executive power; it can include pardon of a death sentence within that
+  field. Unlike Article 72, it has no court-martial limb and no separate power over
+  every death sentence regardless of legislative field. Maru Ram, State of Haryana
+  v. Raj Kumar @ Bittu and A.G. Perarivalan make Cabinet advice binding and delay reviewable.
+- **Chief Minister and Council:** Article 164 appointment and collective
+  responsibility run to the Legislative Assembly. Article 164(1A) caps ministers
+  at fifteen per cent of Assembly strength with a minimum of twelve; clause (1B)
+  bars defectors. Article 167 parallels the Union Article 78 information bridge.
+- **Four-ledger/PYQ control:** all direct and supporting 2018-2025 Governor,
+  ordinance, defection, assent and federal-neutrality demands were reconciled;
+  State-legislature procedure remains owned by Topic 20.

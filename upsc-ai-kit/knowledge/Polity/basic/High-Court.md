@@ -191,3 +191,50 @@ Articles 233–234.
 - ⚠️ Distinguish Constitution text (Art 214–237) from judicial interpretation (collegium, basic structure, transfer norms) and statute (Legal Services Authorities Act 1987); the collegium and the Memorandum of Procedure are not in the constitutional text.
 - ⚠️ Case law must be an exact proposition: *L. Chandra Kumar* protected HC review of decisions of **Articles 323A/323B tribunals**; it did not abolish tribunals or convert review into a merits appeal.
 - ⚠️ Do not confuse the **five writs**: *mandamus* commands a duty, *certiorari* quashes a completed order, *prohibition* stops proceedings midway, *habeas corpus* tests detention, *quo warranto* challenges an office-holder — mixing these is a common Prelims trap.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional map:** Articles 214-237 divide into Articles 214-231 governing
+  High Courts and Articles 233-237 governing
+  govern the subordinate judiciary. Article 214 does not produce one court for
+  every State because Article 231 permits Parliament to establish a common High
+  Court for two or more States or for States and Union Territories.
+- **Judges and independence:** Article 217 separates appointment, qualification,
+  tenure and consultation; Article 218 applies specified Supreme Court safeguards;
+  Articles 219-224A cover oath, practice, salaries, transfer, acting/additional
+  judges and retired judges. High Court judges retire at sixty-two.
+- **Jurisdiction firewall:** Article 225 preserves inherited jurisdiction subject
+  to the Constitution and law. Article 226 authorises writs for Fundamental Rights
+  and any other purpose, subject to territorial cause-of-action rules; Article 227
+  is superintendence, not a substitute statutory appeal. Article 215 makes each
+  High Court a court of record with contempt power.
+- **Review doctrine:** L. Chandra Kumar (1997) preserves Articles 226/227 review
+  over tribunal decisions as part of the Basic Structure. Whirlpool (1998)
+  states the recognised alternative-remedy exceptions. Radhey Shyam (2015)
+  keeps judicial orders of civil courts outside Article 226 while Article 227
+  supervision remains available within its limits.
+- **Subordinate recruitment:** Article 233 places appointment, posting and
+  promotion of district judges with the Governor in consultation with the High
+  Court; Article 234 governs recruitment below district judge through Governor-
+  made rules after State PSC and High Court consultation. Articles 236-237 define
+  the chapter's reach.
+- **Current Article 233 rule:** Rejanish K.V. v. K. Deepa, 2025 INSC 1208,
+  prospectively overruled Dheeraj Mor's categorical exclusion. Qualifying serving
+  judicial officers may compete in direct District-Judge recruitment under the
+  combined-experience, minimum-age and application-date conditions stated by the Court.
+- **Control and separation:** Article 235 vests control over district and
+  subordinate courts in the High Court; Article 50 directs separation of the
+  judiciary from the executive. State executive participation in appointment
+  does not permit control over judicial careers or adjudication.
+- **AIJS boundary:** Article 312 permits an All India Judicial Service only after
+  the Rajya Sabha's two-thirds present-and-voting resolution and parliamentary
+  law; Article 312(3) excludes posts below district judge. No AIJS exists as of
+  5 September 2026.
+- **Current capacity control:** India has twenty-five High Courts. The Department
+  of Justice snapshot dated 1 July 2026 records 1,122 sanctioned posts, 781
+  working judges and 341 vacancies; working strength, vacancy and pendency are
+  dynamic and must retain their date.
+- **Four-ledger/PYQ control:** direct and routed 2018-2025 High Court, tribunal,
+  Lok Adalat, collegium and subordinate-judiciary demands were retained without
+  fabricating a direct route. Topic 18 owns Supreme Court detail; Topic 54 owns
+  full Lok Adalat and other-court architecture.

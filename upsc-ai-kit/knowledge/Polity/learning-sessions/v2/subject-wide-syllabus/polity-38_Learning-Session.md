@@ -2,15 +2,15 @@
 
 **Complete independent learning session + verified PYQ + solved practice workbook + final consolidated register notes**
 
-**Legal/current control date:** 25 August 2026 (Asia/Kolkata)
+**Legal/current control date:** 5 September 2026 (Asia/Kolkata)
 
 > **Tag key:** `[FACT]` = directly supported by a named legal, judicial, official or local-book source; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked against official material for the control date; `[LIMIT]` = qualification, unresolved issue or deliberately unfrozen fact.
 >
 > **Answer-writing discipline:** claim -> named evidence -> analysis -> qualification.
 
-- [CURRENT] Status is controlled to **25 August 2026, Asia/Kolkata**.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
 
-- [CURRENT] **Live official refresh, 25 August 2026:** The current Lokpal Act framework, Complaint Rules, official Lokpal circular/wing material, DoPT asset-declaration position and controlling Supreme Court decisions were rechecked on 25 August 2026. The 2025 High Court-judge jurisdiction order remains stayed; officeholders and case-output totals are not frozen.
+- [CURRENT] **Live official refresh, 5 September 2026:** The current Lokpal Act framework, Complaint Rules, official Lokpal circular/wing material, DoPT asset-declaration position and controlling Supreme Court decisions were rechecked on 5 September 2026. The 2025 High Court-judge jurisdiction order remains stayed; the dated Lokpal roster is recorded; case-output totals are not frozen.
 #### How to Use This Package
 
 [FACT] This package reads the current India Code text of the **Lokpal and Lokayuktas Act, 2013**, the **Lokpal (Complaint) Rules, 2020**, official Lokpal circulars, notifications and organogram, DoPT material, Supreme Court decisions and the local Polity sources together.
@@ -1532,7 +1532,7 @@ The exam-safe limitation is that loP vacancy Common Cause v. Union of India (201
 
 #### Official and Local Sources Consulted
 
-- `[FACT]` India Code, **Lokpal and Lokayuktas Act, 2013**, current official consolidated PDF checked on 25 August 2026.
+- `[FACT]` India Code, **Lokpal and Lokayuktas Act, 2013**, current official consolidated PDF checked on 5 September 2026.
 - `[FACT]` Gazette of India, **Lokpal (Complaint) Rules, 2020**, G.S.R. 148(E), 2 March 2020.
 - `[CURRENT]` Lokpal of India, **Circular No. 01/2026**, 24 July 2026, procedure for complaints.
 - `[CURRENT]` Lokpal official circulars/notifications API: Inquiry Wing entry dated 5 September 2024; Prosecution Wing order dated 6 June 2025 and Gazette notification dated 13 June 2025.
@@ -1574,6 +1574,51 @@ The exam-safe limitation is that a. PYQ Routing Audit.
 
 [LIMIT] These routes may interact, but one filing does not automatically satisfy another
 statute's form, jurisdiction, limitation, evidence or sanction requirements.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Status and source:** Lokpal is a statutory body under the Lokpal and
+  Lokayuktas Act, 2013 (Act 1 of 2014), read with the 2016 amendment, Complaint
+  Rules, 2020 and applicable administrative/recruitment rules. It is neither a
+  constitutional court nor a general grievance commission.
+- **Current roster, checked 5 September 2026:** Justice Ajay Manikrao
+  Khanwilkar is Chairperson. The official present-member pages list judicial
+  members Justice L. Narayana Swamy, Justice Sanjay Yadav and Justice Ritu Raj
+  Awasthi, and members Sushil Chandra, Pankaj Kumar and Ajay Tirkey. No occupant
+  is invented for an unfilled statutory seat.
+- **Composition and representation:** Chairperson plus not more than eight
+  Members; at least fifty per cent of Members are judicial, and at least fifty
+  per cent of Members must collectively come from the named SC/ST/OBC/minority/
+  women categories. The representation rule does not add seats.
+- **Selection and tenure:** the statutory selection committee is PM, Lok Sabha
+  Speaker, LoP, CJI/nominee and eminent jurist. A Search Committee assists.
+  The President appoints. Term is five years or age seventy, whichever is
+  earlier, without reappointment; statutory removal safeguards apply.
+- **Jurisdiction:** covered persons include the PM subject to special filters,
+  Union Ministers, MPs, Groups A-D officials, former covered public servants
+  and qualifying government-linked/donation/foreign-contribution entities.
+  Parliamentary speech and vote remain constitutionally protected.
+- **Prime-Minister safeguards:** excluded subject matters, full-bench
+  screening, two-thirds approval, in-camera proceedings and confidentiality
+  qualify the ordinary complaint route. Coverage is not equivalent to an
+  unrestricted investigation power.
+- **Process and powers:** complaint scrutiny may lead to preliminary inquiry or
+  investigation, followed by disciplinary, sanction or prosecution directions
+  within the Act. The Inquiry and Prosecution Wings, CVC and CBI remain distinct;
+  guilt and punishment belong to the Special Court.
+- **Limits:** the Act does not create a general suo-motu grievance power; the
+  seven-year limitation, statutory procedure, natural justice and judicial
+  review remain. The 2016 asset-return amendment must not be confused with
+  restoration of the original public-disclosure form.
+- **Judges and State variation:** the Supreme Court stayed the Lokpal's
+  27 January 2025 High Court-judge jurisdiction order on 20 February 2025; no
+  final merits proposition is asserted. Section 63 requires State establishment,
+  but each Lokayukta's composition, appointment, jurisdiction and powers depend
+  on its own State law.
+- **PYQ/case firewall:** Common Cause (2017) prevented implementation delay;
+  Lok Prahari concerns electoral disclosure; Sita Soren (2024) rejects
+  bribery immunity under legislative privilege. The direct 2025 Prelims Lokpal
+  composition/jurisdiction demand is owned here; no direct Mains PYQ is invented.
 
 ## BASIC MCQS / REMEDIATION
 

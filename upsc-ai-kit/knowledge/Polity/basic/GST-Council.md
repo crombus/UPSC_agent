@@ -144,5 +144,50 @@ Every unit: **claim → named Article → mechanism → limitation.**
 - ✅ The GST Council is **constitutional** (Art 279A); its recommendations are **not binding** (*Mohit Minerals*, 2022) — never state them as binding commands.
 - ✅ Voting: Centre **1/3**, States **2/3**, decision **≥ 3/4** of weighted votes; quorum **½**.
 - 📰 ✅ The **56th Council meeting release (3 Sep 2025)** recommended broad **5% and 18%** rates plus a special **40%** de-merit rate, mostly intended from **22 Sep 2025**. A recommendation is not self-executing: verify the relevant Gazette notification and effective date.
-- 📰 ✅ GST compensation's statutory five-year window ended in **June 2022**; the cess continues to service pandemic-era loans — re-verify its current end-date.
+- 📰 ✅ GST compensation's statutory five-year window ended in **June 2022**; the official 56th-meeting material retained cess on specified tobacco-related goods until the related loan and interest liabilities are discharged; do not state one universal end-date.
 - ⚠️ Do not claim petroleum, alcohol for human consumption or electricity are under GST; alcoholic liquor for human consumption is **constitutionally excluded**, the others are **kept out until the Council decides**.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional map:** the 101st Amendment inserted Articles 246A, 269A and
+  279A and amended related provisions. Article 246A creates simultaneous Union-
+  State GST competence subject to Parliament's exclusive inter-State field;
+  Article 269A governs inter-State levy/collection and apportionment; Article
+  279A creates the recommendatory Council.
+- **Composition:** the Union Finance Minister chairs; the Union Minister of State
+  in charge of Revenue or Finance and one finance/taxation or nominated Minister
+  from each State are members. State members may choose a Vice-Chairperson.
+  Nirmala Sitharaman remains the official Union Finance Minister/current Chair
+  on the 5 September 2026 control date.
+- **Voting:** one-half of total membership is quorum. At a meeting the Union has
+  one-third of total votes cast, States together two-thirds, and a proposal
+  requires at least three-fourths of weighted votes of members present and voting.
+  Quorum, vote weight and decision threshold must never be conflated.
+- **Procedure rules:** the official Conduct of Business Rules provide ordinarily
+  seven days' meeting notice, agenda notes at least three days before the meeting
+  and a two-day emergency-meeting route with Chair approval. The Vice-Chairperson
+  has a two-year term or until ceasing to be a member/resigning, whichever is earlier.
+- **Secretariat boundary:** the Revenue Secretary is ex-officio Secretary and
+  the CBIC Chair is a permanent non-voting invitee by the 2016 Cabinet decision;
+  neither becomes a voting constitutional member. GSTN and GSTAT are different institutions.
+- **Recommendation-to-law chain:** a Council recommendation is not a tax rate
+  by itself. Parliament/State law and valid delegated notifications give legal
+  effect subject to the governing statute and constitutional competence.
+- **Judicial rule:** Union of India v Mohit Minerals (2022) holds Council
+  recommendations persuasive rather than binding because Union and States hold
+  simultaneous Article 246A legislative power. The ocean-freight levy failed
+  on the statutory/constitutional analysis; the case does not erase the Council.
+- **Current meeting:** the official 56th GST Council release dated 3 September
+  2025 is the latest meeting release located by 5 September 2026. It recommended
+  broad 5 and 18 per cent rates plus a special 40 per cent demerit rate, with
+  most changes intended from 22 September 2025. Every supply-specific legal rate
+  still requires the applicable CBIC notification.
+- **Compensation status:** the statutory five-year State-compensation entitlement
+  ended in June 2022. Under the 56th-meeting official material, compensation
+  cess continued on specified tobacco-related goods until discharge of the
+  related loan and interest liabilities; no universal post-2022 entitlement is implied.
+- **Institution/PYQ firewall:** the GST Council does not distribute the divisible
+  pool (Finance Commission), administer GST (tax administrations), operate the
+  network (GSTN) or adjudicate appeals (GSTAT). The direct 2023 accommodative-
+  federalism Mains demand and routed GST/fiscal-federalism demands retain their
+  verified ownership.

@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-05T17:19:28+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "6b9eef6b2ff50035af425e6c1f28b73cb06724cfbf273c337d5f5dddc5b5045e",
+    "sha256_after": "6b9eef6b2ff50035af425e6c1f28b73cb06724cfbf273c337d5f5dddc5b5045e",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Governance": 1
+  },
+  "sections": {
+    "Governance — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 10745,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1822,
+    "json_count": 4698,
+    "total_bytes": 4270441000,
+    "by_extension": {
+      ".json": 4698,
+      ".md": 1822,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "governance-09",
+      "topic_title": "Civil Services and Mission Karmayogi",
+      "subject": "Governance",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 9,
+      "source_record_id": "governance-09:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\09-Civil-Services-and-Mission-Karmayogi",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-09\\g3\\governance-09_Complete-Learning-Session_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\09-Civil-Services-and-Mission-Karmayogi\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "d6b2d19669ed4787ff2f16cbe270da2adf70fc1a7bbc9398361da9ede0053c40",
+          "output_sha256": "d6b2d19669ed4787ff2f16cbe270da2adf70fc1a7bbc9398361da9ede0053c40",
+          "source_output_equal": true,
+          "bytes": 791023
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-09\\g3\\governance-09_Solved-Practice-Workbook_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\09-Civil-Services-and-Mission-Karmayogi\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "8c006d5fc2d786a02189e8daeccfe1d8b7196327648f11d5497b1a3e075bb21e",
+          "output_sha256": "8c006d5fc2d786a02189e8daeccfe1d8b7196327648f11d5497b1a3e075bb21e",
+          "source_output_equal": true,
+          "bytes": 596181
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\flowcharts\\iac-09\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\09-Civil-Services-and-Mission-Karmayogi\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "9da3e90ab129d3d4b6991513848d6cc92e97dd3b4bc340016a24259a773f90b9",
+          "output_sha256": "9da3e90ab129d3d4b6991513848d6cc92e97dd3b4bc340016a24259a773f90b9",
+          "source_output_equal": true,
+          "bytes": 2266432
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\flowcharts\\iac-09\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\09-Civil-Services-and-Mission-Karmayogi\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "e6981d393784a0605362620d7196b49c94f14ad581086c008141f890e4222f26",
+          "output_sha256": "e6981d393784a0605362620d7196b49c94f14ad581086c008141f890e4222f26",
+          "source_output_equal": true,
+          "bytes": 2678400
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\flowcharts\\iac-09\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\09-Civil-Services-and-Mission-Karmayogi\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "a9490c51399e946a2188a6cbc3c14e0fe32d5c0ae31efc44614850e73398ce2d",
+          "output_sha256": "a9490c51399e946a2188a6cbc3c14e0fe32d5c0ae31efc44614850e73398ce2d",
+          "source_output_equal": true,
+          "bytes": 1998210
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\flowcharts\\iac-09\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\09-Civil-Services-and-Mission-Karmayogi\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "8936efe24abff5a83a3da0e974ee389a53be7ba5e64f892d2b17c311b6c07c50",
+          "output_sha256": "8936efe24abff5a83a3da0e974ee389a53be7ba5e64f892d2b17c311b6c07c50",
+          "source_output_equal": true,
+          "bytes": 5387
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\flowcharts\\iac-09\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\09-Civil-Services-and-Mission-Karmayogi\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "d323b8b0bf1131d3e2ef4159ac17922d6e21b0c27baa536be70b620e7aaf07d4",
+          "output_sha256": "d323b8b0bf1131d3e2ef4159ac17922d6e21b0c27baa536be70b620e7aaf07d4",
+          "source_output_equal": true,
+          "source_text_sha256": "8936efe24abff5a83a3da0e974ee389a53be7ba5e64f892d2b17c311b6c07c50",
+          "normalized_text_equal": true,
+          "bytes": 57680
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 6,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 95,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 7,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 7,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 93,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 6,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 5,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 112,
+        "solved_practice_workbook": 68,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 112,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 68,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11060
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

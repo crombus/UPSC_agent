@@ -2,14 +2,14 @@
 
 **Complete independent learning session + verified PYQ routing + solved practice workbook + final consolidated register notes**
 
-**Legal/current control date:** 25 August 2026 (Asia/Kolkata)
+**Legal/current control date:** 5 September 2026 (Asia/Kolkata)
 
 > **Tag key:** `[FACT]` = named constitutional, statutory, official, judicial or audited local support; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked for the control date; `[LIMIT]` = qualification.
 >
 > **Answer-writing discipline:** claim -> named evidence -> analysis -> qualification.
 
-- [CURRENT] Status is controlled to **25 August 2026, Asia/Kolkata**.
-- [CURRENT] **Live official refresh, 25 August 2026:** The constitutional association, assembly, petition and judicial-remedy channels, FCRA framework and official NGO sources were rechecked on 25 August 2026. India still has no general lobbying-registration or lobbying-disclosure statute; FCRA is not represented as one.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
+- [CURRENT] **Live official refresh, 5 September 2026:** The constitutional association, assembly, petition and judicial-remedy channels, FCRA framework and official NGO sources were rechecked on 5 September 2026. India still has no general lobbying-registration or lobbying-disclosure statute; FCRA is not represented as one.
 
 #### How to Use This Package
 
@@ -355,6 +355,47 @@ privileged access | revolving doors | undisclosed clients | consultation capture
 REFORM
 public consultation calendar -> disclosure of submissions/meetings -> conflict rules
 -> cooling-off safeguards -> reasoned response -> support for under-resourced groups.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Analytical category:** a pressure group seeks to influence public policy
+  without ordinarily seeking governmental office. Party, movement, NGO,
+  trade union, professional body and lobbyist are overlapping but non-synonymous
+  categories governed by their own legal forms.
+- **Constitutional channels:** Articles 19(1)(a), 19(1)(b) and 19(1)(c)
+  support speech, peaceful assembly and association subject to Articles
+  19(2)-19(4). Articles 32 and 226 supply remedies for enforceable rights, not
+  a general licence to convert advocacy into judicial policy-making.
+- **Association and protest cases:** Damyanti Naranga protects associational
+  composition; Ramlila Maidan and Mazdoor Kisan Shakti Sangathan require
+  rights-compatible protest regulation; Amit Sahni rejects indefinite
+  occupation of public ways. Peaceful protest, strike, violence and obstruction
+  remain legally distinct.
+- **Typology:** associational, non-associational, institutional and anomic
+  categories describe modes of interest articulation. Anomic does not mean a
+  stable armed organisation, and a statutory regulator is not automatically a
+  voluntary professional pressure group.
+- **Methods and effects:** consultation, expertise, lobbying, petition,
+  campaign, collective bargaining, protest, litigation and electoral signalling
+  influence different policy stages. Access or visibility does not prove
+  adoption, implementation or representative legitimacy.
+- **FCRA boundary, checked 5 September 2026:** the FCRA, 2010 and Rules govern
+  foreign contribution through registration/prior permission, designated
+  banking, use and reporting controls. The 2025 Rules changes are procedural;
+  FCRA is not a lobbying-registration statute and must not be presented as one.
+- **NGO Darpan:** the portal supplies identification and information functions
+  for voluntary organisations in specified government interfaces. It does not
+  create one legal form for all NGOs or a general licence to lobby.
+- **Lobbying status:** no comprehensive Indian statute requiring general
+  registration and disclosure of lobbyists was located. Bribery, election,
+  procurement, company, confidentiality and sectoral laws still apply.
+- **Democratic balance:** pressure groups can add expertise, participation and
+  minority voice, but unequal resources, capture, opaque funding, revolving
+  doors, misinformation and weak internal representation require transparent,
+  plural and reasoned consultation.
+- **PYQ firewall:** the verified 2019 farmer-group, 2021 business-association
+  and 2025 environmental-pressure-group Mains demands are owned here with
+  named evidence and explicit representativeness limits.
 
 ## BASIC MCQS / REMEDIATION
 
@@ -1190,7 +1231,7 @@ public consultation calendar -> disclosure of submissions/meetings -> conflict r
 
 ### Pressure Groups: Rapid Constitutional Recall
 
-- **Current-control rule:** The constitutional association, assembly, petition and judicial-remedy channels, FCRA framework and official NGO sources were rechecked on 25 August 2026. India still has no general lobbying-registration or lobbying-disclosure statute; FCRA is not represented as one.
+- **Current-control rule:** The constitutional association, assembly, petition and judicial-remedy channels, FCRA framework and official NGO sources were rechecked on 5 September 2026. India still has no general lobbying-registration or lobbying-disclosure statute; FCRA is not represented as one.
 - **Factual caveat:** Pressure groups seek policy influence without assuming governmental office. Political parties, movements, NGOs, lobbyists and interest groups overlap in practice but are not synonyms. Protest remains subject to reasonable restrictions, and dated movements or funding rules are not converted into permanent generalisations.
 
 #### Snapshot

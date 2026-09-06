@@ -725,6 +725,45 @@ Act's acquisition architecture.
 - **Assam conclusion:** "The 2024 majority settled Section 6A's validity, not its administrative success; legality and implementation must therefore be answered separately."
 - **CAA conclusion:** "The Act is operative, but its constitutional legitimacy remains a live Article 14/secularism question; a responsible answer states the exact class, both arguments and the sub judice limit."
 
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional settlement:** Part II is Articles 5-11 and identifies citizens
+  at commencement. Article 5 requires domicile plus birth, parental birth or five
+  years' ordinary residence; Articles 6-7 use the exact 19 July 1948 and 1 March
+  1947 migration divisions; Article 8 covers qualifying Indian-origin persons
+  abroad registered by a diplomatic or consular representative.
+- **Articles 9-11 precision:** Article 9 denies citizenship by virtue of Articles
+  5, 6 or 8 after voluntary acquisition of foreign citizenship; Article 10
+  continues citizenship subject to parliamentary law; Article 11 preserves
+  Parliament's plenary citizenship power. Do not convert Article 9 alone into a
+  complete permanent-code proposition.
+- **Statutory architecture:** Citizenship Act, 1955 acquisition is by birth,
+  descent, registration, naturalisation and incorporation of territory. Loss is
+  by renunciation, termination and deprivation; deprivation is category-limited
+  and cannot be described as a general executive cancellation power.
+- **Section 6A:** retain the 1 January 1966 and 25 March 1971 bands, the ten-year
+  electoral consequence for the middle cohort, the Assam-specific boundary and
+  the 17 October 2024 four-to-one judgment upholding the provision, followed by
+  implementation monitoring.
+- **OCI and CAA:** OCI under Sections 7A-7D is not citizenship or a constitutional
+  right. Section 6B/CAA covers six named communities from Afghanistan, Bangladesh
+  and Pakistan entering on or before 31 December 2014, subject to statutory
+  application and scrutiny; protected tribal/Inner Line areas remain excluded.
+- **Current procedural control:** the 2024 Rules operationalised Section 6B.
+  G.S.R. 742(E) and S.O. 4583(E), both 19 August 2026, move specified applications
+  to the jurisdictional Collector and transfer pending files; they do not alter
+  the statutory class or cut-off.
+- **Immigration boundary:** the Immigration and Foreigners Act/Exemption Order,
+  2025 concerns entry-document liability and uses a 31 December 2024 date for the
+  notified exemption. It neither grants citizenship nor changes the CAA's 2014
+  cut-off.
+- **Four-ledger hostile audit:** constitutional text, indispensable statutory
+  rules, textbook taxonomy and all routed 2018-2026 PYQs were checked for dates,
+  categories, exceptions, proof documents, legal consequence and current status.
+- **Verified PYQ ownership, 2018-2026:** direct 2021 Prelims Q89; 2018 Aadhaar
+  citizenship-proof is retained only as a disclosed cross-topic route. No direct
+  Mains question or unavailable official key is fabricated.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Forty core diagnostic MCQs

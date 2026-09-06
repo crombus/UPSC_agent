@@ -212,3 +212,27 @@ relief, representation, federalism and intra-group inequality.
   composition and mandate.
 - ✅ `basic/07_Scheduled-Castes-Rights-Atrocities-and-Welfare.md` — SC reservation and
   welfare architecture, for comparison with OBC/EWS targeting.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** OBC, EWS and social mobility analysis separates social and educational backwardness, economic disadvantage, representation, capability, discrimination and intergenerational mobility across different constitutional and policy routes.
+- **Indispensable distinction and prerequisite taxonomy:** OBC is not a synonym for poverty, EWS is not an OBC sub-category, creamy-layer doctrine does not travel identically across every reservation category, a commission recommendation is not automatic inclusion, and mobility is not proof that structural barriers disappeared.
+- **Mechanism, implementation and evidence control:** Use Articles 15, 16 and 342A, NCBC, list competence and judicial ceilings/qualifications precisely; map identification, data, notification, eligibility, certificate, grievance, representation and outcomes while avoiding unqualified quota or fiscal claims.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 2026-09-06: the Department, NCBC and Constitution remain authoritative; OBC identification, EWS eligibility, list competence, creamy-layer doctrine and mobility evidence follow distinct legal and analytical routes. Sources: https://socialjustice.gov.in/; https://www.ncbc.nic.in/; https://legislative.gov.in/constitution-of-india/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Social Justice owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/social justice taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** The audited routing ledgers route no General Studies Mains demand and no objective demand to this owner for the covered years, and that zero is reported openly rather than concealed or filled with a manufactured demand card. The four audited ledgers consulted are the Mains routing ledgers for 2018 to 2023 and for 2024 to 2025 and the Prelims routing ledgers for 2018 to 2023 and for 2024 to 2025, and neither the Basic owner nor the Advanced owner for this topic carries a generated previous-year integration block, which is itself consistent with that zero. Both owners state independently that there is no confirmed direct 2024 or 2025 General Studies Paper II Mains question specifically on the other backward classes or the economically weaker sections in the audited local previous-year texts, and this package adopts exactly that position. The two nearest neighbouring demands are the 2018 General Studies Paper II question on the Scheduled Caste commission and reservation in minority institutions and the 2022 General Studies Paper II question on the backward-class commission moving from a statutory to a constitutional body, and the audited 2018-2023 Mains routing ledger routes both to the Polity commissions owner together with the consolidated body-design owner, so no ownership is claimed over either here; reservation doctrine such as the ordinary fifty per cent ceiling and the constitutional validity reasoning for the economic criterion is likewise routed to the Polity special-provisions owner and is cross-linked rather than duplicated. The practice in this package therefore consists of six original Mains questions with model solutions, each written to the repository's examiner-grade standard using the claim, named evidence, analysis and qualification pattern, together with eighty original objective questions on a strict A-B-C-D rotation. Each model solution opens with its analytical claim so that the evidence which follows does argumentative rather than decorative work. The locally held OCR-searchable official General Studies papers were read only to confirm that no question on this owner's subject matter is routed here; no question was invented from them, no marking scheme or page precision was imported and no official answer key is claimed for any question anywhere in this package.

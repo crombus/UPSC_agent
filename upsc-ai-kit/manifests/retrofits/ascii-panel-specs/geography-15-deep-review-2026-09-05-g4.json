@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "geography_process_spatial_causal_control": true,
+    "map_and_current_status_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-15",
+      "display_title": "Hot Wet Equatorial Climate",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Equatorial climate map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "EQUATOR -> persistent high solar receipt",
+            "AMAZON + CONGO -> major continental lowlands",
+            "MALAYSIA + EAST INDIES -> maritime expression",
+            "HIGHLANDS / MARGINS -> altitude or monsoon modification",
+            "MUST REMEMBER: Equatorial Af climate follows year-round high sun, ITCZ convection, humid air",
+            "  and weak annual thermal range, producing frequent rainfall, evergreen stratification,",
+            "  intense chemical weathering and leached soils in Amazon, Congo and Maritime Southeast Asia.",
+            "MUST REMEMBER: Equatorial Af climate follows year-round high sun, ITCZ convection, humid air",
+            "  and weak annual thermal range, producing frequent rainfall, evergreen stratification,",
+            "  intense chemical weathering and leached soils in Amazon, Congo and Maritime Southeast Asia."
+          ],
+          "source_references": [
+            "Af location and equatorial setting",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Convection day cycle",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "MORNING SUN -> moist surface heating",
+            "NOON ASCENT -> expanding and cooling air",
+            "AFTERNOON -> cumulonimbus thunderstorm",
+            "EVENING -> rain-cooled air; cycle can recur"
+          ],
+          "source_references": [
+            "Equatorial low and convection",
+            "Afternoon storms and equinox maxima",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Temperature-range firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ANNUAL RANGE -> usually very small",
+            "DIURNAL RANGE -> larger than annual range",
+            "CAUSE -> weak seasonality near Equator",
+            "CAUTION -> means do not cap daily extremes"
+          ],
+          "source_references": [
+            "Uniform heat and annual range",
+            "Diurnal range exceeds annual range",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Rainfall identity",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "RAIN ALL MONTHS -> supports Af reading",
+            "TRUE DRY SEASON -> test Am or Aw instead",
+            "TOTAL -> source notes often 150-250 cm",
+            "RULE -> distribution outranks one annual number"
+          ],
+          "source_references": [
+            "Year-round rainfall regime",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Rainforest vertical profile",
+          "structural_type": "vertical-map",
+          "ascii_lines": [
+            "EMERGENTS -> crowns above main roof",
+            "CANOPY -> dense light-capturing layer",
+            "UNDERSTOREY -> shade-tolerant growth",
+            "FLOOR -> dark, humid, rapid decay"
+          ],
+          "source_references": [
+            "Rainforest layers",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Nutrient-cycle loop",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "LITTER -> rapid warm-wet decomposition",
+            "ROOT MAT -> rapid nutrient uptake",
+            "BIOMASS -> principal nutrient capital",
+            "HEAVY RAIN -> leaching after clearance"
+          ],
+          "source_references": [
+            "Nutrient paradox",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Fallow decision",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "SMALL CLEARING + LONG FALLOW -> recovery",
+            "SHORTENED FALLOW -> declining biomass",
+            "STEEP SLOPE + REPEATED FIRE -> erosion risk",
+            "TENURE + LIVELIHOOD -> management outcome"
+          ],
+          "source_references": [
+            "Shifting cultivation and fallow",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Humid-tropics economy",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "PLANTATION -> capital + labour + export crop",
+            "MIXED FOREST -> selective logging difficulty",
+            "RIVER / ROAD ACCESS -> extraction geography",
+            "RULE -> climate enables; institutions decide"
+          ],
+          "source_references": [
+            "Plantations and commercial forestry",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "India analogue map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "WESTERN GHATS -> windward evergreen belt",
+            "NORTH-EAST -> wet evergreen / semi-evergreen",
+            "EASTERN HIMALAYAN FOOTHILLS -> transition",
+            "ANDAMAN-NICOBAR -> insular rainforest"
+          ],
+          "source_references": [
+            "India's equatorial-type boundary",
+            "Indian evergreen distribution",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Official evidence firewall",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "FSI REPORT -> dated biennial assessment",
+            "FOREST COVER -> canopy-based mapped class",
+            "FOREST TYPE -> ecological classification",
+            "LEGAL STATUS -> separate administrative category",
+            "CLOSE DISTINCTION: Equatorial does not mean everywhere exactly on the Equator, convectional",
+            "  rainfall is not continuous all-day rain, and luxuriant biomass does not imply nutrient-rich",
+            "  soil because rapid cycling stores nutrients mainly in biomass.",
+            "CLOSE DISTINCTION: Equatorial does not mean everywhere exactly on the Equator, convectional",
+            "  rainfall is not continuous all-day rain, and luxuriant biomass does not imply nutrient-rich",
+            "  soil because rapid cycling stores nutrients mainly in biomass."
+          ],
+          "source_references": [
+            "Biodiversity, jhum and FSI evidence",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Verified PYQ pair",
+          "structural_type": "exam-matrix",
+          "ascii_lines": [
+            "2021 -> rainforest vegetation structure",
+            "2023 -> nutrients and decomposition",
+            "LEDGER -> official answer letters withheld",
+            "METHOD -> teach distinction; do not invent key",
+            "EVIDENCE LIMIT: Deforestation alters energy, moisture and nutrient cycles but rainfall",
+            "  feedback magnitude varies by scale and region; Indian evergreen forests are analogues with",
+            "  monsoonal/topographic differences, not Af replicas.",
+            "EVIDENCE LIMIT: Deforestation alters energy, moisture and nutrient cycles but rainfall",
+            "  feedback magnitude varies by scale and region; Indian evergreen forests are analogues with",
+            "  monsoonal/topographic differences, not Af replicas."
+          ],
+          "source_references": [
+            "Verified rainforest PYQ routes",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Equatorial answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "LOCATE -> equatorial lowland belt",
+            "DERIVE -> heat, convergence, convection, rain",
+            "LINK -> layers, nutrients and land use",
+            "QUALIFY -> India analogue and source limits"
+          ],
+          "source_references": [
+            "Verified rainforest PYQ routes",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\15_Hot-Wet-Equatorial-Climate.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\15_India-Evergreen-Forests.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g3\\geography-15_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

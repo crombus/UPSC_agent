@@ -1,0 +1,239 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "social-justice-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "social_justice_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "social-justice-03",
+      "display_title": "Health Systems, Public Health and Universal Health Coverage",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-03\\g3\\social-justice-03_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Coverage cube",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "POPULATION -> breadth: who is covered, all citizens or identified beneficiaries",
+            "SERVICES -> depth: promotive, preventive, curative and rehabilitative care",
+            "FINANCIAL PROTECTION -> height: how little the household pays at the point of care",
+            "RULE -> a system can widen one edge while narrowing another; test all three",
+            "MUST REMEMBER: Universal health coverage requires promotive, preventive, curative,..."
+          ],
+          "source_references": [
+            "Universal health coverage and its three dimensions",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-03\\g3\\social-justice-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Policy and mission card",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "POLICY 2017 -> raise public health expenditure to 2.5 per cent of gross domestic product",
+            "ITS STATUS -> a policy document, not an enacted statute; commitments, not entitlements",
+            "RURAL MISSION -> launched 12 April 2005 for the rural population and vulnerable groups",
+            "URBAN MISSION -> Union Cabinet decision dated 1 May 2013 created it as a sub-mission",
+            "SPECIAL FOCUS -> Empowered Action Group States, North East, Jammu and Kashmir, Himachal",
+            "BENCHMARK -> facilities measured against the Indian Public Health Standards"
+          ],
+          "source_references": [
+            "The National Health Policy of 2017 and what it is not",
+            "The National Health Mission and its two sub-missions",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-03\\g3\\social-justice-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Two pillars kept apart",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "PILLAR ONE -> wellness centres and health mandirs; comprehensive primary health care",
+            "ITS PACKAGE -> twelve services including non-communicable disease and mental health",
+            "ITS STAFF -> community health officer or mid-level health provider",
+            "PILLAR TWO -> cashless secondary and tertiary hospitalisation cover",
+            "ITS QUANTUM -> up to five lakh rupees per family per year at empanelled hospitals"
+          ],
+          "source_references": [
+            "The primary-care pillar of Ayushman Bharat",
+            "The hospitalisation pillar of Ayushman Bharat and its two enrolment routes",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-03\\g3\\social-justice-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Two enrolment routes",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "CORE ROUTE -> eligibility-based, identified through census deprivation criteria",
+            "AGE ROUTE -> every citizen aged seventy and above may enrol regardless of income",
+            "PRECISION -> the age route is universal only for that age group",
+            "ERROR TO AVOID -> writing an age-specific expansion up as universal cover for all ages"
+          ],
+          "source_references": [
+            "The hospitalisation pillar of Ayushman Bharat and its two enrolment routes",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-03\\g3\\social-justice-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Source discipline card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "HEALTH AUTHORITY -> implements the hospitalisation pillar; empanels and pays claims",
+            "HEALTH ACCOUNTS -> official estimates of public, private and out-of-pocket spending",
+            "SEQUENCE -> 47.1 per cent in 2019-20; 44.4 per cent in 2020-21; 39.4 per cent in 2021-22",
+            "RULE -> never confuse the publication date with the accounting year",
+            "MEANING -> a high share signals weak public provision, not high utilisation"
+          ],
+          "source_references": [
+            "The health authority and the health accounts must not be conflated",
+            "Out-of-pocket expenditure and its dated official sequence",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-03\\g3\\social-justice-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Impoverishment mechanism",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ILLNESS -> care is sought from a provider outside the funded public layer",
+            "-> OUT-OF-POCKET PAYMENT at the point of service",
+            "-> CATASTROPHIC SPENDING: above a threshold share of household income or consumption",
+            "-> ASSET SALE OR DEBT: years of accumulation are undone by one hospitalisation",
+            "LINK -> this is where the health owner meets the poverty owner",
+            "CLOSE DISTINCTION: UHC is not free hospitalisation alone, insurance coverage is not..."
+          ],
+          "source_references": [
+            "Catastrophic health expenditure as the impoverishment mechanism",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-03\\g3\\social-justice-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Referral spine",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "SUB-CENTRE -> first contact; outreach and community-level services",
+            "PRIMARY HEALTH CENTRE -> preventive, promotive and basic curative care",
+            "COMMUNITY HEALTH CENTRE -> specialist outpatient and inpatient care",
+            "DISTRICT HOSPITAL -> secondary care and the gateway to tertiary referral",
+            "USE -> name the failing tier; a vacancy, a diagnostic gap and a specialist shortage differ"
+          ],
+          "source_references": [
+            "The tiered public delivery structure",
+            "Primary, secondary and tertiary care",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-03\\g3\\social-justice-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Marketisation and its harms",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "PRIVATE DOMINANCE IN CURATIVE CARE -> often unregulated or under-regulated",
+            "-> HIGH COSTS and unnecessary procedures",
+            "-> CATASTROPHIC SPENDING and inequitable access",
+            "BALANCE -> do not deny private capacity, and do not assume regulation is automatic"
+          ],
+          "source_references": [
+            "Marketisation of health care and what it produces",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-03\\g3\\social-justice-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Regulatory toolkit",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "CLINICAL ESTABLISHMENTS ACT, 2010 -> registration and regulation of establishments",
+            "ITS CONDITION -> States must adopt it or notify equivalent legislation; adoption varies",
+            "PRICE CAPPING -> exercised over devices by the pharmaceutical pricing authority",
+            "TREATMENT GUIDELINES -> promote rational care and cost control; uptake varies",
+            "RULE -> name the adoption gap a regulatory recommendation is meant to close"
+          ],
+          "source_references": [
+            "The regulatory toolkit and its enforcement condition",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-03\\g3\\social-justice-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Financing families and chain",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "SOCIAL HEALTH INSURANCE -> contribution-linked pooling, as in the employees system",
+            "TAX-FUNDED -> general revenue, as in the health mission and the hospitalisation pillar",
+            "CHAIN -> revenue collection to risk pooling to strategic purchasing to provision",
+            "GAP -> insurance leaves prevention, medicines and outpatient spending unresolved",
+            "TRAP -> calling the tax-funded pillar a contributory insurance scheme"
+          ],
+          "source_references": [
+            "Social health insurance against tax-funded provision",
+            "The health financing chain and what insurance cannot buy",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-03\\g3\\social-justice-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Community health mapping",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "EQUITY -> reach the underserved first rather than the easiest to reach",
+            "PARTICIPATION -> village health, sanitation and nutrition committees",
+            "INTER-SECTORAL ACTION -> water, sanitation, nutrition and gender equality",
+            "APPROPRIATE TECHNOLOGY -> frontline health activists and auxiliary nurse midwives",
+            "INSTITUTION -> the upgraded wellness centre as the named Indian delivery point"
+          ],
+          "source_references": [
+            "Community health and the Alma-Ata inheritance",
+            "Delivery instruments and the State implementing layer",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-03\\g3\\social-justice-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Capacity limits and answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CONDITION -> Union financing and standards depend on State delivery capacity",
+            "GAP -> workforce vacancies and uneven capacity limit identical national schemes",
+            "MENTAL HEALTH -> a statutory right and a tele-service still need district professionals",
+            "OPEN -> name the coverage dimension tested; BUILD -> provision plus regulation",
+            "CLOSE -> graded verdict with a dashboard-count caveat and a reversal condition",
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Map Union-state-local responsibilities,..."
+          ],
+          "source_references": [
+            "System capacity, federalism and the workforce constraint",
+            "Mental health as a rights framework with a capacity gap",
+            "The dashboard-output boundary and honest question ownership",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\basic\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Social-Justice\\advanced\\03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Social-Justice\\SJ\\learning-sessions\\iac-03\\g3\\social-justice-03_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

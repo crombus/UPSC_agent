@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "topic_key": "environment-and-ecology-21",
+  "title": "Carbon Markets CCUS and Direct Air Capture",
+  "generation": 6,
+  "generation_date": "2026-09-06",
+  "approval": false,
+  "review_state": "passed",
+  "baseline_record_id": "environment-and-ecology-21:learner-v2:g3",
+  "source_basic": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\learning-sessions\\v2\\subject-wide-syllabus\\environment-and-ecology-21_Learning-Session.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md",
+  "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+  "pyq_ledgers": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md"
+  ],
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+    "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\00_Master-Framework.md": "f24883e6fc6b100484b1c4ca15cf43131c533ef7562b5ba397f97e497154e6a4",
+    "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md": "4038ec8de9a97435fbdf63864cf45df206320bc8b60d49c1ac0c6a479fa992fb",
+    "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md": "eaa5927a6b73b6915e95a9bfff85b8c1a05df6c5767e14cfbce8fb29165fbb03",
+    "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md": "cfc139bc6f5f73591fde1cb4b8d2d0283b9736128c3101df20adcded09731ecb",
+    "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\25_Renewable-Energy-and-Green-Hydrogen.md": "d9f6c2ff5e54b0a2e8ec058c67f75e4c77b929876793fd28fe0cc83576da12bb",
+    "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\ANSWER-WORTHINESS-AUDIT.md": "be62b5a1974dd3c67af92093ec2fc5729bb2ae678ac95f74b9fead75d186b43f",
+    "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\17_Climate-Change-Science-Greenhouse-Effect.md": "31b9faaaa625c1cfedc500a1499c09317ae262ee71c7db73be6efdd3a3e8e3da",
+    "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md": "9a40456457be5652826cd56f1fbe1911bdea4e76cdf4e1f639c4b5b0169bd7b3",
+    "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md": "44780b9c8d443cfb40d137b6fb1f7f0abc5a94ff04b34ac0161e205f15074f5e",
+    "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md": "a1faf8340294509134b4a7997000a41089abe691b3632239db7e27fa5c822074",
+    "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\25_Renewable-Energy-and-Green-Hydrogen.md": "fb0c908b237b1b16229d8ee31136dd963d50faa0ad2e136cd81370bbf8846e5f",
+    "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\LEARNING-SESSION-COMMAND-INDEX.md": "57ea71b78b74cc6f758124d982bd6e4695a618c30857d73b1d2ddfd2d6743287",
+    "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\learning-sessions\\v2\\subject-wide-syllabus\\environment-and-ecology-21_Learning-Session.md": "187cbc81d5b764872186224c7c9fe23c1fd84dca09aa842b7e2c62c39d7315e6",
+    "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "f53cef3f7ca76f4d65344678cf46465f6e6d14b96a78857da6ae9ff852c1f78e",
+    "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\README.md": "e73ca44ff788d8053761400833a0cb9cdfadb353e82036dfe685279c7295fa55",
+    "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\REVISION-CHART_Ecological-Processes-Laws-and-Distinctive-Features.md": "ee13d467de8b7b025666e55fdbfaf6eb9ddfa6ddd334b1342cbfe55bd40ff21b"
+  },
+  "coverage_contract": {
+    "complete_core_before_advanced": true,
+    "evidence_classes_distinguished": true,
+    "contested_claims_qualified": true,
+    "all_solved_answers_exam_executable": true,
+    "strict_mcq_rotation": true,
+    "graphical_and_ascii_independently_complete": true,
+    "current_examples_source_dated": true
+  },
+  "repairs": [],
+  "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-21\\g6\\environment-and-ecology-21_Complete-Learning-Session_2026-09-06.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-21\\g6\\environment-and-ecology-21_Solved-Practice-Workbook_2026-09-06.md",
+  "live_official_sources": [
+    "https://unfccc.int/process-and-meetings/the-paris-agreement/article-64-mechanism",
+    "https://beeindia.gov.in/en/programmes/carbon-market",
+    "https://www.ipcc.ch/report/ar6/wg3/",
+    "https://www.pib.gov.in/indexd.aspx?reg=3&lang=1",
+    "https://moef.gov.in/"
+  ],
+  "current_status_control": "Rechecked 6 September 2026 against the listed authoritative publisher, regulator or treaty-secretariat source. Official retrieval confirmed only the broad IPCC mitigation context. UNFCCC was blocked and the BEE route was generic; therefore no current carbon price, volume, methodology, Article 6 delivery status, CCTS obligation, capture rate, cost, storage capacity or DAC deployment is asserted.",
+  "live_sources_rechecked_on": "2026-09-06"
+}

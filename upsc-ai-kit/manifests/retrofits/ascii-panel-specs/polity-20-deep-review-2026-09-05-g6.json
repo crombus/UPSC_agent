@@ -1,0 +1,322 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "polity-16-20-hostile-semantic-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_society_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true,
+    "polity_legal_source_hierarchy": true,
+    "manually_authored_twelve_panels": true
+  },
+  "topics": [
+    {
+      "topic_key": "polity-20",
+      "display_title": "State Legislature",
+      "active_generation": 6,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\g6\\polity-20_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Articles 168-212: one mandatory House, one optional House",
+          "structural_type": "state-legislature-architecture",
+          "ascii_lines": [
+            "STATE LEGISLATURE UNDER ARTICLE 168",
+            "Governor + Assembly in every State",
+            "Governor + Assembly + Council in six bicameral States.",
+            "",
+            "SIX COUNCIL STATES",
+            "Andhra Pradesh | Telangana | Uttar Pradesh | Bihar | Maharashtra | Karnataka",
+            "",
+            "CONSTITUTIONAL RAIL",
+            "168-177 design/membership/sessions -> 178-195 officers/privilege",
+            "-> 196-207 Bills/finance -> 208-212 procedure and judicial restraint.",
+            "",
+            "CORE: Assembly has direct mandate and confidence; Council offers optional delay and continuity.",
+            "MUST REMEMBER: Audit Articles 168-212 through legislature shape, Article 169, composition,",
+            "  duration, membership, officers, sessions, privileges, ordinary and financial Bills, budget,",
+            "  procedure and judicial-review limits."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\20_State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\g6\\polity-20_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Article 169 creation or abolition route",
+          "structural_type": "council-creation-process",
+          "ascii_lines": [
+            "STATE ASSEMBLY RESOLUTION",
+            "majority of total membership + at least two-thirds present and voting",
+            "                         |",
+            "                         v",
+            "PARLIAMENT MAY ENACT ORDINARY LAW",
+            "simple majority | incidental constitutional text changes | not Article 368 amendment",
+            "                         |",
+            "                         v",
+            "COUNCIL CREATED OR ABOLISHED",
+            "",
+            "LIMITS",
+            "Resolution does not itself create a Council and does not compel Parliament to legislate."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\20_State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\g6\\polity-20_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Assembly and Council composition, duration and membership",
+          "structural_type": "house-membership-matrix",
+          "ascii_lines": [
+            "ASSEMBLY",
+            "Article 170 | direct territorial election | normal 60-500 with exceptions",
+            "age 25 | five years unless sooner dissolved | confidence chamber.",
+            "",
+            "COUNCIL",
+            "Article 171 | <= one-third Assembly; ordinarily >=40 | permanent | age 30",
+            "1/3 local bodies | 1/12 graduates | 1/12 teachers | 1/3 MLAs | 1/6 nominated",
+            "STV for elected streams | one-third retire every two years | six-year member term.",
+            "",
+            "ARTICLE 190",
+            "resignation needs voluntary/genuine acceptance; unauthorised sixty-day absence may vacate seat."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\20_State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\g6\\polity-20_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Sessions, officers, quorum and participation",
+          "structural_type": "house-procedure-system",
+          "ascii_lines": [
+            "ARTICLE 174",
+            "Governor summons on advice -> sitting -> adjournment -> prorogation -> Assembly dissolution",
+            "no more than six months between last sitting and next session's first sitting.",
+            "",
+            "OFFICERS",
+            "Assembly Speaker/Deputy Speaker | Council Chairman/Deputy Chairman",
+            "removal: majority of all then members + fourteen days notice.",
+            "Speaker survives dissolution until immediately before new Assembly's first meeting.",
+            "",
+            "ARTICLE 189 DEFAULT",
+            "until State law provides otherwise: ten or one-tenth, whichever greater.",
+            "Ordinary vote: present and voting; chair has casting vote on equality."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\20_State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\g6\\polity-20_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Presiding officer neutrality and anti-defection control",
+          "structural_type": "speaker-defection-timeline",
+          "ascii_lines": [
+            "TENTH SCHEDULE",
+            "party exit/whip breach | independent joins | nominated joins after six months",
+            "only two-thirds merger defence survives.",
+            "",
+            "Kihoto Hollohan (1992) -> Speaker is tribunal; judicial review survives.",
+            "Keisham Meghachandra (2020) -> ordinarily three-month outer limit absent exception.",
+            "Padi Kaushik Reddy (2025) -> Telangana petitions ordered concluded within three months.",
+            "Subhash Desai (2023) -> political party, not faction, appoints authorised whip/leader.",
+            "Nabam Rebia (2016) referred Speaker-removal issue remains unresolved.",
+            "",
+            "REFORM: reasoned orders, equal procedure and independent adjudication proposal."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\20_State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\g6\\polity-20_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Privileges, accountability devices and review",
+          "structural_type": "privilege-accountability-boundary",
+          "ascii_lines": [
+            "ARTICLE 194",
+            "speech/vote immunity + authorised publication protection -> functional legislative shield.",
+            "Sita Soren (2024) -> bribery is not protected by speech/vote privilege.",
+            "Amarinder Singh (2010) -> privilege is no general punishment for unrelated past executive acts.",
+            "Raja Ram Pal (2007) -> substantive illegality, mala fides and jurisdiction remain reviewable.",
+            "",
+            "ACCOUNTABILITY",
+            "questions -> discussions -> motions -> budget scrutiny -> committees -> no-confidence.",
+            "Only Assembly confidence can make or unmake the ministry.",
+            "TRAP: Governor is a legislative component, not an Article 194-protected member.",
+            "CLOSE DISTINCTION: Keep the Council's four-month ordinary-Bill delay, fourteen-day Money-Bill",
+            "  role and absence of a State joint sitting distinct. Article 207(1) and 207(3) financial",
+            "  Bills are not automatically Money Bills."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\20_State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\g6\\polity-20_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Ordinary Bills, lapse and unequal bicameralism",
+          "structural_type": "ordinary-bill-process",
+          "ascii_lines": [
+            "UNICAMERAL",
+            "Assembly readings/committee/vote -> Article 200 assent gateway.",
+            "",
+            "BICAMERAL ASSEMBLY BILL",
+            "Assembly passes -> Council delay up to 3 months -> Assembly repasses",
+            "-> Council delay up to 1 month -> Assembly form prevails; no State joint sitting.",
+            "",
+            "COUNCIL-ORIGINATED BILL",
+            "Council passes -> Assembly rejects -> Bill ends; no reciprocal Council override.",
+            "",
+            "ARTICLE 196 LAPSE",
+            "prorogation: no lapse | pending only in Council: no lapse on Assembly dissolution",
+            "pending in Assembly or passed Assembly/pending Council: lapses on dissolution."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\20_State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\g6\\polity-20_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Money Bills and Article 207 financial categories",
+          "structural_type": "financial-bill-comparison",
+          "ascii_lines": [
+            "MONEY BILL: ARTICLES 198-199",
+            "Governor recommendation -> Assembly introduction -> Speaker certificate",
+            "-> Council recommendations within 14 days -> Assembly decides -> Article 200.",
+            "Council cannot reject, amend, vote grants or force joint sitting.",
+            "",
+            "ARTICLE 207(1) WIDER FINANCIAL BILL",
+            "contains Article 199(1)(a)-(f) matter plus others -> recommendation + Assembly origin",
+            "-> ordinary-Bill route after introduction.",
+            "",
+            "ARTICLE 207(3) EXPENDITURE BILL",
+            "may originate in either House -> cannot be passed without Governor recommendation",
+            "for consideration -> not automatically a Money Bill."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\20_State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\g6\\polity-20_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Budget, funds, committees and executive scrutiny",
+          "structural_type": "budget-committee-control",
+          "ascii_lines": [
+            "ARTICLES 202-207",
+            "Annual Financial Statement -> charged items discussed, not voted",
+            "-> demands for grants voted only by Assembly -> appropriation authorises withdrawal",
+            "-> Finance/financial legislation completes revenue authority.",
+            "",
+            "COMMITTEE RAIL",
+            "Public Accounts -> audit and appropriation",
+            "Estimates -> economy and administrative improvement",
+            "Public Undertakings -> State enterprise scrutiny",
+            "State-specific subject/Bill committees -> evidence and clause-level examination.",
+            "",
+            "EFFECTIVE CONTROL = time + data + research + tracked government response."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\20_State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\g6\\polity-20_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Articles 200-201 assent and current legal control",
+          "structural_type": "assent-review-gateway",
+          "ascii_lines": [
+            "ARTICLE 200",
+            "assent | withhold | return non-Money Bill once | reserve for President",
+            "mandatory reservation where High Court constitutional powers are endangered.",
+            "ARTICLE 201",
+            "President may assent, withhold or direct return of non-Money Bill;",
+            "repassage does not compel presidential assent.",
+            "",
+            "State of Tamil Nadu v. Governor of Tamil Nadu (2025)",
+            "-> timelines and deemed assent used on the facts.",
+            "In re Assent, Withholding or Reservation of Bills (2025)",
+            "-> advisory; no rigid timelines or automatic deemed assent;",
+            "prolonged unexplained inaction remains reviewable. No technical overruling claim."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\20_State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\g6\\polity-20_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Council versus Assembly and Rajya Sabha",
+          "structural_type": "upper-house-comparison",
+          "ascii_lines": [
+            "ASSEMBLY                         COUNCIL",
+            "mandatory, direct                  optional, indirect/nominated",
+            "may dissolve                       permanent",
+            "confidence + grants                questions/debate, no confidence control",
+            "final ordinary-Bill will           maximum 3+1 month delay",
+            "Money Bill control                 14-day recommendations",
+            "Article 169 initiation             existence depends on Assembly route.",
+            "",
+            "RAJYA SABHA CONTRAST",
+            "mandatory federal House | broadly co-equal ordinary law | Articles 249 and 312 powers.",
+            "Council legitimacy rests on scrutiny, not federal representation or final veto."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\20_State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\g6\\polity-20_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Current representation controls and exam synthesis",
+          "structural_type": "state-legislature-exam-synthesis",
+          "ascii_lines": [
+            "CURRENT AT 28 AUGUST 2026",
+            "six Council States | 106th Amendment reservation not operational",
+            "Census reference: 1 Mar 2027 generally; 1 Oct 2026 in specified snow-bound areas",
+            "2026 delimitation-linked Bills failed/withdrawn and are not law.",
+            "",
+            "REFORM ROUTE",
+            "predictable sittings | prior Bill publication | stronger committees",
+            "non-partisan research | timely Speaker decisions | transparent nominations",
+            "public assent tracker | modernised Council representation.",
+            "",
+            "MAINS SPINE",
+            "Article/design -> mechanism -> Assembly-Council comparison -> case/current evidence",
+            "-> democratic or scrutiny consequence -> targeted reform -> representative-federal verdict.",
+            "LEGAL/SOURCE LIMIT: Six States retain Councils. The 106th Amendment is commenced but its",
+            "  reservation is not operational; Census 2027 reference dates do not equal publication of",
+            "  figures or commencement of delimitation."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-20\\g3-source\\polity-20_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\20_State-Legislature.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-20\\g6\\polity-20_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

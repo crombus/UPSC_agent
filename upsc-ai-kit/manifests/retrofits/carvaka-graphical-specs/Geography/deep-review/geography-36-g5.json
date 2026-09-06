@@ -1,0 +1,1178 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-36",
+  "subject": "Geography",
+  "title": "CONTEMPORARY GEOGRAPHICAL ISSUES (INDIA)",
+  "short_route": "IS IT A GEOGRAPHICAL → SIX ISSUE-LENSES → STRESS TO POLICY CHAIN → NINE-STEP ANALYTICAL SPINE → EXPOSURE AND VULNERABILITY SEPARATED → SCALE MISMATCH RAIL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g5\\geography-36_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-36-deep-review-2026-09-05-g5.json",
+  "ascii_spec_sha256": "e3e66b2f288de5e0342eacd66108576fffd2039ffc55c322abc0c7cba0312c72",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "IS IT A GEOGRAPHICAL ISSUE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "IS IT A GEOGRAPHICAL ISSUE",
+          "role": "primary"
+        },
+        {
+          "text": "ASK WHERE",
+          "role": "outcome"
+        },
+        {
+          "text": "CAN THE PROBLEM BE LOCATED ON A BASIN, COAST",
+          "role": "comparison"
+        },
+        {
+          "text": "ASK WHY THERE",
+          "role": "evidence"
+        },
+        {
+          "text": "DOES TERRAIN, CLIMATE, WATER OR CONNECTIVITY EXPLAIN THE LOCATION",
+          "role": "primary"
+        },
+        {
+          "text": "ASK SO WHAT",
+          "role": "outcome"
+        },
+        {
+          "text": "IS THERE A SPATIAL CONSEQUENCE SUCH AS MIGRATION, FLOODING",
+          "role": "comparison"
+        },
+        {
+          "text": "IF ALL THREE ANSWER YES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ASK WHERE → can the problem be located on a basin, coast, slope or corridor",
+        "ASK WHY THERE → does terrain, climate, water or connectivity explain the location",
+        "ASK SO WHAT → is there a spatial consequence such as migration, flooding or erosion",
+        "IF all three answer yes → it is a geographical issue and the chain applies",
+        "IF only the policy dispute is present → it is a governance question, not a"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ASK WHERE → can the problem be located on a basin, coast, slope or corridor",
+            "ASK WHY THERE → does terrain, climate, water or connectivity explain the location",
+            "ASK SO WHAT → is there a spatial consequence such as migration, flooding or erosion"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IF all three answer yes → it is a geographical issue and the chain applies",
+            "IF only the policy dispute is present → it is a governance question, not a spatial one",
+            "MUST REMEMBER: Contemporary Indian issues are spatial systems: regional inequality, urban stress, agrarian"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "change, land degradation, water conflict, disasters, climate risk, coastal/Himalayan vulnerability, displacement and environmental",
+            "justice emerge through hazard or pressure × exposure × vulnerability × governance."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Contemporary Indian issues are spatial systems: regional inequality, urban stress, agrarian change, land degradation, water conflict, disasters, climate risk, coastal/Himalayan vulnerability, displacement and environmental justice emerge through hazard or pressure × exposure × vulnerability × governance.",
+      "source_references": [
+        "What makes an issue geographical",
+        "The simple analytical chain",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g4\\geography-36_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g5\\geography-36_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "SIX ISSUE-LENSES",
+      "structural_type": "institutional-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SIX ISSUE-LENSES",
+          "role": "primary"
+        },
+        {
+          "text": "RESOURCE CONFLICT",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTROL OF WATER, MINERALS, FORESTS AND COASTS",
+          "role": "comparison"
+        },
+        {
+          "text": "CLUSTERING NEAR A FRONTIER, GATEWAY OR CORRIDOR",
+          "role": "evidence"
+        },
+        {
+          "text": "HAZARD AND VULNERABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "FLOODPLAIN, COAST, HILL SLOPE AND SEISMIC EXPOSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "MOBILITY AND URBAN PRIMACY",
+          "role": "comparison"
+        },
+        {
+          "text": "STRESS MIGRATION; DRAINAGE AND LAND-MARKET OVERLOAD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RESOURCE CONFLICT → control of water, minerals, forests and coasts",
+        "BORDERLAND → clustering near a frontier, gateway or corridor",
+        "HAZARD AND VULNERABILITY → floodplain, coast, hill slope and seismic exposure",
+        "MOBILITY AND URBAN PRIMACY → stress migration; drainage and land-market overload",
+        "ECOLOGICAL FRAGILITY → coral island, wetland, delta and mountain ecosystems"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RESOURCE CONFLICT → control of water, minerals, forests and coasts",
+            "BORDERLAND → clustering near a frontier, gateway or corridor"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HAZARD AND VULNERABILITY → floodplain, coast, hill slope and seismic exposure",
+            "MOBILITY AND URBAN PRIMACY → stress migration; drainage and land-market overload"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ECOLOGICAL FRAGILITY → coral island, wetland, delta and mountain ecosystems",
+            "RESOURCE CONFLICT → control of water, minerals, forests and coasts"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ECOLOGICAL FRAGILITY → coral island, wetland, delta and mountain ecosystems.",
+      "source_references": [
+        "The six issue-lenses",
+        "Standing issue families",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g4\\geography-36_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g5\\geography-36_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "STRESS TO POLICY CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "STRESS TO POLICY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "RESOURCE, CLIMATE OR TERRAIN STRESS",
+          "role": "outcome"
+        },
+        {
+          "text": "THE INITIATING PHYSICAL CONDITION",
+          "role": "comparison"
+        },
+        {
+          "text": "UNEVEN ACCESS OR EXPOSURE",
+          "role": "evidence"
+        },
+        {
+          "text": "THE STRESS FALLS UNEQUALLY ACROSS SPACE AND GROUPS",
+          "role": "primary"
+        },
+        {
+          "text": "CONFLICT OR GOVERNANCE PRESSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTESTATION BECOMES VISIBLE",
+          "role": "comparison"
+        },
+        {
+          "text": "SPATIAL SPILLOVER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RESOURCE, CLIMATE OR TERRAIN STRESS → the initiating physical condition",
+        "UNEVEN ACCESS OR EXPOSURE → the stress falls unequally across space and groups",
+        "CONFLICT OR GOVERNANCE PRESSURE → contestation becomes visible",
+        "SPATIAL SPILLOVER → migration, flooding, erosion or corridor shift follows",
+        "POLICY RESPONSE → instruments arrive, usually after the spillover"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RESOURCE, CLIMATE OR TERRAIN STRESS → the initiating physical condition",
+            "UNEVEN ACCESS OR EXPOSURE → the stress falls unequally across space and groups"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONFLICT OR GOVERNANCE PRESSURE → contestation becomes visible",
+            "SPATIAL SPILLOVER → migration, flooding, erosion or corridor shift follows"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "POLICY RESPONSE → instruments arrive, usually after the spillover",
+            "RESOURCE, CLIMATE OR TERRAIN STRESS → the initiating physical condition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SPATIAL SPILLOVER → migration, flooding, erosion or corridor shift follows.",
+      "source_references": [
+        "The simple analytical chain",
+        "What makes an issue geographical",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g4\\geography-36_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g5\\geography-36_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "NINE-STEP ANALYTICAL SPINE",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "NINE-STEP ANALYTICAL SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "PROCESS AND PATTERN",
+          "role": "mechanism"
+        },
+        {
+          "text": "NAME THE PROCESS, THEN EXPLAIN WHY THERE AND NOT",
+          "role": "caution"
+        },
+        {
+          "text": "DRIVERS AND SCALE",
+          "role": "evidence"
+        },
+        {
+          "text": "SEPARATE NATURAL FROM HUMAN; FIX LOCAL, REGIONAL OR TRANSBOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "EXPOSURE AND VULNERABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "WHO IS IN THE WAY; WHY THE SAME HAZARD",
+          "role": "comparison"
+        },
+        {
+          "text": "NAME THE GENUINE COMPETING INTEREST THAT ALWAYS EXISTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PROCESS AND PATTERN → name the process, then explain why there and not elsewhere",
+        "DRIVERS AND SCALE → separate natural from human; fix local, regional or transboundary",
+        "EXPOSURE AND VULNERABILITY → who is in the way; why the same hazard hurts unequally",
+        "TRADE-OFF → name the genuine competing interest that always exists",
+        "INSTRUMENT AND VERDICT → match the remedy to the mechanism, then grade the conclusion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROCESS AND PATTERN → name the process, then explain why there and not elsewhere",
+            "DRIVERS AND SCALE → separate natural from human; fix local, regional or transboundary"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXPOSURE AND VULNERABILITY → who is in the way; why the same hazard hurts unequally",
+            "TRADE-OFF → name the genuine competing interest that always exists"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INSTRUMENT AND VERDICT → match the remedy to the mechanism, then grade the conclusion",
+            "PROCESS AND PATTERN → name the process, then explain why there and not elsewhere"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INSTRUMENT AND VERDICT → match the remedy to the mechanism, then grade the conclusion.",
+      "source_references": [
+        "Nine-step analytical chain",
+        "Exposure against vulnerability",
+        "Scale-mismatch insight",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g4\\geography-36_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g5\\geography-36_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "EXPOSURE AND VULNERABILITY SEPARATED",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EXPOSURE AND VULNERABILITY SEPARATED",
+          "role": "primary"
+        },
+        {
+          "text": "POPULATION, ASSETS AND LIVELIHOODS PHYSICALLY IN THE HAZARD PATH",
+          "role": "outcome"
+        },
+        {
+          "text": "CAPACITY TO ABSORB, COPE AND RECOVER FROM THE SAME",
+          "role": "comparison"
+        },
+        {
+          "text": "GROUNDWATER CASE",
+          "role": "evidence"
+        },
+        {
+          "text": "SMALLHOLDERS LOSE ACCESS FIRST BECAUSE DEEPER WELLS NEED FINANCE",
+          "role": "primary"
+        },
+        {
+          "text": "FLOOD CASE",
+          "role": "outcome"
+        },
+        {
+          "text": "INFORMAL HOUSING WITHOUT INSURANCE OR ALTERNATIVE SHELTER BEARS THE",
+          "role": "comparison"
+        },
+        {
+          "text": "PHYSICAL PROTECTION ALONE LEAVES THE DISTRIBUTIONAL PROBLEM UNTOUCHED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EXPOSURE → population, assets and livelihoods physically in the hazard path",
+        "VULNERABILITY → capacity to absorb, cope and recover from the same hazard",
+        "GROUNDWATER CASE → smallholders lose access first because deeper wells need finance",
+        "FLOOD CASE → informal housing without insurance or alternative shelter bears the loss",
+        "IMPLICATION → physical protection alone leaves the distributional problem untouched"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "EXPOSURE → population, assets and livelihoods physically in the hazard path",
+          "GROUNDWATER CASE → smallholders lose access first because deeper wells need finance",
+          "IMPLICATION → physical protection alone leaves the distributional problem untouched"
+        ],
+        [
+          "VULNERABILITY → capacity to absorb, cope and recover from the same hazard",
+          "FLOOD CASE → informal housing without insurance or alternative shelter bears the loss",
+          "EXPOSURE → population, assets and livelihoods physically in the hazard path"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EXPOSURE → population, assets and livelihoods physically in the hazard path",
+            "VULNERABILITY → capacity to absorb, cope and recover from the same hazard"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GROUNDWATER CASE → smallholders lose access first because deeper wells need finance",
+            "FLOOD CASE → informal housing without insurance or alternative shelter bears the loss"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "IMPLICATION → physical protection alone leaves the distributional problem untouched",
+            "EXPOSURE → population, assets and livelihoods physically in the hazard path"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "IMPLICATION → physical protection alone leaves the distributional problem untouched.",
+      "source_references": [
+        "Exposure against vulnerability",
+        "Groundwater worked case",
+        "Urban flooding worked case",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g4\\geography-36_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g5\\geography-36_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SCALE MISMATCH RAIL",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SCALE MISMATCH RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "AQUIFER SCALE",
+          "role": "outcome"
+        },
+        {
+          "text": "MATCHES NO ADMINISTRATIVE BOUNDARY IN AN IRRIGATED PLAIN",
+          "role": "caution"
+        },
+        {
+          "text": "CATCHMENT SCALE",
+          "role": "evidence"
+        },
+        {
+          "text": "EXTENDS BEYOND THE MUNICIPAL LIMIT OF A FLOODING CITY",
+          "role": "caution"
+        },
+        {
+          "text": "BASIN SCALE",
+          "role": "outcome"
+        },
+        {
+          "text": "CROSSES SEVERAL STATES IN A PENINSULAR RIVER DISPUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "THE UNIT EXPECTED TO ACT CANNOT GOVERN THE WHOLE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "AQUIFER SCALE → matches no administrative boundary in an irrigated plain",
+        "CATCHMENT SCALE → extends beyond the municipal limit of a flooding city",
+        "BASIN SCALE → crosses several states in a peninsular river dispute",
+        "CONSEQUENCE → the unit expected to act cannot govern the whole process",
+        "ANSWER MOVE → name the mismatch explicitly; it is the least used available insight"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AQUIFER SCALE → matches no administrative boundary in an irrigated plain",
+            "CATCHMENT SCALE → extends beyond the municipal limit of a flooding city"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BASIN SCALE → crosses several states in a peninsular river dispute",
+            "CONSEQUENCE → the unit expected to act cannot govern the whole process"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ANSWER MOVE → name the mismatch explicitly; it is the least used available insight",
+            "AQUIFER SCALE → matches no administrative boundary in an irrigated plain"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER MOVE → name the mismatch explicitly; it is the least used available insight.",
+      "source_references": [
+        "Scale-mismatch insight",
+        "Groundwater worked case",
+        "Krishna basin geography",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g4\\geography-36_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g5\\geography-36_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "GROUNDWATER DECLINE WORKED CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GROUNDWATER DECLINE WORKED CHAIN",
+          "role": "caution"
+        },
+        {
+          "text": "ABSTRACTION EXCEEDS RECHARGE IN AN ALLUVIAL AQUIFER",
+          "role": "outcome"
+        },
+        {
+          "text": "TUBE-WELL DENSITY, WATER-INTENSIVE CROPPING AND ASSURED PROCUREMENT COINCIDE",
+          "role": "comparison"
+        },
+        {
+          "text": "CROPPING PATTERN, ENERGY PRICING, PROCUREMENT GEOGRAPHY, RAINFALL VARIABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "SMALLHOLDERS UNABLE TO FINANCE DEEPER WELLS LOSE ACCESS FIRST",
+          "role": "primary"
+        },
+        {
+          "text": "DEMAND-SIDE CROP AND ENERGY REFORM WITH MANAGED RECHARGE AT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PROCESS → abstraction exceeds recharge in an alluvial aquifer",
+        "PATTERN → tube-well density, water-intensive cropping and assured procurement coincide",
+        "DRIVERS → cropping pattern, energy pricing, procurement geography, rainfall variability",
+        "BURDEN → smallholders unable to finance deeper wells lose access first",
+        "INSTRUMENT → demand-side crop and energy reform with managed recharge at aquifer scale"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROCESS → abstraction exceeds recharge in an alluvial aquifer",
+            "PATTERN → tube-well density, water-intensive cropping and assured procurement coincide"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DRIVERS → cropping pattern, energy pricing, procurement geography, rainfall variability",
+            "BURDEN → smallholders unable to finance deeper wells lose access first"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INSTRUMENT → demand-side crop and energy reform with managed recharge at aquifer scale",
+            "PROCESS → abstraction exceeds recharge in an alluvial aquifer"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INSTRUMENT → demand-side crop and energy reform with managed recharge at aquifer scale.",
+      "source_references": [
+        "Groundwater worked case",
+        "Scale-mismatch insight",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g4\\geography-36_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g5\\geography-36_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "URBAN FLOODING WORKED CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "URBAN FLOODING WORKED CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "RUNOFF GENERATION EXCEEDS DRAINAGE CONVEYANCE CAPACITY",
+          "role": "outcome"
+        },
+        {
+          "text": "LOW-LYING LAND, FILLED TANKS AND WETLANDS, ENCROACHED NATURAL DRAINS",
+          "role": "comparison"
+        },
+        {
+          "text": "SURFACE SEALING, UNDERSIZED SILTED NETWORKS, FLOODPLAIN CONSTRUCTION",
+          "role": "evidence"
+        },
+        {
+          "text": "PROTECTING DRAINS AND FLOODPLAINS FORGOES VALUABLE DEVELOPABLE LAND",
+          "role": "primary"
+        },
+        {
+          "text": "DRAINAGE RESTORATION, BLUE-GREEN INFRASTRUCTURE AND TENURE-BACKED RELOCATION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PROCESS → runoff generation exceeds drainage conveyance capacity",
+        "PATTERN → low-lying land, filled tanks and wetlands, encroached natural drains",
+        "DRIVERS → surface sealing, undersized silted networks, floodplain construction",
+        "TRADE-OFF → protecting drains and floodplains forgoes valuable developable land",
+        "INSTRUMENT → drainage restoration, blue-green infrastructure and tenure-backed relocation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROCESS → runoff generation exceeds drainage conveyance capacity",
+            "PATTERN → low-lying land, filled tanks and wetlands, encroached natural drains"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DRIVERS → surface sealing, undersized silted networks, floodplain construction",
+            "TRADE-OFF → protecting drains and floodplains forgoes valuable developable land"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INSTRUMENT → drainage restoration, blue-green infrastructure and tenure-backed relocation",
+            "PROCESS → runoff generation exceeds drainage conveyance capacity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INSTRUMENT → drainage restoration, blue-green infrastructure and tenure-backed relocation.",
+      "source_references": [
+        "Urban flooding worked case",
+        "Urban flooding factor set",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g4\\geography-36_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g5\\geography-36_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CURRENT-MATERIAL DISCIPLINE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CURRENT-MATERIAL DISCIPLINE",
+          "role": "evidence"
+        },
+        {
+          "text": "FORECAST VS OBSERVATION",
+          "role": "comparison"
+        },
+        {
+          "text": "A PREDICTION IS NOT A RECORDED MEASUREMENT",
+          "role": "caution"
+        },
+        {
+          "text": "PROJECTION VS MEASUREMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "A MODEL OUTPUT IS NOT AN INSTRUMENT READING",
+          "role": "caution"
+        },
+        {
+          "text": "SURVEY VS CENSUS",
+          "role": "comparison"
+        },
+        {
+          "text": "A SAMPLE ESTIMATE IS NOT AN ENUMERATED COUNT",
+          "role": "caution"
+        },
+        {
+          "text": "ANNOUNCEMENT VS IMPLEMENTATION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "FORECAST vs OBSERVATION → a prediction is not a recorded measurement",
+        "PROJECTION vs MEASUREMENT → a model output is not an instrument reading",
+        "SURVEY vs CENSUS → a sample estimate is not an enumerated count",
+        "ANNOUNCEMENT vs IMPLEMENTATION → approval is not delivery on the ground",
+        "TARGET vs ACHIEVEMENT → a stated goal is never a completed outcome"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FORECAST vs OBSERVATION → a prediction is not a recorded measurement",
+          "SURVEY vs CENSUS → a sample estimate is not an enumerated count",
+          "TARGET vs ACHIEVEMENT → a stated goal is never a completed outcome"
+        ],
+        [
+          "PROJECTION vs MEASUREMENT → a model output is not an instrument reading",
+          "ANNOUNCEMENT vs IMPLEMENTATION → approval is not delivery on the ground",
+          "FORECAST vs OBSERVATION → a prediction is not a recorded measurement"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FORECAST vs OBSERVATION → a prediction is not a recorded measurement",
+            "PROJECTION vs MEASUREMENT → a model output is not an instrument reading"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SURVEY vs CENSUS → a sample estimate is not an enumerated count",
+            "ANNOUNCEMENT vs IMPLEMENTATION → approval is not delivery on the ground"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TARGET vs ACHIEVEMENT → a stated goal is never a completed outcome",
+            "FORECAST vs OBSERVATION → a prediction is not a recorded measurement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TARGET vs ACHIEVEMENT → a stated goal is never a completed outcome.",
+      "source_references": [
+        "Five current-material confusions",
+        "Core-independence rule",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g4\\geography-36_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g5\\geography-36_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "PENINSULAR BASIN DISPUTE GEOGRAPHY",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PENINSULAR BASIN DISPUTE GEOGRAPHY",
+          "role": "primary"
+        },
+        {
+          "text": "UPSTREAM STORAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "RESERVOIR LOCATION AND TIMED RELEASE GOVERN DOWNSTREAM AVAILABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "INTER-STATE SPREAD",
+          "role": "institution"
+        },
+        {
+          "text": "MAHARASHTRA, KARNATAKA, TELANGANA AND ANDHRA PRADESH ALL MATTER",
+          "role": "primary"
+        },
+        {
+          "text": "COMMAND AREAS",
+          "role": "outcome"
+        },
+        {
+          "text": "IRRIGATED AGRICULTURE DEPENDS ON PREDICTABLE RELEASE WINDOWS",
+          "role": "comparison"
+        },
+        {
+          "text": "LOWER BASIN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UPSTREAM STORAGE → reservoir location and timed release govern downstream availability",
+        "INTER-STATE SPREAD → Maharashtra, Karnataka, Telangana and Andhra Pradesh all matter",
+        "COMMAND AREAS → irrigated agriculture depends on predictable release windows",
+        "LOWER BASIN → delta and lower-riparian needs fear reduced seasonal flow",
+        "ADMINISTRATION → bifurcation reorganised the basin's management, not its geometry"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "UPSTREAM STORAGE → reservoir location and timed release govern downstream availability",
+            "INTER-STATE SPREAD → Maharashtra, Karnataka, Telangana and Andhra Pradesh all matter",
+            "COMMAND AREAS → irrigated agriculture depends on predictable release windows"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LOWER BASIN → delta and lower-riparian needs fear reduced seasonal flow",
+            "ADMINISTRATION → bifurcation reorganised the basin's management, not its geometry",
+            "CLOSE DISTINCTION: Hazard differs from disaster, scarcity from access failure, drought from aridity, degradation from desertification, climate"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "trend from single event, mitigation from adaptation, and project approval, construction and operation are separate status stages."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Hazard differs from disaster, scarcity from access failure, drought from aridity, degradation from desertification, climate trend from single event, mitigation from adaptation, and project approval, construction and operation are separate status stages.",
+      "source_references": [
+        "Krishna basin geography",
+        "Peninsular against Himalayan river questions",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g4\\geography-36_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g5\\geography-36_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "FRAGILE-EDGE DEVELOPMENT TRADE-OFF",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FRAGILE-EDGE DEVELOPMENT TRADE-OFF",
+          "role": "primary"
+        },
+        {
+          "text": "GREAT NICOBAR ADVANTAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "PROXIMITY TO EAST-WEST ROUTES AND THE MALACCA-FACING ARC",
+          "role": "comparison"
+        },
+        {
+          "text": "GREAT NICOBAR CONSTRAINT",
+          "role": "evidence"
+        },
+        {
+          "text": "CORAL COAST, TRIBAL HABITAT, SEISMICITY, COASTAL REGULATION",
+          "role": "primary"
+        },
+        {
+          "text": "NORTH-EAST ADVANTAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "BAY OF BENGAL ACCESS BYPASSING THE NARROW MAINLAND HINGE",
+          "role": "comparison"
+        },
+        {
+          "text": "NORTH-EAST CONSTRAINT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GREAT NICOBAR ADVANTAGE → proximity to east-west routes and the Malacca-facing arc",
+        "GREAT NICOBAR CONSTRAINT → coral coast, tribal habitat, seismicity, coastal regulation",
+        "NORTH-EAST ADVANTAGE → Bay of Bengal access bypassing the narrow mainland hinge",
+        "NORTH-EAST CONSTRAINT → folded slopes, heavy monsoon, landslides, forest fragmentation",
+        "RULE → route value and ecological fragility occupy the same site, so name the trade-off"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "GREAT NICOBAR ADVANTAGE → proximity to east-west routes and the Malacca-facing arc",
+          "NORTH-EAST CONSTRAINT → folded slopes, heavy monsoon, landslides, forest fragmentation",
+          "Marathwada drought, Punjab groundwater, Bundelkhand, Sundarbans, Western Ghats, mining belts and inter-state river disputes show scale-specific causation"
+        ],
+        [
+          "GREAT NICOBAR CONSTRAINT → coral coast, tribal habitat, seismicity, coastal regulation",
+          "RULE → route value and ecological fragility occupy the same site, so name the trade-off",
+          "current claims require IMD,"
+        ],
+        [
+          "NORTH-EAST ADVANTAGE → Bay of Bengal access bypassing the narrow mainland hinge",
+          "EVIDENCE LIMIT: Joshimath/Himalayan towns, Delhi air basin, Bengaluru/Chennai water stress,",
+          "Census, CWC, CGWB, ISRO, MoEFCC or other official source-date-status labels."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GREAT NICOBAR ADVANTAGE → proximity to east-west routes and the Malacca-facing arc",
+            "GREAT NICOBAR CONSTRAINT → coral coast, tribal habitat, seismicity, coastal regulation",
+            "NORTH-EAST ADVANTAGE → Bay of Bengal access bypassing the narrow mainland hinge"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NORTH-EAST CONSTRAINT → folded slopes, heavy monsoon, landslides, forest fragmentation",
+            "RULE → route value and ecological fragility occupy the same site, so name the trade-off",
+            "EVIDENCE LIMIT: Joshimath/Himalayan towns, Delhi air basin, Bengaluru/Chennai water stress,"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Marathwada drought, Punjab groundwater, Bundelkhand, Sundarbans, Western Ghats, mining belts and inter-state river disputes show scale-specific causation",
+            "current claims require IMD,",
+            "Census, CWC, CGWB, ISRO, MoEFCC or other official source-date-status labels."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → route value and ecological fragility occupy the same site, so name the trade-off.",
+      "source_references": [
+        "Great Nicobar development tension",
+        "North-east corridor fragility",
+        "Connectivity-hazard caveat",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g4\\geography-36_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g5\\geography-36_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "DATED OFFICIAL ANCHORS AND THEIR BOUNDARY",
+      "structural_type": "institutional-ladder",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "DATED OFFICIAL ANCHORS AND THEIR BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "21 AUG 2025",
+          "role": "outcome"
+        },
+        {
+          "text": "PIB AND LOK SABHA REPLY ON CONTINUED KRISHNA TRIBUNAL",
+          "role": "comparison"
+        },
+        {
+          "text": "29 JUL 2024",
+          "role": "evidence"
+        },
+        {
+          "text": "PIB RELEASE ON URBAN FLOODING DURING THE MONSOON SEASON",
+          "role": "primary"
+        },
+        {
+          "text": "BOTH ANCHORS ILLUSTRATE PROCESSES ALREADY OWNED BY CORE FILES",
+          "role": "outcome"
+        },
+        {
+          "text": "STORM-WATER AND WATER-BODY INTERVENTIONS CITED IN THE FLOODING RELEASE",
+          "role": "comparison"
+        },
+        {
+          "text": "NO ALLOCATION SHARE, RAINFALL TOTAL OR OUTLAY IS QUOTED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "21 AUG 2025 → PIB and Lok Sabha reply on continued Krishna tribunal relevance",
+        "29 JUL 2024 → PIB release on urban flooding during the monsoon season",
+        "READING → both anchors illustrate processes already owned by core files",
+        "AMRUT → storm-water and water-body interventions cited in the flooding release",
+        "BOUNDARY → no allocation share, rainfall total or outlay is quoted from memory"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "21 AUG 2025 → PIB and Lok Sabha reply on continued Krishna tribunal relevance",
+            "29 JUL 2024 → PIB release on urban flooding during the monsoon season"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "READING → both anchors illustrate processes already owned by core files",
+            "AMRUT → storm-water and water-body interventions cited in the flooding release"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → no allocation share, rainfall total or outlay is quoted from memory",
+            "21 AUG 2025 → PIB and Lok Sabha reply on continued Krishna tribunal relevance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → no allocation share, rainfall total or outlay is quoted from memory.",
+      "source_references": [
+        "Krishna tribunal current anchor",
+        "Urban flooding current anchor",
+        "Core-independence rule",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\36_Contemporary-Geographical-Issues-India.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g4\\geography-36_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-36\\g5\\geography-36_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "PENINSULAR RIVER DISPUTES DIFFER FROM HIMALAYAN RIVER QUESTIONS BECAUSE",
+          "role": "outcome"
+        },
+        {
+          "text": "MONSOON TIMING, DELTA NEEDS AND IRRIGATION COMMAND AREAS MATTER",
+          "role": "comparison"
+        },
+        {
+          "text": "ISLAND MEGAPROJECTS ARE GEOGRAPHICAL QUESTIONS BECAUSE SITE, CORAL COAST",
+          "role": "evidence"
+        },
+        {
+          "text": "NORTH-EAST CONNECTIVITY IS FUNDAMENTALLY A TERRAIN AND CORRIDOR ISSUE",
+          "role": "primary"
+        },
+        {
+          "text": "STEEP HILLS, FOREST COVER, RIVER CROSSINGS AND A NARROW",
+          "role": "outcome"
+        },
+        {
+          "text": "URBAN FLOODING IS USUALLY A DRAINAGE-BASIN WITHIN THE CITY",
+          "role": "comparison"
+        },
+        {
+          "text": "GREAT NICOBAR IS A GEOGRAPHY ISSUE BECAUSE LOCATION ADVANTAGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Peninsular river disputes differ from Himalayan river questions because storage,",
+            "monsoon timing, delta needs and irrigation command areas matter differently.",
+            "Island megaprojects are geographical questions because site, coral coast, seismicity, distance and shipping-lane location shape every outcome.",
+            "North-east connectivity is fundamentally a terrain and corridor issue: steep hills, forest cover, river crossings and a narrow mainland hinge."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Urban flooding is usually a drainage-basin within the city problem, not just a rainfall problem.",
+            "Great Nicobar is a geography issue because location advantage and ecological fragility coexist in the same site.",
+            "Krishna is a basin-management geography issue, not just a tribunal story.",
+            "The north-east's connectivity problem is shaped by terrain and frontier location."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Urban flooding is often a case of natural drainage being overwritten by land-use change.",
+            "NOT: Connectivity automatically reduces regional vulnerability - in mountains and borderlands, badly sited connectivity can deepen hazard.",
+            "NOT: A river dispute can be solved by law alone - basin geometry and reservoir geography still govern outcomes.",
+            "NOT: Urban flooding proves only climate change - local drainage, wetland loss and urban form remain decisive."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

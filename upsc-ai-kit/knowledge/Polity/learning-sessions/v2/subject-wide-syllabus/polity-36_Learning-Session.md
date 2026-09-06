@@ -13,9 +13,9 @@ approval: false
 > **Answer discipline:** claim -> named evidence -> analysis -> qualification.  
 > **Scope:** constitutional basis of the right to know; RTI definitions and proactive disclosure; request, transfer, first appeal, second appeal and complaint routes; CIC/SIC composition, appointment, eligibility, service conditions, removal and suspension; powers, compensation, penalty and reporting; exemptions, severability, third-party procedure and security bodies; privacy and the commenced DPDP amendment; case law; independence, comparison and reform.
 
-- [CURRENT] Status is controlled to **24 August 2026, Asia/Kolkata**.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
 
-- [CURRENT] **Live official refresh, 24 August 2026:** The DoPT consolidated RTI Act as on 18 November 2025, the 2019 service-condition Rules, CIC materials, the 13 November 2025 DPDP commencement control and Supreme Court judgments were rechecked on 24 August 2026. Officeholders and backlog totals are not frozen.
+- [CURRENT] **Live official refresh, 5 September 2026:** The DoPT consolidated RTI Act as on 18 November 2025, the 2019 service-condition Rules, CIC materials, the 13 November 2025 DPDP commencement control and Supreme Court judgments were rechecked on 5 September 2026. The dated central roster is recorded; SIC rosters and backlog totals remain variable and are not generalised.
 #### Package method, source priority and current-law control
 
 - [FACT] The local-first sequence was: `Polity/basic/CIC-and-SIC.md` -> `Polity/advanced/36_CIC-and-SIC.md` -> Governance owners for transparency/accountability and data governance -> the consolidated Polity owner for statutory/regulatory/quasi-judicial bodies -> Fundamental Rights, Parliament and judiciary owners only where needed -> all relevant PYQ routing/audit ledgers.
@@ -1470,6 +1470,54 @@ balanced, non-final constitutional verdict
 | DPDP deleted all public-interest balancing | section 8(2) remains |
 | binding order means no judicial review | constitutional review survives |
 | RTI gives the underlying service | it gives existing information and RTI remedies |
+
+### Semantic-completeness ownership and PYQ control
+
+- **Status and constitutional root:** CIC and SIC are statutory bodies under
+  the Right to Information Act, 2005. The right to know is derived from
+  Article 19(1)(a), but the Commission's office, jurisdiction and remedies come
+  from the Act rather than directly from the Constitution.
+- **Current central roster, checked 5 September 2026:** the official CIC
+  present-commission pages identify Chief Information Commissioner Raj Kumar
+  Goyal and Information Commissioners Anandi Ramalingam, Vinod Kumar Tiwari,
+  Surendra Singh Meena, Ashutosh Chaturvedi, Swagat Das, Sudha Rani Relangi,
+  P. R. Ramesh, Khushwant Singh Sethi, Jaya Varma Sinha and Sanjeev Kumar
+  Jindal. State rosters remain State-specific and must be checked separately.
+- **Composition and appointment:** the CIC consists of the Chief and up to ten
+  Information Commissioners, appointed by the President after the statutory
+  PM-LoP-nominated Cabinet Minister committee. The SIC analogue is appointed
+  by the Governor after the CM-LoP-nominated State Cabinet Minister committee.
+- **Tenure and independence:** after the 2019 amendment, tenure and service
+  conditions are prescribed by Central rules. The 2019 Rules prescribe three
+  years, subject to the statutory age ceiling of sixty-five; an IC elevated as
+  Chief cannot exceed the aggregate statutory service limit. Removal for proved
+  misbehaviour or incapacity follows the Supreme Court inquiry route.
+- **Four-route firewall:** section 6 request -> section 7 decision/deemed
+  refusal -> section 19(1) first appeal -> section 19(3) second appeal.
+  Section 18 complaint is a distinct supervisory route and does not itself
+  become the substitute disclosure appeal identified in State of Manipur.
+- **Powers and remedies:** sections 18-20 confer inquiry/civil-court powers,
+  binding disclosure/compliance directions, compensation, recommendation of
+  disciplinary action and personal PIO penalty of Rs 250 per day up to
+  Rs 25,000. They do not authorize creation of non-existent records.
+- **Exemption architecture:** sections 8 and 9 are exemptions, section 8(2) is
+  the public-interest override, section 10 requires severability, section 11 is
+  third-party procedure rather than an exemption, and section 24 preserves the
+  corruption and human-rights provisos for listed organisations.
+- **Current privacy law:** DPDP Act section 44(3) substituted section 8(1)(j)
+  with effect from 13 November 2025. The shorter personal-information exemption
+  is in force; section 8(2), severability, reasons, appeal and judicial review
+  remain. The constitutional challenge has not produced a final merits holding.
+- **Case controls:** Raj Narain and S.P. Gupta ground open government; CBSE v.
+  Aditya Bandopadhyay limits RTI to held/controlled records; Chief Information
+  Commissioner v. State of Manipur separates complaint and appeal; Thalappalam
+  controls the public-authority test; Jayantilal Mistry rejects blanket
+  fiduciary secrecy; Subhash Chandra Agarwal applies privacy balancing to the
+  CJI's office; Anjali Bhardwaj and Kishan Chand Jain address functioning,
+  appointments and access.
+- **PYQ firewall:** the verified 2020 GS-II RTI-amendment/autonomy demand is
+  owned here. Privacy, data protection, judicial administration and cooperative
+  public-authority questions remain cross-owned where their principal demand lies.
 
 ## BASIC MCQS / REMEDIATION
 

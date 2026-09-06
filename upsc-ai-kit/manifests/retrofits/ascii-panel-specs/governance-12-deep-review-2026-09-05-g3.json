@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "governance-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "governance_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "governance-12",
+      "display_title": "Local Governance and Service Delivery",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-12\\g3\\governance-12_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Three legs of devolution",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "FUNDS -> own-source revenue plus predictable, formula-based transfers",
+            "FUNCTIONS -> subjects actually transferred in practice, not merely listed in State law",
+            "FUNCTIONARIES -> staff controlled by and answerable to the local body, not only deputed",
+            "RULE -> without all three together, constitutional status exists without delivery capacity",
+            "MUST REMEMBER: Local governance links constitutional devolution, state legislation,..."
+          ],
+          "source_references": [
+            "The three functional legs of genuine devolution",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-12\\g3\\governance-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Two constitutional functional domains",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "RURAL -> Article 243G with the Eleventh Schedule; twenty-nine listed subjects",
+            "URBAN -> the Twelfth Schedule; eighteen municipal functions",
+            "URBAN LIST INCLUDES -> planning, land use, water, sanitation, solid waste, public health",
+            "SHARED LIMIT -> a listed function is not proof of budget, staff or agency control"
+          ],
+          "source_references": [
+            "The rural functional domain",
+            "The urban functional domain",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-12\\g3\\governance-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "From listed subject to real control",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "LISTED IN THE SCHEDULE -> the enabling constitutional frame only",
+            "-> STATE LAW: which subjects the State Act actually transfers",
+            "-> ACTIVITY MAPPING: which activity within a subject goes to which tier",
+            "-> FUND AND FUNCTIONARY TRANSFER: the step most often missing",
+            "-> WORK-ORDER TEST: who holds the budget line and signs the work order"
+          ],
+          "source_references": [
+            "Activity mapping completed on paper",
+            "Parastatal encroachment and the work-order test",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-12\\g3\\governance-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Fiscal architecture card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "OWN REVENUE -> property tax and local levies; narrow base, outdated valuation",
+            "STATE FINANCE COMMISSION -> recommends devolution of State revenue to local bodies",
+            "UNION FINANCE COMMISSION -> Article 280(3)(bb) Panchayats; Article 280(3)(c) Municipalities",
+            "TIED AGAINST UNTIED -> tied grants convert a planning authority into an executing agency"
+          ],
+          "source_references": [
+            "Funds, own revenue and the State Finance Commission",
+            "Union Finance Commission local-body grants",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-12\\g3\\governance-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Planning institutions",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "DISTRICT PLANNING COMMITTEE -> Article 243ZD; consolidates Panchayat and Municipality plans",
+            "COMPOSITION RULE -> at least four-fifths elected by and from the district's elected members",
+            "PROPORTION -> seats in proportion to the rural and urban population of the district",
+            "METROPOLITAN PLANNING COMMITTEE -> Article 243ZE; draft development plan for the metro area",
+            "SHARED LIMIT -> constitution and effectiveness are State-variable; no compliance count"
+          ],
+          "source_references": [
+            "The District Planning Committee",
+            "Metropolitan planning and electoral continuity",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-12\\g3\\governance-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Scheduled Areas precision",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "STATUTE -> the Panchayats Extension to Scheduled Areas Act, 1996",
+            "APPLIES TO -> Fifth Schedule areas, not to every tribal-majority area",
+            "GRAM SABHA -> powers over local plans, resources and dispute resolution",
+            "EXACT LIMIT -> consultation before land acquisition and resettlement, not consent",
+            "CLOSE DISTINCTION: Eleventh and Twelfth Schedule subjects are not self-executing..."
+          ],
+          "source_references": [
+            "Scheduled Areas and the consultation limit",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-12\\g3\\governance-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Three degrees of decentralisation",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "DECONCENTRATION -> field offices of a higher tier operating locally",
+            "DELEGATION -> agency functions performed on behalf of a higher tier",
+            "DEVOLUTION -> transfer of authority together with resources and accountability",
+            "FINDING -> most Indian practice sits between the first two"
+          ],
+          "source_references": [
+            "The benchmark case and the three-way distinction",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-12\\g3\\governance-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Devolution chain to service outcome",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "CONSTITUTIONAL RECOGNITION -> a permanent third tier is established",
+            "-> STATE LAW AND ACTIVITY MAPPING: States diverge sharply at this stage",
+            "-> FUND DESIGN: own revenue, commission devolution, tied against untied grants",
+            "-> FUNCTIONARY CONTROL: whose career does the field officer actually depend on",
+            "-> CAPACITY, then INTERNAL ACCOUNTABILITY: assembly, ward committee, local audit",
+            "-> SERVICE OUTCOME: water, sanitation, roads, streetlights, records, welfare"
+          ],
+          "source_references": [
+            "Functionary control as the decisive leg",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-12\\g3\\governance-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Merger balance sheet",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "FOR -> unified planning across a functionally continuous settlement",
+            "FOR -> scale economies in water, sanitation, solid waste and transport",
+            "AGAINST -> diluted rural representation and disrupted local revenue arrangements",
+            "AGAINST -> greater administrative distance and loss of the village assembly forum"
+          ],
+          "source_references": [
+            "The devolution gap and the merger balance sheet",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-12\\g3\\governance-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Decision rule for reclassification",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "CRITERION 1 -> population density trajectory and non-agricultural employment share",
+            "CRITERION 2 -> infrastructure-sharing potential and territorial contiguity",
+            "CRITERION 3 -> revenue-base compatibility and capacity of the receiving body",
+            "MIDDLE OPTIONS -> service-level convergence, graduated reclassification, joint authorities"
+          ],
+          "source_references": [
+            "The devolution gap and the merger balance sheet",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-12\\g3\\governance-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Urban fragmentation map",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "POLITICAL LEADERSHIP -> Mayor and council under State law",
+            "EXECUTIVE CONTROL -> a State-appointed Municipal Commissioner in many States",
+            "FUNCTIONS AND BUDGETS -> development authorities and water, transport, housing agencies",
+            "FINANCE -> constrained property tax; municipal bonds only for stronger bodies",
+            "CONSEQUENCE -> responsibility without matching authority at the elected tier"
+          ],
+          "source_references": [
+            "Urban fragmentation, capture and honest ownership",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-12\\g3\\governance-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Answer spine for a local-governance demand",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> the three legs, not the amendment; delivery capacity, not constitutional recital",
+            "BUILD -> trace one service from listed subject to work order and name where it stops",
+            "CORRECT -> label advantages and disadvantages separately and give a criteria-based rule",
+            "CLOSE -> graded verdict on representation against authority with State variation stated",
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Kerala planning, municipal sanitation,..."
+          ],
+          "source_references": [
+            "Urban fragmentation, capture and honest ownership",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\12_Local-Governance-and-Service-Delivery.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-12\\g3\\governance-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

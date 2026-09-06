@@ -289,3 +289,42 @@ Standard confusion pairs:
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Power and routes:** Article 368 in Part XX confers constituent power to amend
+  by addition, variation or repeal. Constitution-affecting changes authorised by
+  provisions such as Articles 2-4, 11 and 169 may use simple-majority ordinary
+  legislation outside Article 368; most amendments require the Article 368 special
+  majority; federal subjects additionally require State ratification.
+- **Exact procedure:** an amendment Bill may originate in either House and may be
+  introduced by a minister or private member without prior Presidential
+  recommendation. Each House separately must pass it by a majority of its total
+  membership and two-thirds of members present and voting; there is no joint
+  sitting. Where the proviso applies, not less than half the State legislatures
+  ratify by simple majority. The President shall assent.
+- **Exact federal proviso:** Articles 54-55, Articles 73 and 162, Article 241,
+  Article 279A, Chapter IV of Part V, Chapter V of Part VI, Chapter I of Part XI,
+  any Seventh Schedule List, representation of States in Parliament and Article
+  368 itself require the additional ratification route.
+- **Doctrine chronology:** Shankari Prasad (1951), Sajjan Singh (decision 1964,
+  reporting 1965), Golak Nath (1967), 24th Amendment (1971), Kesavananda Bharati
+  (24 April 1973), Indira Nehru Gandhi (1975), Minerva Mills (1980), Waman Rao
+  (decision 1980, reporting 1981), S.R. Bommai (1994), L. Chandra Kumar (1997),
+  I.R. Coelho (2007) and NJAC (2015) must retain their distinct holdings.
+- **Basic structure:** the list is illustrative and case-attributed, not a closed
+  list announced wholesale in Kesavananda. Limited amending power and judicial
+  review prevent constitutional destruction while allowing broad amendment.
+- **Ninth Schedule:** Waman Rao fixes 24 April 1973 as the cut-off; I.R. Coelho
+  subjects later insertions to basic-structure review through the impact on
+  Fundamental Rights. Article 31B is not absolute immunity.
+- **Ordinary-law boundary:** Anjum Kadari, 2024 INSC 831, rejects basic structure
+  as a free-standing ground to invalidate ordinary legislation; the challenger
+  must identify legislative incompetence, Part III or another constitutional defect.
+- **Current controls:** the 131st Amendment Bill, 2026 was defeated and is not law
+  or precedent. S.O. 1922(E), 16 April 2026 commenced the 106th Amendment, while
+  Article 334A still requires the post-commencement census figures and delimitation
+  before reservation becomes operational.
+- **Four-ledger/PYQ control:** procedure, case holdings, dates, amendments,
+  elements, criticisms, current instruments and every routed 2018-2026 demand
+  were checked; unavailable historical keys remain labelled and no status is inferred.

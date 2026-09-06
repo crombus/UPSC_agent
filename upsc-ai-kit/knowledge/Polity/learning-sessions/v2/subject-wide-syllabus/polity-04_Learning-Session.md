@@ -758,6 +758,39 @@ Time discipline matters as much as content. In a 150-word answer, the status cha
 
 **Cross-link:** Salient Features (Topic 03) and Amendment (Topic 10) for the neighbouring answer spines.
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** source ('We, the People'), State
+  identity, justice-liberty-equality-fraternity objectives and the
+  26 November 1949 enactment clause, read with the Objectives Resolution.
+- **Exact constitutional text:** Sovereign, Socialist, Secular, Democratic,
+  Republic; justice—social, economic and political; liberty of thought,
+  expression, belief, faith and worship; equality of status and opportunity;
+  fraternity assuring individual dignity and national unity and integrity.
+- **Amendment chronology:** the 42nd Amendment Act 1976 inserted Socialist,
+  Secular and Integrity; the Preamble has been amended once. Article 368 permits
+  amendment but not destruction of the Constitution's basic structure.
+- **Case-law doctrine:** Berubari Union (1960)—not part but interpretive key;
+  Kesavananda Bharati (1973)—part, amendable, basic features protected; LIC of
+  India (1995)—integral part; Dr Balram Singh v. Union of India,
+  25 November 2024, 2024 INSC 893—challenge to Socialist/Secular rejected.
+- **Mechanism and limits:** the Preamble guides ambiguity resolution and basic-
+  structure identification but is non-justiciable, creates no standalone cause
+  of action and is neither an independent source nor prohibition of power.
+- **Cross-owner boundary:** Topic 02 owns the Objectives Resolution process;
+  Fundamental Rights and DPSP own enforcement/detail; Amendment and Basic
+  Structure owns the complete Article 368 doctrine.
+- **Four-ledger hostile audit:** literal text, indispensable philosophy,
+  textbook ingredient/keyword/case taxonomy and 2018-2026 PYQs were checked for
+  amendment count, case sequence, enforceability, origins and current doctrine.
+- **Verified PYQ ownership, 2018-2026:** the direct route is 2020 Prelims GS-I
+  Q16 on legal effect/status. No later direct question is fabricated; the 2024
+  judgment is authoritative current law, not a PYQ.
+- **Source hierarchy/current status:** use the Legislative Department text and
+  Supreme Court judgment before textbook paraphrase. 'Socialist' does not compel
+  one economic policy and 'secular' is not erased by State regulation of secular
+  aspects of religion.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Practice rule and exact option rotation

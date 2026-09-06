@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-05T05:15:57+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "afc3844d02393db2a097fbbe813024679998589ce7dbd8e7e82fe78e19aa5e04",
+    "sha256_after": "afc3844d02393db2a097fbbe813024679998589ce7dbd8e7e82fe78e19aa5e04",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Geography": 1
+  },
+  "sections": {
+    "Geography — Part A — Physical Geography": 1
+  },
+  "library_totals": {
+    "file_count": 10040,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1681,
+    "json_count": 4134,
+    "total_bytes": 4221886729,
+    "by_extension": {
+      ".json": 4134,
+      ".md": 1681,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "geography-13",
+      "topic_title": "Weather Elements / India Jet Stream-Western Disturbances",
+      "subject": "Geography",
+      "section": "Part A — Physical Geography",
+      "catalogue_number": 13,
+      "source_record_id": "geography-13:learner-v2:g4",
+      "source_generation": 4,
+      "destination_folder": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\13-Weather-Elements-India-Jet-Stream-Western-Disturbances",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-13\\g4\\geography-13_Complete-Learning-Session_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\13-Weather-Elements-India-Jet-Stream-Western-Disturbances\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "d44f9ec0963c8929593489143c01e545beb9fcc6ff59f783f22dd1a9d0aa648c",
+          "output_sha256": "d44f9ec0963c8929593489143c01e545beb9fcc6ff59f783f22dd1a9d0aa648c",
+          "source_output_equal": true,
+          "bytes": 621129
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-13\\g4\\geography-13_Solved-Practice-Workbook_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\13-Weather-Elements-India-Jet-Stream-Western-Disturbances\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "6d4cab238d4b2e7604fa1d032e8dc9bce163a5ec68381b33f617cf4cc1317fce",
+          "output_sha256": "6d4cab238d4b2e7604fa1d032e8dc9bce163a5ec68381b33f617cf4cc1317fce",
+          "source_output_equal": true,
+          "bytes": 460439
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-13\\carvaka-g4\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\13-Weather-Elements-India-Jet-Stream-Western-Disturbances\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "9d57dce653b10842e6227c70905c6e9ede350ee9ff336d06217dffba9b244b57",
+          "output_sha256": "9d57dce653b10842e6227c70905c6e9ede350ee9ff336d06217dffba9b244b57",
+          "source_output_equal": true,
+          "bytes": 1925343
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-13\\carvaka-g4\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\13-Weather-Elements-India-Jet-Stream-Western-Disturbances\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "3e6ee6320fd9841271661fed931293cc6fe479fbd27fbaf1d3ccff0e8342ab98",
+          "output_sha256": "3e6ee6320fd9841271661fed931293cc6fe479fbd27fbaf1d3ccff0e8342ab98",
+          "source_output_equal": true,
+          "bytes": 2353690
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-13\\carvaka-g4\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\13-Weather-Elements-India-Jet-Stream-Western-Disturbances\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "7bfb94f84dfff2cba90392b16ececf8635d87e8ba4ecdf84f0d8c518f4b965ca",
+          "output_sha256": "7bfb94f84dfff2cba90392b16ececf8635d87e8ba4ecdf84f0d8c518f4b965ca",
+          "source_output_equal": true,
+          "bytes": 1714436
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-13\\carvaka-g4\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\13-Weather-Elements-India-Jet-Stream-Western-Disturbances\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "b673d1f3ea094a215d3788fe64a3e942f15dc0fda03242233b55ef5988de5c30",
+          "output_sha256": "b673d1f3ea094a215d3788fe64a3e942f15dc0fda03242233b55ef5988de5c30",
+          "source_output_equal": true,
+          "bytes": 4243
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-13\\carvaka-g4\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Geography\\Part A — Physical Geography\\13-Weather-Elements-India-Jet-Stream-Western-Disturbances\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "cf7ef7ea93a5438c6d799d6ccb2fe3d58fb2edf3ee1ae791f966daba9735f8eb",
+          "output_sha256": "cf7ef7ea93a5438c6d799d6ccb2fe3d58fb2edf3ee1ae791f966daba9735f8eb",
+          "source_output_equal": true,
+          "source_text_sha256": "b673d1f3ea094a215d3788fe64a3e942f15dc0fda03242233b55ef5988de5c30",
+          "normalized_text_equal": true,
+          "bytes": 56238
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 13,
+            "maximum_line_characters": 89,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 50,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 50,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 51,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 58,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 5,
+            "maximum_line_characters": 55,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 51,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 51,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 49,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 11,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 11,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 5,
+            "maximum_line_characters": 57,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 81,
+        "solved_practice_workbook": 43,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 81,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 43,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10524
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

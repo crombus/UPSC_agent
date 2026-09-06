@@ -8,7 +8,7 @@ approval: false
 
 # Polity 28 - UPSC and SPSC - Complete Topic Package
 
-> **Control date:** 28 August 2026, Asia/Kolkata  
+> **Control date:** 5 September 2026, Asia/Kolkata  
 > **Tags:** `[FACT]` directly supported by a named constitutional, statutory, judicial, official or audited local source; `[ANALYSIS]` reasoned exam use; `[CURRENT]` date-sensitive legal or institutional control; `[LIMIT]` boundary or qualification preventing overstatement.  
 > **Answer discipline:** claim -> named evidence -> analysis -> qualification.  
 > **Scope:** constitutional rationale and evolution; Articles 315-323 article by article; UPSC, SPSC and Joint State Public Service Commission; composition, appointment, tenure, removal and post-office restrictions; examinations and consultation; recruitment boundaries; independence and accountability; judicial review; examination integrity; current controls and reforms.
@@ -22,7 +22,7 @@ approval: false
 - [CURRENT] The **Public Examinations (Prevention of Unfair Means) Rules, 2024**, G.S.R. 342(E), were notified on 23 June 2024 and published on 24 June 2024. They prescribe institutional roles, computer-based-test standards, incident reporting and monitoring architecture.
 - [CURRENT] G.S.R. 203(E), dated 15 March 2024, amended the Union Public Service Commission (Exemption from Consultation) Regulations, 1958 for specified Group A and Group B posts up to pay level 13A filled by named deputation/re-employment, short-term-contract, absorption or composite methods.
 - [LIMIT] That 2024 amendment is **not** a general constitutional exemption called “lateral entry”. Every lateral recruitment must be analysed through the post's recruitment rules, level, mode of filling, reservation law, the operative consultation regulations and the actual role assigned to the UPSC.
-- [CURRENT] The official UPSC portal checked on 28 August 2026 identifies **Dr Ajay Kumar** as Chairman. This officeholder statement is date-controlled and must be rechecked before reuse.
+- [CURRENT] The official UPSC portal checked on 5 September 2026 identifies **Dr Ajay Kumar** as Chairman. This officeholder statement is date-controlled and must be rechecked before reuse.
 - [CURRENT] Official UPSC and State PSC portals continue to use examination calendars/programmes, results pages, recruitment notices, contact/grievance channels, RTI disclosures and conference/newsletter mechanisms. These are transparency instruments, not substitutes for lawful selection rules or reasoned remedies.
 - [LIMIT] This package does not freeze current chairperson/member names, vacancies, candidate counts, annual calendars or changing examination statistics.
 - [LIMIT] No adopted constitutional “collegium” for PSC appointments was located. Proposals for broader selection committees are reform arguments, not current law.
@@ -1180,6 +1180,51 @@ VERDICT
 | Public Examinations Act excludes UPSC | UPSC is expressly in Schedule |
 | lateral entry automatically bypasses UPSC | post/mode/rule/exemption specific |
 
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional map:** Articles 315-323 separately govern establishment,
+  appointment/tenure, removal/suspension, service conditions, post-office bars,
+  functions, extension of functions, charged expenditure and annual reporting
+  for the UPSC, SPSCs and Joint State Public Service Commissions.
+- **Composition:** the Constitution fixes no numerical strength. The President
+  appoints UPSC and Joint Commission members and determines their number/service
+  conditions under Article 318; the Governor performs the corresponding SPSC
+  functions. As nearly as may be, one-half of members must have held government
+  office for at least ten years.
+- **Current UPSC control:** the official UPSC Commission page, last updated
+  3 September 2026 and rechecked 5 September 2026, identifies Dr Ajay Kumar as
+  Chairman. The package does not freeze an unsupported full roster or a
+  constitutionally fixed member count.
+- **Tenure and acting chair:** Article 316 gives six years subject to age
+  sixty-five for UPSC and sixty-two for SPSC/Joint Commission members. The
+  President or Governor, as applicable, may appoint a member as acting chair.
+- **Removal/suspension precision:** only the President removes any PSC member.
+  Misbehaviour requires a presidential reference, Supreme Court inquiry and
+  recommendation under Article 317(1). Pending inquiry, the President may
+  suspend a UPSC or Joint Commission member, while the Governor may suspend an
+  SPSC member. Article 317(3)-(4) contains the separate objective/deemed grounds.
+- **Post-office and finance:** Article 319's eligibility bars are office-specific
+  and do not mean one blanket ban. Article 322 charges UPSC/Joint Commission
+  expenses on the Consolidated Fund of India and SPSC expenses on the
+  Consolidated Fund of the State.
+- **Functions and exclusions:** Article 320 covers examinations, recruitment
+  methods, appointments/promotions/transfers and disciplinary/claim advice.
+  Article 320(4) excludes consultation on Article 16(4) and Article 335 matters;
+  the proviso to Article 320(3) authorises valid exemption regulations.
+- **Judicial rule:** State of U.P. v Manbodhan Lal Srivastava (1957) holds
+  Article 320(3)(c) consultation directory: non-consultation does not by itself
+  invalidate action or confer a cause of action. Advice remains institutionally
+  important and Article 323 requires reports plus reasons for non-acceptance.
+- **Recruitment rule:** selection/recommendation does not itself create an
+  indefeasible right to appointment. Tej Prakash Pathak (2024 INSC 847) supplies
+  the current Constitution-Bench control against arbitrary mid-process changes
+  to recruitment rules, subject to the governing rules and non-arbitrariness.
+- **Institution firewall:** UPSC/SPSC recruitment and advice are distinct from
+  DoPT cadre administration, the Public Examinations Act integrity framework,
+  tribunals, Election Commissions and Finance Commissions. A Joint State PSC
+  follows State resolutions and parliamentary law; it is not a permanent third
+  constitutionally mandated tier.
 
 ## BASIC MCQS / REMEDIATION
 

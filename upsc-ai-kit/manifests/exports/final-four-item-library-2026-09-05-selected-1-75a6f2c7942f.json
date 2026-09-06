@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-05T17:04:33+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "c59c491acbce96cc146efab0eff46683f78545d2a9fb1513c5d7bbec1400a18d",
+    "sha256_after": "c59c491acbce96cc146efab0eff46683f78545d2a9fb1513c5d7bbec1400a18d",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Governance": 1
+  },
+  "sections": {
+    "Governance — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 10709,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1816,
+    "json_count": 4668,
+    "total_bytes": 4270059686,
+    "by_extension": {
+      ".json": 4668,
+      ".md": 1816,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "governance-03",
+      "topic_title": "Development Processes and the Development Industry",
+      "subject": "Governance",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 3,
+      "source_record_id": "governance-03:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\03-Development-Processes-and-the-Development-Industry",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-03\\g3\\governance-03_Complete-Learning-Session_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\03-Development-Processes-and-the-Development-Industry\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "208a45fc462d5982d2d6ca7d8596704d7b7308caef92b194ae6fce9b8cb49676",
+          "output_sha256": "208a45fc462d5982d2d6ca7d8596704d7b7308caef92b194ae6fce9b8cb49676",
+          "source_output_equal": true,
+          "bytes": 765053
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-03\\g3\\governance-03_Solved-Practice-Workbook_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\03-Development-Processes-and-the-Development-Industry\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "7a0f1f8953b1f25780ca700c238eee9e8c4d5fefd55798b931c88c294a289d02",
+          "output_sha256": "7a0f1f8953b1f25780ca700c238eee9e8c4d5fefd55798b931c88c294a289d02",
+          "source_output_equal": true,
+          "bytes": 576481
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\flowcharts\\iac-03\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\03-Development-Processes-and-the-Development-Industry\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "6839ce0d4ece7af358db27b79b1672f12d43936ca349f0630854310fb39440f2",
+          "output_sha256": "6839ce0d4ece7af358db27b79b1672f12d43936ca349f0630854310fb39440f2",
+          "source_output_equal": true,
+          "bytes": 2264225
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\flowcharts\\iac-03\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\03-Development-Processes-and-the-Development-Industry\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "2df6b5c1b08aa2f9903028a98397fb04f3294c2092f02649733ec1786162fa0c",
+          "output_sha256": "2df6b5c1b08aa2f9903028a98397fb04f3294c2092f02649733ec1786162fa0c",
+          "source_output_equal": true,
+          "bytes": 2625260
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\flowcharts\\iac-03\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\03-Development-Processes-and-the-Development-Industry\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "a5a3ea7df515464eb74a92f100d501ee4c4c58bd1dd3eeeaa9c82d2197df062e",
+          "output_sha256": "a5a3ea7df515464eb74a92f100d501ee4c4c58bd1dd3eeeaa9c82d2197df062e",
+          "source_output_equal": true,
+          "bytes": 1999142
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\flowcharts\\iac-03\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\03-Development-Processes-and-the-Development-Industry\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "3fe93d345ad8d8bc4141fca8cffdc9c02d2176408b1b8930d0eac27be89187e1",
+          "output_sha256": "3fe93d345ad8d8bc4141fca8cffdc9c02d2176408b1b8930d0eac27be89187e1",
+          "source_output_equal": true,
+          "bytes": 5029
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\flowcharts\\iac-03\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\03-Development-Processes-and-the-Development-Industry\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "edd891cf71248436c540bb35e05692d0b5d2e0d7fcfdfe503f6ce80bc18e1331",
+          "output_sha256": "edd891cf71248436c540bb35e05692d0b5d2e0d7fcfdfe503f6ce80bc18e1331",
+          "source_output_equal": true,
+          "source_text_sha256": "3fe93d345ad8d8bc4141fca8cffdc9c02d2176408b1b8930d0eac27be89187e1",
+          "normalized_text_equal": true,
+          "bytes": 57473
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 6,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 95,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 100,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 88,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 6,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 98,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 97,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 87,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 5,
+            "maximum_line_characters": 97,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 5,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 98,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 109,
+        "solved_practice_workbook": 65,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 109,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 65,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          11108
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

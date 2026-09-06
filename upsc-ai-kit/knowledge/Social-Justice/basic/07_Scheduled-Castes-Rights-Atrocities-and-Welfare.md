@@ -214,3 +214,27 @@ labour, gender and institutions with data cautions.
   Indra Sawhney, creamy layer) — cross-link, not re-taught here.
 - ✅ `08_Scheduled-Tribes-PVTGs-and-Tribal-Welfare.md` — parallel PoA Act application for
   STs; FRA/PESA welfare architecture.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Scheduled Caste justice combines abolition of untouchability, equality, representation, protection from atrocities, socio-economic capability and institutional remedy while recognising internal gender, class, occupation and regional variation.
+- **Indispensable distinction and prerequisite taxonomy:** Article 17 is not the whole field of caste discrimination, constitutional Scheduled Caste status is not a sociological synonym for every Dalit identity, reservation is not welfare, and registration of an offence is not conviction or social eradication.
+- **Mechanism, implementation and evidence control:** Use Articles 15-17, 46, reservation provisions, PCR Act, SC/ST PoA Act, NCSC and named dignity safeguards precisely; trace prevention, FIR, investigation, special court, relief, rehabilitation, witness protection, grievance and outcome without converting crime data into unsupported causal claims.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 2026-09-06: the Department, NCSC and India Code remain official sources; constitutional status, reservation, offence registration, prosecution, relief, rehabilitation and outcome remain distinct. Sources: https://socialjustice.gov.in/; https://ncsc.nic.in/; https://www.indiacode.nic.in/handle/123456789/1920
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Social Justice owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/social justice taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** The audited routing ledgers route no General Studies Mains demand and no objective demand to this owner for the covered years, and that zero is reported openly rather than concealed or filled with a manufactured demand card. The four audited ledgers consulted are the Mains routing ledgers for 2018 to 2023 and for 2024 to 2025 and the Prelims routing ledgers for 2018 to 2023 and for 2024 to 2025, and neither the Basic owner nor the Advanced owner for this topic carries a generated previous-year integration block, which is itself consistent with that zero. The nearest neighbouring demand is the 2018 General Studies Paper II question on the Scheduled Caste commission and reservation in minority institutions, and the audited 2018-2023 Mains routing ledger routes it to the Polity commissions owner, so no ownership is claimed over it here; the tribal demands are routed to the Indian Society and Modern History owners and the Scheduled Area and Fifth Schedule objective demands to the Polity owner, so none of those is claimed either. The Advanced owner records expressly that there is no direct recent Mains hit on Scheduled Caste atrocities and welfare and that the 2024 sub-classification judgment is a current anchor for a possible future demand, and this package adopts exactly that position: the judgment is taught as a current anchor and is not presented as evidence that a demand already exists. The practice in this package therefore consists of six original Mains questions with model solutions, each written to the repository's examiner-grade standard using the claim, named evidence, analysis and qualification pattern, together with eighty original objective questions on a strict A-B-C-D rotation. Each model solution opens with its analytical claim so that the evidence which follows does argumentative rather than decorative work. The locally held OCR-searchable official General Studies papers were read only to confirm that no question on this owner's subject matter is routed here; no question was invented from them, no marking scheme or page precision was imported and no official answer key is claimed for any question anywhere in this package.

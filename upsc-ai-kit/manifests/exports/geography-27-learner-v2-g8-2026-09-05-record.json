@@ -1,0 +1,173 @@
+{
+  "record_id": "geography-27:learner-v2:g8",
+  "topic_key": "geography-27",
+  "variant": "learner-v2",
+  "generation": 8,
+  "supersedes": "geography-27:learner-v2:g7",
+  "command": "Generate learner-v2 topic: Geography — Part B — Human, Economic and Regional Geography — Migration Theories and Patterns (India) — Learner-v2 refreshed — Regenerate",
+  "main_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g8\\geography-27_Complete-Learning-Session_2026-09-05.pdf",
+  "workbook": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g8\\geography-27_Solved-Practice-Workbook_2026-09-05.pdf",
+  "markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g8\\geography-27_Complete-Learning-Session_2026-09-05.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g8\\geography-27_Solved-Practice-Workbook_2026-09-05.md",
+  "generated_on": "2026-09-05",
+  "approved": false,
+  "approval": {
+    "approved": false,
+    "approved_on": null,
+    "scope": "geography-27:learner-v2:g8"
+  },
+  "provenance": {
+    "workflow": "geography-deep-review-immutable-successor",
+    "source_basic": "upsc-ai-kit\\knowledge\\Geography\\basic\\27_Migration-Theories-and-Patterns-India.md",
+    "source_advanced": "upsc-ai-kit\\knowledge\\Geography\\advanced\\27_Migration-Theories-and-Patterns-India.md",
+    "source_canonical": "upsc-ai-kit\\knowledge\\Geography\\basic\\27_Migration-Theories-and-Patterns-India.md",
+    "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g8\\geography-27_Complete-Learning-Session_2026-09-05.md",
+    "renderer": {
+      "name": "tools/markdown_learning_pdf.py",
+      "version": "2.5"
+    },
+    "generation_date": "2026-09-05",
+    "superseded_v1": "geography-27:legacy-v1:g1",
+    "local_ocr_sources": [
+      "books\\GC Leong - Certificate Physical and human Geography.pdf",
+      "books\\Indian & World Geography - Husain, Majid_Compressed.pdf",
+      "books\\Indian-geography-majid-hussain.pdf"
+    ],
+    "pyq_indexes": [
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+    ],
+    "refresh": {
+      "id": "learner-v2-refreshed-2026-08-22",
+      "source_record": "geography-27:learner-v2:g3",
+      "source_markdown": "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-b-human-economic-and-regional-geography\\geography-27_Learning-Session.md",
+      "source_hashes": {
+        "books\\GC Leong - Certificate Physical and human Geography.pdf": "80cee21f9075731f1841cb3714645df94846f4b215ab5f0c1948aac4ab71998a",
+        "books\\Indian & World Geography - Husain, Majid_Compressed.pdf": "8770f543912124259376881085c94676d330f89d455666d46aaa22f751ba10fb",
+        "books\\Indian-geography-majid-hussain.pdf": "1d7ab9edf8779c0f3c812fe56787084f619989e4e1adaffa9f1e43f0cb182c41",
+        "notes\\Geography\\learning-session-v2\\part-b-human-economic-and-regional-geography\\notes\\geography-27_Learning-Session_2026-09-01.pdf": "b3f218dfe6582e0d48b27c0ceec6915ed74ad2a2817f36fc89fcb40d427b61ba",
+        "notes\\Geography\\learning-session-v2\\part-b-human-economic-and-regional-geography\\workbooks\\geography-27_Solved-Workbook_2026-09-01.pdf": "e91a58e730197913629c2a28f00de4ccc9744a6dfcb40d0997d4140ba24a1d59",
+        "tools\\markdown_learning_pdf.py": "108ddedd5ca09a14d0bbdf021a94cb5ee4206f4864f268a70e7edd8ef97064d2",
+        "tools\\validate_v2_export.py": "9f47e27b6447c4b48ee86f63179f1218947e394d4fe9823dbbcc1910b544593a",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+        "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+        "upsc-ai-kit\\knowledge\\Geography\\27_Migration-Theories-and-Patterns-India_Complete-Topic-Package.md": "6051b475ef1111d4edac162b4403926a9f42987e897581272135225b79ac6fc1",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\27_Migration-Theories-and-Patterns-India.md": "8eb5b5f24e93f6077aaf42b1ffe395d202bd4c17a8c0aac3da9edb4a23e9453c",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\27_Migration-Theories-and-Patterns-India.md": "8cbf00f3e49ea1342c3fd73d3f4bfdf6f6c5e2b27f4b4d1433b8d26cba6a2c43",
+        "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-b-human-economic-and-regional-geography\\geography-27_Learning-Session.md": "6051b475ef1111d4edac162b4403926a9f42987e897581272135225b79ac6fc1",
+        "upsc-ai-kit\\knowledge\\Geography\\learning-sessions\\v2\\part-b-human-economic-and-regional-geography\\geography-27_Solved-Workbook.md": "6426159fb642449ccf8d8fee86165ca64456e678aa5a73736077a112cb928bc7"
+      },
+      "session_contract": "named-session definition/opening/keywords/use/closure",
+      "mcq_keys": "strict A-B-C-D rotation",
+      "tracker_updated": false,
+      "tracker_sha256": "bb634d8c71fb534bbb5e80f57bcb73c2e4a9ef69936193d4b2e3e775b177410d"
+    },
+    "graphical_renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0",
+      "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62"
+    },
+    "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g8\\geography-27_Solved-Practice-Workbook_2026-09-05.md",
+    "content_spec": "upsc-ai-kit\\manifests\\v2\\geography--subject-wide-syllabus-content-specs\\geography-27-g8.json",
+    "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Geography\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+    "source_hashes": {
+      "upsc-ai-kit\\knowledge\\_PYQ-INDEX.md": "f2aed989ef31ed3961bf3fa232fc9520ea1425a9f3ba7ba91fe45c961803fa5a",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+      "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+      "upsc-ai-kit\\knowledge\\Geography\\00_Master-Framework.md": "e8c1a5fbe4ea76be86872d0a710e17de0827f2c59c92c850685529520d1ef649",
+      "upsc-ai-kit\\knowledge\\Geography\\advanced\\27_Migration-Theories-and-Patterns-India.md": "8eb5b5f24e93f6077aaf42b1ffe395d202bd4c17a8c0aac3da9edb4a23e9453c",
+      "upsc-ai-kit\\knowledge\\Geography\\basic\\27_Migration-Theories-and-Patterns-India.md": "4a9420c330989ed6e1dd9901fabd67b0532dab74b930151fed04f3cffd59c979",
+      "upsc-ai-kit\\knowledge\\Geography\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "5423e188aa0c98932e8b8bc5f9d9a465c14593fd0dee3ea3a916f04b72dc1f2b",
+      "upsc-ai-kit\\knowledge\\Geography\\README.md": "7b84c8c11f68d489f7579c037dbbd8384435bb9d64e0d64b9e352bfedc8ff008"
+    },
+    "repair_scope": "fresh immutable identity; explicit evidence and contested-claim discipline; question-specific answer controls; strict MCQ sequence; fresh twelve-stage graphical and ASCII masters",
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-27-deep-review-2026-09-05-g8.json",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\ascii-master.pdf",
+    "graphical_flowchart_folder": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8",
+    "deliverable_hashes": {
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g8\\geography-27_Complete-Learning-Session_2026-09-05.md": "a812f2a82fdc1006ef6f69ef3b84b4d250be5739ef28433fe097b9e6d4d663f1",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g8\\geography-27_Solved-Practice-Workbook_2026-09-05.md": "07af793417816ac91088b025a2a9b4f9909256f8327baa795db0219848e788d4",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g8\\geography-27_Complete-Learning-Session_2026-09-05.pdf": "79c09f2cd6dc6b4a24ddaacee06e78047092e45c9eadf3a54dca751e94557b92",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g8\\geography-27_Solved-Practice-Workbook_2026-09-05.pdf": "cae4e85bab70502b84721f6a75b8638909a12f2170bf46bf64c26eb765c3a38b",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g8\\validation\\main-visual-audit-map.json": "5ff743d3ea6fb97ab1fa86e9e8c1f5808a1c2e9b108866611207b1152476dc1b",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g8\\validation\\workbook-visual-audit-map.json": "37a79d4bada67954686c9f8921d99091478810d3c7d002d5ce317af4404ecc5e",
+      "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-27-deep-review-2026-09-05-g8.json": "445284a58ebefa54b3b8e706c5ba93e542a68ebb6f7dfabddcbf36b027b1c0f8",
+      "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Geography\\deep-review\\geography-27-g8.json": "a865be0a33136884001b7ed1f7daa8f1412de613e447eef7eedcb42ca0cf7b26",
+      "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g8\\assets\\geography-27_Teaching-Navigation_2026-08-22.png": "07a2b094423e68496e68934061116927488b519ddcc28425d3721f00a8b75c25",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\ascii-master.pdf": "bcd0cec1b8dd5a70c5f09c034d8a14dcbfdbe8a5b53fd48a67adf33db882a447",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\ascii-master.txt": "be4864cae4b2edf438477f25844897f076d591e7528735c800dc05c0e5b602bb",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\build-audit.json": "c212e23ea4712a1311ee3beed1c120adee4122fe1a55818f03814c8a209316a1",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\master.png": "6f2be86ffa34059ede845286588bc1380984f25078747f37f6b2283b8632c237",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\poster.pdf": "5f252581ce7fd68c45a696016386018afa90f0fa4d53a5899f1cd91035e1c056",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\preservation-hashes.json": "9d6de4cf179fc9ff4a44b88da7537ba4bafe8ce456bef40bd13288c15925f175",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\README.txt": "2999653e8198fd316e685c9a9350ed6e0957a8c8f247936d2ac7ece7cfe86197",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\tiled.pdf": "5426dd03f83e3e259e4152bb2a8ba84774940cb10ab2b91cdac62adab0cebd36",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\validation-report.txt": "dbd1ce3c2d336cf7bc4ea68b3c0283d59d9368663abf1e5382f35a93e4e2503f",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\editable\\README.txt": "d0335cfe53ad259e21cc1bfa8572e7bbc694a21683b34a0f839f0528a40c37c5",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\editable\\topic-spec.json": "a865be0a33136884001b7ed1f7daa8f1412de613e447eef7eedcb42ca0cf7b26",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\previews\\contact-sheet-01.png": "c08a333c33ad6aa298e4f89070f2e155e36f0362b63ee4c4abc066bb239ea2e8",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\previews\\master-overview.png": "ca781dcb3f9295bbde786bdc87e3c91468e7ff0dcaaa048049225296adf4fe73",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\previews\\page-001.png": "7dd535423d601f77fa61c66ae14348b9b94db11e3d47a949a735d34b702c85da",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\previews\\page-002.png": "98e4793ceb2b5271dc0abe191db37d9f161e05021492c8f1026c91dc60439086",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\previews\\page-003.png": "28ba9ea8619c2e0534518c22f7891731df7a3527a6f38e70b73951ae96a1f758",
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\previews\\page-004.png": "a3a739f6199d2ae0b13544b84e011769df25e3bb1da12f1fefbbefc7f3eb72a0",
+      "upsc-ai-kit\\manifests\\v2\\geography--subject-wide-syllabus-content-specs\\geography-27-g8.json": "add40f4d8fbd31e1e627d98127dcfd57b1f27c7b44502e76a97259824135953b"
+    },
+    "live_sources": [
+      "https://censusindia.gov.in/census.website/search/node?keys=india%20migration%20data",
+      "https://mospi.gov.in/sites/default/files/publication_reports/Migration%20in%20India%20RL16082023.pdf",
+      "https://www.un.org/development/desa/pd/content/international-migrant-stock"
+    ],
+    "current_linkage_note": "Rechecked 2026-09-05. Census 2011 remains the detailed internal-migration census baseline; MoSPI Migration in India 2020-21 is a PLFS-period survey, not a post-2011 census. UN International Migrant Stock 2024 covers international stock for 1990-2024 and states that countries without full reassessment may use extrapolated 2020 trends.",
+    "live_sources_rechecked_on": "2026-09-05"
+  },
+  "validation": {
+    "state": "passed",
+    "validated_on": "2026-09-05",
+    "validator": "regenerate_geography_part_b_deep_review.py"
+  },
+  "asset_folder": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g8\\assets",
+  "refresh_profile": "learner-v2-refreshed-2026-08-22",
+  "continuous_core_first": {
+    "folder": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8",
+    "master_image": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\master.png",
+    "poster_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\poster.pdf",
+    "tiled_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\tiled.pdf",
+    "editable": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\editable",
+    "graphical_spec": "upsc-ai-kit\\manifests\\retrofits\\carvaka-graphical-specs\\Geography\\deep-review\\geography-27-g8.json",
+    "graphical_spec_sha256": "a865be0a33136884001b7ed1f7daa8f1412de613e447eef7eedcb42ca0cf7b26",
+    "renderer": {
+      "name": "carvaka-continuous-at-a-glance-graphical-v2",
+      "version": "2.0"
+    },
+    "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+    "reference_master_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+    "previews": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\previews",
+    "contact_sheets": [
+      "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\previews\\contact-sheet-01.png"
+    ],
+    "master_overview": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\previews\\master-overview.png",
+    "validation_report": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\validation-report.txt",
+    "build_audit": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\build-audit.json",
+    "preservation_hashes": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\preservation-hashes.json",
+    "ascii_master": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\ascii-master.txt",
+    "ascii_master_preserved": true,
+    "core_stage_count": 12,
+    "card_count": 13,
+    "tiled_page_count": 4,
+    "approval": false,
+    "ascii_master_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-27-deep-review-2026-09-05-g8.json",
+    "ascii_master_spec_sha256": "445284a58ebefa54b3b8e706c5ba93e542a68ebb6f7dfabddcbf36b027b1c0f8",
+    "ascii_master_pdf": "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-27\\carvaka-g8\\ascii-master.pdf",
+    "ascii_master_source": "manual-authored-geography-deep-review-spec"
+  }
+}

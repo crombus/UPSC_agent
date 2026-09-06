@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-14",
+  "title": "Emergency Provisions",
+  "generation": 4,
+  "generation_date": "2026-09-05",
+  "approval": false,
+  "review_state": "passed",
+  "baseline_record_id": "polity-14:learner-v2:g3",
+  "source_basic": "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md",
+  "source_canonical": "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md",
+  "source_advanced": "upsc-ai-kit\\knowledge\\Polity\\advanced\\14_Emergency-Provisions.md",
+  "official_syllabus_mapping": "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md",
+  "pyq_ledgers": [
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md"
+  ],
+  "source_hashes": {
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md": "717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md": "c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2018-2023.md": "3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2024-2025.md": "fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a",
+    "upsc-ai-kit\\knowledge\\_PYQ-ROUTING-PRELIMS-2026.md": "976f8c5fda4b1ad585409cdad6418c03db5726a6fbf7689d3fe5b1b1aeb3937b",
+    "upsc-ai-kit\\knowledge\\Polity\\advanced\\14_Emergency-Provisions.md": "d42b833d7ead1a52c2bf15125542e6cbe62307d9f7caa91f371dd3a240dbb5a8",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Emergency-Provisions.md": "7c023a305a2c0654760477f4706390072e385716730220aa1f8676e7b31a4717",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Federal-System.md": "b2d3ea2230885f7bc128adc57fc6b40e23c54cdace6f9fa770427fb0470b6481",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Rights.md": "0e917838b5ce6168b85bc6d986699728c10600d6010ff2bf303caf41b0729b4f",
+    "upsc-ai-kit\\knowledge\\Polity\\basic\\Governor-and-CM.md": "2b5f1888780499ae761a5ee8d0d772b636c154bf87d97370d6d7039aaefce25f",
+    "upsc-ai-kit\\knowledge\\Polity\\OFFICIAL-UPSC-SYLLABUS-MAPPING.md": "fecfb9e4a78671056ff154eb37c92412a47f77baaffa362f6cbe0c9b610fee50",
+    "upsc-ai-kit\\knowledge\\Polity\\README.md": "8a2559da77f8dd12061f510946d689be7ffdae32b79752cfe0980e657f76176d"
+  },
+  "coverage_contract": {
+    "complete_core_before_advanced": true,
+    "evidence_classes_distinguished": true,
+    "contested_claims_qualified": true,
+    "all_solved_answers_exam_executable": true,
+    "strict_mcq_rotation": true,
+    "graphical_and_ascii_independently_complete": true,
+    "current_examples_source_dated": true
+  },
+  "repairs": [
+    "Hostile four-ledger ownership/PYQ control is absent.",
+    "Authoritative current-law source status is not dated."
+  ],
+  "assembled_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\polity-14_Complete-Learning-Session_2026-09-05.md",
+  "workbook_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-14\\g4\\polity-14_Solved-Practice-Workbook_2026-09-05.md",
+  "live_official_sources": [
+    "https://legislative.gov.in/documents/constitution-of-india",
+    "https://egazette.gov.in/WriteReadData/2026/269819.pdf",
+    "https://www.mha.gov.in/en",
+    "https://api.sci.gov.in/supremecourt/2012/35071/35071_2012_Judgement_24-Aug-2017.pdf"
+  ],
+  "current_status_control": "Rechecked 2026-09-05: no National Emergency or Financial Emergency was located in force. The Gazette of India proclamation dated 4 February 2026 revoked the Manipur Article 356 proclamation issued on 13 February 2025. The post-44th Amendment text and S.R. Bommai review remain controlling.",
+  "live_sources_rechecked_on": "2026-09-05"
+}

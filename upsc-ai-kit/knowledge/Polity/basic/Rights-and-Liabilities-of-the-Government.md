@@ -343,3 +343,46 @@ tort and official protection.
 - Executive power: `President-and-Vice-President.md`, `Governor-and-CM.md`
 - Federal allocation: `Centre-State-Relations.md`
 - Judicial remedies: `Supreme-Court.md`, `High-Court.md`
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional map:** Articles 294-300 in Part XII, Chapter III govern
+  succession, public property, trade, contracts and suits. Article 300A is the
+  adjacent constitutional right against deprivation of property except by
+  authority of law; Article 361 protects constitutional heads personally.
+- **Capacity before commitment:** Article 298 gives Union and State executive
+  capacity to trade, acquire, hold and dispose of property and make contracts,
+  subject to legislative-competence limits. It does not dispense with law,
+  equality, procurement control or Article 299 form.
+- **Article 299 form:** an executive contract must be expressed in the name of
+  the President/Governor, executed on that behalf and executed by an authorised
+  person in the authorised manner. These safeguards protect public funds and
+  are not cured merely by performance or officer knowledge.
+- **Restitution firewall:** an unenforceable Article 299 bargain is not silently
+  validated. State of West Bengal v B.K. Mondal & Sons permits an independent
+  Contract Act section 70 claim only where a lawful non-gratuitous act or
+  delivery was accepted and enjoyed; restitution is not contract enforcement.
+- **Suit route:** Article 300 and CPC section 79 identify the Union of India or
+  the State as the juristic party. CPC section 80 ordinarily requires two
+  months' notice for covered civil suits, with a court-controlled urgent-relief
+  route under section 80(2). Procedure is not substantive immunity.
+- **Private tort line:** P. & O. Steam Navigation and Kasturi Lal supplied the
+  older sovereign-function distinction. N. Nagendra Rao, Common Cause and
+  Challa Ramkrishna Reddy strongly narrow broad immunity in the welfare State;
+  no complete State-tort code permits a blanket formula.
+- **Constitutional tort:** Rudul Sah, Nilabati Behera and D.K. Basu support
+  public-law compensation for established Fundamental-Right violations.
+  Constitutional compensation, private damages, criminal responsibility and
+  disciplinary action remain different remedial tracks.
+- **Article 300A:** K.T. Plantation controls public purpose and non-illusory
+  compensation; Vidya Devi rejects unsupported executive occupation; Kolkata
+  Municipal Corporation (2024 INSC 435) identifies seven procedural sub-rights.
+  Bernard Francis Joseph Vaz, 2025 INSC 3, reinforces timely adequate
+  compensation and used Article 142 to address exceptional acquisition delay.
+- **Official-protection firewall:** Article 361, Article 299(2), BSA sections
+  129-130, CPC sections 79-80 and BNSS section 218 arise from different texts.
+  Personal or procedural protection never makes governmental action unreviewable.
+- **Live-law control, checked 5 September 2026:** the official Constitution,
+  CPC, Contract Act, BSA and BNSS remain the operative texts. Procurement
+  manuals and arbitration clauses are administrative/contractual controls, not
+  amendments to Articles 298-300. No direct verified PYQ is fabricated.

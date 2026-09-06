@@ -856,6 +856,47 @@ feature-level application rather than duplicating the full conceptual chapter.
 
 [ANALYSIS] A high-scoring conclusion evaluates the balance rather than labelling India wholly federal, wholly unitary, wholly borrowed or wholly original.
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** written and detailed Constitution;
+  constitutional supremacy; mixed amendment procedure; federal division with a
+  strong Centre; parliamentary government; independent integrated judiciary;
+  rights, DPSP and duties; secular republic; universal adult suffrage; single
+  citizenship; constitutional bodies; emergencies; local government and
+  co-operative societies.
+- **Exact text map:** Article 1 and Part I; Articles 13, 32 and 226 review;
+  Articles 50, 121-122, 211-212 and 361 functional separation; Article 75
+  collective responsibility; Article 368 amendment; Parts IX/IX-A/IX-B;
+  Part XVIII and Part XX; Seventh, Tenth, Eleventh and Twelfth Schedules.
+- **Amendment chronology:** 42nd Amendment 1976 added Socialist, Secular and
+  Integrity and is the 'Mini-Constitution'; 61st Amendment 1988 lowered voting
+  age to 18; 73rd/74th Amendments 1992 constitutionalised local government;
+  the 97th Amendment's State-co-operative portion was invalidated in
+  Union of India v. Rajendra N. Shah (20 July 2021) for lack of ratification.
+- **Doctrine/cases:** Ram Jawaya (1955) rejects rigid separation;
+  Kesavananda Bharati (1973) and Indira Nehru Gandhi (1975) protect structural
+  limits; Maneka Gandhi (1978) makes Article 21 procedure fair, just and
+  reasonable; constitutional morality must remain anchored in text/structure.
+- **Institutional mechanism:** distinguish legislative-executive fusion,
+  judicial review, cabinet responsibility, federal lists/residuary power,
+  independent constitutional bodies, emergency centralisation and third-tier
+  devolution; formal design does not prove effective independence or devolution.
+- **Cross-owner boundary:** Federal System, Parliamentary System, Fundamental
+  Rights, Emergency Provisions, local-government and co-operative topics own
+  detailed doctrine; this owner supplies the integrating architecture and exact
+  close-option distinctions.
+- **Four-ledger hostile audit:** syllabus, prerequisites, standard feature
+  taxonomy and 2018-2026 PYQs were searched for missing doctrines, Parts,
+  Schedules, amendments, cases, exceptions and implementation qualifications.
+- **Verified PYQ ownership, 2018-2026:** direct routes include 2018 Q40/Q45,
+  2019 GS-II Q1, 2020 Q7, 2021 Q90/Q94 and GS-II Q1, 2023 Q33/Q84, and
+  2024 Q74; federal character and single citizenship remain disclosed
+  cross-owner routes. No 2025/2026 direct route is invented.
+- **Current legal status:** In re Article 370 (11 December 2023) upheld the
+  2019 constitutional measures and recorded that restoration of J&K statehood
+  should occur at the earliest; absent an official statehood notification,
+  restoration is not reported as completed.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Practice rule and exact option rotation

@@ -1295,6 +1295,30 @@ vocational learning, digital inclusion, finance, teachers and employment outcome
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Education justice spans access, attendance, retention, learning, inclusion, language, safety, digital accessibility, teacher capacity and transition to skills or work across early childhood, school, higher and vocational education.
+- **Indispensable distinction and prerequisite taxonomy:** Article 21A is not a general right to every level of education, enrolment is not attendance or learning, literacy is not education quality, digital provision is not digital access, and human-resource development is not reducible to employability.
+- **Mechanism, implementation and evidence control:** Use RTE Act duties, NEP status, Samagra Shiksha, PM POSHAN, scholarships, UDISE+/NAS/ASER with source ownership and limits; trace school mapping, admission, disability accommodation, discrimination, grievance, dropout and learning outcomes.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 2026-09-06: the Ministry of Education, RTE materials and UDISE+ remain official sources; policy announcement, statutory duty, enrolment, attendance, retention and learning outcome must be reported separately. Sources: https://www.education.gov.in/nep/about-nep; https://dsel.education.gov.in/rte; https://udiseplus.gov.in/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Social Justice owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/social justice taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Six General Studies Mains demands and one objective demand are routed to this topic in the audited routing ledgers, and each Mains demand is reproduced below as a demand card with its printed year, paper, question number, directive, marks and word limit exactly as the ledgers record them: 2020 General Studies Paper I Question 20, 2020 General Studies Paper II Question 18, 2021 General Studies Paper II Question 7, 2022 General Studies Paper II Question 18, 2023 General Studies Paper II Question 6 and 2023 General Studies Paper II Question 18. The ledger records the 2023 skill-education and employment demand as one whose two subject routes terminate in answer-complete Core, shared with the Economy owner, and that shared ownership is stated openly rather than claimed exclusively. One objective demand is also routed, namely 2018 Prelims General Studies Paper I Question 21 on teacher-qualification eligibility provisions under the entitlement statute, and the ledger records the official 2018-2023 Prelims keys as not held locally, so no option, key or inferred answer is recorded for it and it is not converted into a solved question. The Basic owner separately discusses the 2024 public-examination-integrity Act, but the audited 2024-2025 Mains routing ledger routes that question to the Governance owner, so no demand card is manufactured for it here and no ownership is claimed over it. The locally held OCR-searchable official General Studies papers were read only to confirm the printed wording of the routed Mains demands; no question was invented from them and no marking scheme or page precision was imported. Every model solution below is original work written to the repository's examiner-grade standard using the claim, named evidence, analysis and qualification pattern.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies What this owner holds and the demands routed to it?

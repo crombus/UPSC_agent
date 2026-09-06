@@ -235,3 +235,45 @@ Every unit: **claim → named Article → mechanism → limitation/caution.**
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional spine:** Articles 74-75 create the Union aid-and-advice and
+  responsible-ministry structure; Article 78 is the Prime Minister-President
+  information bridge; Article 88 supplies participation rights. Articles 163-164
+  are the State counterparts, subject to constitutionally conferred gubernatorial
+  discretion.
+- **Advice and office:** the 42nd Amendment made Article 74 advice binding and
+  the 44th permits one reconsideration, after which reconsidered advice binds.
+  Article 75 separately controls appointment, presidential pleasure, collective
+  responsibility, oath and the six-month non-member rule.
+- **Responsibility:** the Council is collectively responsible only to the Lok
+  Sabha under Article 75(3). Individual responsibility, collective responsibility
+  and legal responsibility are distinct; no-confidence is a House mechanism and
+  ministerial resignation conventions cannot be presented as express text.
+- **Ninety-first Amendment:** Article 75(1A) caps Union ministers at fifteen per
+  cent of Lok Sabha strength; Article 75(1B) bars a disqualified defector from
+  ministership. Article 164(1A) applies the State cap with a minimum of twelve.
+- **Confidence and dissolution:** government survives while it commands Lok Sabha
+  confidence. Dissolution, caretaker practice, floor tests and alternative-
+  government exploration operate through constitutional text plus conventions
+  and judicial controls; the President does not acquire a personal political veto.
+- **Owned comparison:** this topic alone owns the full parliamentary-presidential
+  comparison: dual/single executive, flexible/fixed tenure, responsibility,
+  legislative membership, dissolution and fusion/separation. India-UK distinctions
+  are republican head, limited Parliament and the Indian PM's eligibility from
+  either House.
+- **Practice critique:** majority control, whip and the Tenth Schedule, government
+  control of business, delegated legislation, ordinances and money-bill routing
+  explain cabinet dominance; committees, questions, finance control, confidence
+  and judicial review qualify the claim.
+- **Current control:** the Constitution (129th Amendment) Bill, 2024 was introduced
+  on 17 December 2024 and remains with the Joint Committee on the located official
+  record. Proposed Article 82A is not constitutional law.
+- **Four-ledger hostile audit:** exact Articles, amendments, conventions, cases,
+  comparative axes, institutional practice and every routed 2018-2026 demand were
+  checked without moving detailed PM/CoM or parliamentary procedure out of their
+  adjacent owners.
+- **Verified PYQ ownership:** direct 2024 GS-II Q3 and routed 2020/2021 objective
+  demands are preserved; 2018 and 2023 comparative Mains demands remain disclosed
+  cross-owner routes, and unavailable historical keys are not promoted.

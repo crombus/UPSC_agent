@@ -2,14 +2,14 @@
 
 **Complete independent learning session + verified PYQ routing + solved practice workbook + final consolidated register notes**
 
-**Legal/current control date:** 25 August 2026 (Asia/Kolkata)
+**Legal/current control date:** 5 September 2026 (Asia/Kolkata)
 
 > **Tag key:** `[FACT]` = named constitutional, statutory, official, judicial or audited local support; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked for the control date; `[LIMIT]` = qualification.
 >
 > **Answer-writing discipline:** claim -> named evidence -> analysis -> qualification.
 
-- [CURRENT] Status is controlled to **25 August 2026, Asia/Kolkata**.
-- [CURRENT] **Live official refresh, 25 August 2026:** The official Constitution and Supreme Court portals were rechecked on 25 August 2026. This is a concept-and-doctrine topic: current litigation, political claims and interpretive proposals are not converted into settled constitutional meaning merely because they use constitutional vocabulary.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
+- [CURRENT] **Live official refresh, 5 September 2026:** The official Constitution and Supreme Court portals were rechecked on 5 September 2026. This is a concept-and-doctrine topic: current litigation, political claims and interpretive proposals are not converted into settled constitutional meaning merely because they use constitutional vocabulary.
 
 #### How to Use This Package
 
@@ -551,6 +551,47 @@ RESPONSE
 review + Parliament + federal checks + elections + public reason + lawful amendment.
 
 [LIMIT] Identity is structured continuity, not a judicially frozen policy code.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Core distinction:** a constitution constitutes public power, distributes
+  it, protects rights and states governing purposes. Constitutionalism requires
+  that this power actually remain limited, accountable and governed by law.
+- **Legal hierarchy:** Constitution, constitutional law, ordinary law and
+  convention are related but distinct. Indian ordinary law and every
+  constituted organ derive competence from the supreme Constitution.
+- **Classification:** enacted/evolved, codified/uncodified, rigid/flexible,
+  federal/unitary and procedural/prescriptive are separate analytical axes.
+  India combines rigidity and flexibility, federal and centralising features,
+  and procedural with transformative commitments.
+- **Constituent power:** Article 368 confers constituted amending power, not
+  unlimited original sovereignty. Kesavananda Bharati permits wide amendment
+  but forbids destruction of basic structure; Minerva Mills protects limited
+  amending power, review and rights-DPSP balance.
+- **Basic-structure control:** Indira Nehru Gandhi, Waman Rao and I.R. Coelho
+  apply the doctrine to democracy, rule of law, judicial review and post-
+  Kesavananda Ninth Schedule protection. The doctrine is judicially developed,
+  not a separately enumerated constitutional article.
+- **Constitutional morality:** Government of NCT of Delhi and Navtej Singh
+  Johar connect fidelity to constitutional roles, accountability, equality and
+  minority citizenship. The doctrine is not a judge's personal morality or a
+  substitute for text, competence and reasons.
+- **Transformative/living interpretation:** Maneka Gandhi, Puttaswamy, Navtej
+  and Joseph Shine apply enduring liberty, dignity and equality to entrenched
+  hierarchy and new conditions. Living interpretation is bounded by text,
+  structure, precedent, institutional role and legitimate remedy.
+- **Failure and resilience:** emergency experience, S.R. Bommai federal/
+  secular review and separation/checks show that elections alone do not prove
+  constitutionalism. Remedies, institutions, conventions and public reason
+  convert text into constitutional government.
+- **Current text control, checked 5 September 2026:** the Legislative
+  Department's official English text remains updated through the Constitution
+  (One Hundred and Sixth Amendment) Act, 2023 (106th Amendment). Basic structure and
+  constitutional morality remain judicial doctrines; no pending political
+  claim or proposal is represented as enacted constitutional meaning.
+- **PYQ firewall:** broad historical, salient-feature, Preamble, amendment,
+  rights and federal questions remain with their owners. This topic owns the
+  higher-order concept, constitutionalism test and bounded interpretive lenses.
 
 ## BASIC MCQS / REMEDIATION
 
@@ -1451,7 +1492,7 @@ Evaluate a constitutional practice through:
 
 ### Concept of the Constitution: Rapid Constitutional Recall
 
-- **Current-control rule:** The official Constitution and Supreme Court portals were rechecked on 25 August 2026. This is a concept-and-doctrine topic: current litigation, political claims and interpretive proposals are not converted into settled constitutional meaning merely because they use constitutional vocabulary.
+- **Current-control rule:** The official Constitution and Supreme Court portals were rechecked on 5 September 2026. This is a concept-and-doctrine topic: current litigation, political claims and interpretive proposals are not converted into settled constitutional meaning merely because they use constitutional vocabulary.
 - **Factual caveat:** This topic owns the higher-order idea of a constitution and constitutionalism, not a duplicate list of salient features or the history of constitution-making. Living, original-meaning, transformative and morality-based approaches are bounded interpretive lenses; none authorises free-standing personal preference.
 
 #### 1. Core proposition

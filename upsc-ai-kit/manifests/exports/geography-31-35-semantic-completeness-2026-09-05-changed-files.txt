@@ -1,0 +1,273 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\batch-reports\Geography-Topics-31-35-2026-09-05.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\geography-31-g4-to-g5.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\geography-32-industries-and-industrial-regions-g16-to-g17.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\geography-33-g3-to-g4.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\geography-34-g3-to-g4.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\geography-35-g3-to-g4.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-31\g4-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-31\g5-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-31\g5-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-31\geography-31-g4-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-31\geography-31-g5-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-31\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-32-industries-and-industrial-regions\g16-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-32-industries-and-industrial-regions\g17-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-32-industries-and-industrial-regions\g17-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-32-industries-and-industrial-regions\geography-32-industries-and-industrial-regions-g16-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-32-industries-and-industrial-regions\geography-32-industries-and-industrial-regions-g17-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-32-industries-and-industrial-regions\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-33\g3-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-33\g4-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-33\g4-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-33\geography-33-g3-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-33\geography-33-g4-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-33\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-34\g3-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-34\g4-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-34\g4-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-34\geography-34-g3-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-34\geography-34-g4-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-34\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-35\g3-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-35\g4-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-35\g4-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-35\geography-35-g3-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-35\geography-35-g4-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\geography-35\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\subject-reports\Geography-Topics-31-35-Completion-2026-09-05.md
+notes\Final-Learning-Packages\CATALOGUE.md
+notes\Final-Learning-Packages\Geography\INDEX.md
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\31-Mineral-a721a529-and-India\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\31-Mineral-a721a529-and-India\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\31-Mineral-a721a529-and-India\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\31-Mineral-a721a529-and-India\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\31-Mineral-a721a529-and-India\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\31-Mineral-a721a529-and-India\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\31-Mineral-a721a529-and-India\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\31-Mineral-a721a529-and-India\README.txt
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\32-Industries-and-Industrial-Regions\README.txt
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\33-Transport-f975564a-Programme\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\33-Transport-f975564a-Programme\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\33-Transport-f975564a-Programme\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\33-Transport-f975564a-Programme\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\33-Transport-f975564a-Programme\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\33-Transport-f975564a-Programme\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\33-Transport-f975564a-Programme\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\33-Transport-f975564a-Programme\README.txt
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\34-World-29716b37-Countries\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\34-World-29716b37-Countries\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\34-World-29716b37-Countries\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\34-World-29716b37-Countries\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\34-World-29716b37-Countries\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\34-World-29716b37-Countries\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\34-World-29716b37-Countries\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\34-World-29716b37-Countries\README.txt
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\35-Indian-af41ed79-Neighbours\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\35-Indian-af41ed79-Neighbours\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\35-Indian-af41ed79-Neighbours\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\35-Indian-af41ed79-Neighbours\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\35-Indian-af41ed79-Neighbours\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\35-Indian-af41ed79-Neighbours\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\35-Indian-af41ed79-Neighbours\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Geography\Part B — Human, Economic and Regional Geography\35-Indian-af41ed79-Neighbours\README.txt
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Final-Learning-Packages\START-HERE.md
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\ascii-master.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\ascii-master.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\build-audit.json
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\editable\README.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\master.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\poster.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\preservation-hashes.json
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\previews\master-overview.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\previews\page-001.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\previews\page-002.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\previews\page-003.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\previews\page-004.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\README.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\tiled.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-31\carvaka-g5\validation-report.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\ascii-master.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\ascii-master.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\build-audit.json
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\editable\README.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\master.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\poster.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\preservation-hashes.json
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\previews\master-overview.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\previews\page-001.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\previews\page-002.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\previews\page-003.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\previews\page-004.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\previews\page-005.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\README.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\tiled.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-32\carvaka-g17\validation-report.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-33\carvaka-g4\ascii-master.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-33\carvaka-g4\ascii-master.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-33\carvaka-g4\build-audit.json
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-33\carvaka-g4\editable\README.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-33\carvaka-g4\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-33\carvaka-g4\master.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-33\carvaka-g4\poster.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-33\carvaka-g4\preservation-hashes.json
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-33\carvaka-g4\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-33\carvaka-g4\previews\master-overview.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-33\carvaka-g4\previews\page-001.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-33\carvaka-g4\previews\page-002.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-33\carvaka-g4\previews\page-003.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-33\carvaka-g4\previews\page-004.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-33\carvaka-g4\previews\page-005.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-33\carvaka-g4\README.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-33\carvaka-g4\tiled.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-33\carvaka-g4\validation-report.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-34\carvaka-g4\ascii-master.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-34\carvaka-g4\ascii-master.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-34\carvaka-g4\build-audit.json
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-34\carvaka-g4\editable\README.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-34\carvaka-g4\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-34\carvaka-g4\master.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-34\carvaka-g4\poster.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-34\carvaka-g4\preservation-hashes.json
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-34\carvaka-g4\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-34\carvaka-g4\previews\master-overview.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-34\carvaka-g4\previews\page-001.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-34\carvaka-g4\previews\page-002.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-34\carvaka-g4\previews\page-003.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-34\carvaka-g4\previews\page-004.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-34\carvaka-g4\README.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-34\carvaka-g4\tiled.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-34\carvaka-g4\validation-report.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-35\carvaka-g4\ascii-master.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-35\carvaka-g4\ascii-master.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-35\carvaka-g4\build-audit.json
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-35\carvaka-g4\editable\README.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-35\carvaka-g4\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-35\carvaka-g4\master.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-35\carvaka-g4\poster.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-35\carvaka-g4\preservation-hashes.json
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-35\carvaka-g4\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-35\carvaka-g4\previews\master-overview.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-35\carvaka-g4\previews\page-001.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-35\carvaka-g4\previews\page-002.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-35\carvaka-g4\previews\page-003.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-35\carvaka-g4\previews\page-004.png
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-35\carvaka-g4\README.txt
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-35\carvaka-g4\tiled.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\flowcharts\geo-35\carvaka-g4\validation-report.txt
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-31\g5\geography-31_Complete-Learning-Session_2026-09-05.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-31\g5\geography-31_Solved-Practice-Workbook_2026-09-05.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-31\g5\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-31\g5\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\geography-32-industries-and-industrial-regions_Complete-Learning-Session_2026-09-05.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\geography-32-industries-and-industrial-regions_Solved-Practice-Workbook_2026-09-05.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-33\g4\geography-33_Complete-Learning-Session_2026-09-05.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-33\g4\geography-33_Solved-Practice-Workbook_2026-09-05.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-33\g4\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-33\g4\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-34\g4\geography-34_Complete-Learning-Session_2026-09-05.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-34\g4\geography-34_Solved-Practice-Workbook_2026-09-05.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-34\g4\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-34\g4\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-35\g4\geography-35_Complete-Learning-Session_2026-09-05.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-35\g4\geography-35_Solved-Practice-Workbook_2026-09-05.pdf
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-35\g4\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-35\g4\validation\workbook-visual-audit-map.json
+tools\regenerate_geography_part_b_deep_review.py
+upsc-ai-kit\knowledge\Geography\basic\31_Mineral-Energy-Resources-World-and-India.md
+upsc-ai-kit\knowledge\Geography\basic\32_Industries-and-Industrial-Regions.md
+upsc-ai-kit\knowledge\Geography\basic\33_Transport-Trade-and-Indian-Space-Programme.md
+upsc-ai-kit\knowledge\Geography\basic\34_World-Regional-Geography-Continents-Countries.md
+upsc-ai-kit\knowledge\Geography\basic\35_Indian-Political-Geography-Boundaries-and-Neighbours.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-31\g5\assets\geography-31_Teaching-Navigation_2026-08-22.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-31\g5\geography-31_Complete-Learning-Session_2026-09-05.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-31\g5\geography-31_Solved-Practice-Workbook_2026-09-05.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\01_topic-roadmap.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\02_industry-classification-firewall.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\03_location-factor-wheel.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\04_weber-material-index-isodapane.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\07_agglomeration-diseconomy.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\10_global-industrial-regions.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\12_india-industrial-regions.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\24_pli-status-chain.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\25_corridor-logistics-architecture.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\26_india-corridor-nodes.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\33_monitoring-dashboard.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\34_current-status-firewall.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\35_upsc-answer-spine.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\36_theory-evolution-tree.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\37_location-lockin-relocation.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\38_spread-backwash.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\40_sector-location-matrix.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\assets\geography-32_Teaching-Navigation_2026-08-23.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\geography-32-industries-and-industrial-regions_Complete-Learning-Session_2026-09-05.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-32\g17\geography-32-industries-and-industrial-regions_Solved-Practice-Workbook_2026-09-05.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-33\g4\assets\geography-33_Teaching-Navigation_2026-08-22.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-33\g4\geography-33_Complete-Learning-Session_2026-09-05.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-33\g4\geography-33_Solved-Practice-Workbook_2026-09-05.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-34\g4\assets\geography-34_Teaching-Navigation_2026-08-22.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-34\g4\geography-34_Complete-Learning-Session_2026-09-05.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-34\g4\geography-34_Solved-Practice-Workbook_2026-09-05.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-35\g4\assets\geography-35_Teaching-Navigation_2026-08-22.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-35\g4\geography-35_Complete-Learning-Session_2026-09-05.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Geography\GEO\learning-sessions\geo-35\g4\geography-35_Solved-Practice-Workbook_2026-09-05.md
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-05-selected-483-61f5badb8603-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-05-selected-483-61f5badb8603.json
+upsc-ai-kit\manifests\exports\geography-31-35-semantic-completeness-2026-09-05-changed-files.txt
+upsc-ai-kit\manifests\exports\geography-31-learner-v2-g5-2026-09-05-changed-files.txt
+upsc-ai-kit\manifests\exports\geography-31-learner-v2-g5-2026-09-05-record.json
+upsc-ai-kit\manifests\exports\geography-31-learner-v2-g5-2026-09-05-validation.json
+upsc-ai-kit\manifests\exports\geography-31-semantic-completeness-2026-09-05-changed-files.txt
+upsc-ai-kit\manifests\exports\geography-32-industries-and-industrial-regions-learner-v2-g17-2026-09-05-changed-files.txt
+upsc-ai-kit\manifests\exports\geography-32-industries-and-industrial-regions-learner-v2-g17-2026-09-05-record.json
+upsc-ai-kit\manifests\exports\geography-32-industries-and-industrial-regions-learner-v2-g17-2026-09-05-validation.json
+upsc-ai-kit\manifests\exports\geography-32-industries-and-industrial-regions-semantic-completeness-2026-09-05-changed-files.txt
+upsc-ai-kit\manifests\exports\geography-33-learner-v2-g4-2026-09-05-changed-files.txt
+upsc-ai-kit\manifests\exports\geography-33-learner-v2-g4-2026-09-05-record.json
+upsc-ai-kit\manifests\exports\geography-33-learner-v2-g4-2026-09-05-validation.json
+upsc-ai-kit\manifests\exports\geography-33-semantic-completeness-2026-09-05-changed-files.txt
+upsc-ai-kit\manifests\exports\geography-34-learner-v2-g4-2026-09-05-changed-files.txt
+upsc-ai-kit\manifests\exports\geography-34-learner-v2-g4-2026-09-05-record.json
+upsc-ai-kit\manifests\exports\geography-34-learner-v2-g4-2026-09-05-validation.json
+upsc-ai-kit\manifests\exports\geography-34-semantic-completeness-2026-09-05-changed-files.txt
+upsc-ai-kit\manifests\exports\geography-35-learner-v2-g4-2026-09-05-changed-files.txt
+upsc-ai-kit\manifests\exports\geography-35-learner-v2-g4-2026-09-05-record.json
+upsc-ai-kit\manifests\exports\geography-35-learner-v2-g4-2026-09-05-validation.json
+upsc-ai-kit\manifests\exports\geography-35-semantic-completeness-2026-09-05-changed-files.txt
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\geography-31-deep-review-2026-09-05-g5.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\geography-32-industries-and-industrial-regions-deep-review-2026-09-05-g17.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\geography-33-deep-review-2026-09-05-g4.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\geography-34-deep-review-2026-09-05-g4.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\geography-35-deep-review-2026-09-05-g4.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Geography\deep-review\geography-31-g5.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Geography\deep-review\geography-32-industries-and-industrial-regions-g17.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Geography\deep-review\geography-33-g4.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Geography\deep-review\geography-34-g4.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Geography\deep-review\geography-35-g4.json
+upsc-ai-kit\manifests\reviews\knowledge-semantic-completeness-status.json
+upsc-ai-kit\manifests\v2\geography--part-b-human-economic-and-regional-geography.json
+upsc-ai-kit\manifests\v2\geography--subject-wide-syllabus-content-specs\geography-31-g5.json
+upsc-ai-kit\manifests\v2\geography--subject-wide-syllabus-content-specs\geography-32-industries-and-industrial-regions-g17.json
+upsc-ai-kit\manifests\v2\geography--subject-wide-syllabus-content-specs\geography-33-g4.json
+upsc-ai-kit\manifests\v2\geography--subject-wide-syllabus-content-specs\geography-34-g4.json
+upsc-ai-kit\manifests\v2\geography--subject-wide-syllabus-content-specs\geography-35-g4.json
+V2-SUBJECT-SECTION-COMMAND-INDEX.md

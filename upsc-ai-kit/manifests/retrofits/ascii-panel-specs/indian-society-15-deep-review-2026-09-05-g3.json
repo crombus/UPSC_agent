@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "indian-society-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_society_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-society-15",
+      "display_title": "Secularism",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g3\\indian-society-15_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Three levels card",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "SOCIETY LEVEL -> lived practice, syncretism, equal public space, shared civic life",
+            "POLITY LEVEL -> Articles 25 to 28, the Preamble, state neutrality doctrine",
+            "PHILOSOPHY LEVEL -> Bhargava, Taylor and Kymlicka on principled distance",
+            "RULE -> declare the level, then cross-link the other two",
+            "MUST REMEMBER: Indian secularism combines equal citizenship, freedom of conscience, principled",
+            "  state engagement and reform of exclusionary practices within a religiously plural society;",
+            "  it is structured by Fundamental Rights, minority protections, public order and",
+            "  constitutional morality."
+          ],
+          "source_references": [
+            "Three levels of one word",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g3\\indian-society-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Evidence direction",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NORMATIVE -> what the state must do, stated by constitutional doctrine",
+            "DESCRIPTIVE -> what actually happens in shared social space",
+            "CANNOT PROVE -> coexistence does not establish doctrinal compliance",
+            "CANNOT DISPROVE -> one exclusion episode does not void the doctrine"
+          ],
+          "source_references": [
+            "Normative doctrine against descriptive outcome",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g3\\indian-society-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Lived-practice indicators",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "SYNCRETISM -> shared shrines, Sufi and Bhakti idioms, common regional festivals",
+            "EQUAL PUBLIC SPACE -> markets, schools, transport and civic institutions open to all",
+            "SHARED CIVIC LIFE -> schools, workplaces and elections functioning across faiths",
+            "TEST -> routine interaction rather than a single ceremonial occasion"
+          ],
+          "source_references": [
+            "Syncretism and equal public space",
+            "Shared civic and economic life",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g3\\indian-society-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Two models as ideal types",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "WESTERN IDEAL TYPE -> separation between church and state",
+            "INDIAN IDEAL TYPE -> equal respect with context-sensitive public engagement",
+            "ANCHOR -> sarva-dharma-sama-bhava as the civilisational social principle",
+            "CAUTION -> neither ideal type guarantees equality in practice"
+          ],
+          "source_references": [
+            "Equal respect and the ideal-type comparison",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g3\\indian-society-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Three responses to difference",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "TOLERANCE -> difference is permitted by withholding interference",
+            "ASSIMILATION -> difference is absorbed into a dominant norm",
+            "PLURALISM -> difference is retained with equal participation secured",
+            "PROHIBITION -> the three are never interchangeable in an answer"
+          ],
+          "source_references": [
+            "Tolerance, assimilation and pluralism",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g3\\indian-society-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Practice test",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "STEP ONE -> name the practice and the shared space it operates in",
+            "STEP TWO -> identify the exclusion or coercion mechanism at work",
+            "STEP THREE -> state the rights and pluralism response to that mechanism",
+            "LIMIT -> never move from a practice to a verdict about a community",
+            "CLOSE DISTINCTION: Secularism is not atheism, equal respect is not unconditional",
+            "  non-intervention, religious freedom is not immunity from health, morality, public order or",
+            "  other rights, and minority educational rights are not a general exemption from regulation."
+          ],
+          "source_references": [
+            "When a practice challenges secularism",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g3\\indian-society-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Two equalities",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "FORMAL EQUALITY -> identical rules applied regardless of religion",
+            "SUBSTANTIVE EQUALITY -> whether the arrangement improves real position",
+            "PROPONENT USE -> uniformity removes discriminatory personal-law provisions",
+            "CRITIC USE -> an unconsulted code can universalise one community's template"
+          ],
+          "source_references": [
+            "Two equalities and two rights claims",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g3\\indian-society-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Autonomy and individual rights",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "COMMUNITY AUTONOMY -> the group governs its own family-law affairs",
+            "INDIVIDUAL RIGHTS -> members disadvantaged inside the group are protected",
+            "TENSION -> neither principle resolves the conflict absolutely",
+            "RESOLUTION -> rights-sensitive reform with genuine multi-community consultation"
+          ],
+          "source_references": [
+            "Two equalities and two rights claims",
+            "Internal diversity inside every side",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g3\\indian-society-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Internal diversity",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "NOT ONE VOICE -> women differ by class, region, education and household",
+            "NOT ONE VOICE -> a religious community contains reformers and traditionalists",
+            "CONSEQUENCE -> consultation design is part of the substance of reform",
+            "ERROR -> treating either side as a unified bloc in the argument"
+          ],
+          "source_references": [
+            "Internal diversity inside every side",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g3\\indian-society-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Uttarakhand status card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "CODE -> Uniform Civil Code, Uttarakhand, 2024, in force from 27 January 2025",
+            "RULES -> the Rules, 2025 accompany the code",
+            "AMENDMENT -> the 2026 revision was reported as an ordinance",
+            "PROHIBITION -> it may not be called an Amendment Act without an enacted text"
+          ],
+          "source_references": [
+            "The Uttarakhand code and its exact status",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g3\\indian-society-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Four evidentiary questions",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "ENACTMENT -> established by the code and its commencement date",
+            "REVISION -> established by the reported 2026 ordinance",
+            "IMPLEMENTATION -> registration, awareness and practical access, not established",
+            "OUTCOME -> social effect and community trust, not established"
+          ],
+          "source_references": [
+            "Enactment, implementation and comparison claims",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g3\\indian-society-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Secularism answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> name the level and define the concept the demand actually uses",
+            "BODY -> lived mechanisms, then the reform tension with both sides fairly stated",
+            "TEST -> tolerance against assimilation against pluralism",
+            "CLOSE -> rights-sensitive consultative reform with the status caveats stated",
+            "EVIDENCE LIMIT: Use Articles 14-16, 25-30, 44 and relevant constitutional doctrine with",
+            "  precise institutional boundaries; distinguish legal secularism from social outcomes, avoid",
+            "  homogenising religions, and qualify comparisons with strict separation or establishment",
+            "  models."
+          ],
+          "source_references": [
+            "Question ownership and the answer spine",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\15_Secularism.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-15\\g3\\indian-society-15_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

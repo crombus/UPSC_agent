@@ -182,3 +182,50 @@ imposition"; additional-language demands, which remain proposals unless constitu
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional status:** Part XVII contains Articles 343-351. Article 343
+  makes Hindi in Devanagari script the official language of the Union and uses
+  the international form of Indian numerals. The Constitution does not declare
+  any national language.
+- **Union settlement:** Article 343(2)'s initial fifteen-year continuation of
+  English was followed by Parliament's Official Languages Act, 1963. Section 3,
+  substituted in 1967, permits English to continue in addition to Hindi and
+  protects Union communication with non-Hindi States through its provisos and
+  section 3(5) consent lock.
+- **Commission/committee distinction:** Article 344 provides the constitutional
+  Commission and parliamentary committee sequence. The continuing Committee of
+  Parliament on Official Language is the thirty-member statutory committee
+  under section 4 of the 1963 Act, not a permanent Article 344 Commission.
+- **Current institutional snapshot, checked 5 September 2026:** the official
+  Committee portal identifies Union Home Minister Amit Shah as Chairperson and
+  displays the thirteenth part of its report. Recommendations or Presidential
+  directions cannot override section 3.
+- **State variation:** Article 345 permits a State legislature to adopt one or
+  more languages in use in the State or Hindi. Articles 346-347 govern
+  intergovernmental communication and recognition of a language spoken by a
+  substantial section. No single State-language template can be universalised.
+- **Courts and authoritative texts:** Article 348 retains English for Supreme
+  Court and High Court proceedings and authoritative legal texts until valid
+  legal change. Article 348(2) and section 7 allow bounded High Court use of
+  Hindi/a State official language with prior Presidential consent and an
+  authoritative English translation of judgments, decrees and orders.
+- **Citizen/minority/development provisions:** Article 350 protects grievance
+  representation in any language used in the Union or State; Articles 350A and
+  350B concern primary-stage mother-tongue facilities and the Special Officer
+  for linguistic minorities; Article 351 directs development of Hindi while
+  drawing on India's composite culture.
+- **Rules:** the Official Languages (Use for Official Purposes of the Union)
+  Rules, 1976 are displayed by the Department as amended in 1987, 2007 and
+  2011. They divide administration into Regions A/B/C and expressly exclude
+  Tamil Nadu from their territorial extent. Rules do not amend Part XVII.
+- **Separate categories:** the Eighth Schedule contains twenty-two languages.
+  Scheduled status does not itself make a language official everywhere.
+  Classical-language status and the three-language formula are separate
+  executive/education-policy categories; October 2024 recognition brought the
+  then official classical-language count to eleven.
+- **Case/PYQ firewall:** Gujarat University, D.A.V. College and Associated
+  Management control competence, minority safeguards and educational choice;
+  none declares a national language. The routed 2024 Prelims constitutional-
+  amendment demand is retained; current proposals are not treated as enacted.

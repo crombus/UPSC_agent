@@ -1,0 +1,1084 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-26",
+  "subject": "Economy",
+  "title": "ECONOMIC SURVEY SYNTHESIS AND CURRENT MACRO DASHBOARD",
+  "short_route": "SIX-BOX MACRO DASHBOARD → ESTIMATE-VINTAGE LADDER → GDP-GVA-PRICE BOUNDARY → DEMAND-COMPOSITION MAP → FISCAL EVIDENCE LADDER → INFLATION READING BOARD",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g3\\economy-26_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-26-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "21c9adde4c22d08146fb05dde53fbe053a430999b01b06549129d9771ebee52b",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SIX-BOX MACRO DASHBOARD",
+      "structural_type": "dashboard-grid",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SIX-BOX MACRO DASHBOARD",
+          "role": "primary"
+        },
+        {
+          "text": "GROWTH + DEMAND",
+          "role": "outcome"
+        },
+        {
+          "text": "INFLATION + MONETARY",
+          "role": "comparison"
+        },
+        {
+          "text": "FISCAL + INVESTMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "FINANCIAL + EXTERNAL + INCLUSION",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "A CURRENT MACRO DASHBOARD MUST RECONCILE GROWTH, INFLATION, EMPLOYMENT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "GROWTH + DEMAND",
+        "INFLATION + MONETARY",
+        "FISCAL + INVESTMENT",
+        "FINANCIAL + EXTERNAL + INCLUSION",
+        "MUST REMEMBER: A current macro dashboard must reconcile growth, inflation, employment"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "GROWTH + DEMAND",
+          "FISCAL + INVESTMENT",
+          "MUST REMEMBER: A current macro dashboard must reconcile growth, inflation, employment,..."
+        ],
+        [
+          "INFLATION + MONETARY",
+          "FINANCIAL + EXTERNAL + INCLUSION",
+          "GROWTH + DEMAND"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GROWTH + DEMAND",
+            "INFLATION + MONETARY"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FISCAL + INVESTMENT",
+            "FINANCIAL + EXTERNAL + INCLUSION"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: A current macro dashboard must reconcile growth, inflation, employment,...",
+            "GROWTH + DEMAND"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: A current macro dashboard must reconcile growth, inflation, employment,.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g3\\economy-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "ESTIMATE-VINTAGE LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ESTIMATE-VINTAGE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "EARLY ESTIMATE",
+          "role": "outcome"
+        },
+        {
+          "text": "FULLER DATA",
+          "role": "comparison"
+        },
+        {
+          "text": "LATER BENCHMARK",
+          "role": "evidence"
+        },
+        {
+          "text": "DATE + VINTAGE TRAVEL WITH VALUE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "FAE / SAE → early estimate",
+        "PROVISIONAL → fuller data",
+        "REVISED → later benchmark",
+        "DATE + VINTAGE travel with value"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FAE / SAE → early estimate",
+            "PROVISIONAL → fuller data"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REVISED → later benchmark",
+            "DATE + VINTAGE travel with value"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FAE / SAE → early estimate",
+            "PROVISIONAL → fuller data"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REVISED → later benchmark; DATE + VINTAGE travel with value.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g3\\economy-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "GDP-GVA-PRICE BOUNDARY",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GDP-GVA-PRICE BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "MARKET PRICES",
+          "role": "outcome"
+        },
+        {
+          "text": "BASIC PRICES",
+          "role": "comparison"
+        },
+        {
+          "text": "VOLUME AFTER PRICE ADJUSTMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "CURRENT-PRICE VALUE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "GDP → market prices",
+        "GVA → basic prices",
+        "REAL → volume after price adjustment",
+        "NOMINAL → current-price value"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "GDP → market prices",
+          "REAL → volume after price adjustment",
+          "GDP → market prices"
+        ],
+        [
+          "GVA → basic prices",
+          "NOMINAL → current-price value",
+          "GVA → basic prices"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GDP → market prices",
+            "GVA → basic prices"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REAL → volume after price adjustment",
+            "NOMINAL → current-price value"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GDP → market prices",
+            "GVA → basic prices"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REAL → volume after price adjustment; NOMINAL → current-price value.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g3\\economy-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DEMAND-COMPOSITION MAP",
+      "structural_type": "component-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DEMAND-COMPOSITION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "PFCE + GFCE",
+          "role": "outcome"
+        },
+        {
+          "text": "GROSS CAPITAL FORMATION",
+          "role": "comparison"
+        },
+        {
+          "text": "NET EXPORTS",
+          "role": "evidence"
+        },
+        {
+          "text": "GROWTH CONTRIBUTION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PFCE + GFCE",
+        "GROSS CAPITAL FORMATION",
+        "NET EXPORTS",
+        "SHARE != growth contribution"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PFCE + GFCE",
+            "GROSS CAPITAL FORMATION"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NET EXPORTS",
+            "SHARE != growth contribution"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PFCE + GFCE",
+            "GROSS CAPITAL FORMATION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GROSS CAPITAL FORMATION; NET EXPORTS; SHARE != growth contribution.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g3\\economy-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "FISCAL EVIDENCE LADDER",
+      "structural_type": "evidence-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FISCAL EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "FORWARD PLAN",
+          "role": "outcome"
+        },
+        {
+          "text": "IN-YEAR REASSESSMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CGA PROVISIONAL",
+          "role": "evidence"
+        },
+        {
+          "text": "REALISED TO DATE/YEAR",
+          "role": "primary"
+        },
+        {
+          "text": "FINAL ACTUAL",
+          "role": "outcome"
+        },
+        {
+          "text": "LATER OUTTURN",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "BE → forward plan",
+        "RE → in-year reassessment",
+        "CGA PROVISIONAL → realised to date/year",
+        "FINAL ACTUAL → later outturn"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BE → forward plan",
+            "RE → in-year reassessment"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CGA PROVISIONAL → realised to date/year",
+            "FINAL ACTUAL → later outturn"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BE → forward plan",
+            "RE → in-year reassessment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CGA PROVISIONAL → realised to date/year; FINAL ACTUAL → later outturn.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g3\\economy-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "INFLATION READING BOARD",
+      "structural_type": "decomposition-board",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INFLATION READING BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "HEADLINE CPI",
+          "role": "outcome"
+        },
+        {
+          "text": "FOOD + FUEL COMPONENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "CORE PROXY",
+          "role": "evidence"
+        },
+        {
+          "text": "EXPECTATIONS + POLICY STANCE",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "SURVEY PROJECTION IS NOT BUDGET ESTIMATE, ADVANCE ESTIMATE IS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "HEADLINE CPI",
+        "FOOD + FUEL components",
+        "CORE proxy",
+        "EXPECTATIONS + POLICY stance",
+        "CLOSE DISTINCTION: Survey projection is not Budget estimate, advance estimate is not"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HEADLINE CPI",
+            "FOOD + FUEL components"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CORE proxy",
+            "EXPECTATIONS + POLICY stance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Survey projection is not Budget estimate, advance estimate is not...",
+            "HEADLINE CPI"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Survey projection is not Budget estimate, advance estimate is not.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g3\\economy-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "STOCK-FLOW EXTERNAL MAP",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STOCK-FLOW EXTERNAL MAP",
+          "role": "mechanism"
+        },
+        {
+          "text": "STOCK AT DATE",
+          "role": "outcome"
+        },
+        {
+          "text": "EXTERNAL DEBT",
+          "role": "comparison"
+        },
+        {
+          "text": "LIABILITY STOCK",
+          "role": "evidence"
+        },
+        {
+          "text": "PERIOD FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "PERIOD FLOWS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "RESERVES → stock at date",
+        "EXTERNAL DEBT → liability stock",
+        "CAD → period flow",
+        "EXPORTS / IMPORTS → period flows"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "RESERVES → stock at date",
+          "CAD → period flow",
+          "RESERVES → stock at date"
+        ],
+        [
+          "EXTERNAL DEBT → liability stock",
+          "EXPORTS / IMPORTS → period flows",
+          "EXTERNAL DEBT → liability stock"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RESERVES → stock at date",
+            "EXTERNAL DEBT → liability stock"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CAD → period flow",
+            "EXPORTS / IMPORTS → period flows"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RESERVES → stock at date",
+            "EXTERNAL DEBT → liability stock"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAD → period flow; EXPORTS / IMPORTS → period flows.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g3\\economy-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "LABOUR-DATA BOUNDARY",
+      "structural_type": "method-board",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "LABOUR-DATA BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "PLFS PERIOD",
+          "role": "outcome"
+        },
+        {
+          "text": "WEEKLY STATUS",
+          "role": "comparison"
+        },
+        {
+          "text": "UR DENOMINATOR",
+          "role": "evidence"
+        },
+        {
+          "text": "PUBLICATION LAG",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PLFS PERIOD",
+        "USUAL / WEEKLY STATUS",
+        "LFPR / WPR / UR denominator",
+        "PUBLICATION LAG"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PLFS PERIOD",
+            "USUAL / WEEKLY STATUS"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LFPR / WPR / UR denominator",
+            "PUBLICATION LAG"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PLFS PERIOD",
+            "USUAL / WEEKLY STATUS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LFPR / WPR / UR denominator; PUBLICATION LAG.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g3\\economy-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "SURVEY-BUDGET-OUTTURN SPLIT",
+      "structural_type": "three-stage-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "SURVEY-BUDGET-OUTTURN SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "OFFICIAL RELEASE",
+          "role": "outcome"
+        },
+        {
+          "text": "DO NOT BLEND EVIDENCE CLASSES",
+          "role": "caution"
+        },
+        {
+          "text": "SURVEY → DIAGNOSIS / PROJECTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SURVEY → diagnosis / projection",
+        "BUDGET → proposal / estimate",
+        "OFFICIAL RELEASE → outturn",
+        "DO NOT blend evidence classes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SURVEY → diagnosis / projection",
+            "BUDGET → proposal / estimate"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OFFICIAL RELEASE → outturn",
+            "DO NOT blend evidence classes"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SURVEY → diagnosis / projection",
+            "BUDGET → proposal / estimate"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OFFICIAL RELEASE → outturn; DO NOT blend evidence classes.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g3\\economy-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "V-TO-K RECOVERY TEST",
+      "structural_type": "causal-comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "V-TO-K RECOVERY TEST",
+          "role": "primary"
+        },
+        {
+          "text": "GDP PATH",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTRACTION THEN REBOUND",
+          "role": "comparison"
+        },
+        {
+          "text": "BASE EFFECT",
+          "role": "evidence"
+        },
+        {
+          "text": "GROWTH COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "SECTORAL PATH",
+          "role": "outcome"
+        },
+        {
+          "text": "JOBS + INFORMALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "K-SHAPED TEST",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GDP PATH → contraction then rebound",
+        "BASE EFFECT → growth comparison",
+        "SECTORAL PATH → uneven",
+        "JOBS + INFORMALITY → K-shaped test"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "GDP PATH → contraction then rebound",
+          "SECTORAL PATH → uneven",
+          "GDP PATH → contraction then rebound"
+        ],
+        [
+          "BASE EFFECT → growth comparison",
+          "JOBS + INFORMALITY → K-shaped test",
+          "BASE EFFECT → growth comparison"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GDP PATH → contraction then rebound",
+            "BASE EFFECT → growth comparison"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SECTORAL PATH → uneven",
+            "JOBS + INFORMALITY → K-shaped test"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GDP PATH → contraction then rebound",
+            "BASE EFFECT → growth comparison"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SECTORAL PATH → uneven; JOBS + INFORMALITY → K-shaped test.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g3\\economy-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CROSS-BOX SYNTHESIS LOOP",
+      "structural_type": "diagnostic-loop",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CROSS-BOX SYNTHESIS LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "COMPONENT + DENOMINATOR",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPARABLE PERIOD + VINTAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "DRIVER + LIMIT + VERDICT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "COMPONENT + DENOMINATOR",
+        "COMPARABLE PERIOD + VINTAGE",
+        "DRIVER + LIMIT + VERDICT"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "COMPONENT + DENOMINATOR",
+          "DRIVER + LIMIT + VERDICT",
+          "COMPARABLE PERIOD + VINTAGE"
+        ],
+        [
+          "COMPARABLE PERIOD + VINTAGE",
+          "COMPONENT + DENOMINATOR",
+          "DRIVER + LIMIT + VERDICT"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COMPONENT + DENOMINATOR",
+            "COMPARABLE PERIOD + VINTAGE"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DRIVER + LIMIT + VERDICT",
+            "COMPONENT + DENOMINATOR"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COMPARABLE PERIOD + VINTAGE",
+            "DRIVER + LIMIT + VERDICT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COMPARABLE PERIOD + VINTAGE; DRIVER + LIMIT + VERDICT.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g3\\economy-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "MACRO-DASHBOARD ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "MACRO-DASHBOARD ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "LABEL VALUE + UNIT + VINTAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "CLASSIFY STOCK",
+          "role": "comparison"
+        },
+        {
+          "text": "CROSS-CHECK SIX BOXES",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCLUDE STABILITY + PRODUCTIVE CAPACITY",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "ATTACH SOURCE, RELEASE DATE, REFERENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LABEL value + unit + vintage",
+        "CLASSIFY stock / flow / ratio",
+        "CROSS-CHECK six boxes",
+        "CONCLUDE stability + productive capacity",
+        "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Attach source, release date, reference"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LABEL value + unit + vintage",
+            "CLASSIFY stock / flow / ratio"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CROSS-CHECK six boxes",
+            "CONCLUDE stability + productive capacity"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Attach source, release date, reference...",
+            "LABEL value + unit + vintage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Attach source, release date, reference.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-26\\g3\\economy-26_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "READ EVERY INDICATOR THROUGH LEVEL, RATE OF CHANGE, COMPOSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "DEMAND COMPOSITION DISTINGUISHES CONSUMPTION-LED, INVESTMENT-LED, GOVERNMENT-LED AND",
+          "role": "comparison"
+        },
+        {
+          "text": "SUPPLY COMPOSITION REVEALS WHETHER PRODUCTIVITY BROADENING ACCOMPANIES AGGREGATE",
+          "role": "evidence"
+        },
+        {
+          "text": "MACRO POLICY MIX ASKS WHETHER MONETARY, FISCAL, FINANCIAL AND",
+          "role": "primary"
+        },
+        {
+          "text": "NOWCASTING COMBINES HIGH-FREQUENCY SIGNALS BUT REMAINS MODEL-DEPENDENT AND REVISION",
+          "role": "outcome"
+        },
+        {
+          "text": "THE SURVEY LINKS INDIA'S NEXT FRONTIER TO MANUFACTURING, LOGISTICS",
+          "role": "comparison"
+        },
+        {
+          "text": "MOSPI AND NATIONAL STATISTICAL OFFICE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Read every indicator through level, rate of change, composition, base effect, revisions",
+            "CAUTION: Demand composition distinguishes consumption-led, investment-led, government-led and",
+            "CAUTION: Supply composition reveals whether productivity broadening accompanies aggregate",
+            "CAUTION: Macro policy mix asks whether monetary, fiscal, financial and structural policies"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Nowcasting combines high-frequency signals but remains model-dependent and revision",
+            "CAUTION: The Survey links India's next frontier to manufacturing, logistics, labour, human",
+            "MoSPI and National Statistical Office: produce national accounts and many high",
+            "Ministry of Finance: publishes the Economic Survey and fiscal or external analysis."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "RBI: supplies monetary, banking, inflation-expectation and external-sector",
+            "Line ministries, states and regulators: explain sector outcomes behind the headline",
+            "CAUTION: FY26 FAE growth is an early estimate and must not be presented as a final revised",
+            "CAUTION: Low headline CPI can coexist with firmer core components, so the aggregate must be"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

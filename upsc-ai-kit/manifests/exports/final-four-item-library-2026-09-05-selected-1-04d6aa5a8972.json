@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-05T10:25:54+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "0c705569be46ac56c1ce5d5c91d639eeaa729c93baf102499f8ff88cbf8a4ed8",
+    "sha256_after": "0c705569be46ac56c1ce5d5c91d639eeaa729c93baf102499f8ff88cbf8a4ed8",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Indian Society": 1
+  },
+  "sections": {
+    "Indian Society — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 10304,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1735,
+    "json_count": 4344,
+    "total_bytes": 4222841481,
+    "by_extension": {
+      ".json": 4344,
+      ".md": 1735,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "indian-society-13",
+      "topic_title": "Communalism",
+      "subject": "Indian Society",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 13,
+      "source_record_id": "indian-society-13:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\13-Communalism",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-13\\g3\\indian-society-13_Complete-Learning-Session_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\13-Communalism\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "bdc9dd6d339efca9ff5c5add264a7ce62560611c71421cc80492f4e27b75afda",
+          "output_sha256": "bdc9dd6d339efca9ff5c5add264a7ce62560611c71421cc80492f4e27b75afda",
+          "source_output_equal": true,
+          "bytes": 661785
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-13\\g3\\indian-society-13_Solved-Practice-Workbook_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\13-Communalism\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "38332af4f88aa510e526cbfe9c60f66d1e3fa9ac37d7d22c68726959a3bb9c2c",
+          "output_sha256": "38332af4f88aa510e526cbfe9c60f66d1e3fa9ac37d7d22c68726959a3bb9c2c",
+          "source_output_equal": true,
+          "bytes": 500807
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Society\\SOC\\flowcharts\\iac-13\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\13-Communalism\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "cda7c1f6f17fbfa9550df1fe9ecdafa8bf0efd5abde6f22de0dbe3debbf518c2",
+          "output_sha256": "cda7c1f6f17fbfa9550df1fe9ecdafa8bf0efd5abde6f22de0dbe3debbf518c2",
+          "source_output_equal": true,
+          "bytes": 2133170
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Society\\SOC\\flowcharts\\iac-13\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\13-Communalism\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "9ae1eba75e586412c025ee326d782363b332b1b21328a44eafe829f5a9b073f2",
+          "output_sha256": "9ae1eba75e586412c025ee326d782363b332b1b21328a44eafe829f5a9b073f2",
+          "source_output_equal": true,
+          "bytes": 2534958
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Society\\SOC\\flowcharts\\iac-13\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\13-Communalism\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "0fd7d28eec7d45271a3ae400944fb64a8a378213c31e8f7909c058e45e279c90",
+          "output_sha256": "0fd7d28eec7d45271a3ae400944fb64a8a378213c31e8f7909c058e45e279c90",
+          "source_output_equal": true,
+          "bytes": 1874056
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Society\\SOC\\flowcharts\\iac-13\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\13-Communalism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "cbf00072ffae9b138600545d4fbbe2c78e7f2b0e21ca996bbd586380e0ae68a4",
+          "output_sha256": "cbf00072ffae9b138600545d4fbbe2c78e7f2b0e21ca996bbd586380e0ae68a4",
+          "source_output_equal": true,
+          "bytes": 4912
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Indian-Society\\SOC\\flowcharts\\iac-13\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Indian Society\\Subject-wide Syllabus\\13-Communalism\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "47592f018b6a807029b5c28c40fb6fb856dee13ad82d7b06cf420fe8dc69a90e",
+          "output_sha256": "47592f018b6a807029b5c28c40fb6fb856dee13ad82d7b06cf420fe8dc69a90e",
+          "source_output_equal": true,
+          "source_text_sha256": "cbf00072ffae9b138600545d4fbbe2c78e7f2b0e21ca996bbd586380e0ae68a4",
+          "normalized_text_equal": true,
+          "bytes": 57202
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 9,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 5,
+            "maximum_line_characters": 70,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 76,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 5,
+            "maximum_line_characters": 70,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 8,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 5,
+            "maximum_line_characters": 74,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 77,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 73,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 5,
+            "maximum_line_characters": 78,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 5,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 9,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 86,
+        "solved_practice_workbook": 47,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 86,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 47,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10848
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

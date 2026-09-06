@@ -1,0 +1,382 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "polity-46-50-hostile-semantic-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "polity_legal_source_hierarchy": true,
+    "manually_authored_twelve_panels": true
+  },
+  "topics": [
+    {
+      "topic_key": "polity-46",
+      "display_title": "Administrative Tribunals",
+      "active_generation": 5,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Tribunalisation: specialist justice under constitutional supervision",
+          "structural_type": "tribunal-purpose-map",
+          "ascii_lines": [
+            "ROOT QUESTION",
+            "Can specialist adjudication improve access and speed without creating executive-controlled courts?",
+            "",
+            "RATIONALE",
+            "expertise | flexible procedure | high-volume disposal | geographical access | lower cost.",
+            "",
+            "CONSTITUTIONAL SOURCE",
+            "42nd Amendment 1976 -> Part XIVA -> Articles 323A and 323B.",
+            "",
+            "STATUTORY SOURCE",
+            "Administrative Tribunals Act 1985 -> CAT and enabled SAT arrangements.",
+            "",
+            "NON-NEGOTIABLE FLOOR",
+            "judicial independence + natural justice + reasoned order",
+            "+ High Court/Supreme Court constitutional review.",
+            "MUST REMEMBER: Keep Article 323A administrative tribunals, Article 323B subject tribunals and",
+            "  the Administrative Tribunals Act, 1985 institutionally distinct."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Articles 323A and 323B compared",
+          "structural_type": "323a-323b-matrix",
+          "ascii_lines": [
+            "ARTICLE 323A",
+            "public-service recruitment and service conditions.",
+            "law-maker: Parliament.",
+            "administrative-tribunal design.",
+            "",
+            "ARTICLE 323B",
+            "listed subjects: tax, labour, land reform, elections and others in text.",
+            "law-maker: appropriate legislature within competence.",
+            "subject-specific tribunal/hierarchy.",
+            "",
+            "COMMON HISTORY",
+            "text allowed court exclusion.",
+            "",
+            "CURRENT LAW",
+            "L. Chandra Kumar (1997): Articles 226/227 and 32 judicial review is basic structure.",
+            "",
+            "TRAP",
+            "enabling Article != automatic creation of a tribunal."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "CAT jurisdiction and statutory exclusions",
+          "structural_type": "cat-jurisdiction-map",
+          "ascii_lines": [
+            "SECTION 14 COVERAGE",
+            "Union recruitment and service matters | notified authorities and bodies.",
+            "",
+            "SECTION 2 EXCLUSIONS",
+            "armed forces | Supreme Court or High Court staff",
+            "| secretarial staff of Parliament and State legislatures.",
+            "",
+            "PROCESS GATE",
+            "coverage -> departmental-remedy rule -> limitation -> Original Application.",
+            "",
+            "TRAP",
+            "public employment does not automatically create CAT jurisdiction."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-46\\g3-source\\polity-46_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "CAT and SAT institutional architecture",
+          "structural_type": "cat-sat-structure",
+          "ascii_lines": [
+            "CAT",
+            "Principal Bench + notified benches;",
+            "Chairperson + Judicial Members + Administrative Members under current law.",
+            "",
+            "JURISDICTION",
+            "covered Union recruitment/service matters and notified bodies.",
+            "",
+            "SAT",
+            "State service tribunal may exist through statutory arrangement;",
+            "States vary and some SATs have been abolished or not constituted.",
+            "",
+            "EXCLUSIONS",
+            "follow exact Administrative Tribunals Act text and notifications;",
+            "not every public employee or constitutional office enters CAT.",
+            "",
+            "CONTROL",
+            "appointments, tenure and service conditions must be stated with the 5 September 2026 caveat."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Application, procedure, powers and contempt",
+          "structural_type": "cat-process-rail",
+          "ascii_lines": [
+            "PROCESS",
+            "jurisdiction check -> Original Application -> notice/reply/record",
+            "-> interim issue -> hearing -> reasoned final order.",
+            "",
+            "PROCEDURE",
+            "natural justice | flexible procedure | not rigidly bound by CPC.",
+            "",
+            "POWERS",
+            "summons | documents | affidavits | commissions | review/other statutory powers.",
+            "",
+            "CONTEMPT",
+            "statutory power subject to governing law and constitutional review.",
+            "",
+            "LIMIT",
+            "procedural flexibility is not freedom from evidence, fairness, reasons or limitation rules."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "L. Chandra Kumar (1997) and the correct review chain",
+          "structural_type": "judicial-review-chain",
+          "ascii_lines": [
+            "ORIGINAL CONSTITUTIONAL DESIGN",
+            "tribunal as substitute first-instance forum + exclusion clauses.",
+            "",
+            "L. Chandra Kumar (1997)",
+            "High Court Articles 226/227 and Supreme Court Article 32 review are basic structure;",
+            "exclusion clauses invalid;",
+            "tribunals may test vires of subordinate legislation and statutes except parent legislation limits.",
+            "",
+            "OPERATIVE CHAIN",
+            "tribunal order -> territorial High Court Division Bench -> Supreme Court constitutional route.",
+            "",
+            "TRAP",
+            "routine direct appeal from CAT to Supreme Court",
+            "is not the ordinary substitute for High Court review.",
+            "CLOSE DISTINCTION: Preserve L. Chandra Kumar (1997)'s first-instance tribunal role together",
+            "  with Articles 226/227 review by the territorial High Court Division Bench."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Tribunal-independence doctrine across five decisions",
+          "structural_type": "tribunal-case-timeline",
+          "ascii_lines": [
+            "Union of India v. R. Gandhi (2010)",
+            "transferred judicial work requires equivalent independence, qualifications and safeguards.",
+            "",
+            "Madras Bar Association NTT (2014)",
+            "National Tax Tribunal design invalidated; core judicial functions cannot be executive-dominated.",
+            "",
+            "Madras Bar Association IV (2020)",
+            "Tribunal Rules scrutinised; selection and tenure safeguards reinforced.",
+            "",
+            "Madras Bar Association V (2021)",
+            "short tenure, age and executive override defects invalidated in the 2021 ordinance/Act line.",
+            "",
+            "Rojer Mathew v. South Indian Bank (2019)",
+            "Finance Act/rules route and tribunal independence examined.",
+            "",
+            "Madras Bar Association tribunal reforms (2025)",
+            "reported 2025 INSC 1330 continues the constitutional control and directs institutional reform.",
+            "",
+            "LIMIT",
+            "service-condition detail remains date-sensitive; doctrine is stable, implementation is not."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Rationalisation, abolition and access-to-justice consequences",
+          "structural_type": "rationalisation-balance",
+          "ascii_lines": [
+            "2021 RATIONALISATION",
+            "abolish specified appellate bodies -> transfer functions to courts/other forums",
+            "-> common service framework.",
+            "",
+            "POSSIBLE GAIN",
+            "less fragmentation | fewer duplicative bodies | clearer appeal path.",
+            "",
+            "POSSIBLE COST",
+            "specialised expertise lost | burden shifted to High Courts",
+            "| vacancies and transition delay | access becomes geographically harder.",
+            "",
+            "SAT VARIATION",
+            "abolition/merger differs by State and statute; no uniform live SAT map should be invented.",
+            "",
+            "TEST",
+            "pendency outcome + bench capacity + independence + user cost + transitional clarity."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "CAT, courts, commissions and ADR distinguished",
+          "structural_type": "institution-comparison-grid",
+          "ascii_lines": [
+            "CAT",
+            "statutory service adjudication -> binding reasoned order -> High Court review.",
+            "",
+            "HIGH COURT",
+            "constitutional court -> writ/supervisory jurisdiction -> broad public-law control.",
+            "",
+            "COMMISSION",
+            "investigation/advice/report unless statute grants adjudicatory power.",
+            "",
+            "LOK ADALAT",
+            "statutory settlement/conciliation -> award based on compromise.",
+            "",
+            "ARBITRATION",
+            "consensual private adjudication -> limited statutory challenge.",
+            "",
+            "DEPARTMENTAL APPEAL",
+            "administrative reconsideration -> not independent judicial adjudication.",
+            "",
+            "TRAP",
+            "specialised does not automatically mean tribunal; binding does not automatically mean court."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Current judicial and legislative status control",
+          "structural_type": "current-status-control",
+          "ascii_lines": [
+            "19 NOVEMBER 2025",
+            "2025 INSC 1330 invalidated specified re-enacted service-condition defects",
+            "and directed a National Tribunals Commission.",
+            "",
+            "9 MARCH 2026 ORDER",
+            "specified incumbent continuity until 8 September 2026 or maximum age.",
+            "",
+            "AUGUST 2026 CAUTION",
+            "enactment != commencement != operational commission.",
+            "Use Gazette commencement and appointment records before claiming operation.",
+            "",
+            "CURRENT CONTROL: 5 SEPTEMBER 2026",
+            "2025 INSC 1330 remains the merits baseline; the 9 March 2026 order",
+            "continues specified incumbents only until 8 September 2026/maximum age.",
+            "Parliament passed the Tribunals Reforms Bill, 2026, but no official",
+            "assented Act or commencement notification was located; do not call it operative."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-46\\g3-source\\polity-46_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Exact PYQ demand and answer architecture",
+          "structural_type": "tribunal-pyq-map",
+          "ascii_lines": [
+            "2018 GS-II 15/250",
+            "court-jurisdiction curtailment + validity + competency.",
+            "",
+            "2019 GS-II 10/150",
+            "CAT as independent judicial authority.",
+            "",
+            "2024 GS-II 10/150",
+            "Lok Adalat versus arbitration + civil/criminal jurisdiction.",
+            "",
+            "2025 GS-II 10/150",
+            "need for tribunals + assess 2021 rationalisation.",
+            "",
+            "EXECUTION",
+            "thesis -> law -> mechanism -> case -> constraint -> verdict."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-46\\g3-source\\polity-46_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "UPSC synthesis and reform architecture",
+          "structural_type": "tribunal-answer-synthesis",
+          "ascii_lines": [
+            "PRELIMS FIREWALL",
+            "323A service != 323B listed subjects | enabling != creating",
+            "| CAT != constitutional court | flexible != arbitrary",
+            "| first instance != final constitutional word | rationalisation != pendency cure.",
+            "",
+            "MAINS SPINE",
+            "rationale -> constitutional/statutory source -> structure/jurisdiction",
+            "-> procedure/powers -> L. Chandra Kumar (1997) chain",
+            "-> independence cases -> rationalisation/access -> reform.",
+            "",
+            "REFORM",
+            "independent appointments body | secure adequate tenure | transparent vacancies",
+            "| administrative autonomy | national data/standards | regional benches",
+            "| coherent appeals | periodic performance review without decisional interference.",
+            "",
+            "VERDICT",
+            "tribunals are justified only as independent, accessible specialist courts",
+            "under constitutional supervision.",
+            "LEGAL/SOURCE LIMIT: Parliament passed the Tribunals Reforms Bill, 2026, but no official",
+            "  assented Act or commencement notification was located by 5 September 2026."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\polity-46_Complete-Learning-Session_2026-08-25.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\46_Administrative-Tribunals.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-46\\g5\\polity-46_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

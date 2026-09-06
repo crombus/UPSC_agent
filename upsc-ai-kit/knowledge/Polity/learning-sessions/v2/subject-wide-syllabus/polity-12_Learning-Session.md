@@ -345,6 +345,43 @@ topic_key: polity-12
 
 > **Best conclusion:** India is neither administratively unitary nor a compact federation. It is a constitutionally federal, Union-weighted and politically bargaining system whose legitimacy depends on converting superior Union capacity into consultation rather than domination.
 
+### Semantic-completeness ownership and PYQ control
+
+- **Federal test:** India combines dual polity, a written and supreme Constitution,
+  distributed competence, partial rigidity, independent judicial review and
+  bicameral representation. Article 1's 'Union of States' denies a compact-based
+  right to secede; it does not erase the federal distribution.
+- **Distribution:** Articles 245-246 and the Seventh Schedule allocate fields;
+  Article 248 with Union List Entry 97 gives Parliament the residue. Article 246A
+  is a special concurrent GST power, not a new Concurrent-List entry.
+- **Union tilt:** Articles 3, 249, 250, 252, 253, 256-257, 312 and 352-356, the
+  Governor's Union appointment, single citizenship, integrated services and
+  emergency conversion explain why India is a holding-together federation with a
+  strong Centre.
+- **Basic structure:** Kesavananda Bharati supplies the limitation method and S.R.
+  Bommai expressly treats federalism as a basic feature. Union strength cannot be
+  converted into unlimited central supremacy over constitutionally assigned State
+  fields.
+- **Working modes:** cooperative, competitive and coercive federalism are analytical
+  descriptions. GST Council, Finance Commission, Inter-State Council and Zonal
+  Councils are different in source, membership and legal effect.
+- **Asymmetry:** Articles 371-371J, Fifth/Sixth Schedule arrangements and Union
+  territories show differentiated integration. Article 370 is inoperative and
+  Jammu and Kashmir is not presently a special-status State.
+- **Owned comparison:** the complete federal-unitary comparison belongs here:
+  levels, source of powers, constitutional supremacy, amendment, judiciary,
+  representation and territorial security. Topic 13 owns the detailed operating
+  relations between the two levels.
+- **Current assent law:** the 20 November 2025 Article 143 opinion rejects fixed
+  judicial timelines and deemed assent, recognises Article 200 discretion, and
+  permits limited mandamus only for prolonged, unexplained, indefinite inaction.
+- **Fiscal and representational control:** the Sixteenth Finance Commission report
+  for 2026-31 retains forty-one per cent vertical devolution. The 131st Amendment
+  Bill, 2026 was defeated and its proposed 850-seat ceiling never became law.
+- **Four-ledger/PYQ control:** the federal/unitary taxonomy, exact centralising
+  devices, cases, commissions, current fiscal/assent/representation status and all
+  routed demands were checked; direct and cross-topic ownership remain labelled.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Diagnostic MCQs

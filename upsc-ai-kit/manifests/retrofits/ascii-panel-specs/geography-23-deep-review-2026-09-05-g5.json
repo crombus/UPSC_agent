@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "geography_process_spatial_causal_control": true,
+    "map_and_current_status_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-23",
+      "display_title": "Cool Temperate Continental Siberian",
+      "active_generation": 5,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g5\\geography-23_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Siberian climate world distribution",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "SIBERIA -> largest single taiga band, continental interior",
+            "CANADA -> boreal belt from Rockies to Atlantic coast",
+            "SCANDINAVIA -> Sweden and Finland share the European taiga",
+            "SOUTHERN HEMISPHERE -> absent: no land broad enough at these latitudes",
+            "MUST REMEMBER: Cool temperate continental Siberian/D climate develops in high-latitude",
+            "  interiors with long severe winters, short summers, strong annual range, low precipitation",
+            "  and taiga conifers adapted to frozen soils and brief growth seasons.",
+            "MUST REMEMBER: Cool temperate continental Siberian/D climate develops in high-latitude",
+            "  interiors with long severe winters, short summers, strong annual range, low precipitation",
+            "  and taiga conifers adapted to frozen soils and brief growth seasons."
+          ],
+          "source_references": [
+            "Northern Hemisphere exclusivity and boundaries",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\23_Cool-Temperate-Continental-Siberian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\23_India-Subalpine-Alpine-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g4\\geography-23_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g5\\geography-23_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Climate character profile",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "WINTER -> bitterly cold, long, sub-Arctic; very large annual range",
+            "SUMMER -> short, cool; brief warm growing season",
+            "RAINFALL -> low to moderate; light summer maximum",
+            "PRECIPITATION TYPE -> mostly snow in winter; frontal and convectional in summer"
+          ],
+          "source_references": [
+            "Climate character",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\23_Cool-Temperate-Continental-Siberian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\23_India-Subalpine-Alpine-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g4\\geography-23_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g5\\geography-23_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Conifer adaptation chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CONICAL SHAPE -> sheds snow load, prevents branch breakage",
+            "NEEDLE LEAVES -> reduced surface area minimises transpiration loss",
+            "SHALLOW ROOTS -> exploit thin active layer above permafrost",
+            "RESULT -> conifers dominate where broadleaf trees cannot survive"
+          ],
+          "source_references": [
+            "Conifer adaptations",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\23_Cool-Temperate-Continental-Siberian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\23_India-Subalpine-Alpine-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g4\\geography-23_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g5\\geography-23_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Softwood economic chain",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "UNIFORM LOW-DIVERSITY STANDS -> mechanised extraction feasible",
+            "LONG-FIBRE SOFTWOOD -> ideal for pulp and paper manufacture",
+            "FROZEN GROUND AND RIVERS -> natural winter haulage surfaces",
+            "SPRING THAW -> river floating of logs to downstream mills"
+          ],
+          "source_references": [
+            "Softwood economic value",
+            "Biological poverty as commercial advantage",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\23_Cool-Temperate-Continental-Siberian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\23_India-Subalpine-Alpine-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g4\\geography-23_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g5\\geography-23_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Carbon storage mechanism",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "COLD SLOWS DECOMPOSITION -> organic matter accumulates in soil and peat",
+            "PERMAFROST -> locks carbon in frozen ground for millennia",
+            "BELOW-GROUND CARBON -> disproportionately large compared to above-ground",
+            "RESULT -> boreal zone is a globally significant carbon reservoir"
+          ],
+          "source_references": [
+            "Carbon storage mechanism",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\23_Cool-Temperate-Continental-Siberian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\23_India-Subalpine-Alpine-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g4\\geography-23_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g5\\geography-23_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Fire-thaw feedback loop",
+          "structural_type": "hazard-flow",
+          "ascii_lines": [
+            "WARMING -> lengthens fire season and thaws permafrost",
+            "FIRE -> releases stored carbon directly through combustion",
+            "THAW -> exposes frozen organic matter to decomposition",
+            "FEEDBACK -> released carbon causes further warming (self-reinforcing)"
+          ],
+          "source_references": [
+            "Fire-thaw feedback and sink-to-source risk",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\23_Cool-Temperate-Continental-Siberian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\23_India-Subalpine-Alpine-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g4\\geography-23_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g5\\geography-23_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Permafrost engineering impact",
+          "structural_type": "hazard-flow",
+          "ascii_lines": [
+            "THAWING PERMAFROST -> ground loses bearing capacity",
+            "ROADS AND RAILWAYS -> subsidence, cracking, realignment needed",
+            "PIPELINES -> stress fractures and leak risk",
+            "BUILDINGS -> foundation failure across settled sub-Arctic"
+          ],
+          "source_references": [
+            "Permafrost engineering consequence",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\23_Cool-Temperate-Continental-Siberian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\23_India-Subalpine-Alpine-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g4\\geography-23_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g5\\geography-23_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Himalayan altitudinal zonation",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "SUBTROPICAL -> chir pine belt, 100-200 cm rain, fire-prone",
+            "TEMPERATE -> deodar, spruce in western Himalaya",
+            "SUBALPINE -> silver-fir (Abies) at 2200-3000 m, NW and NE",
+            "ALPINE -> bugyals/mergs: treeless pastures above treeline"
+          ],
+          "source_references": [
+            "Himalayan altitudinal zonation",
+            "Chir pine and fire ecology",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\23_Cool-Temperate-Continental-Siberian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\23_India-Subalpine-Alpine-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g4\\geography-23_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g5\\geography-23_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Himalayan conifer identification",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SILVER-FIR (Abies) -> 2200-3000 m; planking, pulp, paper, matches",
+            "SPRUCE (Picea smithiana) -> high wet-temperate belt; softwood",
+            "DEODAR (Cedrus deodara) -> western Himalaya; durable timber",
+            "CHIR PINE -> subtropical montane; resinous, fire-prone"
+          ],
+          "source_references": [
+            "Key Himalayan conifers",
+            "Chir pine and fire ecology",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\23_Cool-Temperate-Continental-Siberian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\23_India-Subalpine-Alpine-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g4\\geography-23_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g5\\geography-23_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Treeline and alpine pastures",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "CONIFEROUS FOREST -> gives way at the treeline altitude",
+            "ALPINE SCRUB -> dwarf shrubs in transition zone",
+            "BUGYALS/MERGS -> open grassy meadows for summer grazing",
+            "SNOWLINE -> permanent snow above the pastoral belt",
+            "CLOSE DISTINCTION: Taiga is boreal conifer forest south of tundra, permafrost extent varies",
+            "  and is not synonymous with all seasonally frozen ground, and continental subarctic climate",
+            "  differs from polar ET/EF thresholds.",
+            "CLOSE DISTINCTION: Taiga is boreal conifer forest south of tundra, permafrost extent varies",
+            "  and is not synonymous with all seasonally frozen ground, and continental subarctic climate",
+            "  differs from polar ET/EF thresholds."
+          ],
+          "source_references": [
+            "Treeline and alpine ecology",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\23_Cool-Temperate-Continental-Siberian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\23_India-Subalpine-Alpine-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g4\\geography-23_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g5\\geography-23_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Biome comparison strip",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "TAIGA -> high-latitude coniferous, below-ground carbon, softwood economy",
+            "STEPPE -> mid-latitude grassland, chernozem soil, mechanised grain",
+            "SAVANNA -> tropical grassland, laterised soil, pastoral subsistence",
+            "DISTINGUISHER -> latitude, rainfall regime, soil type and economic system",
+            "EVIDENCE LIMIT: Cold alone does not determine vegetation: moisture, active-layer depth, fire",
+            "  and disturbance matter; India's subalpine/alpine belts are elevation-controlled analogues",
+            "  with monsoonal and Himalayan differences.",
+            "EVIDENCE LIMIT: Cold alone does not determine vegetation: moisture, active-layer depth, fire",
+            "  and disturbance matter; India's subalpine/alpine belts are elevation-controlled analogues",
+            "  with monsoonal and Himalayan differences."
+          ],
+          "source_references": [
+            "Savanna-steppe-taiga comparison",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\23_Cool-Temperate-Continental-Siberian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\23_India-Subalpine-Alpine-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g4\\geography-23_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g5\\geography-23_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Siberian climate answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> Northern Hemisphere boreal coniferous belt with extreme continental range",
+            "LOCATE -> Siberia, Canada, Scandinavia; absent in Southern Hemisphere",
+            "EXPLAIN -> cold-adaptation, softwood economy, carbon storage, fire-thaw feedback",
+            "QUALIFY -> India's altitudinal analogue; transparent zero-direct-PYQ boundary"
+          ],
+          "source_references": [
+            "PYQ boundary and answer spine",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\23_Cool-Temperate-Continental-Siberian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\23_India-Subalpine-Alpine-Belt.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g4\\geography-23_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g5\\geography-23_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

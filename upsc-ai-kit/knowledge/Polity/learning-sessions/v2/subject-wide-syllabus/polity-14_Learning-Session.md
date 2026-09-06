@@ -397,6 +397,43 @@ The exam-safe limitation is that pART II - Optional Advanced enrichment.
 - Distinguish political instability from constitutional impossibility.
 - Maintain political neutrality in Governor appointment and conduct.
 
+### Semantic-completeness ownership and PYQ control
+
+- **Part XVIII map:** Article 352 is National Emergency; Articles 353-354 state
+  its executive, legislative and revenue effects; Article 355 is the Union duty;
+  Articles 356-357 govern State constitutional failure; Articles 358-359 govern
+  specified rights effects; Article 360 is Financial Emergency.
+- **Article 352:** only war, external aggression or armed rebellion qualify.
+  Written Union-Cabinet advice, one-month parliamentary approval by special
+  majority, six-month renewals, revocation and the one-tenth Lok Sabha notice
+  route inserted by the 44th Amendment must remain exact.
+- **Rights firewall:** Article 358 concerns Article 19 only, operates automatically
+  only during war/external-aggression emergency, and protects only emergency-
+  related law/action carrying the required recital. Article 359 requires a
+  Presidential order and cannot suspend enforcement of Articles 20 and 21.
+- **Article 356:** the proclamation needs parliamentary approval within two months,
+  continues in six-month blocks and ordinarily cannot exceed three years; beyond
+  one year the Article 356(5) conditions apply. Parliament assumes legislative
+  power but High Court jurisdiction cannot be taken over.
+- **Judicial control:** S.R. Bommai makes the proclamation reviewable and prefers a
+  floor test for disputed majority; Rameshwar Prasad condemns premature dissolution.
+  Article 355, Article 365 and a Governor's report do not create automatic failure.
+- **ADM Jabalpur:** the majority's habeas-corpus approach is repudiated; Justice
+  H.R. Khanna's dissent is vindicated and K.S. Puttaswamy records the overruling.
+  Do not use the case to negate the express post-44th Article 20/21 protection.
+- **Article 360:** two-month parliamentary approval and indefinite continuation
+  until revocation are textually distinct from Article 352/356. It has never been
+  proclaimed and does not automatically suspend Fundamental Rights.
+- **Current status:** the Gazette proclamation dated 4 February 2026 revoked the
+  Manipur Article 356 proclamation of 13 February 2025. No National Emergency or
+  Financial Emergency was located in force on 5 September 2026.
+- **Four-ledger hostile audit:** triggers, dates, amendment history, cases, rights
+  effects, federal consequences, commissions, current proclamations and every
+  routed 2018-2026 demand were independently checked.
+- **PYQ boundary:** the 2018 Article 356 objective demand is direct; the 2023
+  detention/POTA demand is retained only as an expressly supporting route and no
+  direct Mains question is fabricated.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Original hard MCQ set - strict A -> B -> C -> D rotation

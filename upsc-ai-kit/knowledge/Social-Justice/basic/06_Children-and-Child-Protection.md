@@ -295,3 +295,27 @@ nutrition to education, digital participation, adolescence and rehabilitation.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Child rights integrate survival, development, protection and participation, with the best-interests principle, evolving capacities and age-specific safeguards across nutrition, education, labour, marriage, trafficking, care and juvenile justice.
+- **Indispensable distinction and prerequisite taxonomy:** A child is not defined by one uniform age across every statute, child protection is not institutionalisation, rescue is not rehabilitation, legal prohibition is not eradication, and household poverty cannot justify coercive removal without due process.
+- **Mechanism, implementation and evidence control:** Distinguish JJ Act, POCSO, child-labour and marriage laws, RTE and schemes by purpose and age; map child, family, CWC/JJB, police, school, health system, DCPU, court, grievance and rehabilitation with privacy and participation safeguards.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 2026-09-06: MWCD, India Code and NCPCR remain authoritative; age, forum and procedure are statute-specific, and rescue, adjudication, restoration and rehabilitation are separate stages. Sources: https://wcd.gov.in/acts/juvenile-justice-care-and-protection-children-act-2015; https://www.indiacode.nic.in/handle/123456789/2079; https://ncpcr.gov.in/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Social Justice owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/social justice taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Exactly one General Studies Mains demand and one objective demand are routed to this topic in the audited routing ledgers, and the ownership is stated openly rather than inflated. The Mains demand is 2025 General Studies Paper II Question 18, reproduced below as a demand card with its printed year, paper, question number, directive, marks and word limit exactly as the audited 2024-2025 Mains routing ledger records them and as the locally held official 2025 General Studies Paper II prints them. The objective demand is 2018 Prelims General Studies Paper I Question 30 on the subject matter of the two international labour conventions numbered 138 and 182, and the audited 2018-2023 Prelims routing ledger records the official keys for that period as not held locally, so no option, key or inferred answer is recorded for it and it is not converted into a solved question. No further Mains demand is claimed for this topic: the audited ledgers route the tribal-knowledge, tribal-diversity and tribal-development demands to the Indian Society owner, the mobile-phone and socialisation demand to the family and kinship owner, and no separate child-labour or juvenile-justice Mains demand appears in the ledgers for the covered years, so none is manufactured here. The locally held OCR-searchable official General Studies papers were read only to confirm the printed wording of the routed Mains demand; no question was invented from them and no marking scheme or page precision was imported. Every model solution below is original work written to the repository's examiner-grade standard using the claim, named evidence, analysis and qualification pattern. Each model solution opens with its analytical claim so that the evidence which follows does argumentative rather than decorative work.

@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "geography_process_spatial_causal_control": true,
+    "map_and_current_status_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-04",
+      "display_title": "Weathering, Mass Movement, Groundwater / India Erosion-Landslides-Groundwater",
+      "active_generation": 11,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Exogenic source-transfer-storage system",
+          "structural_type": "process-system-overview",
+          "source_references": [
+            "{'sessions': [1], 'sections': ['BASIC LEARNING SESSION', 'Process system and definitions'], 'markdown_lines': ['43-124', '2965-2971']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+          ],
+          "ascii_text": "+-------------- EXOGENIC LANDSCAPE SYSTEM --------------+\n| CENTRAL QUESTION: How is rock converted into landform? |\n+---------------------------------------------------------+\n                         |\n                ROCK EXPOSED AT SURFACE\n                         |\n                 weathering in place\n                         |\n            regolith and loose material supplied\n              /                         \\\n gravity-driven transfer          agent-driven transfer\n mass wasting downslope           water, wind, ice, waves\n              \\                         /\n                 erosion + transport\n                         |\n                     deposition\n                         |\n                 temporary storage\n                         |\n                    remobilisation\n\nDenudation is collective lowering; weathering, erosion and mass wasting\nare linked but distinct processes.\nMUST REMEMBER: Weathering prepares material in situ, mass movement transfers it downslope,\n  running water removes it, and groundwater follows infiltration, percolation, aquifer storage\n  and discharge; Indian analysis links lithology, slope, rainfall, land use and pumping.\nMUST REMEMBER: Weathering prepares material in situ, mass movement transfers it downslope,\n  running water removes it, and groundwater follows infiltration, percolation, aquifer storage\n  and discharge; Indian analysis links lithology, slope, rainfall, land use and pumping."
+        },
+        {
+          "title": "Weathering taxonomy, controls, regolith and soil formation",
+          "structural_type": "classification-tree-and-controls-matrix",
+          "source_references": [
+            "{'sessions': [2, 3, 4], 'sections': ['BASIC LEARNING SESSION', 'Process system and definitions', 'Regolith, soils and erosion'], 'markdown_lines': ['125-466', '2968-2981']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+          ],
+          "ascii_text": "                       WEATHERING\n              +------------+------------+\n              |            |            |\n          MECHANICAL     CHEMICAL     BIOLOGICAL\n          thermal        solution     roots/burrows\n          unloading      carbonation  organic acids\n          frost          hydration    human exposure\n          salt           hydrolysis\n          wet-dry        oxidation\n              \\            |            /\n               +------ REGOLITH -------+\n                         |\n organic inputs + organisms + translocation + time\n                         |\n                       SOIL\n                 O -> A/E -> B -> C -> R\n                 removal    gain     parent rock\n\nCONTROLS CONVERGE: mineralogy + joints/bedding + climate + relief\n                   + drainage + organisms + time + land use\n\nBlack soil link: Deccan basalt parent, shrink-swell clay, deep dry cracks;\nparent material does not alone determine every soil property."
+        },
+        {
+          "title": "Soil erosion sequence and watershed control logic",
+          "structural_type": "causal-sequence-and-intervention-chain",
+          "source_references": [
+            "{'sessions': [5], 'sections': ['BASIC LEARNING SESSION', 'Regolith, soils and erosion'], 'markdown_lines': ['467-562', '2974-2981']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+          ],
+          "ascii_text": "RAINDROP IMPACT + BARE SOIL + RUNOFF CONCENTRATION\n                         |\n                 diffuse sheet removal\n                         |\n                  small rill channels\n                         |\n                 entrenched gullies\n                         |\n             ravine landscape: Chambal cue\n\nWATERSHED RESPONSE\ncover soil -> slow runoff -> shorten slope length -> contour/terrace\n-> protect drainage -> treat gully head -> rehabilitate catchment\n\nWIND BRANCH\nsurface creep -> saltation -> suspension\n\nCOASTAL BRANCH\nwave erosion belongs to the coastal-process system; use only when asked.\n\nA check dam alone cannot replace upstream cover, drainage and maintenance."
+        },
+        {
+          "title": "Mass-movement taxonomy and slope-stability mechanism",
+          "structural_type": "classification-tree-with-force-balance",
+          "source_references": [
+            "{'sessions': [6, 7], 'sections': ['BASIC LEARNING SESSION', 'Mass movement and India'], 'markdown_lines': ['563-738', '2982-2991']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+          ],
+          "ascii_text": "                     MASS MOVEMENT\n       +------------------+------------------+\n       |                  |                  |\n     SLOW               SLIDE/FALL          FLOW/AVALANCHE\n creep, solifluction    rockfall            debris flow\n                       translational slide  earth or mud flow\n                       rotational slump     rock/debris avalanche\n                                            snow avalanche\n\nSLOPE BALANCE\nresisting strength = cohesion + friction + structural support\n                         versus\ndriving stress = gravity component + loading + toe loss\n                         |\nrain infiltration -> added weight + pore pressure -> lower effective strength\nroad or river cut -> steepening / undercutting -> support loss\nquake / quarry / leakage / drainage change -> trigger or amplification\n                         |\n                 FAILURE WHEN DRIVE > RESISTANCE\n\nMaterial, movement and water define the event; speed alone does not."
+        },
+        {
+          "title": "India landslide geography, risk production and mitigation stack",
+          "structural_type": "india-regional-map-and-hazard-response",
+          "source_references": [
+            "{'sessions': [8, 9, 10], 'sections': ['BASIC LEARNING SESSION', 'Mass movement and India'], 'markdown_lines': ['739-1003', '2987-2998']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+          ],
+          "ascii_text": "INDIA LANDSLIDE GEOGRAPHY\nHimalaya / NE : young relief + fractures + incision + rain + seismicity\nWestern Ghats : escarpment + deep weathering + orographic rain + cuts\nNilgiris      : weathered slopes + roads + settlements + drainage change\n                         |\nPREDISPOSITION -> TRIGGER -> MOVEMENT -> EXPOSURE -> LOSS\n geology/slope    rain/quake   slide/flow   road/town    disaster\n                         |\nGSI LADDER\ninventory -> susceptibility/hazard study -> post-event diagnosis\n-> monitoring / NLFC support -> decision communication\n                         |\nMITIGATION STACK\navoid unsafe siting -> manage drainage -> protect toe\n-> stabilise slope -> bioengineer -> control spoil/quarrying\n-> maintain works -> warn/close routes -> evacuate and prepare\n\nInventory maps past events; susceptibility maps relative likelihood;\nneither is a deterministic event prediction.\nJoshimath is a multi-causal subsidence case, not a synonym for landslide."
+        },
+        {
+          "title": "Groundwater architecture from recharge to wells",
+          "structural_type": "hydrogeological-cross-section",
+          "source_references": [
+            "{'sessions': [11, 12, 13, 14], 'sections': ['BASIC LEARNING SESSION', 'Groundwater fundamentals'], 'markdown_lines': ['1004-1368', '2999-3015']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+          ],
+          "ascii_text": "rain -> infiltration -> soil moisture -> percolation -> recharge\n\nGROUND SURFACE      recharge area                 spring at slope\n-------------------------v------------------------------->\nZONE OF AERATION       perched water on local aquitard\n-------------------- capillary fringe -------------------\nWATER TABLE       UNCONFINED AQUIFER        pumping well\n~~~~~~~~~~~~~~~~~~~~~~~\\________________ cone of depression\nAQUITARD          slow transmission\n---------------------------------------------------------\nCONFINED AQUIFER   pressure; water rises to potentiometric level\n=========================================================\nAQUICLUDE          practically no transmission\n\nporosity = fraction of voids | permeability = connected flow capacity\naquifer stores and transmits | aquitard transmits slowly\nartesian water rises under pressure; it flows only if head exceeds ground\n\nBudget: change in storage = recharge + inflow - discharge - pumping - outflow."
+        },
+        {
+          "title": "India groundwater depletion, quality and subsidence geography",
+          "structural_type": "regional-comparison-and-causal-convergence",
+          "source_references": [
+            "{'sessions': [14, 15, 16, 17], 'sections': ['BASIC LEARNING SESSION', 'India groundwater geography, quantity and quality'], 'markdown_lines': ['1276-1671', '3016-3028']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+          ],
+          "ascii_text": "+----------------+----------------------+-------------------------+\n| REGION         | AQUIFER FORM         | MAJOR PRESSURE          |\n+----------------+----------------------+-------------------------+\n| Indo-Gangetic  | layered alluvium     | depletion, As, nitrate  |\n| Peninsular     | weathered fractures  | discontinuous storage   |\n| Deccan basalt  | contacts + fractures | uneven well yield       |\n| Arid hard rock | limited recharge     | fluoride, salinity      |\n| Coastal belt   | fresh-saline wedge   | intrusion and upconing  |\n+----------------+----------------------+-------------------------+\n\ncrop-water demand + cheap energy + private wells + urban growth\n+ weak aquifer regulation + limited recharge\n                         |\nfalling head -> lower yield -> higher lift cost -> unequal access\n                         |\ncompressible sediment: pore-pressure loss -> compaction -> subsidence\n\nQuality paths differ: arsenic redox | fluoride rock-water interaction\nnitrate sewage/fertiliser | salinity coastal or inland\nQuantity and quality require separate evidence, though each limits usable water."
+        },
+        {
+          "title": "Recharge, demand governance and integrated Mains answer spine",
+          "structural_type": "institutional-intervention-stack-and-answer-spine",
+          "source_references": [
+            "{'sessions': [18, 19, 20], 'sections': ['BASIC LEARNING SESSION', 'Institutions, current anchors and scheme status', 'Answer-writing keyword bank'], 'markdown_lines': ['1672-1970', '3029-3046']}",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+          ],
+          "ascii_text": "GROUNDWATER SECURITY REQUIRES TWO CONVERGING ARMS\n\nSUPPLY / RECHARGE                    DEMAND / GOVERNANCE\nroof and runoff capture              crop-water alignment\nmanaged aquifer recharge             efficient irrigation\nwatershed treatment                  well registration/metering\nspring-shed restoration              conjunctive use and reuse\nquality-safe source water            community water budgets\nmaintenance and monitoring           enforceable state/local rules\n              \\                         /\n               +---- AQUIFER PLAN ----+\n                         |\nCGWB assessment + NAQUIM mapping + state regulation\n+ Atal Bhujal learning + local institutions + public data\n                         |\nANSWER SPINE\n1 define stock-flow-quality system | 2 draw aquifer or India map\n3 diagnose regional mechanism       | 4 use dated evidence carefully\n5 match intervention to cause       | 6 qualify limits and equity\n\nRecharge structures are inputs, not proof of water-table recovery.\nDesalination supplies water but does not restore freshwater aquifer head."
+        },
+        {
+          "title": "Evidence ladder and confidence control",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "EVIDENCE LADDER",
+            "1. Start with macro-phase, then regional sequence, dated stratum and assemblage.",
+            "2. Read cores, flakes, debitage, wear and raw material before inferring behaviour.",
+            "3. Separate lithic technology from hominin taxonomy, language and group identity.",
+            "VERDICT: Broad chronology guides comparison; site context controls the claim."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Examiner traps and contested boundaries",
+          "structural_type": "trap-matrix",
+          "ascii_lines": [
+            "CLOSE DISTINCTIONS",
+            "1. Acheulian is a technology, Levallois a method and microlith a tool element.",
+            "2. Bhimbetka spans many periods; rock-art meaning and dates remain indirect.",
+            "3. Mesolithic domestication and sedentariness must be established site by site.",
+            "VERDICT: Transition means changing combinations, overlap and regional coexistence.",
+            "CLOSE DISTINCTION: Weathering differs from erosion, porosity from permeability, water table",
+            "  from piezometric surface, aquifer from aquitard, and slump/slide/flow/creep require",
+            "  movement-specific geometry rather than the generic label landslide."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Integrated answer spine and qualified conclusion",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "ANSWER SPINE",
+            "1. Use the 2019 Denisovan PYQ to separate population, place and geological period.",
+            "2. Compare phases through tools, ecology, mobility, habitation, art and burials.",
+            "3. Write claim -> site/assemblage -> significance -> date/context limit -> verdict.",
+            "VERDICT: Indian prehistory is regionally varied history reconstructed without texts.",
+            "EVIDENCE LIMIT: A trigger such as intense rain is not the complete cause: antecedent moisture,",
+            "  discontinuities, toe cutting, drainage and construction condition failure; groundwater",
+            "  trends and notified areas require dated official status."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Evidence ladder and confidence control — DEEP-REVIEW SYNTHESIS 2",
+          "structural_type": "evidence-matrix",
+          "ascii_lines": [
+            "EVIDENCE LADDER",
+            "1. = from source book = inference / standard knowledge = current affairs.",
+            "2. Agriculture.md uses \"chernozem\", \"alluvial\" and \"black soil\" as...",
+            "3. Evidence units available in this file",
+            "VERDICT: Source type controls the strength and limits of the historical claim."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\04_Weathering-MassMovement-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\04_India-Erosion-Landslides-Groundwater.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g10\\geography-04_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

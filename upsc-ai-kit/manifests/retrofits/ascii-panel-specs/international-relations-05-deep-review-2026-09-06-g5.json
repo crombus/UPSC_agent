@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "international-relations-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "international_relations_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "international-relations-05",
+      "display_title": "Central Asia, Eurasia and Connectivity",
+      "active_generation": 5,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-05\\g5\\international-relations-05_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Central question and the root access condition",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "CENTRAL QUESTION -> how does a state with no land access build Eurasian presence?",
+            "ROOT CONDITION -> Pakistan and Afghanistan lie between India and the five Republics",
+            "  |",
+            "  v",
+            "AXIS 1 -> POLICY: Connect Central Asia Policy, 2012, broad-based",
+            "AXIS 2 -> FORUMS: SCO seat | India-Central Asia Summit and Dialogue",
+            "AXIS 3 -> CORRIDORS: INSTC | Chabahar | Ashgabat Agreement",
+            "RULE -> the constraint is the spine of the answer, not an afterthought",
+            "MUST REMEMBER: Central Asia and Eurasia policy connects continental access, energy,..."
+          ],
+          "source_references": [
+            "What this Eurasian owner holds and how its boundaries are routed",
+            "The two-route geography problem as a binding structural constraint",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-05\\g5\\international-relations-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "The two overland routes and why both fail",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "ROUTE A -> via Afghanistan and Pakistan",
+            "  FAILS ON: transit unavailability and Afghan instability",
+            "ROUTE B -> via Xinjiang, then across the Karakoram and Himalayan ranges",
+            "  FAILS ON: extreme geography plus required Chinese cooperation",
+            "SOURCE -> Sikri on any Eurasia-to-India pipeline avoiding Afghanistan or Pakistan",
+            "VERDICT -> a structural constraint, not an engineering problem awaiting a solution"
+          ],
+          "source_references": [
+            "The two-route geography problem as a binding structural constraint",
+            "Afghanistan as simultaneously the bridge and the barrier",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-05\\g5\\international-relations-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Policy classification: what broad-based actually means",
+          "structural_type": "classification",
+          "ascii_lines": [
+            "CONNECT CENTRAL ASIA POLICY, LAUNCHED 2012",
+            "  |-- POLITICAL   -> sustained high-level engagement with the five Republics",
+            "  |-- SECURITY    -> counter-terrorism and security-council-level consultation",
+            "  |-- ECONOMIC    -> market integration proposal with the Eurasian space",
+            "  +-- CULTURAL    -> people-to-people and cultural connections",
+            "FIVE REPUBLICS -> Kazakhstan | Kyrgyzstan | Tajikistan | Turkmenistan | Uzbekistan",
+            "TRAP -> reducing a broad-based policy to an energy policy misstates its scope"
+          ],
+          "source_references": [
+            "The five Republics and the Connect Central Asia Policy",
+            "Energy and resources as the substantive interest",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-05\\g5\\international-relations-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Economic-integration instrument: proposal to open negotiation",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "PROPOSED -> Comprehensive Economic Cooperation Agreement with the Eurasian space",
+            "-> 3 JUNE 2017, ST PETERSBURG: India-EAEU free-trade negotiation formally begins",
+            "-> 22-25 JUNE 2026, MOSCOW: second round held",
+            "STATUS -> under negotiation; neither signed nor in force",
+            "ALSO CITED -> Eurasian Economic Community and the Custom Union as existing fora",
+            "RULE -> cite the dated rounds as engagement, never as an achieved agreement"
+          ],
+          "source_references": [
+            "Multilateral channel use and the proposed economic-integration instrument",
+            "The India-Eurasian Economic Union free-trade negotiation and its exact status",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-05\\g5\\international-relations-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "SCO participation matrix as of 3 August 2026",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "FULL MEMBERS (10) | Belarus | China | India | Iran | Kazakhstan",
+            "                  | Kyrgyzstan | Pakistan | Russia | Tajikistan | Uzbekistan",
+            "OBSERVERS (2)     | Afghanistan | Mongolia",
+            "DIALOGUE PARTNERS | 15",
+            "ACCESSIONS -> Pakistan 2017 | Iran 2023 | Belarus 2024",
+            "1 SEPTEMBER 2025 -> decision envisaging a single SCO Partner status",
+            "PENDING -> the enabling amendments had not entered into force",
+            "TRAP -> Sikri's observer list is period-specific and must be dated when quoted"
+          ],
+          "source_references": [
+            "Shanghai Cooperation Organisation membership tiers as they now stand",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-05\\g5\\international-relations-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Dedicated regional format and its honest gap",
+          "structural_type": "timeline",
+          "ascii_lines": [
+            "27 JANUARY 2022 -> first India-Central Asia Summit, held virtually",
+            "6 JUNE 2025 -> fourth India-Central Asia Dialogue, New Delhi, foreign-minister level;",
+            "  envisaged preparing the ground for a second summit",
+            "16 OCTOBER 2025 -> third meeting of Security Council Secretaries and NSAs, Bishkek",
+            "31 AUGUST-1 SEPTEMBER 2025 -> SCO summit at Tianjin adopts the Tianjin Declaration;",
+            "  Kyrgyzstan chairs 2025-26 with the next summit scheduled for Bishkek",
+            "GAP -> no second leader-level summit recorded as held by 3 August 2026",
+            "CLOSE DISTINCTION: INSTC, Chabahar, Ashgabat Agreement, SCO and bilateral connectivity..."
+          ],
+          "source_references": [
+            "The dedicated India-Central Asia Summit and Dialogue format",
+            "The Tianjin summit and the current chairmanship",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-05\\g5\\international-relations-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Chabahar instrument priced component by component",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "13 MAY 2024 -> ten-year long-term contract, India Ports Global Limited with",
+            "  Iran's Ports and Maritime Organisation",
+            "USD 120 MILLION -> announced equipment investment; LEVEL: announcement",
+            "USD 250 MILLION -> announced credit window for mutually identified infrastructure",
+            "LEVEL -> announced credit window, not disbursed finance",
+            "RULE -> announcement and delivery are different evidentiary levels"
+          ],
+          "source_references": [
+            "The Chabahar contract as the concrete connectivity instrument",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-05\\g5\\international-relations-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Sanctions exposure path and its consequence",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "16 SEPTEMBER 2025 -> United States State Department revokes the 2018 waiver",
+            "-> 29 SEPTEMBER 2025: revocation takes effect",
+            "-> ASSURANCE: non-exposure runs only to 26 April 2026",
+            "-> BEYOND THAT DATE: status requires fresh verification",
+            "LEGAL CHARACTER -> another state's domestic sanctions posture; exposure for entities",
+            "NOT -> an international legal obligation binding on India",
+            "CONSEQUENCE -> the Iran work-around becomes a financing question, not a map question"
+          ],
+          "source_references": [
+            "The revoked Chabahar waiver as third-party sanctions exposure",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-05\\g5\\international-relations-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Corridor status ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "ANNOUNCED FRAMEWORK -> International North-South Transport Corridor",
+            "  |-- intended to reach Central Asia and Eurasia bypassing Pakistan",
+            "  |-- OPERATING SEGMENTS exist",
+            "  +-- NOT a completed, full-capacity corridor",
+            "25 APRIL 2011 -> Ashgabat Agreement signed; India joined from 3 FEBRUARY 2018",
+            "  |-- multimodal transport and transit corridor to the Persian Gulf and Gulf of Oman",
+            "  +-- LIMIT: a facilitation framework, not an infrastructure-finance mechanism",
+            "RULE -> capacity and completion claims need independent dated verification"
+          ],
+          "source_references": [
+            "The corridor instruments and their exact completion status",
+            "The Ashgabat Agreement as a transit-rules framework",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-05\\g5\\international-relations-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Competitive field and the limits of Indian agency",
+          "structural_type": "problem-response",
+          "ascii_lines": [
+            "PROBLEM -> the region abuts major Asian powers and will always attract foreign presences",
+            "  RESPONSE: sustained diplomacy through a seat, a dialogue and corridor instruments",
+            "PROBLEM -> Russian and Chinese proximity is greater than India's",
+            "  RESPONSE: accept co-determined outcomes rather than claiming regional primacy",
+            "PROBLEM -> mixed SCO membership includes Pakistan",
+            "  RESPONSE: the forum sustains engagement; it cannot resolve transit access",
+            "VERDICT -> multi-actor competition, expressly not Indian determinism"
+          ],
+          "source_references": [
+            "The New Great Game as multi-actor competition without Indian determinism",
+            "Membership without privileged access",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-05\\g5\\international-relations-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Functional cooperation inside strategic mistrust",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "COMPETITION -> India and China seek energy from the same sources",
+            "EFFECT -> that competition only benefits the energy producers",
+            "SIKRI'S RECOMMENDATION -> develop an understanding on energy with China",
+            "COEXISTENCE -> cooperation on one function alongside unresolved strategic mistrust",
+            "BOUNDARY -> the wider India-China strategic relationship belongs to topic 03",
+            "USE -> avoids the crude choice between pure rivalry and naive partnership"
+          ],
+          "source_references": [
+            "Cooperative management of a shared external dependency",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-05\\g5\\international-relations-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Answer spine for a Central Asia demand",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> state the absence of direct land access before listing any opportunity",
+            "BUILD -> policy, forums and corridors, each with one dated instrument at its level",
+            "TEST -> price sanctions exposure, the unheld summit and the open negotiation honestly",
+            "CLOSE -> convert goodwill into reliable access as the graded verdict, predicting nothing",
+            "EVIDENCE LIMIT: STATUS / LEVELS / IMPLEMENTATION: Map India-Iran-Russia-Central Asia..."
+          ],
+          "source_references": [
+            "Substituted dependency rather than eliminated dependency",
+            "Honest question ownership for this Eurasian owner",
+            "upsc-ai-kit\\knowledge\\International-Relations\\basic\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\International-Relations\\advanced\\05_Central-Asia-Eurasia-and-Connectivity.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\International-Relations\\IR\\learning-sessions\\iac-05\\g5\\international-relations-05_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

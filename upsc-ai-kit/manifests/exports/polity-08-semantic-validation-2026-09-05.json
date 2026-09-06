@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "topic_key": "polity-08",
+  "record_id": "polity-08:learner-v2:g9",
+  "approval": false,
+  "result": "passed",
+  "ten_gates": {
+    "literal_syllabus": true,
+    "implied_prerequisites": true,
+    "textbook_taxonomy": true,
+    "pyq_demands": true,
+    "hostile_absence_search": true,
+    "canonical_owner": true,
+    "cross_owner_boundaries": true,
+    "answer_architecture": true,
+    "factual_verification": true,
+    "dependent_artifacts": true
+  },
+  "checks": {
+    "approval": true,
+    "h2": true,
+    "pyq": true,
+    "answers": true,
+    "rotation": true,
+    "flows": true,
+    "layout": true,
+    "library": true,
+    "reconciliation": true,
+    "validator": true,
+    "authoritative_live_sources": true
+  },
+  "metrics": {
+    "question_count": 9,
+    "mcq_count": 28,
+    "mcq_keys": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "main_pages": 72,
+    "workbook_pages": 22,
+    "main_layout": {
+      "page_count": 72,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 22,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "ascii_panel_count": 12,
+    "graphical_stage_count": 12,
+    "polity_review_control_count": 3,
+    "learner_session_count": 15,
+    "visual_asset_references": 15,
+    "targeted_tests": 59,
+    "deliverable_hashes_checked": 9
+  },
+  "deliverable_hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\polity-08_Complete-Learning-Session_2026-09-05.md": "3f1a768604966dc83653707934ec886df8de4a9935d4dc368b46468efcd30fa4",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\polity-08_Solved-Practice-Workbook_2026-09-05.md": "f4e64a952517751bf3028156fafb7ab55c988bfc5be62993c594ec6f334b624a",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\polity-08_Complete-Learning-Session_2026-09-05.pdf": "864e633f2b68510843ad7e14cc71d8326f832380aff980d17c847aa0c9277a26",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-08\\g9\\polity-08_Solved-Practice-Workbook_2026-09-05.pdf": "bc4b88225e7fe05ea1e7eb426d910743da32d23a1059251cdaf1c9659c9d5250",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-08\\carvaka-g9\\master.png": "08654f04b08127b98ec934e88e0ee0288a164b6cd9eb4b460cc8dab1d043c524",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-08\\carvaka-g9\\poster.pdf": "5811393be463612aee3281935de0e5bee2f11a27e68ea8a010775b04b71f996f",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-08\\carvaka-g9\\tiled.pdf": "ef22645f4bcc986672d02316f1c0440fd688eee14ee7cebd36b59676c15b207f",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-08\\carvaka-g9\\ascii-master.pdf": "51a1e9f4d7cb72e97329cb09c630667a46d0757866abd5fa9f2160e80c35bc92",
+    "notes\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\flowcharts\\polity-08\\carvaka-g9\\ascii-master.txt": "4514b930b0ba15965d67c85b9315e606a02b2bb091553add96af3687fdeef407"
+  },
+  "deliverable_hash_errors": {},
+  "reconciled_topic": {
+    "topic_key": "polity-08",
+    "title": "Directive Principles",
+    "old_record_id": "polity-08:learner-v2:g8",
+    "new_record_id": "polity-08:learner-v2:g9",
+    "old_generation": 8,
+    "new_generation": 9,
+    "old_score": 92,
+    "new_score": 98,
+    "scores": {
+      "complete_learning_session": 39,
+      "solved_practice_workbook": 30,
+      "graphical_flowchart": 15,
+      "ascii_master_flowchart": 14,
+      "total": 98
+    },
+    "approval": false,
+    "status": "passed",
+    "validation": "upsc-ai-kit\\manifests\\exports\\polity-08-learner-v2-g9-2026-09-05-validation.json",
+    "review_started_at": "2026-09-05T11:32:21.679216+00:00",
+    "identities": {
+      "export": "polity-08:learner-v2:g9",
+      "master": "polity-08:learner-v2:g9",
+      "review": "polity-08:learner-v2:g9"
+    },
+    "generations": {
+      "export": 9,
+      "master": 9,
+      "review": 9
+    },
+    "review_score": 98,
+    "review_state": "passed",
+    "approval_states": {
+      "export": false,
+      "master": "Approval pending",
+      "review": false
+    },
+    "mismatch_count": 0
+  },
+  "next_topic_key": "polity-09"
+}

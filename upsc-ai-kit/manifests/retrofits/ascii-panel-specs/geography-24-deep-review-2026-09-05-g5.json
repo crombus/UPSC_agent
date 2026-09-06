@@ -1,0 +1,252 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "geography_process_spatial_causal_control": true,
+    "map_and_current_status_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-24",
+      "display_title": "Cool Temperate Eastern Margin Laurentian",
+      "active_generation": 5,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g5\\geography-24_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Laurentian climate world distribution",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "NE NORTH AMERICA -> eastern Canada, Maritime Provinces, New England, Newfoundland",
+            "EAST ASIA -> eastern Siberia, North China, Manchuria, Korea, northern Japan",
+            "SOUTHERN HEMISPHERE -> absent: continents too narrow at relevant latitudes",
+            "INTERMEDIATE -> between British maritime (west) and Siberian continental (east)",
+            "MUST REMEMBER: Cool temperate eastern-margin Laurentian climate combines continental air",
+            "  masses, maritime moisture, warm-current influence and frontal/cyclonic precipitation,",
+            "  yielding warm summers, cold winters and year-round precipitation in northeastern North",
+            "  America and northeast Asia.",
+            "MUST REMEMBER: Cool temperate eastern-margin Laurentian climate combines continental air",
+            "  masses, maritime moisture, warm-current influence and frontal/cyclonic precipitation,",
+            "  yielding warm summers, cold winters and year-round precipitation in northeastern North",
+            "  America and northeast Asia."
+          ],
+          "source_references": [
+            "Two-region restriction",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\24_Cool-Temperate-Eastern-Margin-Laurentian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\24_India-Eastern-Himalaya-Temperate.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g4\\geography-24_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g5\\geography-24_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Seasonal rainfall mechanism",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "WINTER -> continental Westerlies blow dry frigid air from interior",
+            "SUMMER -> easterly ocean winds bring moisture-laden rainfall",
+            "RESULT -> distinct summer maximum: two-thirds of 30-60 inches total",
+            "CONTRAST -> reverse of British type's autumn-winter rain pattern"
+          ],
+          "source_references": [
+            "Cold dry winter mechanism",
+            "Warm summer rainfall maximum",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\24_Cool-Temperate-Eastern-Margin-Laurentian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\24_India-Eastern-Himalaya-Temperate.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g4\\geography-24_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g5\\geography-24_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Current convergence and fishing",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "OYASHIO (cold) + KUROSHIO (warm) -> convergence off northern Japan",
+            "LABRADOR (cold) + ATLANTIC (warm) -> convergence over Grand Banks shelf",
+            "NUTRIENT MIXING -> plankton bloom on broad shallow shelves",
+            "RESULT -> world-historic fishing grounds plus persistent fog"
+          ],
+          "source_references": [
+            "Oyashio-Kuroshio convergence",
+            "Grand Banks and Labrador-Atlantic meeting",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\24_Cool-Temperate-Eastern-Margin-Laurentian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\24_India-Eastern-Himalaya-Temperate.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g4\\geography-24_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g5\\geography-24_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Fog as dual phenomenon",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FOG AS HAZARD -> poor visibility, navigational danger, shipping risk",
+            "FOG AS INDICATOR -> biological marker of nutrient-rich mixing waters",
+            "MECHANISM -> warm moist air chilled from below by cold current contact",
+            "EXAM USE -> same process creates hazard and resource simultaneously"
+          ],
+          "source_references": [
+            "Fog as dual-purpose phenomenon",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\24_Cool-Temperate-Eastern-Margin-Laurentian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\24_India-Eastern-Himalaya-Temperate.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g4\\geography-24_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g5\\geography-24_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Mixed forest transition strip",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "BRITISH MARGIN -> deciduous broadleaf forest (mild, wet winters)",
+            "LAURENTIAN ZONE -> mixed coniferous-deciduous transition forest",
+            "SIBERIAN INTERIOR -> evergreen coniferous taiga (cold, dry winters)",
+            "GRADIENT -> maritime to continental controls the forest composition"
+          ],
+          "source_references": [
+            "Cool temperate mixed forest",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\24_Cool-Temperate-Eastern-Margin-Laurentian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\24_India-Eastern-Himalaya-Temperate.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g4\\geography-24_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g5\\geography-24_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Fishery governance lesson",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "PHYSICAL BASE -> current convergence + shallow shelf + nutrient mixing",
+            "INITIAL OUTCOME -> one of the world's most productive fisheries",
+            "OVEREXPLOITATION -> Grand Banks cod stocks collapsed despite same oceanography",
+            "CONCLUSION -> governance, not geography, determines sustainability"
+          ],
+          "source_references": [
+            "Fishery governance constraint",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\24_Cool-Temperate-Eastern-Margin-Laurentian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\24_India-Eastern-Himalaya-Temperate.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g4\\geography-24_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g5\\geography-24_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Eastern Himalaya analogue map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "DARJEELING-SIKKIM -> cool humid eastern-facing temperate belt",
+            "ARUNACHAL PRADESH -> warm perhumid ecoregion, growing period > 210 days",
+            "MONSOON RAINFALL -> summer maximum parallels Laurentian pattern",
+            "HILL FOG -> persistent mist mirrors Newfoundland-Japan fog zones"
+          ],
+          "source_references": [
+            "Eastern Himalaya as India analogue",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\24_Cool-Temperate-Eastern-Margin-Laurentian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\24_India-Eastern-Himalaya-Temperate.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g4\\geography-24_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g5\\geography-24_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Teesta basin profile",
+          "structural_type": "hazard-flow",
+          "ascii_lines": [
+            "STEEP RELIEF -> rapid runoff, high sediment load",
+            "EXTREME MONSOON RAIN -> triggers landslides and GLOF events",
+            "CORRIDOR CONCENTRATION -> NH-10, hydropower on narrow valley floor",
+            "2023 SOUTH LHONAK GLOF -> illustrates combined relief-rain-infrastructure risk"
+          ],
+          "source_references": [
+            "Teesta drainage and hazards",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\24_Cool-Temperate-Eastern-Margin-Laurentian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\24_India-Eastern-Himalaya-Temperate.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g4\\geography-24_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g5\\geography-24_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Darjeeling tea economy",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DARJEELING HILLS -> low-yield, premium, GI-protected orthodox tea",
+            "BRAHMAPUTRA VALLEY -> bulk-tea belt, high-volume production",
+            "ELEVATION -> estates at 900-1800 m; too cold above, too warm below",
+            "DISTINCTION -> hill quality versus valley quantity mirrors altitude control"
+          ],
+          "source_references": [
+            "Darjeeling premium tea",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\24_Cool-Temperate-Eastern-Margin-Laurentian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\24_India-Eastern-Himalaya-Temperate.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g4\\geography-24_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g5\\geography-24_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "British-Laurentian comparison",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "RAINFALL -> British: autumn-winter max | Laurentian: summer max",
+            "WINTER -> British: mild, wet (maritime) | Laurentian: cold, dry (continental)",
+            "ECONOMY -> British: land-based agriculture | Laurentian: sea-based fishing",
+            "FOREST -> British: deciduous broadleaf | Laurentian: mixed transitional",
+            "CLOSE DISTINCTION: Laurentian differs from warm China type by colder winters and from Siberian",
+            "  interiors by stronger maritime precipitation; warm and cold currents modify coastal",
+            "  gradients but do not alone create the whole climate.",
+            "CLOSE DISTINCTION: Laurentian differs from warm China type by colder winters and from Siberian",
+            "  interiors by stronger maritime precipitation; warm and cold currents modify coastal",
+            "  gradients but do not alone create the whole climate."
+          ],
+          "source_references": [
+            "Intermediate type identity",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\24_Cool-Temperate-Eastern-Margin-Laurentian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\24_India-Eastern-Himalaya-Temperate.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g4\\geography-24_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g5\\geography-24_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Polar-vortex hypothesis",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "STRATOSPHERIC DISRUPTION -> weakens polar vortex containment",
+            "COLD ARCTIC AIR -> spills southward into mid-latitudes",
+            "LAURENTIAN REGIONS -> experience severe cold outbreaks",
+            "STATUS -> actively debated link to Arctic sea-ice loss; not settled science",
+            "EVIDENCE LIMIT: Current-air-mass causation must be expressed as interaction with latitude,",
+            "  westerlies and continentality; Eastern Himalayan temperate zones are topographic analogues",
+            "  rather than Laurentian climatic replicas.",
+            "EVIDENCE LIMIT: Current-air-mass causation must be expressed as interaction with latitude,",
+            "  westerlies and continentality; Eastern Himalayan temperate zones are topographic analogues",
+            "  rather than Laurentian climatic replicas."
+          ],
+          "source_references": [
+            "Polar vortex and mid-latitude linkage",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\24_Cool-Temperate-Eastern-Margin-Laurentian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\24_India-Eastern-Himalaya-Temperate.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g4\\geography-24_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g5\\geography-24_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Laurentian answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> intermediate type between British maritime and Siberian continental",
+            "LOCATE -> NE North America and East Asia only; absent in Southern Hemisphere",
+            "EXPLAIN -> cold dry winters, summer rain maximum, current convergence, fog-fishery",
+            "QUALIFY -> India Eastern Himalaya analogue; transparent zero-direct-PYQ boundary"
+          ],
+          "source_references": [
+            "PYQ boundary and answer spine",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\24_Cool-Temperate-Eastern-Margin-Laurentian.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\24_India-Eastern-Himalaya-Temperate.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g4\\geography-24_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g5\\geography-24_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

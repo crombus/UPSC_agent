@@ -1,0 +1,1658 @@
+EXPORT-PDF-COMMAND-INDEX.md
+EXPORT-PDF-STATUS.json
+KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md
+notes\Economy\learning-session-v2\subject-wide-syllabus\indexes\NOTES-PDF-INDEX.md
+notes\Economy\learning-session-v2\subject-wide-syllabus\indexes\TOPIC-COVERAGE-INDEX.md
+notes\Economy\learning-session-v2\subject-wide-syllabus\indexes\WORKBOOK-PDF-INDEX.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-01-g5-to-g6.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-02-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-03-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-04-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-05-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-06-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-07-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-08-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-09-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-10-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-11-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-12-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-13-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-14-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-15-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-16-g4-to-g5.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-17-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-18-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-19-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-20-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-21-g2-to-g23.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-21-g23-to-g24.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-22-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-23-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-24-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-25-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-26-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-27-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-28-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-29-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-30-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\repair-prompts\economy-31-g2-to-g3.md
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.json
+notes\Final-Learning-Packages\_deep-content-review\REVIEW-TRACKER.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-01\economy-01-g5-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-01\economy-01-g6-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-01\g5-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-01\g6-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-01\g6-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-01\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-02\economy-02-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-02\economy-02-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-02\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-02\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-02\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-02\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-03\economy-03-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-03\economy-03-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-03\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-03\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-03\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-03\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-04\economy-04-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-04\economy-04-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-04\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-04\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-04\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-04\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-05\economy-05-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-05\economy-05-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-05\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-05\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-05\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-05\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-06\economy-06-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-06\economy-06-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-06\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-06\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-06\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-06\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-07\economy-07-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-07\economy-07-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-07\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-07\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-07\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-07\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-08\economy-08-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-08\economy-08-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-08\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-08\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-08\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-08\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-09\economy-09-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-09\economy-09-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-09\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-09\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-09\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-09\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-10\economy-10-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-10\economy-10-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-10\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-10\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-10\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-10\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-11\economy-11-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-11\economy-11-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-11\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-11\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-11\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-11\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-12\economy-12-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-12\economy-12-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-12\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-12\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-12\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-12\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-13\economy-13-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-13\economy-13-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-13\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-13\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-13\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-13\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-14\economy-14-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-14\economy-14-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-14\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-14\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-14\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-14\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-15\economy-15-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-15\economy-15-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-15\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-15\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-15\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-15\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-16\economy-16-g4-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-16\economy-16-g5-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-16\g4-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-16\g5-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-16\g5-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-16\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-17\economy-17-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-17\economy-17-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-17\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-17\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-17\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-17\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-18\economy-18-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-18\economy-18-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-18\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-18\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-18\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-18\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-19\economy-19-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-19\economy-19-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-19\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-19\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-19\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-19\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-20\economy-20-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-20\economy-20-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-20\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-20\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-20\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-20\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\economy-21-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\economy-21-g23-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\economy-21-g23-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\economy-21-g24-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g10-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g11-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g12-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g13-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g14-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g15-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g16-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g17-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g18-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g19-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g20-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g21-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g22-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g23-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g23-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g23-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g24-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g24-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g4-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g5-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g6-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g7-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g8-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\g9-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-21\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-22\economy-22-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-22\economy-22-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-22\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-22\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-22\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-22\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-23\economy-23-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-23\economy-23-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-23\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-23\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-23\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-23\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-24\economy-24-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-24\economy-24-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-24\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-24\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-24\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-24\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-25\economy-25-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-25\economy-25-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-25\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-25\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-25\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-25\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-26\economy-26-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-26\economy-26-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-26\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-26\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-26\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-26\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-27\economy-27-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-27\economy-27-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-27\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-27\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-27\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-27\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-28\economy-28-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-28\economy-28-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-28\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-28\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-28\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-28\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-29\economy-29-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-29\economy-29-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-29\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-29\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-29\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-29\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-30\economy-30-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-30\economy-30-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-30\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-30\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-30\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-30\REVIEW-REPORT.md
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-31\economy-31-g2-baseline-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-31\economy-31-g3-final-audit.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-31\g2-identity-lock.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-31\g3-generation-allocation.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-31\g3-identity-recheck.json
+notes\Final-Learning-Packages\_deep-content-review\reviews\economy-31\REVIEW-REPORT.md
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\01-National-Income-GDP-GVA-GNP-NDP-and-Measurement\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\01-National-Income-GDP-GVA-GNP-NDP-and-Measurement\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\01-National-Income-GDP-GVA-GNP-NDP-and-Measurement\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\01-National-Income-GDP-GVA-GNP-NDP-and-Measurement\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\01-National-Income-GDP-GVA-GNP-NDP-and-Measurement\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\01-National-Income-GDP-GVA-GNP-NDP-and-Measurement\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\01-National-Income-GDP-GVA-GNP-NDP-and-Measurement\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\01-National-Income-GDP-GVA-GNP-NDP-and-Measurement\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\02-Growth-Development-HDI-IHDI-and-MPI\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\02-Growth-Development-HDI-IHDI-and-MPI\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\02-Growth-Development-HDI-IHDI-and-MPI\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\02-Growth-Development-HDI-IHDI-and-MPI\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\02-Growth-Development-HDI-IHDI-and-MPI\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\02-Growth-Development-HDI-IHDI-and-MPI\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\02-Growth-Development-HDI-IHDI-and-MPI\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\02-Growth-Development-HDI-IHDI-and-MPI\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\03-Inflation-Price-Indices-and-Business-Cycles\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\03-Inflation-Price-Indices-and-Business-Cycles\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\03-Inflation-Price-Indices-and-Business-Cycles\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\03-Inflation-Price-Indices-and-Business-Cycles\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\03-Inflation-Price-Indices-and-Business-Cycles\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\03-Inflation-Price-Indices-and-Business-Cycles\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\03-Inflation-Price-Indices-and-Business-Cycles\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\03-Inflation-Price-Indices-and-Business-Cycles\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\04-RBI-Monetary-Policy-and-Liquidity-Management\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\04-RBI-Monetary-Policy-and-Liquidity-Management\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\04-RBI-Monetary-Policy-and-Liquidity-Management\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\04-RBI-Monetary-Policy-and-Liquidity-Management\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\04-RBI-Monetary-Policy-and-Liquidity-Management\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\04-RBI-Monetary-Policy-and-Liquidity-Management\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\04-RBI-Monetary-Policy-and-Liquidity-Management\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\04-RBI-Monetary-Policy-and-Liquidity-Management\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\05-Banking-Structure-NBFCs-and-Financial-Regulation\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\05-Banking-Structure-NBFCs-and-Financial-Regulation\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\05-Banking-Structure-NBFCs-and-Financial-Regulation\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\05-Banking-Structure-NBFCs-and-Financial-Regulation\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\05-Banking-Structure-NBFCs-and-Financial-Regulation\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\05-Banking-Structure-NBFCs-and-Financial-Regulation\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\05-Banking-Structure-NBFCs-and-Financial-Regulation\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\05-Banking-Structure-NBFCs-and-Financial-Regulation\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\06-NPAs-Basel-Norms-Resolution-and-Financial-Inclusion\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\06-NPAs-Basel-Norms-Resolution-and-Financial-Inclusion\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\06-NPAs-Basel-Norms-Resolution-and-Financial-Inclusion\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\06-NPAs-Basel-Norms-Resolution-and-Financial-Inclusion\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\06-NPAs-Basel-Norms-Resolution-and-Financial-Inclusion\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\06-NPAs-Basel-Norms-Resolution-and-Financial-Inclusion\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\06-NPAs-Basel-Norms-Resolution-and-Financial-Inclusion\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\06-NPAs-Basel-Norms-Resolution-and-Financial-Inclusion\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\07-Money-Market-Capital-Market-and-Financial-Instruments\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\07-Money-Market-Capital-Market-and-Financial-Instruments\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\07-Money-Market-Capital-Market-and-Financial-Instruments\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\07-Money-Market-Capital-Market-and-Financial-Instruments\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\07-Money-Market-Capital-Market-and-Financial-Instruments\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\07-Money-Market-Capital-Market-and-Financial-Instruments\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\07-Money-Market-Capital-Market-and-Financial-Instruments\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\07-Money-Market-Capital-Market-and-Financial-Instruments\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\08-Securities-Bonds-Equity-Derivatives-and-Investment-Funds\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\08-Securities-Bonds-Equity-Derivatives-and-Investment-Funds\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\08-Securities-Bonds-Equity-Derivatives-and-Investment-Funds\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\08-Securities-Bonds-Equity-Derivatives-and-Investment-Funds\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\08-Securities-Bonds-Equity-Derivatives-and-Investment-Funds\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\08-Securities-Bonds-Equity-Derivatives-and-Investment-Funds\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\08-Securities-Bonds-Equity-Derivatives-and-Investment-Funds\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\08-Securities-Bonds-Equity-Derivatives-and-Investment-Funds\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\09-Union-Budget-Fiscal-Policy-and-Deficit-Indicators\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\09-Union-Budget-Fiscal-Policy-and-Deficit-Indicators\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\09-Union-Budget-Fiscal-Policy-and-Deficit-Indicators\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\09-Union-Budget-Fiscal-Policy-and-Deficit-Indicators\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\09-Union-Budget-Fiscal-Policy-and-Deficit-Indicators\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\09-Union-Budget-Fiscal-Policy-and-Deficit-Indicators\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\09-Union-Budget-Fiscal-Policy-and-Deficit-Indicators\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\09-Union-Budget-Fiscal-Policy-and-Deficit-Indicators\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\10-Taxation-GST-Finance-Commission-and-Fiscal-Federalism\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\10-Taxation-GST-Finance-Commission-and-Fiscal-Federalism\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\10-Taxation-GST-Finance-Commission-and-Fiscal-Federalism\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\10-Taxation-GST-Finance-Commission-and-Fiscal-Federalism\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\10-Taxation-GST-Finance-Commission-and-Fiscal-Federalism\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\10-Taxation-GST-Finance-Commission-and-Fiscal-Federalism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\10-Taxation-GST-Finance-Commission-and-Fiscal-Federalism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\10-Taxation-GST-Finance-Commission-and-Fiscal-Federalism\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\11-Land-Reforms-Green-Revolution-and-Cropping-Systems\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\11-Land-Reforms-Green-Revolution-and-Cropping-Systems\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\11-Land-Reforms-Green-Revolution-and-Cropping-Systems\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\11-Land-Reforms-Green-Revolution-and-Cropping-Systems\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\11-Land-Reforms-Green-Revolution-and-Cropping-Systems\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\11-Land-Reforms-Green-Revolution-and-Cropping-Systems\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\11-Land-Reforms-Green-Revolution-and-Cropping-Systems\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\11-Land-Reforms-Green-Revolution-and-Cropping-Systems\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\12-MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\12-MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\12-MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\12-MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\12-MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\12-MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\12-MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\12-MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\13-APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\13-APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\13-APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\13-APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\13-APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\13-APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\13-APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\13-APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\14-Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\14-Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\14-Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\14-Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\14-Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\14-Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\14-Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\14-Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\15-Food-Processing-Cold-Chains-and-Value-Addition\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\15-Food-Processing-Cold-Chains-and-Value-Addition\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\15-Food-Processing-Cold-Chains-and-Value-Addition\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\15-Food-Processing-Cold-Chains-and-Value-Addition\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\15-Food-Processing-Cold-Chains-and-Value-Addition\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\15-Food-Processing-Cold-Chains-and-Value-Addition\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\15-Food-Processing-Cold-Chains-and-Value-Addition\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\15-Food-Processing-Cold-Chains-and-Value-Addition\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\16-Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\16-Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\16-Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\16-Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\16-Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\16-Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\16-Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\16-Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\17-MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\17-MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\17-MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\17-MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\17-MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\17-MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\17-MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\17-MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\18-Infrastructure-PPPs-Logistics-and-Public-Investment\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\18-Infrastructure-PPPs-Logistics-and-Public-Investment\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\18-Infrastructure-PPPs-Logistics-and-Public-Investment\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\18-Infrastructure-PPPs-Logistics-and-Public-Investment\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\18-Infrastructure-PPPs-Logistics-and-Public-Investment\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\18-Infrastructure-PPPs-Logistics-and-Public-Investment\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\18-Infrastructure-PPPs-Logistics-and-Public-Investment\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\18-Infrastructure-PPPs-Logistics-and-Public-Investment\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\19-Balance-of-Payments-Exchange-Rates-and-Forex-Reserves\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\19-Balance-of-Payments-Exchange-Rates-and-Forex-Reserves\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\19-Balance-of-Payments-Exchange-Rates-and-Forex-Reserves\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\19-Balance-of-Payments-Exchange-Rates-and-Forex-Reserves\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\19-Balance-of-Payments-Exchange-Rates-and-Forex-Reserves\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\19-Balance-of-Payments-Exchange-Rates-and-Forex-Reserves\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\19-Balance-of-Payments-Exchange-Rates-and-Forex-Reserves\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\19-Balance-of-Payments-Exchange-Rates-and-Forex-Reserves\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\20-Foreign-Trade-WTO-FTAs-and-Protectionism\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\20-Foreign-Trade-WTO-FTAs-and-Protectionism\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\20-Foreign-Trade-WTO-FTAs-and-Protectionism\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\20-Foreign-Trade-WTO-FTAs-and-Protectionism\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\20-Foreign-Trade-WTO-FTAs-and-Protectionism\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\20-Foreign-Trade-WTO-FTAs-and-Protectionism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\20-Foreign-Trade-WTO-FTAs-and-Protectionism\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\20-Foreign-Trade-WTO-FTAs-and-Protectionism\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\21-IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\21-IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\21-IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\21-IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\21-IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\21-IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\21-IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\21-IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\22-Employment-Labour-Codes-Skills-and-Demographic-Dividend\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\22-Employment-Labour-Codes-Skills-and-Demographic-Dividend\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\22-Employment-Labour-Codes-Skills-and-Demographic-Dividend\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\22-Employment-Labour-Codes-Skills-and-Demographic-Dividend\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\22-Employment-Labour-Codes-Skills-and-Demographic-Dividend\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\22-Employment-Labour-Codes-Skills-and-Demographic-Dividend\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\22-Employment-Labour-Codes-Skills-and-Demographic-Dividend\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\22-Employment-Labour-Codes-Skills-and-Demographic-Dividend\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\23-Poverty-Inequality-Social-Sector-and-Inclusive-Growth\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\23-Poverty-Inequality-Social-Sector-and-Inclusive-Growth\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\23-Poverty-Inequality-Social-Sector-and-Inclusive-Growth\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\23-Poverty-Inequality-Social-Sector-and-Inclusive-Growth\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\23-Poverty-Inequality-Social-Sector-and-Inclusive-Growth\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\23-Poverty-Inequality-Social-Sector-and-Inclusive-Growth\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\23-Poverty-Inequality-Social-Sector-and-Inclusive-Growth\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\23-Poverty-Inequality-Social-Sector-and-Inclusive-Growth\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\24-Services-Digital-Economy-Fintech-and-Platform-Markets\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\24-Services-Digital-Economy-Fintech-and-Platform-Markets\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\24-Services-Digital-Economy-Fintech-and-Platform-Markets\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\24-Services-Digital-Economy-Fintech-and-Platform-Markets\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\24-Services-Digital-Economy-Fintech-and-Platform-Markets\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\24-Services-Digital-Economy-Fintech-and-Platform-Markets\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\24-Services-Digital-Economy-Fintech-and-Platform-Markets\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\24-Services-Digital-Economy-Fintech-and-Platform-Markets\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\25-Climate-Economics-Green-Finance-and-Circular-Economy\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\25-Climate-Economics-Green-Finance-and-Circular-Economy\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\25-Climate-Economics-Green-Finance-and-Circular-Economy\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\25-Climate-Economics-Green-Finance-and-Circular-Economy\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\25-Climate-Economics-Green-Finance-and-Circular-Economy\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\25-Climate-Economics-Green-Finance-and-Circular-Economy\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\25-Climate-Economics-Green-Finance-and-Circular-Economy\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\25-Climate-Economics-Green-Finance-and-Circular-Economy\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\26-Economic-Survey-Synthesis-and-Current-Macro-Dashboard\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\26-Economic-Survey-Synthesis-and-Current-Macro-Dashboard\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\26-Economic-Survey-Synthesis-and-Current-Macro-Dashboard\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\26-Economic-Survey-Synthesis-and-Current-Macro-Dashboard\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\26-Economic-Survey-Synthesis-and-Current-Macro-Dashboard\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\26-Economic-Survey-Synthesis-and-Current-Macro-Dashboard\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\26-Economic-Survey-Synthesis-and-Current-Macro-Dashboard\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\26-Economic-Survey-Synthesis-and-Current-Macro-Dashboard\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\27-Digital-Agriculture-Agritech-and-e-Technology-for-Farmers\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\27-Digital-Agriculture-Agritech-and-e-Technology-for-Farmers\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\27-Digital-Agriculture-Agritech-and-e-Technology-for-Farmers\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\27-Digital-Agriculture-Agritech-and-e-Technology-for-Farmers\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\27-Digital-Agriculture-Agritech-and-e-Technology-for-Farmers\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\27-Digital-Agriculture-Agritech-and-e-Technology-for-Farmers\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\27-Digital-Agriculture-Agritech-and-e-Technology-for-Farmers\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\27-Digital-Agriculture-Agritech-and-e-Technology-for-Farmers\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\28-Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\28-Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\28-Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\28-Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\28-Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\28-Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\28-Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\28-Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\29-Agricultural-Technology-Missions-and-Mission-Mode-Policy\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\29-Agricultural-Technology-Missions-and-Mission-Mode-Policy\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\29-Agricultural-Technology-Missions-and-Mission-Mode-Policy\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\29-Agricultural-Technology-Missions-and-Mission-Mode-Policy\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\29-Agricultural-Technology-Missions-and-Mission-Mode-Policy\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\29-Agricultural-Technology-Missions-and-Mission-Mode-Policy\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\29-Agricultural-Technology-Missions-and-Mission-Mode-Policy\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\29-Agricultural-Technology-Missions-and-Mission-Mode-Policy\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\30-Economics-of-Animal-90ae7ddf-Poultry-and-Fisheries\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\30-Economics-of-Animal-90ae7ddf-Poultry-and-Fisheries\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\30-Economics-of-Animal-90ae7ddf-Poultry-and-Fisheries\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\30-Economics-of-Animal-90ae7ddf-Poultry-and-Fisheries\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\30-Economics-of-Animal-90ae7ddf-Poultry-and-Fisheries\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\30-Economics-of-Animal-90ae7ddf-Poultry-and-Fisheries\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\30-Economics-of-Animal-90ae7ddf-Poultry-and-Fisheries\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\30-Economics-of-Animal-90ae7ddf-Poultry-and-Fisheries\README.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\31-Energy-Infrastructure-766d8566-Fuels-and-Energy-Security\01-Complete-Learning-Session\Complete-Learning-Session.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\31-Energy-Infrastructure-766d8566-Fuels-and-Energy-Security\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\31-Energy-Infrastructure-766d8566-Fuels-and-Energy-Security\03-Carvaka-Graphical-Flowchart\At-a-Glance-Poster.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\31-Energy-Infrastructure-766d8566-Fuels-and-Energy-Security\03-Carvaka-Graphical-Flowchart\High-Resolution-Master.png
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\31-Energy-Infrastructure-766d8566-Fuels-and-Energy-Security\03-Carvaka-Graphical-Flowchart\Printable-Tiled-Version.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\31-Energy-Infrastructure-766d8566-Fuels-and-Energy-Security\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.pdf
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\31-Energy-Infrastructure-766d8566-Fuels-and-Energy-Security\04-ASCII-Master-Flowchart\ASCII-Master-Flowchart.txt
+notes\Final-Learning-Packages\Economy\Subject-wide Syllabus\31-Energy-Infrastructure-766d8566-Fuels-and-Energy-Security\README.txt
+notes\Final-Learning-Packages\MASTER-TRACKER.json
+notes\Final-Learning-Packages\MASTER-TRACKER.md
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-01\carvaka-g6\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-02\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-02\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-02\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-02\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-02\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-02\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-02\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-02\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-02\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-02\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-02\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-02\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-02\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-02\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-02\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-02\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-02\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-03\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-03\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-03\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-03\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-03\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-03\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-03\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-03\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-03\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-03\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-03\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-03\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-03\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-03\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-03\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-03\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-03\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-04\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-04\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-04\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-04\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-04\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-04\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-04\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-04\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-04\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-04\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-04\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-04\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-04\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-04\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-04\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-04\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-04\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-05\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-05\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-05\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-05\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-05\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-05\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-05\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-05\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-05\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-05\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-05\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-05\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-05\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-05\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-05\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-05\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-05\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-06\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-06\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-06\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-06\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-06\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-06\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-06\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-06\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-06\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-06\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-06\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-06\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-06\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-06\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-06\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-06\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-06\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-07\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-07\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-07\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-07\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-07\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-07\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-07\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-07\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-07\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-07\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-07\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-07\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-07\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-07\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-07\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-07\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-07\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-08\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-08\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-08\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-08\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-08\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-08\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-08\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-08\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-08\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-08\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-08\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-08\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-08\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-08\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-08\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-08\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-08\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-09\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-09\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-09\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-09\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-09\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-09\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-09\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-09\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-09\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-09\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-09\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-09\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-09\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-09\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-09\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-09\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-09\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-10\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-10\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-10\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-10\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-10\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-10\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-10\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-10\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-10\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-10\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-10\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-10\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-10\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-10\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-10\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-10\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-10\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-11\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-11\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-11\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-11\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-11\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-11\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-11\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-11\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-11\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-11\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-11\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-11\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-11\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-11\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-11\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-11\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-11\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-12\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-12\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-12\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-12\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-12\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-12\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-12\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-12\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-12\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-12\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-12\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-12\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-12\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-12\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-12\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-12\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-12\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-13\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-13\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-13\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-13\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-13\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-13\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-13\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-13\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-13\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-13\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-13\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-13\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-13\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-13\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-13\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-13\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-13\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-14\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-14\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-14\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-14\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-14\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-14\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-14\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-14\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-14\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-14\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-14\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-14\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-14\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-14\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-14\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-14\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-14\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-15\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-15\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-15\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-15\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-15\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-15\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-15\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-15\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-15\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-15\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-15\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-15\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-15\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-15\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-15\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-15\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-15\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-16\carvaka-g5\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-16\carvaka-g5\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-16\carvaka-g5\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-16\carvaka-g5\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-16\carvaka-g5\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-16\carvaka-g5\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-16\carvaka-g5\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-16\carvaka-g5\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-16\carvaka-g5\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-16\carvaka-g5\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-16\carvaka-g5\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-16\carvaka-g5\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-16\carvaka-g5\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-16\carvaka-g5\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-16\carvaka-g5\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-16\carvaka-g5\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-16\carvaka-g5\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-17\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-17\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-17\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-17\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-17\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-17\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-17\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-17\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-17\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-17\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-17\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-17\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-17\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-17\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-17\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-17\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-17\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-18\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-18\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-18\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-18\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-18\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-18\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-18\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-18\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-18\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-18\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-18\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-18\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-18\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-18\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-18\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-18\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-18\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-19\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-19\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-19\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-19\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-19\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-19\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-19\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-19\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-19\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-19\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-19\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-19\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-19\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-19\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-19\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-19\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-19\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-20\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-20\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-20\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-20\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-20\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-20\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-20\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-20\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-20\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-20\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-20\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-20\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-20\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-20\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-20\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-20\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-20\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g23\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g23\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g23\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g23\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g23\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g23\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g23\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g23\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g23\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g23\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g23\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g23\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g23\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g23\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g23\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g23\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g23\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g24\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g24\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g24\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g24\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g24\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g24\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g24\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g24\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g24\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g24\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g24\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g24\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g24\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g24\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g24\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g24\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-21\carvaka-g24\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-22\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-22\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-22\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-22\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-22\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-22\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-22\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-22\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-22\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-22\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-22\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-22\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-22\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-22\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-22\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-22\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-22\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-23\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-23\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-23\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-23\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-23\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-23\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-23\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-23\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-23\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-23\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-23\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-23\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-23\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-23\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-23\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-23\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-23\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-24\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-24\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-24\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-24\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-24\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-24\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-24\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-24\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-24\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-24\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-24\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-24\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-24\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-24\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-24\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-24\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-24\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-25\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-25\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-25\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-25\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-25\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-25\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-25\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-25\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-25\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-25\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-25\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-25\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-25\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-25\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-25\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-25\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-25\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-26\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-26\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-26\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-26\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-26\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-26\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-26\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-26\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-26\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-26\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-26\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-26\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-26\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-26\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-26\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-26\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-26\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-27\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-27\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-27\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-27\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-27\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-27\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-27\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-27\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-27\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-27\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-27\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-27\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-27\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-27\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-27\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-27\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-27\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-28\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-28\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-28\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-28\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-28\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-28\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-28\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-28\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-28\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-28\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-28\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-28\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-28\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-28\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-28\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-28\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-28\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-29\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-29\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-29\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-29\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-29\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-29\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-29\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-29\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-29\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-29\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-29\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-29\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-29\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-29\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-29\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-29\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-29\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-30\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-30\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-30\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-30\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-30\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-30\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-30\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-30\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-30\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-30\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-30\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-30\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-30\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-30\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-30\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-30\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-30\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-31\carvaka-g3\ascii-master.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-31\carvaka-g3\ascii-master.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-31\carvaka-g3\build-audit.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-31\carvaka-g3\editable\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-31\carvaka-g3\editable\topic-spec.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-31\carvaka-g3\master.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-31\carvaka-g3\poster.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-31\carvaka-g3\preservation-hashes.json
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-31\carvaka-g3\previews\contact-sheet-01.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-31\carvaka-g3\previews\master-overview.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-31\carvaka-g3\previews\page-001.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-31\carvaka-g3\previews\page-002.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-31\carvaka-g3\previews\page-003.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-31\carvaka-g3\previews\page-004.png
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-31\carvaka-g3\README.txt
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-31\carvaka-g3\tiled.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\flowcharts\iac-31\carvaka-g3\validation-report.txt
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-01\g6\economy-01_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-01\g6\economy-01_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-01\g6\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-01\g6\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-02\g3\economy-02_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-02\g3\economy-02_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-02\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-02\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-03\g3\economy-03_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-03\g3\economy-03_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-03\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-03\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-04\g3\economy-04_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-04\g3\economy-04_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-04\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-04\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-05\g3\economy-05_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-05\g3\economy-05_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-05\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-05\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-06\g3\economy-06_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-06\g3\economy-06_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-06\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-06\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-07\g3\economy-07_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-07\g3\economy-07_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-07\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-07\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-08\g3\economy-08_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-08\g3\economy-08_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-08\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-08\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-09\g3\economy-09_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-09\g3\economy-09_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-09\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-09\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-10\g3\economy-10_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-10\g3\economy-10_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-10\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-10\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-11\g3\economy-11_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-11\g3\economy-11_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-11\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-11\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-12\g3\economy-12_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-12\g3\economy-12_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-12\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-12\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-13\g3\economy-13_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-13\g3\economy-13_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-13\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-13\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-14\g3\economy-14_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-14\g3\economy-14_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-14\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-14\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-15\g3\economy-15_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-15\g3\economy-15_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-15\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-15\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-16\g5\economy-16_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-16\g5\economy-16_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-16\g5\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-16\g5\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-17\g3\economy-17_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-17\g3\economy-17_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-17\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-17\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-18\g3\economy-18_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-18\g3\economy-18_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-18\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-18\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-19\g3\economy-19_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-19\g3\economy-19_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-19\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-19\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-20\g3\economy-20_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-20\g3\economy-20_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-20\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-20\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-21\g23\economy-21_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-21\g23\economy-21_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-21\g23\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-21\g23\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-21\g24\economy-21_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-21\g24\economy-21_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-21\g24\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-21\g24\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-22\g3\economy-22_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-22\g3\economy-22_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-22\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-22\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-23\g3\economy-23_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-23\g3\economy-23_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-23\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-23\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-24\g3\economy-24_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-24\g3\economy-24_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-24\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-24\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-25\g3\economy-25_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-25\g3\economy-25_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-25\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-25\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-26\g3\economy-26_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-26\g3\economy-26_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-26\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-26\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-27\g3\economy-27_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-27\g3\economy-27_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-27\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-27\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-28\g3\economy-28_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-28\g3\economy-28_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-28\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-28\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-29\g3\economy-29_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-29\g3\economy-29_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-29\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-29\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-30\g3\economy-30_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-30\g3\economy-30_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-30\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-30\g3\validation\workbook-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-31\g3\economy-31_Complete-Learning-Session_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-31\g3\economy-31_Solved-Practice-Workbook_2026-09-06.pdf
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-31\g3\validation\main-visual-audit-map.json
+notes\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-31\g3\validation\workbook-visual-audit-map.json
+tools\finalize_economy_semantic_review.py
+tools\regenerate_economy_deep_review.py
+tools\run_economy_semantic_topic.py
+tools\test_regenerate_economy_deep_review.py
+tools\test_run_economy_semantic_topic.py
+upsc-ai-kit\knowledge\Economy\basic\01_National-Income-GDP-GVA-and-Measurement.md
+upsc-ai-kit\knowledge\Economy\basic\02_Growth-Development-HDI-IHDI-and-MPI.md
+upsc-ai-kit\knowledge\Economy\basic\03_Inflation-Price-Indices-and-Business-Cycles.md
+upsc-ai-kit\knowledge\Economy\basic\04_RBI-Monetary-Policy-and-Liquidity-Management.md
+upsc-ai-kit\knowledge\Economy\basic\05_Banking-Structure-NBFCs-and-Financial-Regulation.md
+upsc-ai-kit\knowledge\Economy\basic\06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md
+upsc-ai-kit\knowledge\Economy\basic\07_Money-Market-Capital-Market-and-Financial-Instruments.md
+upsc-ai-kit\knowledge\Economy\basic\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md
+upsc-ai-kit\knowledge\Economy\basic\09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md
+upsc-ai-kit\knowledge\Economy\basic\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md
+upsc-ai-kit\knowledge\Economy\basic\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md
+upsc-ai-kit\knowledge\Economy\basic\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md
+upsc-ai-kit\knowledge\Economy\basic\13_APMC-e-NAM-FPOs-and-Agricultural-Supply-Chains.md
+upsc-ai-kit\knowledge\Economy\basic\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md
+upsc-ai-kit\knowledge\Economy\basic\15_Food-Processing-Cold-Chains-and-Value-Addition.md
+upsc-ai-kit\knowledge\Economy\basic\16_Industrial-Policy-1991-Reforms-PSUs-and-Disinvestment.md
+upsc-ai-kit\knowledge\Economy\basic\17_MSMEs-PLI-Semiconductors-and-Manufacturing-Strategy.md
+upsc-ai-kit\knowledge\Economy\basic\18_Infrastructure-PPPs-Logistics-and-Public-Investment.md
+upsc-ai-kit\knowledge\Economy\basic\19_Balance-of-Payments-Exchange-Rates-and-Forex-Reserves.md
+upsc-ai-kit\knowledge\Economy\basic\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md
+upsc-ai-kit\knowledge\Economy\basic\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md
+upsc-ai-kit\knowledge\Economy\basic\22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md
+upsc-ai-kit\knowledge\Economy\basic\23_Poverty-Inequality-Social-Sector-and-Inclusive-Growth.md
+upsc-ai-kit\knowledge\Economy\basic\24_Services-Digital-Economy-Fintech-and-Platform-Markets.md
+upsc-ai-kit\knowledge\Economy\basic\25_Climate-Economics-Green-Finance-and-Circular-Economy.md
+upsc-ai-kit\knowledge\Economy\basic\26_Economic-Survey-Synthesis-and-Current-Macro-Dashboard.md
+upsc-ai-kit\knowledge\Economy\basic\27_Digital-Agriculture-Agritech-and-e-Technology-for-Farmers.md
+upsc-ai-kit\knowledge\Economy\basic\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md
+upsc-ai-kit\knowledge\Economy\basic\29_Agricultural-Technology-Missions-and-Mission-Mode-Policy.md
+upsc-ai-kit\knowledge\Economy\basic\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md
+upsc-ai-kit\knowledge\Economy\basic\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-01\g6\assets\economy-01_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-01\g6\economy-01_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-01\g6\economy-01_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-02\g3\assets\economy-02_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-02\g3\economy-02_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-02\g3\economy-02_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-03\g3\assets\economy-03_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-03\g3\economy-03_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-03\g3\economy-03_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-04\g3\assets\economy-04_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-04\g3\economy-04_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-04\g3\economy-04_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-05\g3\assets\economy-05_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-05\g3\economy-05_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-05\g3\economy-05_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-06\g3\assets\economy-06_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-06\g3\economy-06_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-06\g3\economy-06_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-07\g3\assets\economy-07_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-07\g3\economy-07_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-07\g3\economy-07_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-08\g3\assets\economy-08_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-08\g3\economy-08_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-08\g3\economy-08_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-09\g3\assets\economy-09_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-09\g3\economy-09_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-09\g3\economy-09_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-10\g3\assets\economy-10_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-10\g3\economy-10_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-10\g3\economy-10_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-11\g3\assets\economy-11_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-11\g3\economy-11_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-11\g3\economy-11_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-12\g3\assets\economy-12_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-12\g3\economy-12_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-12\g3\economy-12_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-13\g3\assets\economy-13_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-13\g3\economy-13_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-13\g3\economy-13_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-14\g3\assets\economy-14_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-14\g3\economy-14_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-14\g3\economy-14_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-15\g3\assets\economy-15_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-15\g3\economy-15_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-15\g3\economy-15_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-16\g5\assets\economy-16_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-16\g5\economy-16_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-16\g5\economy-16_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-17\g3\assets\economy-17_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-17\g3\economy-17_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-17\g3\economy-17_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-18\g3\assets\economy-18_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-18\g3\economy-18_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-18\g3\economy-18_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-19\g3\assets\economy-19_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-19\g3\economy-19_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-19\g3\economy-19_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-20\g3\assets\economy-20_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-20\g3\economy-20_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-20\g3\economy-20_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-21\g23\assets\economy-21_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-21\g23\economy-21_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-21\g23\economy-21_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-21\g24\assets\economy-21_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-21\g24\economy-21_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-21\g24\economy-21_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-22\g3\assets\economy-22_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-22\g3\economy-22_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-22\g3\economy-22_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-23\g3\assets\economy-23_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-23\g3\economy-23_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-23\g3\economy-23_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-24\g3\assets\economy-24_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-24\g3\economy-24_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-24\g3\economy-24_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-25\g3\assets\economy-25_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-25\g3\economy-25_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-25\g3\economy-25_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-26\g3\assets\economy-26_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-26\g3\economy-26_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-26\g3\economy-26_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-27\g3\assets\economy-27_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-27\g3\economy-27_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-27\g3\economy-27_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-28\g3\assets\economy-28_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-28\g3\economy-28_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-28\g3\economy-28_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-29\g3\assets\economy-29_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-29\g3\economy-29_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-29\g3\economy-29_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-30\g3\assets\economy-30_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-30\g3\economy-30_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-30\g3\economy-30_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-31\g3\assets\economy-31_Teaching-Navigation_2026-09-03.png
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-31\g3\economy-31_Complete-Learning-Session_2026-09-06.md
+upsc-ai-kit\knowledge\Learner-v2-Refreshed\Economy\ECO\learning-sessions\iac-31\g3\economy-31_Solved-Practice-Workbook_2026-09-06.md
+upsc-ai-kit\manifests\exports\economy-01-31-semantic-completeness-2026-09-06-changed-files.nul
+upsc-ai-kit\manifests\exports\economy-01-31-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-01-31-semantic-completeness-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-01-learner-v2-g6-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-01-learner-v2-g6-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-01-learner-v2-g6-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-01-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-01-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-02-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-02-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-02-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-02-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-02-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-03-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-03-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-03-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-03-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-03-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-04-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-04-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-04-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-04-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-04-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-05-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-05-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-05-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-05-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-05-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-06-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-06-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-06-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-06-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-06-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-07-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-07-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-07-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-07-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-07-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-08-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-08-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-08-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-08-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-08-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-09-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-09-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-09-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-09-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-09-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-10-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-10-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-10-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-10-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-10-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-11-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-11-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-11-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-11-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-11-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-12-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-12-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-12-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-12-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-12-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-13-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-13-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-13-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-13-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-13-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-14-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-14-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-14-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-14-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-14-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-15-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-15-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-15-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-15-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-15-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-16-learner-v2-g5-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-16-learner-v2-g5-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-16-learner-v2-g5-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-16-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-16-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-17-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-17-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-17-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-17-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-17-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-18-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-18-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-18-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-18-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-18-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-19-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-19-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-19-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-19-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-19-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-20-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-20-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-20-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-20-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-20-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-21-learner-v2-g23-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-21-learner-v2-g23-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-21-learner-v2-g23-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-21-learner-v2-g24-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-21-learner-v2-g24-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-21-learner-v2-g24-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-21-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-21-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-22-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-22-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-22-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-22-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-22-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-23-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-23-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-23-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-23-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-23-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-24-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-24-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-24-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-24-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-24-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-25-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-25-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-25-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-25-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-25-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-26-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-26-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-26-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-26-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-26-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-27-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-27-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-27-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-27-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-27-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-28-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-28-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-28-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-28-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-28-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-29-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-29-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-29-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-29-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-29-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-30-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-30-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-30-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-30-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-30-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\economy-31-learner-v2-g3-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-31-learner-v2-g3-2026-09-06-record.json
+upsc-ai-kit\manifests\exports\economy-31-learner-v2-g3-2026-09-06-validation.json
+upsc-ai-kit\manifests\exports\economy-31-semantic-completeness-2026-09-06-changed-files.txt
+upsc-ai-kit\manifests\exports\economy-31-semantic-validation-2026-09-06.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-001f65c5770b-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-001f65c5770b.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-243398960ba7-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-243398960ba7.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-264839f449a5-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-264839f449a5.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-2dafecd27f7e-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-2dafecd27f7e.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-31a9b47de7cd-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-31a9b47de7cd.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-369eb6902ff4-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-369eb6902ff4.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-3aad924af680-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-3aad924af680.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-417528abdae5-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-417528abdae5.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-41e5a7b8795b-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-41e5a7b8795b.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-495ea8fc1d81-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-495ea8fc1d81.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-4d112f4a7c8a-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-4d112f4a7c8a.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-51ef5515dd18-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-51ef5515dd18.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-56cc440b6392-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-56cc440b6392.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-780f5ea4845d-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-780f5ea4845d.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-78a359f1a1ce-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-78a359f1a1ce.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-7c754a6e9955-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-7c754a6e9955.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-7ea6896b4883-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-7ea6896b4883.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-7f864ff7db9c-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-7f864ff7db9c.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-93c8f6efe12a-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-93c8f6efe12a.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-9656eb93d246-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-9656eb93d246.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-9eca6266d99d-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-9eca6266d99d.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-a005c221604c-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-a005c221604c.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-a66b384eadc7-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-a66b384eadc7.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-b66438831d3f-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-b66438831d3f.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-c4a216a05a0d-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-c4a216a05a0d.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-cd4d70ed8204-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-cd4d70ed8204.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-dc777129749f-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-dc777129749f.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-e055f5556250-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-e055f5556250.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-e6443b47b67a-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-e6443b47b67a.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-eeae73a9e516-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-eeae73a9e516.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-fcf84dd417bb-validation.json
+upsc-ai-kit\manifests\exports\final-four-item-library-2026-09-06-selected-1-fcf84dd417bb.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-01-deep-review-2026-09-06-g6.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-02-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-03-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-04-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-05-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-06-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-07-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-08-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-09-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-10-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-11-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-12-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-13-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-14-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-15-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-16-deep-review-2026-09-06-g5.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-17-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-18-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-19-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-20-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-21-deep-review-2026-09-06-g23.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-21-deep-review-2026-09-06-g24.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-22-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-23-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-24-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-25-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-26-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-27-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-28-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-29-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-30-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\ascii-panel-specs\economy-31-deep-review-2026-09-06-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-01-g6.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-02-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-03-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-04-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-05-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-06-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-07-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-08-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-09-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-10-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-11-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-12-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-13-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-14-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-15-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-16-g5.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-17-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-18-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-19-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-20-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-21-g23.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-21-g24.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-22-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-23-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-24-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-25-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-26-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-27-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-28-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-29-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-30-g3.json
+upsc-ai-kit\manifests\retrofits\carvaka-graphical-specs\Economy\deep-review\economy-31-g3.json
+upsc-ai-kit\manifests\reviews\economy\01-national-income-gdp-gva-gnp-ndp-and-measurement-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\02-growth-development-hdi-ihdi-and-mpi-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\03-inflation-price-indices-and-business-cycles-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\04-rbi-monetary-policy-and-liquidity-management-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\05-banking-structure-nbfcs-and-financial-regulation-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\06-npas-basel-norms-resolution-and-financial-inclusion-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\07-money-market-capital-market-and-financial-instruments-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\08-securities-bonds-equity-derivatives-and-investment-funds-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\09-union-budget-fiscal-policy-and-deficit-indicators-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\10-taxation-gst-finance-commission-and-fiscal-federalism-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\11-land-reforms-green-revolution-and-cropping-systems-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\12-msp-procurement-buffer-stocks-pds-and-food-security-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\13-apmc-e-nam-fpos-and-agricultural-supply-chains-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\14-irrigation-inputs-credit-insurance-and-sustainable-agriculture-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\15-food-processing-cold-chains-and-value-addition-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\16-industrial-policy-1991-reforms-psus-and-disinvestment-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\17-msmes-pli-semiconductors-and-manufacturing-strategy-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\18-infrastructure-ppps-logistics-and-public-investment-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\19-balance-of-payments-exchange-rates-and-forex-reserves-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\20-foreign-trade-wto-ftas-and-protectionism-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\21-imf-world-bank-adb-aiib-ndb-and-global-governance-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\22-employment-labour-codes-skills-and-demographic-dividend-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\23-poverty-inequality-social-sector-and-inclusive-growth-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\24-services-digital-economy-fintech-and-platform-markets-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\25-climate-economics-green-finance-and-circular-economy-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\26-economic-survey-synthesis-and-current-macro-dashboard-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\27-digital-agriculture-agritech-and-e-technology-for-farmers-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\28-direct-and-indirect-farm-subsidies-and-wto-rules-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\29-agricultural-technology-missions-and-mission-mode-policy-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\30-economics-of-animal-rearing-livestock-dairy-poultry-and-fisheries-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\31-energy-infrastructure-economics-power-fuels-and-energy-security-semantic-completeness-review-2026-09-06.md
+upsc-ai-kit\manifests\reviews\economy\Economy-Subject-Semantic-Completion-2026-09-06.md
+upsc-ai-kit\manifests\reviews\knowledge-semantic-completeness-status.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-01-g6.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-02-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-03-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-04-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-05-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-06-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-07-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-08-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-09-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-10-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-11-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-12-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-13-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-14-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-15-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-16-g5.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-17-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-18-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-19-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-20-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-21-g23.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-21-g24.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-22-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-23-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-24-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-25-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-26-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-27-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-28-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-29-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-30-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus-content-specs\economy-31-g3.json
+upsc-ai-kit\manifests\v2\economy--subject-wide-syllabus.json

@@ -1,0 +1,344 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "polity-01-05-hostile-semantic-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_society_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true,
+    "polity_legal_source_hierarchy": true,
+    "manually_authored_twelve_panels": true
+  },
+  "topics": [
+    {
+      "topic_key": "polity-01",
+      "display_title": "Historical Background",
+      "active_generation": 17,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\polity-01_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "From Company sovereignty to constituent sovereignty, 1765-1950",
+          "structural_type": "constitutional-evolution-timeline",
+          "ascii_lines": [
+            "1765 DIWANI: revenue power outruns public accountability",
+            "  |",
+            "1773 PARLIAMENTARY REGULATION",
+            "  Regulating Act -> Governor-General of Bengal -> Calcutta Supreme Court",
+            "  |",
+            "1781 JURISDICTION REPAIR -> 1784 DUAL CONTROL",
+            "  Settlement Act          Company administration + Board supervision",
+            "  |",
+            "1813-1853 CHARTER TRANSFORMATION",
+            "  monopoly opened -> Company de-commercialised -> legislation centralised",
+            "  |",
+            "1858 CROWN RULE -> 1861-1892 ASSOCIATION WITHOUT RESPONSIBILITY",
+            "  |",
+            "1909 COMMUNAL REPRESENTATION -> 1919 LIMITED RESPONSIBILITY",
+            "  |",
+            "1935 FEDERAL BLUEPRINT + PROVINCIAL AUTONOMY",
+            "  |",
+            "1947 SOVEREIGN CONSTITUENT POWER -> 1950 DEMOCRATIC CONSTITUTIONALISM",
+            "MUST REMEMBER: Colonial constitutional development must run in exact sequence from Company",
+            "  regulation through Crown rule, representation, responsible government, the 1935",
+            "  federal-administrative blueprint and the sovereign 1947-1950 transition."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 1 — METHOD AND THE PRE-1773 CORPORATE STATE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 16 — CONTINUITY AND RUPTURE INTO THE CONSTITUTION OF 1950",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\01_Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\polity-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Who controlled whom: the imperial power hierarchy",
+          "structural_type": "institution-power-hierarchy",
+          "ascii_lines": [
+            "BRITISH PARLIAMENT",
+            "  +-- 1773: begins statutory control over territorial Company rule",
+            "  +-- 1784: creates Board of Control for political supervision",
+            "  |     +-- BOARD OF CONTROL: civil, military and revenue direction",
+            "  |     +-- COURT OF DIRECTORS: Company administration and patronage",
+            "  +-- 1858: abolishes Company government",
+            "        +-- SECRETARY OF STATE FOR INDIA: Cabinet responsibility",
+            "        |     +-- COUNCIL OF INDIA: advisory assistance",
+            "        +-- GOVERNOR-GENERAL = VICEROY: Crown representative in India",
+            "              +-- provincial governments",
+            "",
+            "POWER SHIFT",
+            "Company charter -> parliamentary supervision -> Crown executive responsibility",
+            "LIMIT: accountability moved to Britain; responsible government in India did not follow."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 2 — REGULATING ACT 1773 AND SETTLEMENT ACT 1781",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 3 — PITT'S INDIA ACT 1784, THE 1786 MEASURE AND CHARTER ACT 1793",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 6 — GOVERNMENT OF INDIA ACT 1858: CROWN RULE AND IMPERIAL ACCOUNTABILITY",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\01_Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\polity-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "1773-1853: regulation, monopoly and centralisation compared",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "ACT     CONTROL / ECONOMY              INSTITUTIONAL RESULT",
+            "1773    Parliament regulates           GG of Bengal; Calcutta Supreme Court",
+            "1781    jurisdiction clarified         executive-revenue sphere protected",
+            "1784    political control separated    Board of Control; dual control",
+            "1813    India trade monopoly ends       sovereignty asserted; education grant",
+            "1833    all Company trade ends          GG of India; legislative centralisation",
+            "        Company becomes administrative first Law Commission; no open competition yet",
+            "1853    charter not renewed for term    legislative-executive functions differentiated",
+            "        patronage principle weakened    competition route prepared",
+            "",
+            "EXAM LINE: 1833 centralised the legislative state; 1853 specialised its machinery."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 2 — REGULATING ACT 1773 AND SETTLEMENT ACT 1781",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 4 — CHARTER ACTS 1793 AND 1813: MONOPOLY, SOVEREIGNTY AND EDUCATION",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 5 — CHARTER ACTS 1833 AND 1853: ALL-INDIA GOVERNMENT, LAW AND CIVIL SERVICE",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\01_Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\polity-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Representation without responsibility, 1861-1919",
+          "structural_type": "legislative-evolution-branch",
+          "ascii_lines": [
+            "1861: NOMINATION",
+            "  +-- nominated Indian non-officials; portfolio system recognised",
+            "  +-- legislative decentralisation revived; no executive responsibility",
+            "        |",
+            "1892: SCRUTINY",
+            "  +-- budget discussion and questions",
+            "  +-- indirect-election element; official majorities retained",
+            "        |",
+            "1909: REPRESENTATION SEGMENTED",
+            "  +-- separate electorates for Muslims",
+            "  +-- larger councils; Indian on Viceroy's Executive Council",
+            "  +-- executive still not responsible to legislature",
+            "        |",
+            "1919: RESPONSIBILITY DIVIDED",
+            "  +-- provincial dyarchy: reserved versus transferred subjects",
+            "  +-- central bicameralism; direct elections and limited franchise",
+            "  +-- ministers lacked decisive coercive and fiscal levers"
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 7 — INDIAN COUNCILS ACTS 1861 AND 1892: ASSOCIATION WITHOUT RESPONSIBILITY",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 8 — INDIAN COUNCILS ACT 1909: REPRESENTATION AND COMMUNAL ELECTORATES",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 9 — GOVERNMENT OF INDIA ACT 1919: DYARCHY, BICAMERALISM, FRANCHISE AND REVIEW",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\01_Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\polity-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "The 1935 constitutional machine: promise and safeguards",
+          "structural_type": "federal-mechanism-map",
+          "ascii_lines": [
+            "GOVERNMENT OF INDIA ACT 1935",
+            "  +-- ALL-INDIA FEDERATION: provinces + princely states",
+            "  |     +-- never commenced because required princely accession failed",
+            "  +-- LEGISLATIVE DISTRIBUTION",
+            "  |     +-- Federal List 59 | Provincial List 54 | Concurrent List 36",
+            "  |     +-- residuary allocation vested in Governor-General",
+            "  +-- PROVINCES",
+            "  |     +-- dyarchy abolished -> provincial autonomy",
+            "  |     +-- ministers responsible to provincial legislatures",
+            "  +-- CENTRE: proposed dyarchy; not brought into operation",
+            "  +-- INSTITUTIONS: Federal Court 1937 | PSCs | bicameral provinces",
+            "  +-- SAFEGUARDS: discretion, special responsibilities and reserved powers",
+            "",
+            "VERDICT: autonomy was enlarged inside an imperial veto structure."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 11 — GOVERNMENT OF INDIA ACT 1935: FEDERATION, LISTS AND PROVINCIAL AUTONOMY",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 12 — GOVERNMENT OF INDIA ACT 1935: INSTITUTIONS, FRANCHISE AND SAFEGUARDS",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\01_Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\polity-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "1935 inheritance: retained, transformed, rejected",
+          "structural_type": "continuity-rupture-matrix",
+          "ascii_lines": [
+            "1935 DEVICE             1950 TREATMENT",
+            "Three legislative lists retained; redistributed under Seventh Schedule",
+            "Federal Court           transformed into Supreme Court with wider review",
+            "Provincial autonomy     retained as elected State government",
+            "Public Service Comms.   constitutionalised for Union and States",
+            "Emergency machinery    retained but subjected to constitutional procedure",
+            "Governor's office       retained; democratic responsibility replaces imperial command",
+            "All-India Services      retained as an integrating administrative instrument",
+            "",
+            "REJECTED OR NORMATIVELY BROKEN",
+            "imperial sovereignty -> popular sovereignty",
+            "communal electorates -> common electoral citizenship",
+            "limited franchise -> universal adult suffrage",
+            "ruler safeguards -> enforceable rights and judicial review",
+            "CLOSE DISTINCTION: Governor-General of Bengal (1773) is not Governor-General of India (1833);",
+            "  1909 separate electorates, 1919 provincial dyarchy and 1935 provincial autonomy are",
+            "  distinct; the 1935 federation and central dyarchy never operated."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 14 — THEMATIC EVOLUTION: LEGISLATURE, EXECUTIVE, JUDICIARY, SERVICES AND FINANCE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 16 — CONTINUITY AND RUPTURE INTO THE CONSTITUTION OF 1950",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\01_Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\polity-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "1947 bridge: dominion legality to republican authority",
+          "structural_type": "sovereignty-transition",
+          "ascii_lines": [
+            "INDIAN INDEPENDENCE ACT 1947",
+            "  +-- British rule ends; India and Pakistan become Dominions",
+            "  +-- British parliamentary authority over the new Dominions ends",
+            "  +-- princely-state suzerainty lapses; accession is not automatic absorption",
+            "  +-- Constituent Assembly becomes sovereign constitution-maker",
+            "  +-- Assembly also acts as Dominion legislature",
+            "        |",
+            "TRANSITIONAL GOVERNMENT",
+            "  existing law and administration continue unless altered",
+            "        |",
+            "26 NOV 1949: Constitution adopted",
+            "24 JAN 1950: members sign",
+            "26 JAN 1950: Constitution commences; republic replaces dominion status",
+            "",
+            "BRIDGE: legal continuity prevented a vacuum; constituent power changed authority's source."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 13 — INDIAN INDEPENDENCE ACT 1947 AND THE CONSTITUENT ASSEMBLY BRIDGE",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\01_Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\polity-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Colonial reform: official motive versus Indian pressure",
+          "structural_type": "problem-response-synthesis",
+          "ascii_lines": [
+            "OFFICIAL PROBLEM                 IMPERIAL RESPONSE",
+            "Company abuse / fiscal crisis   parliamentary regulation, not self-government",
+            "administrative overload         centralisation, codification, specialised services",
+            "nationalist representation      councils, limited elections, controlled devolution",
+            "mass political pressure         graded responsibility with vetoes and safeguards",
+            "communal bargaining             separate electorates and group arrangements",
+            "",
+            "INDIAN COUNTER-PRESSURE",
+            "associations -> Congress demands -> Home Rule -> mass movements -> negotiation",
+            "",
+            "SYNTHESIS",
+            "British policy designed controlled adaptation to preserve authority.",
+            "Indian politics converted concessions into platforms for further claims.",
+            "Reform was neither a unilateral gift nor a linear march to democracy."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 15 — BRITISH MOTIVES, INDIAN PRESSURES AND COLONIAL CONSTITUTIONALISM",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\01_Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\polity-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Historical-background close-option control board",
+          "structural_type": "examiner-trap-grid",
+          "ascii_lines": [
+            "CLAIM TO TEST                              EXACT CONTROL",
+            "1773 created Governor-General of India     No: Governor-General of Bengal",
+            "1784 transferred India to Crown rule       No: dual control; Crown rule begins in 1858",
+            "1813 ended every Company monopoly          No: tea and China trade exceptions remained",
+            "1833 introduced open civil-service exam    No: principle opened; competition came later",
+            "1861 introduced elected representation     No: nominated Indian non-officials",
+            "1892 made executive legislature-dependent  No: scrutiny without responsibility",
+            "1909 began responsible government          No: representation widened, executive insulated",
+            "1919 put dyarchy at Centre                  No: provincial dyarchy",
+            "1935 federation operated                   No: federal part never commenced",
+            "1935 created RBI directly                  RBI Act 1934; operations began in 1935",
+            "1947 automatically integrated princes      No: suzerainty lapsed; integration followed"
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#BASIC MCQS / REMEDIATION",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#PYQS AND ANSWER PRACTICE",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#CONSOLIDATED REGISTER NOTES",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\01_Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\polity-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Exact 10/15-mark architecture: evolution into the 1950 Constitution",
+          "structural_type": "answer-architecture",
+          "ascii_lines": [
+            "10 MARKS / 150 WORDS",
+            "1. Thesis: colonial statutes built machinery; 1950 changed its sovereign basis.",
+            "2. Three phases: 1773-1858 control; 1861-1919 representation; 1935 blueprint.",
+            "3. Evidence: one exact Act-feature pair from each phase.",
+            "4. Pivot: 1947 transferred constituent authority and preserved legal continuity.",
+            "5. Verdict: structural continuity plus democratic rupture.",
+            "",
+            "15 MARKS / 250 WORDS",
+            "1. Open with Diwani power-accountability mismatch.",
+            "2. Trace control: 1773 -> 1784 -> 1858.",
+            "3. Trace participation: 1861 -> 1892 -> 1909 -> 1919.",
+            "4. Explain 1935 lists, autonomy, institutions and safeguards.",
+            "5. Compare retained devices with rejected imperial principles.",
+            "6. Add Indian pressure versus British controlled adaptation.",
+            "7. Conclude: inheritance supplied instruments, not constitutional legitimacy."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#SESSION 16 — CONTINUITY AND RUPTURE INTO THE CONSTITUTION OF 1950",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g11\\polity-01_Complete-Learning-Session_2026-08-23.md#PYQS AND ANSWER PRACTICE",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\01_Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\polity-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Jurisdiction, service and finance: the less-visible institutional spine",
+          "structural_type": "institutional-lineage-map",
+          "ascii_lines": [
+            "JUDICIARY: 1774 Supreme Court -> 1861 High Courts -> 1937 Federal Court -> 1950 Supreme Court",
+            "SERVICES: Company patronage -> 1853 competition principle -> 1919 PSC provision -> 1926 PSC",
+            "FINANCE: revenue control -> legislative budget scrutiny -> RBI Act 1934 / operations 1935",
+            "RULE: institutional ancestry does not imply unchanged constitutional purpose."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\01_Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\polity-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "PYQ, ownership and source hierarchy control",
+          "structural_type": "source-control-ledger",
+          "ascii_lines": [
+            "DIRECT PYQ: 2024 Prelims Q62 -> 1935 federation provided, not commenced",
+            "RESERVED CONTROL: defence and external affairs -> Governor-General",
+            "BOUNDARY: Topic 02 owns Assembly detail; Modern History owns movements/Partition",
+            "SOURCE ORDER: statute/text -> official record -> judgment -> standard textbook",
+            "FINAL LINE: colonial machinery survived only after democratic transformation.",
+            "LEGAL/SOURCE LIMIT: Colonial statutes supplied machinery, not popular legitimacy: identify",
+            "  what 1950 retained, transformed and rejected, and do not invent a post-1947 live status for",
+            "  repealed enactments."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\01_Historical-Background.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-01\\g17\\polity-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

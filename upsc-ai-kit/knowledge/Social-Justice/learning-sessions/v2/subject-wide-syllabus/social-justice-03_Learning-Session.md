@@ -1325,6 +1325,30 @@ maternal-geriatric care, federalism and financial protection.
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Universal health coverage requires promotive, preventive, curative, rehabilitative and palliative services with financial protection, quality and equity; public health acts on population risks while clinical care treats individual illness.
+- **Indispensable distinction and prerequisite taxonomy:** UHC is not free hospitalisation alone, insurance coverage is not service availability, enrolment is not utilisation, expenditure allocation is not effective spending, and legal recognition of health does not prove equal access or quality.
+- **Mechanism, implementation and evidence control:** Map Union-state-local responsibilities, primary care, public hospitals, regulation, workforce, medicines, surveillance, referral, Ayushman Bharat components, grievance and health outcomes; qualify NFHS, NHA and scheme figures by year, unit and denominator.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 2026-09-06: MoHFW and the National Health Authority remain authoritative programme and policy sources; insurance eligibility, enrolment, service availability, utilisation, quality and financial protection are not interchangeable. Sources: https://www.mohfw.gov.in/; https://nha.gov.in/PM-JAY; https://main.mohfw.gov.in/sites/default/files/9147562941489753121.pdf
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Social Justice owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/social justice taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Four General Studies Mains demands and three objective demands are routed to this topic in the audited routing ledgers, and each Mains demand is reproduced below as a demand card with its printed year, paper, question number, directive, marks and word limit exactly as the ledgers record them: 2018 General Studies Paper II Question 7, 2020 General Studies Paper II Question 6, 2021 General Studies Paper II Question 6 and 2024 General Studies Paper II Question 17. The 2020 demand is recorded in the ledger as cross-cutting Core ownership shared with the senior-citizens topic, and that shared ownership is stated openly here rather than being claimed exclusively. Three objective demands are also routed, namely 2023 Prelims General Studies Paper I Question 51 on the maternal and neonatal mortality and institutional-delivery scheme, 2023 Prelims General Studies Paper I Question 75 on the curative, preventive and decentralised character of the Indian public health system, and 2024 Prelims General Studies Paper I Question 99 on the maternal-health abhiyan; the ledger records the official 2018-2023 Prelims keys as not held locally, and for the 2024 question it records that the official Set-A key is available locally while expressly stating that no answer is recorded or inferred, so this package records no option, key or inferred answer for any of the three and converts none of them into a solved question. The locally held OCR-searchable official General Studies papers were read only to confirm the printed wording of the routed Mains demands; no question was invented from them and no marking scheme or page precision was imported. Every model solution below is original work written to the repository's examiner-grade standard using the claim, named evidence, analysis and qualification pattern.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies What this owner holds and the demands routed to it?

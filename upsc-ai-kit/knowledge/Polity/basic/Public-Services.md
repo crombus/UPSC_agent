@@ -153,3 +153,49 @@ Services Boards.
 - 📰 The **IAS (Cadre) Rules** deputation-amendment (2021) is a **proposal**, not settled law — verify its status before asserting it is in force.
 - ⚠️ Cite the **Hota Committee (2004)** and **Second ARC (2008)** as **recommendations**; fixed tenure and CSBs are **judicially directed and partly adopted**, not universally enacted.
 - ✅ Distinguish a **civil post** (protected by Art 311) from **defence or purely contractual** engagements (outside it); scope errors are a common trap.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional boundary:** Part XIV Articles 308-314 govern services under
+  the Union and States; Articles 315-323 separately govern UPSC, SPSCs and the
+  Joint PSC. Public Services owns the service relationship, while Polity 28
+  owns the constitutional commission.
+- **Article 309 hierarchy:** the appropriate legislature may regulate
+  recruitment and service conditions. Until legislation operates, the
+  President or Governor may make rules. Executive instructions cannot override
+  the Constitution, a statute or valid statutory rules.
+- **Pleasure and protection:** Article 310's pleasure is constitutionally
+  fettered by Article 311, equality, natural justice and judicial review.
+  Article 311 protects members of civil services and holders of civil posts,
+  not defence personnel or every employee of every public body.
+- **Article 311 mechanics:** dismissal/removal cannot be by an authority
+  subordinate to the appointing authority; dismissal, removal or reduction in
+  rank ordinarily requires inquiry and reasonable opportunity. The three
+  inquiry exceptions are conviction, recorded impracticability and
+  President/Governor satisfaction concerning security of the State.
+- **Case controls:** Parshotam Lal Dhingra distinguishes punitive foundation
+  from non-punitive termination; Tulsiram Patel controls the three exceptions;
+  ECIL v B. Karunakar requires supply of an adverse inquiry report subject to
+  prejudice; T.S.R. Subramanian requires written directions and institutional
+  tenure safeguards.
+- **AIS federal design:** Article 312 requires a Rajya Sabha resolution
+  supported by not less than two-thirds of members present and voting before
+  Parliament creates a new All-India Service. IAS, IPS and Indian Forest
+  Service remain the existing AIS; Centre-State control is dual rather than
+  exclusively Union or State.
+- **AIJS status, checked 5 September 2026:** Article 312 permits an
+  All-India Judicial Service not including a post inferior to district judge,
+  but no creating law or recruitment notification was located. Consultation
+  and advocacy are not an existing service.
+- **Reform boundary:** Mission Karmayogi/iGOT and the Capacity Building
+  Commission remain operative capacity-building architecture. Lateral entry,
+  fixed tenure, cadre deputation and performance systems must be stated with
+  the applicable rule and date; advertisement, vacancy and dashboard totals
+  are deliberately unfrozen.
+- **Remedy tracks:** departmental discipline, CVC/CVO vigilance, criminal
+  investigation, CAT adjudication and High Court judicial review are distinct.
+  L. Chandra Kumar preserves Articles 226/227 review over tribunal decisions.
+- **PYQ firewall:** the verified adjacent 2020 civil-services-reform demand is
+  retained as supporting application. PSC recruitment, governance reform,
+  ethics and tribunal procedure remain cross-owned where their principal
+  demand lies.

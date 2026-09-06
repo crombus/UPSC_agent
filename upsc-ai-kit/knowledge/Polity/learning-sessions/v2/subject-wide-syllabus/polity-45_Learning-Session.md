@@ -2,14 +2,14 @@
 
 **Complete independent learning session + verified PYQ routing + solved practice workbook + final consolidated register notes**
 
-**Legal/current control date:** 25 August 2026 (Asia/Kolkata)
+**Legal/current control date:** 5 September 2026 (Asia/Kolkata)
 
 > **Tag key:** `[FACT]` = named constitutional, statutory, official, judicial or audited local support; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked for the control date; `[LIMIT]` = qualification.
 >
 > **Answer-writing discipline:** claim -> named evidence -> analysis -> qualification.
 
-- [CURRENT] Status is controlled to **25 August 2026, Asia/Kolkata**.
-- [CURRENT] **Live official refresh, 25 August 2026:** The Constitution, MEA and MHA portals and controlling treaty/territory decisions were rechecked on 25 August 2026. The latest located National Integration Council meeting remains the 2013 meeting; no later official reconstitution or meeting is asserted. Strategic autonomy and current diplomatic initiatives are dated policy anchors, not binding law.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
+- [CURRENT] **Live official refresh, 5 September 2026:** The Constitution, MEA and MHA portals and controlling treaty/territory decisions were rechecked on 5 September 2026. The latest located National Integration Council meeting remains the 2013 meeting; no later official reconstitution or meeting is asserted. Strategic autonomy and current diplomatic initiatives are dated policy anchors, not binding law.
 
 #### How to Use This Package
 
@@ -349,6 +349,52 @@ external disinformation -> civic resilience.
 
 [LIMIT] "Strategic autonomy", "Neighbourhood First" and similar labels are policy
 doctrines. They are not self-executing constitutional rules.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Integration concept:** national integration means equal citizenship,
+  constitutional loyalty, accommodation and peaceful membership across
+  diversity. It is not cultural uniformity, majoritarian assimilation or a
+  free-standing authority to suppress dissent.
+- **Constitutional spine:** the Preamble's fraternity, dignity, unity and
+  integrity operate with equality, freedoms, minority rights, DPSPs,
+  Fundamental Duties, federalism, asymmetry and local participation.
+  S. R. Bommai preserves federalism and secularism as basic features.
+- **Security boundary:** Articles 355 and 356, public-order law and security
+  statutes remain subject to legality, necessity, proportionality, federal
+  limits and judicial review. Identity, grievance, regionalism, communalism,
+  separatism and violence require distinct diagnosis.
+- **NIC status, checked 5 September 2026:** the National Integration Council is
+  extra-constitutional, non-statutory and advisory. The official Lok Sabha
+  reply dated 4 August 2026 identifies 23 September 2013 as its latest meeting;
+  no later meeting or formal abolition is asserted.
+- **Foreign-affairs competence:** Article 51 supplies non-justiciable DPSP
+  values. Article 73 extends Union executive power within constitutional
+  limits; Article 246 and Union List Entries 10-21 allocate core foreign
+  affairs subjects; Article 253 permits Parliament to implement international
+  obligations notwithstanding ordinary federal distribution.
+- **Treaty/domestic-law chain:** executive conclusion of an international
+  commitment does not automatically amend domestic law or override rights.
+  Existing law may permit implementation; legislation is needed where law or
+  rights must change, and constitutional amendment is required where the
+  Constitution itself must change.
+- **Case controls:** Berubari requires constitutional amendment for cession of
+  Indian territory; Maganbhai distinguishes executable boundary settlement
+  from legal change; Jolly George rejects automatic treaty override;
+  Gramophone favours harmony absent conflict; Vishaka permits consistent
+  international norms to fill a domestic-law vacuum.
+- **Policy boundary:** non-alignment, strategic autonomy, neighbourhood policy,
+  multilateral reform and Global South advocacy are executive-policy
+  orientations rather than self-executing constitutional rules. The MEA
+  Annual Report 2024-25 is a dated policy source, not a legal code.
+- **Integration/foreign-policy link:** inclusive institutions strengthen
+  diplomatic legitimacy and resilience; foreign policy can affect domestic
+  cohesion through borders, diaspora, migration, security and development.
+  The connection does not merge the two legal fields.
+- **PYQ firewall:** adjacent constitutional, federal, security and
+  international-relations PYQs are routed to their principal owners. This
+  topic retains only the integration/constitutional-competence bridge and does
+  not fabricate a direct question.
 
 ## BASIC MCQS / REMEDIATION
 
@@ -1156,7 +1202,7 @@ internal affairs; 4. **Equality & mutual benefit**; 5. **Peaceful co-existence**
 
 ### National Integration and Foreign Policy: Rapid Constitutional Recall
 
-- **Current-control rule:** The Constitution, MEA and MHA portals and controlling treaty/territory decisions were rechecked on 25 August 2026. The latest located National Integration Council meeting remains the 2013 meeting; no later official reconstitution or meeting is asserted. Strategic autonomy and current diplomatic initiatives are dated policy anchors, not binding law.
+- **Current-control rule:** The Constitution, MEA and MHA portals and controlling treaty/territory decisions were rechecked on 5 September 2026. The latest located National Integration Council meeting remains the 2013 meeting; no later official reconstitution or meeting is asserted. Strategic autonomy and current diplomatic initiatives are dated policy anchors, not binding law.
 - **Factual caveat:** National integration is constitutional accommodation, equal citizenship and civic fraternity, not cultural uniformity or unrestricted coercion. Article 51 is a non-justiciable directive; treaty-making and foreign-policy doctrines remain executive policy unless domestic law gives them legal effect.
 
 #### Snapshot

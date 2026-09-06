@@ -605,6 +605,41 @@ topic_key: polity-08
 - **NALSA:** The statutory network is extensive; quality, awareness and client-centred delivery are the next constitutional frontier.
 - **UCC:** Article 44 supports equal civil citizenship, but legitimate reform must remain consultative, rights-compliant, federally competent and administratively workable.
 
+### Semantic-completeness ownership and PYQ control
+
+- **Exact text first:** Part IV contains Articles 36-51. Article 36 imports the
+  Part III definition of State; Article 37 denies court enforcement while making
+  the principles fundamental in governance and imposing a State duty to apply
+  them in making laws.
+- **Complete article map:** retain every clause of Articles 38-39, then Articles
+  39A, 40, 41, 42, 43, 43A, 43B, 44, 45, 46, 47, 48, 48A, 49, 50 and 51.
+  Textbook socialistic, Gandhian and liberal-intellectual groupings are aids,
+  not constitutional labels, and overlapping placement must be acknowledged.
+- **Amendment control:** the 42nd Amendment substituted Article 39(f) and inserted
+  Articles 39A, 43A and 48A; the 44th added Article 38(2); the 86th recast Article
+  45 while inserting Article 21A and Article 51A(k); the 97th inserted Article 43B.
+- **FR-DPSP spine:** Champakam, the First Amendment, Golak Nath, the 24th and 25th
+  Amendments, Kesavananda Bharati, the 42nd Amendment and Minerva Mills establish
+  harmony and balance rather than unlimited priority for either Part.
+- **Article 31C present law:** Property Owners Association (5 November 2024)
+  confirms survival of the original shield for genuine Article 39(b)/(c) laws
+  against Articles 14 and 19; nexus review and basic-structure review remain, and
+  not every private resource is automatically a material resource of the community.
+- **Implementation:** distinguish constitutional direction from delivery through
+  legislation and institutions. Article 39A connects to the Legal Services
+  Authorities Act, NALSA and Lok Adalats; Article 40 to Panchayats; Articles
+  41/45 to education; Articles 42-43A to labour; Article 48A to environmental law.
+- **Current UCC control:** Article 44 is non-justiciable; courts have urged reform
+  but have not ordered Parliament to enact a UCC. Uttarakhand's 2024 Act commenced
+  on 27 January 2025; the Amendment Act published 7 April 2026 supersedes the
+  January 2026 Ordinance.
+- **Four-ledger hostile audit:** exact Part IV text, indispensable welfare-state
+  prerequisites, textbook classifications and every routed 2018-2026 PYQ were
+  checked for amendment history, case holdings, implementation and current status.
+- **Boundary and PYQs:** Topic 07 owns detailed rights doctrine and Topic 10 basic
+  structure; this owner supplies the reconciliation needed for DPSP answers.
+  Direct NALSA and routed objective demands retain exact metadata and key status.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Original hard MCQs

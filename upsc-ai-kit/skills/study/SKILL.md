@@ -109,6 +109,23 @@ For `Export Tree Chart: <Subject> — <Topic>`:
    Flow Diagram or graphical package required by `Notes`, complete learning sessions and
    `Export PDF`.
 
+For the whole-knowledge-base atlas, use
+`upsc-ai-kit\manifests\v2\topic-catalog.json` as the authoritative sequence, excluding Essay,
+CSAT, Qualifying English and Qualifying Hindi. Generate only one topic at a time. Do not use batch
+content generation, a generic chart template or compressed source sampling. A topic becomes
+complete only after its full Core/Basic owner, Advanced owner and relevant verified PYQs have been
+read, its topic-specific chart has been saved, and the quick-glance index/status files have been
+refreshed. `tools\generate_quick_glance_index.py` is tracking-only and must not author charts.
+
+`Continue Quick-Glance Atlas` is the repeatable sequential command. Resolve `next_pending` from
+`quick_galance\TREE-CHART-STATUS.json`, generate exactly that one chart under the full-coverage
+rules, and refresh `TREE-CHART-STATUS.json`, `TREE-CHART-INDEX.md` and
+`TREE-CHART-COMMAND-INDEX.md`. Do not process a second topic in the same invocation.
+
+While the atlas is active, standalone `Next` is an exact alias for
+`Continue Quick-Glance Atlas`. After completing a chart, include the exact next copy-ready
+`Export Tree Chart: ...` command in the final response, unless the atlas has no pending topics.
+
 ## `Notes` / `Export PDF` — register-style PDF
 Build a Python `DATA` dict and run `python tools/upsc_register_pdf.py data.py out.pdf`
 (or output as Markdown if no code tool). Per-topic fields:

@@ -1,0 +1,359 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "polity-01-05-hostile-semantic-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_society_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true,
+    "polity_legal_source_hierarchy": true,
+    "manually_authored_twelve_panels": true
+  },
+  "topics": [
+    {
+      "topic_key": "polity-04",
+      "display_title": "Preamble",
+      "active_generation": 19,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\polity-04_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "From Objectives Resolution to authoritative Preamble",
+          "structural_type": "constitutional-evolution-timeline",
+          "ascii_lines": [
+            "13 DEC 1946  Objectives Resolution moved by Jawaharlal Nehru",
+            "22 JAN 1947  Objectives Resolution adopted",
+            "      |",
+            "committee work + Drafting Committee language + Assembly debate",
+            "      |",
+            "26 NOV 1949",
+            "\"WE, THE PEOPLE OF INDIA\" adopt, enact and give the Constitution to ourselves",
+            "      |",
+            "24 JAN 1950  members sign the Constitution",
+            "      |",
+            "26 JAN 1950  Constitution commences",
+            "",
+            "TEXTUAL MEMORY",
+            "source -> nature of State -> objectives -> adoption/enactment declaration",
+            "",
+            "TRAP: adoption and commencement dates perform different constitutional work.",
+            "MUST REMEMBER: The Preamble must be read through authority, State descriptors, objectives and",
+            "  the enactment clause, then linked to Articles 14-21, 25-28, 38-39 and 368."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Preamble.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\04_Preamble.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\polity-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Clause architecture: authority, identity, ends and enactment",
+          "structural_type": "text-hierarchy",
+          "ascii_lines": [
+            "WE, THE PEOPLE OF INDIA",
+            "  +-- SOURCE: popular constituent authority",
+            "  +-- STATE: SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC",
+            "  +-- OBJECTIVES",
+            "  |     +-- JUSTICE: social, economic, political",
+            "  |     +-- LIBERTY: thought, expression, belief, faith, worship",
+            "  |     +-- EQUALITY: status and opportunity",
+            "  |     +-- FRATERNITY: dignity + unity and integrity",
+            "  +-- CONSTITUENT ACT",
+            "        adopt + enact + give to ourselves",
+            "",
+            "People are the source; descriptors identify the polity;",
+            "objectives set its destination; enactment converts resolution into authority."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Preamble.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\04_Preamble.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\polity-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Five State descriptors: exact constitutional work",
+          "structural_type": "comparison-matrix",
+          "ascii_lines": [
+            "DESCRIPTOR   CONSTITUTIONAL WORK",
+            "Sovereign    no external superior; internal authority under Constitution",
+            "Socialist    democratic welfare and distribution, not total statism",
+            "Secular      equal citizenship with principled regulation of religion",
+            "Democratic   popular rule through adult franchise and representation",
+            "Republic     elected, non-hereditary head of State",
+            "",
+            "42ND AMENDMENT, 1976",
+            "inserted \"Socialist\", \"Secular\" and \"integrity\";",
+            "it did not create their entire constitutional substance.",
+            "",
+            "Britain: democracy + hereditary monarchy | India: democracy + republic."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Preamble.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\04_Preamble.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\polity-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Justice, liberty, equality and fraternity as one system",
+          "structural_type": "rights-dpsp-balance",
+          "ascii_lines": [
+            "JUSTICE: social + economic + political",
+            "  -> Directive Principles and social-reform powers",
+            "LIBERTY: thought + expression + belief + faith + worship",
+            "  -> rights, subject to constitutional limits",
+            "EQUALITY: status + opportunity",
+            "  -> non-discrimination plus corrective measures",
+            "FRATERNITY: dignity + unity and integrity",
+            "  -> personal worth joined to common citizenship",
+            "",
+            "BALANCE",
+            "liberty without equality entrenches privilege;",
+            "equality without liberty risks coercion;",
+            "fraternity sustains both as a shared constitutional project."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Preamble.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\04_Preamble.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\polity-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Berubari Union (1960), Kesavananda Bharati (1973) and LIC OF INDIA (1995): legal status settled",
+          "structural_type": "judicial-doctrine-timeline",
+          "ascii_lines": [
+            "BERUBARI UNION (1960)",
+            "  +-- Preamble is a key to the makers' minds",
+            "  +-- advisory opinion did not regard it as part of Constitution",
+            "        |",
+            "KESAVANANDA BHARATI (1973)",
+            "  +-- Preamble is part of Constitution",
+            "  +-- amendable under Article 368",
+            "  +-- amendment cannot damage basic structure",
+            "        |",
+            "LIC OF INDIA (1995)",
+            "  +-- reaffirms Preamble as integral to Constitution",
+            "",
+            "TWO LIMITS",
+            "No independent legislative power comes from Preamble.",
+            "No standalone directly enforceable right comes from Preamble."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Preamble.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\04_Preamble.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\polity-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Amendability stops at constitutional identity",
+          "structural_type": "amendment-boundary-map",
+          "ascii_lines": [
+            "ARTICLE 368",
+            "  +-- reaches Preamble because it is part of Constitution",
+            "  +-- 42nd Amendment validly added three expressions",
+            "  +-- BUT amending power is limited",
+            "        |",
+            "BASIC-STRUCTURE TEST",
+            "Does change alter wording while preserving constitutional identity?",
+            "  -> permissible amendment",
+            "Does change destroy sovereignty, democracy, secularism, republic or dignity?",
+            "  -> invalid damage to basic structure",
+            "",
+            "CORRECT FORMULA",
+            "Preamble is amendable; its basic features are not abrogable.",
+            "CLOSE DISTINCTION: Berubari Union (1960) treated it as not part; Kesavananda Bharati (1973)",
+            "  held it part and amendable subject to basic structure; LIC OF INDIA (1995) reaffirmed that",
+            "  position."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Preamble.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\04_Preamble.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\polity-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "How non-justiciable words produce legal force",
+          "structural_type": "interpretive-mechanism",
+          "ascii_lines": [
+            "AMBIGUOUS CONSTITUTIONAL TEXT",
+            "        |",
+            "Preamble identifies purpose, value and structural direction",
+            "        +-- choose meaning consistent with justice, liberty and dignity",
+            "        +-- reject reading defeating democratic or secular structure",
+            "        |",
+            "DOCTRINAL USE",
+            "  +-- interpret rights and institutional powers",
+            "  +-- identify basic-structure principles",
+            "  +-- connect Parts III and IV",
+            "",
+            "STOP RULE",
+            "Clear text cannot be rewritten by Preamble alone.",
+            "No power, offence, tax or enforceable claim arises solely from Preamble."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Preamble.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\04_Preamble.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\polity-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Preamble claims: problem and precise response",
+          "structural_type": "problem-response-grid",
+          "ascii_lines": [
+            "CLAIM                                      PRECISE RESPONSE",
+            "\"mere ornament\"                           false: interpretive and structural force",
+            "\"source of all government power\"          false: operative provisions confer power",
+            "\"directly enforceable\"                    false: values guide enforceable provisions",
+            "\"unchangeable\"                            false: Article 368 applies, basic structure limits",
+            "\"Socialist means State ownership\"         too broad: democratic socialism is mixed",
+            "\"Secular means strict separation\"         incomplete: equal respect plus reform regulation",
+            "\"Republic means direct democracy\"         false: concerns non-hereditary headship",
+            "\"integrity replaced unity\"                false: 42nd added integrity after unity",
+            "",
+            "Constitution in miniature, but not a miniature Constitution."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Preamble.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\04_Preamble.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\polity-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Exact PYQ control: wording, ownership and answer route",
+          "structural_type": "pyq-control-matrix",
+          "ascii_lines": [
+            "DIRECT OWNER",
+            "2020 GS-I Q16: Preamble is part, but has no legal effect independently of other parts -> D",
+            "  (reasoned; no local official key).",
+            "",
+            "ADJACENT PRELIMS",
+            "2021 GS-I Q93: exact 26 Jan 1950 status = Sovereign Democratic Republic -> B.",
+            "",
+            "EXACT MAINS DEMANDS",
+            "2019 GS-II Q5 (10/150): What can France learn from the Indian Constitution's approach to",
+            "  secularism? ONE-WAY answer only.",
+            "2021 GS-II Q1 (10/150): explain constitutional morality WITH relevant judicial decisions.",
+            "2024 GS-II Q15 (15/250): India as secular State compared with US principles.",
+            "2025 GS-II Q11 (15/250): constitutional morality applied to judicial",
+            "  independence/accountability.",
+            "2025 GS-IV Q1(b) (10/150): public-service morality, governance and accountability.",
+            "",
+            "TRAP: never convert a cross-owned PYQ into an exclusive Preamble question or silently rewrite",
+            "  its demand."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Preamble.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\04_Preamble.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\polity-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Exact 10/15/20-mark architecture: Preamble as identity and interpretive control",
+          "structural_type": "answer-architecture",
+          "ascii_lines": [
+            "10 MARKS / 150 WORDS",
+            "1. Define Preamble as declaratory, identity-bearing and interpretive.",
+            "2. Decode people, State, objectives and enactment.",
+            "3. State Berubari Union (1960) -> Kesavananda Bharati (1973) shift.",
+            "4. Add no standalone power and no direct enforceability.",
+            "5. Conclude: constitutional compass bounded by operative text.",
+            "",
+            "15 MARKS / 250 WORDS",
+            "1. Trace Objectives Resolution to 26 November 1949.",
+            "2. Explain popular sovereignty and five descriptors.",
+            "3. Analyse justice-liberty-equality-fraternity interdependence.",
+            "4. Use Berubari Union (1960), Kesavananda Bharati (1973) and LIC OF INDIA (1995).",
+            "5. Explain Article 368 plus basic-structure boundary.",
+            "6. Show interpretive force with one rights or federalism application.",
+            "7. Conclude: identity charter, not autonomous source of rules.",
+            "",
+            "20 MARKS / 250 WORDS",
+            "1. Open with source, identity, objectives and enactment architecture.",
+            "2. Trace Objectives Resolution and exact five State descriptors.",
+            "3. Analyse interdependence of justice, liberty, equality and fraternity.",
+            "4. Use Berubari Union (1960) -> Kesavananda Bharati (1973) -> LIC OF INDIA (1995) for status.",
+            "5. Separate membership, enforceability and source of power.",
+            "6. Apply Article 368/basic-structure boundary and Dr Balram Singh.",
+            "7. Add one criticism, reply and calibrated conclusion."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Preamble.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\04_Preamble.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\polity-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Current legal control and qualified synthesis",
+          "structural_type": "current-law-synthesis",
+          "ascii_lines": [
+            "DR BALRAM SINGH (2024 INSC 893; 25 NOV 2024)",
+            "+-- Article 368 reaches the Preamble",
+            "+-- challenge to Socialist and Secular dismissed",
+            "+-- socialism does not prescribe one economic model",
+            "+-- secularism is equality-linked",
+            "",
+            "FIVE DESCRIPTORS, NOT SIX",
+            "Sovereign + Socialist + Secular + Democratic + Republic",
+            "Integrity belongs to fraternity's objective: unity and integrity of the Nation.",
+            "",
+            "FINAL VERDICT",
+            "The Preamble is constitutional text and an authoritative interpretive charter, but it creates no",
+            "  standalone power or enforceable claim. Its values work through operative provisions and",
+            "  basic-structure review."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g18\\polity-04_Complete-Learning-Session_2026-08-28.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Preamble.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\04_Preamble.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\polity-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "2024 current-law control: Socialist and Secular remain",
+          "structural_type": "case-status-panel",
+          "ascii_lines": [
+            "42ND AMENDMENT 1976 -> inserts SOCIALIST, SECULAR and INTEGRITY",
+            "CHALLENGE -> retrospective insertion / constituent choice objections",
+            "BALRAM SINGH, 25 NOV 2024, 2024 INSC 893 -> petitions rejected",
+            "HOLDING -> Constitution is amendable/living, subject to constitutional limits",
+            "LIMIT -> no standalone Preamble cause of action and no compulsory economic model.",
+            "LEGAL/SOURCE LIMIT: Non-justiciable does not mean legally irrelevant, and the 25 November 2024",
+            "  Balram Singh order upheld the 42nd-Amendment words without converting 'socialist' into one",
+            "  compulsory economic model."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Preamble.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\04_Preamble.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-04\\g19\\polity-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

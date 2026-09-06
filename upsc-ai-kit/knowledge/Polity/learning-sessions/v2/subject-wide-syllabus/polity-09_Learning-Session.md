@@ -514,6 +514,40 @@ The standard source-backed list associated with the Committee included:
 - No web claim of a direct 2018 or 2021 Fundamental Duties question is used because it was not verified in local official paper ledgers.
 - No direct Mains PYQ was found in the local routed corpus; original Mains practice is clearly labelled original.
 
+### Semantic-completeness ownership and PYQ control
+
+- **Origin and placement:** the original Constitution had no separate citizen-duty
+  list. The Swaran Singh Committee recommended eight duties; the 42nd Amendment,
+  1976 inserted Part IVA and ten clauses in Article 51A; the 86th Amendment, 2002
+  inserted clause (k), bringing the total to eleven.
+- **Exact clauses:** preserve the constitutional wording and scope of clauses
+  (a)-(k): Constitution/institutions/Flag/Anthem; freedom-struggle ideals;
+  sovereignty-unity-integrity; defence/service; harmony and women's dignity;
+  composite culture; environment/compassion; scientific temper/humanism/inquiry/
+  reform; public property/non-violence; excellence; and education opportunity by
+  a parent or guardian for a child or ward aged six to fourteen.
+- **Legal character:** duties apply to citizens only, are non-justiciable and are
+  not self-executing offences. Parliament or a competent legislature may enact a
+  precise law; its validity remains subject to Fundamental Rights, competence and
+  proportionality.
+- **Case-law discipline:** Bijoe Emmanuel protects conscientious non-singing where
+  no disrespect occurs; M.C. Mehta supports environmental education; AIIMS
+  Students' Union recognises interpretive value; Naveen Jindal protects respectful
+  flag display; A. Nagaraja and the 2023 Jallikattu judgment must retain their
+  different statutory/constitutional outcomes.
+- **Operationalisation:** the J.S. Verma Committee (1999) mapped existing laws and
+  education/awareness measures. The National Honour Act, UAPA, BNS, environmental,
+  public-property and education statutes create their own offences or duties;
+  Article 51A alone does not.
+- **Current status:** Durga Dutt, W.P.(C) 67/2022, remains pending on the located
+  official record. The 11 September 2024 order sought a synopsis of Central and
+  State laws effectuating Article 51A and did not make duties enforceable.
+- **Four-ledger hostile audit:** exact text, committee/amendment history, legal
+  mechanisms, cases, criticisms, omitted-duty traps, implementation and every
+  routed or supporting 2018-2026 PYQ were checked.
+- **PYQ boundary:** no direct routed objective or Mains question is invented.
+  Relevant 2020 and 2025 questions remain explicitly supporting cross-topic routes.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Original hard MCQs

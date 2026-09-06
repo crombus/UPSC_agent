@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "validation_id": "polity-01-55-semantic-completion-2026-09-05",
+  "validated_at": "2026-09-05T16:34:38.514478+00:00",
+  "result": "passed",
+  "approval": false,
+  "scope": {
+    "subject": "Polity",
+    "topic_count": 55,
+    "completion": "55/55",
+    "final_batch": [
+      "polity-51",
+      "polity-52",
+      "polity-53",
+      "polity-54",
+      "polity-55"
+    ]
+  },
+  "checks": {
+    "authoritative_semantic_state_55_of_55": true,
+    "strict_final_batch_sequence": true,
+    "all_topic_validations_passed": true,
+    "approval_false": true,
+    "ascii_12_of_12": true,
+    "graphical_12_of_12": true,
+    "mcq_rotation_48": true,
+    "layouts_clean": true
+  },
+  "final_batch_metrics": [
+    {
+      "topic_key": "polity-51",
+      "record_id": "polity-51:learner-v2:g4",
+      "result": "passed",
+      "approval": false,
+      "main_pages": 49,
+      "workbook_pages": 25,
+      "question_count": 10,
+      "mcq_count": 48,
+      "ascii_panel_count": 12,
+      "graphical_stage_count": 12,
+      "targeted_tests": 65
+    },
+    {
+      "topic_key": "polity-52",
+      "record_id": "polity-52:learner-v2:g5",
+      "result": "passed",
+      "approval": false,
+      "main_pages": 56,
+      "workbook_pages": 30,
+      "question_count": 12,
+      "mcq_count": 48,
+      "ascii_panel_count": 12,
+      "graphical_stage_count": 12,
+      "targeted_tests": 65
+    },
+    {
+      "topic_key": "polity-53",
+      "record_id": "polity-53:learner-v2:g4",
+      "result": "passed",
+      "approval": false,
+      "main_pages": 57,
+      "workbook_pages": 33,
+      "question_count": 10,
+      "mcq_count": 48,
+      "ascii_panel_count": 12,
+      "graphical_stage_count": 12,
+      "targeted_tests": 65
+    },
+    {
+      "topic_key": "polity-54",
+      "record_id": "polity-54:learner-v2:g4",
+      "result": "passed",
+      "approval": false,
+      "main_pages": 59,
+      "workbook_pages": 32,
+      "question_count": 10,
+      "mcq_count": 48,
+      "ascii_panel_count": 12,
+      "graphical_stage_count": 12,
+      "targeted_tests": 65
+    },
+    {
+      "topic_key": "polity-55",
+      "record_id": "polity-55:learner-v2:g4",
+      "result": "passed",
+      "approval": false,
+      "main_pages": 60,
+      "workbook_pages": 30,
+      "question_count": 10,
+      "mcq_count": 48,
+      "ascii_panel_count": 12,
+      "graphical_stage_count": 12,
+      "targeted_tests": 65
+    }
+  ],
+  "aggregate": {
+    "main_pages": 281,
+    "workbook_pages": 150,
+    "question_count": 52,
+    "mcq_count": 240,
+    "ascii_panels": 60,
+    "graphical_stages": 60,
+    "per_topic_targeted_tests": 325,
+    "final_regression_tests": 55
+  },
+  "blockers": [],
+  "authoritative_next": {
+    "topic_key": "governance-01",
+    "subject": "Governance",
+    "section": "Subject-wide Syllabus",
+    "title": "Good Governance: Concepts and Frameworks"
+  },
+  "status_paths": [
+    "upsc-ai-kit\\manifests\\reviews\\knowledge-semantic-completeness-status.json",
+    "KNOWLEDGE-SEMANTIC-COMPLETENESS-TRACKER.md",
+    "EXPORT-PDF-STATUS.json",
+    "notes\\Final-Learning-Packages\\_deep-content-review\\REVIEW-TRACKER.json"
+  ]
+}

@@ -79,7 +79,7 @@ using the Supreme Court's 2025 judgment and later Article 143 opinion.
   - **Executable route:** (1) **Thesis** — recent practice shows a centralising drift that uses Concurrent-List and disaster powers to enter the State field, stressing cooperative federalism. (2) **Emergency legislation** — the **Disaster Management Act, 2005** and **Epidemic Diseases Act, 1897** used for nationwide COVID-19 directions. (3) **Farm Acts (2020)** — enacted citing **Entry 33, Concurrent List** (trade/commerce in foodstuffs) but touching **agriculture and markets (State List Entries 14 and 28)** — the core federal grievance; **repealed in 2021**. (4) **Other centralising tools** — Art 249/250/252/253, All-India Services, rising **cesses/surcharges** shrinking the divisible pool, centrally sponsored scheme conditionalities, GST subsuming State taxes (Art 246A/279A). (5) **Counter-balance** — *S.R. Bommai* (federalism a basic feature), the GST Council's shared decisions, Finance Commission transfers, and the Farm Acts' repeal showing political federalism at work. (6) **Verdict** — centralisation via emergency/Concurrent legislation is real but bounded; the corrective is genuine consultation (Inter-State Council, Art 263) and respect for the List boundaries.
 - **2024 · GS-II · Q13** — Demand (neutral rendering): *recent changes in Centre–State relations; suggest measures to strengthen federalism and build trust.* Directive: **Suggest** · **15 marks · 250 words**.
   - **Core routing supersedes the older `advanced/13_Centre-State-and-Inter-State-Relations.md` pointer for this demand.**
-  - **Executable route:** (1) **Recent changes** — GST reshaping fiscal autonomy (Art 246A/279A), Planning Commission → **NITI Aayog**, Governor-assent frictions, rising cesses/surcharges, CSS conditionalities. (2) **Diagnose the trust deficit** across fiscal, administrative (Governor, CBI "general consent") and legislative dimensions. (3) **Suggest (directive demands solutions)** — predictable, rules-based transfers and fewer cesses; **regular convening of the Inter-State Council (Art 263)**; bounded Governor discretion per **Sarkaria/Punchhi/Bommai**; GST Council by consensus; time-bound assent norms; implement Punchhi. (4) **Verdict** — trust is built through institutionalised consultation and rules-based finance, not ad hoc goodwill.
+  - **Executable route:** (1) **Recent changes** — GST reshaping fiscal autonomy (Art 246A/279A), Planning Commission → **NITI Aayog**, Governor-assent frictions, rising cesses/surcharges, CSS conditionalities. (2) **Diagnose the trust deficit** across fiscal, administrative (Governor, CBI "general consent") and legislative dimensions. (3) **Suggest (directive demands solutions)** — predictable, rules-based transfers and fewer cesses; **regular convening of the Inter-State Council (Art 263)**; bounded Governor discretion per **Sarkaria/Punchhi/Bommai**; GST Council by consensus; transparent assent procedures consistent with the 20 November 2025 Article 143 opinion (**no court-created rigid deadline or deemed assent**); implement Punchhi. (4) **Verdict** — trust is built through institutionalised consultation and rules-based finance, not ad hoc goodwill.
 - **2025 · GS-II · Q14** — Demand (neutral rendering): *the evolving pattern of Centre–State financial relations and fiscal federalism.* Directive: **Examine** · **15 marks · 250 words**.
   - **Core routing supersedes the older `advanced/13_Centre-State-and-Inter-State-Relations.md` pointer for this demand.**
   - **Executable route:** (1) **Thesis** — fiscal federalism has moved from discretionary plan-based transfers to a rules-based Finance Commission/GST architecture, but vertical imbalance and the cess/surcharge leakage persist. (2) **Evolution** — discretionary grants (Art 282) and the Planning Commission/NDC era → **14th FC** raising devolution to **42%** → 15th FC → **16th FC (Panagariya, 41% retained, effective 1 Apr 2026)**; GST (101st Amendment) pooling State taxes; NITI Aayog replacing the Planning Commission (2015). (3) **Instruments** — Art 268–271 distribution, **Art 275** statutory grants, **Art 282** discretionary grants, **Art 280** Finance Commission, **Art 293** borrowing, **Art 279A** GST Council. (4) **Live grievances** — cesses/surcharges (Art 271) outside the divisible pool, the horizontal-formula debate, ending GST compensation, conditional CSS. (5) **Verdict** — reforms have strengthened rules-based sharing, but genuine fiscal federalism needs shrinking cesses, a fair horizontal formula and honoured GST commitments.
@@ -306,3 +306,42 @@ into a distinctive one.
 
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Legislative relations:** Articles 245-255, the Seventh Schedule and Articles
+  246A/248 establish territorial reach, distribution, GST competence, residue and
+  repugnancy. Parliament enters the State field only through the distinct routes
+  in Articles 249, 250, 252, 253 and 356.
+- **Conflict doctrines:** pith and substance tests true character; territorial
+  nexus tests State-law reach; colourable legislation tests disguised incompetence;
+  harmonious construction seeks coexistence; Article 254 resolves repugnancy,
+  including the limited President-assented State-law exception in clause (2).
+- **Administrative relations:** Articles 256-257 directions, Article 258/258A
+  entrustment, Article 261 full faith and credit, Article 263 coordination,
+  Article 312 All-India Services, and Articles 355/365 must retain separate
+  triggers and consequences.
+- **CBI boundary:** Section 6 of the Delhi Special Police Establishment Act requires
+  State consent for ordinary CBI exercise of powers in a State. Withdrawal of
+  general consent does not displace constitutional-court power under Articles
+  32/226 or automatically nullify every lawfully commenced investigation.
+- **Financial relations:** Articles 268-281, 292-293, Article 246A/269A/279A,
+  the divisible pool, grants, cesses/surcharges, borrowing and Finance Commission
+  recommendations must be analysed as distinct vertical and horizontal mechanisms.
+- **Inter-State relations:** Article 262 plus the 1956 water-disputes statute,
+  Article 263, statutory Zonal Councils, the North-Eastern Council, Article 261 and
+  Articles 301-307 create different adjudicatory, consultative and market routes.
+- **Commissions:** Rajamannar, Sarkaria and Punchhi recommendations are named
+  reform evidence, not binding constitutional amendments. Article 356 remains a
+  last-resort control under S.R. Bommai.
+- **Current assent law:** Special Reference No. 1 of 2025 holds that the Governor
+  has three Article 200 options, acts with discretion rather than State-Cabinet
+  advice for that choice, and is not subject to merits review; only prolonged,
+  unexplained and indefinite inaction permits limited mandamus to act.
+- **Current fiscal control:** the Sixteenth Finance Commission submitted its report
+  on 17 November 2025 for 2026-31 and retained forty-one per cent vertical
+  devolution. Mohit Minerals continues to treat GST Council recommendations as
+  persuasive rather than binding.
+- **Four-ledger/PYQ control:** all four relation dimensions, doctrines, commissions,
+  institutions, live legal status and the eleven direct/supporting 2018-2025
+  demands were reconciled; federal/unitary taxonomy stays in Topic 12.

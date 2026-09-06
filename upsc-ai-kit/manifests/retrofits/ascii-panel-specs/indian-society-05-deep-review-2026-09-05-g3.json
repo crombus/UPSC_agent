@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "indian-society-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_society_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-society-05",
+      "display_title": "Rural Society and Agrarian Change",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-05\\g3\\indian-society-05_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Jajmani anatomy",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "JAJMAN -> patron household, usually landholding",
+            "KAMIN -> designated hereditary service group",
+            "SERVICE -> barbering, laundry, priestly, carpentry, smithing",
+            "PAYMENT -> customary, often grain or kind, sometimes cash",
+            "MUST REMEMBER: Rural society combines caste, class, land, labour, credit, kinship, panchayat,",
+            "  market and state relations; agrarian change follows tenure reform, Green Revolution,",
+            "  mechanisation, commercialisation, feminisation, migration, non-farm diversification and",
+            "  ecological stress."
+          ],
+          "source_references": [
+            "The jajmani exchange",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-05\\g3\\indian-society-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "What actually defined jajmani",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "NOT -> the absence of cash in the transaction",
+            "YES -> hereditary allocation of the service role",
+            "YES -> personalised patron-client obligation",
+            "YES -> caste occupation embedded in the village economy"
+          ],
+          "source_references": [
+            "The jajmani exchange",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-05\\g3\\indian-society-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Decline mechanism",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "COMMERCIALISATION -> patrons buy services in a market",
+            "NON-FARM WORK -> service castes migrate to towns for wages",
+            "DECOUPLING -> hereditary occupation-caste link breaks",
+            "RESIDUAL -> ritual and personalised ties survive in places"
+          ],
+          "source_references": [
+            "Why jajmani changed",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-05\\g3\\indian-society-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Agrarian class ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "LANDOWNING CULTIVATOR -> controls land and surplus",
+            "TENANT OR SHARECROPPER -> cultivates with insecure claim",
+            "LANDLESS LABOURER -> depends on wage work",
+            "OVERLAP -> class often but not always tracks caste rank"
+          ],
+          "source_references": [
+            "Agrarian class structure",
+            "Caste and class in the village",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-05\\g3\\indian-society-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Dominant caste test",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "NUMBERS -> locally numerous population",
+            "LAND -> significant share of village land",
+            "OFFICE -> control of Panchayat and political networks",
+            "RESULT -> local power can sit below the ritual top"
+          ],
+          "source_references": [
+            "The dominant caste",
+            "Srinivas's village evidence",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-05\\g3\\indian-society-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Two categories kept apart",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DOMINANT CASTE -> caste-level, numbers plus land plus office",
+            "LANDOWNING CLASS -> economic category cutting across castes",
+            "USUAL CASE -> the two largely coincide in a village",
+            "ERROR PREVENTED -> treating them as the same unit",
+            "CLOSE DISTINCTION: Rural is not agricultural, landowner is not cultivator, farmer is not only",
+            "  title-holder, productivity is not income, agricultural labour is not bonded labour, and",
+            "  Panchayati Raj representation is not the same as effective decision-making power."
+          ],
+          "source_references": [
+            "Dominance is not landownership alone",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-05\\g3\\indian-society-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Green Revolution differentiation",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "INPUT PACKAGE -> high-yielding seed, irrigation, fertiliser",
+            "REQUIREMENT -> upfront capital, credit and market access",
+            "EFFECT -> earlier adopters capture a larger share of gains",
+            "LIMIT -> outcome varies by crop, tenancy and region"
+          ],
+          "source_references": [
+            "Green Revolution differentiation",
+            "Why the outcome is region-specific",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-05\\g3\\indian-society-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Panchayat power test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "RESERVED SEAT -> Scheduled Castes, Scheduled Tribes and women",
+            "QUESTION -> who sets the agenda in practice",
+            "PROXY RISK -> informal dominant-caste network controls decisions",
+            "EVIDENCE NEEDED -> village-level, not a national statistic"
+          ],
+          "source_references": [
+            "Panchayati Raj reservation",
+            "Representation and substantive power",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-05\\g3\\indian-society-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Continuum against dichotomy",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "DICHOTOMY -> village traditional, town modern, sealed apart",
+            "CONTINUUM -> one spectrum linked by flows",
+            "FLOWS -> migration, remittance, trade, media, road and market",
+            "CAUTION -> linkage does not abolish remoteness or land relations"
+          ],
+          "source_references": [
+            "The rural-urban continuum",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-05\\g3\\indian-society-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Scope discipline",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "SOCIETY OWNS -> jajmani, dominance, stratification, continuum",
+            "ECONOMY OWNS -> land ceiling, tenancy law, poverty aggregates",
+            "GOVERNANCE OWNS -> Panchayati Raj institutional design",
+            "RULE -> cross-refer the borrowing and label it"
+          ],
+          "source_references": [
+            "Scope discipline in a rural answer",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-05\\g3\\indian-society-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Measurement boundary",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "PLFS 2023-24 -> dated rural workforce comparator",
+            "PLFS ANNUAL REPORT 2025 -> released March 2026, latest round",
+            "PERIOD -> January to December, not the older July to June cycle",
+            "LIMIT -> cannot prove jajmani decline or caste dominance"
+          ],
+          "source_references": [
+            "Measurement boundaries",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-05\\g3\\indian-society-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Rural answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> name the changing power relation, not a village portrait",
+            "BODY -> jajmani change, class structure, dominance, Panchayat",
+            "FRAME -> which resource now carries power in this village",
+            "CLOSE -> continuum verdict with the data and scope caveats",
+            "EVIDENCE LIMIT: Contrast Punjab-Haryana, eastern India, dryland Deccan, plantation, tribal and",
+            "  peri-urban regions; use Agriculture Census, Situation Assessment and labour data with",
+            "  period/coverage labels, and treat technology-policy correlations as mechanisms requiring",
+            "  land, water, market and power analysis."
+          ],
+          "source_references": [
+            "Answer spine and honest question status",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\05_Rural-Society-and-Agrarian-Change.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-05\\g3\\indian-society-05_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

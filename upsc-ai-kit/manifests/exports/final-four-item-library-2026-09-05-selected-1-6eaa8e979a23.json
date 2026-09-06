@@ -1,0 +1,298 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-09-05T17:24:06+00:00",
+  "purpose": "Persistent four-deliverable navigation/export library",
+  "scope": "selected",
+  "export_root": "notes\\Final-Learning-Packages",
+  "tracker": {
+    "path": "EXPORT-PDF-STATUS.json",
+    "sha256_before": "b82d012e58a842926b0eae7d95616f50c679b094054db2097527b8197e81df6c",
+    "sha256_after": "b82d012e58a842926b0eae7d95616f50c679b094054db2097527b8197e81df6c",
+    "unchanged": true
+  },
+  "catalogue": {
+    "path": "upsc-ai-kit\\manifests\\v2\\topic-catalog.json",
+    "sha256_before": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "sha256_after": "e186a4215ddb48af9c6164dc3c407c5ee69e0dba26d20ac54ddb8b159e3ece27",
+    "unchanged": true
+  },
+  "topic_count": 1,
+  "subjects": {
+    "Governance": 1
+  },
+  "sections": {
+    "Governance — Subject-wide Syllabus": 1
+  },
+  "library_totals": {
+    "file_count": 10757,
+    "pdf_count": 2409,
+    "png_count": 787,
+    "txt_count": 1014,
+    "markdown_count": 1824,
+    "json_count": 4708,
+    "total_bytes": 4270442934,
+    "by_extension": {
+      ".json": 4708,
+      ".md": 1824,
+      ".pdf": 2409,
+      ".png": 787,
+      ".txt": 1014,
+      ".zip": 15
+    }
+  },
+  "topics": [
+    {
+      "topic_key": "governance-11",
+      "topic_title": "Regulatory Governance and Independent Regulators",
+      "subject": "Governance",
+      "section": "Subject-wide Syllabus",
+      "catalogue_number": 11,
+      "source_record_id": "governance-11:learner-v2:g3",
+      "source_generation": 3,
+      "destination_folder": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\11-Regulatory-Governance-and-Independent-Regulators",
+      "approval": "Approval pending",
+      "artifacts": {
+        "complete_learning_session": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-11\\g3\\governance-11_Complete-Learning-Session_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\11-Regulatory-Governance-and-Independent-Regulators\\01-Complete-Learning-Session\\Complete-Learning-Session.pdf",
+          "source_sha256": "2c9b21a3d0bbaec41b94d836938099f85a3dc1d4e9e1ef9a2c8e3c6e05e74970",
+          "output_sha256": "2c9b21a3d0bbaec41b94d836938099f85a3dc1d4e9e1ef9a2c8e3c6e05e74970",
+          "source_output_equal": true,
+          "bytes": 823689
+        },
+        "solved_practice_workbook": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-11\\g3\\governance-11_Solved-Practice-Workbook_2026-09-05.pdf",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\11-Regulatory-Governance-and-Independent-Regulators\\02-Solved-Practice-Workbook\\Solved-Practice-Workbook.pdf",
+          "source_sha256": "7c3eef44635a825f02eb201ad03d1f696e512c158106d764e92578e7f40290ba",
+          "output_sha256": "7c3eef44635a825f02eb201ad03d1f696e512c158106d764e92578e7f40290ba",
+          "source_output_equal": true,
+          "bytes": 625855
+        },
+        "graphical_poster": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\flowcharts\\iac-11\\carvaka-g3\\poster.pdf",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\11-Regulatory-Governance-and-Independent-Regulators\\03-Carvaka-Graphical-Flowchart\\At-a-Glance-Poster.pdf",
+          "source_sha256": "51a9ab4327d2415b729a9c8c96c5dcd195b74c803fc36026fcf077720ae69186",
+          "output_sha256": "51a9ab4327d2415b729a9c8c96c5dcd195b74c803fc36026fcf077720ae69186",
+          "source_output_equal": true,
+          "bytes": 2238670
+        },
+        "graphical_tiled": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\flowcharts\\iac-11\\carvaka-g3\\tiled.pdf",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\11-Regulatory-Governance-and-Independent-Regulators\\03-Carvaka-Graphical-Flowchart\\Printable-Tiled-Version.pdf",
+          "source_sha256": "f57ad6b282ea7088f0b0b15221bcffa211fd9dad11c6d5cf221b2f52d7cc24e5",
+          "output_sha256": "f57ad6b282ea7088f0b0b15221bcffa211fd9dad11c6d5cf221b2f52d7cc24e5",
+          "source_output_equal": true,
+          "bytes": 2734294
+        },
+        "graphical_master": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\flowcharts\\iac-11\\carvaka-g3\\master.png",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\11-Regulatory-Governance-and-Independent-Regulators\\03-Carvaka-Graphical-Flowchart\\High-Resolution-Master.png",
+          "source_sha256": "822970fa0f52512688d849e23ff7b84a5591793b3565e0fa0e2062f18d2ff51d",
+          "output_sha256": "822970fa0f52512688d849e23ff7b84a5591793b3565e0fa0e2062f18d2ff51d",
+          "source_output_equal": true,
+          "bytes": 1975482
+        },
+        "ascii_master_text": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\flowcharts\\iac-11\\carvaka-g3\\ascii-master.txt",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\11-Regulatory-Governance-and-Independent-Regulators\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.txt",
+          "source_sha256": "a8d003d0df56a7ef51cb3464c166655658f9dd89cfc835c923b691afccc7d1e2",
+          "output_sha256": "a8d003d0df56a7ef51cb3464c166655658f9dd89cfc835c923b691afccc7d1e2",
+          "source_output_equal": true,
+          "bytes": 5514
+        },
+        "ascii_master_pdf": {
+          "source": "notes\\Learner-v2-Refreshed\\Governance\\GOV\\flowcharts\\iac-11\\carvaka-g3\\ascii-master.pdf",
+          "output": "notes\\Final-Learning-Packages\\Governance\\Subject-wide Syllabus\\11-Regulatory-Governance-and-Independent-Regulators\\04-ASCII-Master-Flowchart\\ASCII-Master-Flowchart.pdf",
+          "source_sha256": "aaa098ef5e7f8f47c1b2ddda3ffa6e6e375a580e358d37e4b8b13572b4a5d900",
+          "output_sha256": "aaa098ef5e7f8f47c1b2ddda3ffa6e6e375a580e358d37e4b8b13572b4a5d900",
+          "source_output_equal": true,
+          "source_text_sha256": "a8d003d0df56a7ef51cb3464c166655658f9dd89cfc835c923b691afccc7d1e2",
+          "normalized_text_equal": true,
+          "bytes": 57676
+        }
+      },
+      "ascii": {
+        "text_panel_count": 12,
+        "pdf_panel_count": 12,
+        "normalized_equal": true,
+        "minimum_font_size_points": 10.5,
+        "page_metrics": [
+          {
+            "page": 1,
+            "line_count": 6,
+            "maximum_line_characters": 94,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 2,
+            "line_count": 6,
+            "maximum_line_characters": 95,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 3,
+            "line_count": 5,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 4,
+            "line_count": 6,
+            "maximum_line_characters": 82,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 5,
+            "line_count": 5,
+            "maximum_line_characters": 80,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 6,
+            "line_count": 8,
+            "maximum_line_characters": 91,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 7,
+            "line_count": 6,
+            "maximum_line_characters": 86,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 8,
+            "line_count": 5,
+            "maximum_line_characters": 81,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 9,
+            "line_count": 5,
+            "maximum_line_characters": 85,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 10,
+            "line_count": 7,
+            "maximum_line_characters": 92,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 11,
+            "line_count": 5,
+            "maximum_line_characters": 84,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          },
+          {
+            "page": 12,
+            "line_count": 6,
+            "maximum_line_characters": 90,
+            "font_size_points": 10.5,
+            "page_size_points": [
+              841.89,
+              595.28
+            ]
+          }
+        ]
+      },
+      "pdf_page_counts": {
+        "complete_learning_session": 120,
+        "solved_practice_workbook": 75,
+        "graphical_poster": 1,
+        "graphical_tiled": 4,
+        "ascii_master_pdf": 12
+      },
+      "pdf_layout_validation": {
+        "complete_learning_session": {
+          "page_count": 120,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "solved_practice_workbook": {
+          "page_count": 75,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_poster": {
+          "page_count": 1,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "graphical_tiled": {
+          "page_count": 4,
+          "blank_pages": [],
+          "near_empty_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        },
+        "ascii_master_pdf": {
+          "page_count": 12,
+          "blank_pages": [],
+          "clipped_text_pages": [],
+          "replacement_glyph_pages": []
+        }
+      },
+      "graphical_master": {
+        "dimensions": [
+          4800,
+          10806
+        ],
+        "mode": "RGB",
+        "valid": true
+      },
+      "source_artifacts_unchanged": true,
+      "status": "passed"
+    }
+  ],
+  "status": "passed"
+}

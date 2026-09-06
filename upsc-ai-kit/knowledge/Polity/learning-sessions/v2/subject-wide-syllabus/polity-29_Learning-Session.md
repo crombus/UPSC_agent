@@ -15,9 +15,9 @@ approval: false
 
 #### Package method, source priority and current control
 
-- [CURRENT] Status is controlled to **24 August 2026, Asia/Kolkata**.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
 
-- [CURRENT] **Live official refresh, 24 August 2026:** The Sixteenth Finance Commission's official report, submitted on 17 November 2025, the Explanatory Memorandum tabled on 1 February 2026 and Union Budget 2026-27 remain the dated controls for the 2026-31 award. Recommendation, acceptance and implementation are kept distinct.
+- [CURRENT] **Live official refresh, 5 September 2026:** The Sixteenth Finance Commission's official report, submitted on 17 November 2025, the Explanatory Memorandum tabled on 1 February 2026 and Union Budget 2026-27 remain the dated controls for the 2026-31 award. Recommendation, acceptance and implementation are kept distinct.
 - [FACT] Local-first sequence followed: `Polity/basic/Finance-Commission.md` -> `Polity/advanced/29_Finance-Commission.md` -> Centre-State Relations, Panchayati Raj, Municipalities, CAG and GST Council owners -> Economy taxation/public-finance owner only where necessary -> local OCR-searchable *Indian Polity* chapter -> all relevant PYQ routing and audit ledgers.
 - [FACT] Polity packages 27 and 28 were used only as structural, visual and validation references. Their subject content has not been imported.
 - [CURRENT] Constitutional text was controlled against the Legislative Department's official consolidation *The Constitution of India [As on 1 May 2024]*.
@@ -1411,6 +1411,49 @@ ARTICLE 280 COMMISSION
 | Union 2030-31 path | 3.5% GDP recommendation; separate examination |
 | cess/surcharge cap | not recommended |
 
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional map:** Article 280 requires a Finance Commission every fifth
+  year or earlier, consisting of a Chairman and four other members appointed by
+  the President. Article 281 requires the report and an explanatory memorandum
+  on action taken to be laid before Parliament.
+- **Statutory qualifications:** the Finance Commission (Miscellaneous Provisions)
+  Act, 1951 requires public-affairs experience for the Chairman and draws the
+  four members from High-Court judicial qualification, government finance and
+  accounts, financial administration and economics. Disqualification and
+  financial-interest safeguards are statutory, not invented constitutional text.
+- **Current composition:** the Sixteenth Finance Commission was chaired by
+  Dr Arvind Panagariya, with full-time members Annie George Mathew and Dr Manoj
+  Panda and part-time members T. Rabi Sankar and Dr Soumya Kanti Ghosh. It was
+  constituted on 31 December 2023 and submitted its report on 17 November 2025.
+- **Vertical devolution:** the February 2026 Explanatory Memorandum records
+  Government acceptance of the Commission's recommendation to retain States'
+  share at 41 per cent of Article 270 net proceeds for 2026-27 to 2030-31.
+  This is not 41 per cent of gross Union tax revenue.
+- **Horizontal formula:** the accepted formula assigns 42.5 per cent to per-
+  capita GSDP distance, 17.5 per cent to 2011 population and 10 per cent each
+  to demographic performance, area, forest and contribution to GDP. The last
+  criterion is new; tax/fiscal effort is not a separate Sixteenth-FC weight.
+- **Grant status:** no revenue-deficit, sector-specific or State-specific grants
+  were recommended. Government took note of that assessment. The accepted
+  local-body design totals Rs 7,91,493 crore over five years; the accepted
+  State disaster-fund corpus totals Rs 2,04,401 crore. These are award envelopes,
+  not annual releases.
+- **Local bodies:** Article 280(3)(bb) and (c) concern augmentation of State
+  Consolidated Funds on the basis of State Finance Commission recommendations.
+  The national Finance Commission does not replace Articles 243-I and 243-Y SFCs.
+- **Divisible-pool firewall:** Article 279 defines net proceeds and makes the
+  CAG certificate final; Article 270 governs sharing; Article 271 surcharges
+  and applicable specific-purpose cesses remain outside the divisible pool.
+  Article 275 grants and Article 282 discretionary public-purpose grants are distinct.
+- **Advisory status:** Finance Commission recommendations are not judicial
+  decrees. Recommendation, Government acceptance, presidential order, budgetary
+  provision, release and expenditure are separate stages.
+- **Institution/PYQ firewall:** the Article 280 Finance Commission is distinct
+  from the GST Council, NITI Aayog and State Finance Commissions. Direct 2018
+  constitution/terms-of-reference and 2020 fiscal-position Mains demands and
+  routed 2023/2025 objective demands retain their verified ownership and key status.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Original MCQs - 36 questions
@@ -2736,7 +2779,7 @@ rule-based cooperative and accountable fiscal federalism
 
 ### 23. Final current-control limitations
 
-1. [LIMIT] The legal/data control date is 24 August 2026.
+1. [LIMIT] The legal/data control date is 5 September 2026.
 2. [LIMIT] Sixteenth Commission figures are taken from the official report and Explanatory Memorandum; period and response status are preserved.
 3. [LIMIT] No later instrument is used to claim that the proposed Article 280 local-body amendment has been enacted.
 4. [LIMIT] No official 2023 Prelims key is inferred; the answer is analytically resolved from the official Fifteenth formula.

@@ -1269,6 +1269,30 @@ migrant voice; qualify authentication/document exclusion.
 - ✅ `Governance/basic/04_NGOs-SHGs-and-Civil-Society-Stakeholders.md` — SHG social-
   capital concept applicable to DAY-NULM urban SHGs.
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Urban poverty is shaped by insecure work, rent and land markets, service deficits, documentation, mobility and disaster or health shocks; homeless persons and migrant workers have distinct housing, shelter, portability and labour-protection needs.
+- **Indispensable distinction and prerequisite taxonomy:** Urban poor is not synonymous with slum resident, migrant is not necessarily homeless, domicile is not citizenship, shelter occupancy is not housing security, portability is not universal eligibility, and city averages conceal intra-urban deprivation.
+- **Mechanism, implementation and evidence control:** Use urban livelihoods, shelters, PMAY-U and ONORC/e-Shram portability with programme-specific status; map origin-destination governments, ULBs, employers, landlords, frontline workers and migrants through documents, access, grievance, social audit and outcomes.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 2026-09-06: MoHUA, PMAY-U and NFSA/ONORC remain official sources; urban poverty, slum residence, homelessness and migration are distinct categories, while sanction, completion, occupancy, portability and security are distinct outcomes. Sources: https://mohua.gov.in/; https://pmay-urban.gov.in/; https://nfsa.gov.in/portal/One_Nation_One_Ration_Card
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Social Justice owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/social justice taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** This owner's previous-year record is a transparent zero, and it is stated precisely rather than softened, because the questions the owners themselves reproduce belong to other owners. The audited 2024-2025 Mains routing ledger routes the 2024 General Studies Paper I question numbered 5 on why large cities attract more migrants than smaller towns, with the directive Discuss, ten marks and one hundred and fifty words, to the Geography migration-theories-and-patterns owner; it routes the 2025 General Studies Paper I question numbered 8 on smart cities addressing urban poverty and distributive justice, with the directive Discuss, ten marks and one hundred and fifty words, to the Indian Society urbanisation owner; and it routes the 2024 General Studies Paper I question numbered 19 on globalisation and the urban migration of skilled young unmarried women to a further Indian Society owner. The audited General Studies Paper III and Paper IV ledgers route the case studies involving migrant workers during the pandemic lockdown and the confidential report on migrant infiltration to the Ethics case-study and public-service-values owners. The audited 2018-2023 and 2024-2025 Mains routing ledgers therefore route no General Studies question to this owner, and the audited 2018-2023, 2024-2025 and 2026 Prelims routing ledgers route no objective question to it. This package accordingly claims no previous-year ownership, solves no demand card and asserts no year, paper, question number, directive, mark value or word limit as its own, while continuing to teach the migration and smart-city analysis that the repository owners carry as cross-paper anchors. In place of a claimed demand, the package supplies six original Mains questions with model solutions and eighty original objective questions on a strict A-B-C-D rotation, each model solution opening with its analytical claim so that the evidence which follows does argumentative rather than decorative work. The locally held OCR-searchable official General Studies papers were read only to confirm that the reproduced wording matches the printed questions routed elsewhere; no question was invented from them, no marking scheme or page precision was imported and no official answer key is claimed for any question anywhere in this package.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies What this owner holds and where its cross-paper questions actually belong?

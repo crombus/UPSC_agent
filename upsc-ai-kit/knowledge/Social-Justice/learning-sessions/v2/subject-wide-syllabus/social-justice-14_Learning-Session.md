@@ -1254,6 +1254,30 @@ mechanisation that merely shifts unsafe entry.
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Sanitation justice joins safe infrastructure, water, behaviour, municipal capacity, occupational safety, caste and gender dignity, mechanisation, rehabilitation and accountability across the full containment-to-treatment chain.
+- **Indispensable distinction and prerequisite taxonomy:** Open-defecation-free status is not safely managed sanitation, toilet construction is not sustained use, manual scavenging is legally defined and not identical to every sanitation job, prohibition is not eradication, and a reported count depends on identification method and date.
+- **Mechanism, implementation and evidence control:** Use the 2013 prohibition/rehabilitation law, Supreme Court directions, NCSK, NAMASTE/SRMS status and municipal duties precisely; trace identification, liberation, mechanisation, PPE, compensation, rehabilitation, grievance, prosecution and outcome without hiding Safai Karamchari agency.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 2026-09-06: the Department, NSKFDC/NAMASTE and NCSK remain official sources; statutory prohibition, identification, mechanisation, compensation, rehabilitation, prosecution and eradication are separate stages. Sources: https://socialjustice.gov.in/schemes/37; https://nskfdc.nic.in/en/content/home/namaste; https://ncsk.nic.in/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Social Justice owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/social justice taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** This owner's previous-year record is a verified objective ownership rather than a Mains ownership, and it is stated precisely together with the boundary of what is claimed. The audited 2024-2025 Prelims routing ledger routes exactly one demand here, question 24 of the 2024 Prelims General Studies Paper I on the World Toilet Organization, and that ledger records expressly that although the official Set-A answer key is available locally the answer is not recorded there; the Basic owner's own generated integration block applies the same rule and states that it does not convert an unkeyed or answer-free objective question into a solved answer. This package therefore records no option, no key and no inferred answer letter for that question anywhere, and discharges the owner requirement by covering the named body and its likely statement-level distinctions as taught content inside the sanitation-and-dignity frame the owner already carries. No Mains demand is claimed: the audited 2018-2023 Mains routing ledger and the audited 2024-2025 Mains routing ledger route no General Studies question to this owner, both the Basic and the Advanced owner state independently that no General Studies Paper II question in the audited 2024-2025 papers directly names manual scavenging or safai karamcharis, and the questions the owners carry are described by them as probable or anticipated framing, so none of them is reproduced here as a previous-year question and no year, paper, question number, directive, mark value or word limit is asserted for them. Because no solved Mains demand card is available, the package supplies six original Mains questions with model solutions and eighty original objective questions on a strict A-B-C-D rotation, each model solution opening with its analytical claim so that the evidence which follows does argumentative rather than decorative work. The locally held OCR-searchable official General Studies papers were read only to confirm that no routed Mains demand for this owner appears in them; no question was invented from them, no marking scheme or page precision was imported and no official answer key is claimed for any question anywhere in this package.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies What this owner holds and how its routed demand is bounded?

@@ -1,0 +1,246 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-06",
+  "workflow": "environment-and-ecology-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "environment_and_ecology_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "environment-and-ecology-02",
+      "display_title": "Biogeochemical Cycles and Ecological Pyramids",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Cycle accounting frame",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "SYSTEM BOUNDARY -> atmosphere, water, soil, sediment and living biomass included",
+            "POOL -> amount held in one reservoir at a stated time",
+            "FLUX -> transfer between reservoirs per stated time",
+            "PROCESS -> biological, chemical or geological transformation",
+            "BALANCE -> inputs minus outputs; never assumed from one isolated stock",
+            "MUST REMEMBER: Biogeochemical cycles move elements among reservoirs through biological,..."
+          ],
+          "source_references": [
+            "Biogeochemical cycle",
+            "Pool, flux and residence-time boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Reservoir classification",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "GASEOUS -> major atmosphere or ocean reservoir",
+            "SEDIMENTARY -> major crust, soil or sediment reservoir",
+            "CARBON AND NITROGEN -> prominent atmospheric exchange",
+            "PHOSPHORUS -> rock-weathering and sediment pathway",
+            "CAUTION -> class does not set one universal cycling speed"
+          ],
+          "source_references": [
+            "Gaseous and sedimentary cycle distinction",
+            "Phosphorus-cycle boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Carbon movement",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ATMOSPHERIC OR DISSOLVED CARBON -> photosynthetic fixation",
+            "PRODUCER BIOMASS -> consumers and detrital pathways",
+            "RESPIRATION -> carbon returned during metabolism",
+            "DECOMPOSITION AND COMBUSTION -> additional return pathways",
+            "RULE -> stored carbon and annual transfer are different measures"
+          ],
+          "source_references": [
+            "Carbon-cycle mechanism",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Nitrogen transformation rail",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ATMOSPHERIC NITROGEN -> fixation -> ammonia or usable nitrogen forms",
+            "ORGANIC NITROGEN -> ammonification -> ammonia",
+            "AMMONIA -> nitrification -> nitrite -> nitrate",
+            "NITRATE -> plant uptake or denitrification",
+            "DENITRIFICATION -> return toward atmospheric nitrogen"
+          ],
+          "source_references": [
+            "Nitrogen fixation",
+            "Ammonification, nitrification and denitrification",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Nitrogen organism map",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "RHIZOBIUM -> symbiotic fixation associated with legume roots",
+            "AZOTOBACTER -> free-living fixation example in the owner",
+            "NITROSOMONAS -> ammonia to nitrite step",
+            "NITROBACTER -> nitrite to nitrate step",
+            "PSEUDOMONAS-TYPE -> denitrification route"
+          ],
+          "source_references": [
+            "Nitrogen-cycle organism routes",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Phosphorus path",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "PHOSPHATE ROCK -> weathering -> soil or water phosphate",
+            "PLANT UPTAKE -> consumer transfer -> detrital return",
+            "RUNOFF -> aquatic loading -> sedimentation",
+            "MINING AND FERTILISER -> accelerate extraction and dispersal",
+            "BOUNDARY -> no significant atmospheric phase in the owner",
+            "CLOSE DISTINCTION: Reservoir stock is not flux, residence time is not turnover rate,..."
+          ],
+          "source_references": [
+            "Phosphorus-cycle boundary",
+            "Human acceleration is cycle-specific",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Cycle-specific human pressure",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "CARBON -> fossil-fuel combustion and land-cover change",
+            "NITROGEN -> synthetic fertiliser and combustion-related reactive nitrogen",
+            "PHOSPHORUS -> mining, fertiliser application and runoff",
+            "OUTCOMES -> climate forcing, nutrient pollution and resource loss differ",
+            "POLICY -> source control must match the cycle and reservoir"
+          ],
+          "source_references": [
+            "Human acceleration is cycle-specific",
+            "Governance and evidence boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Eutrophication mechanism",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "NUTRIENT ENRICHMENT -> increased algal or plant production",
+            "ORGANIC MATERIAL ACCUMULATES -> decomposer activity rises",
+            "OXYGEN DEMAND RISES -> dissolved oxygen may decline",
+            "ECOLOGICAL STRESS -> composition changes and mortality may occur",
+            "CLASSIFY -> natural ageing versus human-accelerated cultural eutrophication"
+          ],
+          "source_references": [
+            "Natural and cultural eutrophication",
+            "Oxygen-depletion chain",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Three pyramid parameters",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NUMBERS -> count of organisms at each trophic level",
+            "BIOMASS -> standing living material at a stated time",
+            "ENERGY -> transfer through trophic levels over time",
+            "SHAPE -> depends on parameter and ecosystem",
+            "RULE -> only the energy pyramid is always upright"
+          ],
+          "source_references": [
+            "Ecological pyramid parameter",
+            "Pyramid of numbers",
+            "Pyramid of biomass",
+            "Pyramid of energy",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Aquatic biomass inversion",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SMALL PHYTOPLANKTON STANDING CROP -> rapid replacement",
+            "HIGH TURNOVER -> continued production over the measurement period",
+            "CONSUMER STANDING BIOMASS -> may exceed producer biomass at one instant",
+            "ENERGY TRANSFER -> still declines upward",
+            "VERDICT -> biomass inversion is not energy inversion"
+          ],
+          "source_references": [
+            "Pyramid of biomass",
+            "Standing crop versus productivity",
+            "Pyramid of energy",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "Heuristic and model firewall",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "ENERGY LOSS -> qualitative thermodynamic direction is robust",
+            "TEN-PER-CENT RULE -> owner labels it an average heuristic",
+            "OMNIVORY -> weakens a rigid one-level assignment",
+            "SEASONALITY -> changes standing stocks and feeding relations",
+            "PYRAMID -> useful summary, not a complete food web"
+          ],
+          "source_references": [
+            "Ecological-efficiency caution",
+            "Pyramid simplification limit",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        },
+        {
+          "title": "PYQ and evidence boundary",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "ROUTED CONCEPTS -> agricultural nitrogen, rock-weathered phosphorus, fixation links",
+            "BASIC PRACTICE -> reservoir, process and organism distinctions",
+            "OFFICIAL PAPER -> demand wording only",
+            "NO KEY -> no option or answer inferred",
+            "LIVE CHECK -> no rate, pool, efficiency or status imported from a stub",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name pool, process, direction, limiting..."
+          ],
+          "source_references": [
+            "Verified objective PYQ routes",
+            "Governance and evidence boundary",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

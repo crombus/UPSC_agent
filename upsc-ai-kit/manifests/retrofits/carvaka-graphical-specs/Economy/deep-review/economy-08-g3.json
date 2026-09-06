@@ -1,0 +1,1048 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-08",
+  "subject": "Economy",
+  "title": "SECURITIES, BONDS, EQUITY, DERIVATIVES AND INVESTMENT FUNDS",
+  "short_route": "CLAIM-PRIORITY WATERFALL → BOND PRICING BOARD → CREDIT-RISK DECOMPOSITION → DERIVATIVE OBLIGATION FORK → PURPOSE TEST → CLEARING AND LEVERAGE RAIL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g3\\economy-08_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-08-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "eccd2e0ae568ffb413dcaf719ac64380e3a521758a443030e781cc91fc90f6ed",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CLAIM-PRIORITY WATERFALL",
+      "structural_type": "priority-waterfall",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "CLAIM-PRIORITY WATERFALL",
+          "role": "primary"
+        },
+        {
+          "text": "ISSUER CASH FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "CONTRACTUAL DEBT SERVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "BONDHOLDER PRIORITY",
+          "role": "evidence"
+        },
+        {
+          "text": "EQUITY RESIDUAL RETURN",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "BONDS, EQUITY, DERIVATIVES, MUTUAL FUNDS, ETFS, AIFS AND PENSION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "ISSUER CASH FLOW",
+        "CONTRACTUAL DEBT SERVICE",
+        "BONDHOLDER PRIORITY",
+        "EQUITY RESIDUAL RETURN",
+        "MUST REMEMBER: Bonds, equity, derivatives, mutual funds, ETFs, AIFs and pension products"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ISSUER CASH FLOW",
+            "CONTRACTUAL DEBT SERVICE"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BONDHOLDER PRIORITY",
+            "EQUITY RESIDUAL RETURN"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Bonds, equity, derivatives, mutual funds, ETFs, AIFs and pension products...",
+            "ISSUER CASH FLOW"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Bonds, equity, derivatives, mutual funds, ETFs, AIFs and pension products.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g3\\economy-08_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "BOND PRICING BOARD",
+      "structural_type": "pricing-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "BOND PRICING BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "CONTRACTUAL RATE",
+          "role": "outcome"
+        },
+        {
+          "text": "MARKET-PRICE-BASED RETURN",
+          "role": "comparison"
+        },
+        {
+          "text": "YIELD RISE",
+          "role": "evidence"
+        },
+        {
+          "text": "FIXED BOND PRICE GENERALLY FALLS",
+          "role": "primary"
+        },
+        {
+          "text": "DURATION + CONVEXITY",
+          "role": "outcome"
+        },
+        {
+          "text": "SENSITIVITY DETAIL",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "COUPON → contractual rate",
+        "YIELD → market-price-based return",
+        "YIELD RISE → fixed bond price generally falls",
+        "DURATION + CONVEXITY → sensitivity detail"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COUPON → contractual rate",
+            "YIELD → market-price-based return"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "YIELD RISE → fixed bond price generally falls",
+            "DURATION + CONVEXITY → sensitivity detail"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "COUPON → contractual rate",
+            "YIELD → market-price-based return"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "YIELD RISE → fixed bond price generally falls.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g3\\economy-08_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CREDIT-RISK DECOMPOSITION",
+      "structural_type": "spread-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CREDIT-RISK DECOMPOSITION",
+          "role": "caution"
+        },
+        {
+          "text": "BENCHMARK YIELD",
+          "role": "outcome"
+        },
+        {
+          "text": "DEFAULT PREMIUM",
+          "role": "comparison"
+        },
+        {
+          "text": "LIQUIDITY PREMIUM",
+          "role": "evidence"
+        },
+        {
+          "text": "OTHER RISK PREMIA",
+          "role": "caution"
+        },
+        {
+          "text": "CREDIT SPREAD",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "BENCHMARK YIELD",
+        "DEFAULT PREMIUM",
+        "LIQUIDITY PREMIUM",
+        "OTHER RISK PREMIA → CREDIT SPREAD"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BENCHMARK YIELD",
+            "DEFAULT PREMIUM"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIQUIDITY PREMIUM",
+            "OTHER RISK PREMIA → CREDIT SPREAD"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BENCHMARK YIELD",
+            "DEFAULT PREMIUM"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIQUIDITY PREMIUM; OTHER RISK PREMIA → CREDIT SPREAD.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g3\\economy-08_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DERIVATIVE OBLIGATION FORK",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DERIVATIVE OBLIGATION FORK",
+          "role": "primary"
+        },
+        {
+          "text": "SYMMETRIC BUYER/SELLER OBLIGATIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "OPTION BUYER",
+          "role": "comparison"
+        },
+        {
+          "text": "RIGHT, NOT OBLIGATION",
+          "role": "caution"
+        },
+        {
+          "text": "OPTION WRITER",
+          "role": "primary"
+        },
+        {
+          "text": "CONTINGENT OBLIGATION",
+          "role": "outcome"
+        },
+        {
+          "text": "EXCHANGE CASH-FLOW STREAMS",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "FUTURE → symmetric buyer/seller obligations",
+        "OPTION BUYER → right, not obligation",
+        "OPTION WRITER → contingent obligation",
+        "SWAP → exchange cash-flow streams"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "FUTURE → symmetric buyer/seller obligations",
+          "OPTION WRITER → contingent obligation",
+          "FUTURE → symmetric buyer/seller obligations"
+        ],
+        [
+          "OPTION BUYER → right, not obligation",
+          "SWAP → exchange cash-flow streams",
+          "OPTION BUYER → right, not obligation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FUTURE → symmetric buyer/seller obligations",
+            "OPTION BUYER → right, not obligation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OPTION WRITER → contingent obligation",
+            "SWAP → exchange cash-flow streams"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FUTURE → symmetric buyer/seller obligations",
+            "OPTION BUYER → right, not obligation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OPTION WRITER → contingent obligation; SWAP → exchange cash-flow streams.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g3\\economy-08_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "PURPOSE TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PURPOSE TEST",
+          "role": "primary"
+        },
+        {
+          "text": "PRE-EXISTING EXPOSURE?",
+          "role": "outcome"
+        },
+        {
+          "text": "HEDGE SIZE AND TENOR",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECULATIVE EXPOSURE",
+          "role": "evidence"
+        },
+        {
+          "text": "SAME CONTRACT CAN REDUCE OR ENLARGE RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PRE-EXISTING EXPOSURE?",
+        "YES → hedge size and tenor",
+        "NO → speculative exposure",
+        "SAME CONTRACT can reduce or enlarge risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRE-EXISTING EXPOSURE?",
+            "YES → hedge size and tenor"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NO → speculative exposure",
+            "SAME CONTRACT can reduce or enlarge risk"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRE-EXISTING EXPOSURE?",
+            "YES → hedge size and tenor"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO → speculative exposure; SAME CONTRACT can reduce or enlarge risk.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g3\\economy-08_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CLEARING AND LEVERAGE RAIL",
+      "structural_type": "risk-control-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CLEARING AND LEVERAGE RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "MARGIN + MARK-TO-MARKET",
+          "role": "outcome"
+        },
+        {
+          "text": "CLEARING CORPORATION",
+          "role": "comparison"
+        },
+        {
+          "text": "BASIS, LIQUIDITY AND LEVERAGE RISK",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "BONDHOLDER IS NOT OWNER, DIVIDEND IS NOT CONTRACTUAL INTEREST",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "MARGIN + MARK-TO-MARKET",
+        "CLEARING CORPORATION",
+        "RESIDUAL → basis, liquidity and leverage risk",
+        "CLOSE DISTINCTION: Bondholder is not owner, dividend is not contractual interest, futures"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MARGIN + MARK-TO-MARKET",
+            "CLEARING CORPORATION"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESIDUAL → basis, liquidity and leverage risk",
+            "CLOSE DISTINCTION: Bondholder is not owner, dividend is not contractual interest, futures..."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MARGIN + MARK-TO-MARKET",
+            "CLEARING CORPORATION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Bondholder is not owner, dividend is not contractual interest, futures.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g3\\economy-08_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "POOLED-VEHICLE MAP",
+      "structural_type": "vehicle-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "POOLED-VEHICLE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "MUTUAL FUND",
+          "role": "outcome"
+        },
+        {
+          "text": "POOLED MANDATE + NAV",
+          "role": "comparison"
+        },
+        {
+          "text": "EXCHANGE-TRADED FUND UNIT",
+          "role": "evidence"
+        },
+        {
+          "text": "PRIVATELY POOLED CATEGORY FRAMEWORK",
+          "role": "primary"
+        },
+        {
+          "text": "INFRASTRUCTURE CASH FLOWS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "MUTUAL FUND → pooled mandate + NAV",
+        "ETF → exchange-traded fund unit",
+        "AIF → privately pooled category framework",
+        "REIT / InvIT → property / infrastructure cash flows"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MUTUAL FUND → pooled mandate + NAV",
+          "AIF → privately pooled category framework",
+          "MUTUAL FUND → pooled mandate + NAV"
+        ],
+        [
+          "ETF → exchange-traded fund unit",
+          "REIT / InvIT → property / infrastructure cash flows",
+          "ETF → exchange-traded fund unit"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MUTUAL FUND → pooled mandate + NAV",
+            "ETF → exchange-traded fund unit"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AIF → privately pooled category framework",
+            "REIT / InvIT → property / infrastructure cash flows"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUTUAL FUND → pooled mandate + NAV",
+            "ETF → exchange-traded fund unit"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REIT / InvIT → property / infrastructure cash flows.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g3\\economy-08_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ACCESS INSTRUMENTS BOARD",
+      "structural_type": "classification-board",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ACCESS INSTRUMENTS BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "OFFSHORE INSTRUMENT VIA REGISTERED FPI",
+          "role": "outcome"
+        },
+        {
+          "text": "INFLATION-LINKED PAYOUT OR PRINCIPAL",
+          "role": "comparison"
+        },
+        {
+          "text": "DEBT WITH EQUITY CONVERSION TERMS",
+          "role": "evidence"
+        },
+        {
+          "text": "RELATIVE MARKET VOLATILITY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "P-NOTE → offshore instrument via registered FPI",
+        "IIB → inflation-linked payout or principal",
+        "CONVERTIBLE → debt with equity conversion terms",
+        "BETA → relative market volatility"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "P-NOTE → offshore instrument via registered FPI",
+            "IIB → inflation-linked payout or principal"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONVERTIBLE → debt with equity conversion terms",
+            "BETA → relative market volatility"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "P-NOTE → offshore instrument via registered FPI",
+            "IIB → inflation-linked payout or principal"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONVERTIBLE → debt with equity conversion terms; BETA → relative market volatility.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g3\\economy-08_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "TOKENISATION BOUNDARY",
+      "structural_type": "legal-tech-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "TOKENISATION BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "UNDERLYING REAL-WORLD ASSET",
+          "role": "outcome"
+        },
+        {
+          "text": "DIGITAL TOKEN REPRESENTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ACCESS MAY BECOME FRACTIONAL",
+          "role": "evidence"
+        },
+        {
+          "text": "TITLE + CUSTODY + DISCLOSURE REMAIN DECISIVE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "UNDERLYING REAL-WORLD ASSET",
+        "DIGITAL TOKEN REPRESENTATION",
+        "ACCESS may become fractional",
+        "TITLE + CUSTODY + DISCLOSURE remain decisive"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "UNDERLYING REAL-WORLD ASSET",
+            "DIGITAL TOKEN REPRESENTATION"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ACCESS may become fractional",
+            "TITLE + CUSTODY + DISCLOSURE remain decisive"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "UNDERLYING REAL-WORLD ASSET",
+            "DIGITAL TOKEN REPRESENTATION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ACCESS may become fractional; TITLE + CUSTODY + DISCLOSURE remain decisive.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g3\\economy-08_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "USE-OF-PROCEEDS TAXONOMY",
+      "structural_type": "taxonomy-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "USE-OF-PROCEEDS TAXONOMY",
+          "role": "primary"
+        },
+        {
+          "text": "GREEN BOND",
+          "role": "outcome"
+        },
+        {
+          "text": "ENVIRONMENTAL PROJECTS",
+          "role": "comparison"
+        },
+        {
+          "text": "SOCIAL BOND",
+          "role": "evidence"
+        },
+        {
+          "text": "SOCIAL PROJECTS",
+          "role": "primary"
+        },
+        {
+          "text": "SUSTAINABILITY BOND",
+          "role": "outcome"
+        },
+        {
+          "text": "LABEL DOES NOT ELIMINATE CREDIT RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "GREEN BOND → environmental projects",
+        "SOCIAL BOND → social projects",
+        "SUSTAINABILITY BOND → both",
+        "LABEL does not eliminate credit risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GREEN BOND → environmental projects",
+            "SOCIAL BOND → social projects"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SUSTAINABILITY BOND → both",
+            "LABEL does not eliminate credit risk"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GREEN BOND → environmental projects",
+            "SOCIAL BOND → social projects"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SUSTAINABILITY BOND → both; LABEL does not eliminate credit risk.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g3\\economy-08_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INVESTOR-PROTECTION STACK",
+      "structural_type": "institution-stack",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INVESTOR-PROTECTION STACK",
+          "role": "primary"
+        },
+        {
+          "text": "DISCLOSURE + PRODUCT LABELLING",
+          "role": "outcome"
+        },
+        {
+          "text": "REGISTERED ADVISERS + INTERMEDIARIES",
+          "role": "comparison"
+        },
+        {
+          "text": "MARGIN + SETTLEMENT + GRIEVANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "BUSINESS AND MARKET LOSS REMAIN",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DISCLOSURE + PRODUCT LABELLING",
+        "REGISTERED ADVISERS + INTERMEDIARIES",
+        "MARGIN + SETTLEMENT + GRIEVANCE",
+        "LIMIT → business and market loss remain"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DISCLOSURE + PRODUCT LABELLING",
+            "REGISTERED ADVISERS + INTERMEDIARIES"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MARGIN + SETTLEMENT + GRIEVANCE",
+            "LIMIT → business and market loss remain"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DISCLOSURE + PRODUCT LABELLING",
+            "REGISTERED ADVISERS + INTERMEDIARIES"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MARGIN + SETTLEMENT + GRIEVANCE; LIMIT → business and market loss remain.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g3\\economy-08_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "SECURITIES ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "SECURITIES ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CLASSIFY CLAIM AND CASH-FLOW PRIORITY",
+          "role": "mechanism"
+        },
+        {
+          "text": "MAP LIQUIDITY PROMISE AND LEVERAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "TRACE REGULATOR AND SETTLEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "MATCH INSTRUMENT TO INVESTOR EXPOSURE",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "IDENTIFY LEGAL CLAIM, PAYOFF",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CLASSIFY claim and cash-flow priority",
+        "MAP liquidity promise and leverage",
+        "TRACE regulator and settlement",
+        "MATCH instrument to investor exposure",
+        "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Identify legal claim, payoff"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CLASSIFY claim and cash-flow priority",
+            "MAP liquidity promise and leverage"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRACE regulator and settlement",
+            "MATCH instrument to investor exposure"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Identify legal claim, payoff,...",
+            "CLASSIFY claim and cash-flow priority"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Identify legal claim, payoff,.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\08_Securities-Bonds-Equity-Derivatives-and-Investment-Funds.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-08\\g3\\economy-08_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DURATION AND CONVEXITY EXPLAIN BOND-PRICE SENSITIVITY BEYOND THE SIMPLE",
+          "role": "outcome"
+        },
+        {
+          "text": "CREDIT SPREAD COMPENSATES FOR DEFAULT, LIQUIDITY AND RISK-PREMIUM COMPONENTS",
+          "role": "caution"
+        },
+        {
+          "text": "OPTION VALUE DEPENDS ON THE UNDERLYING, STRIKE, TIME, VOLATILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "FUND STRUCTURE CHANGES LIQUIDITY TRANSFORMATION",
+          "role": "primary"
+        },
+        {
+          "text": "OPEN-ENDED REDEMPTION PROMISES CAN",
+          "role": "outcome"
+        },
+        {
+          "text": "INDEX INVESTING REDUCES SECURITY-SELECTION COSTS BUT MAY CONCENTRATE FLOWS",
+          "role": "comparison"
+        },
+        {
+          "text": "TOKENISATION CAN FRACTIONALISE CLAIMS, YET LEGAL TITLE, CUSTODY, SETTLEMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Duration and convexity explain bond-price sensitivity beyond the simple inverse yield",
+            "CAUTION: Credit spread compensates for default, liquidity and risk-premium components over a",
+            "CAUTION: Option value depends on the underlying, strike, time, volatility and rates; leverage",
+            "CAUTION: Fund structure changes liquidity transformation: open-ended redemption promises can"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Index investing reduces security-selection costs but may concentrate flows in index",
+            "CAUTION: Tokenisation can fractionalise claims, yet legal title, custody, settlement finality",
+            "SEBI: regulates listed securities, mutual funds, AIFs, intermediaries and market",
+            "Stock exchanges and clearing corporations: conduct trading, margins, clearing and"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "RBI: manages government-securities market architecture and specified interest-rate",
+            "Trustees, custodians and asset-management companies: separate fund assets, oversight",
+            "CAUTION: A fixed-rate bond loses market value when comparable yields rise because its promised",
+            "CAUTION: A call-option buyer has a right, while the writer carries a contingent obligation"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

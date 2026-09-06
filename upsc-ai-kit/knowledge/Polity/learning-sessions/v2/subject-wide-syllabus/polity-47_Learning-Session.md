@@ -2,14 +2,14 @@
 
 **Complete independent learning session + verified PYQ routing + solved practice workbook + final consolidated register notes**
 
-**Legal/current control date:** 25 August 2026 (Asia/Kolkata)
+**Legal/current control date:** 5 September 2026 (Asia/Kolkata)
 
 > **Tag key:** `[FACT]` = named constitutional, statutory, official, judicial or audited local support; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked for the control date; `[LIMIT]` = qualification.
 >
 > **Answer-writing discipline:** claim -> named evidence -> analysis -> qualification.
 
-- [CURRENT] Status is controlled to **25 August 2026, Asia/Kolkata**.
-- [CURRENT] **Live official refresh, 25 August 2026:** The official Constitution and the controlling Indian comparison cases were rechecked on 25 August 2026. Foreign systems are used as stable design comparators rather than as volatile political snapshots; no current officeholder, party majority or transient reform proposal is frozen.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
+- [CURRENT] **Live official refresh, 5 September 2026:** The official Constitution and the controlling Indian comparison cases were rechecked on 5 September 2026. Foreign systems are used as stable design comparators rather than as volatile political snapshots; no current officeholder, party majority or transient reform proposal is frozen.
 
 #### How to Use This Package
 
@@ -910,6 +910,49 @@ judicial appointments.
 
 > **Firewall confirmation:** The Core already contains every indispensable
 comparison, trap and verified PYQ answer engine; Advanced is enrichment only.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Comparative method:** compare the same function through context,
+  institutional rule, practical consequence and transfer limit. Constitutional
+  borrowing identifies a source; it does not prove operational identity.
+- **Constitutional form:** India, USA, Germany, South Africa and Japan use
+  codified supreme texts; the UK is partly written and wholly uncodified.
+  Rigid/flexible and evolved/enacted are separate axes, not synonyms.
+- **Executive systems:** India/UK use responsible parliamentary government;
+  the USA uses a separately elected fixed presidential executive; France uses
+  a dual semi-presidential system whose balance varies during cohabitation;
+  Switzerland uses a collegial Federal Council.
+- **Sovereignty and review:** UK parliamentary sovereignty generally prevents
+  courts from setting aside Westminster Acts. India and the USA operate under
+  constitutional supremacy, while India's amending power is additionally
+  limited by the judicially developed basic-structure doctrine.
+- **Federal comparison:** India is a holding-together federation with Union
+  residuary power and unequal Rajya Sabha representation. The US and Australia
+  protect constituent units differently; Germany's Bundesrat represents Land
+  governments; Canada combines federalism with a historically strong centre.
+- **Rights models:** India combines enforceable Fundamental Rights and
+  non-justiciable DPSPs. South Africa expressly entrenches enforceable
+  socio-economic rights subject to textual standards. US due process, UK
+  statutory/common-law protection and French laicite are not mechanically
+  transferable Indian rules.
+- **Amendment limits:** Germany's Article 79(3) textual eternity clause and
+  India's Kesavananda basic-structure doctrine protect constitutional identity
+  through different legal mechanisms. The US Article V route is not a model of
+  ordinary legislative amendment.
+- **Institutional comparisons:** US Senate confirmation, Indian collegium,
+  German constructive no confidence, Swiss referendum and South African
+  Constitutional Court review should be used to evaluate accountable
+  independence, stability and inclusion rather than to prescribe copying.
+- **Official-source control, checked 5 September 2026:** current official
+  constitutional/parliamentary sources confirm the UK sovereignty/uncodified
+  distinction, US written separation, Canadian/Australian/German federal
+  structures and South African supremacy and socio-economic rights. Current
+  governments and officeholders are deliberately not frozen.
+- **PYQ firewall:** verified comparative-democracy, judicial-system,
+  federalism, secularism and rights demands are routed by their precise
+  principal issue. A comparative answer must state both the constitutional
+  consequence and the transplantation limit.
 
 ## BASIC MCQS / REMEDIATION
 
@@ -1989,7 +2032,7 @@ retain safeguards against new concentrations of power.
 
 ### Comparative Constitutional Design: Rapid Constitutional Recall
 
-- **Current-control rule:** The official Constitution and the controlling Indian comparison cases were rechecked on 25 August 2026. Foreign systems are used as stable design comparators rather than as volatile political snapshots; no current officeholder, party majority or transient reform proposal is frozen.
+- **Current-control rule:** The official Constitution and the controlling Indian comparison cases were rechecked on 5 September 2026. Foreign systems are used as stable design comparators rather than as volatile political snapshots; no current officeholder, party majority or transient reform proposal is frozen.
 - **Factual caveat:** India borrowed constitutional techniques but adapted them to a written, supreme, federal-parliamentary and judicially reviewable Constitution. Comparison must identify function, context and Indian adaptation; the Indian President is not a US President, Rajya Sabha is not a US Senate, and Directive Principles are not an operational copy of Ireland.
 
 #### 1. What UPSC means by "constitutional scheme"

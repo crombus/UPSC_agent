@@ -1,0 +1,38 @@
+# Economy Semantic-Completeness Review 09 - Union Budget, Fiscal Policy and Deficit Indicators
+
+**Topic key:** `economy-09`  
+**Review date:** 6 September 2026  
+**Result:** PASSED  
+**Canonical Basic owner:** `upsc-ai-kit\knowledge\Economy\basic\09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md`  
+**Accepted identity:** `economy-09:learner-v2:g3`
+
+Only this topic was active. The literal UPSC syllabus, indispensable
+prerequisites, standard Economy taxonomy, canonical Basic
+owner, Optional Advanced owner, framework and cross-owner bridges, complete
+verified PYQ ledgers and authoritative live sources were reconciled through a
+hostile four-ledger audit.
+
+The bounded canonical repair preserves formulas, accounting identities,
+stocks and flows, units and denominators, base years and estimate vintages,
+institutional and regulatory perimeters, programme stages, policy transmission,
+India-specific evidence, competing interpretations, limitations, current
+official evidence and source dates. The
+immutable successor preserves Basic-first and Advanced-last order, final
+register notes, examiner-grade answer contracts, strict A-B-C-D rotation and
+twelve manually authored ASCII panels agreeing with twelve graphical stages.
+Approval remains false. PYQ status: Audited ledgers route Mains demands on public expenditure management, Capital versus Revenue Budget and the Fiscal Health Index, plus objective demands on Article 112, capital receipts, deficit computation, recession policy, opportunity cost, household savings and crowding out..
+
+Validation passed: 88 main pages,
+48 workbook pages,
+9 solved blocks, 80 MCQs,
+12/12 ASCII panels and
+12/12 graphical stages. Targeted tests:
+70; failures: 0.
+
+The authoritative queue advanced exactly one topic to `economy-10`.
+
+Machine validation:
+`upsc-ai-kit\manifests\exports\economy-09-semantic-validation-2026-09-06.json`
+
+Inventory:
+`upsc-ai-kit\manifests\exports\economy-09-semantic-completeness-2026-09-06-changed-files.txt`

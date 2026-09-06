@@ -6,14 +6,14 @@ topic_key: polity-46
 
 **Complete independent learning session + verified PYQ routing + solved practice workbook + final consolidated register notes**
 
-**Legal/current control date:** 28 August 2026 (Asia/Kolkata)
+**Legal/current control date:** 5 September 2026 (Asia/Kolkata)
 
 > **Tag key:** `[FACT]` = named constitutional, statutory, official, judicial or audited local support; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked for the control date; `[LIMIT]` = qualification.
 >
 > **Answer-writing discipline:** claim -> named evidence -> analysis -> qualification.
 
-- [CURRENT] Status is controlled to **25 August 2026, Asia/Kolkata**.
-- [CURRENT] **Live official refresh, 25 August 2026:** Articles 323A/323B, the Administrative Tribunals Act 1985, CAT material and the Supreme Court's tribunal-independence line through the judgment reported as 2025 INSC 1330 were rechecked on 25 August 2026. Appointment, tenure and service-condition statements carry an exact dated caveat because the common tribunal framework remains litigation- and implementation-sensitive.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
+- [CURRENT] **Live official refresh, 5 September 2026:** Articles 323A/323B, the Administrative Tribunals Act 1985, CAT material and the Supreme Court's tribunal-independence line through the judgment reported as 2025 INSC 1330 were rechecked on 5 September 2026. Appointment, tenure and service-condition statements carry an exact dated caveat because the common tribunal framework remains litigation- and implementation-sensitive.
 
 #### How to Use This Package
 
@@ -1680,7 +1680,7 @@ independence, stable tenure, adequate benches and constitutional-court supervisi
 
 ### Administrative Tribunals: Rapid Constitutional Recall
 
-- **Current-control rule:** Articles 323A/323B, the Administrative Tribunals Act 1985, CAT material and the Supreme Court's tribunal-independence line through the judgment reported as 2025 INSC 1330 were rechecked on 25 August 2026. Appointment, tenure and service-condition statements carry an exact dated caveat because the common tribunal framework remains litigation- and implementation-sensitive.
+- **Current-control rule:** Articles 323A/323B, the Administrative Tribunals Act 1985, CAT material and the Supreme Court's tribunal-independence line through the judgment reported as 2025 INSC 1330 were rechecked on 5 September 2026. Appointment, tenure and service-condition statements carry an exact dated caveat because the common tribunal framework remains litigation- and implementation-sensitive.
 - **Factual caveat:** Tribunals supplement specialist adjudication; they do not replace High Courts or the Supreme Court. L. Chandra Kumar preserves Articles 226/227 review. CAT, SATs, other Article 323B tribunals, commissions, courts and Lok Adalats must not be collapsed into one institutional category.
 
 #### Snapshot
@@ -1862,7 +1862,7 @@ follow exact Administrative Tribunals Act text and notifications;
 not every public employee or constitutional office enters CAT.
 
 CONTROL
-appointments, tenure and service conditions must be stated with the 25 August 2026 caveat.
+appointments, tenure and service conditions must be stated with the 5 September 2026 caveat.
 ```
 
 #### ASCII MASTER FLOW — PANEL 4/9: Application, procedure, powers and contempt
@@ -1997,3 +1997,49 @@ VERDICT
 tribunals are justified only as independent, accessible specialist courts
 under constitutional supervision.
 ```
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional source:** the Constitution (Forty-second Amendment) Act,
+  1976 inserted Part XIV-A. Article 323A permits Parliament alone to create
+  administrative tribunals for recruitment and service conditions. Article
+  323B permits the competent Parliament or State Legislature to create
+  tribunals for the listed subject fields.
+- **Statutory institution:** the Administrative Tribunals Act, 1985 creates
+  CAT and enables State and Joint Administrative Tribunals. CAT is a statutory
+  service tribunal, not a constitutional court or a generic forum for every
+  dispute involving government.
+- **Jurisdiction and exclusions:** CAT principally covers recruitment and
+  service matters of persons appointed to covered Union civil services/posts
+  and notified bodies. Armed-forces members, Supreme Court/High Court and
+  subordinate-court staff, and legislative-secretariat staff fall within the
+  Act's express exclusion structure.
+- **Procedure and powers:** applications, limitation, transfer of covered
+  proceedings, flexible procedure, civil-court powers and contempt operate
+  under the Act and rules. Procedural flexibility does not remove notice,
+  hearing, reasons, impartiality or jurisdictional limits.
+- **Review chain:** S.P. Sampath Kumar accepted an effective alternative only
+  with independence safeguards. L. Chandra Kumar (1997) invalidated exclusion
+  of Articles 226/227 and 32 review, retained tribunals as courts of first
+  instance in their fields, and routes their decisions to the territorial High
+  Court Division Bench before the Supreme Court.
+- **Independence line:** R.K. Jain exposed structural weakness; Union of India
+  v R. Gandhi, Rojer Mathew and the Madras Bar Association decisions control
+  judicial dominance in selection, tenure, service conditions, infrastructure
+  and separation from sponsoring ministries.
+- **2025 judgment:** Madras Bar Association v Union of India, 2025 INSC 1330
+  (19 November 2025), invalidated re-enacted appointment/service-condition
+  defects in the 2021 framework and directed creation of an independent
+  National Tribunals Commission.
+- **2026 continuity order:** the Supreme Court's 9 March 2026 interim order
+  continued specified incumbents whose terms expired in the six-month window
+  until 8 September 2026 or the applicable maximum age, whichever was earlier.
+  It preserved functioning and did not reverse the merits judgment.
+- **Live legislative status, checked 5 September 2026:** Parliament passed the
+  Tribunals Reforms Bill, 2026, proposing repeal of the 2021 Act and a
+  judiciary-led National Tribunals Commission. No official assented Act or
+  commencement notification was located on India Code/Legislative Department;
+  the Bill is therefore not represented here as operative law.
+- **PYQ firewall:** the verified 2025 GS-II demand on administrative tribunals
+  and 2021 rationalisation is owned here. Body-specific appellate structures
+  remain with their sector owners and no unverified PYQ or answer key is added.

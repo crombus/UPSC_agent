@@ -1,0 +1,350 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "polity-51-55-hostile-semantic-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "polity_legal_source_hierarchy": true,
+    "manually_authored_twelve_panels": true
+  },
+  "topics": [
+    {
+      "topic_key": "polity-52",
+      "display_title": "NCRWC and Working of the Constitution",
+      "active_generation": 5,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g5\\polity-52_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "NCRWC identity, mandate and constitutional boundary",
+          "structural_type": "commission-identity-root",
+          "ascii_lines": [
+            "ROOT QUESTION",
+            "How can constitutional performance be reviewed without claiming constituent power?",
+            "",
+            "2000 Government resolution -> temporary executive advisory commission.",
+            "Justice M.N. Venkatachaliah -> chair | 11 members | report submitted in 2002.",
+            "",
+            "MANDATE",
+            "review fifty years of working -> effective governance + socio-economic development.",
+            "",
+            "BOUNDARY",
+            "parliamentary democracy + basic structure preserved.",
+            "",
+            "VERDICT",
+            "review of working != rewriting the Constitution.",
+            "MUST REMEMBER: Treat every NCRWC proposition as a 2002 recommendation unless a later",
+            "  constitutional amendment, statute, rule or judgment independently proves law."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\52_NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g5\\polity-52_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Consultation and institutional identity firewall",
+          "structural_type": "institution-comparison-matrix",
+          "ascii_lines": [
+            "CONSULTATION",
+            "papers + expert studies + public responses + thematic deliberation -> advisory report.",
+            "",
+            "CONSTITUENT ASSEMBLY -> framed Constitution.",
+            "PARLIAMENT/ART 368 -> amends through constitutional procedure.",
+            "LAW COMMISSION -> law-reform reports.",
+            "SARKARIA/PUNCHHI -> Centre-State review.",
+            "NCRWC -> comprehensive working review, no constituent authority.",
+            "",
+            "TRAP",
+            "expertise and consultation create persuasion, not legal force."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\52_NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g5\\polity-52_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Working of the Constitution: text to lived performance",
+          "structural_type": "constitutional-working-chain",
+          "ascii_lines": [
+            "TEXT",
+            "Articles + Parts + Schedules",
+            "   |",
+            "   v",
+            "INSTITUTIONS",
+            "Parliament + executive + courts + federal units + bodies",
+            "   |",
+            "   v",
+            "PRACTICE",
+            "conventions + parties + administration + political incentives",
+            "   |",
+            "   v",
+            "OUTCOMES",
+            "rights + accountability + deliberation + federal trust + remedies.",
+            "",
+            "Kesavananda Bharati (1973) -> structural boundary.",
+            "Minerva Mills (1980) -> limited amendment + rights-DPSP harmony."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\52_NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g5\\polity-52_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Recommendation clusters without law-status contamination",
+          "structural_type": "recommendation-cluster-grid",
+          "ascii_lines": [
+            "RIGHTS / DPSP / DUTIES",
+            "new rights, stronger implementation and proposed duties.",
+            "",
+            "ELECTIONS / PARTIES",
+            "criminalisation, finance, ECI selection, party law and anti-defection.",
+            "",
+            "PARLIAMENT / EXECUTIVE / ADMINISTRATION",
+            "sittings, committees, privileges, ministry size, civil services and integrity.",
+            "",
+            "JUDICIARY / FEDERALISM / LOCAL GOVERNMENT",
+            "appointments, access, Governor, Art 356, councils and devolution.",
+            "",
+            "STATUS",
+            "every node = NCRWC recommendation until separately enacted."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\52_NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g5\\polity-52_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Implementation audit: exact, modified, similar or pending",
+          "structural_type": "implementation-status-ladder",
+          "ascii_lines": [
+            "PROPOSAL -> LATER INSTRUMENT -> WORDING -> LEGAL EFFECT -> VERDICT",
+            "",
+            "10% ministry ceiling",
+            "-> 91st Amendment (2003) uses 15% -> modified related reform, not exact adoption.",
+            "",
+            "judicial commission",
+            "-> NJAC enacted 2014, invalidated 2015 -> not current NCRWC design.",
+            "",
+            "party law + narrow whip",
+            "-> no comprehensive enactment -> substantially pending.",
+            "",
+            "disaster to Concurrent List",
+            "-> Disaster Management Act 2005, no List transfer -> statutory response, not adoption.",
+            "",
+            "RULE",
+            "chronology + similarity != proven implementation."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\52_NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g5\\polity-52_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Accountability, federalism and legislative practice",
+          "structural_type": "accountability-federal-map",
+          "ascii_lines": [
+            "ACCOUNTABILITY",
+            "elections | confidence | committees | CAG | transparency | reasons | judicial review.",
+            "",
+            "LEGISLATURE",
+            "sitting time -> scrutiny -> delegated law -> opposition -> financial control.",
+            "",
+            "FEDERAL PRACTICE",
+            "consultation -> councils -> Governor restraint -> floor test -> negotiated implementation.",
+            "",
+            "S.R. Bommai (1994) -> federal and secular structural enforcement.",
+            "",
+            "TRAP",
+            "majority strength or coalition form does not itself prove good constitutional working.",
+            "CLOSE DISTINCTION: Separate constitutional text, institutional capacity, conventions, party",
+            "  practice, federal trust, rights outcomes and effective remedies."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\52_NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g5\\polity-52_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Constitutional morality and rights enforcement",
+          "structural_type": "morality-rights-balance",
+          "ascii_lines": [
+            "CONSTITUTIONAL MORALITY",
+            "text + procedure + equal citizenship + institutional role restraint.",
+            "",
+            "K.S. Puttaswamy (2017)",
+            "privacy + dignity in modern governance.",
+            "",
+            "Navtej Singh Johar v. Union of India (2018)",
+            "constitutional morality + transformative rights.",
+            "",
+            "RIGHTS WORKING",
+            "guarantee -> institution -> affordable remedy -> compliance -> public justification.",
+            "",
+            "LIMIT",
+            "morality is not personal preference; later cases are not NCRWC implementation evidence."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\52_NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g5\\polity-52_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Reform-method ladder and feasibility test",
+          "structural_type": "reform-method-decision-tree",
+          "ascii_lines": [
+            "DIAGNOSE",
+            "text gap? convention failure? capacity deficit? incentive failure? remedy gap?",
+            "   |",
+            "   +-- practice/convention repair",
+            "   +-- executive rule or capacity",
+            "   +-- ordinary legislation",
+            "   +-- Article 368 amendment",
+            "   |",
+            "   v",
+            "TEST",
+            "basic structure + rights + federalism + democratic legitimacy",
+            "+ finance + implementation + review.",
+            "",
+            "VERDICT",
+            "use the least legally sufficient and institutionally workable route."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\52_NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g5\\polity-52_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Verified provenance and eleven-member composition",
+          "structural_type": "commission-provenance-timeline",
+          "ascii_lines": [
+            "22 FEBRUARY 2000",
+            "Government resolution constitutes NCRWC.",
+            "   |",
+            "   v",
+            "CHAIR + INITIAL MEMBERSHIP",
+            "M.N. Venkatachaliah + ten members = eleven; P.A. Sangma later resigned.",
+            "Secretary Raghbir Singh was not a Commission member.",
+            "   |",
+            "   v",
+            "11 MARCH 2002",
+            "Report adopted and signed.",
+            "   |",
+            "   v",
+            "31 MARCH 2002",
+            "Report presented to the Prime Minister.",
+            "",
+            "VERDICT",
+            "Executive origin + expert composition produced advice, not constituent authority."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\52_NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g5\\polity-52_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Recommendation metrics and exact high-yield proposals",
+          "structural_type": "recommendation-metrics-matrix",
+          "ascii_lines": [
+            "249 RECOMMENDATIONS",
+            "58 constitutional amendment | 86 legislation | 105 executive action.",
+            "",
+            "LEGISLATURE",
+            "LS 120 days | RS 100 | State Houses 90 or 50.",
+            "",
+            "GOVERNMENT",
+            "constructive no-confidence | 20% notice | alternative leader | 10% ministry ceiling.",
+            "",
+            "JUDICIARY / FEDERALISM",
+            "HC age 65 | SC age 68 | Governor about 6 months | President about 3 months.",
+            "",
+            "RULE",
+            "Each number is a report proposal unless a later legal instrument is separately proved."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\52_NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g5\\polity-52_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Performance dashboard and executable answer audit",
+          "structural_type": "constitutional-performance-dashboard",
+          "ascii_lines": [
+            "PERFORMANCE DASHBOARD",
+            "Legislature -> sittings + scrutiny + finance + debate.",
+            "Executive -> responsibility + legality + transparency + delivery.",
+            "Judiciary -> access + independence + pendency + accountability.",
+            "Federalism -> consultation + fiscal trust + restraint + dispute resolution.",
+            "Local government -> functions + funds + functionaries.",
+            "Rights -> affordable remedy + compliance + equal citizenship.",
+            "",
+            "ANSWER EXECUTION",
+            "identify demand -> recommendation -> route -> current status -> feasibility -> graded verdict."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\52_NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g5\\polity-52_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "UPSC synthesis: commission report to constitutional answer",
+          "structural_type": "answer-synthesis",
+          "ascii_lines": [
+            "PRELIMS FIREWALL",
+            "2000 resolution | Venkatachaliah | 11 members | 2002 report",
+            "| advisory | review, not rewrite | recommendations, not law.",
+            "",
+            "MAINS SPINE",
+            "identity -> mandate -> working beyond text -> recommendation clusters",
+            "-> implementation audit -> morality/accountability/federal practice -> reform ladder.",
+            "",
+            "PYQ ROUTE",
+            "constitutional morality | electoral reform | judicial accountability | basic structure.",
+            "",
+            "CONCLUSION",
+            "NCRWC is a diagnostic reform menu subject to constitutional route and present-law verification.",
+            "",
+            "CURRENT CONTROL: 5 SEPTEMBER 2026",
+            "The official NCRWC report remains advisory. A later amendment, Act,",
+            "rule, judgment or executive instrument must independently prove law;",
+            "similarity and chronology do not prove implementation.",
+            "LEGAL/SOURCE LIMIT: The official NCRWC report remains advisory; resemblance, chronology or",
+            "  shared policy language does not prove implementation or causation."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-52\\g3-source\\polity-52_g3-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\52_NCRWC-and-Working-of-the-Constitution.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-52\\g5\\polity-52_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

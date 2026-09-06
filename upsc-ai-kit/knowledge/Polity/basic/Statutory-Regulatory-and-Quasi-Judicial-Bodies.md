@@ -847,3 +847,44 @@ For any unfamiliar body, write:
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Three-axis taxonomy:** constitutional/statutory/executive identifies legal
+  source; regulatory/investigative/advisory/adjudicatory identifies function;
+  administrative/quasi-legislative/quasi-judicial identifies decisional
+  character. No one axis proves the others.
+- **Regulatory cycle:** parent Act -> delegated standard/licence -> monitoring
+  -> investigation -> show-cause/hearing -> reasoned order -> statutory appeal
+  -> constitutional review. Each stage needs its own authority and safeguard.
+- **Quasi-judicial test:** when an authority determines rights or liabilities,
+  notice, opportunity, absence of bias, relevant evidence and reasons normally
+  apply. Binapani Dei, A.K. Kraipak and Maneka Gandhi anchor fair procedure;
+  natural justice is flexible but not optional arbitrariness.
+- **Delegated legislation:** regulations must remain within the parent Act and
+  constitutional limits. PTC India (2010) distinguishes general regulatory
+  legislation from appealable adjudicatory orders; a statutory appeal against
+  an order does not automatically extend to every regulation.
+- **Institutional firewall:** courts, tribunals, regulators, commissions and
+  ombudsmen have different primary roles. Civil-court powers for inquiry do not
+  make a commission a court, and a regulator is quasi-judicial only while
+  performing an adjudicatory function.
+- **Independence/accountability:** appointment, tenure, removal, finance,
+  expertise, conflict rules and functional separation control capture.
+  Parliament, CAG, RTI, consultation, reasons, appeal and judicial review
+  remain accountability mechanisms rather than executive merits control.
+- **Competition-law status:** the Competition (Amendment) Act, 2023 and CCI's
+  2024 settlement/commitment regulations are operative. Later consultation
+  drafts or proposed amendments remain proposals until duly notified.
+- **Digital-data status, checked 5 September 2026:** the DPDP Rules, 2025 and
+  notifications commenced specified institutional provisions and established
+  the DPDP Board (Data Protection Board of India) in the NCR from 13 November 2025.
+  Remaining Act/rule duties follow the notified phased timetable; establishment
+  is not evidence that every substantive obligation was already operative.
+- **Current institutional snapshot:** CCI's official site identifies Ravneet
+  Kaur as Chairperson in 2026. SEBI's official Quasi-Judicial Cell and
+  e-adjudication system illustrate regulator-specific adjudication, not a
+  general constitutional category or immunity from SAT/court review.
+- **PYQ firewall:** verified statutory-body, regulator, quasi-judicial,
+  natural-justice and sector-appellate demands are retained. Body-specific
+  thresholds and officeholders are dated; draft regimes are never called law.

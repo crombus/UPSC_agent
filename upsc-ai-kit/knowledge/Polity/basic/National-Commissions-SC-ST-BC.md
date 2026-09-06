@@ -26,7 +26,7 @@ to Parliament. The **Commissioner for Linguistic Minorities (Art 350-B)** protec
 - ✅ NCBC born from the **Mandal/Indra Sawhney case (1992)**; **105th Amendment (2021)** restored states' OBC lists.
 - ✅ Commissioner for **Linguistic Minorities** — constitutional office under Art 350-B,
   administratively under the **Ministry of Minority Affairs**; headquarters has been in
-  **New Delhi since 1 June 2015** (official Ministry status checked 21 Jul 2026).
+  **New Delhi since 1 June 2015** (official Ministry status checked 5 Sep 2026).
 - ✅ All commissions have **civil-court powers** while investigating.
 
 ## 📰 Current link
@@ -196,3 +196,44 @@ jurisprudence; do not present it as the single unanimous ratio of the case.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional map:** Articles 338, 338A and 338B establish the NCSC,
+  NCST and NCBC. Articles 341, 342 and 342A separately govern the legal lists;
+  Article 340 authorises temporary backward-class investigation commissions.
+- **Composition and appointment:** each commission consists of a Chairperson,
+  Vice-Chairperson and three other Members appointed by the President by
+  warrant under hand and seal. The constitutional clauses leave service
+  conditions and tenure to presidential rules.
+- **Applicable tenure rules:** the NCSC and NCST 2004 rules and the NCBC 2018
+  rules prescribe a three-year term from assumption of office. The rule source,
+  not Article 338/338A/338B itself, supplies that duration.
+- **Current occupied roster, checked 5 September 2026:** the official NCSC
+  directory, updated 1 September 2026, displays Chairperson Kishor Makwana and
+  Members Love Kush Kumar, Vaddepalli Ramchander and Dr Partha Biswas; the
+  Vice-Chairperson line has no displayed incumbent. The official NCST material
+  displays Chairperson Antar Singh Arya and Members Dr Asha Lakra, Nirupam
+  Chakma and Jatothu Hussain, with no displayed Vice-Chairperson. The NCBC
+  present-commission page displays Chairperson Sadhvi Niranjan Jyoti and Member
+  Kiran Umesh Mahalle; no occupant is inferred for posts not displayed.
+- **Common functions:** investigate and monitor safeguards; inquire into
+  specific complaints; participate and advise in socio-economic planning;
+  evaluate development; report to the President; recommend measures; and
+  perform other functions specified by the President subject to law.
+- **Inquiry and accountability:** civil-court powers apply while investigating
+  or inquiring. Reports go through the President to Parliament with action-taken
+  memoranda; State-related portions follow the Governor/State-legislature route.
+  Recommendations and consultation are not binding decrees or vetoes.
+- **Distinct mandates:** NCST carries additional tribal land, forest,
+  displacement and resource concerns. NCBC's Article 338B role must be read with
+  the 102nd Amendment, the Maratha-reservation judgment and the 105th Amendment,
+  which expressly restored State/UT own-list competence under Article 342A(3).
+- **List firewall:** commissions investigate and advise; the President and
+  Parliament perform the constitutionally assigned SC/ST/Central-SEBC list
+  functions, while States/UTs legislate their own SEBC lists under Article
+  342A(3). Commission advice alone neither adds nor removes a community.
+- **PYQ/ownership firewall:** minority-institution reservations remain bounded
+  by Articles 15(5) and 30; Topic 26 owns Scheduled-Area administration and
+  Topic 53 owns the wider special-provisions architecture. Direct 2018, 2020
+  and 2022 commission demands retain their verified wording and ownership.

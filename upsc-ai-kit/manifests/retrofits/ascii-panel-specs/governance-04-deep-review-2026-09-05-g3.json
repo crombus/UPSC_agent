@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "governance-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "governance_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "governance-04",
+      "display_title": "NGOs, SHGs and Civil-Society Stakeholders",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-04\\g3\\governance-04_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "The civil-society universe",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "SERVICE DELIVERERS -> non-governmental organisations and community institutions",
+            "COLLECTIVES -> self-help groups, unions, cooperatives, resident welfare associations",
+            "ADVOCATES AND WATCHDOGS -> pressure groups, professional and faith-based bodies",
+            "SCOPE RULE -> a civil-society stem answered only with non-governmental bodies is out of scope",
+            "MUST REMEMBER: NGOs, SHGs and civil-society organisations can aggregate voice, deliver..."
+          ],
+          "source_references": [
+            "Civil society is wider than the non-governmental organisation",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-04\\g3\\governance-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Three kinds of social capital",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "BONDING -> dense trust within a homogeneous group; savings discipline and peer accountability",
+            "BRIDGING -> across separate groups; risk-pooling, negotiating scale, federation",
+            "LINKING -> vertical to banks, markets and departments; credit, price and scheme access",
+            "RULE -> none substitutes for another; bonding without bridging entrenches in-group exclusion"
+          ],
+          "source_references": [
+            "Bonding, bridging and linking capital",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-04\\g3\\governance-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Three-tier mission design",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "TIER ONE -> self-help group of rural women pooling savings and accessing credit",
+            "TIER TWO -> Village Organisation aggregating groups within a village",
+            "TIER THREE -> Cluster-Level Federation negotiating with banks, markets and departments",
+            "SUPPORT -> revolving fund and community investment support under the rural development ministry"
+          ],
+          "source_references": [
+            "The three-tier livelihoods mission design",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-04\\g3\\governance-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Data discipline card",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "MOVING FIGURE -> cumulative mobilisation on the management information system rises continuously",
+            "PROHIBITION -> no self-help group or household total is asserted as a current fact",
+            "DURABLE FACTS -> ministry, near-universal state and union-territory coverage, three-tier structure",
+            "ANSWER USE -> cite architecture rather than a total that will be stale by the examination"
+          ],
+          "source_references": [
+            "Why no mobilisation count is asserted",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-04\\g3\\governance-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Two delivery channels",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "GROUP ROUTE -> savings-first groups linked to bank credit inside the livelihoods architecture",
+            "LENDER ROUTE -> micro-finance institutions and non-banking companies under central-bank regulation",
+            "INCENTIVE -> one builds a group balance sheet, the other builds a loan book",
+            "ERROR -> merging the two and attributing one route's risks to the other"
+          ],
+          "source_references": [
+            "Two micro-finance delivery channels",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-04\\g3\\governance-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Micro-finance evaluation ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "SCOPE -> credit, savings, insurance and remittance; micro-credit is one component only",
+            "STRONGEST -> consumption smoothing and vulnerability reduction",
+            "WEAKEST -> structural poverty exit, because loan sizes suit micro-enterprise not asset accumulation",
+            "WARNING -> repayment discipline can be sustained by borrowing again rather than by income growth",
+            "CLOSE DISTINCTION: NGO, voluntary organisation, charitable trust, society, section 8..."
+          ],
+          "source_references": [
+            "What micro-finance can and cannot do",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-04\\g3\\governance-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Named risk register",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "OVER-INDEBTEDNESS -> multiple lenders serving one household",
+            "COERCIVE RECOVERY -> a documented sector risk that prompted regulatory correction",
+            "PRICE TENSION -> serving small remote loans is genuinely expensive to deliver",
+            "ELITE CAPTURE -> office and benefit concentrate among already-advantaged members"
+          ],
+          "source_references": [
+            "Named micro-finance risks",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-04\\g3\\governance-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Nutrition pathway status",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "CHANNEL ONE -> women's control over income changes household expenditure decisions",
+            "CHANNEL TWO -> group platforms carry health and nutrition messaging",
+            "CHANNEL THREE -> convergence with public nutrition services reaches the same members",
+            "STATUS -> a convergence claim; no measured effect and no malnutrition percentage is asserted"
+          ],
+          "source_references": [
+            "The nutrition pathway as a convergence claim",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-04\\g3\\governance-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Foreign-contribution gate card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "STATUTE -> Foreign Contribution (Regulation) Act, 2010, amended in 2020, Ministry of Home Affairs",
+            "ROUTES -> registration for ongoing receipt, or case-specific prior permission",
+            "ACCOUNT -> designated account at the State Bank of India main branch, New Delhi",
+            "LIMITS -> administrative expense reduced from fifty to twenty per cent; sub-granting restricted"
+          ],
+          "source_references": [
+            "The foreign-contribution gate and its 2020 tightening",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-04\\g3\\governance-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Four layers, four authorities",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "INCORPORATION -> state registrar or Registrar of Companies; legal existence",
+            "FOREIGN FUNDING -> Ministry of Home Affairs; whether foreign contribution may be received at all",
+            "TAX STATUS -> Income Tax Department, Sections 12A and 80G; exemption and donor deduction",
+            "GRANT IDENTITY -> NITI Aayog NGO Darpan unique identification; identification, not permission"
+          ],
+          "source_references": [
+            "Identification, permission and exemption kept apart",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-04\\g3\\governance-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Suspicion chain",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "STRUCTURE -> the watchdog function is independent of government by construction",
+            "TRIGGER -> advocacy opposes a specific policy or project",
+            "PERCEPTION -> independence is read as adversarial rather than as feedback",
+            "RESOLUTION -> justify or contest the label case by case; refuse the blanket characterisation"
+          ],
+          "source_references": [
+            "Non-state against anti-State",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-04\\g3\\governance-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Roles, gates and the answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> commit to a position in sentence one and name the structural category",
+            "BUILD -> innovator, facilitator and monitor; never the compellable duty-holder for a right",
+            "TEST -> representation, information, scrutiny and capture risk; rotation and disclosure correct it",
+            "CLOSE -> the party ticket gate, the non-member poor, and the two recorded routing conflicts",
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Kudumbashree, SEWA, SHG-bank linkage,..."
+          ],
+          "source_references": [
+            "Delivery model, duty-holder and representation",
+            "The non-member poor and honest question ownership",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\04_NGOs-SHGs-and-Civil-Society-Stakeholders.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-04\\g3\\governance-04_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

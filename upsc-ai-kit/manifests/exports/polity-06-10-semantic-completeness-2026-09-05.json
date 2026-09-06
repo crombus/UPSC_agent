@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "subject": "Polity",
+  "topic_range": "06-10",
+  "report_date": "2026-09-05",
+  "status": "passed",
+  "approval": false,
+  "strictly_sequential": true,
+  "topics": [
+    {
+      "topic_key": "polity-06",
+      "record_id": "polity-06:learner-v2:g17",
+      "approval": false,
+      "result": "passed",
+      "main_pages": 76,
+      "workbook_pages": 20,
+      "solved_blocks": 8,
+      "mcqs": 48,
+      "ascii_panels": 12,
+      "graphical_stages": 12,
+      "targeted_tests": 59
+    },
+    {
+      "topic_key": "polity-07",
+      "record_id": "polity-07:learner-v2:g19",
+      "approval": false,
+      "result": "passed",
+      "main_pages": 103,
+      "workbook_pages": 29,
+      "solved_blocks": 7,
+      "mcqs": 40,
+      "ascii_panels": 12,
+      "graphical_stages": 12,
+      "targeted_tests": 59
+    },
+    {
+      "topic_key": "polity-08",
+      "record_id": "polity-08:learner-v2:g9",
+      "approval": false,
+      "result": "passed",
+      "main_pages": 72,
+      "workbook_pages": 22,
+      "solved_blocks": 9,
+      "mcqs": 28,
+      "ascii_panels": 12,
+      "graphical_stages": 12,
+      "targeted_tests": 59
+    },
+    {
+      "topic_key": "polity-09",
+      "record_id": "polity-09:learner-v2:g5",
+      "approval": false,
+      "result": "passed",
+      "main_pages": 61,
+      "workbook_pages": 19,
+      "solved_blocks": 8,
+      "mcqs": 24,
+      "ascii_panels": 12,
+      "graphical_stages": 12,
+      "targeted_tests": 59
+    },
+    {
+      "topic_key": "polity-10",
+      "record_id": "polity-10:learner-v2:g8",
+      "approval": false,
+      "result": "passed",
+      "main_pages": 78,
+      "workbook_pages": 31,
+      "solved_blocks": 17,
+      "mcqs": 36,
+      "ascii_panels": 12,
+      "graphical_stages": 12,
+      "targeted_tests": 59
+    }
+  ],
+  "resolved_intermediate_failures": [
+    "polity-07:learner-v2:g18 case-label normalization",
+    "polity-10:learner-v2:g7 case-label normalization"
+  ],
+  "blockers": [],
+  "next_topic_key": "polity-11",
+  "next_topic": "Parliamentary System",
+  "final_regression_tests": {
+    "tests": 15,
+    "failures": 0
+  },
+  "inventory": "upsc-ai-kit\\manifests\\exports\\polity-06-10-semantic-completeness-2026-09-05-changed-files.txt"
+}

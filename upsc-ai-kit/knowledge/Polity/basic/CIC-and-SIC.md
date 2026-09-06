@@ -38,7 +38,7 @@ the **RTI Rules, 2019 prescribe three years**, with the statutory age ceiling of
 from **13 Nov 2025** under MeitY's commencement notification. The new text exempts
 "information which relates to personal information"; its interaction with the RTI Act's
 public-interest override and constitutional right-to-information doctrine remain relevant, without asserting an unverified litigation outcome.
-*(Official Gazette status checked 21 Jul 2026.)*
+*(Official Gazette status checked 5 September 2026.)*
 
 ## 5. Answer architecture (10/15/20-mark support)
 
@@ -114,7 +114,7 @@ public-interest override and constitutional right-to-information doctrine remain
 - **Claim:** disclosure is the rule and exemption the exception. **Evidence:** **Section 8(1)(a)–(j)** exempts categories such as national security, foreign relations, commercial confidence, fiduciary relationship and personal information; **Section 9** protects copyright. **Significance:** exemptions are enumerated and closed, not open-ended. **Limitation:** the categories are broad and contested case-by-case.
 - **Claim:** exemptions are subordinate to public interest. **Evidence:** **Section 8(2)** — the **public-interest override** — allows access **notwithstanding the Official Secrets Act, 1923 and the Section 8(1) exemptions** where the public interest in disclosure outweighs the protected harm. **Significance:** the single most powerful pro-transparency lever. **Limitation:** its scope is being narrowed by the DPDP change below.
 - **Claim:** even exempt security bodies are not immune to corruption/rights scrutiny. **Evidence:** **Section 24** exempts the intelligence and security organisations in the **Second Schedule** (e.g., IB, RAW), **but the proviso preserves information on allegations of corruption and human-rights violations**. **Significance:** a deliberate accountability carve-out. **Limitation/status:** ✅ HR-violation information routes through the CIC's approval.
-- **Claim:** the exemption for personal information has been rewritten. **Evidence:** 📰 the **Digital Personal Data Protection Act, 2023 (Section 44(3))** **substituted Section 8(1)(j)** to exempt "information which relates to personal information," **removing the earlier public-activity/unwarranted-invasion test and the Parliament-parity proviso**; brought into force by a **MeitY commencement notification in November 2025** (official Gazette status checked 21 Jul 2026). **Significance:** materially narrows disclosable personal information. **Limitation/status caution:** ⚠️ section 8(2), other statutory provisions and constitutional doctrine must still be analysed; do not invent a stay, reference or final judicial outcome.
+- **Claim:** the exemption for personal information has been rewritten. **Evidence:** 📰 the **Digital Personal Data Protection Act, 2023 (Section 44(3))** **substituted Section 8(1)(j)** to exempt "information which relates to personal information," **removing the earlier public-activity/unwarranted-invasion test and the Parliament-parity proviso**; brought into force by a **MeitY commencement notification in November 2025** (official Gazette status checked 5 September 2026). **Significance:** materially narrows disclosable personal information. **Limitation/status caution:** ⚠️ section 8(2), other statutory provisions and constitutional doctrine must still be analysed; do not invent a stay, reference or final judicial outcome.
 
 ### 5.7 Bank D — Constitutional root and the case law (exact propositions)
 
@@ -167,7 +167,7 @@ public-interest override and constitutional right-to-information doctrine remain
 - ✅ The **2019 amendment reduced** protection: it removed the **fixed 5-year term** and the **ECI salary parity** and moved these to Central rules → **3 years** now — **get the direction right** (tenure/parity went down, executive control went up).
 - ✅ CIC removal is by the **President**, SIC removal by the **Governor**; do not swap these or import the SHRC's President-only rule.
 - ✅ **Section 8(2)** is the public-interest override; **Section 24**'s proviso preserves corruption/HR information — cite the exact sections.
-- 📰 The **DPDP Act, 2023 (Section 44(3)) substitution of Section 8(1)(j)** is **in force since November 2025** (MeitY commencement; checked 21 Jul 2026) but its constitutionality is **sub judice before a Constitution Bench (2026)** — record it as **in force yet challenged**, not as struck down or as settled.
+- 📰 The **DPDP Act, 2023 (Section 44(3)) substitution of Section 8(1)(j)** is **in force since November 2025** (MeitY commencement; checked 5 September 2026) but its constitutionality is **sub judice before a Constitution Bench (2026)** — record it as **in force yet challenged**, not as struck down or as settled.
 - ⚠️ Do not fabricate pendency counts, penalty statistics or a national tally of functioning SICs; state the mechanism and flag figures as variable.
 - ⚠️ *Subhash Chandra Agarwal* (2019) held the **CJI's office is a public authority subject to Section 8 balancing** — it is **not** an unconditional order to disclose judges' assets.
 
@@ -191,3 +191,51 @@ public-interest override and constitutional right-to-information doctrine remain
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
+
+### Semantic-completeness ownership and PYQ control
+
+- **Status and constitutional root:** CIC and SIC are statutory bodies under
+  the Right to Information Act, 2005. The right to know is derived from
+  Article 19(1)(a), but the Commission's office, jurisdiction and remedies come
+  from the Act rather than directly from the Constitution.
+- **Current central roster, checked 5 September 2026:** the official CIC
+  present-commission pages identify Chief Information Commissioner Raj Kumar
+  Goyal and Information Commissioners Anandi Ramalingam, Vinod Kumar Tiwari,
+  Surendra Singh Meena, Ashutosh Chaturvedi, Swagat Das, Sudha Rani Relangi,
+  P. R. Ramesh, Khushwant Singh Sethi, Jaya Varma Sinha and Sanjeev Kumar
+  Jindal. State rosters remain State-specific and must be checked separately.
+- **Composition and appointment:** the CIC consists of the Chief and up to ten
+  Information Commissioners, appointed by the President after the statutory
+  PM-LoP-nominated Cabinet Minister committee. The SIC analogue is appointed
+  by the Governor after the CM-LoP-nominated State Cabinet Minister committee.
+- **Tenure and independence:** after the 2019 amendment, tenure and service
+  conditions are prescribed by Central rules. The 2019 Rules prescribe three
+  years, subject to the statutory age ceiling of sixty-five; an IC elevated as
+  Chief cannot exceed the aggregate statutory service limit. Removal for proved
+  misbehaviour or incapacity follows the Supreme Court inquiry route.
+- **Four-route firewall:** section 6 request -> section 7 decision/deemed
+  refusal -> section 19(1) first appeal -> section 19(3) second appeal.
+  Section 18 complaint is a distinct supervisory route and does not itself
+  become the substitute disclosure appeal identified in State of Manipur.
+- **Powers and remedies:** sections 18-20 confer inquiry/civil-court powers,
+  binding disclosure/compliance directions, compensation, recommendation of
+  disciplinary action and personal PIO penalty of Rs 250 per day up to
+  Rs 25,000. They do not authorize creation of non-existent records.
+- **Exemption architecture:** sections 8 and 9 are exemptions, section 8(2) is
+  the public-interest override, section 10 requires severability, section 11 is
+  third-party procedure rather than an exemption, and section 24 preserves the
+  corruption and human-rights provisos for listed organisations.
+- **Current privacy law:** DPDP Act section 44(3) substituted section 8(1)(j)
+  with effect from 13 November 2025. The shorter personal-information exemption
+  is in force; section 8(2), severability, reasons, appeal and judicial review
+  remain. The constitutional challenge has not produced a final merits holding.
+- **Case controls:** Raj Narain and S.P. Gupta ground open government; CBSE v.
+  Aditya Bandopadhyay limits RTI to held/controlled records; Chief Information
+  Commissioner v. State of Manipur separates complaint and appeal; Thalappalam
+  controls the public-authority test; Jayantilal Mistry rejects blanket
+  fiduciary secrecy; Subhash Chandra Agarwal applies privacy balancing to the
+  CJI's office; Anjali Bhardwaj and Kishan Chand Jain address functioning,
+  appointments and access.
+- **PYQ firewall:** the verified 2020 GS-II RTI-amendment/autonomy demand is
+  owned here. Privacy, data protection, judicial administration and cooperative
+  public-authority questions remain cross-owned where their principal demand lies.

@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "indian-society-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_society_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "indian-society-01",
+      "display_title": "Salient Features and Diversity of Indian Society",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Reading Indian diversity",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "AXES -> ethnicity, language, religion, region, caste and tribe",
+            "RELATION -> layered and overlapping, not parallel lists",
+            "TEST -> do the axes cross-cut or reinforce on one household",
+            "OUTCOME -> cohesion or compounded marginality",
+            "MUST REMEMBER: Indian society is plural, stratified and relational: language, religion, caste,",
+            "  tribe, class, gender, region, rural-urban location and migration overlap, while",
+            "  constitutional citizenship and institutions create unity without erasing difference."
+          ],
+          "source_references": [
+            "How to read Indian diversity",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Four-term distinction",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "DIVERSITY -> objective presence of different identities",
+            "PLURALITY -> coexistence with mutual recognition",
+            "DISPARITY -> unequal outcomes between groups or regions",
+            "MARGINALITY -> exclusion from opportunity, resources or voice"
+          ],
+          "source_references": [
+            "Diversity, plurality, disparity and marginality",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Linguistic layer",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "FAMILIES -> Indo-Aryan, Dravidian, Austroasiatic, Tibeto-Burman",
+            "RECOGNITION -> Eighth Schedule currently lists 22 languages",
+            "CENSUS 2011 -> 19,500 plus raw returns rationalised to 121 languages",
+            "LIMIT -> the four-family shorthand is not an exhaustive taxonomy"
+          ],
+          "source_references": [
+            "The linguistic layer and its recognition",
+            "Counting language and identity",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Scale of recognised exclusion",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "CENSUS 2011 -> last completed full count",
+            "SCHEDULED TRIBES -> about 8.6 per cent of population",
+            "SCHEDULED CASTES -> about 16.6 per cent of population",
+            "STATUS -> a stock figure, never a current-year estimate"
+          ],
+          "source_references": [
+            "The scale of recognised historical exclusion",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Cleavage test",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "AXES UNCORRELATED -> cross-cutting, diversity stays plural",
+            "AXES OVERLAP ON ONE GROUP -> reinforcing, diversity compounds",
+            "REINFORCED STACK -> remoteness, low literacy, asset-poverty",
+            "VERDICT -> the correlation is conditional, not universal"
+          ],
+          "source_references": [
+            "Cross-cutting cleavages",
+            "Reinforcing cleavages",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Integrative mechanisms",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "SYNCRETIC IDIOM -> dargahs, Bhakti poets, shared shrines",
+            "FESTIVAL CIRCUIT -> Onam, Bihu and Pongal as composite belonging",
+            "CIVIC SPACE -> schools, markets, elections, public transport",
+            "MIGRATION -> mixed neighbourhoods normalise difference",
+            "CLOSE DISTINCTION: Diversity is not inequality, pluralism is not assimilation, integration is",
+            "  not homogenisation, and coexistence is not proof of equal power; intersectionality explains",
+            "  combined disadvantages without treating every identity combination as identical."
+          ],
+          "source_references": [
+            "Syncretism and composite culture",
+            "Everyday civic integration",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Reinforcing case card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "SOURCE -> Ministry of Tribal Affairs list dated 9 July 2024",
+            "COUNT -> 75 Particularly Vulnerable Tribal Groups",
+            "SPREAD -> 18 States and the UT of Andaman and Nicobar Islands",
+            "LIMIT -> administrative criteria, not a ranking of communities"
+          ],
+          "source_references": [
+            "The sharpest reinforcing case",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Counter-evidence pair",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "DIVERSITY WITHOUT MARGINALITY -> prosperous linguistic-minority traders",
+            "ALSO -> several Sikh and Jain business communities",
+            "MARGINALITY WITHOUT MARKER -> landless dominant-caste labourer",
+            "RULE -> the correlation is neither universal nor symmetric"
+          ],
+          "source_references": [
+            "Boundary cases that break the correlation",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Continuity mechanism",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "ABSORPTION -> add a tradition without extinguishing the earlier one",
+            "RECOGNITION -> Eighth Schedule listing of 22 languages",
+            "TERRITORY -> States Reorganisation Act, 1956 accommodates language",
+            "COST -> hierarchy persisted inside the same continuity"
+          ],
+          "source_references": [
+            "Accommodation as the continuity mechanism",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Recognition and redistribution",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "RECOGNITION -> respect, visibility and cultural standing",
+            "REDISTRIBUTION -> land, credit, schooling and access",
+            "MISMATCH -> recognition alone leaves the asset gap intact",
+            "DIAGNOSIS -> identify the gap before choosing the instrument"
+          ],
+          "source_references": [
+            "Recognition, redistribution and causation",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Evidence ladder",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "STRONG -> Census 2011 stocks and the dated official PVTG list",
+            "MODERATE -> named integrative practices and boundary cases",
+            "WEAK -> national aggregates about which sub-group is excluded",
+            "UNSUPPORTED -> any caste figure from prospective Census 2027"
+          ],
+          "source_references": [
+            "Measurement boundary and the complete answer spine",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Diversity answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> state the proposition and the axis structure",
+            "BODY -> reinforcing cases, then cross-cutting counter-cases",
+            "REFRAME -> exclusion and remoteness are the mechanism",
+            "CLOSE -> conditional verdict plus the measurement caveat",
+            "EVIDENCE LIMIT: Use Census 2011 language/religion baselines, the notified PVTG position and",
+            "  named regional examples with source-date-status labels; neither harmony nor conflict is",
+            "  timeless, and correlation between diversity and marginality is not sufficient causation."
+          ],
+          "source_references": [
+            "Measurement boundary and the complete answer spine",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

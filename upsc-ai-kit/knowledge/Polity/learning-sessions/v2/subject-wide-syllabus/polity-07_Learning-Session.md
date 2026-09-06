@@ -1235,6 +1235,39 @@ Article 341 list.
 **Cross-links:** `basic/Special-Provisions-Relating-to-Certain-Classes.md` and
 `basic/Constitutional-Interpretation-Doctrines.md`.
 
+### Semantic-completeness ownership and PYQ control
+
+- **Part III architecture:** Articles 12-13 define the State/law gateway;
+  Articles 14-18 equality; 19-22 freedom and criminal-process safeguards; 23-24
+  exploitation; 25-28 religion; 29-30 culture and education; Article 32 remedies;
+  Articles 31A-31C and 33-35 are exact saving/competence controls.
+- **Beneficiary and respondent:** Articles 15, 16, 19 and 29 are citizen-specific;
+  Articles 14, 20, 21 and 25 protect persons; Article 30 speaks of minorities.
+  Articles 15(2), 17, 23 and 24 have specified horizontal reach. Article 226 may
+  reach public duty beyond Article 12 without rewriting the Article 12 test.
+- **Equality and reservation:** reasonable classification, anti-arbitrariness,
+  Articles 15(3)-(6), 16(4), 16(4A), 16(4B), 16(6), Indra Sawhney, M. Nagaraj,
+  Jarnail Singh, Janhit Abhiyan and Davinder Singh must retain distinct holdings,
+  evidence requirements and limits.
+- **Freedoms and liberty:** quote the closed Article 19(2)-(6) grounds; distinguish
+  Articles 20(1)-(3), Maneka's fair-just-reasonable procedure, Article 21A, and
+  ordinary arrest from preventive detention. The uncommenced 44th-Amendment
+  two-month text must not replace the operative three-month Article 22 ceiling.
+- **Religion, minority rights and remedies:** preserve Article 25(2), Articles
+  26-28, the distinct limbs of Articles 29-30, the five writs and the wider
+  Article 226 jurisdiction. Articles 358 and 359 are not interchangeable, and
+  Articles 20-21 cannot be included in an Article 359 order.
+- **Current legal controls:** Electoral Bonds (2024 INSC 113), Davinder Singh
+  (2024 INSC 562), Property Owners (2024 INSC 835), phased DPDP notifications
+  G.S.R. 843(E)/846(E), Harish Rana (2026 INSC 222), and the 28 August 2025
+  notice on BNS Section 152 are used only for their exact official propositions.
+- **Four-ledger hostile audit:** every Article, beneficiary, restriction ground,
+  doctrine, case, amendment, exception, remedy, emergency effect and routed
+  2018-2026 demand was checked independently.
+- **Verified PYQ ownership:** preserve all routed Mains and Prelims metadata;
+  historical unavailable keys remain inferred, 2024 official keys stay official,
+  and 2026 provisional keys are never promoted.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Forty core diagnostic MCQs

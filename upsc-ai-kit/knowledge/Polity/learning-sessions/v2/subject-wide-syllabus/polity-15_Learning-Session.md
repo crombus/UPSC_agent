@@ -527,6 +527,49 @@ The exam-safe limitation is that ground Violation of Constitution None stated.
 - VP casual vacancy has no six-month rule; presidential casual vacancy does.
 - VP acting as President does not simultaneously chair Rajya Sabha.
 
+### Semantic-completeness ownership and PYQ control
+
+- **Office map:** Articles 52-62 govern the President's office/election/term and
+  Article 61 impeachment; Articles 63-71 govern the Vice-President, with Article
+  71 giving the Supreme Court final jurisdiction over both elections. Articles
+  72-73 then address clemency and Union executive extent.
+- **Electoral colleges:** Article 54 includes elected MPs and elected MLAs of the
+  States plus Delhi and Puducherry; nominated members and Legislative-Council
+  members do not vote. Article 66 includes elected and nominated members of both
+  Houses but no State legislators.
+- **Vote and vacancy:** Article 55 vote values and PR-STV/secret ballot apply to
+  the President; the Vice-President uses PR-STV/secret ballot without MLA vote
+  values. Articles 62 and 68 impose different vacancy schedules.
+- **Removal:** Article 61 impeachment for constitutional violation may begin in
+  either House after fourteen days' notice signed by at least one-fourth and needs
+  two-thirds of total membership in each House. Article 67(b) Vice-Presidential
+  removal begins only in Rajya Sabha, uses an effective-majority resolution agreed
+  to by Lok Sabha, and also requires fourteen days' notice.
+- **Aid and advice:** Article 74 advice binds after one reconsideration. Situational
+  discretion in appointing a Prime Minister, seeking proof of confidence or
+  exploring alternatives is bounded by responsible-government conventions and
+  cannot become personal presidential rule.
+- **Veto and reserved Bills:** Article 111 assent/withholding/return applies to
+  Parliamentary Bills, with no return of a Money Bill. Article 201 is a separate
+  reserved-State-Bill route governed by the 20 November 2025 Article 143 opinion;
+  it has no judicially fixed deadline or deemed assent.
+- **Ordinance:** Article 123 requires both Houses not to be in session, has the
+  force of an Act, must stay within legislative/rights limits, and ceases six
+  weeks after reassembly unless earlier withdrawn/disapproved. D.C. Wadhwa and
+  Krishna Kumar Singh reject routine re-promulgation.
+- **Clemency:** Article 72 covers Union-law offences, court-martial and death
+  sentences; Article 161 tracks State executive competence and cannot pardon a
+  court-martial or death sentence. Maru Ram, Kehar Singh and Epuru Sudhakar
+  preserve ministerial advice and limited review for mala fides, arbitrariness or
+  irrelevant considerations.
+- **Current offices:** Droupadi Murmu remains President. C. P. Radhakrishnan was
+  elected Vice-President on 9 September 2025 and assumed office on 12 September
+  2025 after the casual vacancy; Article 68 requires filling it as soon as possible,
+  not within an invented six-month deadline.
+- **Four-ledger/PYQ control:** exact Articles, electoral law, vote arithmetic,
+  conventions, cases, current officeholders and all routed 2018-2025 demands were
+  reconciled; detailed PM/CoM, Parliament and Governor doctrine remains cross-owned.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Original MCQ loop

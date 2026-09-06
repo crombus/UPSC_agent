@@ -2,14 +2,14 @@
 
 **Complete independent learning session + verified PYQ routing + solved practice workbook + final consolidated register notes**
 
-**Legal/current control date:** 25 August 2026 (Asia/Kolkata)
+**Legal/current control date:** 5 September 2026 (Asia/Kolkata)
 
 > **Tag key:** `[FACT]` = named constitutional, statutory, official, judicial or audited local support; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked for the control date; `[LIMIT]` = qualification.
 >
 > **Answer-writing discipline:** claim -> named evidence -> analysis -> qualification.
 
-- [CURRENT] Status is controlled to **25 August 2026, Asia/Kolkata**.
-- [CURRENT] **Live official refresh, 25 August 2026:** CCI's current official competition-law description and the official regulator, MeitY and Supreme Court portals were rechecked on 25 August 2026. Digital, data and platform proposals or subordinate frameworks are used only with their dated legal status; no draft is represented as enacted law.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
+- [CURRENT] **Live official refresh, 5 September 2026:** CCI's current official competition-law description and the official regulator, MeitY and Supreme Court portals were rechecked on 5 September 2026. Digital, data and platform proposals or subordinate frameworks are used only with their dated legal status; no draft is represented as enacted law.
 
 #### How to Use This Package
 
@@ -1168,7 +1168,7 @@ Digital, data and platform regulation boundary operates through identified harm 
 The operative mechanism matters because network effects self-preferencing data concentration dark patterns.
 Its principal consequence is that algorithmic opacity child/consumer harm systemic cyber risk.
 The decisive contrast is between competition enforcement sector regulation data-protection duties and consumer law interoperability/access duties code/sandbox.
-The exam-safe limitation is that [CURRENT] As of 25 August 2026, every rule, board, draft Bill or consultation must be.
+The exam-safe limitation is that [CURRENT] As of 5 September 2026, every rule, board, draft Bill or consultation must be.
 REGULATORY QUESTION
 identified harm -> statutory competence -> affected market/right -> proposed tool
 -> consultation and impact assessment -> rule/order -> appeal/review -> ex-post evaluation.
@@ -1181,11 +1181,52 @@ DESIGN OPTIONS
 competition enforcement | sector regulation | data-protection duties
 | consumer law | interoperability/access duties | code/sandbox.
 
-[CURRENT] As of 25 August 2026, every rule, board, draft Bill or consultation must be
+[CURRENT] As of 5 September 2026, every rule, board, draft Bill or consultation must be
 named with its exact instrument and date. A proposal is not settled law.
 
 [LIMIT] Regulating a digital activity does not make every affected authority a
 quasi-judicial body; character remains function-specific.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Three-axis taxonomy:** constitutional/statutory/executive identifies legal
+  source; regulatory/investigative/advisory/adjudicatory identifies function;
+  administrative/quasi-legislative/quasi-judicial identifies decisional
+  character. No one axis proves the others.
+- **Regulatory cycle:** parent Act -> delegated standard/licence -> monitoring
+  -> investigation -> show-cause/hearing -> reasoned order -> statutory appeal
+  -> constitutional review. Each stage needs its own authority and safeguard.
+- **Quasi-judicial test:** when an authority determines rights or liabilities,
+  notice, opportunity, absence of bias, relevant evidence and reasons normally
+  apply. Binapani Dei, A.K. Kraipak and Maneka Gandhi anchor fair procedure;
+  natural justice is flexible but not optional arbitrariness.
+- **Delegated legislation:** regulations must remain within the parent Act and
+  constitutional limits. PTC India (2010) distinguishes general regulatory
+  legislation from appealable adjudicatory orders; a statutory appeal against
+  an order does not automatically extend to every regulation.
+- **Institutional firewall:** courts, tribunals, regulators, commissions and
+  ombudsmen have different primary roles. Civil-court powers for inquiry do not
+  make a commission a court, and a regulator is quasi-judicial only while
+  performing an adjudicatory function.
+- **Independence/accountability:** appointment, tenure, removal, finance,
+  expertise, conflict rules and functional separation control capture.
+  Parliament, CAG, RTI, consultation, reasons, appeal and judicial review
+  remain accountability mechanisms rather than executive merits control.
+- **Competition-law status:** the Competition (Amendment) Act, 2023 and CCI's
+  2024 settlement/commitment regulations are operative. Later consultation
+  drafts or proposed amendments remain proposals until duly notified.
+- **Digital-data status, checked 5 September 2026:** the DPDP Rules, 2025 and
+  notifications commenced specified institutional provisions and established
+  the DPDP Board (Data Protection Board of India) in the NCR from 13 November 2025.
+  Remaining Act/rule duties follow the notified phased timetable; establishment
+  is not evidence that every substantive obligation was already operative.
+- **Current institutional snapshot:** CCI's official site identifies Ravneet
+  Kaur as Chairperson in 2026. SEBI's official Quasi-Judicial Cell and
+  e-adjudication system illustrate regulator-specific adjudication, not a
+  general constitutional category or immunity from SAT/court review.
+- **PYQ firewall:** verified statutory-body, regulator, quasi-judicial,
+  natural-justice and sector-appellate demands are retained. Body-specific
+  thresholds and officeholders are dated; draft regimes are never called law.
 
 ## BASIC MCQS / REMEDIATION
 
@@ -2249,7 +2290,7 @@ Rankings based only on disposal totals reward easy-case clearance and can hide p
 
 ### Regulatory State and Quasi Judicial Institutions: Rapid Constitutional Recall
 
-- **Current-control rule:** CCI's current official competition-law description and the official regulator, MeitY and Supreme Court portals were rechecked on 25 August 2026. Digital, data and platform proposals or subordinate frameworks are used only with their dated legal status; no draft is represented as enacted law.
+- **Current-control rule:** CCI's current official competition-law description and the official regulator, MeitY and Supreme Court portals were rechecked on 5 September 2026. Digital, data and platform proposals or subordinate frameworks are used only with their dated legal status; no draft is represented as enacted law.
 - **Factual caveat:** Statutory, regulatory and quasi-judicial describe different axes. A regulator is quasi-judicial only while performing an adjudicatory function. Independence does not remove legislative, audit, transparency, appeal or judicial-review accountability, and a consultation paper or proposed digital regime is not law.
 
 #### 1. The three words describe different things

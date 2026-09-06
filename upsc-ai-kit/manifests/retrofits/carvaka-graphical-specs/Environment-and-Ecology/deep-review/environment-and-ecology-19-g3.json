@@ -1,0 +1,1200 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-19",
+  "subject": "Environment-and-Ecology",
+  "title": "UNFCCC COP KYOTO PARIS AGREEMENT",
+  "short_route": "CLIMATE-TREATY HIERARCHY → GOVERNING-BODY MATRIX → LEGAL-STATUS LADDER → KYOTO COVERAGE MAP → KYOTO MECHANISM MATRIX → KYOTO-TO-PARIS REPLACEMENT LOGIC",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g3\\environment-and-ecology-19_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-19-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "8460b996b915d817207595a54879cf33b28b02c43a46540d3ba6434a343eb230",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CLIMATE-TREATY HIERARCHY",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CLIMATE-TREATY HIERARCHY",
+          "role": "primary"
+        },
+        {
+          "text": "FRAMEWORK CONVENTION, PRINCIPLES AND INSTITUTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "KYOTO PROTOCOL",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMITMENT-PERIOD INSTRUMENT UNDER CONVENTION",
+          "role": "evidence"
+        },
+        {
+          "text": "PARIS AGREEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "UNIVERSAL NDC-CYCLE AGREEMENT",
+          "role": "mechanism"
+        },
+        {
+          "text": "COP CMP CMA DECISIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "IMPLEMENTATION AND GOVERNANCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UNFCCC → framework convention, principles and institutions",
+        "KYOTO PROTOCOL → commitment-period instrument under Convention",
+        "PARIS AGREEMENT → universal NDC-cycle agreement",
+        "COP CMP CMA DECISIONS → implementation and governance",
+        "NATIONAL INSTRUMENTS → domestic communication and action"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "UNFCCC → framework convention, principles and institutions",
+            "KYOTO PROTOCOL → commitment-period instrument under Convention"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PARIS AGREEMENT → universal NDC-cycle agreement",
+            "COP CMP CMA DECISIONS → implementation and governance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NATIONAL INSTRUMENTS → domestic communication and action",
+            "MUST REMEMBER: UNFCCC supplies principles and institutions, Kyoto created differentiated..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: UNFCCC supplies principles and institutions, Kyoto created differentiated.",
+      "source_references": [
+        "UNFCCC convention identity",
+        "Kyoto Protocol identity",
+        "Paris Agreement identity",
+        "Treaty-decision hierarchy",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g2\\environment-and-ecology-19_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g3\\environment-and-ecology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "GOVERNING-BODY MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GOVERNING-BODY MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "PARTIES TO THE CONVENTION",
+          "role": "outcome"
+        },
+        {
+          "text": "PARTIES TO THE KYOTO PROTOCOL",
+          "role": "comparison"
+        },
+        {
+          "text": "PARTIES TO THE PARIS AGREEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "DECISION LABEL",
+          "role": "primary"
+        },
+        {
+          "text": "IDENTIFIES THE GOVERNING BODY AND SESSION",
+          "role": "outcome"
+        },
+        {
+          "text": "NEVER DETACH A DECISION FROM ITS INSTRUMENT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "COP → Parties to the Convention",
+        "CMP → Parties to the Kyoto Protocol",
+        "CMA → Parties to the Paris Agreement",
+        "DECISION LABEL → identifies the governing body and session",
+        "RULE → never detach a decision from its instrument"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "COP → Parties to the Convention",
+          "CMA → Parties to the Paris Agreement",
+          "RULE → never detach a decision from its instrument"
+        ],
+        [
+          "CMP → Parties to the Kyoto Protocol",
+          "DECISION LABEL → identifies the governing body and session",
+          "COP → Parties to the Convention"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COP → Parties to the Convention",
+            "CMP → Parties to the Kyoto Protocol"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CMA → Parties to the Paris Agreement",
+            "DECISION LABEL → identifies the governing body and session"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → never detach a decision from its instrument",
+            "COP → Parties to the Convention"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → never detach a decision from its instrument.",
+      "source_references": [
+        "COP-CMP-CMA boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g2\\environment-and-ecology-19_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g3\\environment-and-ecology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "LEGAL-STATUS LADDER",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "LEGAL-STATUS LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "TEXT AGREED BY THE COMPETENT CONFERENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "POLITICAL AUTHENTICATION WHERE APPLICABLE",
+          "role": "comparison"
+        },
+        {
+          "text": "RATIFICATION OR ACCESSION",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSENT TO BE BOUND",
+          "role": "primary"
+        },
+        {
+          "text": "ENTRY INTO FORCE",
+          "role": "outcome"
+        },
+        {
+          "text": "TREATY CONDITIONS SATISFIED",
+          "role": "comparison"
+        },
+        {
+          "text": "DOMESTIC AND INTERNATIONAL OPERATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ADOPTION → text agreed by the competent conference",
+        "SIGNATURE → political authentication where applicable",
+        "RATIFICATION OR ACCESSION → consent to be bound",
+        "ENTRY INTO FORCE → treaty conditions satisfied",
+        "IMPLEMENTATION → domestic and international operation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ADOPTION → text agreed by the competent conference",
+            "SIGNATURE → political authentication where applicable"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RATIFICATION OR ACCESSION → consent to be bound",
+            "ENTRY INTO FORCE → treaty conditions satisfied"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "IMPLEMENTATION → domestic and international operation",
+            "ADOPTION → text agreed by the competent conference"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RATIFICATION OR ACCESSION → consent to be bound.",
+      "source_references": [
+        "Treaty-status sequence",
+        "Doha Amendment status",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g2\\environment-and-ecology-19_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g3\\environment-and-ecology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "KYOTO COVERAGE MAP",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "KYOTO COVERAGE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "ANNEX I COVERED GROUP",
+          "role": "outcome"
+        },
+        {
+          "text": "QUANTIFIED COMMITMENT ARCHITECTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "NON-ANNEX I",
+          "role": "evidence"
+        },
+        {
+          "text": "NO KYOTO-STYLE QUANTIFIED COMMITMENT",
+          "role": "caution"
+        },
+        {
+          "text": "COMMITMENT PERIOD",
+          "role": "outcome"
+        },
+        {
+          "text": "TIME-BOUNDED OBLIGATION",
+          "role": "comparison"
+        },
+        {
+          "text": "DEVELOPED-COUNTRY LEAD IN HISTORICAL DESIGN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ANNEX I COVERED GROUP → quantified commitment architecture",
+        "NON-ANNEX I → no Kyoto-style quantified commitment",
+        "COMMITMENT PERIOD → time-bounded obligation",
+        "CBDR-RC → developed-country lead in historical design",
+        "BOUNDARY → do not project Kyoto's binary onto every Paris duty"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ANNEX I COVERED GROUP → quantified commitment architecture",
+          "COMMITMENT PERIOD → time-bounded obligation",
+          "BOUNDARY → do not project Kyoto's binary onto every Paris duty"
+        ],
+        [
+          "NON-ANNEX I → no Kyoto-style quantified commitment",
+          "CBDR-RC → developed-country lead in historical design",
+          "ANNEX I COVERED GROUP → quantified commitment architecture"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ANNEX I COVERED GROUP → quantified commitment architecture",
+            "NON-ANNEX I → no Kyoto-style quantified commitment"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMMITMENT PERIOD → time-bounded obligation",
+            "CBDR-RC → developed-country lead in historical design"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → do not project Kyoto's binary onto every Paris duty",
+            "ANNEX I COVERED GROUP → quantified commitment architecture"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BOUNDARY → do not project Kyoto's binary onto every Paris duty.",
+      "source_references": [
+        "Kyoto Protocol identity",
+        "Annex I historical boundary",
+        "Non-Annex Kyoto boundary",
+        "CBDR-RC continuity",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g2\\environment-and-ecology-19_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g3\\environment-and-ecology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "KYOTO MECHANISM MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "KYOTO MECHANISM MATRIX",
+          "role": "mechanism"
+        },
+        {
+          "text": "EMISSIONS TRADING",
+          "role": "outcome"
+        },
+        {
+          "text": "UNIT TRANSFER ACROSS COVERED ENTITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "JOINT IMPLEMENTATION",
+          "role": "evidence"
+        },
+        {
+          "text": "PROJECT PATHWAY WITHIN ANNEX I SETTING",
+          "role": "primary"
+        },
+        {
+          "text": "PROJECT PATHWAY HOSTED IN A DEVELOPING COUNTRY",
+          "role": "outcome"
+        },
+        {
+          "text": "MECHANISM-SPECIFIC UNITS AND RULES",
+          "role": "mechanism"
+        },
+        {
+          "text": "NO MERGER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EMISSIONS TRADING → unit transfer across covered entities",
+        "JOINT IMPLEMENTATION → project pathway within Annex I setting",
+        "CDM → project pathway hosted in a developing country",
+        "ACCOUNTING → mechanism-specific units and rules",
+        "NO MERGER → participation and credit origins differ"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "EMISSIONS TRADING → unit transfer across covered entities",
+          "CDM → project pathway hosted in a developing country",
+          "NO MERGER → participation and credit origins differ"
+        ],
+        [
+          "JOINT IMPLEMENTATION → project pathway within Annex I setting",
+          "ACCOUNTING → mechanism-specific units and rules",
+          "EMISSIONS TRADING → unit transfer across covered entities"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EMISSIONS TRADING → unit transfer across covered entities",
+            "JOINT IMPLEMENTATION → project pathway within Annex I setting"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CDM → project pathway hosted in a developing country",
+            "ACCOUNTING → mechanism-specific units and rules"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NO MERGER → participation and credit origins differ",
+            "EMISSIONS TRADING → unit transfer across covered entities"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO MERGER → participation and credit origins differ.",
+      "source_references": [
+        "Kyoto mechanisms",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g2\\environment-and-ecology-19_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g3\\environment-and-ecology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "KYOTO-TO-PARIS REPLACEMENT LOGIC",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "KYOTO-TO-PARIS REPLACEMENT LOGIC",
+          "role": "primary"
+        },
+        {
+          "text": "TOP-DOWN QUANTIFIED COMMITMENTS FOR COVERED GROUP",
+          "role": "outcome"
+        },
+        {
+          "text": "PARTICIPATION LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "NARROWER SUBSTANTIVE TARGET COVERAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "NATIONALLY DETERMINED CONTRIBUTIONS BY ALL PARTIES",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSPARENCY PLUS CYCLE",
+          "role": "mechanism"
+        },
+        {
+          "text": "ITERATIVE ACCOUNTABILITY DESIGN",
+          "role": "comparison"
+        },
+        {
+          "text": "UNIVERSALITY DOES NOT GUARANTEE ADEQUACY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "KYOTO → top-down quantified commitments for covered group",
+        "PARTICIPATION LIMIT → narrower substantive target coverage",
+        "PARIS → nationally determined contributions by all Parties",
+        "TRANSPARENCY PLUS CYCLE → iterative accountability design",
+        "TRADE-OFF → universality does not guarantee adequacy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "KYOTO → top-down quantified commitments for covered group",
+            "PARTICIPATION LIMIT → narrower substantive target coverage"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PARIS → nationally determined contributions by all Parties",
+            "TRANSPARENCY PLUS CYCLE → iterative accountability design"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TRADE-OFF → universality does not guarantee adequacy",
+            "KYOTO → top-down quantified commitments for covered group"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PARIS → nationally determined contributions by all Parties.",
+      "source_references": [
+        "Kyoto Protocol identity",
+        "Paris Agreement identity",
+        "NDC boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g2\\environment-and-ecology-19_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g3\\environment-and-ecology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PARIS OBLIGATION SPLIT",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PARIS OBLIGATION SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "PREPARE, COMMUNICATE AND MAINTAIN SUCCESSIVE NDCS",
+          "role": "outcome"
+        },
+        {
+          "text": "DOMESTIC MEASURES",
+          "role": "comparison"
+        },
+        {
+          "text": "PURSUE IMPLEMENTATION ACTION",
+          "role": "evidence"
+        },
+        {
+          "text": "SUBSTANTIVE NUMBER",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONALLY DETERMINED",
+          "role": "outcome"
+        },
+        {
+          "text": "NEXT CONTRIBUTION EXPECTED TO ADVANCE AMBITION",
+          "role": "comparison"
+        },
+        {
+          "text": "NO UNIVERSAL CUT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PROCEDURE → prepare, communicate and maintain successive NDCs",
+        "DOMESTIC MEASURES → pursue implementation action",
+        "SUBSTANTIVE NUMBER → nationally determined",
+        "PROGRESSION → next contribution expected to advance ambition",
+        "NO UNIVERSAL CUT → Agreement does not assign one percentage"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PROCEDURE → prepare, communicate and maintain successive NDCs",
+          "SUBSTANTIVE NUMBER → nationally determined",
+          "NO UNIVERSAL CUT → Agreement does not assign one percentage"
+        ],
+        [
+          "DOMESTIC MEASURES → pursue implementation action",
+          "PROGRESSION → next contribution expected to advance ambition",
+          "PROCEDURE → prepare, communicate and maintain successive NDCs"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROCEDURE → prepare, communicate and maintain successive NDCs",
+            "DOMESTIC MEASURES → pursue implementation action"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SUBSTANTIVE NUMBER → nationally determined",
+            "PROGRESSION → next contribution expected to advance ambition"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NO UNIVERSAL CUT → Agreement does not assign one percentage",
+            "PROCEDURE → prepare, communicate and maintain successive NDCs"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO UNIVERSAL CUT → Agreement does not assign one percentage.",
+      "source_references": [
+        "NDC boundary",
+        "Procedure-ambition distinction",
+        "Progression and cycle",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g2\\environment-and-ecology-19_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g3\\environment-and-ecology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "TRANSPARENCY-TO-STOCKTAKE RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TRANSPARENCY-TO-STOCKTAKE RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL REPORTING",
+          "role": "outcome"
+        },
+        {
+          "text": "INVENTORY AND PROGRESS INFORMATION",
+          "role": "comparison"
+        },
+        {
+          "text": "TECHNICAL REVIEW",
+          "role": "evidence"
+        },
+        {
+          "text": "METHODS AND CONSISTENCY EXAMINED",
+          "role": "primary"
+        },
+        {
+          "text": "MULTILATERAL CONSIDERATION",
+          "role": "outcome"
+        },
+        {
+          "text": "TRANSPARENCY DIALOGUE",
+          "role": "comparison"
+        },
+        {
+          "text": "GLOBAL STOCKTAKE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NATIONAL REPORTING → inventory and progress information",
+        "TECHNICAL REVIEW → methods and consistency examined",
+        "MULTILATERAL CONSIDERATION → transparency dialogue",
+        "GLOBAL STOCKTAKE → collective progress assessment",
+        "NEXT NDC → nationally determined response informed by cycle"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NATIONAL REPORTING → inventory and progress information",
+            "TECHNICAL REVIEW → methods and consistency examined"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MULTILATERAL CONSIDERATION → transparency dialogue",
+            "GLOBAL STOCKTAKE → collective progress assessment"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NEXT NDC → nationally determined response informed by cycle",
+            "NATIONAL REPORTING → inventory and progress information"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NEXT NDC → nationally determined response informed by cycle.",
+      "source_references": [
+        "Transparency-outcome boundary",
+        "Global Stocktake boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g2\\environment-and-ecology-19_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g3\\environment-and-ecology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DIFFERENTIATION COMPASS",
+      "structural_type": "layered-rail",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "DIFFERENTIATION COMPASS",
+          "role": "primary"
+        },
+        {
+          "text": "COMMON RESPONSIBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "ALL PARTIES PARTICIPATE",
+          "role": "comparison"
+        },
+        {
+          "text": "DIFFERENTIATED RESPONSIBILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "HISTORICAL AND CONTEXTUAL EQUITY",
+          "role": "primary"
+        },
+        {
+          "text": "RESOURCES AND INSTITUTIONAL CAPACITY MATTER",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONAL CIRCUMSTANCES",
+          "role": "comparison"
+        },
+        {
+          "text": "PARIS APPLICATION IS CONTEXTUAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COMMON RESPONSIBILITY → all Parties participate",
+        "DIFFERENTIATED RESPONSIBILITY → historical and contextual equity",
+        "CAPABILITY → resources and institutional capacity matter",
+        "NATIONAL CIRCUMSTANCES → Paris application is contextual",
+        "FINANCE AND TECHNOLOGY → distinct support questions"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COMMON RESPONSIBILITY → all Parties participate",
+            "DIFFERENTIATED RESPONSIBILITY → historical and contextual equity"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CAPABILITY → resources and institutional capacity matter",
+            "NATIONAL CIRCUMSTANCES → Paris application is contextual"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FINANCE AND TECHNOLOGY → distinct support questions",
+            "COMMON RESPONSIBILITY → all Parties participate"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NATIONAL CIRCUMSTANCES → Paris application is contextual; FINANCE AND TECHNOLOGY → distinct support questions.",
+      "source_references": [
+        "CBDR-RC continuity",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g2\\environment-and-ecology-19_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g3\\environment-and-ecology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ARTICLE 6 FORK",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ARTICLE 6 FORK",
+          "role": "institution"
+        },
+        {
+          "text": "COOPERATIVE APPROACHES AND TRANSFERRED OUTCOMES",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL MECHANISM UNDER PARIS GOVERNANCE",
+          "role": "mechanism"
+        },
+        {
+          "text": "NON-MARKET APPROACHES",
+          "role": "evidence"
+        },
+        {
+          "text": "AUTHORISATION AND DOUBLE-COUNTING SAFEGUARDS",
+          "role": "primary"
+        },
+        {
+          "text": "OUTCOME CLAIM",
+          "role": "outcome"
+        },
+        {
+          "text": "REQUIRES VERIFIED DELIVERY EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "6.2 → cooperative approaches and transferred outcomes",
+        "6.4 → central mechanism under Paris governance",
+        "6.8 → non-market approaches",
+        "ACCOUNTING → authorisation and double-counting safeguards",
+        "OUTCOME CLAIM → requires verified delivery evidence"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "6.2 → cooperative approaches and transferred outcomes",
+            "6.4 → central mechanism under Paris governance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "6.8 → non-market approaches",
+            "ACCOUNTING → authorisation and double-counting safeguards"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OUTCOME CLAIM → requires verified delivery evidence",
+            "CLOSE DISTINCTION: Convention membership is not Annex status, Kyoto commitment is not..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Convention membership is not Annex status, Kyoto commitment is not.",
+      "source_references": [
+        "Article 6 architecture",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g2\\environment-and-ecology-19_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g3\\environment-and-ecology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "RESPONSE-AND-FINANCE MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RESPONSE-AND-FINANCE MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "LIMIT SOURCES OR ENHANCE SINKS",
+          "role": "caution"
+        },
+        {
+          "text": "REDUCE VULNERABILITY AND MANAGE IMPACTS",
+          "role": "comparison"
+        },
+        {
+          "text": "LOSS AND DAMAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "RESIDUAL HARMS",
+          "role": "primary"
+        },
+        {
+          "text": "GOAL OR PLEDGE",
+          "role": "outcome"
+        },
+        {
+          "text": "STATED COMMITMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "VERIFIED CONTRIBUTION OR DISBURSEMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MITIGATION → limit sources or enhance sinks",
+        "ADAPTATION → reduce vulnerability and manage impacts",
+        "LOSS AND DAMAGE → residual harms",
+        "GOAL OR PLEDGE → stated commitment",
+        "DELIVERY → verified contribution or disbursement"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MITIGATION → limit sources or enhance sinks",
+          "LOSS AND DAMAGE → residual harms",
+          "DELIVERY → verified contribution or disbursement"
+        ],
+        [
+          "ADAPTATION → reduce vulnerability and manage impacts",
+          "GOAL OR PLEDGE → stated commitment",
+          "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify Party status, article/decision,..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MITIGATION → limit sources or enhance sinks",
+            "ADAPTATION → reduce vulnerability and manage impacts"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LOSS AND DAMAGE → residual harms",
+            "GOAL OR PLEDGE → stated commitment"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DELIVERY → verified contribution or disbursement",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify Party status, article/decision,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify Party status, article/decision,...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify Party status, article/decision,.",
+      "source_references": [
+        "Mitigation-adaptation-loss boundary",
+        "Decision-pledge-delivery distinction",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g2\\environment-and-ecology-19_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g3\\environment-and-ecology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "TREATY ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "TREATY ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CONVENTION, PROTOCOL, AGREEMENT OR DECISION",
+          "role": "outcome"
+        },
+        {
+          "text": "ADOPTION, RATIFICATION AND ENTRY INTO FORCE SEPARATELY",
+          "role": "comparison"
+        },
+        {
+          "text": "COVERAGE, OBLIGATION, CYCLE AND MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "TRANSPARENCY, EQUITY, FINANCE AND DELIVERY",
+          "role": "primary"
+        },
+        {
+          "text": "FINAL ADOPTED TEXT, NOT DRAFT OR ROADMAP",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "IDENTIFY → Convention, Protocol, Agreement or decision",
+        "DATE → adoption, ratification and entry into force separately",
+        "COMPARE → coverage, obligation, cycle and mechanism",
+        "EVALUATE → transparency, equity, finance and delivery",
+        "AUDIT → final adopted text, not draft or roadmap"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IDENTIFY → Convention, Protocol, Agreement or decision",
+            "DATE → adoption, ratification and entry into force separately"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMPARE → coverage, obligation, cycle and mechanism",
+            "EVALUATE → transparency, equity, finance and delivery"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AUDIT → final adopted text, not draft or roadmap",
+            "IDENTIFY → Convention, Protocol, Agreement or decision"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AUDIT → final adopted text, not draft or roadmap.",
+      "source_references": [
+        "Treaty-decision hierarchy",
+        "Current-outcome evidence boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\19_UNFCCC-COP-Kyoto-Paris-Agreement.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g2\\environment-and-ecology-19_Complete-Learning-Session_2026-09-03.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-19\\g3\\environment-and-ecology-19_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ARTICLE 6 OF THE PARIS AGREEMENT ESTABLISHES FRAMEWORKS FOR",
+          "role": "institution"
+        },
+        {
+          "text": "DESIGN TENSION",
+          "role": "comparison"
+        },
+        {
+          "text": "CARBON-MARKET MECHANISMS AIM TO LOWER THE GLOBAL COST OF",
+          "role": "evidence"
+        },
+        {
+          "text": "COP29 (BAKU, 2024) AGREED THE NEW COLLECTIVE QUANTIFIED GOAL",
+          "role": "primary"
+        },
+        {
+          "text": "ANALYTICAL POINT — THE EQUITY GAP",
+          "role": "outcome"
+        },
+        {
+          "text": "INDEPENDENT EXPERT ASSESSMENTS (E.G., THE",
+          "role": "comparison"
+        },
+        {
+          "text": "BALANCED FRAMING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Article 6 of the Paris Agreement establishes frameworks for voluntary international",
+            "CAUTION: Design tension: carbon-market mechanisms aim to lower the global cost of achieving",
+            "COP29 (Baku, 2024) agreed the New Collective Quantified Goal (NCQG), setting at least",
+            "CAUTION: Analytical point — the equity gap: independent expert assessments (e.g., the"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Balanced framing: the distinction between the \"at least $300bn\" binding-ish floor",
+            "The Loss and Damage Fund (agreed in principle at COP27, Sharm el-Sheikh, 2022, and",
+            "CAUTION: Analytical point: the very existence of a dedicated Loss and Damage pillar reflects",
+            "CAUTION: Aggregate NDC-ambition assessments (via the Global Stocktake) rely on self-reported"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: Climate-finance figures (both the NCQG's USD 300bn/$1.3tn figures and independent",
+            "CAUTION: India's precise negotiating positions on any single COP agenda item are best sourced",
+            "The Paris Agreement's ratchet mechanism (Article 4) requires each successive NDC to",
+            "Article 6 of the Paris Agreement establishes both bilateral/cooperative approaches"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -2,14 +2,14 @@
 
 **Complete independent learning session + verified PYQ routing + solved practice workbook + final consolidated register notes**
 
-**Legal/current control date:** 25 August 2026 (Asia/Kolkata)
+**Legal/current control date:** 5 September 2026 (Asia/Kolkata)
 
 > **Tag key:** `[FACT]` = named constitutional, statutory, official, judicial or audited local support; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked for the control date; `[LIMIT]` = qualification.
 >
 > **Answer-writing discipline:** claim -> named evidence -> analysis -> qualification.
 
-- [CURRENT] Status is controlled to **25 August 2026, Asia/Kolkata**.
-- [CURRENT] **Live official refresh, 25 August 2026:** The Constitution, Government e-Marketplace and official expenditure, legislative and Supreme Court portals were rechecked on 25 August 2026. Procurement manuals and platform instructions are administrative controls; an arbitration proposal changes the 1996 Act only if duly enacted.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
+- [CURRENT] **Live official refresh, 5 September 2026:** The Constitution, Government e-Marketplace and official expenditure, legislative and Supreme Court portals were rechecked on 5 September 2026. Procurement manuals and platform instructions are administrative controls; an arbitration proposal changes the 1996 Act only if duly enacted.
 
 #### How to Use This Package
 
@@ -578,6 +578,49 @@ GeM is a dated digital procurement mechanism; manuals/platform rules do not amen
 the Constitution, CPC, Contract Act or Arbitration and Conciliation Act 1996.
 
 [LIMIT] A reform proposal or model clause is not enacted law.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional map:** Articles 294-300 in Part XII, Chapter III govern
+  succession, public property, trade, contracts and suits. Article 300A is the
+  adjacent constitutional right against deprivation of property except by
+  authority of law; Article 361 protects constitutional heads personally.
+- **Capacity before commitment:** Article 298 gives Union and State executive
+  capacity to trade, acquire, hold and dispose of property and make contracts,
+  subject to legislative-competence limits. It does not dispense with law,
+  equality, procurement control or Article 299 form.
+- **Article 299 form:** an executive contract must be expressed in the name of
+  the President/Governor, executed on that behalf and executed by an authorised
+  person in the authorised manner. These safeguards protect public funds and
+  are not cured merely by performance or officer knowledge.
+- **Restitution firewall:** an unenforceable Article 299 bargain is not silently
+  validated. State of West Bengal v B.K. Mondal & Sons permits an independent
+  Contract Act section 70 claim only where a lawful non-gratuitous act or
+  delivery was accepted and enjoyed; restitution is not contract enforcement.
+- **Suit route:** Article 300 and CPC section 79 identify the Union of India or
+  the State as the juristic party. CPC section 80 ordinarily requires two
+  months' notice for covered civil suits, with a court-controlled urgent-relief
+  route under section 80(2). Procedure is not substantive immunity.
+- **Private tort line:** P. & O. Steam Navigation and Kasturi Lal supplied the
+  older sovereign-function distinction. N. Nagendra Rao, Common Cause and
+  Challa Ramkrishna Reddy strongly narrow broad immunity in the welfare State;
+  no complete State-tort code permits a blanket formula.
+- **Constitutional tort:** Rudul Sah, Nilabati Behera and D.K. Basu support
+  public-law compensation for established Fundamental-Right violations.
+  Constitutional compensation, private damages, criminal responsibility and
+  disciplinary action remain different remedial tracks.
+- **Article 300A:** K.T. Plantation controls public purpose and non-illusory
+  compensation; Vidya Devi rejects unsupported executive occupation; Kolkata
+  Municipal Corporation (2024 INSC 435) identifies seven procedural sub-rights.
+  Bernard Francis Joseph Vaz, 2025 INSC 3, reinforces timely adequate
+  compensation and used Article 142 to address exceptional acquisition delay.
+- **Official-protection firewall:** Article 361, Article 299(2), BSA sections
+  129-130, CPC sections 79-80 and BNSS section 218 arise from different texts.
+  Personal or procedural protection never makes governmental action unreviewable.
+- **Live-law control, checked 5 September 2026:** the official Constitution,
+  CPC, Contract Act, BSA and BNSS remain the operative texts. Procurement
+  manuals and arbitration clauses are administrative/contractual controls, not
+  amendments to Articles 298-300. No direct verified PYQ is fabricated.
 
 ## BASIC MCQS / REMEDIATION
 
@@ -1451,7 +1494,7 @@ formula should be invented.
 
 ### Rights and Liabilities of the Government: Rapid Constitutional Recall
 
-- **Current-control rule:** The Constitution, Government e-Marketplace and official expenditure, legislative and Supreme Court portals were rechecked on 25 August 2026. Procurement manuals and platform instructions are administrative controls; an arbitration proposal changes the 1996 Act only if duly enacted.
+- **Current-control rule:** The Constitution, Government e-Marketplace and official expenditure, legislative and Supreme Court portals were rechecked on 5 September 2026. Procurement manuals and platform instructions are administrative controls; an arbitration proposal changes the 1996 Act only if duly enacted.
 - **Factual caveat:** Articles 294-300 create governmental legal capacity and liability; they do not establish blanket sovereign immunity. Article 299 form, Contract Act Section 70 restitution, private tort, constitutional tort, Article 361 official protection and CPC notice are separate legal routes.
 
 #### 1. Core proposition

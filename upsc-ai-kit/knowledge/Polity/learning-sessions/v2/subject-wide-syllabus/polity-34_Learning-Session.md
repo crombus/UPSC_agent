@@ -13,9 +13,9 @@ approval: false
 > **Answer discipline:** claim -> named evidence -> analysis -> qualification.  
 > **Scope:** origin and legal status; foundational mandate; composition; Governing and Regional Councils; transition from the Planning Commission; cooperative and competitive federalism; State and local linkages; programme mechanisms; monitoring, evaluation and data; institutional comparisons; strengths, limits, reforms and current controls.
 
-- [CURRENT] Status is controlled to **24 August 2026, Asia/Kolkata**.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
 
-- [CURRENT] **Live official refresh, 24 August 2026:** The 1 January 2015 Cabinet resolution, July 2024 composition notification, official 11th Governing Council material dated 11 June 2026 and current NITI programme pages were rechecked on 24 August 2026. Officeholder lists and State rankings are not frozen.
+- [CURRENT] **Live official refresh, 5 September 2026:** The 1 January 2015 Cabinet resolution, July 2024 composition notification, official 11th Governing Council material dated 11 June 2026 and current NITI programme pages were rechecked on 5 September 2026. The 24 April 2026 Gazette roster is frozen only as a dated composition snapshot; State rankings remain variable.
 #### Package method, source priority and current control
 
 - [FACT] Local-first sequence followed: `Polity/basic/NITI-Aayog.md` -> `Polity/advanced/34_NITI-Aayog.md` -> related Polity owners for Centre-State Relations, Finance Commission, GST Council, Panchayati Raj and Municipalities -> Governance owner for monitoring, evaluation and outcomes -> Economy planning material only where needed -> all relevant PYQ routing and audit ledgers.
@@ -1290,6 +1290,43 @@ origin/status -> mandate -> composition
 - [ANALYSIS] Its principal levers are ideas, coordination, data, evaluation, capacity and reputation.
 - [LIMIT] These levers can fail through weak uptake, centralised agenda-setting, data problems and administrative capacity gaps.
 
+### Semantic-completeness ownership and PYQ control
+
+- **Legal status:** NITI Aayog was created by the Union Cabinet resolution of
+  1 January 2015. It is executive, non-constitutional and non-statutory; its
+  advice becomes operative only through a competent legal or executive authority.
+- **Institutional composition:** the Prime Minister is Chairperson. The design
+  includes a Vice Chairperson, full-time members, up to two part-time members,
+  up to four ex-officio Union Ministers, special invitees, a CEO and a Governing
+  Council of State Chief Ministers, Chief Ministers of UTs with legislatures
+  and Lieutenant Governors/Administrators of other UTs.
+- **Latest formal composition control:** Cabinet Secretariat Notification
+  No. 511/1/1/2024-Cab. dated 24 April 2026 appoints Ashok Kumar Lahiri as Vice
+  Chairperson and Rajiv Gauba, Prof. K. V. Raju, Prof. Gobardhan Das,
+  Prof. Abhay Karandikar and Dr M. Srinivas as full-time members, from
+  assumption of charge until further orders. It retains the ex-officio members
+  and special invitees in the 16 July 2024 notification.
+- **Retained ex-officio members:** Raj Nath Singh, Amit Shah, Shivraj Singh
+  Chouhan and Nirmala Sitharaman. The retained special invitees are Nitin
+  Gadkari, J. P. Nadda, H. D. Kumaraswamy, Jitan Ram Manjhi, Rajiv Ranjan
+  Singh, Virendra Kumar, K. Rammohan Naidu, Jual Oram, Annpurna Devi,
+  Chirag Paswan and Rao Inderjit Singh, by the dated notifications.
+- **Administrative roster:** the official 18 June 2026 directory identifies
+  Nidhi Chhibber as CEO with additional charge. A directory entry is an
+  operational snapshot, not a fixed constitutional or statutory tenure.
+- **Functions:** foster cooperative federalism, formulate strategic policy,
+  provide knowledge and technical support, monitor/evaluate programmes and use
+  evidence, indices and initiatives to encourage learning and competition.
+- **Limits:** NITI cannot legislate, tax, allocate the divisible pool, issue a
+  Finance Commission award, bind States, or directly implement every programme.
+  Rankings show measured performance; they do not by themselves prove causation.
+- **Institution firewall:** Article 280 Finance Commission transfers, Article
+  279A GST Council recommendations, Article 263 coordination and statutory
+  Zonal Councils retain distinct sources and powers.
+- **PYQ firewall:** the direct 2018 Planning-Commission comparison and routed
+  2019 Atal Innovation Mission demand remain attached to this owner with
+  notification-sensitive current composition.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Original MCQs - 36 questions
@@ -1672,7 +1709,7 @@ D. 2024-25
 
 **Answer: B.**
 
-**Explanation:** [CURRENT] 2023-24 remains the latest located official edition as of 24 August 2026.
+**Explanation:** [CURRENT] 2023-24 remains the latest located official edition as of 5 September 2026.
 
 #### OM35. Which institutional trade-off best describes NITI?
 
@@ -2401,7 +2438,7 @@ INPUT -> ACTIVITY -> OUTPUT -> OUTCOME -> IMPACT
 - annual mandate-performance report and parliamentary visibility;
 - preserve flexibility; do not recreate command planning.
 
-### 13. Current control, 24 August 2026
+### 13. Current control, 5 September 2026
 
 - **11th Governing Council:** 11 June 2026.
 - **Theme:** “Inclusive Human Development for Viksit Bharat@2047.”

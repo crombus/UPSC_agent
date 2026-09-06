@@ -2,14 +2,14 @@
 
 **Complete independent learning session + verified PYQ routing + solved practice workbook + final consolidated register notes**
 
-**Legal/current control date:** 25 August 2026 (Asia/Kolkata)
+**Legal/current control date:** 5 September 2026 (Asia/Kolkata)
 
 > **Tag key:** `[FACT]` = named constitutional, statutory, official, judicial or audited local support; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked for the control date; `[LIMIT]` = qualification.
 >
 > **Answer-writing discipline:** claim -> named evidence -> analysis -> qualification.
 
-- [CURRENT] Status is controlled to **25 August 2026, Asia/Kolkata**.
-- [CURRENT] **Live official refresh, 25 August 2026:** The official Constitution and Social Justice/NCSC/NCST/NCBC portals were rechecked on 25 August 2026. The 106th Amendment provisions are in the constitutional text but remain tied to the census-delimitation trigger; current lists, schemes and implementation notifications remain date-specific.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
+- [CURRENT] **Live official refresh, 5 September 2026:** The official Constitution and Social Justice/NCSC/NCST/NCBC portals were rechecked on 5 September 2026. The 106th Amendment provisions are in the constitutional text but remain tied to the census-delimitation trigger; current lists, schemes and implementation notifications remain date-specific.
 
 #### How to Use This Package
 
@@ -531,6 +531,49 @@ LOCAL GOVERNMENT
 Arts 243D/243T -> separate Panchayat/Municipality reservation architecture.
 
 [LIMIT] Constitutional insertion, commencement and electoral operation are not synonyms.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Four-technique map:** Articles 330-334A govern legislative representation;
+  Article 335 concerns SC/ST service claims and efficiency; Articles 338-340
+  create safeguard, supervision and investigation mechanisms; Articles
+  341-342A identify constitutional beneficiary classes.
+- **Representation:** Articles 330 and 332 reserve Lok Sabha and Assembly seats
+  for SCs/STs while the ordinary territorial electorate votes. They do not
+  create separate electorates or Rajya Sabha/Legislative Council reservation.
+- **Article 334 clocks:** the 104th Amendment extended SC/ST legislative-seat
+  reservation to eighty years from commencement, presently to 25 January 2030,
+  but did not extend Anglo-Indian nomination beyond the seventy-year period.
+- **106th Amendment commencement:** Gazette notification S.O. 1922(E), dated
+  16 April 2026, appointed that date under section 1(2), so the amendment's
+  provisions are now in force. Earlier statements that commencement was not
+  notified are superseded.
+- **Electoral-operation gate:** commencement is not implementation. Article
+  334A still requires publication of figures from the first post-commencement
+  census and a delimitation exercise for this purpose before reserved seats
+  operate. Census publication alone cannot draw or rotate constituencies.
+- **Women-within-category design:** Articles 330A and 332A include one-third
+  reservation within SC/ST reserved seats for Lok Sabha, State Assemblies and
+  the Delhi Assembly; they do not extend to Rajya Sabha or Legislative Councils.
+- **Services:** Article 335 supplies an efficiency consideration and the 82nd
+  Amendment relaxation proviso. It neither defines efficiency nor creates a
+  universal quota; education/employment benefits principally route through
+  Articles 15-16, valid law and controlling case doctrine.
+- **Commissions and lists:** Articles 338, 338A and 338B establish NCSC, NCST
+  and NCBC. Civil-court inquiry powers do not make reports binding decrees.
+  Under Articles 341-342, the President initially specifies State/UT lists and
+  Parliament alone includes or excludes communities by law.
+- **SEBC/EWS firewall:** the 102nd-105th Amendment sequence preserves a Central
+  SEBC List and State/UT own-purpose lists by law. EWS derives separately from
+  Articles 15(6)-16(6), upheld 3:2 in Janhit Abhiyan, not Article 342A or 335.
+- **Davinder Singh:** State of Punjab v Davinder Singh (2024) permits
+  evidence-based SC sub-classification for fair benefit distribution but does
+  not transfer Article 341 list alteration, compel a nationwide model or permit
+  complete exclusion of a listed caste.
+- **Live-status control, checked 5 September 2026:** official constitutional,
+  Gazette, Census, commission and Social Justice sources control current lists
+  and implementation. The amendment is commenced but women's legislative
+  reservation is not yet electorally operational.
 
 ## BASIC MCQS / REMEDIATION
 
@@ -1325,7 +1368,7 @@ time-limit clause as proof that the underlying disadvantage has ended.
 
 ### Special Provisions Relating to Certain Classes: Rapid Constitutional Recall
 
-- **Current-control rule:** The official Constitution and Social Justice/NCSC/NCST/NCBC portals were rechecked on 25 August 2026. The 106th Amendment provisions are in the constitutional text but remain tied to the census-delimitation trigger; current lists, schemes and implementation notifications remain date-specific.
+- **Current-control rule:** The official Constitution and Social Justice/NCSC/NCST/NCBC portals were rechecked on 5 September 2026. The 106th Amendment provisions are in the constitutional text but remain tied to the census-delimitation trigger; current lists, schemes and implementation notifications remain date-specific.
 - **Factual caveat:** Part XVI is not a single reservation code. Representation, service claims, commissions and constitutional lists use different legal mechanisms. Davinder Singh (2024) permits evidence-based SC sub-classification for distribution; it does not transfer Article 341 list-alteration power to States.
 
 #### 1. Core proposition

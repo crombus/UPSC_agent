@@ -1327,6 +1327,30 @@ representation, labour, violence, health, intersectionality and institutional re
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
 
+### Semantic-completeness ownership and PYQ control
+
+- **Official syllabus/index and owned core:** Gender justice addresses bodily autonomy, violence, health, education, unpaid care, property, work, wages, representation and voice through an intersectional life-course lens; women are rights-holders, not a homogeneous beneficiary category.
+- **Indispensable distinction and prerequisite taxonomy:** Sex is not gender, equality is not identical treatment, protective law is not implementation, labour-force participation is not total work, representation is not substantive power, and a scheme for women is not automatically gender-transformative.
+- **Mechanism, implementation and evidence control:** Use constitutional equality, statutory protections, Vishaka and later workplace law, SHGs, care infrastructure and sex-disaggregated NFHS/PLFS evidence with regional variation; map survivor-centred reporting, support, investigation, trial, compensation and institutional accountability.
+- **✅ Verified current fact (official sources rechecked 6 September 2026):**
+  Rechecked 2026-09-06: MWCD, India Code and MoSPI remain authoritative for programme, legal and statistical claims; legal protection, reported incidence, labour-force participation and substantive agency are distinct. Sources: https://wcd.gov.in/; https://www.indiacode.nic.in/handle/123456789/2104; https://www.mospi.gov.in/
+- **⚠️ Analytical inference:** institutional design, allocation, a portal, a
+  registration, a report, a training completion, a disposal count or a ranking
+  can support a causal argument only after authority, capacity, incentives,
+  distribution, implementation, grievance, outcome and alternative explanations
+  are tested.
+- **Canonical and cross-owner boundary:** this Social Justice owner teaches the
+  authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
+  with Polity; sector entitlement design stays with Social Justice; macro-fiscal
+  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
+  evidence may be routed but is not silently duplicated or re-owned.
+- **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
+  standard public-administration/social justice taxonomy and complete verified PYQ
+  demands were checked for absent concepts, institutions, mechanisms,
+  classifications, exceptions, comparisons, criticisms, current status,
+  answer architecture and dependent artifacts.
+- **Verified PYQ ownership, 2018-2026:** Seven General Studies Mains demands and one objective demand are routed to this topic in the audited routing ledgers, and each Mains demand is reproduced below as a demand card with its printed year, paper, question number, directive, marks and word limit exactly as the ledgers record them: 2019 General Studies Paper II Question 13, 2020 General Studies Paper II Question 15, 2021 General Studies Paper II Question 2, 2021 General Studies Paper II Question 17, 2023 General Studies Paper II Question 12, 2023 General Studies Paper II Question 14 and 2025 General Studies Paper II Question 6. The ledgers record three of these as cross-cutting routes whose primary subject label is Polity, namely the 2020 constitutionalisation demand, the 2021 higher-judiciary demand and the 2023 constitutional-perspectives demand, and that shared ownership is stated openly rather than claimed exclusively; the 2019 local-self-government demand retains a Panchayati Raj link and the 2023 civil-society demand retains a civil-society link with the Governance owner. One objective demand is also routed, namely 2019 Prelims General Studies Paper I Question 76 on the key provisions of the 2017 maternity-benefit amendment, and the ledger records the official 2018-2023 Prelims keys as not held locally, so no option, key or inferred answer is recorded for it and it is not converted into a solved question. The Basic owner separately discusses the 2024 General Studies Paper I question distinguishing gender equality, gender equity and women's empowerment, but the audited 2024-2025 Mains routing ledger routes that question to the Indian Society owner, so no demand card is manufactured for it here and no ownership is claimed over it. The locally held OCR-searchable official General Studies papers were read only to confirm the printed wording of the routed Mains demands; no question was invented from them and no marking scheme or page precision was imported. Every model solution below is original work written to the repository's examiner-grade standard using the claim, named evidence, analysis and qualification pattern. Each model solution opens with its analytical claim so that the evidence which follows does argumentative rather than decorative work.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Q1. Which statement correctly identifies What this owner holds and the demands routed to it?

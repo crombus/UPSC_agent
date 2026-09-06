@@ -1,0 +1,363 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "polity-06-10-hostile-semantic-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "indian_society_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true,
+    "polity_legal_source_hierarchy": true,
+    "manually_authored_twelve_panels": true
+  },
+  "topics": [
+    {
+      "topic_key": "polity-09",
+      "display_title": "Fundamental Duties",
+      "active_generation": 5,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\polity-09_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "From absent list to Part IVA and eleven citizen duties",
+          "structural_type": "origin-amendment-timeline",
+          "ascii_lines": [
+            "ORIGINAL CONSTITUTION",
+            "  +-- enforceable rights in Part III",
+            "  +-- State duties in Part IV",
+            "  +-- no separate constitutional list of citizen duties",
+            "        |",
+            "1976 SWARAN SINGH COMMITTEE",
+            "  +-- recommended a separate chapter and eight duties",
+            "  +-- penalties and tax duty were among proposals not fully enacted",
+            "        |",
+            "42ND AMENDMENT, 1976",
+            "  +-- inserted PART IVA and ARTICLE 51A",
+            "  +-- enacted ten duties, clauses (a) to (j)",
+            "        |",
+            "86TH AMENDMENT, 2002",
+            "  +-- inserted clause (k): education opportunity for child / ward, age 6-14",
+            "",
+            "USSR is the conventional source influence; Indian duties remain rights-bounded.",
+            "MUST REMEMBER: Part IVA contains the exact eleven duties in Article 51A: ten inserted by the",
+            "  42nd Amendment in 1976 and clause (k) by the 86th Amendment in 2002; the Swaran Singh",
+            "  Committee recommended eight, not the enacted ten."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\09_Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\polity-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "The eleven duties grouped for exact recall",
+          "structural_type": "eleven-duty-recall-tree",
+          "ascii_lines": [
+            "CONSTITUTIONAL LOYALTY AND NATION",
+            "  +-- (a) Constitution, ideals, institutions, Flag and Anthem",
+            "  +-- (b) freedom-struggle ideals",
+            "  +-- (c) sovereignty, unity and integrity",
+            "  +-- (d) defend country and render national service when called",
+            "",
+            "SOCIAL AND CULTURAL CITIZENSHIP",
+            "  +-- (e) harmony and brotherhood; renounce practices derogatory to women",
+            "  +-- (f) value and preserve the rich heritage of composite culture",
+            "",
+            "ECOLOGICAL AND RATIONAL CITIZENSHIP",
+            "  +-- (g) environment and compassion for living creatures",
+            "  +-- (h) scientific temper, humanism, inquiry and reform",
+            "",
+            "PUBLIC ETHIC AND CAPABILITY",
+            "  +-- (i) safeguard public property; abjure violence",
+            "  +-- (j) strive for individual and collective excellence",
+            "  +-- (k) education opportunity for child / ward aged six to fourteen"
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\09_Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\polity-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Legal character: constitutional duty mediated by enforceable law",
+          "structural_type": "legal-force-process",
+          "ascii_lines": [
+            "ARTICLE 51A APPLIES TO EVERY CITIZEN",
+            "  +-- not directly to foreigners",
+            "  +-- several clauses need legislation or institutional support",
+            "  |",
+            "NON-JUSTICIABLE",
+            "  +-- no writ merely to compel abstract performance",
+            "  +-- no automatic penalty from Article 51A alone",
+            "  |",
+            "LEGAL MEDIATION",
+            "  +-- legislatures enact valid laws within competence",
+            "  +-- the executive implements law and civic education",
+            "  +-- courts use duty values in interpretation where relevant",
+            "  +-- implementing laws remain subject to rights and judicial review",
+            "",
+            "moral and civic norm -> education + valid law + institutions -> enforceable obligation",
+            "TRAP: no separate statute exists for every duty."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\09_Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\polity-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Rights, duties and DPSP: three constitutional directions",
+          "structural_type": "rights-duties-dpsp-triangle",
+          "ascii_lines": [
+            "PART III: RIGHTS",
+            "  +-- protected claims, autonomy and enforceable remedies",
+            "        |",
+            "        +---- CONSTITUTIONAL BALANCE ----+",
+            "        |                                |",
+            "PART IVA: DUTIES                     PART IV: DIRECTIVES",
+            "  +-- citizen responsibility            +-- State welfare purpose",
+            "  +-- non-justiciable text               +-- non-justiciable programme",
+            "        |                                |",
+            "        +---------- DEMOCRATIC RECIPROCITY ----------+",
+            "",
+            "rights protect responsible agency",
+            "  -> duties sustain civic conditions",
+            "  -> DPSP directs public power toward justice",
+            "",
+            "LIMIT: duty cannot erase a right; right does not immunise violence or illegality."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\09_Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\polity-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Patriotism and symbols: respect without compelled conformity",
+          "structural_type": "symbols-case-law-dialectic",
+          "ascii_lines": [
+            "ARTICLE 51A(a): RESPECT CONSTITUTION, INSTITUTIONS, FLAG AND ANTHEM",
+            "  |",
+            "BIJOE EMMANUEL (1986)",
+            "  +-- respectful standing without singing was protected",
+            "  +-- genuine conscience defeated compelled conformity",
+            "  |",
+            "NAVEEN JINDAL (2004)",
+            "  +-- respectful Flag display falls within Article 19(1)(a)",
+            "  +-- use remains subject to valid statutory restrictions",
+            "  |",
+            "SHYAM NARAYAN CHOUKSEY (2018)",
+            "  +-- 2016 cinema direction was interim",
+            "  +-- 9 January 2018 final order: cinema playing optional / directory",
+            "",
+            "VERDICT: protect republican symbols without reducing patriotism to one performance."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\09_Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\polity-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Citizenship domains and the education triad",
+          "structural_type": "duty-domain-matrix",
+          "ascii_lines": [
+            "CLAUSE   DOMAIN                  OPERATIVE DISTINCTION",
+            "51A(e)   harmony + dignity       includes renouncing practices derogatory to women",
+            "51A(f)   composite culture      plural inheritance, not one frozen culture",
+            "51A(g)   environment + animals  works with Article 48A, Article 21 and statutes",
+            "51A(h)   reason and reform       inquiry, not State-defined orthodoxy",
+            "51A(i)   property + non-violence peaceful protest remains protected",
+            "51A(j)   excellence             aspiration, not automatic rank or admission right",
+            "51A(k)   child education        parent / guardian duty for ages six to fourteen",
+            "",
+            "EDUCATION TRIAD",
+            "Article 21A -> State-guaranteed right, ages 6-14",
+            "Article 45  -> early-childhood care and education below six",
+            "51A(k)      -> parent / guardian duty, ages 6-14",
+            "",
+            "2023 Jallikattu ruling qualifies the stronger 2014 animal-welfare reading.",
+            "CLOSE DISTINCTION: Fundamental Duties bind citizens, are non-justiciable and create no",
+            "  automatic offence. Legal consequences arise only through valid statutes, while courts may",
+            "  use duties as interpretive context subject to Fundamental Rights."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\09_Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\polity-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Verma Committee and the existing-law implementation web",
+          "structural_type": "committee-law-map",
+          "ascii_lines": [
+            "J.S. VERMA COMMITTEE, 1999",
+            "  +-- preferred education, awareness and enforcement of existing laws",
+            "  +-- did not assume that every duty needs a separate penal statute",
+            "  +-- proposed sensitisation and Fundamental Duties Day, 3 January",
+            "",
+            "EXISTING-LAW WEB: ILLUSTRATIVE, NOT ONE-TO-ONE",
+            "  +-- National Honour Act / Flag law -> clause (a)",
+            "  +-- UAPA, election and criminal-law fields -> sovereignty and harmony",
+            "  +-- civil-rights and atrocity laws -> dignity and fraternity",
+            "  +-- environment, wildlife and forest laws -> clause (g)",
+            "  +-- Public Property Act -> clause (i)",
+            "  +-- Right to Education Act -> clause (k)",
+            "",
+            "CONTROL: valid statute defines offence and penalty; Article 51A supplies context."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\09_Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\polity-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Criticism, enforceability debate and proportionate reform",
+          "structural_type": "criticism-reform-balance",
+          "ascii_lines": [
+            "CRITICISM                         RESPONSE / REFORM",
+            "vague terms                        teach meaning through civic education",
+            "non-justiciability                 enforce valid laws, not abstract commands",
+            "Emergency-era insertion            ground duties in democratic constitutionalism",
+            "citizens-only reach                use ordinary law for institutions and foreigners",
+            "selective moral policing           require legality, proportionality and equality",
+            "no duty to vote / pay tax          do not read rejected proposals into the text",
+            "",
+            "REFORM LADDER",
+            "1 constitutional literacy and public education",
+            "2 map gaps in existing laws and implementation",
+            "3 prefer civil / administrative measures where adequate",
+            "4 legislate narrowly for demonstrable harm",
+            "5 preserve rights, federal competence and judicial review",
+            "",
+            "VERDICT: strengthen civic capacity before creating an omnibus penal code."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\09_Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\polity-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Current legal status and evidence control",
+          "structural_type": "current-status-evidence-ledger",
+          "ascii_lines": [
+            "CURRENT STATUS — CHECK BEFORE THE EXAM",
+            "  +-- Durga Dutt v Union of India, W.P.(C) 67/2022: pending on 28 August 2026",
+            "  +-- written order, 11 September 2024: enactment synopsis sought; matter relisted",
+            "  +-- oral hearing observations are not a final ratio",
+            "",
+            "OPERATIVE STATUTORY CONTROLS",
+            "  +-- National Honour Act, 1971: defined symbol/Anthem offences",
+            "  +-- BNS 196/197: harmony and national-integration fields",
+            "  +-- RTE Act, 2009 section 10: parent/guardian admission duty",
+            "  +-- Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980: current short title",
+            "",
+            "EVIDENCE RULE",
+            "Constitutional duty supplies context; the statute supplies elements, process and sanction."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\09_Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\polity-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Prelims traps and verified PYQ routes",
+          "structural_type": "exam-control-board",
+          "ascii_lines": [
+            "PRELIMS CONTROL",
+            "Part IVA -> Article 51A only          citizens only; non-justiciable text",
+            "42nd -> ten duties                   86th -> clause (k), total eleven",
+            "Swaran Singh -> eight recommended    tax duty / blanket penalties not enacted",
+            "51A(g) citizen duty                  48A State directive",
+            "21A right / 45 below-six DPSP        51A(k) parent duty, ages 6-14",
+            "",
+            "VERIFIED PYQ STATUS",
+            "  +-- no direct routed PYQ found in the maintained 2018-2025 ledgers",
+            "  +-- 2020 Q8 and 2025 Q55 are supporting questions owned by Polity 08",
+            "  +-- 2025 local official Set-A key = C",
+            "  +-- 2020 answer remains explicitly inferred",
+            "",
+            "TRAP: never manufacture a direct Mains PYQ from a coaching practice question."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\09_Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\polity-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Executable 10, 15 and 20-mark answer routes",
+          "structural_type": "marks-scaled-answer-routes",
+          "ascii_lines": [
+            "10 MARKS / 150 WORDS",
+            "Part IVA status -> amendment origin -> two legal effects -> one rights limit -> verdict",
+            "",
+            "15 MARKS / 250 WORDS",
+            "exact duty / issue -> statute or case mechanism -> criticism -> graded reform",
+            "",
+            "20 MARKS / 300 WORDS",
+            "thesis -> rights-DPSP-duty architecture -> grouped clauses -> evidence",
+            "       -> coercion counter-case -> proportionate implementation -> qualified conclusion",
+            "",
+            "EXECUTION CHECK",
+            "  +-- exact Article / amendment / case status",
+            "  +-- claim -> named evidence -> analysis -> qualification",
+            "  +-- increase dimensions with marks; do not lengthen generic prose",
+            "",
+            "FINAL LINE",
+            "Responsible citizenship gains legal effect through precise, rights-compatible institutions."
+          ],
+          "source_references": [
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md",
+            "notes\\Final-Learning-Packages\\_deep-content-review\\reviews\\polity-09\\g4-source\\polity-09_g4-reviewed-source.md",
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\09_Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\polity-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Current legal-status firewall: duty is not automatic liability",
+          "structural_type": "duty-statute-status-ledger",
+          "ascii_lines": [
+            "ARTICLE 51A -> constitutional duty, citizens only, non-justiciable",
+            "NATIONAL HONOUR ACT / BNS / RTE / ENVIRONMENT LAWS -> separate statutory elements",
+            "DURGA DUTT ORDER, 11 SEP 2024 -> synopsis requested; no final enforceability holding",
+            "ORAL OBSERVATION != RATIO | MORAL DUTY != OFFENCE | DUTY != UNLIMITED RESTRICTION",
+            "VERDICT: operationalise through precise law, civic education and rights-compatible review.",
+            "LEGAL/SOURCE LIMIT: Durga Dutt remains a pending proceeding on the located official record;",
+            "  its 11 September 2024 order sought a legislative synopsis and did not make duties",
+            "  justiciable or convert reported oral observations into ratio."
+          ],
+          "source_references": [
+            "upsc-ai-kit\\knowledge\\Polity\\basic\\Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Polity\\advanced\\09_Fundamental-Duties.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Polity\\Subject-Wide-Syllabus\\learning-sessions\\polity-09\\g5\\polity-09_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

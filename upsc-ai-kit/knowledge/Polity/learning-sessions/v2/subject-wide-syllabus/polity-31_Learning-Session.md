@@ -16,9 +16,9 @@ cover_image: ../../../../../../notes/Polity/assets/31_National-Commissions-SC-ST
 
 #### Package method, source priority and legal-current control
 
-- [CURRENT] Status is controlled to **24 August 2026, Asia/Kolkata**.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
 
-- [CURRENT] **Live official refresh, 24 August 2026:** NCSC, NCST, NCBC, Legislative Department and Supreme Court official sources were rechecked on 24 August 2026. No later constitutional amendment changing Articles 338, 338A, 338B, 341, 342 or 342A is asserted.
+- [CURRENT] **Live official refresh, 5 September 2026:** NCSC, NCST, NCBC, Legislative Department and Supreme Court official sources were rechecked on 5 September 2026. No later constitutional amendment changing Articles 338, 338A, 338B, 341, 342 or 342A is asserted.
 - [FACT] Local-first sequence followed: `Polity/basic/National-Commissions-SC-ST-BC.md` -> `Polity/advanced/31_National-Commissions-SC-ST-BC.md` -> OCR-searchable local *Indian Polity* commission chapters -> Fundamental Rights/reservation, Scheduled and Tribal Areas, statutory-body, social-justice and Centre-State owners only where needed -> all relevant PYQ routing and audit ledgers.
 - [FACT] Polity packages 29 and 30 were used only as structural, visual and validation references. Their subject content has not been imported.
 - [CURRENT] Constitutional control was checked against the Legislative Department's official Constitution page and official Gazette texts of the 89th, 102nd and 105th Amendments.
@@ -1186,10 +1186,10 @@ BETTER FIRST STEP:
 timely evidence + reasoned response + legislative scrutiny
 ```
 
-### 19. Current-control board, 24 August 2026
+### 19. Current-control board, 5 September 2026
 
-Current-control board, 24 August 2026 denotes the constitutional rules and institutional links organised around Stable legal fact Volatile fact deliberately not frozen.
-Current-control board, 24 August 2026 operates through Article numbers and clause design current officeholders, connected with constitutional composition current vacancies.
+Current-control board, 5 September 2026 denotes the constitutional rules and institutional links organised around Stable legal fact Volatile fact deliberately not frozen.
+Current-control board, 5 September 2026 operates through Article numbers and clause design current officeholders, connected with constitutional composition current vacancies.
 The operative mechanism matters because amendment commencement dates complaint-disposal totals.
 Its principal consequence is that report-laying architecture pending case counts.
 The decisive contrast is between 2005 NCST functions website headline statistics and Stable legal fact Volatile fact deliberately not frozen.
@@ -1357,6 +1357,47 @@ LAW / EXECUTIVE ACTION / COURT PROCESS AS REQUIRED
 342   = ST list
 342A  = SEBC Central + State list architecture
 ```
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional map:** Articles 338, 338A and 338B establish the NCSC,
+  NCST and NCBC. Articles 341, 342 and 342A separately govern the legal lists;
+  Article 340 authorises temporary backward-class investigation commissions.
+- **Composition and appointment:** each commission consists of a Chairperson,
+  Vice-Chairperson and three other Members appointed by the President by
+  warrant under hand and seal. The constitutional clauses leave service
+  conditions and tenure to presidential rules.
+- **Applicable tenure rules:** the NCSC and NCST 2004 rules and the NCBC 2018
+  rules prescribe a three-year term from assumption of office. The rule source,
+  not Article 338/338A/338B itself, supplies that duration.
+- **Current occupied roster, checked 5 September 2026:** the official NCSC
+  directory, updated 1 September 2026, displays Chairperson Kishor Makwana and
+  Members Love Kush Kumar, Vaddepalli Ramchander and Dr Partha Biswas; the
+  Vice-Chairperson line has no displayed incumbent. The official NCST material
+  displays Chairperson Antar Singh Arya and Members Dr Asha Lakra, Nirupam
+  Chakma and Jatothu Hussain, with no displayed Vice-Chairperson. The NCBC
+  present-commission page displays Chairperson Sadhvi Niranjan Jyoti and Member
+  Kiran Umesh Mahalle; no occupant is inferred for posts not displayed.
+- **Common functions:** investigate and monitor safeguards; inquire into
+  specific complaints; participate and advise in socio-economic planning;
+  evaluate development; report to the President; recommend measures; and
+  perform other functions specified by the President subject to law.
+- **Inquiry and accountability:** civil-court powers apply while investigating
+  or inquiring. Reports go through the President to Parliament with action-taken
+  memoranda; State-related portions follow the Governor/State-legislature route.
+  Recommendations and consultation are not binding decrees or vetoes.
+- **Distinct mandates:** NCST carries additional tribal land, forest,
+  displacement and resource concerns. NCBC's Article 338B role must be read with
+  the 102nd Amendment, the Maratha-reservation judgment and the 105th Amendment,
+  which expressly restored State/UT own-list competence under Article 342A(3).
+- **List firewall:** commissions investigate and advise; the President and
+  Parliament perform the constitutionally assigned SC/ST/Central-SEBC list
+  functions, while States/UTs legislate their own SEBC lists under Article
+  342A(3). Commission advice alone neither adds nor removes a community.
+- **PYQ/ownership firewall:** minority-institution reservations remain bounded
+  by Articles 15(5) and 30; Topic 26 owns Scheduled-Area administration and
+  Topic 53 owns the wider special-provisions architecture. Direct 2018, 2020
+  and 2022 commission demands retain their verified wording and ownership.
 
 ## BASIC MCQS / REMEDIATION
 
@@ -2376,7 +2417,7 @@ NCSC/NCST** — and inserted **Art 342-A** (President specifies socially & educa
   linguistic minorities; reports to the President → laid before Parliament & sent to states.
 - ✅ Designated **Commissioner for Linguistic Minorities** (office created 1957), under the
   **Ministry of Minority Affairs**. Headquarters moved from Allahabad to **New Delhi on
-  1 June 2015** (official Ministry status checked 21 Jul 2026).
+  1 June 2015** (official Ministry status checked 5 Sep 2026).
 - ⚠️ Constitution is **silent** on his qualifications, tenure, salary & removal.
 - ✅ Related: **Art 350-A** (mother-tongue primary-education facilities); **Art 29 & 30** (cultural/educational
   rights of minorities).
@@ -2719,7 +2760,7 @@ GIVE GRADED VERDICT
 
 ### Final current and legal limitations
 
-- [CURRENT] Legal control date is 24 August 2026, Asia/Kolkata.
+- [CURRENT] Legal control date is 5 September 2026, Asia/Kolkata.
 - [LIMIT] No current officeholder, vacancy number or complaint-disposal statistic is treated as a static fact.
 - [LIMIT] Article 338B(7)'s State Government wording is preserved even though many summaries incorrectly generalise the Governor route from Articles 338 and 338A.
 - [LIMIT] The 2023 Prelims concept is resolved without asserting an unavailable official key.

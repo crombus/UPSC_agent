@@ -1,0 +1,250 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "geography_process_spatial_causal_control": true,
+    "map_and_current_status_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-12",
+      "display_title": "The Oceans: Currents, Tides, Salinity / Indian Ocean and IOD",
+      "active_generation": 4,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g4\\geography-12_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Ocean-current force chain",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "WIND STRESS -> surface momentum",
+            "CORIOLIS -> turning by hemisphere",
+            "PRESSURE GRADIENT -> geostrophic tendency",
+            "BASIN + FRICTION -> realised current path",
+            "MUST REMEMBER: Ocean structure links temperature, salinity and density to stratification and",
+            "  circulation; wind stress, Coriolis, Ekman transport, gyres, upwelling, thermohaline",
+            "  overturning, tides and Indian Ocean monsoon reversal culminate in IOD–ENSO interactions.",
+            "MUST REMEMBER: Ocean structure links temperature, salinity and density to stratification and",
+            "  circulation; wind stress, Coriolis, Ekman transport, gyres, upwelling, thermohaline",
+            "  overturning, tides and Indian Ocean monsoon reversal culminate in IOD–ENSO interactions."
+          ],
+          "source_references": [
+            "Surface-current force balance",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\12_The-Oceans-Currents-Tides-Salinity.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\12_Indian-Ocean-and-IOD.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g3\\geography-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g4\\geography-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Density-overturning chain",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "COOLING / EVAPORATION -> density increase",
+            "FRESHWATER / WARMING -> density decrease",
+            "DENSE WATER -> sinking and spreading",
+            "MIXING + TOPOGRAPHY -> overturning pathways"
+          ],
+          "source_references": [
+            "Thermohaline density circulation",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\12_The-Oceans-Currents-Tides-Salinity.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\12_Indian-Ocean-and-IOD.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g3\\geography-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g4\\geography-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Gyre comparison",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NORTH SUBTROPICS -> clockwise tendency",
+            "SOUTH SUBTROPICS -> anticlockwise tendency",
+            "WESTERN LIMB -> narrow, swift, warm",
+            "EASTERN LIMB -> broad, cool, upwelling-prone"
+          ],
+          "source_references": [
+            "Gyres and boundary currents",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\12_The-Oceans-Currents-Tides-Salinity.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\12_Indian-Ocean-and-IOD.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g3\\geography-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g4\\geography-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Upwelling-food web",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "ALONGSHORE WIND -> Ekman transport offshore",
+            "DEEPER WATER RISES -> nutrient supply",
+            "PHYTOPLANKTON -> zooplankton -> fish",
+            "LIMITS -> oxygen, light, habitat, fishing pressure"
+          ],
+          "source_references": [
+            "Upwelling and fisheries",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\12_The-Oceans-Currents-Tides-Salinity.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\12_Indian-Ocean-and-IOD.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g3\\geography-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g4\\geography-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Tide geometry",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "NEW / FULL MOON -> aligned forces",
+            "SPRING TIDE -> larger range",
+            "QUARTER MOON -> partial offset",
+            "NEAP TIDE -> smaller range"
+          ],
+          "source_references": [
+            "Tide-generating forces",
+            "Spring and neap tides",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\12_The-Oceans-Currents-Tides-Salinity.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\12_Indian-Ocean-and-IOD.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g3\\geography-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g4\\geography-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Local tidal range",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "ASTRONOMICAL FORCING -> incoming tide",
+            "SHELF DEPTH + BAY SHAPE -> amplification",
+            "RESONANCE + FRICTION -> timing and height",
+            "RULE -> same forcing, different local range"
+          ],
+          "source_references": [
+            "Spring and neap tides",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\12_The-Oceans-Currents-Tides-Salinity.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\12_Indian-Ocean-and-IOD.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g3\\geography-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g4\\geography-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Salinity budget",
+          "structural_type": "balance-sheet",
+          "ascii_lines": [
+            "EVAPORATION + BRINE -> salinity rises",
+            "RAIN + RIVER + MELT -> salinity falls",
+            "ADVECTION + MIXING -> redistribute salt",
+            "TEMP + SALINITY -> density and stratification"
+          ],
+          "source_references": [
+            "Salinity controls and halocline",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\12_The-Oceans-Currents-Tides-Salinity.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\12_Indian-Ocean-and-IOD.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g3\\geography-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g4\\geography-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Arabian-Bay contrast",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ARABIAN SEA -> stronger evaporation",
+            "BAY OF BENGAL -> rain + large river input",
+            "GENERAL RESULT -> Arabian Sea more saline",
+            "QUALIFIER -> season and local mixing matter"
+          ],
+          "source_references": [
+            "Arabian Sea and Bay of Bengal",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\12_The-Oceans-Currents-Tides-Salinity.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\12_Indian-Ocean-and-IOD.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g3\\geography-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g4\\geography-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Monsoon-current switch",
+          "structural_type": "seasonal-map",
+          "ascii_lines": [
+            "SW MONSOON -> winds drive summer reorganisation",
+            "SOMALI SECTOR -> strong current + upwelling",
+            "NE MONSOON -> northern flows reverse/reorganise",
+            "MAP RULE -> label every arrow by season"
+          ],
+          "source_references": [
+            "Seasonal monsoon-current reversal",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\12_The-Oceans-Currents-Tides-Salinity.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\12_Indian-Ocean-and-IOD.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g3\\geography-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g4\\geography-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "IOD coupled seesaw",
+          "structural_type": "mechanism-map",
+          "ascii_lines": [
+            "WEST-EAST SST CONTRAST -> pressure gradient",
+            "WINDS -> thermocline and upwelling response",
+            "CONVECTION -> rainfall shifts zonally",
+            "INDIA EFFECT -> conditional on timing + ENSO + MJO",
+            "CLOSE DISTINCTION: Wave transmits energy, current transports water and tide is astronomical",
+            "  sea-level oscillation; spring/neap are alignment effects, not seasons, and positive IOD is a",
+            "  west-minus-east Indian Ocean SST gradient rather than simply a warm western ocean.",
+            "CLOSE DISTINCTION: Wave transmits energy, current transports water and tide is astronomical",
+            "  sea-level oscillation; spring/neap are alignment effects, not seasons, and positive IOD is a",
+            "  west-minus-east Indian Ocean SST gradient rather than simply a warm western ocean."
+          ],
+          "source_references": [
+            "IOD coupled mechanism",
+            "IOD phases and uncertainty",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\12_The-Oceans-Currents-Tides-Salinity.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\12_Indian-Ocean-and-IOD.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g3\\geography-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g4\\geography-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Observation-to-service chain",
+          "structural_type": "institutional-ladder",
+          "ascii_lines": [
+            "OMNI / RAMA -> ocean + weather observations",
+            "INCOIS -> data management and products",
+            "MODELS -> analysis and forecast ensembles",
+            "USER -> marine service with uncertainty",
+            "EVIDENCE LIMIT: IOD and ENSO modulate probabilities rather than determine Indian rainfall;",
+            "  event phase, season, interaction, basin background and model/source date must qualify",
+            "  fisheries, cyclone or monsoon conclusions.",
+            "EVIDENCE LIMIT: IOD and ENSO modulate probabilities rather than determine Indian rainfall;",
+            "  event phase, season, interaction, basin background and model/source date must qualify",
+            "  fisheries, cyclone or monsoon conclusions."
+          ],
+          "source_references": [
+            "INCOIS observing architecture",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\12_The-Oceans-Currents-Tides-Salinity.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\12_Indian-Ocean-and-IOD.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g3\\geography-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g4\\geography-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Ocean answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> depth, scale and season",
+            "DERIVE -> force, density or gravity",
+            "MAP -> basin, current, tide or salinity",
+            "QUALIFY -> variability, ecology and evidence date"
+          ],
+          "source_references": [
+            "Verified PYQs and ocean answer spine",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\12_The-Oceans-Currents-Tides-Salinity.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\12_Indian-Ocean-and-IOD.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g3\\geography-12_Complete-Learning-Session_2026-09-01.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-12\\g4\\geography-12_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

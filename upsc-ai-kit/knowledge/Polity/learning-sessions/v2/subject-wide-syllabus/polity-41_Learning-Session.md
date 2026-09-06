@@ -2,15 +2,15 @@
 
 **Complete independent learning session + verified PYQ routing + solved practice workbook + final consolidated register notes**
 
-**Legal/current control date:** 25 August 2026 (Asia/Kolkata)
+**Legal/current control date:** 5 September 2026 (Asia/Kolkata)
 
 > **Tag key:** `[FACT]` = supported by a named constitutional, statutory, official, judicial or audited local source; `[ANALYSIS]` = reasoned examination; `[CURRENT]` = checked against official material for the control date; `[LIMIT]` = qualification, unresolved issue or deliberately unfrozen fact.
 >
 > **Answer-writing discipline:** claim -> named evidence -> analysis -> qualification.
 
-- [CURRENT] Status is controlled to **25 August 2026, Asia/Kolkata**.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
 
-- [CURRENT] **Live official refresh, 25 August 2026:** Part XIV, current DoPT service-rule material, Mission Karmayogi/iGOT, tribunal and civil-service reform sources were rechecked on 25 August 2026. Mission/training architecture is a dated implementation anchor; vacancies, lateral-entry advertisements and dashboard counts are not frozen.
+- [CURRENT] **Live official refresh, 5 September 2026:** Part XIV, current DoPT service-rule material, Mission Karmayogi/iGOT, tribunal and civil-service reform sources were rechecked on 5 September 2026. Mission/training architecture is a dated implementation anchor; vacancies, lateral-entry advertisements and dashboard counts are not frozen.
 #### How to Use This Package
 
 [FACT] Local sources were read first: `Polity/basic/Public-Services.md`, `Polity/advanced/41_Public-Services.md`, and the related owners for UPSC/SPSC, Centre-State relations, administrative tribunals, CVC/CBI, Ministries and the Central Secretariat, civil-service values, and Mission Karmayogi. The recent routed-PYQ and integration-audit ledgers were searched for Articles 309-312, All-India Services, doctrine of pleasure, neutrality, civil-service reform and lateral entry.
@@ -1405,6 +1405,52 @@ The exam-safe limitation is that lateral/short-term appointee appointment mode, 
 [LIMIT] "Public employment", "office under the State", "civil post" and employment by a
 government-controlled company are related but non-identical constitutional categories.
 
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional boundary:** Part XIV Articles 308-314 govern services under
+  the Union and States; Articles 315-323 separately govern UPSC, SPSCs and the
+  Joint PSC. Public Services owns the service relationship, while Polity 28
+  owns the constitutional commission.
+- **Article 309 hierarchy:** the appropriate legislature may regulate
+  recruitment and service conditions. Until legislation operates, the
+  President or Governor may make rules. Executive instructions cannot override
+  the Constitution, a statute or valid statutory rules.
+- **Pleasure and protection:** Article 310's pleasure is constitutionally
+  fettered by Article 311, equality, natural justice and judicial review.
+  Article 311 protects members of civil services and holders of civil posts,
+  not defence personnel or every employee of every public body.
+- **Article 311 mechanics:** dismissal/removal cannot be by an authority
+  subordinate to the appointing authority; dismissal, removal or reduction in
+  rank ordinarily requires inquiry and reasonable opportunity. The three
+  inquiry exceptions are conviction, recorded impracticability and
+  President/Governor satisfaction concerning security of the State.
+- **Case controls:** Parshotam Lal Dhingra distinguishes punitive foundation
+  from non-punitive termination; Tulsiram Patel controls the three exceptions;
+  ECIL v B. Karunakar requires supply of an adverse inquiry report subject to
+  prejudice; T.S.R. Subramanian requires written directions and institutional
+  tenure safeguards.
+- **AIS federal design:** Article 312 requires a Rajya Sabha resolution
+  supported by not less than two-thirds of members present and voting before
+  Parliament creates a new All-India Service. IAS, IPS and Indian Forest
+  Service remain the existing AIS; Centre-State control is dual rather than
+  exclusively Union or State.
+- **AIJS status, checked 5 September 2026:** Article 312 permits an
+  All-India Judicial Service not including a post inferior to district judge,
+  but no creating law or recruitment notification was located. Consultation
+  and advocacy are not an existing service.
+- **Reform boundary:** Mission Karmayogi/iGOT and the Capacity Building
+  Commission remain operative capacity-building architecture. Lateral entry,
+  fixed tenure, cadre deputation and performance systems must be stated with
+  the applicable rule and date; advertisement, vacancy and dashboard totals
+  are deliberately unfrozen.
+- **Remedy tracks:** departmental discipline, CVC/CVO vigilance, criminal
+  investigation, CAT adjudication and High Court judicial review are distinct.
+  L. Chandra Kumar preserves Articles 226/227 review over tribunal decisions.
+- **PYQ firewall:** the verified adjacent 2020 civil-services-reform demand is
+  retained as supporting application. PSC recruitment, governance reform,
+  ethics and tribunal procedure remain cross-owned where their principal
+  demand lies.
+
 ## BASIC MCQS / REMEDIATION
 
 #### Original MCQs 1-36 — Strict Continuous A -> B -> C -> D Rotation
@@ -2557,7 +2603,7 @@ NEUTRAL COMPETENCE
 
 ### L. Current-Control and Answer-Writing Limits
 
-- `[CURRENT]` Control date: 25 August 2026, Asia/Kolkata.
+- `[CURRENT]` Control date: 5 September 2026, Asia/Kolkata.
 - `[LIMIT]` No officeholder names, current cadre/vacancy numbers or lateral advertisement status.
 - `[LIMIT]` No Mission Karmayogi learner/course/dashboard figures.
 - `[LIMIT]` No claim of a 2026 Supreme Court public-services ruling without an exact official judgment.

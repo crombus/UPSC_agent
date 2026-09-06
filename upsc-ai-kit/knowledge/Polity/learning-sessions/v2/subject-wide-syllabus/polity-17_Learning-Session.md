@@ -1105,6 +1105,51 @@ graded answer to the exact question
 - **Decline:** whip -> executive calendar -> guillotine/referral decline -> bypass routes -> counter-instruments -> reforms.
 - **Money Bill:** Article 110 “only” -> Article 109 procedure -> Speaker certificate -> *Puttaswamy/Rojer Mathew* -> federal cost -> qualified pending-status verdict.
 
+### Semantic-completeness ownership and PYQ control
+
+- **Institutional map:** Article 79 makes the President, Rajya Sabha and Lok Sabha
+  the Parliament. Articles 80-84 govern composition and membership; Articles
+  89-98 presiding officers; Articles 85-88 sessions and participation; Articles
+  100-122 voting, privileges, legislation, finance, language and procedural autonomy.
+- **Composition and duration:** Rajya Sabha is permanent, with one-third retiring
+  every second year; Lok Sabha normally lasts five years unless sooner dissolved.
+  The constitutional maxima, actual sanctioned/elected strengths and current
+  vacancies are different registers and must not be merged.
+- **Session distinctions:** summoning, prorogation, adjournment, adjournment sine
+  die and dissolution have different actors and legal consequences. Article 85
+  fixes the six-month maximum interval; Budget, Monsoon and Winter are conventions,
+  not constitutional session names.
+- **Bill-class firewall:** ordinary Bills follow bicameral passage and possible
+  Article 108 joint sitting; Money Bills satisfy Article 110 exclusively, originate
+  only in Lok Sabha and give Rajya Sabha fourteen days to recommend. Article 117
+  financial Bills, demands for grants and appropriation require separate routes.
+- **Money-Bill review:** the Speaker's Article 110 certificate is textually final,
+  but K.S. Puttaswamy (Aadhaar) and Rojer Mathew preserve constitutional review for
+  illegality; no unresolved larger-Bench issue may be presented as finally settled.
+- **Lapse and ordinance:** prorogation does not lapse Bills. Rajya-Sabha-pending
+  Bills not passed by Lok Sabha survive dissolution; Lok-Sabha-pending Bills and
+  Bills passed by Lok Sabha but pending in Rajya Sabha lapse. Article 123 remains
+  an executive emergency route subject to reassembly and legislative control.
+- **Accountability:** questions, motions, confidence, budget votes, cut motions,
+  CAG-PAC scrutiny and committees are distinct tools. The anti-defection whip,
+  executive control of time, disruptions, guillotine and bypass routes explain
+  why strong formal instruments may yield weak practical scrutiny.
+- **Committee architecture:** PAC, Estimates and CoPU differ in composition and
+  mandate; the twenty-four DRSCs have thirty-one members each and advisory reports.
+  Standing, select, joint and ad hoc committees are not interchangeable.
+- **Current representation control:** S.O. 1922(E) commenced the 106th Amendment
+  on 16 April 2026. Reservation under Articles 330A, 332A and Article 334A is still dormant
+  until publication of relevant figures of the first post-commencement census and
+  a delimitation exercise for that purpose. Census 2027 reference dates are
+  notified; no publication, delimitation or first-reserved-election date is.
+- **Current institutional control:** Om Birla is Lok Sabha Speaker and C. P.
+  Radhakrishnan is ex officio Rajya Sabha Chairman on the dated official pages.
+  The 2026 delimitation-linked Bills did not become law; their proposed seat
+  ceilings and census basis remain proposal facts only.
+- **Four-ledger/PYQ control:** all direct and routed 2018-2025 Parliament demands
+  were retained with official-key discipline. Topic 16 owns executive composition;
+  Topic 20 owns State-legislature procedure.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Original MCQ loop - strict A -> B -> C -> D rotation

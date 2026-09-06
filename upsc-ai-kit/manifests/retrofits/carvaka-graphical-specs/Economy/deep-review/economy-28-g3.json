@@ -1,0 +1,999 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-28",
+  "subject": "Economy",
+  "title": "DIRECT AND INDIRECT FARM SUBSIDIES AND WTO RULES",
+  "short_route": "FARM-SUPPORT TRANSMISSION RAIL → DELIVERY-CLASSIFICATION MATRIX → INCOME-SUPPORT BOUNDARY → FERTILISER SUPPORT CHAIN → NUTRIENT-PRICING SPLIT → WATER-ENERGY-CROP LOOP",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-28-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "68bc515ed666fd5bc66d071e95b7ac056cd3e4d412e3ff9b12bfa456476bf98c",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "FARM-SUPPORT TRANSMISSION RAIL",
+      "structural_type": "cause-effect-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FARM-SUPPORT TRANSMISSION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "DELIVERY CHANNEL",
+          "role": "outcome"
+        },
+        {
+          "text": "ECONOMIC INCIDENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "BEHAVIOUR + OUTCOME + WTO TEST",
+          "role": "evidence"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "primary"
+        },
+        {
+          "text": "FARM SUPPORT INCLUDES BUDGETARY TRANSFERS, PRICE SUPPORT, INPUT SUBSIDIES",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DELIVERY CHANNEL",
+        "ECONOMIC INCIDENCE",
+        "BEHAVIOUR + OUTCOME + WTO TEST",
+        "MUST REMEMBER: Farm support includes budgetary transfers, price support, input subsidies"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DELIVERY CHANNEL",
+            "ECONOMIC INCIDENCE"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BEHAVIOUR + OUTCOME + WTO TEST",
+            "MUST REMEMBER: Farm support includes budgetary transfers, price support, input subsidies,..."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DELIVERY CHANNEL",
+            "ECONOMIC INCIDENCE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Farm support includes budgetary transfers, price support, input subsidies,.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DELIVERY-CLASSIFICATION MATRIX",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DELIVERY-CLASSIFICATION MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "FISCAL VISIBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "WTO CRITERIA",
+          "role": "comparison"
+        },
+        {
+          "text": "LEGAL RESULT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DIRECT / INDIRECT → delivery",
+        "EXPLICIT / IMPLICIT → fiscal visibility",
+        "GREEN / AMBER / BLUE → WTO criteria",
+        "LABEL != legal result"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DIRECT / INDIRECT → delivery",
+          "GREEN / AMBER / BLUE → WTO criteria",
+          "DIRECT / INDIRECT → delivery"
+        ],
+        [
+          "EXPLICIT / IMPLICIT → fiscal visibility",
+          "LABEL != legal result",
+          "EXPLICIT / IMPLICIT → fiscal visibility"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DIRECT / INDIRECT → delivery",
+            "EXPLICIT / IMPLICIT → fiscal visibility"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GREEN / AMBER / BLUE → WTO criteria",
+            "LABEL != legal result"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DIRECT / INDIRECT → delivery",
+            "EXPLICIT / IMPLICIT → fiscal visibility"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GREEN / AMBER / BLUE → WTO criteria.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "INCOME-SUPPORT BOUNDARY",
+      "structural_type": "eligibility-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INCOME-SUPPORT BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "ELIGIBLE RECORD",
+          "role": "outcome"
+        },
+        {
+          "text": "CASH TRANSFER",
+          "role": "comparison"
+        },
+        {
+          "text": "HOUSEHOLD LIQUIDITY",
+          "role": "evidence"
+        },
+        {
+          "text": "TENANT + SHARECROPPER EXCLUSION RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ELIGIBLE RECORD",
+        "CASH TRANSFER",
+        "HOUSEHOLD LIQUIDITY",
+        "TENANT + SHARECROPPER exclusion risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ELIGIBLE RECORD",
+            "CASH TRANSFER"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HOUSEHOLD LIQUIDITY",
+            "TENANT + SHARECROPPER exclusion risk"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ELIGIBLE RECORD",
+            "CASH TRANSFER"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CASH TRANSFER; HOUSEHOLD LIQUIDITY; TENANT + SHARECROPPER exclusion risk.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "FERTILISER SUPPORT CHAIN",
+      "structural_type": "principal-agent-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "FERTILISER SUPPORT CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "COMPANY CLAIM AFTER POS SALE",
+          "role": "outcome"
+        },
+        {
+          "text": "LOWER FARMER PRICE",
+          "role": "comparison"
+        },
+        {
+          "text": "BUYER CASH TRANSFER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "COMPANY CLAIM AFTER PoS SALE",
+        "LOWER FARMER PRICE",
+        "DBT != buyer cash transfer"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COMPANY CLAIM AFTER PoS SALE",
+            "LOWER FARMER PRICE"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DBT != buyer cash transfer",
+            "COMPANY CLAIM AFTER PoS SALE"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LOWER FARMER PRICE",
+            "DBT != buyer cash transfer"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LOWER FARMER PRICE; DBT != buyer cash transfer.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "NUTRIENT-PRICING SPLIT",
+      "structural_type": "classification-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NUTRIENT-PRICING SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "NOTIFIED P + K GRADES",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATE REGIME",
+          "role": "comparison"
+        },
+        {
+          "text": "RELATIVE PRICE",
+          "role": "evidence"
+        },
+        {
+          "text": "NUTRIENT CHOICE",
+          "role": "primary"
+        },
+        {
+          "text": "BALANCED USE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "NBS → notified P + K grades",
+        "UREA → separate regime",
+        "RELATIVE PRICE → nutrient choice",
+        "AFFORDABILITY != balanced use"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NBS → notified P + K grades",
+            "UREA → separate regime"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RELATIVE PRICE → nutrient choice",
+            "AFFORDABILITY != balanced use"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NBS → notified P + K grades",
+            "UREA → separate regime"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RELATIVE PRICE → nutrient choice; AFFORDABILITY != balanced use.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "WATER-ENERGY-CROP LOOP",
+      "structural_type": "feedback-loop",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WATER-ENERGY-CROP LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "CHEAP POWER",
+          "role": "mechanism"
+        },
+        {
+          "text": "WATER-INTENSIVE CROP",
+          "role": "comparison"
+        },
+        {
+          "text": "GROUNDWATER FALL",
+          "role": "evidence"
+        },
+        {
+          "text": "MORE ENERGY",
+          "role": "primary"
+        },
+        {
+          "text": "REFORM NEEDS CROP + AQUIFER SAFEGUARDS",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "DIRECT VERSUS INDIRECT SUBSIDY IS NOT WTO GREEN/AMBER/BLUE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CHEAP POWER → PUMPING",
+        "PUMPING → WATER-INTENSIVE CROP",
+        "GROUNDWATER FALL → MORE ENERGY",
+        "REFORM needs crop + aquifer safeguards",
+        "CLOSE DISTINCTION: Direct versus indirect subsidy is not WTO green/amber/blue"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CHEAP POWER → PUMPING",
+            "PUMPING → WATER-INTENSIVE CROP"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GROUNDWATER FALL → MORE ENERGY",
+            "REFORM needs crop + aquifer safeguards"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Direct versus indirect subsidy is not WTO green/amber/blue...",
+            "CHEAP POWER → PUMPING"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Direct versus indirect subsidy is not WTO green/amber/blue.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "RISK-SUPPORT AUDIT",
+      "structural_type": "risk-board",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RISK-SUPPORT AUDIT",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIFIED RISK TRANSFER",
+          "role": "mechanism"
+        },
+        {
+          "text": "BASIS RISK + DELAY",
+          "role": "evidence"
+        },
+        {
+          "text": "VIABLE FARM SYSTEM",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CREDIT → liquidity",
+        "INSURANCE → specified risk transfer",
+        "BASIS RISK + DELAY",
+        "SUBSIDY != viable farm system"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CREDIT → liquidity",
+            "INSURANCE → specified risk transfer"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BASIS RISK + DELAY",
+            "SUBSIDY != viable farm system"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CREDIT → liquidity",
+            "INSURANCE → specified risk transfer"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BASIS RISK + DELAY; SUBSIDY != viable farm system.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PRICE-SUPPORT DISTINCTIONS",
+      "structural_type": "four-way-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PRICE-SUPPORT DISTINCTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "ACTUAL OPERATION",
+          "role": "outcome"
+        },
+        {
+          "text": "FISCAL EXPENDITURE",
+          "role": "comparison"
+        },
+        {
+          "text": "WTO METHODOLOGY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MSP → announcement",
+        "PROCUREMENT → actual operation",
+        "BUDGET → fiscal expenditure",
+        "AMS → WTO methodology"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MSP → announcement",
+            "PROCUREMENT → actual operation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BUDGET → fiscal expenditure",
+            "AMS → WTO methodology"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MSP → announcement",
+            "PROCUREMENT → actual operation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BUDGET → fiscal expenditure; AMS → WTO methodology.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "WTO BOX MAP",
+      "structural_type": "classification-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WTO BOX MAP",
+          "role": "primary"
+        },
+        {
+          "text": "NON-EXEMPT DISTORTION",
+          "role": "outcome"
+        },
+        {
+          "text": "CRITERIA-BASED MINIMAL DISTORTION",
+          "role": "comparison"
+        },
+        {
+          "text": "PRODUCTION-LIMITING PAYMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "ARTICLE 6.2",
+          "role": "institution"
+        },
+        {
+          "text": "DEVELOPMENT FLEXIBILITY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "AMBER → non-exempt distortion",
+        "GREEN → criteria-based minimal distortion",
+        "BLUE → production-limiting payment",
+        "ARTICLE 6.2 → development flexibility"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AMBER → non-exempt distortion",
+            "GREEN → criteria-based minimal distortion"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BLUE → production-limiting payment",
+            "ARTICLE 6.2 → development flexibility"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AMBER → non-exempt distortion",
+            "GREEN → criteria-based minimal distortion"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BLUE → production-limiting payment; ARTICLE 6.2 → development flexibility.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "DE MINIMIS AND AMS",
+      "structural_type": "formula-board",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DE MINIMIS AND AMS",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE TEST",
+          "role": "outcome"
+        },
+        {
+          "text": "DEVELOPING COUNTRY",
+          "role": "comparison"
+        },
+        {
+          "text": "GENERAL 10%",
+          "role": "evidence"
+        },
+        {
+          "text": "PRICE GAP X ELIGIBLE PRODUCTION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PRODUCT-SPECIFIC → separate test",
+        "NON-PRODUCT-SPECIFIC → separate test",
+        "DEVELOPING COUNTRY → general 10%",
+        "PRICE GAP x ELIGIBLE PRODUCTION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRODUCT-SPECIFIC → separate test",
+            "NON-PRODUCT-SPECIFIC → separate test"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DEVELOPING COUNTRY → general 10%",
+            "PRICE GAP x ELIGIBLE PRODUCTION"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRODUCT-SPECIFIC → separate test",
+            "NON-PRODUCT-SPECIFIC → separate test"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEVELOPING COUNTRY → general 10%; PRICE GAP x ELIGIBLE PRODUCTION.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "PUBLIC-STOCKHOLDING STATUS",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PUBLIC-STOCKHOLDING STATUS",
+          "role": "primary"
+        },
+        {
+          "text": "FOOD-SECURITY PROGRAMME",
+          "role": "outcome"
+        },
+        {
+          "text": "BALI 2013 INTERIM SHIELD",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSPARENCY + CONDITIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "PEACE CLAUSE",
+          "role": "primary"
+        },
+        {
+          "text": "PERMANENT SOLUTION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "FOOD-SECURITY PROGRAMME",
+        "BALI 2013 INTERIM SHIELD",
+        "TRANSPARENCY + CONDITIONS",
+        "PEACE CLAUSE != permanent solution"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOOD-SECURITY PROGRAMME",
+            "BALI 2013 INTERIM SHIELD"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRANSPARENCY + CONDITIONS",
+            "PEACE CLAUSE != permanent solution"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOOD-SECURITY PROGRAMME",
+            "BALI 2013 INTERIM SHIELD"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRANSPARENCY + CONDITIONS; PEACE CLAUSE != permanent solution.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "FARM-SUBSIDY ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "FARM-SUBSIDY ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CLASSIFY DELIVERY + OBJECTIVE",
+          "role": "outcome"
+        },
+        {
+          "text": "TRACE INCIDENCE + DISTORTION",
+          "role": "comparison"
+        },
+        {
+          "text": "APPLY WTO CATEGORY + STATUS",
+          "role": "evidence"
+        },
+        {
+          "text": "REFORM WITH TRANSITION PROTECTION",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "QUALIFY ELIGIBLE PRODUCTION VALUE, EXTERNAL",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CLASSIFY delivery + objective",
+        "TRACE incidence + distortion",
+        "APPLY WTO category + status",
+        "REFORM with transition protection",
+        "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Qualify eligible production value, external"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CLASSIFY delivery + objective",
+            "TRACE incidence + distortion"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "APPLY WTO category + status",
+            "REFORM with transition protection"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Qualify eligible production value, external...",
+            "CLASSIFY delivery + objective"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Qualify eligible production value, external.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-28\\g3\\economy-28_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "IF SUPPLY IS INELASTIC, PART OF SUPPORT MAY RAISE",
+          "role": "outcome"
+        },
+        {
+          "text": "IF DEMAND EXPANDS STRONGLY, FISCAL AND ENVIRONMENTAL COST RISES",
+          "role": "comparison"
+        },
+        {
+          "text": "IF LAND IS RENTED, EXPECTED SUBSIDY BENEFITS MAY BE",
+          "role": "evidence"
+        },
+        {
+          "text": "IF OUTPUT SUPPLY RISES, CONSUMERS MAY RECEIVE PART OF",
+          "role": "primary"
+        },
+        {
+          "text": "RATIONING, QUEUES OR POOR QUALITY CAN OFFSET THE NOMINAL",
+          "role": "outcome"
+        },
+        {
+          "text": "COUPLING IS NOT AUTOMATICALLY BAD",
+          "role": "caution"
+        },
+        {
+          "text": "TEMPORARY ADOPTION SUPPORT MAY INTENTIONALLY CHANGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "if supply is inelastic, part of support may raise supplier rent;",
+            "if demand expands strongly, fiscal and environmental cost rises;",
+            "if land is rented, expected subsidy benefits may be capitalised into rent;",
+            "if output supply rises, consumers may receive part of the benefit through lower prices;"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "rationing, queues or poor quality can offset the nominal price benefit.",
+            "Coupling is not automatically bad: temporary adoption support may intentionally change",
+            "Decoupling is not automatically equitable: land-based historical entitlements can",
+            "The correct question is whether the induced behaviour serves a legitimate objective and"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "farmers receiving the benefit;",
+            "utilities, banks, insurers and procurement agencies;",
+            "regions/crops organised around the support;",
+            "political actors promising continuity."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "governance-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "governance_topic_review_control": true,
+    "non_eurocentric_spatial_discipline": true
+  },
+  "topics": [
+    {
+      "topic_key": "governance-07",
+      "display_title": "Citizen-Centric Administration",
+      "active_generation": 3,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g3\\governance-07_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Three pillars, one architecture",
+          "structural_type": "root-axes",
+          "ascii_lines": [
+            "CITIZENS' CHARTER -> what service, by when, at what standard, with what remedy",
+            "GRIEVANCE REDRESS -> the route that operates when the promise is not met",
+            "SERVICE DELIVERY CAPABILITY -> staff, process and technology that make the promise deliverable",
+            "RULE -> the pillars fail whenever they move apart from one another",
+            "MUST REMEMBER: Citizen-centric administration begins with the user's entitlement and..."
+          ],
+          "source_references": [
+            "The three Sevottam pillars",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g3\\governance-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Promise against entitlement",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "CHARTER -> administrative statement adopted in India from 1997 on the United Kingdom model",
+            "SERVICE GUARANTEE STATUTE -> State law from Madhya Pradesh, 2010, for notified services",
+            "DIFFERENCE -> a standard stated against an entitlement with an addressee and a consequence",
+            "LIMIT -> statutory coverage is partial, notified and State-specific"
+          ],
+          "source_references": [
+            "The charter and its administrative origin",
+            "Statutory service guarantees as the enforcement limb",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g3\\governance-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Five-element service-guarantee test",
+          "structural_type": "matrix",
+          "ascii_lines": [
+            "1 NOTIFIED -> an unlisted service carries no statutory timeline",
+            "2 DESIGNATED OFFICER -> without an addressee there is no accountability",
+            "3 TIMELINE -> specified and running from a defined trigger",
+            "4 APPEAL -> a first and a second appeal, each with its own timeline",
+            "5 DEFAULT -> penalty, compensation, deemed approval or nothing"
+          ],
+          "source_references": [
+            "The five-element service-guarantee test",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g3\\governance-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Two different remedies",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "PENALTY -> imposed on the defaulting officer; a deterrent inside the administration",
+            "COMPENSATION -> paid to the aggrieved citizen; a remedy for the person harmed",
+            "COMMON DESIGN -> many State statutes supply the first without the second",
+            "CAUTION -> appeal and compensation design differ by State and must not be generalised"
+          ],
+          "source_references": [
+            "Penalty against compensation and State variation",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g3\\governance-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Grievance platform card",
+          "structural_type": "evidence-table",
+          "ascii_lines": [
+            "WHAT IT IS -> Union platform to lodge, route, track, escalate and give feedback",
+            "OPERATOR -> Department of Administrative Reforms and Public Grievances",
+            "WHAT IT DOES -> makes delay visible and gives the grievance an addressee",
+            "WHAT IT CANNOT DO -> compel a service, decide an entitlement or award compensation"
+          ],
+          "source_references": [
+            "The grievance platform and what it cannot do",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g3\\governance-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Dated benchmarks",
+          "structural_type": "labelled-system",
+          "ascii_lines": [
+            "REDRESS BENCHMARK -> 21 days",
+            "APPEAL BENCHMARK -> 30 days",
+            "SOURCE -> Comprehensive Guidelines for Handling Public Grievances, August 2024",
+            "CHARACTER -> administrative and revisable, not a judicial limitation period",
+            "CLOSE DISTINCTION: Citizen charter is a publicly stated service commitment, not..."
+          ],
+          "source_references": [
+            "Dated grievance benchmarks",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g3\\governance-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Five reasons the promise falls short",
+          "structural_type": "hierarchy",
+          "ascii_lines": [
+            "DESIGN -> non-consultative drafting and standards chosen for administrative convenience",
+            "ENFORCEMENT -> no statutory penalty outside notified services",
+            "FOLLOW-THROUGH -> complaints logged and routed rather than resolved",
+            "CAPACITY -> the capability pillar not strengthened alongside the promise",
+            "AWARENESS -> charters rarely displayed or explained at the point of service"
+          ],
+          "source_references": [
+            "Five reasons the promise falls short",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g3\\governance-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Adoption against quality",
+          "structural_type": "comparison",
+          "ascii_lines": [
+            "PROLIFERATION -> charters widely adopted across departments",
+            "QUALITY GAP -> unmeasurable standards and no named responsible officer",
+            "SECOND GAP -> acknowledgement standards instead of resolved-outcome standards",
+            "THIRD GAP -> no revision cycle, so the promise ages against the service"
+          ],
+          "source_references": [
+            "Proliferation against quality",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g3\\governance-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Layer mismatch",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "PROMISE LAYER -> relatively well built and easiest to reform",
+            "STATUTORY LAYER -> partial, notified and geographically uneven",
+            "ESCALATION LAYER -> visible, non-adjudicatory, dependent on the receiving department",
+            "CAPABILITY LAYER -> frequently the weakest and the actual bottleneck",
+            "CONSEQUENCE -> rewriting charter language reforms the strongest layer"
+          ],
+          "source_references": [
+            "The layer-mismatch diagnosis",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g3\\governance-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Standard to remedy",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "STANDARD SET -> consultative, measurable, outcome-expressed, officer named",
+            "PUBLICISED -> displayed at the service point, in the local language, actually known",
+            "BREACH -> is it auto-detectable against the timeline, or must the citizen notice",
+            "GRIEVANCE ROUTE -> department, then platform, then appeal, in the correct forum",
+            "CONSEQUENCE -> penalty, compensation or nothing, feeding back into standard-setting"
+          ],
+          "source_references": [
+            "Where the standard-to-remedy chain breaks",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g3\\governance-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Last-mile stakeholders",
+          "structural_type": "path-consequence",
+          "ascii_lines": [
+            "FRONTLINE OFFICIAL -> faces the penalty and controls intake when capability lags",
+            "DESIGNATED OFFICER -> the addressee on whom the enforceability claim rests",
+            "APPELLATE OFFICER -> the difference between a complaint and a remedy",
+            "CITIZEN -> travel, documents, wage loss and an intermediary fee no statistic records"
+          ],
+          "source_references": [
+            "Perception at the counter and honest question ownership",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g3\\governance-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Answer spine for a charter demand",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "OPEN -> name the design-stage cause before any implementation cause",
+            "BUILD -> three pillars, then the five-element test applied to one service",
+            "CORRECT -> map each measure to the limitation it repairs, and keep capability in the pair",
+            "CLOSE -> graded verdict, State-variation caveat and stated question ownership",
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Sevottam, time-bound service laws, Common..."
+          ],
+          "source_references": [
+            "Perception at the counter and honest question ownership",
+            "upsc-ai-kit\\knowledge\\Governance\\basic\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Governance\\advanced\\07_Citizen-Centric-Administration.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-07\\g3\\governance-07_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}

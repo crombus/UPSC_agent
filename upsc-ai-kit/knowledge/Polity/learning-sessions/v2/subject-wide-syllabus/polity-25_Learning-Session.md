@@ -15,11 +15,11 @@ evidence_key: "[FACT] verified constitutional, statutory, judicial or official p
 
 #### Package method, source priority and current legal control
 
-- [CURRENT] Status is controlled to **28 August 2026, Asia/Kolkata**.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
 
-- [CURRENT] **Live official refresh, 28 August 2026:** MHA, India Code, Delhi, Jammu and Kashmir and Ladakh official portals were rechecked on 28 August 2026. India continues to have eight Union Territories; Delhi, Puducherry and Jammu and Kashmir have legislatures.
+- [CURRENT] **Live official refresh, 5 September 2026:** MHA, India Code, Delhi, Jammu and Kashmir and Ladakh official portals were rechecked on 5 September 2026. India continues to have eight Union Territories; Delhi, Puducherry and Jammu and Kashmir have legislatures.
 - [FACT] Source order followed: `basic/Union-Territories.md` -> `advanced/25_Union-Territories.md` -> `basic/Union-and-Territory.md` and Polity 05 only for Articles 1-4 boundaries -> local OCR-searchable M. Laxmikanth Union Territories chapter -> audited PYQ ledgers and the locally held official 2025 GS-II paper -> authoritative constitutional, statutory, judicial, MHA, Department of Justice and Jammu and Kashmir government sources. Qdrant was not used.
-- [CURRENT] Legal and institutional control date is **28 August 2026, Asia/Kolkata**.
+- [CURRENT] Legal and institutional control date is **5 September 2026, Asia/Kolkata**.
 - [CURRENT] India has **8 Union Territories**: Andaman and Nicobar Islands; Chandigarh; Dadra and Nagar Haveli and Daman and Diu; National Capital Territory of Delhi; Jammu and Kashmir; Ladakh; Lakshadweep; and Puducherry.
 - [CURRENT] The three UTs with legislatures are **NCT Delhi, Puducherry and Jammu and Kashmir**. Their legal bases are not identical.
 - [CURRENT] Jammu and Kashmir has an elected Assembly and Council of Ministers after the 2024 election. The official J&K Budget Speech 2026-27 is presented by Omar Abdullah as Chief Minister and Minister of Finance to the House. Statehood has **not** been legally restored.
@@ -120,7 +120,7 @@ former UTs become States / acquired territories become UTs
         |
 26 Jan 2020 DNH + Daman & Diu merger
         |
-28 Aug 2026: 8 UTs
+5 Sep 2026: 8 UTs
 ```
 
 - [FACT] The Seventh Amendment and States Reorganisation Act, 1956 replaced the earlier Part C/D arrangements with the modern UT framework.
@@ -886,7 +886,7 @@ elected Chief Minister + Council + functioning House
           |
 official Budget 2026-27 presented to House
           |
-28 Aug 2026: UT status continues; Statehood pending
+5 Sep 2026: UT status continues; Statehood pending
 ```
 
 - [CURRENT] It is stale and false to say J&K remains without an elected legislature.
@@ -1020,7 +1020,7 @@ CLAIM
 
 **Visual 44 - Dated current controls**
 
-| Issue | Current control at 28 Aug 2026 | Unsafe statement |
+| Issue | Current control at 5 Sep 2026 | Unsafe statement |
 |---|---|---|
 | count | 8 UTs | "India has 9 UTs" |
 | legislatures | Delhi, Puducherry, J&K | "only Delhi and Puducherry" |
@@ -1047,13 +1047,52 @@ CLAIM
 | J&K | elected government restored democratic voice, while Statehood and full federal parity remain pending |
 | reform | clarity should align law, officers, finance and accountability while preserving narrowly defined national interests |
 
+### Semantic-completeness ownership and PYQ control
+
+- **Part VIII map:** Article 239 provides administration through a President-
+  appointed Administrator; Article 239A enables local legislatures/Councils of
+  Ministers for specified UTs; Article 239AA constitutionalises Delhi; Articles
+  239AB, 239B, 240 and 241 govern breakdown, ordinances, regulations and High Courts.
+- **Parliamentary competence:** Article 246(4) lets Parliament legislate on any
+  matter for territory not included in a State. A UT legislature therefore
+  creates real local accountability without State-equivalent exclusivity.
+- **Current classification:** India has eight Union Territories. Delhi, Puducherry
+  and Jammu and Kashmir have legislatures; Andaman and Nicobar Islands,
+  Chandigarh, Dadra and Nagar Haveli and Daman and Diu, Ladakh and Lakshadweep do not.
+- **Administrator rule:** an Administrator/Lieutenant Governor is the President's
+  agent rather than a Part VI Governor. Under Article 239(2), a State Governor
+  appointed administrator of an adjoining UT acts independently of the State Council.
+- **Delhi field:** Article 239AA excludes State List Entries 1, 2 and 18 and
+  Entries 64, 65 and 66 insofar as related. The 2018 Constitution Bench makes aid
+  and advice the rule and presidential reference exceptional within the allotted field.
+- **Delhi services current rule:** the 11 May 2023 Constitution Bench recognised
+  elected-government control over services outside reserved fields. Act 19 of
+  2023 subsequently created the NCCSA route and statutory LG primacy on
+  disagreement; the Act remains operative and its constitutional challenge
+  remains unresolved on 5 September 2026.
+- **Puducherry model:** Article 239A and the Government of Union Territories Act,
+  1963 create a statutory legislature. Section 18 competence covers List II and
+  III matters insofar as applicable to Union Territories, subject to Parliament's
+  continuing power; Article 239B supplies the ordinance route.
+- **J&K model:** the Jammu and Kashmir Reorganisation Act, 2019, effective
+  31 October 2019, created J&K as a UT with legislature and Ladakh without one.
+  J&K's Assembly field excludes public order and police; unlike Delhi, land is not
+  a generally excluded entry. Parliament retains overriding competence.
+- **Article 370 judgment limit:** In re Article 370 upheld the 2019 constitutional
+  result and Ladakh's UT formation but did not finally adjudicate J&K's conversion
+  after the Union's statehood assurance. J&K has an elected Assembly and Council
+  of Ministers after the 2024 election but remains a UT on 5 September 2026.
+- **Four-ledger/PYQ control:** the direct 2018 Delhi and 2025 J&K Assembly demands
+  were preserved with Article/statute/judgment/current-status separation. Topic 22
+  owns Article 370/371 doctrine; Topic 26 owns Scheduled/Tribal Areas.
+
 ## BASIC MCQS / REMEDIATION
 
 ### Original MCQ loop - strict continuous A -> B -> C -> D rotation
 
 #### OM1. Current inventory
 
-Which statement is correct as on 28 August 2026?
+Which statement is correct as on 5 September 2026?
 
 A. India has 8 Union Territories.  
 B. India has 9 Union Territories.  
@@ -1452,7 +1491,7 @@ D. J&K has a constitutional right to a specified restoration year.
 
 **Answer: C.**
 
-**Explanation:** [CURRENT] No enacted restoration or appointed-day legal change was located by 28 August 2026.
+**Explanation:** [CURRENT] No enacted restoration or appointed-day legal change was located by 5 September 2026.
 
 #### OM32. J&K 2024 business rules
 
@@ -1964,7 +2003,7 @@ President**, *not* a head of state like a Governor. Designation may be **Lieuten
 | ✅ **Parliament's power** | Can legislate on **any list (incl. State List)** for **all** UTs — unaffected even where a local assembly exists |
 | ✅ **Delhi assembly** | State List **except public order, police, land** + Concurrent List |
 | ✅ **J&K assembly** | State List **except public order, police** + Concurrent List |
-| ✅ **Puducherry assembly** | **Any** State + Concurrent List subject |
+| ✅ **Puducherry assembly** | State + Concurrent List matters insofar as applicable to Union Territories |
 | ✅ **President's Regulations** | For A&N, Lakshadweep, DNH-DD, Ladakh (and Puducherry when its assembly is suspended/dissolved) — have the **force of an Act of Parliament** |
 
 ✅ **High Courts:** only **Delhi** has its own HC. Others fall under an adjacent state's HC (e.g., A&N → Calcutta;
@@ -2048,7 +2087,7 @@ Chandigarh → Punjab & Haryana; J&K & Ladakh → common J&K HC).
 - DNH and Daman and Diu merged from 26 January 2020.
 - J&K and Ladakh became UTs from 31 October 2019.
 - J&K has an elected Assembly after the 2024 election.
-- J&K Statehood remains pending as on 28 August 2026.
+- J&K Statehood remains pending as on 5 September 2026.
 - Ladakh remains without a legislature.
 
 ### Constitutional spine

@@ -14,11 +14,11 @@ evidence_key: "[FACT] verified constitutional, official or source-book propositi
 
 #### Package method, source priority and current control
 
-- [CURRENT] Status is controlled to **28 August 2026, Asia/Kolkata**.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
 
-- [CURRENT] **Live official refresh, 28 August 2026:** Official MoHUA, AMRUT, Finance Commission, SEBI and India Code portals were rechecked on 28 August 2026. Property tax, user charges, municipal bonds and grants remain financing tools; programme and city totals are treated only as dated evidence.
+- [CURRENT] **Live official refresh, 5 September 2026:** Official MoHUA, AMRUT, Finance Commission, SEBI and India Code portals were rechecked on 5 September 2026. Property tax, user charges, municipal bonds and grants remain financing tools; programme and city totals are treated only as dated evidence.
 - [FACT] Source order followed: `basic/Municipalities.md` -> `advanced/24_Municipalities.md` -> the locally held M. Laxmikanth municipality chapter -> routed PYQ ledgers and official local question papers/keys -> `Governance/basic/12_Local-Governance-and-Service-Delivery.md` -> official Sixteenth Finance Commission and MoHUA AMRUT 2.0 documents. Qdrant was not used.
-- [CURRENT] Legal and programme control date is **28 August 2026, Asia/Kolkata**.
+- [CURRENT] Legal and programme control date is **5 September 2026, Asia/Kolkata**.
 - [FACT] The controlling constitutional framework is Part IX-A, Articles **243P-243ZG**, inserted by the **74th Constitutional Amendment Act, 1992**, with the **Twelfth Schedule of 18 matters**.
 - [CURRENT] The official Sixteenth Finance Commission report covers **2026-27 to 2030-31**. It treats Union local-body grants as supplements to, not substitutes for, State devolution and State Finance Commission action.
 - [CURRENT] The Sixteenth Finance Commission recommends an **80:20 basic-performance split** within rural and urban grant components. For ULBs, the performance component begins from the second award year and includes an own-source-revenue condition; entry conditions include a duly constituted body, online provisional/audited accounts and timely State Finance Commission action.
@@ -995,6 +995,45 @@ automatically an industrial township under the Article 243Q proviso.
 
 [LIMIT] These decisions do not create one national municipal design; State law continues to
 govern offices, mayoral form, disqualification detail and administrative organisation.
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional birth:** the Constitution (Seventy-fourth Amendment) Act, 1992
+  inserted Part IXA and the Twelfth Schedule and commenced on 1 June 1993.
+  Articles 243P-243ZG and the eighteen Schedule matters are the exact core.
+- **Municipal types:** Article 243Q distinguishes Nagar Panchayat, Municipal
+  Council and Municipal Corporation and contains the industrial-township proviso.
+  State notification and State law determine the actual institutional form.
+- **Democratic design:** Articles 243R-243V govern composition, Ward Committees,
+  reservation, five-year duration and disqualification. Article 243S requires
+  Ward Committees at population three lakh or more; Article 243T fixes the
+  constitutional one-third women's floor and population-linked SC/ST reservation.
+- **Election and continuity:** Article 243U uses the same before-expiry/within-six-
+  months rule and unexpired-term principle; Article 243ZA assigns elections to the
+  State Election Commission and Article 243ZG bars ordinary electoral interference.
+- **Functional and fiscal limit:** Article 243W and the Twelfth Schedule are
+  enabling rather than self-executing. Article 243X permits State-law taxes,
+  assignments, grants and funds; Article 243Y uses the Article 243I State Finance
+  Commission. Constitutional existence is not automatic three-F devolution.
+- **Planning precision:** Article 243ZD requires at least four-fifths elected
+  representation on a District Planning Committee; Article 243ZE requires at
+  least two-thirds on a Metropolitan Planning Committee. A metropolitan area is
+  ten lakh or more under Article 243P(c); planning committees do not themselves
+  control every parastatal, budget or land power.
+- **Scope controls:** Articles 243ZB/ZC apply/adapt Part IXA to Union Territories
+  and exclude Scheduled/tribal areas subject to the constitutional extension
+  route; Article 243ZF governed transition and Article 243ZG the election bar.
+- **Current finance:** the Sixteenth Finance Commission covers 2026-27 to
+  2030-31 and recommends a 60:40 rural-urban aggregate split, with basic and
+  performance components; these are dated grant recommendations, not permanent
+  constitutional ratios.
+- **Current regulation:** AMRUT 2.0 remains a scheme/reform framework rather than
+  constitutional devolution. The SEBI (Issue and Listing of Municipal Debt
+  Securities) Regulations, 2015 were amended on 8 July 2026, followed by the
+  11 August 2026 implementation circular; municipal bonds remain debt, not own tax.
+- **Four-ledger/PYQ control:** direct 2023 functional-financial empowerment and
+  routed 2024 rural-urban merger demands were retained. Topic 23 owns rural
+  institutions; Topic 26 owns excluded Scheduled/tribal-area architecture.
 
 ## BASIC MCQS / REMEDIATION
 

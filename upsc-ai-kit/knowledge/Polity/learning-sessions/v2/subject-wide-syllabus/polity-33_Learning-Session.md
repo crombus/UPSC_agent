@@ -13,9 +13,9 @@ approval: false
 > **Answer discipline:** claim -> named evidence -> analysis -> qualification.  
 > **Scope:** Articles 76, 88, 105(4), 124(3), 165, 177, 194(4) and 217(2); appointment, qualifications, pleasure tenure, remuneration, advice, litigation, audience, legislative participation, privilege, professional restrictions, legal ethics, confidentiality, institutional comparisons, limits, reforms and current controls.
 
-- [CURRENT] Status is controlled to **24 August 2026, Asia/Kolkata**.
+- [CURRENT] Status is controlled to **5 September 2026, Asia/Kolkata**.
 
-- [CURRENT] **Live official refresh, 24 August 2026:** The official Constitution, consolidated Law Officers Rules, the Law Officers (Conditions of Service) Amendment Rules, 2026, Supreme Court materials and State law-officer pages were rechecked on 24 August 2026. Officeholder names are deliberately not frozen.
+- [CURRENT] **Live official refresh, 5 September 2026:** The official Constitution, consolidated Law Officers Rules, the Law Officers (Conditions of Service) Amendment Rules, 2026, Supreme Court materials and State law-officer pages were rechecked on 5 September 2026. R. Venkataramani's two-year reappointment from 1 October 2025 is the dated current officeholder control.
 #### Package method, source priority and legal-current control
 
 - [FACT] Local-first sequence followed: `Polity/basic/Attorney-General.md` -> `Polity/advanced/33_Attorney-General-and-Advocate-General.md` -> OCR-searchable local *Indian Polity* chapters on the Attorney General, Advocate General, Parliament and State Legislature -> only the related constitutional-body and executive owners needed for comparison -> all relevant PYQ routing and audit ledgers.
@@ -1159,10 +1159,10 @@ THIRD: timely advice, litigation and compliance
 FOURTH: transparent performance and systemic learning
 ```
 
-### 29. Current-control board as on 24 August 2026
+### 29. Current-control board as on 5 September 2026
 
-Current-control board as on 24 August 2026 denotes the constitutional rules and institutional links organised around Category Controlled position.
-Current-control board as on 24 August 2026 operates through stable constitutional Articles 76, 88, 105(4), 165, 177, 194(4) unchanged in official 1 May 2026 text, connected with current professional Rule 8 restrictions continue; 2026 amendment substituted Rule 7.
+Current-control board as on 5 September 2026 denotes the constitutional rules and institutional links organised around Category Controlled position.
+Current-control board as on 5 September 2026 operates through stable constitutional Articles 76, 88, 105(4), 165, 177, 194(4) unchanged in official 1 May 2026 text, connected with current professional Rule 8 restrictions continue; 2026 amendment substituted Rule 7.
 The operative mechanism matters because current litigation 2025 DLA directive/handbook structures institutional litigation management.
 Its principal consequence is that state variation State rules/notifications remain non-uniform.
 The decisive contrast is between deliberately omitted current AGI name, SG/ASG list, State Advocate General names and OLD SHORTHAND: "AG can do private practice.".
@@ -1285,6 +1285,44 @@ The exam-safe limitation is that rules/notification supplies terms, fees, restri
 | professional law | governs practice, privilege and ethics |
 | legal opinion | advises government |
 | court judgment | decides litigated law |
+
+### Semantic-completeness ownership and PYQ control
+
+- **Constitutional map:** Article 76 creates the Attorney General for India;
+  Article 165 creates an Advocate General for each State. The Solicitor General
+  and Additional Solicitors General are executive law offices under Union rules,
+  not constitutional offices.
+- **Current Attorney General:** the official 2025 Gazette reappointed Senior
+  Advocate R. Venkataramani for two years with effect from 1 October 2025.
+  This dated appointment does not create a constitutional fixed-term rule.
+  Advocate-General incumbents remain State-specific and must be sourced State by State.
+- **Appointment and qualification:** the President appoints a person qualified
+  to be a Supreme Court judge as Attorney General; the Governor appoints a
+  person qualified to be a High Court judge as Advocate General.
+- **Tenure and remuneration:** both offices are held during the pleasure of the
+  relevant constitutional head; neither Article fixes a term or removal
+  procedure. Remuneration is determined by the President or Governor.
+- **Functions and rights:** the Attorney General advises the Government of
+  India on referred legal matters, performs assigned constitutional/statutory
+  functions and has a constitutional right of audience in all courts. Articles
+  88 and 105(4) permit parliamentary participation and privileges without a vote.
+  Articles 177 and 194(4) provide the State-legislature analogue.
+- **Advocate-General limit:** Article 165 contains no counterpart to Article
+  76(3)'s express all-India right of audience; court appearance therefore
+  depends on applicable procedural and professional law.
+- **Current rules:** the Law Officers (Conditions of Service) Rules, 1987
+  govern the Union law officers. The Gazette-notified 2026 amendment changes
+  Rule 7 fee/retainer provisions; it does not constitutionalise the SG/ASGs or
+  give the Attorney General tenure security.
+- **Professional limits:** the Attorney General is not a whole-time government
+  servant and may practise privately subject to the rules, including conflict,
+  adverse-brief, criminal-defence and directorship restrictions and permissions.
+- **Enforcement boundary:** the section 15 Contempt of Courts Act consent role
+  concerns specified private criminal-contempt motions; courts retain suo motu
+  power. The law officer advises and represents, but does not adjudicate.
+- **PYQ firewall:** the verified 2019 and 2025 Attorney-General demands are
+  owned here; wider executive accountability and court procedure remain with
+  their respective owners.
 
 ## BASIC MCQS / REMEDIATION
 

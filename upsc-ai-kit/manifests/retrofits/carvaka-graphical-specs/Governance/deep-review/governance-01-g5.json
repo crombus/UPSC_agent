@@ -1,0 +1,1142 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "governance-01",
+  "subject": "Governance",
+  "title": "GOOD GOVERNANCE: CONCEPTS AND FRAMEWORKS",
+  "short_route": "THREE TERMS, ONE TEST → MEASUREMENT LAYER AGAINST NORMATIVE → THE SIX NAMED DIMENSIONS → GOOD GOVERNANCE INDEX EDITION → WHAT MAY NOT BE → ATTRIBUTION DISCIPLINE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g5\\governance-01_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\governance-01-deep-review-2026-09-05-g5.json",
+  "ascii_spec_sha256": "da51cb92e83804c08ebd8b27cdc935d672e32ec519fb58879fcfdd1b1164120b",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THREE TERMS, ONE TEST",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "THREE TERMS, ONE TEST",
+          "role": "primary"
+        },
+        {
+          "text": "LEGISLATURE, EXECUTIVE, JUDICIARY; THE FORMAL AUTHORITY-HOLDERS",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE PLUS MARKET PLUS CIVIL SOCIETY MAKING AND ENFORCING",
+          "role": "institution"
+        },
+        {
+          "text": "GOOD GOVERNANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "THE NORMATIVE STANDARD APPLIED TO THE SECOND, NOT A",
+          "role": "caution"
+        },
+        {
+          "text": "ANSWER MOVE",
+          "role": "outcome"
+        },
+        {
+          "text": "NAME THE DUTY-HOLDER AND THE BINDING FORM BEFORE EVALUATING",
+          "role": "comparison"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GOVERNMENT → legislature, executive, judiciary; the formal authority-holders",
+        "GOVERNANCE → state plus market plus civil society making and enforcing collective decisions",
+        "GOOD GOVERNANCE → the normative standard applied to the second, not a synonym for the",
+        "ANSWER MOVE → name the duty-holder and the binding form before evaluating performance",
+        "MUST REMEMBER: Good governance converts legitimate public authority into rights"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GOVERNMENT → legislature, executive, judiciary; the formal authority-holders",
+            "GOVERNANCE → state plus market plus civil society making and enforcing collective decisions"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GOOD GOVERNANCE → the normative standard applied to the second, not a synonym for the first",
+            "ANSWER MOVE → name the duty-holder and the binding form before evaluating performance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Good governance converts legitimate public authority into rights-...",
+            "GOVERNMENT → legislature, executive, judiciary; the formal authority-holders"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Good governance converts legitimate public authority into rights-.",
+      "source_references": [
+        "Government, governance and the normative test",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g5\\governance-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MEASUREMENT LAYER AGAINST NORMATIVE LAYER",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MEASUREMENT LAYER AGAINST NORMATIVE LAYER",
+          "role": "primary"
+        },
+        {
+          "text": "WORLDWIDE GOVERNANCE INDICATORS, SIX DIMENSIONS, AGGREGATED PERCEPTION",
+          "role": "outcome"
+        },
+        {
+          "text": "GOOD GOVERNANCE INDEX, TEN SECTORS, STATE AND UNION-TERRITORY DIAGNOSTIC",
+          "role": "institution"
+        },
+        {
+          "text": "UNDP PRINCIPLES AS A PROCESS CHECKLIST THAT CANNOT RANK",
+          "role": "mechanism"
+        },
+        {
+          "text": "SECOND ADMINISTRATIVE REFORMS COMMISSION INSTITUTIONAL-REFORM FRAME",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "MEASUREMENT → Worldwide Governance Indicators, six dimensions, aggregated perception",
+        "MEASUREMENT → Good Governance Index, ten sectors, state and union-territory diagnostic",
+        "NORMATIVE → UNDP principles as a process checklist that cannot rank",
+        "NORMATIVE → Second Administrative Reforms Commission institutional-reform frame"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MEASUREMENT → Worldwide Governance Indicators, six dimensions, aggregated perception",
+          "NORMATIVE → UNDP principles as a process checklist that cannot rank",
+          "MEASUREMENT → Worldwide Governance Indicators, six dimensions, aggregated perception"
+        ],
+        [
+          "MEASUREMENT → Good Governance Index, ten sectors, state and union-territory diagnostic",
+          "NORMATIVE → Second Administrative Reforms Commission institutional-reform frame",
+          "MEASUREMENT → Good Governance Index, ten sectors, state and union-territory diagnostic"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MEASUREMENT → Worldwide Governance Indicators, six dimensions, aggregated perception",
+            "MEASUREMENT → Good Governance Index, ten sectors, state and union-territory diagnostic"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NORMATIVE → UNDP principles as a process checklist that cannot rank",
+            "NORMATIVE → Second Administrative Reforms Commission institutional-reform frame"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MEASUREMENT → Worldwide Governance Indicators, six dimensions, aggregated perception",
+            "MEASUREMENT → Good Governance Index, ten sectors, state and union-territory diagnostic"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NORMATIVE → Second Administrative Reforms Commission institutional-reform frame.",
+      "source_references": [
+        "The Worldwide Governance Indicators frame",
+        "UNDP principles as a process checklist",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g5\\governance-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THE SIX NAMED DIMENSIONS",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "THE SIX NAMED DIMENSIONS",
+          "role": "primary"
+        },
+        {
+          "text": "VOICE AND ACCOUNTABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "POLITICAL STABILITY AND ABSENCE OF VIOLENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "GOVERNMENT EFFECTIVENESS",
+          "role": "evidence"
+        },
+        {
+          "text": "REGULATORY QUALITY",
+          "role": "primary"
+        },
+        {
+          "text": "RULE OF LAW",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTROL OF CORRUPTION",
+          "role": "comparison"
+        },
+        {
+          "text": "SCORED SEPARATELY, PERCEPTION-BASED, REPORTED WITH A MARGIN OF ERROR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "VOICE AND ACCOUNTABILITY",
+        "POLITICAL STABILITY AND ABSENCE OF VIOLENCE",
+        "GOVERNMENT EFFECTIVENESS",
+        "REGULATORY QUALITY",
+        "RULE OF LAW"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "VOICE AND ACCOUNTABILITY",
+            "POLITICAL STABILITY AND ABSENCE OF VIOLENCE",
+            "GOVERNMENT EFFECTIVENESS"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REGULATORY QUALITY",
+            "RULE OF LAW",
+            "CONTROL OF CORRUPTION"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION → scored separately, perception-based, reported with a margin of error"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → scored separately, perception-based, reported with a margin of error.",
+      "source_references": [
+        "The Worldwide Governance Indicators frame",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g5\\governance-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "GOOD GOVERNANCE INDEX EDITION CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GOOD GOVERNANCE INDEX EDITION CARD",
+          "role": "primary"
+        },
+        {
+          "text": "25 DECEMBER 2019 BY THE DEPARTMENT OF ADMINISTRATIVE REFORMS",
+          "role": "outcome"
+        },
+        {
+          "text": "LATEST LOCATED NATIONAL EDITION",
+          "role": "comparison"
+        },
+        {
+          "text": "GOOD GOVERNANCE INDEX 2020-21, RELEASED 25 DECEMBER 2021",
+          "role": "evidence"
+        },
+        {
+          "text": "THREE GROUPS IN 2019; FOUR IN 2020-21 INCLUDING NORTH-EAST",
+          "role": "primary"
+        },
+        {
+          "text": "THE CLAIM OF A 2025 NATIONAL EDITION, CORRECTED ON",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "LAUNCH → 25 December 2019 by the Department of Administrative Reforms and Public Grievances",
+        "LATEST LOCATED NATIONAL EDITION → Good Governance Index 2020-21, released 25 December 2021",
+        "GROUPING → three groups in 2019; four in 2020-21 including North-East and Hill States",
+        "WITHDRAWN → the claim of a 2025 national edition, corrected on 13 August 2026"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "LAUNCH → 25 December 2019 by the Department of Administrative Reforms and Public Grievances",
+          "GROUPING → three groups in 2019; four in 2020-21 including North-East and Hill States",
+          "LAUNCH → 25 December 2019 by the Department of Administrative Reforms and Public Grievances"
+        ],
+        [
+          "LATEST LOCATED NATIONAL EDITION → Good Governance Index 2020-21, released 25 December 2021",
+          "WITHDRAWN → the claim of a 2025 national edition, corrected on 13 August 2026",
+          "LATEST LOCATED NATIONAL EDITION → Good Governance Index 2020-21, released 25 December 2021"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LAUNCH → 25 December 2019 by the Department of Administrative Reforms and Public Grievances",
+            "LATEST LOCATED NATIONAL EDITION → Good Governance Index 2020-21, released 25 December 2021"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GROUPING → three groups in 2019; four in 2020-21 including North-East and Hill States",
+            "WITHDRAWN → the claim of a 2025 national edition, corrected on 13 August 2026"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LAUNCH → 25 December 2019 by the Department of Administrative Reforms and Public Grievances",
+            "LATEST LOCATED NATIONAL EDITION → Good Governance Index 2020-21, released 25 December 2021"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WITHDRAWN → the claim of a 2025 national edition, corrected on 13 August 2026.",
+      "source_references": [
+        "The Good Governance Index and its located edition",
+        "Reading Good Governance Index groupings by edition",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g5\\governance-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "WHAT MAY NOT BE ASSERTED",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WHAT MAY NOT BE ASSERTED",
+          "role": "caution"
+        },
+        {
+          "text": "LAUNCH DATE, LOCATED EDITION, EDITION-SPECIFIC GROUPING, GOOD GOVERNANCE DAY",
+          "role": "outcome"
+        },
+        {
+          "text": "A RANK ONLY WITH ITS EDITION YEAR ATTACHED",
+          "role": "comparison"
+        },
+        {
+          "text": "ANY POST-2021 NATIONAL EDITION, RANK, SCORE, INDICATOR COUNT OR",
+          "role": "evidence"
+        },
+        {
+          "text": "THE DISTRICT GOOD GOVERNANCE INDEX TREATED AS A NATIONAL",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SAFE → launch date, located edition, edition-specific grouping, Good Governance Day since 2014",
+        "BOUNDED → a rank only with its edition year attached",
+        "PROHIBITED → any post-2021 national edition, rank, score, indicator count or top performer",
+        "PROHIBITED → the District Good Governance Index treated as a national edition"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SAFE → launch date, located edition, edition-specific grouping, Good Governance Day since 2014",
+            "BOUNDED → a rank only with its edition year attached"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROHIBITED → any post-2021 national edition, rank, score, indicator count or top performer",
+            "PROHIBITED → the District Good Governance Index treated as a national edition"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SAFE → launch date, located edition, edition-specific grouping, Good Governance Day since 2014",
+            "BOUNDED → a rank only with its edition year attached"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROHIBITED → the District Good Governance Index treated as a national edition.",
+      "source_references": [
+        "Withdrawn claims and prohibited assertions",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g5\\governance-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "ATTRIBUTION DISCIPLINE",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ATTRIBUTION DISCIPLINE",
+          "role": "primary"
+        },
+        {
+          "text": "WORLD BANK",
+          "role": "outcome"
+        },
+        {
+          "text": "WORLDWIDE GOVERNANCE INDICATORS, SIX DIMENSIONS, CROSS-COUNTRY",
+          "role": "comparison"
+        },
+        {
+          "text": "WORLD JUSTICE PROJECT",
+          "role": "evidence"
+        },
+        {
+          "text": "RULE OF LAW INDEX, PUBLISHED ANNUALLY, DISTINCT FAMILY",
+          "role": "primary"
+        },
+        {
+          "text": "DEPARTMENT OF ADMINISTRATIVE REFORMS",
+          "role": "outcome"
+        },
+        {
+          "text": "GOOD GOVERNANCE INDEX AND GOOD GOVERNANCE DAY",
+          "role": "comparison"
+        },
+        {
+          "text": "MINISTRY OF PANCHAYATI RAJ",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WORLD BANK → Worldwide Governance Indicators, six dimensions, cross-country",
+        "WORLD JUSTICE PROJECT → Rule of Law Index, published annually, distinct family",
+        "DEPARTMENT OF ADMINISTRATIVE REFORMS → Good Governance Index and Good Governance Day",
+        "MINISTRY OF PANCHAYATI RAJ → Devolution Index, panchayat scope only",
+        "CLOSE DISTINCTION: Government is the formal authority structure, governance is the wider"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "WORLD BANK → Worldwide Governance Indicators, six dimensions, cross-country",
+          "DEPARTMENT OF ADMINISTRATIVE REFORMS → Good Governance Index and Good Governance Day",
+          "CLOSE DISTINCTION: Government is the formal authority structure, governance is the wider..."
+        ],
+        [
+          "WORLD JUSTICE PROJECT → Rule of Law Index, published annually, distinct family",
+          "MINISTRY OF PANCHAYATI RAJ → Devolution Index, panchayat scope only",
+          "WORLD BANK → Worldwide Governance Indicators, six dimensions, cross-country"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WORLD BANK → Worldwide Governance Indicators, six dimensions, cross-country",
+            "WORLD JUSTICE PROJECT → Rule of Law Index, published annually, distinct family"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DEPARTMENT OF ADMINISTRATIVE REFORMS → Good Governance Index and Good Governance Day",
+            "MINISTRY OF PANCHAYATI RAJ → Devolution Index, panchayat scope only"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Government is the formal authority structure, governance is the wider...",
+            "WORLD BANK → Worldwide Governance Indicators, six dimensions, cross-country"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WORLD JUSTICE PROJECT → Rule of Law Index, published annually, distinct family.",
+      "source_references": [
+        "The Rule of Law Index attribution",
+        "Four measurement instruments at four scales",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g5\\governance-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FOUR OBJECTS AT FOUR SCALES",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOUR OBJECTS AT FOUR SCALES",
+          "role": "primary"
+        },
+        {
+          "text": "WORLDWIDE GOVERNANCE INDICATORS BENCHMARK OVER TIME",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE SECTORAL",
+          "role": "institution"
+        },
+        {
+          "text": "GOOD GOVERNANCE INDEX, TEN SECTORS, COMPARISON CATEGORIES",
+          "role": "evidence"
+        },
+        {
+          "text": "SERVICE PORTAL",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL E-GOVERNANCE SERVICE DELIVERY ASSESSMENT, END-SERVICE DEPTH",
+          "role": "outcome"
+        },
+        {
+          "text": "DEVOLUTION INDEX; URBAN LOCAL BODIES ARE OUTSIDE ITS SCOPE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CROSS-COUNTRY → Worldwide Governance Indicators benchmark over time",
+        "STATE SECTORAL → Good Governance Index, ten sectors, comparison categories",
+        "SERVICE PORTAL → National e-Governance Service Delivery Assessment, end-service depth",
+        "PANCHAYAT → Devolution Index; urban local bodies are outside its scope"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CROSS-COUNTRY → Worldwide Governance Indicators benchmark over time",
+          "SERVICE PORTAL → National e-Governance Service Delivery Assessment, end-service depth",
+          "CROSS-COUNTRY → Worldwide Governance Indicators benchmark over time"
+        ],
+        [
+          "STATE SECTORAL → Good Governance Index, ten sectors, comparison categories",
+          "PANCHAYAT → Devolution Index; urban local bodies are outside its scope",
+          "STATE SECTORAL → Good Governance Index, ten sectors, comparison categories"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CROSS-COUNTRY → Worldwide Governance Indicators benchmark over time",
+            "STATE SECTORAL → Good Governance Index, ten sectors, comparison categories"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SERVICE PORTAL → National e-Governance Service Delivery Assessment, end-service depth",
+            "PANCHAYAT → Devolution Index; urban local bodies are outside its scope"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CROSS-COUNTRY → Worldwide Governance Indicators benchmark over time",
+            "STATE SECTORAL → Good Governance Index, ten sectors, comparison categories"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PANCHAYAT → Devolution Index; urban local bodies are outside its scope.",
+      "source_references": [
+        "Four measurement instruments at four scales",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g5\\governance-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "NORM TO INSTRUMENT, LEGALITY HALF",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NORM TO INSTRUMENT, LEGALITY HALF",
+          "role": "primary"
+        },
+        {
+          "text": "RULE OF LAW",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTICLE 14 NON-ARBITRARINESS AND REASONED ORDERS; UNEVEN BELOW THE",
+          "role": "institution"
+        },
+        {
+          "text": "RIGHT TO INFORMATION ACT, 2005, SECTION 4 PROACTIVE DISCLOSURE",
+          "role": "institution"
+        },
+        {
+          "text": "COMPTROLLER AND AUDITOR GENERAL, ARTICLES 148 TO 151; AUDIT",
+          "role": "primary"
+        },
+        {
+          "text": "LOKPAL ACT, 2013 AND CENTRAL VIGILANCE COMMISSION ACT, 2003",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "RULE OF LAW → Article 14 non-arbitrariness and reasoned orders; uneven below the regulator tier",
+        "TRANSPARENCY → Right to Information Act, 2005, Section 4 proactive disclosure; unaudited compliance",
+        "ACCOUNTABILITY → Comptroller and Auditor General, Articles 148 to 151; audit remedy",
+        "ACCOUNTABILITY → Lokpal Act, 2013 and Central Vigilance Commission Act, 2003; distinct remedies"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "RULE OF LAW → Article 14 non-arbitrariness and reasoned orders; uneven below the regulator tier",
+          "ACCOUNTABILITY → Comptroller and Auditor General, Articles 148 to 151; audit remedy",
+          "RULE OF LAW → Article 14 non-arbitrariness and reasoned orders; uneven below the regulator tier"
+        ],
+        [
+          "TRANSPARENCY → Right to Information Act, 2005, Section 4 proactive disclosure; unaudited compliance",
+          "ACCOUNTABILITY → Lokpal Act, 2013 and Central Vigilance Commission Act, 2003; distinct remedies",
+          "TRANSPARENCY → Right to Information Act, 2005, Section 4 proactive disclosure; unaudited compliance"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RULE OF LAW → Article 14 non-arbitrariness and reasoned orders; uneven below the regulator tier",
+            "TRANSPARENCY → Right to Information Act, 2005, Section 4 proactive disclosure; unaudited compliance"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ACCOUNTABILITY → Comptroller and Auditor General, Articles 148 to 151; audit remedy",
+            "ACCOUNTABILITY → Lokpal Act, 2013 and Central Vigilance Commission Act, 2003; distinct remedies"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE OF LAW → Article 14 non-arbitrariness and reasoned orders; uneven below the regulator tier",
+            "TRANSPARENCY → Right to Information Act, 2005, Section 4 proactive disclosure; unaudited compliance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE OF LAW → Article 14 non-arbitrariness and reasoned orders; uneven below the regulator tier.",
+      "source_references": [
+        "Norms to instruments: legality, transparency and answerability",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g5\\governance-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "NORM TO INSTRUMENT, DELIVERY HALF",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "NORM TO INSTRUMENT, DELIVERY HALF",
+          "role": "primary"
+        },
+        {
+          "text": "SECTION 17 GRAM SABHA SOCIAL AUDIT; PRE-LEGISLATIVE CONSULTATION POLICY",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE RIGHT-TO-SERVICE ACTS FROM MADHYA PRADESH, 2010; NOTIFIED SERVICES",
+          "role": "institution"
+        },
+        {
+          "text": "GRIEVANCE PORTAL TWENTY-ONE-DAY BENCHMARK, DEPARTMENTAL GUIDELINES AUGUST 2024",
+          "role": "evidence"
+        },
+        {
+          "text": "EQUITY AND EFFECTIVENESS",
+          "role": "primary"
+        },
+        {
+          "text": "DIRECT BENEFIT TRANSFER TARGETING; OUTPUT-OUTCOME MONITORING FRAMEWORK",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PARTICIPATION → Section 17 Gram Sabha social audit; Pre-Legislative Consultation Policy, 2014",
+        "RESPONSIVENESS → state right-to-service Acts from Madhya Pradesh, 2010; notified services only",
+        "RESPONSIVENESS → grievance portal twenty-one-day benchmark, departmental guidelines August 2024",
+        "EQUITY AND EFFECTIVENESS → direct benefit transfer targeting; Output-Outcome Monitoring Framework"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PARTICIPATION → Section 17 Gram Sabha social audit; Pre-Legislative Consultation Policy, 2014",
+          "RESPONSIVENESS → grievance portal twenty-one-day benchmark, departmental guidelines August 2024",
+          "PARTICIPATION → Section 17 Gram Sabha social audit; Pre-Legislative Consultation Policy, 2014"
+        ],
+        [
+          "RESPONSIVENESS → state right-to-service Acts from Madhya Pradesh, 2010; notified services only",
+          "EQUITY AND EFFECTIVENESS → direct benefit transfer targeting; Output-Outcome Monitoring Framework",
+          "RESPONSIVENESS → state right-to-service Acts from Madhya Pradesh, 2010; notified services only"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PARTICIPATION → Section 17 Gram Sabha social audit; Pre-Legislative Consultation Policy, 2014",
+            "RESPONSIVENESS → state right-to-service Acts from Madhya Pradesh, 2010; notified services only"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESPONSIVENESS → grievance portal twenty-one-day benchmark, departmental guidelines August 2024",
+            "EQUITY AND EFFECTIVENESS → direct benefit transfer targeting; Output-Outcome Monitoring Framework"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PARTICIPATION → Section 17 Gram Sabha social audit; Pre-Legislative Consultation Policy, 2014",
+            "RESPONSIVENESS → state right-to-service Acts from Madhya Pradesh, 2010; notified services only"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EQUITY AND EFFECTIVENESS → direct benefit transfer targeting; Output-Outcome Monitoring Framework.",
+      "source_references": [
+        "Norms to instruments: participation, responsiveness, equity and effectiveness",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g5\\governance-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SEVEN STAGES FROM NORM TO OUTCOME",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SEVEN STAGES FROM NORM TO OUTCOME",
+          "role": "primary"
+        },
+        {
+          "text": "LEGAL FORM",
+          "role": "outcome"
+        },
+        {
+          "text": "ACT, RULE, GUIDELINE OR EXECUTIVE POLICY, AND WHO IS",
+          "role": "institution"
+        },
+        {
+          "text": "INSTITUTION AND PROCEDURE",
+          "role": "institution"
+        },
+        {
+          "text": "IDENTIFIED DUTY-HOLDER, TIMELINE, OFFICER, APPEAL, PENALTY",
+          "role": "primary"
+        },
+        {
+          "text": "CAPACITY AND CITIZEN SIDE",
+          "role": "outcome"
+        },
+        {
+          "text": "STAFF, RECORDS, BUDGET; AWARENESS, DISTANCE, COST, LANGUAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "REMEDY AND FEEDBACK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LEGAL FORM → Act, rule, guideline or executive policy, and who is bound",
+        "INSTITUTION AND PROCEDURE → identified duty-holder, timeline, officer, appeal, penalty",
+        "CAPACITY AND CITIZEN SIDE → staff, records, budget; awareness, distance, cost, language",
+        "REMEDY AND FEEDBACK → is failure correctable, and is it counted and used for redesign"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LEGAL FORM → Act, rule, guideline or executive policy, and who is bound",
+            "INSTITUTION AND PROCEDURE → identified duty-holder, timeline, officer, appeal, penalty"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CAPACITY AND CITIZEN SIDE → staff, records, budget; awareness, distance, cost, language",
+            "REMEDY AND FEEDBACK → is failure correctable, and is it counted and used for redesign"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LEGAL FORM → Act, rule, guideline or executive policy, and who is bound",
+            "INSTITUTION AND PROCEDURE → identified duty-holder, timeline, officer, appeal, penalty"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LEGAL FORM → Act, rule, guideline or executive policy, and who is bound.",
+      "source_references": [
+        "Where a norm stops becoming an outcome",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g5\\governance-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "FIVE INDEX TESTS",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "FIVE INDEX TESTS",
+          "role": "primary"
+        },
+        {
+          "text": "INDICATOR VALIDITY",
+          "role": "outcome"
+        },
+        {
+          "text": "DOES IT MEASURE THE GOVERNED OUTCOME OR AN EASILY",
+          "role": "comparison"
+        },
+        {
+          "text": "IS THE DATA SELF-REPORTED BY THE ENTITY BEING RANKED",
+          "role": "evidence"
+        },
+        {
+          "text": "OUTPUT AGAINST OUTCOME",
+          "role": "primary"
+        },
+        {
+          "text": "HOW MUCH OF THE SCORE IS COVERAGE RATHER THAN",
+          "role": "outcome"
+        },
+        {
+          "text": "ADJUSTMENT AND CONSEQUENCE",
+          "role": "comparison"
+        },
+        {
+          "text": "LIKE-FOR-LIKE FEDERAL COMPARISON; DOES A POOR SCORE TRIGGER CORRECTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDICATOR VALIDITY → does it measure the governed outcome or an easily counted input",
+        "COMPARABILITY → is the data self-reported by the entity being ranked",
+        "OUTPUT AGAINST OUTCOME → how much of the score is coverage rather than realised change",
+        "ADJUSTMENT AND CONSEQUENCE → like-for-like federal comparison; does a poor score trigger correction"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INDICATOR VALIDITY → does it measure the governed outcome or an easily counted input",
+            "COMPARABILITY → is the data self-reported by the entity being ranked"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OUTPUT AGAINST OUTCOME → how much of the score is coverage rather than realised change",
+            "ADJUSTMENT AND CONSEQUENCE → like-for-like federal comparison; does a poor score trigger correction"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INDICATOR VALIDITY → does it measure the governed outcome or an easily counted input",
+            "COMPARABILITY → is the data self-reported by the entity being ranked"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ADJUSTMENT AND CONSEQUENCE → like-for-like federal comparison; does a poor score trigger correction.",
+      "source_references": [
+        "Critically examining an index and answering the objections",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g5\\governance-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER SPINE AND ANSWERED OBJECTIONS",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE AND ANSWERED OBJECTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE THE INSTITUTION SET, THE DECISION PROCESS AND THE",
+          "role": "institution"
+        },
+        {
+          "text": "NORM TO NAMED INSTRUMENT TO MECHANISM TO STATED LIMITATION",
+          "role": "mechanism"
+        },
+        {
+          "text": "FIVE INDEX TESTS; ANSWER VAGUENESS, MEASUREMENT, CONDITIONALITY AND CAPACITY",
+          "role": "evidence"
+        },
+        {
+          "text": "GRADED VERDICT WITH THE EDITION-DATED EVIDENCE AND THE CONDITION",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "USE CONSTITUTIONAL VALUES, CITIZEN CHARTERS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "OPEN → separate the institution set, the decision process and the normative standard",
+        "BUILD → norm to named instrument to mechanism to stated limitation, three to six units",
+        "TEST → five index tests; answer vagueness, measurement, conditionality and capacity objections",
+        "CLOSE → graded verdict with the edition-dated evidence and the condition that would reverse it",
+        "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use constitutional values, citizen charters"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → separate the institution set, the decision process and the normative standard",
+            "BUILD → norm to named instrument to mechanism to stated limitation, three to six units"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEST → five index tests; answer vagueness, measurement, conditionality and capacity objections",
+            "CLOSE → graded verdict with the edition-dated evidence and the condition that would reverse it"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use constitutional values, citizen charters,...",
+            "OPEN → separate the institution set, the decision process and the normative standard"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → graded verdict with the edition-dated evidence and the condition that would reverse it.",
+      "source_references": [
+        "Critically examining an index and answering the objections",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\01_Good-Governance-Concepts-and-Frameworks.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g5\\governance-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDICATOR CAPTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "ADMINISTRATIVE EFFORT SHIFTS TOWARD IMPROVING THE MEASURED PROXY",
+          "role": "comparison"
+        },
+        {
+          "text": "PERCEPTION-MEASUREMENT GAP",
+          "role": "evidence"
+        },
+        {
+          "text": "WGI'S PERCEPTION BASIS MEANS A STATE CAN IMPROVE",
+          "role": "institution"
+        },
+        {
+          "text": "FEDERAL COMPARABILITY PROBLEM",
+          "role": "outcome"
+        },
+        {
+          "text": "GGI'S EDITION-SPECIFIC GROUPING",
+          "role": "comparison"
+        },
+        {
+          "text": "DARPG FUNCTIONS AS BOTH THE NODAL REFORM DEPARTMENT (ARC",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Indicator capture: administrative effort shifts toward improving the measured proxy",
+            "CAUTION: Perception-measurement gap: WGI's perception basis means a state can improve",
+            "CAUTION: Federal comparability problem: GGI's edition-specific grouping",
+            "DARPG functions as both the nodal reform department (ARC follow-up, Sevottam,"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "2nd ARC's 15 reports operationalise the normative \"good governance\" standard into",
+            "CAUTION: The absence of a single statutory \"Good Governance Act\" in India means the standard is",
+            "CAUTION: A state can score well on GGI's \"economic governance\" sector through ease-of-business",
+            "CAUTION: Comparing WGI's \"Government Effectiveness\" dimension with India's own e-governance/DPI"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: Boundary case: an authoritarian-leaning but highly efficient administrative unit could",
+            "CAUTION: Composite indices trade descriptive richness for comparability; over-reliance on GGI",
+            "CAUTION: Normative frameworks (UNDP, ARC) resist gaming but offer no ready metric for tracking",
+            "CAUTION: India's federal structure means Union-level frameworks (GGI, DARPG reform) can diagnose"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

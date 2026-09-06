@@ -1,0 +1,1041 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-03",
+  "subject": "Economy",
+  "title": "INFLATION, PRICE INDICES AND BUSINESS CYCLES",
+  "short_route": "THREE PRICE-LEVEL STATES → CPI-WPI-DEFLATOR MATRIX → DEMAND-PULL CHAIN → SUPPLY-SHOCK CHAIN → OUTPUT GAP FORK → EXPECTATIONS LOOP",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g3\\economy-03_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-03-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "0512ab3ce8833700c4b9be5488e40c3870901f3e9cb484c6e6f7fceac5de7d55",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "THREE PRICE-LEVEL STATES",
+      "structural_type": "state-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "THREE PRICE-LEVEL STATES",
+          "role": "primary"
+        },
+        {
+          "text": "PRICES RISE",
+          "role": "outcome"
+        },
+        {
+          "text": "PRICES RISE MORE SLOWLY",
+          "role": "comparison"
+        },
+        {
+          "text": "GENERAL PRICE LEVEL FALLS",
+          "role": "evidence"
+        },
+        {
+          "text": "RATE CHANGE IS NOT LEVEL CHANGE",
+          "role": "caution"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "INFLATION IS A SUSTAINED INCREASE IN A CHOSEN PRICE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "INFLATION → prices rise",
+        "DISINFLATION → prices rise more slowly",
+        "DEFLATION → general price level falls",
+        "TRAP → rate change is not level change",
+        "MUST REMEMBER: Inflation is a sustained increase in a chosen price index; distinguish"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INFLATION → prices rise",
+            "DISINFLATION → prices rise more slowly"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DEFLATION → general price level falls",
+            "TRAP → rate change is not level change"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Inflation is a sustained increase in a chosen price index; distinguish...",
+            "INFLATION → prices rise"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRAP → rate change is not level change.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g3\\economy-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CPI-WPI-DEFLATOR MATRIX",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CPI-WPI-DEFLATOR MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "RETAIL BASKET + SERVICES",
+          "role": "outcome"
+        },
+        {
+          "text": "WHOLESALE GOODS, NO SERVICES",
+          "role": "caution"
+        },
+        {
+          "text": "GDP DEFLATOR",
+          "role": "evidence"
+        },
+        {
+          "text": "DOMESTIC FINAL OUTPUT",
+          "role": "primary"
+        },
+        {
+          "text": "POLICY ANCHOR",
+          "role": "outcome"
+        },
+        {
+          "text": "HEADLINE CPI",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CPI → retail basket + services",
+        "WPI → wholesale goods, no services",
+        "GDP DEFLATOR → domestic final output",
+        "POLICY ANCHOR → headline CPI"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CPI → retail basket + services",
+          "GDP DEFLATOR → domestic final output",
+          "CPI → retail basket + services"
+        ],
+        [
+          "WPI → wholesale goods, no services",
+          "POLICY ANCHOR → headline CPI",
+          "WPI → wholesale goods, no services"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CPI → retail basket + services",
+            "WPI → wholesale goods, no services"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GDP DEFLATOR → domestic final output",
+            "POLICY ANCHOR → headline CPI"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CPI → retail basket + services",
+            "WPI → wholesale goods, no services"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GDP DEFLATOR → domestic final output; POLICY ANCHOR → headline CPI.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g3\\economy-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "DEMAND-PULL CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "DEMAND-PULL CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "SPENDING AVAILABLE OUTPUT",
+          "role": "outcome"
+        },
+        {
+          "text": "INVENTORIES AND SPARE CAPACITY SHRINK",
+          "role": "comparison"
+        },
+        {
+          "text": "FIRMS RAISE PRICES",
+          "role": "evidence"
+        },
+        {
+          "text": "DEMAND RESTRAINT CAN WORK",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SPENDING AVAILABLE OUTPUT",
+        "inventories and spare capacity shrink",
+        "firms raise prices",
+        "POLICY → demand restraint can work"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SPENDING AVAILABLE OUTPUT",
+            "inventories and spare capacity shrink"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "firms raise prices",
+            "POLICY → demand restraint can work"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SPENDING AVAILABLE OUTPUT",
+            "inventories and spare capacity shrink"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "firms raise prices; POLICY → demand restraint can work.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g3\\economy-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SUPPLY-SHOCK CHAIN",
+      "structural_type": "bottleneck-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SUPPLY-SHOCK CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "LOGISTICS SHOCK",
+          "role": "outcome"
+        },
+        {
+          "text": "COSTS OR AVAILABILITY WORSEN",
+          "role": "comparison"
+        },
+        {
+          "text": "PRICES RISE DESPITE WEAK DEMAND",
+          "role": "evidence"
+        },
+        {
+          "text": "REPAIR SUPPLY + ANCHOR EXPECTATIONS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CROP / OIL / LOGISTICS SHOCK",
+        "costs or availability worsen",
+        "prices rise despite weak demand",
+        "POLICY → repair supply + anchor expectations"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CROP / OIL / LOGISTICS SHOCK",
+            "costs or availability worsen"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "prices rise despite weak demand",
+            "POLICY → repair supply + anchor expectations"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CROP / OIL / LOGISTICS SHOCK",
+            "costs or availability worsen"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "prices rise despite weak demand; POLICY → repair supply + anchor expectations.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g3\\economy-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "OUTPUT GAP FORK",
+      "structural_type": "gap-diagram",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OUTPUT GAP FORK",
+          "role": "primary"
+        },
+        {
+          "text": "NEGATIVE GAP",
+          "role": "outcome"
+        },
+        {
+          "text": "WEAK DEMAND",
+          "role": "comparison"
+        },
+        {
+          "text": "POSITIVE GAP",
+          "role": "evidence"
+        },
+        {
+          "text": "OVERHEATING RISK",
+          "role": "caution"
+        },
+        {
+          "text": "SUPPLY SHOCK",
+          "role": "outcome"
+        },
+        {
+          "text": "INFLATION CAN COEXIST WITH NEGATIVE GAP",
+          "role": "comparison"
+        },
+        {
+          "text": "INFLATION + WEAK GROWTH",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NEGATIVE GAP → weak demand",
+        "POSITIVE GAP → overheating risk",
+        "SUPPLY SHOCK → inflation can coexist with negative gap",
+        "STAGFLATION → inflation + weak growth"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NEGATIVE GAP → weak demand",
+            "POSITIVE GAP → overheating risk"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SUPPLY SHOCK → inflation can coexist with negative gap",
+            "STAGFLATION → inflation + weak growth"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NEGATIVE GAP → weak demand",
+            "POSITIVE GAP → overheating risk"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SUPPLY SHOCK → inflation can coexist with negative gap.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g3\\economy-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "EXPECTATIONS LOOP",
+      "structural_type": "feedback-loop",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "EXPECTATIONS LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "PRICE SHOCK",
+          "role": "outcome"
+        },
+        {
+          "text": "WAGE AND PRICE EXPECTATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "SECOND-ROUND ADJUSTMENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "PERSISTENCE BEYOND INITIAL SHOCK",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "PRICE LEVEL IS NOT INFLATION RATE, FALLING INFLATION IS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PRICE SHOCK",
+        "wage and price expectations",
+        "second-round adjustments",
+        "persistence beyond initial shock",
+        "CLOSE DISTINCTION: Price level is not inflation rate, falling inflation is not falling"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRICE SHOCK",
+            "wage and price expectations"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "second-round adjustments",
+            "persistence beyond initial shock"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Price level is not inflation rate, falling inflation is not falling...",
+            "PRICE SHOCK"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Price level is not inflation rate, falling inflation is not falling.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g3\\economy-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "POLICY ASSIGNMENT BOARD",
+      "structural_type": "instrument-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "POLICY ASSIGNMENT BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "RATES + LIQUIDITY + COMMUNICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "BUFFERS + TAX + TRADE",
+          "role": "comparison"
+        },
+        {
+          "text": "LOGISTICS + ENFORCEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "TOOL MUST MATCH SHOCK",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "RBI → rates + liquidity + communication",
+        "GOVERNMENT → buffers + tax + trade",
+        "STATES → logistics + enforcement",
+        "RULE → tool must match shock"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RBI → rates + liquidity + communication",
+            "GOVERNMENT → buffers + tax + trade"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STATES → logistics + enforcement",
+            "RULE → tool must match shock"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RBI → rates + liquidity + communication",
+            "GOVERNMENT → buffers + tax + trade"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATES → logistics + enforcement; RULE → tool must match shock.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g3\\economy-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "INDIA SHOCK TIMELINE",
+      "structural_type": "timeline-strip",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "INDIA SHOCK TIMELINE",
+          "role": "primary"
+        },
+        {
+          "text": "LOCKDOWN LOGISTICS SHOCK",
+          "role": "outcome"
+        },
+        {
+          "text": "GLOBAL COMMODITY SURGE",
+          "role": "comparison"
+        },
+        {
+          "text": "FORMAL CPI-TARGETING FRAMEWORK",
+          "role": "evidence"
+        },
+        {
+          "text": "DEMAND AND SUPPLY CAN CONFLICT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "2020 → lockdown logistics shock",
+        "2021-22 → global commodity surge",
+        "2016 → formal CPI-targeting framework",
+        "LESSON → demand and supply can conflict"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "2020 → lockdown logistics shock",
+            "2021-22 → global commodity surge"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "2016 → formal CPI-targeting framework",
+            "LESSON → demand and supply can conflict"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "2020 → lockdown logistics shock",
+            "2021-22 → global commodity surge"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "2016 → formal CPI-targeting framework; LESSON → demand and supply can conflict.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g3\\economy-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DISTRIBUTIONAL INCIDENCE",
+      "structural_type": "incidence-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DISTRIBUTIONAL INCIDENCE",
+          "role": "primary"
+        },
+        {
+          "text": "HIGH FOOD AND FUEL SHARE",
+          "role": "outcome"
+        },
+        {
+          "text": "FIXED INCOME",
+          "role": "comparison"
+        },
+        {
+          "text": "REAL PURCHASING POWER FALLS",
+          "role": "mechanism"
+        },
+        {
+          "text": "INDEXED WORKERS",
+          "role": "primary"
+        },
+        {
+          "text": "PARTIAL PROTECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "BORROWERS AND MSMES BEAR COSTS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "POOR → high food and fuel share",
+        "FIXED INCOME → real purchasing power falls",
+        "INDEXED WORKERS → partial protection",
+        "TIGHTENING → borrowers and MSMEs bear costs"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "POOR → high food and fuel share",
+            "FIXED INCOME → real purchasing power falls"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INDEXED WORKERS → partial protection",
+            "TIGHTENING → borrowers and MSMEs bear costs"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "POOR → high food and fuel share",
+            "FIXED INCOME → real purchasing power falls"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INDEXED WORKERS → partial protection; TIGHTENING → borrowers and MSMEs bear costs.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g3\\economy-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "BUSINESS-CYCLE RAIL",
+      "structural_type": "cycle-rail",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "BUSINESS-CYCLE RAIL",
+          "role": "mechanism"
+        },
+        {
+          "text": "POLICY DEPENDS ON OUTPUT GAP AND SHOCK",
+          "role": "outcome"
+        },
+        {
+          "text": "PHILLIPS CURVE",
+          "role": "comparison"
+        },
+        {
+          "text": "GUIDE, NOT LAW",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TROUGH → RECOVERY → EXPANSION",
+        "PEAK → SLOWDOWN / RECESSION",
+        "POLICY DEPENDS ON output gap and shock",
+        "PHILLIPS CURVE → guide, not law"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TROUGH → RECOVERY → EXPANSION",
+            "PEAK → SLOWDOWN / RECESSION"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POLICY DEPENDS ON output gap and shock",
+            "PHILLIPS CURVE → guide, not law"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TROUGH → RECOVERY → EXPANSION",
+            "PEAK → SLOWDOWN / RECESSION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "POLICY DEPENDS ON output gap and shock; PHILLIPS CURVE → guide, not law.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g3\\economy-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INDEX-SERIES BREAK",
+      "structural_type": "timeline-gate",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "INDEX-SERIES BREAK",
+          "role": "primary"
+        },
+        {
+          "text": "CPI 2024=100",
+          "role": "outcome"
+        },
+        {
+          "text": "RELEASES FROM JAN 2026",
+          "role": "comparison"
+        },
+        {
+          "text": "WPI 2022-23 BASE",
+          "role": "evidence"
+        },
+        {
+          "text": "MAY 2026 ONWARD",
+          "role": "primary"
+        },
+        {
+          "text": "NEW BASKET",
+          "role": "outcome"
+        },
+        {
+          "text": "NEW INFLATION",
+          "role": "comparison"
+        },
+        {
+          "text": "NO CASUAL LEVEL SPLICING",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CPI 2024=100 → releases from JAN 2026",
+        "WPI 2022-23 base → MAY 2026 onward",
+        "NEW BASKET != NEW INFLATION",
+        "RULE → no casual level splicing"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CPI 2024=100 → releases from JAN 2026",
+            "WPI 2022-23 base → MAY 2026 onward"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NEW BASKET != NEW INFLATION",
+            "RULE → no casual level splicing"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CPI 2024=100 → releases from JAN 2026",
+            "WPI 2022-23 base → MAY 2026 onward"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NEW BASKET != NEW INFLATION; RULE → no casual level splicing.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g3\\economy-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "INFLATION ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "INFLATION ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "IDENTIFY INDEX + COMPONENT",
+          "role": "outcome"
+        },
+        {
+          "text": "DIAGNOSE DEMAND",
+          "role": "comparison"
+        },
+        {
+          "text": "TRACE EXPECTATIONS + DISTRIBUTION",
+          "role": "evidence"
+        },
+        {
+          "text": "PRESCRIBE COORDINATED POLICY MIX",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "STATE INDEX, WEIGHTS/BASE, MONTH OR YEAR",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "IDENTIFY index + component",
+        "DIAGNOSE demand / cost / supply",
+        "TRACE expectations + distribution",
+        "PRESCRIBE coordinated policy mix",
+        "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State index, weights/base, month or year"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IDENTIFY index + component",
+            "DIAGNOSE demand / cost / supply"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRACE expectations + distribution",
+            "PRESCRIBE coordinated policy mix"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State index, weights/base, month or year...",
+            "IDENTIFY index + component"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State index, weights/base, month or year.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\03_Inflation-Price-Indices-and-Business-Cycles.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-03\\g3\\economy-03_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DISTINGUISH FIRST-ROUND SUPPLY SHOCKS FROM SECOND-ROUND GENERALISATION THROUGH WAGES",
+          "role": "outcome"
+        },
+        {
+          "text": "REAL INTEREST RATE IS APPROXIMATELY THE NOMINAL RATE MINUS",
+          "role": "comparison"
+        },
+        {
+          "text": "INDEX WEIGHTS, BASE YEARS, OUTLET COVERAGE, QUALITY ADJUSTMENT AND",
+          "role": "evidence"
+        },
+        {
+          "text": "A CPI OR WPI BASE REVISION CHANGES WEIGHTS, COVERAGE",
+          "role": "primary"
+        },
+        {
+          "text": "OUTPUT GAPS HELP EXPLAIN DEMAND PRESSURE BUT ARE UNCERTAIN",
+          "role": "outcome"
+        },
+        {
+          "text": "FOOD INFLATION IN INDIA HAS STRONG WEATHER, STORAGE, TRADE-POLICY",
+          "role": "comparison"
+        },
+        {
+          "text": "BUSINESS CYCLES MAY BE DEMAND-LED, FINANCIAL-CYCLE-LED, INVENTORY-LED OR SUPPLY-LED",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Distinguish first-round supply shocks from second-round generalisation through wages,",
+            "CAUTION: Real interest rate is approximately the nominal rate minus expected inflation, not",
+            "CAUTION: Index weights, base years, outlet coverage, quality adjustment and substitution affect",
+            "CAUTION: A CPI or WPI base revision changes weights, coverage and sometimes method; it is not"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Output gaps help explain demand pressure but are uncertain and revised in real time.",
+            "CAUTION: Food inflation in India has strong weather, storage, trade-policy and inter-state",
+            "CAUTION: Business cycles may be demand-led, financial-cycle-led, inventory-led or supply-led,",
+            "MoSPI: compiles CPI and its consumer-group and spatial components."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Office of the Economic Adviser: compiles WPI for wholesale goods.",
+            "RBI and MPC: target headline CPI and calibrate the policy rate and communication.",
+            "Union and state food-management agencies: use stocks, logistics, trade and anti",
+            "CAUTION: A weather-driven vegetable spike can lift headline CPI even when demand-sensitive core"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

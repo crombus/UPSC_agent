@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "topic_key": "geography-30-primary-economic-activities-agriculture",
+  "record_id": "geography-30-primary-economic-activities-agriculture:learner-v2:g15",
+  "approval": false,
+  "result": "passed",
+  "ten_gates": {
+    "literal_syllabus": true,
+    "implied_prerequisites": true,
+    "textbook_taxonomy": true,
+    "pyq_demands": true,
+    "hostile_absence_search": true,
+    "canonical_owner": true,
+    "cross_owner_boundaries": true,
+    "answer_architecture": true,
+    "factual_verification": true,
+    "dependent_artifacts": true
+  },
+  "checks": {
+    "approval": true,
+    "h2": true,
+    "pyq": true,
+    "answers": true,
+    "rotation": true,
+    "flows": true,
+    "layout": true,
+    "library": true,
+    "reconciliation": true,
+    "validator": true,
+    "authoritative_live_sources": true
+  },
+  "metrics": {
+    "question_count": 6,
+    "mcq_count": 24,
+    "mcq_keys": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D",
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "main_pages": 80,
+    "workbook_pages": 33,
+    "main_layout": {
+      "page_count": 80,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "workbook_layout": {
+      "page_count": 33,
+      "blank_pages": [],
+      "near_empty_pages": [],
+      "clipped_text_pages": [],
+      "replacement_glyph_pages": []
+    },
+    "ascii_panel_count": 12,
+    "graphical_stage_count": 12,
+    "geography_part_b_review_control_count": 3,
+    "learner_session_count": 15,
+    "visual_first_count": 15,
+    "targeted_tests": 106,
+    "deliverable_hashes_checked": 9
+  },
+  "deliverable_hashes": {
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\geography-30-primary-economic-activities-agriculture_Complete-Learning-Session_2026-09-05.md": "9454be1a83837b8591257efa81929ddda0830cf2f2b09f999bea4cf960cecb1e",
+    "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\geography-30-primary-economic-activities-agriculture_Solved-Practice-Workbook_2026-09-05.md": "46550e1a6d8d6c25810eb0da4cb57cba9f9037b19ecfa7b1d0d3168a97a40766",
+    "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\geography-30-primary-economic-activities-agriculture_Complete-Learning-Session_2026-09-05.pdf": "1ca1bf7662c3fce838e046e1263784babc3f4e1cad8d2d89b482c67acf7fe567",
+    "notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\geography-30-primary-economic-activities-agriculture_Solved-Practice-Workbook_2026-09-05.pdf": "d4c3c3fb1ac8acb4b63493c884146fe9b58004267776e0341c849835584d3449",
+    "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-30\\carvaka-g15\\master.png": "773a54380e144f0239f051c9f0f5b6f54a5096a08ef087c5bb661a8a9f949ec8",
+    "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-30\\carvaka-g15\\poster.pdf": "39871a7b4662381bedcc9dcf353da2106b6c37d4ac9846a05552d352b2da3292",
+    "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-30\\carvaka-g15\\tiled.pdf": "c88fd79c6d801063baea6e4fc84bc27711fd8e447e19b0af510d44081fece4e4",
+    "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-30\\carvaka-g15\\ascii-master.pdf": "c51d955513242a11c22c275a4913f2ae39062197e6c6a8033b2d82b1e56715da",
+    "notes\\Learner-v2-Refreshed\\Geography\\GEO\\flowcharts\\geo-30\\carvaka-g15\\ascii-master.txt": "9937ea92a88f639286f67f333fac2fea0412a56685390d5cb8fe02ffe34e3af3"
+  },
+  "deliverable_hash_errors": {},
+  "reconciled_topic": {
+    "topic_key": "geography-30-primary-economic-activities-agriculture",
+    "title": "Primary Economic Activities: Agriculture",
+    "old_record_id": "geography-30-primary-economic-activities-agriculture:learner-v2:g14",
+    "new_record_id": "geography-30-primary-economic-activities-agriculture:learner-v2:g15",
+    "old_generation": 14,
+    "new_generation": 15,
+    "old_score": 97,
+    "new_score": 98,
+    "scores": {
+      "complete_learning_session": 39,
+      "solved_practice_workbook": 30,
+      "graphical_flowchart": 15,
+      "ascii_master_flowchart": 14,
+      "total": 98
+    },
+    "approval": false,
+    "status": "passed",
+    "validation": "upsc-ai-kit\\manifests\\exports\\geography-30-primary-economic-activities-agriculture-learner-v2-g15-2026-09-05-validation.json",
+    "review_started_at": "2026-09-05T06:37:07.013751+00:00",
+    "identities": {
+      "export": "geography-30-primary-economic-activities-agriculture:learner-v2:g15",
+      "master": "geography-30-primary-economic-activities-agriculture:learner-v2:g15",
+      "review": "geography-30-primary-economic-activities-agriculture:learner-v2:g15"
+    },
+    "generations": {
+      "export": 15,
+      "master": 15,
+      "review": 15
+    },
+    "review_score": 98,
+    "review_state": "passed",
+    "approval_states": {
+      "export": false,
+      "master": "Approval pending",
+      "review": false
+    },
+    "mismatch_count": 0
+  },
+  "next_topic_key": "geography-31"
+}

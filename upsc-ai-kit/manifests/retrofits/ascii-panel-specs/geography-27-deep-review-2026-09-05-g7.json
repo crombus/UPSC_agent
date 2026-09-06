@@ -1,0 +1,297 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-09-05",
+  "workflow": "geography-deep-review-immutable-successor",
+  "constraints": {
+    "panel_count_per_topic": 12,
+    "max_line_width": 100,
+    "manual_topic_specific": true,
+    "complete_core_before_optional": true,
+    "same_source_ledger_as_session_and_workbook": true,
+    "approval": false,
+    "map_and_current_status_discipline": true,
+    "human_economic_regional_spatial_control": true,
+    "models_india_data_policy_chronology_control": true
+  },
+  "topics": [
+    {
+      "topic_key": "geography-27",
+      "display_title": "Migration Theories and Patterns (India)",
+      "active_generation": 7,
+      "source_session": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g7\\geography-27_Complete-Learning-Session_2026-09-05.md",
+      "panel_count": 12,
+      "panels": [
+        {
+          "title": "Migration concept firewall",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "MIGRATION -> change in usual residence across a meaningful boundary",
+            "IMMIGRATION -> movement into a country or receiving region",
+            "EMIGRATION -> movement out of a country or sending region",
+            "DATA RULE -> place of birth and last usual residence answer different questions",
+            "MUST REMEMBER: Migration analysis joins Ravenstein's regularities, Lee's",
+            "  push-pull-intervening-obstacle framework, gravity and distance-decay, Zelinsky's mobility",
+            "  transition, Harris-Todaro expected-income logic, network/cumulative causation and segmented",
+            "  labour demand to India's marriage, work, education, distress and circulation streams.",
+            "MUST REMEMBER: Migration analysis joins Ravenstein's regularities, Lee's",
+            "  push-pull-intervening-obstacle framework, gravity and distance-decay, Zelinsky's mobility",
+            "  transition, Harris-Todaro expected-income logic, network/cumulative causation and segmented",
+            "  labour demand to India's marriage, work, education, distress and circulation streams.",
+            "MUST REMEMBER: Migration analysis joins Ravenstein's regularities, Lee's",
+            "  push-pull-intervening-obstacle framework, gravity and distance-decay, Zelinsky's mobility",
+            "  transition, Harris-Todaro expected-income logic, network/cumulative causation and segmented",
+            "  labour demand to India's marriage, work, education, distress and circulation streams."
+          ],
+          "source_references": [
+            "Migration definition",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g5\\geography-27_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g6\\geography-27_Complete-Learning-Session_2026-09-05.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g7\\geography-27_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Push-pull-obstacle model",
+          "structural_type": "decision-tree",
+          "ascii_lines": [
+            "ORIGIN PUSH -> job loss, conflict, debt, disaster, social pressure",
+            "DESTINATION PULL -> wages, safety, education, amenities, networks",
+            "INTERVENING OBSTACLES -> distance, cost, borders, information gaps",
+            "SELECTIVITY -> age, gender, class and skills shape who actually moves"
+          ],
+          "source_references": [
+            "Push-pull logic",
+            "Lee framework",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g5\\geography-27_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g6\\geography-27_Complete-Learning-Session_2026-09-05.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g7\\geography-27_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Ravenstein law strip",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "MOST MOVES -> short distance rather than very long distance",
+            "STEP MIGRATION -> village to town to city to metropolis",
+            "COUNTER-STREAM -> each major flow generates some reverse movement",
+            "LIMIT -> use as an analytical guide, not as an absolute rule"
+          ],
+          "source_references": [
+            "Ravenstein laws",
+            "Step migration chain",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g5\\geography-27_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g6\\geography-27_Complete-Learning-Session_2026-09-05.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g7\\geography-27_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Distance-decay and step migration",
+          "structural_type": "causal-system",
+          "ascii_lines": [
+            "DISTANCE RISES -> cost, uncertainty and social risk rise",
+            "OPPORTUNITY NODES -> nearer towns intercept part of the flow",
+            "NETWORKS -> reduce cost and keep corridors alive",
+            "RESULT -> many migrants move in stages rather than one leap"
+          ],
+          "source_references": [
+            "Distance-decay principle",
+            "Step migration chain",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g5\\geography-27_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g6\\geography-27_Complete-Learning-Session_2026-09-05.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g7\\geography-27_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Migration stream matrix",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "RURAL-RURAL -> marriage, local farm labour, nearby relocation",
+            "RURAL-URBAN -> labour, services, education, construction",
+            "URBAN-URBAN -> professional, business and higher-education mobility",
+            "URBAN-RURAL -> return migration, retirement or peri-urban spillover"
+          ],
+          "source_references": [
+            "Stream classification",
+            "Rural-rural dominance",
+            "Rural-urban urbanisation link",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g5\\geography-27_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g6\\geography-27_Complete-Learning-Session_2026-09-05.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g7\\geography-27_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Source-destination balance sheet",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "SOURCE -> reduced pressure, remittances, but loss of young workers",
+            "DESTINATION -> labour gain, market expansion, but service pressure",
+            "AGE-SEX EFFECT -> selective migration alters both ends differently",
+            "VERDICT -> migration redistributes both opportunity and vulnerability"
+          ],
+          "source_references": [
+            "Source-destination effects",
+            "Remittance and labour restructuring",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g5\\geography-27_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g6\\geography-27_Complete-Learning-Session_2026-09-05.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g7\\geography-27_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "India official snapshot",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "ALL-INDIA RATE -> 28.9% in MoSPI Migration in India 2020-21",
+            "RURAL RATE -> 26.5% | URBAN RATE -> 34.9%",
+            "INTRASTATE -> 87.5% | INTERSTATE -> 12.5%",
+            "RULE -> label the source-year before using any percentage"
+          ],
+          "source_references": [
+            "MoSPI all-India migration rate",
+            "Rural and urban migration rates",
+            "Intrastate versus interstate",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g5\\geography-27_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g6\\geography-27_Complete-Learning-Session_2026-09-05.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g7\\geography-27_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Marriage migration dominance",
+          "structural_type": "comparison-table",
+          "ascii_lines": [
+            "FEMALE MIGRANTS DUE TO MARRIAGE -> 86.8% in MoSPI 2020-21",
+            "ANALYTICAL RESULT -> raw migration totals are not equal to labour migration",
+            "RURAL-RURAL STREAM -> remains large because marriage mobility is large",
+            "EXAM USE -> separate social migration from labour migration explicitly"
+          ],
+          "source_references": [
+            "Marriage migration dominance",
+            "Rural-rural dominance",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g5\\geography-27_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g6\\geography-27_Complete-Learning-Session_2026-09-05.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g7\\geography-27_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "India corridor map",
+          "structural_type": "spatial-map",
+          "ascii_lines": [
+            "SENDING BELTS -> Bihar, Uttar Pradesh, Odisha and east-central regions",
+            "GAINER ZONES -> Maharashtra, Gujarat, Delhi, Haryana and Punjab",
+            "CURRENT LOGIC -> labour moves toward industrial, farm and service corridors",
+            "QUALIFIER -> the same corridor may mix opportunity and distress migration"
+          ],
+          "source_references": [
+            "Net gainers and senders",
+            "Corridor logic",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g5\\geography-27_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g6\\geography-27_Complete-Learning-Session_2026-09-05.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g7\\geography-27_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Circular migration and undercount",
+          "structural_type": "hazard-flow",
+          "ascii_lines": [
+            "SEASONAL MOVEMENT -> brick kilns, harvesting, construction, informal work",
+            "USUAL-RESIDENCE DATA -> can miss repeated short-duration mobility",
+            "POLICY EFFECT -> portability of welfare becomes a major issue",
+            "CITY EFFECT -> rental insecurity and service pressure stay concentrated",
+            "CLOSE DISTINCTION: Migrant stock differs from flow, lifetime from last-residence migration,",
+            "  internal from international movement, seasonal/circular from permanent relocation, and",
+            "  Census reason-for-migration categories from causal explanation; women recorded under",
+            "  marriage can also be workers, so one response category must not erase economic agency.",
+            "CLOSE DISTINCTION: Migrant stock differs from flow, lifetime from last-residence migration,",
+            "  internal from international movement, seasonal/circular from permanent relocation, and",
+            "  Census reason-for-migration categories from causal explanation; women recorded under",
+            "  marriage can also be workers, so one response category must not erase economic agency.",
+            "CLOSE DISTINCTION: Migrant stock differs from flow, lifetime from last-residence migration,",
+            "  internal from international movement, seasonal/circular from permanent relocation, and",
+            "  Census reason-for-migration categories from causal explanation; women recorded under",
+            "  marriage can also be workers, so one response category must not erase economic agency."
+          ],
+          "source_references": [
+            "Circular and seasonal migration",
+            "Circular undercount and urban stress",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g5\\geography-27_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g6\\geography-27_Complete-Learning-Session_2026-09-05.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g7\\geography-27_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Large-city attraction logic",
+          "structural_type": "process-flow",
+          "ascii_lines": [
+            "DIVERSE JOB SET -> big cities offer multiple labour-market entry points",
+            "NETWORKS -> earlier migrants lower cost and risk for later migrants",
+            "TRANSPORT + SERVICES -> large nodes compress search costs",
+            "COUNTERPOINT -> some nearer towns intercept flows as opportunities expand",
+            "EVIDENCE LIMIT: India patterns require Bihar–Uttar Pradesh source belts,",
+            "  Delhi–NCR/Mumbai/Surat/Bengaluru destinations, Kerala–Gulf corridors, tribal and",
+            "  drought-prone seasonal streams, remittances and care/skill loss; Census 2011 is the latest",
+            "  completed census baseline as of the review date, while surveys and administrative records",
+            "  are partial.",
+            "EVIDENCE LIMIT: India patterns require Bihar–Uttar Pradesh source belts,",
+            "  Delhi–NCR/Mumbai/Surat/Bengaluru destinations, Kerala–Gulf corridors, tribal and",
+            "  drought-prone seasonal streams, remittances and care/skill loss; Census 2011 is the latest",
+            "  completed census baseline as of the review date, while surveys and administrative records",
+            "  are partial.",
+            "EVIDENCE LIMIT: India patterns require Bihar–Uttar Pradesh source belts,",
+            "  Delhi–NCR/Mumbai/Surat/Bengaluru destinations, Kerala–Gulf corridors, tribal and",
+            "  drought-prone seasonal streams, remittances and care/skill loss; Census 2011 is the latest",
+            "  completed census baseline as of the review date, while surveys and administrative records",
+            "  are partial."
+          ],
+          "source_references": [
+            "Rural-urban urbanisation link",
+            "Corridor logic",
+            "Circular undercount and urban stress",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g5\\geography-27_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g6\\geography-27_Complete-Learning-Session_2026-09-05.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g7\\geography-27_Complete-Learning-Session_2026-09-05.md"
+          ]
+        },
+        {
+          "title": "Migration answer spine",
+          "structural_type": "answer-spine",
+          "ascii_lines": [
+            "DEFINE -> residence rule, stream type and whether migration is internal or international",
+            "EXPLAIN -> push, pull, obstacles, distance-decay and step migration",
+            "MAP -> marriage-heavy rural-rural and labour-heavy corridor movements in India",
+            "QUALIFY -> intrastate dominance, remittances, undercount and verified PYQ routing"
+          ],
+          "source_references": [
+            "Migration definition",
+            "Intrastate versus interstate",
+            "Remittance and labour restructuring",
+            "upsc-ai-kit\\knowledge\\Geography\\basic\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Geography\\advanced\\27_Migration-Theories-and-Patterns-India.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g5\\geography-27_Complete-Learning-Session_2026-09-02.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g6\\geography-27_Complete-Learning-Session_2026-09-05.md",
+            "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-27\\g7\\geography-27_Complete-Learning-Session_2026-09-05.md"
+          ]
+        }
+      ]
+    }
+  ]
+}
