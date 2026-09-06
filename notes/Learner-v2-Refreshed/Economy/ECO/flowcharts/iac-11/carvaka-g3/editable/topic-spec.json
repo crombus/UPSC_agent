@@ -1,0 +1,1077 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-11",
+  "subject": "Economy",
+  "title": "LAND REFORMS, GREEN REVOLUTION AND CROPPING SYSTEMS",
+  "short_route": "LAND-REFORM INSTRUMENT MAP → LAW-TO-OUTCOME RAIL → STATE REFORM COMPARISON → GREEN-REVOLUTION PACKAGE → CONCENTRATION LEGACY → CROPPING METRICS FORK",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-11\\g3\\economy-11_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-11-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "b5cf25a3e2b1b37ca258b44a0d80c78fc5eeeb63e5ab930a35dedfd7e3eeb9be",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "LAND-REFORM INSTRUMENT MAP",
+      "structural_type": "classification-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LAND-REFORM INSTRUMENT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "INTERMEDIARY ABOLITION",
+          "role": "outcome"
+        },
+        {
+          "text": "CULTIVATOR-STATE LINK",
+          "role": "institution"
+        },
+        {
+          "text": "RENT + SECURITY + RECORDED CULTIVATOR",
+          "role": "evidence"
+        },
+        {
+          "text": "PERMISSIBLE HOLDING + SURPLUS LAND",
+          "role": "primary"
+        },
+        {
+          "text": "WORKABLE PARCELS + ENFORCEABLE RIGHTS",
+          "role": "outcome"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "LAND REFORM, TENANCY, CEILINGS, CONSOLIDATION, IRRIGATION, SEEDS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INTERMEDIARY ABOLITION → cultivator-state link",
+        "TENANCY → rent + security + recorded cultivator",
+        "CEILINGS → permissible holding + surplus land",
+        "CONSOLIDATION / RECORDS → workable parcels + enforceable rights",
+        "MUST REMEMBER: Land reform, tenancy, ceilings, consolidation, irrigation, seeds"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INTERMEDIARY ABOLITION → cultivator-state link",
+            "TENANCY → rent + security + recorded cultivator"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CEILINGS → permissible holding + surplus land",
+            "CONSOLIDATION / RECORDS → workable parcels + enforceable rights"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Land reform, tenancy, ceilings, consolidation, irrigation, seeds,...",
+            "INTERMEDIARY ABOLITION → cultivator-state link"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Land reform, tenancy, ceilings, consolidation, irrigation, seeds,.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-11\\g3\\economy-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "LAW-TO-OUTCOME RAIL",
+      "structural_type": "implementation-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LAW-TO-OUTCOME RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "STATE LAW",
+          "role": "institution"
+        },
+        {
+          "text": "ACCURATE RECORDS",
+          "role": "comparison"
+        },
+        {
+          "text": "LOCAL ADMINISTRATION + MOBILISATION",
+          "role": "evidence"
+        },
+        {
+          "text": "ACTUAL TENURE",
+          "role": "primary"
+        },
+        {
+          "text": "REDISTRIBUTION OUTCOME",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "STATE LAW",
+        "ACCURATE RECORDS",
+        "LOCAL ADMINISTRATION + MOBILISATION",
+        "ACTUAL TENURE / REDISTRIBUTION OUTCOME"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STATE LAW",
+            "ACCURATE RECORDS"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LOCAL ADMINISTRATION + MOBILISATION",
+            "ACTUAL TENURE / REDISTRIBUTION OUTCOME"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STATE LAW",
+            "ACCURATE RECORDS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LOCAL ADMINISTRATION + MOBILISATION; ACTUAL TENURE / REDISTRIBUTION OUTCOME.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-11\\g3\\economy-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "STATE REFORM COMPARISON",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STATE REFORM COMPARISON",
+          "role": "institution"
+        },
+        {
+          "text": "OPERATION BARGA",
+          "role": "outcome"
+        },
+        {
+          "text": "SHARECROPPER RECORDING",
+          "role": "comparison"
+        },
+        {
+          "text": "TENANCY ABOLITION + CEILING DEPTH",
+          "role": "evidence"
+        },
+        {
+          "text": "J&K 1950",
+          "role": "primary"
+        },
+        {
+          "text": "EARLY ESTATE RESTRUCTURING",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPARE CONTEXT; DO NOT COPY OUTCOMES MECHANICALLY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "OPERATION BARGA → sharecropper recording",
+        "KERALA → tenancy abolition + ceiling depth",
+        "J&K 1950 → early estate restructuring",
+        "COMPARE context; do not copy outcomes mechanically"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "OPERATION BARGA → sharecropper recording",
+          "J&K 1950 → early estate restructuring",
+          "OPERATION BARGA → sharecropper recording"
+        ],
+        [
+          "KERALA → tenancy abolition + ceiling depth",
+          "COMPARE context; do not copy outcomes mechanically",
+          "KERALA → tenancy abolition + ceiling depth"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPERATION BARGA → sharecropper recording",
+            "KERALA → tenancy abolition + ceiling depth"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "J&K 1950 → early estate restructuring",
+            "COMPARE context; do not copy outcomes mechanically"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OPERATION BARGA → sharecropper recording",
+            "KERALA → tenancy abolition + ceiling depth"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "J&K 1950 → early estate restructuring; COMPARE context; do not copy outcomes mechanically.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-11\\g3\\economy-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "GREEN-REVOLUTION PACKAGE",
+      "structural_type": "input-wheel",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "GREEN-REVOLUTION PACKAGE",
+          "role": "primary"
+        },
+        {
+          "text": "HYV SEED + ASSURED WATER",
+          "role": "outcome"
+        },
+        {
+          "text": "FERTILISER + CREDIT + EXTENSION",
+          "role": "comparison"
+        },
+        {
+          "text": "PROCUREMENT + PRICE SUPPORT",
+          "role": "evidence"
+        },
+        {
+          "text": "PACKAGE EFFECT",
+          "role": "primary"
+        },
+        {
+          "text": "YIELD + MARKETED SURPLUS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "HYV SEED + ASSURED WATER",
+        "FERTILISER + CREDIT + EXTENSION",
+        "PROCUREMENT + PRICE SUPPORT",
+        "PACKAGE EFFECT → yield + marketed surplus"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HYV SEED + ASSURED WATER",
+            "FERTILISER + CREDIT + EXTENSION"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROCUREMENT + PRICE SUPPORT",
+            "PACKAGE EFFECT → yield + marketed surplus"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "HYV SEED + ASSURED WATER",
+            "FERTILISER + CREDIT + EXTENSION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROCUREMENT + PRICE SUPPORT; PACKAGE EFFECT → yield + marketed surplus.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-11\\g3\\economy-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CONCENTRATION LEGACY",
+      "structural_type": "cause-effect-board",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONCENTRATION LEGACY",
+          "role": "primary"
+        },
+        {
+          "text": "IRRIGATED NORTHWEST",
+          "role": "outcome"
+        },
+        {
+          "text": "RICE SPECIALISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "FOODGRAIN SURPLUS",
+          "role": "evidence"
+        },
+        {
+          "text": "GROUNDWATER + SOIL + REGIONAL STRESS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "IRRIGATED NORTHWEST",
+        "WHEAT / RICE SPECIALISATION",
+        "FOODGRAIN SURPLUS",
+        "GROUNDWATER + SOIL + REGIONAL STRESS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IRRIGATED NORTHWEST",
+            "WHEAT / RICE SPECIALISATION"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FOODGRAIN SURPLUS",
+            "GROUNDWATER + SOIL + REGIONAL STRESS"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "IRRIGATED NORTHWEST",
+            "WHEAT / RICE SPECIALISATION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FOODGRAIN SURPLUS; GROUNDWATER + SOIL + REGIONAL STRESS.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-11\\g3\\economy-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "CROPPING METRICS FORK",
+      "structural_type": "ratio-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CROPPING METRICS FORK",
+          "role": "primary"
+        },
+        {
+          "text": "CROP-AREA DISTRIBUTION",
+          "role": "outcome"
+        },
+        {
+          "text": "GROSS CROPPED",
+          "role": "comparison"
+        },
+        {
+          "text": "NET SOWN AREA",
+          "role": "evidence"
+        },
+        {
+          "text": "ALLIED SHIFT",
+          "role": "primary"
+        },
+        {
+          "text": "EACH NEEDS STATED TIME + GEOGRAPHY",
+          "role": "outcome"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "LAND RECORD IS NOT TITLE GUARANTEE, ABOLITION IS NOT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PATTERN → crop-area distribution",
+        "INTENSITY → gross cropped / net sown area",
+        "DIVERSIFICATION → crop / allied shift",
+        "EACH needs stated time + geography",
+        "CLOSE DISTINCTION: Land record is not title guarantee, abolition is not complete"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PATTERN → crop-area distribution",
+            "INTENSITY → gross cropped / net sown area"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DIVERSIFICATION → crop / allied shift",
+            "EACH needs stated time + geography"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Land record is not title guarantee, abolition is not complete...",
+            "PATTERN → crop-area distribution"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Land record is not title guarantee, abolition is not complete.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-11\\g3\\economy-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DIVERSIFICATION DECISION BOARD",
+      "structural_type": "decision-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DIVERSIFICATION DECISION BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "AGRO-CLIMATE + WATER",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPECTED RETURN + VOLATILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "CREDIT + INSURANCE + EXTENSION",
+          "role": "evidence"
+        },
+        {
+          "text": "STORAGE + PROCESSING + BUYER ACCESS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "AGRO-CLIMATE + WATER",
+        "EXPECTED RETURN + VOLATILITY",
+        "CREDIT + INSURANCE + EXTENSION",
+        "STORAGE + PROCESSING + BUYER ACCESS"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "AGRO-CLIMATE + WATER",
+          "CREDIT + INSURANCE + EXTENSION",
+          "AGRO-CLIMATE + WATER"
+        ],
+        [
+          "EXPECTED RETURN + VOLATILITY",
+          "STORAGE + PROCESSING + BUYER ACCESS",
+          "EXPECTED RETURN + VOLATILITY"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AGRO-CLIMATE + WATER",
+            "EXPECTED RETURN + VOLATILITY"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CREDIT + INSURANCE + EXTENSION",
+            "STORAGE + PROCESSING + BUYER ACCESS"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AGRO-CLIMATE + WATER",
+            "EXPECTED RETURN + VOLATILITY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CREDIT + INSURANCE + EXTENSION; STORAGE + PROCESSING + BUYER ACCESS.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-11\\g3\\economy-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MILLET TRANSITION RAIL",
+      "structural_type": "transition-flow",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MILLET TRANSITION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "DRYLAND SUITABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "LOWER WATER EXPOSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "RESILIENCE VALUE",
+          "role": "evidence"
+        },
+        {
+          "text": "NEED PROCESSING + PROCUREMENT + DEMAND",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DRYLAND SUITABILITY",
+        "LOWER WATER EXPOSURE",
+        "NUTRITION / RESILIENCE VALUE",
+        "NEED processing + procurement + demand"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DRYLAND SUITABILITY",
+            "LOWER WATER EXPOSURE"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NUTRITION / RESILIENCE VALUE",
+            "NEED processing + procurement + demand"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DRYLAND SUITABILITY",
+            "LOWER WATER EXPOSURE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NUTRITION / RESILIENCE VALUE; NEED processing + procurement + demand.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-11\\g3\\economy-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "WATER-CROP LOCK-IN",
+      "structural_type": "feedback-loop",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "WATER-CROP LOCK-IN",
+          "role": "primary"
+        },
+        {
+          "text": "PROCUREMENT + CHEAP PUMPING",
+          "role": "outcome"
+        },
+        {
+          "text": "WATER-INTENSIVE CROP CHOICE",
+          "role": "comparison"
+        },
+        {
+          "text": "SOIL STRESS",
+          "role": "evidence"
+        },
+        {
+          "text": "DIVERSIFICATION BECOMES HARDER",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PROCUREMENT + CHEAP PUMPING",
+        "WATER-INTENSIVE CROP CHOICE",
+        "AQUFER / SOIL STRESS",
+        "DIVERSIFICATION BECOMES HARDER"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROCUREMENT + CHEAP PUMPING",
+            "WATER-INTENSIVE CROP CHOICE"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AQUFER / SOIL STRESS",
+            "DIVERSIFICATION BECOMES HARDER"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PROCUREMENT + CHEAP PUMPING",
+            "WATER-INTENSIVE CROP CHOICE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WATER-INTENSIVE CROP CHOICE; AQUFER / SOIL STRESS; DIVERSIFICATION BECOMES HARDER.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-11\\g3\\economy-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "SCIENTIST-ENGINEER DISTINCTION",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SCIENTIST-ENGINEER DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "SLUICE GATES + BLOCK IRRIGATION",
+          "role": "outcome"
+        },
+        {
+          "text": "SEMI-DWARF CROP ADAPTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSURED WATER SYSTEMS",
+          "role": "evidence"
+        },
+        {
+          "text": "CROP SCIENCE",
+          "role": "primary"
+        },
+        {
+          "text": "YIELD RESPONSE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "VISVESVARAYA → sluice gates + block irrigation",
+        "SWAMINATHAN → semi-dwarf crop adaptation",
+        "ENGINEERING → assured water systems",
+        "CROP SCIENCE → yield response"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "VISVESVARAYA → sluice gates + block irrigation",
+          "ENGINEERING → assured water systems",
+          "VISVESVARAYA → sluice gates + block irrigation"
+        ],
+        [
+          "SWAMINATHAN → semi-dwarf crop adaptation",
+          "CROP SCIENCE → yield response",
+          "SWAMINATHAN → semi-dwarf crop adaptation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "VISVESVARAYA → sluice gates + block irrigation",
+            "SWAMINATHAN → semi-dwarf crop adaptation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ENGINEERING → assured water systems",
+            "CROP SCIENCE → yield response"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VISVESVARAYA → sluice gates + block irrigation",
+            "SWAMINATHAN → semi-dwarf crop adaptation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ENGINEERING → assured water systems; CROP SCIENCE → yield response.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-11\\g3\\economy-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "AGRARIAN TRADE-OFFS",
+      "structural_type": "trade-off-board",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "AGRARIAN TRADE-OFFS",
+          "role": "primary"
+        },
+        {
+          "text": "SECURE TENURE",
+          "role": "outcome"
+        },
+        {
+          "text": "OWNER CONCERNS",
+          "role": "comparison"
+        },
+        {
+          "text": "VULNERABLE-USER SAFEGUARDS",
+          "role": "evidence"
+        },
+        {
+          "text": "HIGH YIELD",
+          "role": "primary"
+        },
+        {
+          "text": "FOOD SECURITY",
+          "role": "outcome"
+        },
+        {
+          "text": "ECOLOGICAL COST",
+          "role": "comparison"
+        },
+        {
+          "text": "MARKET RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SECURE TENURE → investment / owner concerns",
+        "CONSOLIDATION → scale / vulnerable-user safeguards",
+        "HIGH YIELD → food security / ecological cost",
+        "DIVERSIFICATION → resilience / market risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SECURE TENURE → investment / owner concerns",
+            "CONSOLIDATION → scale / vulnerable-user safeguards"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HIGH YIELD → food security / ecological cost",
+            "DIVERSIFICATION → resilience / market risk"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SECURE TENURE → investment / owner concerns",
+            "CONSOLIDATION → scale / vulnerable-user safeguards"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "HIGH YIELD → food security / ecological cost.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-11\\g3\\economy-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "AGRARIAN ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "AGRARIAN ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE RIGHTS, RECORDS AND HOLDING STRUCTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "TRACE TECHNOLOGY + WATER + MARKET PACKAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPARE REGIONAL OUTCOMES AND TRADE-OFFS",
+          "role": "comparison"
+        },
+        {
+          "text": "CONCLUDE WITH VIABLE DIVERSIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "USE STATE-SPECIFIC LAW AND PERIOD",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "DEFINE rights, records and holding structure",
+        "TRACE technology + water + market package",
+        "COMPARE regional outcomes and trade-offs",
+        "CONCLUDE with viable diversification",
+        "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Use state-specific law and period"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE rights, records and holding structure",
+            "TRACE technology + water + market package"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COMPARE regional outcomes and trade-offs",
+            "CONCLUDE with viable diversification"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Use state-specific law and period,...",
+            "DEFINE rights, records and holding structure"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Use state-specific law and period,.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-11\\g3\\economy-11_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SECURE TENURE CAN IMPROVE INVESTMENT INCENTIVES, YET POORLY DESIGNED",
+          "role": "outcome"
+        },
+        {
+          "text": "LEASING REFORM CAN SEPARATE OWNERSHIP FROM EFFICIENT CULTIVATION WHILE",
+          "role": "comparison"
+        },
+        {
+          "text": "LAND RECORDS ARE FISCAL, CREDIT, PLANNING AND DISPUTE-RESOLUTION INFRASTRUCTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "GREEN REVOLUTION GAINS CREATED FOOD SECURITY BUT ALSO PATH",
+          "role": "primary"
+        },
+        {
+          "text": "CROP DIVERSIFICATION REQUIRES DEMAND, PROCESSING, INSURANCE AND LOGISTICS, NOT",
+          "role": "caution"
+        },
+        {
+          "text": "ALLIED-SECTOR GROWTH CAN STABILISE INCOME BECAUSE PRODUCTION CYCLES AND",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE REVENUE AND LAND DEPARTMENTS",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Secure tenure can improve investment incentives, yet poorly designed ceilings may",
+            "CAUTION: Leasing reform can separate ownership from efficient cultivation while protecting",
+            "CAUTION: Land records are fiscal, credit, planning and dispute-resolution infrastructure, not",
+            "CAUTION: Green Revolution gains created food security but also path dependence in water,"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Crop diversification requires demand, processing, insurance and logistics, not price",
+            "CAUTION: Allied-sector growth can stabilise income because production cycles and risks differ",
+            "State revenue and land departments: implement land records, tenancy and ceiling",
+            "Agricultural universities and extension systems: adapt seed and agronomy to local"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Procurement and irrigation agencies: shape crop profitability and regional",
+            "Panchayats, co-operatives and farmer organisations: support local records, input",
+            "CAUTION: Operation Barga is used to illustrate how political mobilisation and tenancy recording",
+            "CAUTION: Punjab-Haryana cereal specialisation shows how irrigation and procurement can lock a"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

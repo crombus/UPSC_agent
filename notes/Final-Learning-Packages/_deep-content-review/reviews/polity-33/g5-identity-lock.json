@@ -1,0 +1,14 @@
+{
+  "topic_key": "polity-33",
+  "locked_at": "2026-09-05T14:41:51.371207+00:00",
+  "master_tracker_identity": "polity-33:learner-v2:g5",
+  "generation": 5,
+  "approval": false,
+  "hashes": {
+    "markdown": "ffd4bca4df91fbc9bb0aedd2d466885939c31ee426d0bad1a3523dde0b8c358b",
+    "main_pdf": "87ccb2836e2a0f18494dcf937ffaa18aa53aa1c16045f063caabd879a861d1cb",
+    "workbook": "a3ed25aa42f58a91657577e9147ff32ebd4bdedb674e4e3ac8022116b6fe945d",
+    "graphical_master": "7f72b8cb2bff6a2e9064a741b20423dbb3fef9fc38dfb1bfbb597debe724cc67",
+    "ascii_master": "c45539a83df1c3c28000bd10841a18a3ce849ae1f4d113b7f70e069769d96815"
+  }
+}

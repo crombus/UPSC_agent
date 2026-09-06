@@ -1,0 +1,74 @@
+ASCII MASTER FLOW — PANEL 1/12: Claim-priority waterfall
+ISSUER CASH FLOW
+-> CONTRACTUAL DEBT SERVICE
+-> BONDHOLDER PRIORITY
+-> EQUITY RESIDUAL RETURN
+MUST REMEMBER: Bonds, equity, derivatives, mutual funds, ETFs, AIFs and pension products...
+
+ASCII MASTER FLOW — PANEL 2/12: Bond pricing board
+COUPON -> contractual rate
+YIELD -> market-price-based return
+YIELD RISE -> fixed bond price generally falls
+DURATION + CONVEXITY -> sensitivity detail
+
+ASCII MASTER FLOW — PANEL 3/12: Credit-risk decomposition
+BENCHMARK YIELD
++ DEFAULT PREMIUM
++ LIQUIDITY PREMIUM
++ OTHER RISK PREMIA -> CREDIT SPREAD
+
+ASCII MASTER FLOW — PANEL 4/12: Derivative obligation fork
+FUTURE -> symmetric buyer/seller obligations
+OPTION BUYER -> right, not obligation
+OPTION WRITER -> contingent obligation
+SWAP -> exchange cash-flow streams
+
+ASCII MASTER FLOW — PANEL 5/12: Purpose test
+PRE-EXISTING EXPOSURE?
+YES -> hedge size and tenor
+NO -> speculative exposure
+SAME CONTRACT can reduce or enlarge risk
+
+ASCII MASTER FLOW — PANEL 6/12: Clearing and leverage rail
+POSITION
+-> MARGIN + MARK-TO-MARKET
+-> CLEARING CORPORATION
+RESIDUAL -> basis, liquidity and leverage risk
+CLOSE DISTINCTION: Bondholder is not owner, dividend is not contractual interest, futures...
+
+ASCII MASTER FLOW — PANEL 7/12: Pooled-vehicle map
+MUTUAL FUND -> pooled mandate + NAV
+ETF -> exchange-traded fund unit
+AIF -> privately pooled category framework
+REIT / InvIT -> property / infrastructure cash flows
+
+ASCII MASTER FLOW — PANEL 8/12: Access instruments board
+P-NOTE -> offshore instrument via registered FPI
+IIB -> inflation-linked payout or principal
+CONVERTIBLE -> debt with equity conversion terms
+BETA -> relative market volatility
+
+ASCII MASTER FLOW — PANEL 9/12: Tokenisation boundary
+UNDERLYING REAL-WORLD ASSET
+-> DIGITAL TOKEN REPRESENTATION
+ACCESS may become fractional
+TITLE + CUSTODY + DISCLOSURE remain decisive
+
+ASCII MASTER FLOW — PANEL 10/12: Use-of-proceeds taxonomy
+GREEN BOND -> environmental projects
+SOCIAL BOND -> social projects
+SUSTAINABILITY BOND -> both
+LABEL does not eliminate credit risk
+
+ASCII MASTER FLOW — PANEL 11/12: Investor-protection stack
+DISCLOSURE + PRODUCT LABELLING
+REGISTERED ADVISERS + INTERMEDIARIES
+MARGIN + SETTLEMENT + GRIEVANCE
+LIMIT -> business and market loss remain
+
+ASCII MASTER FLOW — PANEL 12/12: Securities answer spine
+CLASSIFY claim and cash-flow priority
+MAP liquidity promise and leverage
+TRACE regulator and settlement
+MATCH instrument to investor exposure
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Identify legal claim, payoff,...

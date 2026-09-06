@@ -1,20 +1,28 @@
-# Polity-15 Deep Content Review — President and Vice-President
+# Deep Content Review — Indian Society 15: President and Vice President
 
-- Baseline: `polity-15:learner-v2:g2` — **73/100**, changes suggested.
-- Preserved intermediates: `g3` (misplaced guidance), `g4` (generic scope session).
-- Final: `polity-15:learner-v2:g5` — **98/100**, passed revalidation; approval remains **false**.
+- **Baseline locked:** `polity-15:learner-v2:g5` — 96/100
+- **Immutable successor:** `polity-15:learner-v2:g6` — 98/100
+- **Approval:** false / pending explicit approval
 
-## Repairs
+## Defects reported before repair
 
-Added the 1952 Act–1974 Rules–1997 reform timeline; normalized Articles 52–72/63–71, Article 163 limits, *D.C. Wadhwa* (1986) and *Kehar Singh* (1988); refreshed office/assent controls to 28 August 2026; added ten demand/marks/improvement blocks; removed generated filler; rebuilt matching 12-stage graphical and ASCII masters.
+- Hostile four-ledger ownership/PYQ control is absent.
+- Authoritative current-law source status is not dated.
 
-## Validation
+## Four-artifact repair and re-review
 
-- Session: 53 pages; workbook: 13; poster: 1; tiled: 4; ASCII: 12.
-- 28/28 source hashes; 21 Core sessions; eight PYQs; ten guided Mains models.
-- 36 MCQs, strict `ABCD × 9`; 38 focused tests passed.
-- Staged, tracker-aware and final four-item validations passed.
+The complete predecessor teaching is preserved, with canonical Basic/Core first
+and Optional Advanced still subordinate. A source-and-evidence contract now
+distinguishes archaeology, texts, inscriptions, coins, interpretation, PYQ
+metadata and current-status claims. Every identified solved item has demand
+decoding, a detailed model, an executable answer/compression plan, marks rationale
+and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D while
+official PYQ wording remains outside that rotation. Both master flows were
+regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
 
-## Final package
-
-`notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\15-President-and-Vice-President`
+- Session PDF: 70 pages
+- Workbook PDF: 27 pages
+- Solved items audited: 15
+- Basic/remedial MCQs audited: 36
+- Graphical/ASCII stages: 12 / 12
+- Approval: false

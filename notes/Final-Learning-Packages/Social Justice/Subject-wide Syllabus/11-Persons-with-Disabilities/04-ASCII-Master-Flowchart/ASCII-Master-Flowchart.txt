@@ -40,6 +40,7 @@ SOCIAL MODEL -> disadvantage located in environments, institutions and attitudes
 RIGHTS MODEL -> enforceable equality, autonomy, accessibility, accommodation duties
 CONVENTION -> ratified by India in 2007; the 2016 Act gives it domestic effect
 RULE -> a recommendation must say which model it operates in
+CLOSE DISTINCTION: Impairment is not disability, accessibility is not reasonable...
 
 ASCII MASTER FLOW — PANEL 7/12: Design strategies
 UNIVERSAL DESIGN -> accessibility built into the original design from inception
@@ -68,7 +69,6 @@ STATE COMMISSIONERS -> parallel functions at the State level
 ACCESSIBILITY MISSION -> delivery of built, transport and technology accessibility work
 DEVELOPMENT CORPORATION -> concessional credit and livelihood finance
 TRUST STATUTE 1999 -> guardianship and care for four conditions only
-CLOSE DISTINCTION: Impairment is not disability, accessibility is not reasonable...
 
 ASCII MASTER FLOW — PANEL 11/12: Departmental statement card
 AIM -> facilitate the empowerment of persons with disabilities
@@ -76,7 +76,6 @@ PREVALENCE -> as per Census 2011, 2.68 crore persons with disabilities
 SHARE -> 2.21 per cent of the total population of the country
 CATEGORIES -> twenty-one types of disabilities under the 2016 Act
 NAMED -> locomotor, visual, hearing, speech and language, intellectual, multiple, dwarfism
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use the RPwD Act, UNCRPD status,...
 
 ASCII MASTER FLOW — PANEL 12/12: Gap diagnosis
 JOINT 1 -> reservation seats unfilled because suitable posts are not identified
@@ -84,3 +83,4 @@ JOINT 2 -> legacy infrastructure; retrofitting slow and costly; timelines extend
 JOINT 3 -> private establishments; accommodation duty applies but enforcement is weaker
 JOINT 4 -> benchmark threshold excludes persons below forty per cent facing real barriers
 ILLUSTRATION -> an accessible coach does not secure mobility if the platform is not accessible
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use the RPwD Act, UNCRPD status,...

@@ -40,6 +40,7 @@ ASCII MASTER FLOW — PANEL 6/12: Amendment and judgment sequence
 2019 -> 103rd Amendment inserts Article 15(6) and Article 16(6) for economic weakness
 2021 -> Maratha reservation reading centralises list-making; 105th Amendment restores States
 2022 -> Janhit Abhiyan upholds the economic criterion by a majority of three to two
+CLOSE DISTINCTION: OBC is not a synonym for poverty, EWS is not an OBC sub-category,...
 
 ASCII MASTER FLOW — PANEL 7/12: Economic-criterion card
 NOTIFIED -> Department of Personnel and Training notification dated 31 January 2019
@@ -68,7 +69,6 @@ OBSERVED -> concentration of benefit in relatively advanced communities within t
 PROPOSAL -> sub-categorisation of the quota among sub-groups
 EXAMINED BY -> the commission set up in 2017; implementation pending as of mid-2026
 REQUIREMENT -> backwardness and representation data for each sub-group
-CLOSE DISTINCTION: OBC is not a synonym for poverty, EWS is not an OBC sub-category,...
 
 ASCII MASTER FLOW — PANEL 11/12: Data gap
 LAST PUBLISHED ALL-CASTE TABLES -> 1931
@@ -76,7 +76,6 @@ SOCIO-ECONOMIC AND CASTE CENSUS 2011 -> caste data never released or validated f
 DECISION -> Cabinet Committee on Political Affairs, 30 April 2025, to enumerate caste
 OPERATION -> all-digital 2027 Census; houselisting notified 1 April to 30 September 2026
 BOUNDARY -> an approved operation is not a published dataset and validates no formula
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Articles 15, 16 and 342A, NCBC, list...
 
 ASCII MASTER FLOW — PANEL 12/12: Entry against conversion
 COVERAGE -> reservation slots filled and scholarships disbursed in a reporting year
@@ -84,3 +83,4 @@ FIRST-GENERATION ACCESS -> the first family member reaching higher education or 
 MOBILITY -> the next generation exceeding the beneficiary in education and occupation
 STAGNATION -> children re-accessing the same reservation without progression
 OWNERSHIP -> no Mains or objective demand is routed here and none is manufactured
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Articles 15, 16 and 342A, NCBC, list...

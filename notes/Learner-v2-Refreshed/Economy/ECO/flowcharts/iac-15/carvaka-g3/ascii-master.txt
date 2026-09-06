@@ -1,0 +1,74 @@
+ASCII MASTER FLOW — PANEL 1/12: Farm-to-value rail
+FARM OUTPUT
+-> AGGREGATION + GRADING
+-> COLD / AMBIENT LOGISTICS + PROCESSING
+-> PACKAGING + MARKET -> DISTRIBUTED VALUE
+MUST REMEMBER: Food processing adds value through sorting, grading, storage,...
+
+ASCII MASTER FLOW — PANEL 2/12: Cold-chain continuity
+PACK HOUSE
+-> PRE-COOLING
+-> COLD STORAGE
+-> REEFER -> PROCESSOR / RETAIL
+
+ASCII MASTER FLOW — PANEL 3/12: Capacity accounting fork
+INSTALLED CAPACITY -> stock
+OPERATIONAL CAPACITY -> available stock
+THROUGHPUT -> period flow
+VALUE ADDED -> output value minus inputs
+
+ASCII MASTER FLOW — PANEL 4/12: PMKSY umbrella
+COMMON / CLUSTER INFRASTRUCTURE
+COLD CHAIN + VALUE ADDITION
+PROCESSING + QUALITY SUPPORT
+STATUS -> guideline and component vintage
+
+ASCII MASTER FLOW — PANEL 5/12: Scheme-stage ladder
+APPROVAL / SANCTION
+-> INVESTMENT / CONSTRUCTION
+-> OPERATION + CAPACITY USE
+-> SALES / DISBURSAL / OUTCOME
+
+ASCII MASTER FLOW — PANEL 6/12: Operation Greens boundary
+PERISHABLE PRICE STRESS
+SPECIFIED COMMODITY / WINDOW
+STORAGE + PROCESSING LINK
+NOT universal farm-price insurance
+CLOSE DISTINCTION: Processing is not only manufacturing, cold storage is not an end-to-...
+
+ASCII MASTER FLOW — PANEL 7/12: Food Park cluster
+COLLECTION CENTRE
+-> PRIMARY PROCESSING
+-> COMMON CENTRAL FACILITIES
+-> PROCESSOR + MARKET LINK
+
+ASCII MASTER FLOW — PANEL 8/12: Regulatory-export fork
+FSSAI -> food-safety regulation
+APEDA -> export development / market access
+SPS + TESTING -> compliance gate
+TRACEABILITY -> chain evidence
+
+ASCII MASTER FLOW — PANEL 9/12: Value-capture board
+FARMER / FPO -> raw material + aggregation
+PROCESSOR -> transformation + quality risk
+LOGISTICS / RETAIL -> access + shelf
+CONTRACT + COMPETITION -> margin split
+
+ASCII MASTER FLOW — PANEL 10/12: Employment chain
+FARM-GATE SORTING
+COLD LOGISTICS + MAINTENANCE
+PROCESSING + PACKAGING + TESTING
+RETAIL / EXPORT; test formality + seasonality
+
+ASCII MASTER FLOW — PANEL 11/12: Small-processor constraint wheel
+WORKING CAPITAL
+POWER + TECHNOLOGY
+TESTING + FORMALISATION
+MARKET + BRAND + DISTRIBUTION
+
+ASCII MASTER FLOW — PANEL 12/12: Processing answer spine
+DEFINE chain and accounting units
+MAP missing node and scheme stage
+TEST standards, jobs and bargaining
+CONCLUDE with throughput + fair value capture
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Use commodity-specific chain,...

@@ -38,6 +38,7 @@ PREGNANT AND LACTATING WOMEN -> nutritious meal free of cost; maternity benefit
 MATERNITY BENEFIT -> not less than 6000 rupees to partly compensate wage loss
 CHILDREN 6 MONTHS TO 14 YEARS -> meal through anganwadi centres and through schools
 MALNOURISHED UNDER SIX -> higher nutritional norms are prescribed
+CLOSE DISTINCTION: Poverty incidence is not depth, food availability is not household...
 
 ASCII MASTER FLOW — PANEL 7/12: Remedy and responsibility
 NON-SUPPLY -> the entitled person may claim a food security allowance from the State
@@ -66,7 +67,6 @@ PROBLEM -> a migrant is listed on a State-specific roll and loses access on movi
 -> EFFECT: the existing entitlement is drawn at any enabled fair-price shop
 LIMIT -> it is not a separate card and not a separate entitlement
 CLAIM LIMIT -> the cumulative transaction count rises continuously and is not fixed here
-CLOSE DISTINCTION: Poverty incidence is not depth, food availability is not household...
 
 ASCII MASTER FLOW — PANEL 11/12: Convergence bank
 NUTRITION-SPECIFIC -> feeding, micronutrients, growth monitoring, breastfeeding support
@@ -74,7 +74,6 @@ NUTRITION-SENSITIVE -> water and sanitation, agriculture, social protection, gir
 ANAEMIA -> the national anaemia strategy uses a six-by-six-by-six intervention design
 FORTIFICATION -> reaches selected micronutrient gaps at scale
 LIMIT -> it cannot replace dietary diversity, infection control, safe water or treatment
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use NFSA, PDS/ONORC, ICDS/Saksham Anganwadi,...
 
 ASCII MASTER FLOW — PANEL 12/12: Dated outcome and answer spine
 ROUND FIVE 2019-21 -> stunting 35.5, wasting 19.3, child anaemia 67.1 per cent
@@ -82,3 +81,4 @@ ROUND SIX 2023-24 -> under-five stunting 29.3 per cent; released 29 May 2026
 SCOPE -> round six covered 715 districts and about 6.79 lakh households
 RULE -> name the round beside every value and never merge two rounds
 CLOSE -> availability, access, absorption and utilisation, then a graded verdict
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use NFSA, PDS/ONORC, ICDS/Saksham Anganwadi,...

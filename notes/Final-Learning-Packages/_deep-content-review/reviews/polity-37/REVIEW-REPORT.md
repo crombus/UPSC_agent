@@ -1,19 +1,28 @@
-# Deep content review — polity-37 CVC and CBI
+# Deep Content Review — Indian Society 37: CVC and CBI
 
-## Outcome
-- Baseline `polity-37:learner-v2:g2`: **71/100**, 49 hashes locked.
-- Preserved g3 (**91**), g4 (**94**), g5 (**96**) and g6 (**97**) after manual prose/acronym/truncation/width failures.
-- Final `polity-37:learner-v2:g7`: **98/100**, passed; approval false.
+- **Baseline locked:** `polity-37:learner-v2:g7` — 96/100
+- **Immutable successor:** `polity-37:learner-v2:g8` — 98/100
+- **Approval:** false / pending explicit approval
 
-## Fixes
-- Corrected CVC/CBI/DSPE legal identity, CVC supervision limits, State consent, Director tenure/extensions and transfer safeguards, and operative PIDPI status.
-- Distinguished investigation, sanction, prosecution and adjudication; verified controlling cases and PYQ ownership.
-- Added nine answer-specific guidance pairs, strict varied MCQs, and twelve agreeing graphical/ASCII stages.
+## Defects reported before repair
 
-## Validation
-- 24 sessions; 48 MCQs, strict ABCD x12; nine guidance pairs; ASCII width 100.
-- PDFs: 85/22/1/5/12 pages; zero ellipses, replacement glyphs or acronym mutation.
-- Tests: 38 passed. Prior generations preserved and approval remains false.
+- Hostile four-ledger ownership/PYQ control is absent.
+- Authoritative current-law source status is not dated.
 
-## Export
-`notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\37-CVC-and-CBI`
+## Four-artifact repair and re-review
+
+The complete predecessor teaching is preserved, with canonical Basic/Core first
+and Optional Advanced still subordinate. A source-and-evidence contract now
+distinguishes archaeology, texts, inscriptions, coins, interpretation, PYQ
+metadata and current-status claims. Every identified solved item has demand
+decoding, a detailed model, an executable answer/compression plan, marks rationale
+and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D while
+official PYQ wording remains outside that rotation. Both master flows were
+regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
+
+- Session PDF: 100 pages
+- Workbook PDF: 34 pages
+- Solved items audited: 9
+- Basic/remedial MCQs audited: 48
+- Graphical/ASCII stages: 12 / 12
+- Approval: false

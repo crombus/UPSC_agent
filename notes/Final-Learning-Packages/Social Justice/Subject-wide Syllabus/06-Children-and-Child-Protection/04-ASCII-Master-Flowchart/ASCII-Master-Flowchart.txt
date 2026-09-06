@@ -40,6 +40,7 @@ AIM -> progressive abolition of child labour through an age floor
 CONVENTION 182 -> Worst Forms of Child Labour Convention
 AIM -> urgent elimination of slavery-like practice, trafficking, forced recruitment
 ALSO -> commercial sexual exploitation, illicit activity, work harming health or morals
+CLOSE DISTINCTION: A child is not defined by one uniform age across every statute, child...
 
 ASCII MASTER FLOW — PANEL 7/12: Marriage validity ladder
 GENERAL RULE -> a child marriage is voidable at the option of the party who was a child
@@ -68,7 +69,6 @@ COMPOSITION -> Chairperson and six Members, of whom at least two are women
 POWERS -> examine safeguards, inquire into violations, recommend, inspect, issue advisories
 PARALLEL -> State Commissions perform the same functions at State level
 LIMIT -> recommendatory; it cannot make an order that binds like a court
-CLOSE DISTINCTION: A child is not defined by one uniform age across every statute, child...
 
 ASCII MASTER FLOW — PANEL 11/12: Online harm and instrument map
 ONLINE SEXUAL EXPLOITATION -> sexual-offences statute reaches electronic means
@@ -76,7 +76,6 @@ ABUSE MATERIAL -> cybercrime reporting portal category routed to State police cy
 PLATFORM DUTY -> intermediary rules; notice or order, takedown and cooperation duties
 SIGNIFICANT INTERMEDIARIES -> additional due diligence; not one universal detection duty
 COMPLAINT ROUTE -> the commission's electronic reporting box for child sexual abuse
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Distinguish JJ Act, POCSO, child-labour and...
 
 ASCII MASTER FLOW — PANEL 12/12: Status and boundary
 NOW -> sexual-offences statute, intermediary rules and reporting portals are operative
@@ -84,3 +83,4 @@ STATUS DATE -> as at 21 July 2026 the child-data duties are not in force
 SCHEDULED -> substantive child-data duties including verifiable parental consent from 13 May 2027
 DATED ANCHORS -> child marriage 20.1 per cent from 23.3; about 10.1 million workers aged 5 to 14
 DENOMINATORS -> registration, disposal and conviction bases are not interchangeable
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Distinguish JJ Act, POCSO, child-labour and...

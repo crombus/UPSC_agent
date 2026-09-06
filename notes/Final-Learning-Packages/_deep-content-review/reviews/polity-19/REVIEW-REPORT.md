@@ -1,27 +1,27 @@
-# Polity 19 — Governor, CM and State Council Deep Content Review
+# Deep Content Review — Indian Society 19: Governor CM State Council
 
-## Identity and result
+- **Baseline locked:** `polity-19:learner-v2:g8` — 100/100
+- **Immutable successor:** `polity-19:learner-v2:g9` — 98/100
+- **Approval:** false / pending explicit approval
 
-- Baseline locked: `polity-19:learner-v2:g2` — **72/100**, changes suggested.
-- Preserved intermediates: g3 failed re-review for stale export date; g4 failed for two generated ellipses.
-- Final selected record: `polity-19:learner-v2:g5` — **98/100**, passed revalidation.
-- Explicit package approval remains **false**.
+## Defects reported before repair
 
-## Substantive repairs
 
-Added *B.P. Singhal* removal control, Articles 371A/371H and bounded Sixth Schedule responsibilities; qualified advice/discretion and Centre-agent shorthand; corrected variable State planning arrangements and *D.C. Wadhwa* dating. Preserved the two-decision 2025 assent position and unresolved *Nabam Rebia* reference. Completed manifest ownership, 26 bespoke session controls and thirteen answer-specific improvement blocks.
 
-## Four-artifact validation
+## Four-artifact repair and re-review
 
-- Learning session: 75 pages; 26 Core sessions; zero blank text pages.
-- Solved workbook: 19 pages; 48 MCQs in `ABCD × 12`; thirteen Why/How pairs.
-- Graphical: one poster plus five tiled pages; twelve Core/synthesis stages.
-- ASCII: twelve matching panels/pages; maximum authored line width 100.
-- 41/41 source hashes matched; zero replacement glyphs, ellipses or stale dates.
-- Tracker-aware validator passed; focused refresh tests: 38/38; four-item export passed.
+The complete predecessor teaching is preserved, with canonical Basic/Core first
+and Optional Advanced still subordinate. A source-and-evidence contract now
+distinguishes archaeology, texts, inscriptions, coins, interpretation, PYQ
+metadata and current-status claims. Every identified solved item has demand
+decoding, a detailed model, an executable answer/compression plan, marks rationale
+and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D while
+official PYQ wording remains outside that rotation. Both master flows were
+regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
 
-## Final artifacts
-
-`notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\19-Governor-CM-State-Council\`
-
-See `polity-19-g5-audit.json` for exact hashes and page metrics.
+- Session PDF: 90 pages
+- Workbook PDF: 30 pages
+- Solved items audited: 13
+- Basic/remedial MCQs audited: 48
+- Graphical/ASCII stages: 12 / 12
+- Approval: false

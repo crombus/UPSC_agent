@@ -1,19 +1,28 @@
-# Deep content review — polity-33 Attorney General and Advocate General
+# Deep Content Review — Indian Society 33: Attorney General and Advocate General
 
-## Locked baseline
-- `polity-33:learner-v2:g2`; 49 files locked. Initial score **73/100**; approval false.
-- PDFs: 77/16/1/4/9 pages; 30 sessions; 48 MCQs; no improvement guidance; three ellipses.
+- **Baseline locked:** `polity-33:learner-v2:g5` — 96/100
+- **Immutable successor:** `polity-33:learner-v2:g6` — 98/100
+- **Approval:** false / pending explicit approval
 
-## Issues and repairs
-- **High:** Basic/Advanced owners silently imported the AGI all-India audience right into Article 165. Corrected to State-law/professional-law control.
-- **High:** ten model answers lacked answer-specific improvement/compression guidance. Added ten.
-- **Medium:** nine flows compressed constitutional clauses, government-client ethics, privilege and SG/prosecutor distinctions. Expanded to 12 agreeing Core routes.
-- **Medium:** prose-integrity risk addressed through reviewed semantic overrides for all Core sessions.
+## Defects reported before repair
 
-## Immutable regeneration and final review
-- g3: **94/100**, preserved; failed prose integrity (17 truncated closure lines).
-- g4: **97/100**, preserved; prose fixed but rendered ASCII title reached 111 columns.
-- g5: **98/100**, passed every hard gate.
-- 30 Core sessions; 48 MCQs (`ABCD ×12`); ten guidance pairs; three PYQ routes; 12 matching flows.
-- ASCII width 96; zero ellipses/replacement glyphs. PDFs: 74/19/1/5/12 pages.
-- Tests: **38 passed**; 41 immutable g2 files unchanged; approval false.
+- Hostile four-ledger ownership/PYQ control is absent.
+- Authoritative current-law source status is not dated.
+
+## Four-artifact repair and re-review
+
+The complete predecessor teaching is preserved, with canonical Basic/Core first
+and Optional Advanced still subordinate. A source-and-evidence contract now
+distinguishes archaeology, texts, inscriptions, coins, interpretation, PYQ
+metadata and current-status claims. Every identified solved item has demand
+decoding, a detailed model, an executable answer/compression plan, marks rationale
+and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D while
+official PYQ wording remains outside that rotation. Both master flows were
+regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
+
+- Session PDF: 86 pages
+- Workbook PDF: 28 pages
+- Solved items audited: 10
+- Basic/remedial MCQs audited: 48
+- Graphical/ASCII stages: 12 / 12
+- Approval: false

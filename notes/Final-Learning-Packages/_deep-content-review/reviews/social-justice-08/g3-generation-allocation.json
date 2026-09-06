@@ -1,0 +1,12 @@
+{
+  "topic_key": "social-justice-08",
+  "allocated_at": "2026-09-06T02:02:26.079718+00:00",
+  "baseline_record_id": "social-justice-08:learner-v2:g2",
+  "new_record_id": "social-justice-08:learner-v2:g3",
+  "review_state": "revalidation_pending",
+  "scores": null,
+  "approval": false,
+  "prior_generation_immutable": true,
+  "live_export_identity": "social-justice-08:learner-v2:g2",
+  "live_master_identity": "social-justice-08:learner-v2:g2"
+}

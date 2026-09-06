@@ -1,0 +1,12 @@
+{
+  "topic_key": "governance-01",
+  "allocated_at": "2026-09-05T16:56:38.195361+00:00",
+  "baseline_record_id": "governance-01:learner-v2:g4",
+  "new_record_id": "governance-01:learner-v2:g5",
+  "review_state": "revalidation_pending",
+  "scores": null,
+  "approval": false,
+  "prior_generation_immutable": true,
+  "live_export_identity": "governance-01:learner-v2:g4",
+  "live_master_identity": "governance-01:learner-v2:g4"
+}

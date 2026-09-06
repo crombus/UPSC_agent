@@ -40,6 +40,7 @@ ESTIMATE -> 7.7 million gig workers in 2020-21
 PROJECTION -> 23.5 million by 2029-30
 STATUS -> a scenario, not a worker registry or a beneficiary count
 BACKGROUND STATUTE -> the Unorganised Workers' Social Security Act, 2008
+CLOSE DISTINCTION: Gig worker is not necessarily an employee, platform registration is...
 
 ASCII MASTER FLOW — PANEL 7/12: Platform-power chain
 ALGORITHMIC CONTROL -> ratings, incentives, task allocation and deactivation
@@ -68,7 +69,6 @@ NO LEVY CLAIM -> no assertion of a collected nationwide contribution or fund bal
 NO STATUS UPGRADE -> a definition does not settle wages, hours, dismissal or bargaining
 NO INSURANCE SHORTCUT -> hospitalisation cover does not correct pay or deactivation
 NO KEY -> no option or answer letter for the routed objective demand
-CLOSE DISTINCTION: Gig worker is not necessarily an employee, platform registration is...
 
 ASCII MASTER FLOW — PANEL 11/12: Routed objective demand
 YEAR AND PAPER -> 2024 Prelims General Studies Paper I, question numbered 100
@@ -76,7 +76,6 @@ DEMAND -> the unorganised-worker pension route, rendered neutrally in the audite
 KEY STATUS -> official Set-A key available locally; the answer is not recorded there
 PACKAGE RULE -> no option, key or inferred answer letter is stated anywhere here
 COVERAGE -> voluntary enrolment, matching contributions, pension after sixty, taught as content
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use labour codes only with notified/operative...
 
 ASCII MASTER FLOW — PANEL 12/12: Reform architecture and its costs
 PUBLISH STATUS -> provision-specific commencement and scheme status made readable
@@ -84,3 +83,4 @@ PUBLISH STATUS -> provision-specific commencement and scheme status made readabl
 -> ASSISTED ENROLMENT: offline routes so digital exclusion is not benefit exclusion
 -> INDEPENDENT GRIEVANCE: a forum for deactivation and benefit disputes
 COSTS -> levy incidence, threshold exclusion, privacy exposure, insurance-led narrowness
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use labour codes only with notified/operative...

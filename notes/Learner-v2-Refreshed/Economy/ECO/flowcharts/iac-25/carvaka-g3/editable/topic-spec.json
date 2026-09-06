@@ -1,0 +1,1048 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-25",
+  "subject": "Economy",
+  "title": "CLIMATE ECONOMICS, GREEN FINANCE AND CIRCULAR ECONOMY",
+  "short_route": "EXTERNALITY-TO-TRANSITION RAIL → MITIGATION-ADAPTATION SPLIT → CARBON-VALUE TRIANGLE → PAT-TO-CCTS BOUNDARY → CLIMATE-RISK CHANNELS → GREEN-FINANCE CREDIBILITY CHAIN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g3\\economy-25_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-25-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "1afb2e522ec134125d59834c22f5e4d819227ba189e332fce6a02ef6d00db8bb",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "EXTERNALITY-TO-TRANSITION RAIL",
+      "structural_type": "cause-effect-rail",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "EXTERNALITY-TO-TRANSITION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "RESOURCE USE + EMISSIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "UNPRICED SOCIAL COST",
+          "role": "comparison"
+        },
+        {
+          "text": "PRICE + RULE + FINANCE",
+          "role": "evidence"
+        },
+        {
+          "text": "LOW-CARBON RESILIENT OUTCOME",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "CLIMATE ECONOMICS ADDRESSES EXTERNALITIES, CARBON PRICING, REGULATION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "RESOURCE USE + EMISSIONS",
+        "UNPRICED SOCIAL COST",
+        "PRICE + RULE + FINANCE",
+        "LOW-CARBON RESILIENT OUTCOME",
+        "MUST REMEMBER: Climate economics addresses externalities, carbon pricing, regulation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RESOURCE USE + EMISSIONS",
+            "UNPRICED SOCIAL COST"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PRICE + RULE + FINANCE",
+            "LOW-CARBON RESILIENT OUTCOME"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Climate economics addresses externalities, carbon pricing, regulation,...",
+            "RESOURCE USE + EMISSIONS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Climate economics addresses externalities, carbon pricing, regulation,.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g3\\economy-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MITIGATION-ADAPTATION SPLIT",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "MITIGATION-ADAPTATION SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "EMISSIONS + SINKS",
+          "role": "outcome"
+        },
+        {
+          "text": "EXPOSURE + VULNERABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "FINANCE MODELS DIFFER",
+          "role": "evidence"
+        },
+        {
+          "text": "BOTH REQUIRED; NEITHER SUBSTITUTES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "MITIGATION → emissions + sinks",
+        "ADAPTATION → exposure + vulnerability",
+        "FINANCE MODELS differ",
+        "BOTH required; neither substitutes"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MITIGATION → emissions + sinks",
+          "FINANCE MODELS differ",
+          "MITIGATION → emissions + sinks"
+        ],
+        [
+          "ADAPTATION → exposure + vulnerability",
+          "BOTH required; neither substitutes",
+          "ADAPTATION → exposure + vulnerability"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MITIGATION → emissions + sinks",
+            "ADAPTATION → exposure + vulnerability"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FINANCE MODELS differ",
+            "BOTH required; neither substitutes"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MITIGATION → emissions + sinks",
+            "ADAPTATION → exposure + vulnerability"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ADAPTATION → exposure + vulnerability; FINANCE MODELS differ; BOTH required; neither substitutes.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g3\\economy-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CARBON-VALUE TRIANGLE",
+      "structural_type": "three-way-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CARBON-VALUE TRIANGLE",
+          "role": "primary"
+        },
+        {
+          "text": "DAMAGE VALUATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CARBON TAX",
+          "role": "comparison"
+        },
+        {
+          "text": "STATUTORY PRICE",
+          "role": "evidence"
+        },
+        {
+          "text": "TRADING PRICE",
+          "role": "primary"
+        },
+        {
+          "text": "MARKET OUTCOME",
+          "role": "outcome"
+        },
+        {
+          "text": "THREE VALUES MAY DIVERGE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SCC → damage valuation",
+        "CARBON TAX → statutory price",
+        "TRADING PRICE → market outcome",
+        "THREE VALUES may diverge"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SCC → damage valuation",
+            "CARBON TAX → statutory price"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRADING PRICE → market outcome",
+            "THREE VALUES may diverge"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SCC → damage valuation",
+            "CARBON TAX → statutory price"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRADING PRICE → market outcome; THREE VALUES may diverge.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g3\\economy-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PAT-TO-CCTS BOUNDARY",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PAT-TO-CCTS BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "ENERGY INTENSITY",
+          "role": "outcome"
+        },
+        {
+          "text": "GHG COMPLIANCE ARCHITECTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "SECTOR + YEAR",
+          "role": "evidence"
+        },
+        {
+          "text": "DATED NOTIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "PHASED STATUS",
+          "role": "outcome"
+        },
+        {
+          "text": "ECONOMY-WIDE MARKET",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PAT → energy intensity",
+        "CCTS → GHG compliance architecture",
+        "SECTOR + YEAR → dated notification",
+        "PHASED STATUS != economy-wide market"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PAT → energy intensity",
+            "CCTS → GHG compliance architecture"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SECTOR + YEAR → dated notification",
+            "PHASED STATUS != economy-wide market"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PAT → energy intensity",
+            "CCTS → GHG compliance architecture"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SECTOR + YEAR → dated notification; PHASED STATUS != economy-wide market.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g3\\economy-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CLIMATE-RISK CHANNELS",
+      "structural_type": "risk-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "CLIMATE-RISK CHANNELS",
+          "role": "caution"
+        },
+        {
+          "text": "HAZARD EXPOSURE",
+          "role": "outcome"
+        },
+        {
+          "text": "POLICY + TECHNOLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "CREDIT + MARKET + OPERATIONAL",
+          "role": "evidence"
+        },
+        {
+          "text": "HOUSEHOLD + FISCAL TRANSMISSION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PHYSICAL → hazard exposure",
+        "TRANSITION → policy + technology",
+        "CREDIT + MARKET + OPERATIONAL",
+        "HOUSEHOLD + FISCAL transmission"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PHYSICAL → hazard exposure",
+            "TRANSITION → policy + technology"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CREDIT + MARKET + OPERATIONAL",
+            "HOUSEHOLD + FISCAL transmission"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PHYSICAL → hazard exposure",
+            "TRANSITION → policy + technology"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CREDIT + MARKET + OPERATIONAL; HOUSEHOLD + FISCAL transmission.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g3\\economy-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "GREEN-FINANCE CREDIBILITY CHAIN",
+      "structural_type": "verification-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GREEN-FINANCE CREDIBILITY CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "OUTPUT + OUTCOME METRIC",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSURANCE + ADDITIONALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CARBON TAX IS NOT EMISSIONS TRADING, GREEN LABEL IS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ELIGIBILITY / TAXONOMY",
+        "OUTPUT + OUTCOME METRIC",
+        "ASSURANCE + ADDITIONALITY",
+        "CLOSE DISTINCTION: Carbon tax is not emissions trading, green label is not verified"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ELIGIBILITY / TAXONOMY",
+            "OUTPUT + OUTCOME METRIC"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ASSURANCE + ADDITIONALITY",
+            "CLOSE DISTINCTION: Carbon tax is not emissions trading, green label is not verified..."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ELIGIBILITY / TAXONOMY",
+            "OUTPUT + OUTCOME METRIC"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Carbon tax is not emissions trading, green label is not verified.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g3\\economy-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "BOND-USE BOUNDARY",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "BOND-USE BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "GREEN BOND",
+          "role": "outcome"
+        },
+        {
+          "text": "ENVIRONMENTAL USES",
+          "role": "comparison"
+        },
+        {
+          "text": "SUSTAINABILITY BOND",
+          "role": "evidence"
+        },
+        {
+          "text": "GREEN + SOCIAL",
+          "role": "primary"
+        },
+        {
+          "text": "SOVEREIGN ISSUE",
+          "role": "outcome"
+        },
+        {
+          "text": "EARMARKED BORROWING",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPLETED VERIFIED OUTCOME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GREEN BOND → environmental uses",
+        "SUSTAINABILITY BOND → green + social",
+        "SOVEREIGN ISSUE → earmarked borrowing",
+        "LABEL != completed verified outcome"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "GREEN BOND → environmental uses",
+          "SOVEREIGN ISSUE → earmarked borrowing",
+          "GREEN BOND → environmental uses"
+        ],
+        [
+          "SUSTAINABILITY BOND → green + social",
+          "LABEL != completed verified outcome",
+          "SUSTAINABILITY BOND → green + social"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GREEN BOND → environmental uses",
+            "SUSTAINABILITY BOND → green + social"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOVEREIGN ISSUE → earmarked borrowing",
+            "LABEL != completed verified outcome"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GREEN BOND → environmental uses",
+            "SUSTAINABILITY BOND → green + social"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SOVEREIGN ISSUE → earmarked borrowing; LABEL != completed verified outcome.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g3\\economy-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "CIRCULAR-VALUE LADDER",
+      "structural_type": "value-retention-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CIRCULAR-VALUE LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "REDUCE + REDESIGN",
+          "role": "outcome"
+        },
+        {
+          "text": "REUSE + REPAIR",
+          "role": "comparison"
+        },
+        {
+          "text": "REFURBISH + REMANUFACTURE",
+          "role": "evidence"
+        },
+        {
+          "text": "RECYCLE RESIDUAL MATERIALS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "REDUCE + REDESIGN",
+        "REUSE + REPAIR",
+        "REFURBISH + REMANUFACTURE",
+        "RECYCLE residual materials"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "REDUCE + REDESIGN",
+            "REUSE + REPAIR"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REFURBISH + REMANUFACTURE",
+            "RECYCLE residual materials"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "REDUCE + REDESIGN",
+            "REUSE + REPAIR"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REUSE + REPAIR; REFURBISH + REMANUFACTURE; RECYCLE residual materials.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g3\\economy-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "EPR RESULTS CHAIN",
+      "structural_type": "results-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "EPR RESULTS CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "PRODUCER OBLIGATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CERTIFICATE + VERIFICATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ACTUAL MATERIAL OUTCOME",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PRODUCER OBLIGATION",
+        "COLLECTION / PROCESSING",
+        "CERTIFICATE + VERIFICATION",
+        "ACTUAL MATERIAL OUTCOME"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRODUCER OBLIGATION",
+            "COLLECTION / PROCESSING"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CERTIFICATE + VERIFICATION",
+            "ACTUAL MATERIAL OUTCOME"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PRODUCER OBLIGATION",
+            "COLLECTION / PROCESSING"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COLLECTION / PROCESSING; CERTIFICATE + VERIFICATION; ACTUAL MATERIAL OUTCOME.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g3\\economy-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "JUST-TRANSITION MAP",
+      "structural_type": "distribution-board",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "JUST-TRANSITION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "WORKERS + SKILLS",
+          "role": "outcome"
+        },
+        {
+          "text": "REGIONS + REVENUE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONSUMERS + AFFORDABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "ENERGY ACCESS + SOCIAL PROTECTION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "WORKERS + SKILLS",
+        "REGIONS + REVENUE",
+        "CONSUMERS + AFFORDABILITY",
+        "ENERGY ACCESS + SOCIAL PROTECTION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WORKERS + SKILLS",
+            "REGIONS + REVENUE"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONSUMERS + AFFORDABILITY",
+            "ENERGY ACCESS + SOCIAL PROTECTION"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WORKERS + SKILLS",
+            "REGIONS + REVENUE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONSUMERS + AFFORDABILITY; ENERGY ACCESS + SOCIAL PROTECTION.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g3\\economy-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "TRADE-CLIMATE BOUNDARY",
+      "structural_type": "two-system-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "TRADE-CLIMATE BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "EU CBAM",
+          "role": "outcome"
+        },
+        {
+          "text": "EXTERNAL IMPORT RULE",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIA CCTS",
+          "role": "evidence"
+        },
+        {
+          "text": "DOMESTIC SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "UNSETTLED UNLESS VERIFIED",
+          "role": "outcome"
+        },
+        {
+          "text": "TRADE PRESSURE",
+          "role": "comparison"
+        },
+        {
+          "text": "POLICY IDENTITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EU CBAM → external import rule",
+        "INDIA CCTS / MRV → domestic system",
+        "RECOGNITION → unsettled unless verified",
+        "TRADE PRESSURE != policy identity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EU CBAM → external import rule",
+            "INDIA CCTS / MRV → domestic system"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RECOGNITION → unsettled unless verified",
+            "TRADE PRESSURE != policy identity"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EU CBAM → external import rule",
+            "INDIA CCTS / MRV → domestic system"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RECOGNITION → unsettled unless verified; TRADE PRESSURE != policy identity.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g3\\economy-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "CLIMATE-ECONOMICS ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "CLIMATE-ECONOMICS ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE METRIC + STATUS",
+          "role": "outcome"
+        },
+        {
+          "text": "TRACE PRICE + FINANCE + INNOVATION",
+          "role": "comparison"
+        },
+        {
+          "text": "TEST DISTRIBUTION + ADDITIONALITY",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCLUDE CREDIBLE JUST TRANSITION",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "STATE TAXONOMY/METHOD, BOUNDARY, BASELINE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "DEFINE metric + status",
+        "TRACE price + finance + innovation",
+        "TEST distribution + additionality",
+        "CONCLUDE credible just transition",
+        "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State taxonomy/method, boundary, baseline"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE metric + status",
+            "TRACE price + finance + innovation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEST distribution + additionality",
+            "CONCLUDE credible just transition"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State taxonomy/method, boundary, baseline,...",
+            "DEFINE metric + status"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State taxonomy/method, boundary, baseline,.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\25_Climate-Economics-Green-Finance-and-Circular-Economy.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-25\\g3\\economy-25_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE SOCIAL COST OF CARBON VALUES MARGINAL CLIMATE DAMAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "GREEN TAXONOMIES REDUCE INFORMATION ASYMMETRY WHILE RIGID LABELS MAY",
+          "role": "comparison"
+        },
+        {
+          "text": "CLIMATE STRESS TESTING EXPLORES SCENARIO EXPOSURE RATHER THAN PREDICTING",
+          "role": "evidence"
+        },
+        {
+          "text": "BORDER CARBON MEASURES CONNECT DOMESTIC CLIMATE AMBITION WITH TRADE",
+          "role": "primary"
+        },
+        {
+          "text": "CIRCULAR BUSINESS MODELS INCLUDE PRODUCT-AS-SERVICE, INDUSTRIAL SYMBIOSIS, REPAIR",
+          "role": "outcome"
+        },
+        {
+          "text": "ADAPTATION FINANCE HAS PUBLIC-GOOD CHARACTERISTICS AND WEAKER DIRECT REVENUE",
+          "role": "comparison"
+        },
+        {
+          "text": "MINISTRY OF ENVIRONMENT, FOREST AND CLIMATE CHANGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: The social cost of carbon values marginal climate damage but depends on discounting and",
+            "CAUTION: Green taxonomies reduce information asymmetry while rigid labels may exclude credible",
+            "CAUTION: Climate stress testing explores scenario exposure rather than predicting one exact",
+            "CAUTION: Border carbon measures connect domestic climate ambition with trade competitiveness and"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Circular business models include product-as-service, industrial symbiosis, repair",
+            "CAUTION: Adaptation finance has public-good characteristics and weaker direct revenue streams",
+            "Ministry of Environment, Forest and Climate Change: coordinates climate policy and",
+            "Ministry of New and Renewable Energy and power-sector institutions: support clean"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "RBI and SEBI: shape climate-risk disclosure, green debt and financial-sector",
+            "Urban local bodies and pollution-control systems: implement waste, recycling and",
+            "CAUTION: A carbon price can reduce emissions efficiently but raise household energy costs unless",
+            "CAUTION: A green bond finances defined environmental uses; a sustainability bond can combine"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

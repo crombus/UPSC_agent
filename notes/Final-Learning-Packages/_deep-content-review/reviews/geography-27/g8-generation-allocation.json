@@ -1,0 +1,12 @@
+{
+  "topic_key": "geography-27",
+  "allocated_at": "2026-09-05T06:29:52.975798+00:00",
+  "baseline_record_id": "geography-27:learner-v2:g7",
+  "new_record_id": "geography-27:learner-v2:g8",
+  "review_state": "revalidation_pending",
+  "scores": null,
+  "approval": false,
+  "prior_generation_immutable": true,
+  "live_export_identity": "geography-27:learner-v2:g7",
+  "live_master_identity": "geography-27:learner-v2:g7"
+}

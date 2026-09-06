@@ -1,20 +1,28 @@
-# Deep Content Review — polity-55
+# Deep Content Review — Indian Society 55: Constitutional Interpretation Doctrines
 
-## Locked baseline
+- **Baseline locked:** `polity-55:learner-v2:g3` — 96/100
+- **Immutable successor:** `polity-55:learner-v2:g4` — 98/100
+- **Approval:** false / pending explicit approval
 
-- Identity: `polity-55:learner-v2:g2`
-- Lock/recheck: `g2-identity-lock.json`, `g2-identity-recheck.json`
-- Initial score: **70/100**
+## Defects reported before repair
+
+- Hostile four-ledger ownership/PYQ control is absent.
+- Authoritative current-law source status is not dated.
+
+## Four-artifact repair and re-review
+
+The complete predecessor teaching is preserved, with canonical Basic/Core first
+and Optional Advanced still subordinate. A source-and-evidence contract now
+distinguishes archaeology, texts, inscriptions, coins, interpretation, PYQ
+metadata and current-status claims. Every identified solved item has demand
+decoding, a detailed model, an executable answer/compression plan, marks rationale
+and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D while
+official PYQ wording remains outside that rotation. Both master flows were
+regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
+
+- Session PDF: 60 pages
+- Workbook PDF: 30 pages
+- Solved items audited: 10
+- Basic/remedial MCQs audited: 48
+- Graphical/ASCII stages: 12 / 12
 - Approval: false
-
-## Baseline findings
-
-The canonical doctrine atlas was broad, but the generated package reduced operative tests to
-formulaic prose, paraphrased six PYQ routes, supplied generic Mains models and non-strict/template
-MCQs, and used only nine Core flow stages. The flows did not independently preserve the full
-competence-rights-invalidity-time-precedent sequence. Stale metadata described g2 as repaired in
-place. Exact case/year, holding/limit and pending-status discipline required regeneration.
-
-## Revalidation
-
-Immutable successor `polity-55:learner-v2:g3` passed at **98/100**. All hard gates passed; approval remains false.

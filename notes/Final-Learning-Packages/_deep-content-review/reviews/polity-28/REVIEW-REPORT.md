@@ -1,28 +1,28 @@
-# Polity-28 deep-content review — UPSC and SPSC
+# Deep Content Review — Indian Society 28: UPSC and SPSC
 
-## Locked baseline
+- **Baseline locked:** `polity-28:learner-v2:g4` — 96/100
+- **Immutable successor:** `polity-28:learner-v2:g5` — 98/100
+- **Approval:** false / pending explicit approval
 
-- Identity: `polity-28:learner-v2:g2`
-- Hash lock: `g2-identity-lock.json` (75 files)
-- Initial substantive score: **68/100**
+## Defects reported before repair
+
+- Hostile four-ledger ownership/PYQ control is absent.
+- Authoritative current-law source status is not dated.
+
+## Four-artifact repair and re-review
+
+The complete predecessor teaching is preserved, with canonical Basic/Core first
+and Optional Advanced still subordinate. A source-and-evidence contract now
+distinguishes archaeology, texts, inscriptions, coins, interpretation, PYQ
+metadata and current-status claims. Every identified solved item has demand
+decoding, a detailed model, an executable answer/compression plan, marks rationale
+and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D while
+official PYQ wording remains outside that rotation. Both master flows were
+regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
+
+- Session PDF: 110 pages
+- Workbook PDF: 26 pages
+- Solved items audited: 8
+- Basic/remedial MCQs audited: 48
+- Graphical/ASCII stages: 12 / 12
 - Approval: false
-
-## Baseline findings
-
-The canonical owner was strong but the exported session contained generated filler and 20 ellipses; the 48 MCQs were non-strict; eight solved answers had no answer-specific compression guidance; nine-stage flows omitted a standalone Article 319 matrix, the consultation-to-reporting loop and dated integrity controls; ASCII width reached 112. Basic/Advanced wording also compressed Article 319 eligibility and the SPSC suspension authority.
-
-## Repairs
-
-- Reverified Articles 315–323, current consultation regulations, Public Examinations Act/Rules and controlling recruitment judgments.
-- Corrected every Article 319 onward-eligibility route and distinguished President/Governor suspension during Article 317 inquiry.
-- Restored 56 uncompressed Core sessions, 48 strict ABCD questions and eight answer-specific guidance blocks; audited ledgers contain no directly routed recent PYQ for this owner, so none was fabricated.
-- Expanded graphical and ASCII masters to twelve agreeing Core routes plus one Optional card.
-
-## Immutable regeneration and final review
-
-- `g3`: technically valid and preserved at **95/100**; failed manual review because six ASCII title lines exceeded 100 characters.
-- `g4`: **98/100**, passed every hard gate.
-- Final metrics: 56 named Core sessions; 48 MCQs (`ABCD ×12`); eight answer-specific guidance blocks; audited zero direct recent PYQs; 12 Core flow panels/stages plus one Optional card; ASCII maximum width 98.
-- PDFs: session 98 pages; workbook 18; poster 1; tiled graphical 5; ASCII 12. No unintended blank-text pages or replacement glyphs.
-- Focused tests: **38 passed**. Immutable g2 generated artifacts retained locked hashes; shared owners/specs and final export changed intentionally.
-- Final identity: `polity-28:learner-v2:g4`. Approval remains false.

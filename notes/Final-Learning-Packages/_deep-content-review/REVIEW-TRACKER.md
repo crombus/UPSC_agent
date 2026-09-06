@@ -148,217 +148,217 @@
 | 124 | 25 | Indian Art and Culture | `indian-art-and-culture-13` — Religion, Philosophy and Cultural Synthesis | g4 | passed | passed | passed | passed | 98 | passed |
 | 125 | 25 | Indian Art and Culture | `indian-art-and-culture-14` — Heritage Conservation, Institutions and UNESCO | g5 | passed | passed | passed | passed | 98 | passed |
 | 126 | 26 | Indian Art and Culture | `indian-art-and-culture-15` — Indian Cinema, Film Institutions and Awards | g4 | passed | passed | passed | passed | 98 | passed |
-| 127 | 26 | Geography | `geography-01` — The Earth and the Universe / India Location and Extent | g16 | passed | passed | passed | passed | 98 | passed |
-| 128 | 26 | Geography | `geography-02` — The Earth's Crust, Rocks / India Geological Structure | g13 | passed | passed | passed | passed | 98 | passed |
-| 129 | 26 | Geography | `geography-03` — Vulcanism and Earthquakes / India Seismic Zones | g9 | passed | passed | passed | passed | 98 | passed |
-| 130 | 26 | Geography | `geography-04` — Weathering, Mass Movement, Groundwater / India Erosion-Landslides-Groundwater | g10 | passed | passed | passed | passed | 98 | passed |
-| 131 | 27 | Geography | `geography-05` — Landforms by Running Water / India Drainage and Interlinking | g3 | passed | passed | passed | passed | 98 | passed |
-| 132 | 27 | Geography | `geography-06` — Landforms of Glaciation / Himalayan Glaciers-GLOF | g4 | passed | passed | passed | passed | 98 | passed |
-| 133 | 27 | Geography | `geography-07` — Arid Desert Landforms / Thar Desertification | g4 | passed | passed | passed | passed | 98 | passed |
-| 134 | 27 | Geography | `geography-08` — Limestone and Karst Landforms / India Caves-Meghalayan Age | g4 | passed | passed | passed | passed | 98 | passed |
-| 135 | 27 | Geography | `geography-09` — Lakes / India Lakes and Wetlands | g4 | passed | passed | passed | passed | 98 | passed |
-| 136 | 28 | Geography | `geography-10` — Coastal Landforms / India Coast and CRZ | g3 | passed | passed | passed | passed | 98 | passed |
-| 137 | 28 | Geography | `geography-11` — Islands and Coral Reefs / India Islands-Great Nicobar | g3 | passed | passed | passed | passed | 98 | passed |
-| 138 | 28 | Geography | `geography-12` — The Oceans: Currents, Tides, Salinity / Indian Ocean and IOD | g3 | passed | passed | passed | passed | 98 | passed |
-| 139 | 28 | Geography | `geography-13` — Weather Elements / India Jet Stream-Western Disturbances | g3 | passed | passed | passed | passed | 98 | passed |
-| 140 | 28 | Geography | `geography-14` — Climate Classification (Koppen) / India Climatic Regions | g3 | passed | passed | passed | passed | 98 | passed |
-| 141 | 29 | Geography | `geography-15` — Hot Wet Equatorial Climate | g3 | passed | passed | passed | passed | 98 | passed |
-| 142 | 29 | Geography | `geography-16` — Tropical Monsoon and Marine Climate | g3 | passed | passed | passed | passed | 98 | passed |
-| 143 | 29 | Geography | `geography-17` — Savanna Sudan Climate | g3 | passed | passed | passed | passed | 98 | passed |
-| 144 | 29 | Geography | `geography-18` — Hot and MidLatitude Desert Climate | g3 | passed | passed | passed | passed | 98 | passed |
-| 145 | 29 | Geography | `geography-19` — Mediterranean Climate | g3 | passed | passed | passed | passed | 98 | passed |
-| 146 | 30 | Geography | `geography-20` — Temperate Continental Steppe Climate | g4 | passed | passed | passed | passed | 98 | passed |
-| 147 | 30 | Geography | `geography-21` — Warm Temperate Eastern Margin China Type | g4 | passed | passed | passed | passed | 98 | passed |
-| 148 | 30 | Geography | `geography-22` — Cool Temperate Western Margin British Type | g4 | passed | passed | passed | passed | 98 | passed |
-| 149 | 30 | Geography | `geography-23` — Cool Temperate Continental Siberian | g4 | passed | passed | passed | passed | 98 | passed |
-| 150 | 30 | Geography | `geography-24` — Cool Temperate Eastern Margin Laurentian | g4 | passed | passed | passed | passed | 98 | passed |
-| 151 | 31 | Geography | `geography-25` — Arctic or Polar Climate | g4 | passed | passed | passed | passed | 98 | passed |
-| 152 | 31 | Geography | `geography-26` — World Population and Demographic Transition | g5 | passed | passed | passed | passed | 98 | passed |
-| 153 | 31 | Geography | `geography-27` — Migration Theories and Patterns (India) | g5 | passed | passed | passed | passed | 98 | passed |
-| 154 | 31 | Geography | `geography-28-human-settlements-and-urbanisation` — Human Settlements and Urbanisation | g14 | passed | passed | passed | passed | 98 | passed |
-| 155 | 31 | Geography | `geography-29` — Regional Development and Five Year Plans | g5 | passed | passed | passed | passed | 98 | passed |
-| 156 | 32 | Geography | `geography-30-primary-economic-activities-agriculture` — Primary Economic Activities: Agriculture | g14 | passed | passed | passed | passed | 98 | passed |
-| 157 | 32 | Geography | `geography-31` — Mineral and Energy Resources: World and India | g4 | passed | passed | passed | passed | 98 | passed |
-| 158 | 32 | Geography | `geography-32-industries-and-industrial-regions` — Industries and Industrial Regions | g16 | passed | passed | passed | passed | 98 | passed |
-| 159 | 32 | Geography | `geography-33` — Transport, Trade and the Indian Space Programme | g3 | passed | passed | passed | passed | 98 | passed |
-| 160 | 32 | Geography | `geography-34` — World Regional Geography: Continents and Countries | g3 | passed | passed | passed | passed | 98 | passed |
-| 161 | 33 | Geography | `geography-35` — Indian Political Geography: Boundaries and Neighbours | g3 | passed | passed | passed | passed | 98 | passed |
-| 162 | 33 | Geography | `geography-36` — Contemporary Geographical Issues (India) | g4 | passed | passed | passed | passed | 98 | passed |
-| 163 | 33 | Geography | `geography-37` — Cultural and Social Geography of India | g4 | passed | passed | passed | passed | 98 | passed |
-| 164 | 33 | Indian Society | `indian-society-01` — Salient Features and Diversity of Indian Society | g3 | passed | passed | passed | passed | 98 | passed |
-| 165 | 33 | Indian Society | `indian-society-02` — Caste System: Structure and Contemporary Dynamics | g2 | passed | passed | passed | passed | 98 | passed |
-| 166 | 34 | Indian Society | `indian-society-03` — Tribe and Tribal Society | g2 | passed | passed | passed | passed | 98 | passed |
-| 167 | 34 | Indian Society | `indian-society-04` — Family, Marriage and Kinship | g2 | passed | passed | passed | passed | 98 | passed |
-| 168 | 34 | Indian Society | `indian-society-05` — Rural Society and Agrarian Change | g2 | passed | passed | passed | passed | 98 | passed |
-| 169 | 34 | Indian Society | `indian-society-06` — Population and Associated Issues | g2 | passed | passed | passed | passed | 98 | passed |
-| 170 | 34 | Indian Society | `indian-society-07` — Women and Women's Organisations | g2 | passed | passed | passed | passed | 98 | passed |
-| 171 | 35 | Indian Society | `indian-society-08` — Social Empowerment | g2 | passed | passed | passed | passed | 98 | passed |
-| 172 | 35 | Indian Society | `indian-society-09` — Poverty and Developmental Issues | g2 | passed | passed | passed | passed | 98 | passed |
-| 173 | 35 | Indian Society | `indian-society-10` — Urbanisation: Problems and Remedies | g2 | passed | passed | passed | passed | 98 | passed |
-| 174 | 35 | Indian Society | `indian-society-11` — Effects of Globalisation on Indian Society | g2 | passed | passed | passed | passed | 98 | passed |
-| 175 | 35 | Indian Society | `indian-society-12` — Social Change and Modernisation | g2 | passed | passed | passed | passed | 98 | passed |
-| 176 | 36 | Indian Society | `indian-society-13` — Communalism | g2 | passed | passed | passed | passed | 98 | passed |
-| 177 | 36 | Indian Society | `indian-society-14` — Regionalism | g2 | passed | passed | passed | passed | 98 | passed |
-| 178 | 36 | Indian Society | `indian-society-15` — Secularism | g2 | passed | passed | passed | passed | 98 | passed |
-| 179 | 36 | Polity | `polity-01` — Historical Background | g16 | passed | passed | passed | passed | 96 | passed |
-| 180 | 36 | Polity | `polity-02` — Making of the Constitution | g17 | passed | passed | passed | passed | 97 | passed |
-| 181 | 37 | Polity | `polity-03` — Salient Features | g18 | passed | passed | passed | passed | 98 | passed |
-| 182 | 37 | Polity | `polity-04` — Preamble | g18 | passed | passed | passed | passed | 98 | passed |
-| 183 | 37 | Polity | `polity-05` — Union and Territory | g17 | passed | passed | passed | passed | 98 | passed |
-| 184 | 37 | Polity | `polity-06` — Citizenship | g16 | passed | passed | passed | passed | 98 | passed |
-| 185 | 37 | Polity | `polity-07` — Fundamental Rights | g17 | passed | passed | passed | passed | 98 | passed |
-| 186 | 38 | Polity | `polity-08` — Directive Principles | g8 | passed | passed | passed | passed | 98 | passed |
-| 187 | 38 | Polity | `polity-09` — Fundamental Duties | g4 | passed | passed | passed | passed | 98 | passed |
-| 188 | 38 | Polity | `polity-10` — Amendment and Basic Structure | g6 | passed | passed | passed | passed | 98 | passed |
-| 189 | 38 | Polity | `polity-11` — Parliamentary System | g3 | passed | passed | passed | passed | 98 | passed |
-| 190 | 38 | Polity | `polity-12` — Federal System | g5 | passed | passed | passed | passed | 98 | passed |
-| 191 | 39 | Polity | `polity-13` — Centre State and Inter State Relations | g3 | passed | passed | passed | passed | 98 | passed |
-| 192 | 39 | Polity | `polity-14` — Emergency Provisions | g3 | passed | passed | passed | passed | 98 | passed |
-| 193 | 39 | Polity | `polity-15` — President and Vice President | g5 | passed | passed | passed | passed | 98 | passed |
-| 194 | 39 | Polity | `polity-16` — PM and Council of Ministers | g6 | passed | passed | passed | passed | 98 | passed |
-| 195 | 39 | Polity | `polity-17` — Parliament | g5 | passed | passed | passed | passed | 98 | passed |
-| 196 | 40 | Polity | `polity-18` — Supreme Court | g3 | passed | passed | passed | passed | 98 | passed |
-| 197 | 40 | Polity | `polity-19` — Governor CM State Council | g5 | passed | passed | passed | passed | 98 | passed |
-| 198 | 40 | Polity | `polity-20` — State Legislature | g5 | passed | passed | passed | passed | 98 | passed |
-| 199 | 40 | Polity | `polity-21` — High Court and Subordinate Courts | g4 | passed | passed | passed | passed | 98 | passed |
-| 200 | 40 | Polity | `polity-22` — Special Provisions | g4 | passed | passed | passed | passed | 98 | passed |
-| 201 | 41 | Polity | `polity-23` — Panchayati Raj | g6 | passed | passed | passed | passed | 98 | passed |
-| 202 | 41 | Polity | `polity-24` — Municipalities | g3 | passed | passed | passed | passed | 98 | passed |
-| 203 | 41 | Polity | `polity-25` — Union Territories | g5 | passed | passed | passed | passed | 98 | passed |
-| 204 | 41 | Polity | `polity-26` — Scheduled and Tribal Areas | g4 | passed | passed | passed | passed | 98 | passed |
-| 205 | 41 | Polity | `polity-27` — Election Commission | g4 | passed | passed | passed | passed | 98 | passed |
-| 206 | 42 | Polity | `polity-28` — UPSC and SPSC | g4 | passed | passed | passed | passed | 98 | passed |
-| 207 | 42 | Polity | `polity-29` — Finance Commission | g3 | passed | passed | passed | passed | 98 | passed |
-| 208 | 42 | Polity | `polity-30` — GST Council | g4 | passed | passed | passed | passed | 98 | passed |
-| 209 | 42 | Polity | `polity-31` — National Commissions SC ST BC | g3 | passed | passed | passed | passed | 98 | passed |
-| 210 | 42 | Polity | `polity-32` — CAG | g4 | passed | passed | passed | passed | 98 | passed |
-| 211 | 43 | Polity | `polity-33` — Attorney General and Advocate General | g5 | passed | passed | passed | passed | 98 | passed |
-| 212 | 43 | Polity | `polity-34` — NITI Aayog | g4 | passed | passed | passed | passed | 98 | passed |
-| 213 | 43 | Polity | `polity-35` — NHRC and SHRC | g5 | passed | passed | passed | passed | 98 | passed |
-| 214 | 43 | Polity | `polity-36` — CIC and SIC | g5 | passed | passed | passed | passed | 98 | passed |
-| 215 | 43 | Polity | `polity-37` — CVC and CBI | g7 | passed | passed | passed | passed | 98 | passed |
-| 216 | 44 | Polity | `polity-38` — Lokpal and Lokayuktas | g4 | passed | passed | passed | passed | 98 | passed |
-| 217 | 44 | Polity | `polity-39` — Cooperative Societies | g5 | passed | passed | passed | passed | 98 | passed |
-| 218 | 44 | Polity | `polity-40` — Official Language | g5 | passed | passed | passed | passed | 98 | passed |
-| 219 | 44 | Polity | `polity-41` — Public Services | g4 | passed | passed | passed | passed | 98 | passed |
-| 220 | 44 | Polity | `polity-42` — Anti Defection Law | g4 | passed | passed | passed | passed | 98 | passed |
-| 221 | 45 | Polity | `polity-43` — Political Parties | g7 | passed | passed | passed | passed | 98 | passed |
-| 222 | 45 | Polity | `polity-44` — Pressure Groups | g6 | passed | passed | passed | passed | 98 | passed |
-| 223 | 45 | Polity | `polity-45` — National Integration and Foreign Policy | g5 | passed | passed | passed | passed | 98 | passed |
-| 224 | 45 | Polity | `polity-46` — Administrative Tribunals | g4 | passed | passed | passed | passed | 98 | passed |
-| 225 | 45 | Polity | `polity-47` — Comparative Constitutional Design | g5 | passed | passed | passed | passed | 98 | passed |
-| 226 | 46 | Polity | `polity-48` — Ministries Departments and Central Secretariat | g4 | passed | passed | passed | passed | 98 | passed |
-| 227 | 46 | Polity | `polity-49` — Regulatory State and Quasi Judicial Institutions | g5 | passed | passed | passed | passed | 98 | passed |
-| 228 | 46 | Polity | `polity-50` — Concept of the Constitution | g3 | passed | passed | passed | passed | 98 | passed |
-| 229 | 46 | Polity | `polity-51` — Rights and Liabilities of the Government | g3 | passed | passed | passed | passed | 98 | passed |
-| 230 | 46 | Polity | `polity-52` — NCRWC and Working of the Constitution | g4 | passed | passed | passed | passed | 98 | passed |
-| 231 | 47 | Polity | `polity-53` — Special Provisions Relating to Certain Classes | g3 | passed | passed | passed | passed | 98 | passed |
-| 232 | 47 | Polity | `polity-54` — Lok Adalats and Other Courts | g3 | passed | passed | passed | passed | 98 | passed |
-| 233 | 47 | Polity | `polity-55` — Constitutional Interpretation Doctrines | g3 | passed | passed | passed | passed | 98 | passed |
-| 234 | 47 | Governance | `governance-01` — Good Governance: Concepts and Frameworks | g4 | passed | passed | passed | passed | 98 | passed |
-| 235 | 47 | Governance | `governance-02` — Government Policy Design and Implementation | g2 | passed | passed | passed | passed | 98 | passed |
-| 236 | 48 | Governance | `governance-03` — Development Processes and the Development Industry | g2 | passed | passed | passed | passed | 98 | passed |
-| 237 | 48 | Governance | `governance-04` — NGOs, SHGs and Civil-Society Stakeholders | g2 | passed | passed | passed | passed | 98 | passed |
-| 238 | 48 | Governance | `governance-05` — E-Governance Models and User-Centricity | g2 | passed | passed | passed | passed | 98 | passed |
-| 239 | 48 | Governance | `governance-06` — Digital Public Infrastructure and Data Governance | g2 | passed | passed | passed | passed | 98 | passed |
-| 240 | 48 | Governance | `governance-07` — Citizen-Centric Administration | g2 | passed | passed | passed | passed | 98 | passed |
-| 241 | 49 | Governance | `governance-08` — Transparency, Accountability, RTI, Grievance Redress and Social Audit | g2 | passed | passed | passed | passed | 98 | passed |
-| 242 | 49 | Governance | `governance-09` — Civil Services and Mission Karmayogi | g2 | passed | passed | passed | passed | 98 | passed |
-| 243 | 49 | Governance | `governance-10` — Administrative Reforms and the Second ARC | g2 | passed | passed | passed | passed | 98 | passed |
-| 244 | 49 | Governance | `governance-11` — Regulatory Governance and Independent Regulators | g2 | passed | passed | passed | passed | 98 | passed |
-| 245 | 49 | Governance | `governance-12` — Local Governance and Service Delivery | g2 | passed | passed | passed | passed | 98 | passed |
-| 246 | 50 | Governance | `governance-13` — Public Finance and Service-Delivery Tools | g2 | passed | passed | passed | passed | 98 | passed |
-| 247 | 50 | Governance | `governance-14` — Participatory Governance | g2 | passed | passed | passed | passed | 98 | passed |
-| 248 | 50 | Governance | `governance-15` — Monitoring, Evaluation and Outcomes | g2 | passed | passed | passed | passed | 98 | passed |
-| 249 | 50 | Governance | `governance-16` — Sports Governance, Institutions and Major Tournaments | g2 | passed | passed | passed | passed | 98 | passed |
-| 250 | 50 | Social Justice | `social-justice-01` — Social Justice, Inclusion and Welfare-State Framework | g3 | passed | passed | passed | passed | 98 | passed |
-| 251 | 51 | Social Justice | `social-justice-02` — Poverty, Hunger, Food and Nutrition Security | g2 | passed | passed | passed | passed | 98 | passed |
-| 252 | 51 | Social Justice | `social-justice-03` — Health Systems, Public Health and Universal Health Coverage | g2 | passed | passed | passed | passed | 98 | passed |
-| 253 | 51 | Social Justice | `social-justice-04` — Education and Human-Resource Development | g2 | passed | passed | passed | passed | 98 | passed |
-| 254 | 51 | Social Justice | `social-justice-05` — Women and Gender Justice | g2 | passed | passed | passed | passed | 98 | passed |
-| 255 | 51 | Social Justice | `social-justice-06` — Children and Child Protection | g2 | passed | passed | passed | passed | 98 | passed |
-| 256 | 52 | Social Justice | `social-justice-07` — Scheduled Castes: Rights, Atrocities and Welfare | g2 | passed | passed | passed | passed | 98 | passed |
-| 257 | 52 | Social Justice | `social-justice-08` — Scheduled Tribes, PVTGs and Tribal Welfare | g2 | passed | passed | passed | passed | 98 | passed |
-| 258 | 52 | Social Justice | `social-justice-09` — OBC, EWS and Social Mobility | g2 | passed | passed | passed | passed | 98 | passed |
-| 259 | 52 | Social Justice | `social-justice-10` — Minorities: Rights and Welfare | g2 | passed | passed | passed | passed | 98 | passed |
-| 260 | 52 | Social Justice | `social-justice-11` — Persons with Disabilities | g2 | passed | passed | passed | passed | 98 | passed |
-| 261 | 53 | Social Justice | `social-justice-12` — Elderly and Senior Citizens | g2 | passed | passed | passed | passed | 98 | passed |
-| 262 | 53 | Social Justice | `social-justice-13` — Transgender Persons and Denotified/Nomadic Communities | g2 | passed | passed | passed | passed | 98 | passed |
-| 263 | 53 | Social Justice | `social-justice-14` — Sanitation, Manual Scavenging and Safai Karamcharis | g2 | passed | passed | passed | passed | 98 | passed |
-| 264 | 53 | Social Justice | `social-justice-15` — Labour Social Security, Unorganised and Gig Workers | g2 | passed | passed | passed | passed | 98 | passed |
-| 265 | 53 | Social Justice | `social-justice-16` — Urban Poor, Homeless and Migrant Workers | g2 | passed | passed | passed | passed | 98 | passed |
-| 266 | 54 | Social Justice | `social-justice-17` — Scheme Performance, Convergence, Targeting and Data | g2 | passed | passed | passed | passed | 98 | passed |
-| 267 | 54 | International Relations | `international-relations-01` — Foreign-Policy Foundations and Strategic Autonomy | g5 | passed | passed | passed | passed | 98 | passed |
-| 268 | 54 | International Relations | `international-relations-02` — India and the Neighbourhood | g5 | passed | passed | passed | passed | 98 | passed |
-| 269 | 54 | International Relations | `international-relations-03` — India, China, Major Powers and Resilient Supply Chains | g4 | passed | passed | passed | passed | 98 | passed |
-| 270 | 54 | International Relations | `international-relations-04` — Indo-Pacific, Indian Ocean and Maritime Security | g4 | passed | passed | passed | passed | 98 | passed |
-| 271 | 55 | International Relations | `international-relations-05` — Central Asia, Eurasia and Connectivity | g4 | passed | passed | passed | passed | 98 | passed |
-| 272 | 55 | International Relations | `international-relations-06` — West Asia, Energy Security and Connectivity | g4 | passed | passed | passed | passed | 98 | passed |
-| 273 | 55 | International Relations | `international-relations-07` — India-Africa Development and Digital Partnership | g4 | passed | passed | passed | passed | 98 | passed |
-| 274 | 55 | International Relations | `international-relations-08` — Global South and Development Partnering | g4 | passed | passed | passed | passed | 98 | passed |
-| 275 | 55 | International Relations | `international-relations-09` — Indian Diaspora, Consular Protection and Soft Power | g4 | passed | passed | passed | passed | 98 | passed |
-| 276 | 56 | International Relations | `international-relations-10` — Regional, Global and Minilateral Groupings | g4 | passed | passed | passed | passed | 98 | passed |
-| 277 | 56 | International Relations | `international-relations-11` — Globalisation, Trade Agreements and External-Policy Effects | g4 | passed | passed | passed | passed | 98 | passed |
-| 278 | 56 | International Relations | `international-relations-12` — UN and International Institutions: Global Governance | g4 | passed | passed | passed | passed | 98 | passed |
-| 279 | 56 | Economy | `economy-01` — National Income: GDP, GVA, GNP, NDP and Measurement | g5 | passed | passed | passed | passed | 98 | passed |
-| 280 | 56 | Economy | `economy-02` — Growth, Development, HDI, IHDI and MPI | g2 | passed | passed | passed | passed | 98 | passed |
-| 281 | 57 | Economy | `economy-03` — Inflation, Price Indices and Business Cycles | g2 | passed | passed | passed | passed | 98 | passed |
-| 282 | 57 | Economy | `economy-04` — RBI, Monetary Policy and Liquidity Management | g2 | passed | passed | passed | passed | 98 | passed |
-| 283 | 57 | Economy | `economy-05` — Banking Structure, NBFCs and Financial Regulation | g2 | passed | passed | passed | passed | 98 | passed |
-| 284 | 57 | Economy | `economy-06` — NPAs, Basel Norms, Resolution and Financial Inclusion | g2 | passed | passed | passed | passed | 98 | passed |
-| 285 | 57 | Economy | `economy-07` — Money Market, Capital Market and Financial Instruments | g2 | passed | passed | passed | passed | 98 | passed |
-| 286 | 58 | Economy | `economy-08` — Securities, Bonds, Equity, Derivatives and Investment Funds | g2 | passed | passed | passed | passed | 98 | passed |
-| 287 | 58 | Economy | `economy-09` — Union Budget, Fiscal Policy and Deficit Indicators | g2 | passed | passed | passed | passed | 98 | passed |
-| 288 | 58 | Economy | `economy-10` — Taxation, GST, Finance Commission and Fiscal Federalism | g2 | passed | passed | passed | passed | 98 | passed |
-| 289 | 58 | Economy | `economy-11` — Land Reforms, Green Revolution and Cropping Systems | g2 | passed | passed | passed | passed | 98 | passed |
-| 290 | 58 | Economy | `economy-12` — MSP, Procurement, Buffer Stocks, PDS and Food Security | g2 | passed | passed | passed | passed | 98 | passed |
-| 291 | 59 | Economy | `economy-13` — APMC, e-NAM, FPOs and Agricultural Supply Chains | g2 | passed | passed | passed | passed | 98 | passed |
-| 292 | 59 | Economy | `economy-14` — Irrigation, Inputs, Credit, Insurance and Sustainable Agriculture | g2 | passed | passed | passed | passed | 98 | passed |
-| 293 | 59 | Economy | `economy-15` — Food Processing, Cold Chains and Value Addition | g2 | passed | passed | passed | passed | 98 | passed |
-| 294 | 59 | Economy | `economy-16` — Industrial Policy, 1991 Reforms, PSUs and Disinvestment | g4 | passed | passed | passed | passed | 98 | passed |
-| 295 | 59 | Economy | `economy-17` — MSMEs, PLI, Semiconductors and Manufacturing Strategy | g2 | passed | passed | passed | passed | 98 | passed |
-| 296 | 60 | Economy | `economy-18` — Infrastructure, PPPs, Logistics and Public Investment | g2 | passed | passed | passed | passed | 98 | passed |
-| 297 | 60 | Economy | `economy-19` — Balance of Payments, Exchange Rates and Forex Reserves | g2 | passed | passed | passed | passed | 98 | passed |
-| 298 | 60 | Economy | `economy-20` — Foreign Trade, WTO, FTAs and Protectionism | g2 | passed | passed | passed | passed | 98 | passed |
-| 299 | 60 | Economy | `economy-21` — IMF, World Bank, ADB, AIIB, NDB and Global Governance | g2 | passed | passed | passed | passed | 98 | passed |
-| 300 | 60 | Economy | `economy-22` — Employment, Labour Codes, Skills and Demographic Dividend | g2 | passed | passed | passed | passed | 98 | passed |
-| 301 | 61 | Economy | `economy-23` — Poverty, Inequality, Social Sector and Inclusive Growth | g2 | passed | passed | passed | passed | 98 | passed |
-| 302 | 61 | Economy | `economy-24` — Services, Digital Economy, Fintech and Platform Markets | g2 | passed | passed | passed | passed | 98 | passed |
-| 303 | 61 | Economy | `economy-25` — Climate Economics, Green Finance and Circular Economy | g2 | passed | passed | passed | passed | 98 | passed |
-| 304 | 61 | Economy | `economy-26` — Economic Survey Synthesis and Current Macro Dashboard | g2 | passed | passed | passed | passed | 98 | passed |
-| 305 | 61 | Economy | `economy-27` — Digital Agriculture, Agritech and e-Technology for Farmers | g2 | passed | passed | passed | passed | 98 | passed |
-| 306 | 62 | Economy | `economy-28` — Direct and Indirect Farm Subsidies and WTO Rules | g2 | passed | passed | passed | passed | 98 | passed |
-| 307 | 62 | Economy | `economy-29` — Agricultural Technology Missions and Mission-Mode Policy | g2 | passed | passed | passed | passed | 98 | passed |
-| 308 | 62 | Economy | `economy-30` — Economics of Animal Rearing, Livestock, Dairy, Poultry and Fisheries | g2 | passed | passed | passed | passed | 98 | passed |
-| 309 | 62 | Economy | `economy-31` — Energy Infrastructure Economics, Power, Fuels and Energy Security | g2 | passed | passed | passed | passed | 98 | passed |
-| 310 | 62 | Environment and Ecology | `environment-and-ecology-01` — Ecosystem Structure and Function | g4 | passed | passed | passed | passed | 98 | passed |
-| 311 | 63 | Environment and Ecology | `environment-and-ecology-02` — Biogeochemical Cycles and Ecological Pyramids | g2 | passed | passed | passed | passed | 98 | passed |
-| 312 | 63 | Environment and Ecology | `environment-and-ecology-03` — Ecological Succession and Biomes | g2 | passed | passed | passed | passed | 98 | passed |
-| 313 | 63 | Environment and Ecology | `environment-and-ecology-04` — Biodiversity Levels and Hotspots | g2 | passed | passed | passed | passed | 98 | passed |
-| 314 | 63 | Environment and Ecology | `environment-and-ecology-05` — IUCN Red List and Endemism | g2 | passed | passed | passed | passed | 98 | passed |
-| 315 | 63 | Environment and Ecology | `environment-and-ecology-06` — Protected Area Network India | g2 | passed | passed | passed | passed | 98 | passed |
-| 316 | 64 | Environment and Ecology | `environment-and-ecology-07` — Biosphere Reserves and Ramsar Sites | g3 | passed | passed | passed | passed | 98 | passed |
-| 317 | 64 | Environment and Ecology | `environment-and-ecology-08` — Wildlife Protection Act and Schedules | g2 | passed | passed | passed | passed | 98 | passed |
-| 318 | 64 | Environment and Ecology | `environment-and-ecology-09` — CITES and Wildlife Trade | g4 | passed | passed | passed | passed | 98 | passed |
-| 319 | 64 | Environment and Ecology | `environment-and-ecology-10` — CMS Bonn Convention Migratory Species | g2 | passed | passed | passed | passed | 98 | passed |
-| 320 | 64 | Environment and Ecology | `environment-and-ecology-11` — Forest Types and Forest Rights Act | g2 | passed | passed | passed | passed | 98 | passed |
-| 321 | 65 | Environment and Ecology | `environment-and-ecology-12` — Forest Governance CAMPA and Green India Mission | g2 | passed | passed | passed | passed | 98 | passed |
-| 322 | 65 | Environment and Ecology | `environment-and-ecology-13` — Air Pollution and CPCB Standards | g3 | passed | passed | passed | passed | 98 | passed |
-| 323 | 65 | Environment and Ecology | `environment-and-ecology-14` — Water Pollution and River Cleaning Missions | g3 | passed | passed | passed | passed | 98 | passed |
-| 324 | 65 | Environment and Ecology | `environment-and-ecology-15` — Solid Plastic and E-Waste Rules | g3 | passed | passed | passed | passed | 98 | passed |
-| 325 | 65 | Environment and Ecology | `environment-and-ecology-16` — Environmental Impact Assessment and NGT | g3 | passed | passed | passed | passed | 98 | passed |
-| 326 | 66 | Environment and Ecology | `environment-and-ecology-17` — Climate Change Science Greenhouse Effect | g3 | passed | passed | passed | passed | 98 | passed |
-| 327 | 66 | Environment and Ecology | `environment-and-ecology-18` — IPCC Assessment Reports | g3 | passed | passed | passed | passed | 98 | passed |
-| 328 | 66 | Environment and Ecology | `environment-and-ecology-19` — UNFCCC COP Kyoto Paris Agreement | g2 | passed | passed | passed | passed | 98 | passed |
-| 329 | 66 | Environment and Ecology | `environment-and-ecology-20` — India Climate Policy NAPCC Panchamrit LTLEDS | g3 | passed | passed | passed | passed | 98 | passed |
-| 330 | 66 | Environment and Ecology | `environment-and-ecology-21` — Carbon Markets CCUS and Direct Air Capture | g3 | passed | passed | passed | passed | 98 | passed |
-| 331 | 67 | Environment and Ecology | `environment-and-ecology-22` — Multilateral Environmental Conventions (CBD, Basel, Stockholm, Montreal) | g3 | passed | passed | passed | passed | 98 | passed |
-| 332 | 67 | Environment and Ecology | `environment-and-ecology-23` — Desertification UNCCD and Land Degradation | g3 | passed | passed | passed | passed | 98 | passed |
-| 333 | 67 | Environment and Ecology | `environment-and-ecology-24` — Coastal and Marine Ecology CRZ Blue Economy | g3 | passed | passed | passed | passed | 98 | passed |
-| 334 | 67 | Environment and Ecology | `environment-and-ecology-25` — Renewable Energy and Green Hydrogen | g2 | passed | passed | passed | passed | 98 | passed |
-| 335 | 67 | Environment and Ecology | `environment-and-ecology-26` — Disaster Management Framework and Sendai | g2 | passed | passed | passed | passed | 98 | passed |
-| 336 | 68 | Environment and Ecology | `environment-and-ecology-27` — Environmental Institutions (MoEFCC, CPCB, NBA, WII) | g2 | passed | passed | passed | passed | 98 | passed |
-| 337 | 68 | Environment and Ecology | `environment-and-ecology-28` — Species and Current Affairs Tracker | g2 | passed | passed | passed | passed | 98 | passed |
+| 127 | 26 | Geography | `geography-01` — The Earth and the Universe / India Location and Extent | g18 | passed | passed | passed | passed | 98 | passed |
+| 128 | 26 | Geography | `geography-02` — The Earth's Crust, Rocks / India Geological Structure | g14 | passed | passed | passed | passed | 98 | passed |
+| 129 | 26 | Geography | `geography-03` — Vulcanism and Earthquakes / India Seismic Zones | g10 | passed | passed | passed | passed | 98 | passed |
+| 130 | 26 | Geography | `geography-04` — Weathering, Mass Movement, Groundwater / India Erosion-Landslides-Groundwater | g11 | passed | passed | passed | passed | 98 | passed |
+| 131 | 27 | Geography | `geography-05` — Landforms by Running Water / India Drainage and Interlinking | g4 | passed | passed | passed | passed | 98 | passed |
+| 132 | 27 | Geography | `geography-06` — Landforms of Glaciation / Himalayan Glaciers-GLOF | g6 | passed | passed | passed | passed | 98 | passed |
+| 133 | 27 | Geography | `geography-07` — Arid Desert Landforms / Thar Desertification | g5 | passed | passed | passed | passed | 98 | passed |
+| 134 | 27 | Geography | `geography-08` — Limestone and Karst Landforms / India Caves-Meghalayan Age | g5 | passed | passed | passed | passed | 98 | passed |
+| 135 | 27 | Geography | `geography-09` — Lakes / India Lakes and Wetlands | g5 | passed | passed | passed | passed | 98 | passed |
+| 136 | 28 | Geography | `geography-10` — Coastal Landforms / India Coast and CRZ | g4 | passed | passed | passed | passed | 98 | passed |
+| 137 | 28 | Geography | `geography-11` — Islands and Coral Reefs / India Islands-Great Nicobar | g4 | passed | passed | passed | passed | 98 | passed |
+| 138 | 28 | Geography | `geography-12` — The Oceans: Currents, Tides, Salinity / Indian Ocean and IOD | g4 | passed | passed | passed | passed | 98 | passed |
+| 139 | 28 | Geography | `geography-13` — Weather Elements / India Jet Stream-Western Disturbances | g4 | passed | passed | passed | passed | 98 | passed |
+| 140 | 28 | Geography | `geography-14` — Climate Classification (Koppen) / India Climatic Regions | g4 | passed | passed | passed | passed | 98 | passed |
+| 141 | 29 | Geography | `geography-15` — Hot Wet Equatorial Climate | g4 | passed | passed | passed | passed | 98 | passed |
+| 142 | 29 | Geography | `geography-16` — Tropical Monsoon and Marine Climate | g4 | passed | passed | passed | passed | 98 | passed |
+| 143 | 29 | Geography | `geography-17` — Savanna Sudan Climate | g4 | passed | passed | passed | passed | 98 | passed |
+| 144 | 29 | Geography | `geography-18` — Hot and MidLatitude Desert Climate | g4 | passed | passed | passed | passed | 98 | passed |
+| 145 | 29 | Geography | `geography-19` — Mediterranean Climate | g4 | passed | passed | passed | passed | 98 | passed |
+| 146 | 30 | Geography | `geography-20` — Temperate Continental Steppe Climate | g5 | passed | passed | passed | passed | 98 | passed |
+| 147 | 30 | Geography | `geography-21` — Warm Temperate Eastern Margin China Type | g5 | passed | passed | passed | passed | 98 | passed |
+| 148 | 30 | Geography | `geography-22` — Cool Temperate Western Margin British Type | g5 | passed | passed | passed | passed | 98 | passed |
+| 149 | 30 | Geography | `geography-23` — Cool Temperate Continental Siberian | g5 | passed | passed | passed | passed | 98 | passed |
+| 150 | 30 | Geography | `geography-24` — Cool Temperate Eastern Margin Laurentian | g5 | passed | passed | passed | passed | 98 | passed |
+| 151 | 31 | Geography | `geography-25` — Arctic or Polar Climate | g5 | passed | passed | passed | passed | 98 | passed |
+| 152 | 31 | Geography | `geography-26` — World Population and Demographic Transition | g8 | passed | passed | passed | passed | 98 | passed |
+| 153 | 31 | Geography | `geography-27` — Migration Theories and Patterns (India) | g8 | passed | passed | passed | passed | 98 | passed |
+| 154 | 31 | Geography | `geography-28-human-settlements-and-urbanisation` — Human Settlements and Urbanisation | g15 | passed | passed | passed | passed | 98 | passed |
+| 155 | 31 | Geography | `geography-29` — Regional Development and Five Year Plans | g6 | passed | passed | passed | passed | 98 | passed |
+| 156 | 32 | Geography | `geography-30-primary-economic-activities-agriculture` — Primary Economic Activities: Agriculture | g15 | passed | passed | passed | passed | 98 | passed |
+| 157 | 32 | Geography | `geography-31` — Mineral and Energy Resources: World and India | g5 | passed | passed | passed | passed | 98 | passed |
+| 158 | 32 | Geography | `geography-32-industries-and-industrial-regions` — Industries and Industrial Regions | g17 | passed | passed | passed | passed | 98 | passed |
+| 159 | 32 | Geography | `geography-33` — Transport, Trade and the Indian Space Programme | g4 | passed | passed | passed | passed | 98 | passed |
+| 160 | 32 | Geography | `geography-34` — World Regional Geography: Continents and Countries | g4 | passed | passed | passed | passed | 98 | passed |
+| 161 | 33 | Geography | `geography-35` — Indian Political Geography: Boundaries and Neighbours | g4 | passed | passed | passed | passed | 98 | passed |
+| 162 | 33 | Geography | `geography-36` — Contemporary Geographical Issues (India) | g5 | passed | passed | passed | passed | 98 | passed |
+| 163 | 33 | Geography | `geography-37` — Cultural and Social Geography of India | g5 | passed | passed | passed | passed | 98 | passed |
+| 164 | 33 | Indian Society | `indian-society-01` — Salient Features and Diversity of Indian Society | g5 | passed | passed | passed | passed | 98 | passed |
+| 165 | 33 | Indian Society | `indian-society-02` — Caste System: Structure and Contemporary Dynamics | g3 | passed | passed | passed | passed | 98 | passed |
+| 166 | 34 | Indian Society | `indian-society-03` — Tribe and Tribal Society | g3 | passed | passed | passed | passed | 98 | passed |
+| 167 | 34 | Indian Society | `indian-society-04` — Family, Marriage and Kinship | g3 | passed | passed | passed | passed | 98 | passed |
+| 168 | 34 | Indian Society | `indian-society-05` — Rural Society and Agrarian Change | g3 | passed | passed | passed | passed | 98 | passed |
+| 169 | 34 | Indian Society | `indian-society-06` — Population and Associated Issues | g3 | passed | passed | passed | passed | 98 | passed |
+| 170 | 34 | Indian Society | `indian-society-07` — Women and Women's Organisations | g3 | passed | passed | passed | passed | 98 | passed |
+| 171 | 35 | Indian Society | `indian-society-08` — Social Empowerment | g4 | passed | passed | passed | passed | 98 | passed |
+| 172 | 35 | Indian Society | `indian-society-09` — Poverty and Developmental Issues | g3 | passed | passed | passed | passed | 98 | passed |
+| 173 | 35 | Indian Society | `indian-society-10` — Urbanisation: Problems and Remedies | g3 | passed | passed | passed | passed | 98 | passed |
+| 174 | 35 | Indian Society | `indian-society-11` — Effects of Globalisation on Indian Society | g3 | passed | passed | passed | passed | 98 | passed |
+| 175 | 35 | Indian Society | `indian-society-12` — Social Change and Modernisation | g3 | passed | passed | passed | passed | 98 | passed |
+| 176 | 36 | Indian Society | `indian-society-13` — Communalism | g3 | passed | passed | passed | passed | 98 | passed |
+| 177 | 36 | Indian Society | `indian-society-14` — Regionalism | g3 | passed | passed | passed | passed | 98 | passed |
+| 178 | 36 | Indian Society | `indian-society-15` — Secularism | g3 | passed | passed | passed | passed | 98 | passed |
+| 179 | 36 | Polity | `polity-01` — Historical Background | g17 | passed | passed | passed | passed | 98 | passed |
+| 180 | 36 | Polity | `polity-02` — Making of the Constitution | g18 | passed | passed | passed | passed | 98 | passed |
+| 181 | 37 | Polity | `polity-03` — Salient Features | g19 | passed | passed | passed | passed | 98 | passed |
+| 182 | 37 | Polity | `polity-04` — Preamble | g19 | passed | passed | passed | passed | 98 | passed |
+| 183 | 37 | Polity | `polity-05` — Union and Territory | g18 | passed | passed | passed | passed | 98 | passed |
+| 184 | 37 | Polity | `polity-06` — Citizenship | g17 | passed | passed | passed | passed | 98 | passed |
+| 185 | 37 | Polity | `polity-07` — Fundamental Rights | g19 | passed | passed | passed | passed | 98 | passed |
+| 186 | 38 | Polity | `polity-08` — Directive Principles | g9 | passed | passed | passed | passed | 98 | passed |
+| 187 | 38 | Polity | `polity-09` — Fundamental Duties | g5 | passed | passed | passed | passed | 98 | passed |
+| 188 | 38 | Polity | `polity-10` — Amendment and Basic Structure | g8 | passed | passed | passed | passed | 98 | passed |
+| 189 | 38 | Polity | `polity-11` — Parliamentary System | g5 | passed | passed | passed | passed | 98 | passed |
+| 190 | 38 | Polity | `polity-12` — Federal System | g8 | passed | passed | passed | passed | 98 | passed |
+| 191 | 39 | Polity | `polity-13` — Centre State and Inter State Relations | g4 | passed | passed | passed | passed | 98 | passed |
+| 192 | 39 | Polity | `polity-14` — Emergency Provisions | g4 | passed | passed | passed | passed | 98 | passed |
+| 193 | 39 | Polity | `polity-15` — President and Vice President | g6 | passed | passed | passed | passed | 98 | passed |
+| 194 | 39 | Polity | `polity-16` — PM and Council of Ministers | g7 | passed | passed | passed | passed | 98 | passed |
+| 195 | 39 | Polity | `polity-17` — Parliament | g6 | passed | passed | passed | passed | 98 | passed |
+| 196 | 40 | Polity | `polity-18` — Supreme Court | g4 | passed | passed | passed | passed | 98 | passed |
+| 197 | 40 | Polity | `polity-19` — Governor CM State Council | g9 | passed | passed | passed | passed | 98 | passed |
+| 198 | 40 | Polity | `polity-20` — State Legislature | g8 | passed | passed | passed | passed | 98 | passed |
+| 199 | 40 | Polity | `polity-21` — High Court and Subordinate Courts | g7 | passed | passed | passed | passed | 98 | passed |
+| 200 | 40 | Polity | `polity-22` — Special Provisions | g6 | passed | passed | passed | passed | 98 | passed |
+| 201 | 41 | Polity | `polity-23` — Panchayati Raj | g7 | passed | passed | passed | passed | 98 | passed |
+| 202 | 41 | Polity | `polity-24` — Municipalities | g4 | passed | passed | passed | passed | 98 | passed |
+| 203 | 41 | Polity | `polity-25` — Union Territories | g6 | passed | passed | passed | passed | 98 | passed |
+| 204 | 41 | Polity | `polity-26` — Scheduled and Tribal Areas | g5 | passed | passed | passed | passed | 98 | passed |
+| 205 | 41 | Polity | `polity-27` — Election Commission | g5 | passed | passed | passed | passed | 98 | passed |
+| 206 | 42 | Polity | `polity-28` — UPSC and SPSC | g5 | passed | passed | passed | passed | 98 | passed |
+| 207 | 42 | Polity | `polity-29` — Finance Commission | g4 | passed | passed | passed | passed | 98 | passed |
+| 208 | 42 | Polity | `polity-30` — GST Council | g5 | passed | passed | passed | passed | 98 | passed |
+| 209 | 42 | Polity | `polity-31` — National Commissions SC ST BC | g4 | passed | passed | passed | passed | 98 | passed |
+| 210 | 42 | Polity | `polity-32` — CAG | g5 | passed | passed | passed | passed | 98 | passed |
+| 211 | 43 | Polity | `polity-33` — Attorney General and Advocate General | g6 | passed | passed | passed | passed | 98 | passed |
+| 212 | 43 | Polity | `polity-34` — NITI Aayog | g5 | passed | passed | passed | passed | 98 | passed |
+| 213 | 43 | Polity | `polity-35` — NHRC and SHRC | g8 | passed | passed | passed | passed | 98 | passed |
+| 214 | 43 | Polity | `polity-36` — CIC and SIC | g6 | passed | passed | passed | passed | 98 | passed |
+| 215 | 43 | Polity | `polity-37` — CVC and CBI | g8 | passed | passed | passed | passed | 98 | passed |
+| 216 | 44 | Polity | `polity-38` — Lokpal and Lokayuktas | g5 | passed | passed | passed | passed | 98 | passed |
+| 217 | 44 | Polity | `polity-39` — Cooperative Societies | g6 | passed | passed | passed | passed | 98 | passed |
+| 218 | 44 | Polity | `polity-40` — Official Language | g6 | passed | passed | passed | passed | 98 | passed |
+| 219 | 44 | Polity | `polity-41` — Public Services | g5 | passed | passed | passed | passed | 98 | passed |
+| 220 | 44 | Polity | `polity-42` — Anti Defection Law | g6 | passed | passed | passed | passed | 98 | passed |
+| 221 | 45 | Polity | `polity-43` — Political Parties | g8 | passed | passed | passed | passed | 98 | passed |
+| 222 | 45 | Polity | `polity-44` — Pressure Groups | g7 | passed | passed | passed | passed | 98 | passed |
+| 223 | 45 | Polity | `polity-45` — National Integration and Foreign Policy | g8 | passed | passed | passed | passed | 98 | passed |
+| 224 | 45 | Polity | `polity-46` — Administrative Tribunals | g5 | passed | passed | passed | passed | 98 | passed |
+| 225 | 45 | Polity | `polity-47` — Comparative Constitutional Design | g6 | passed | passed | passed | passed | 98 | passed |
+| 226 | 46 | Polity | `polity-48` — Ministries Departments and Central Secretariat | g5 | passed | passed | passed | passed | 98 | passed |
+| 227 | 46 | Polity | `polity-49` — Regulatory State and Quasi Judicial Institutions | g6 | passed | passed | passed | passed | 98 | passed |
+| 228 | 46 | Polity | `polity-50` — Concept of the Constitution | g4 | passed | passed | passed | passed | 98 | passed |
+| 229 | 46 | Polity | `polity-51` — Rights and Liabilities of the Government | g4 | passed | passed | passed | passed | 98 | passed |
+| 230 | 46 | Polity | `polity-52` — NCRWC and Working of the Constitution | g5 | passed | passed | passed | passed | 98 | passed |
+| 231 | 47 | Polity | `polity-53` — Special Provisions Relating to Certain Classes | g4 | passed | passed | passed | passed | 98 | passed |
+| 232 | 47 | Polity | `polity-54` — Lok Adalats and Other Courts | g4 | passed | passed | passed | passed | 98 | passed |
+| 233 | 47 | Polity | `polity-55` — Constitutional Interpretation Doctrines | g4 | passed | passed | passed | passed | 98 | passed |
+| 234 | 47 | Governance | `governance-01` — Good Governance: Concepts and Frameworks | g5 | passed | passed | passed | passed | 98 | passed |
+| 235 | 47 | Governance | `governance-02` — Government Policy Design and Implementation | g3 | passed | passed | passed | passed | 98 | passed |
+| 236 | 48 | Governance | `governance-03` — Development Processes and the Development Industry | g3 | passed | passed | passed | passed | 98 | passed |
+| 237 | 48 | Governance | `governance-04` — NGOs, SHGs and Civil-Society Stakeholders | g3 | passed | passed | passed | passed | 98 | passed |
+| 238 | 48 | Governance | `governance-05` — E-Governance Models and User-Centricity | g3 | passed | passed | passed | passed | 98 | passed |
+| 239 | 48 | Governance | `governance-06` — Digital Public Infrastructure and Data Governance | g3 | passed | passed | passed | passed | 98 | passed |
+| 240 | 48 | Governance | `governance-07` — Citizen-Centric Administration | g3 | passed | passed | passed | passed | 98 | passed |
+| 241 | 49 | Governance | `governance-08` — Transparency, Accountability, RTI, Grievance Redress and Social Audit | g3 | passed | passed | passed | passed | 98 | passed |
+| 242 | 49 | Governance | `governance-09` — Civil Services and Mission Karmayogi | g3 | passed | passed | passed | passed | 98 | passed |
+| 243 | 49 | Governance | `governance-10` — Administrative Reforms and the Second ARC | g3 | passed | passed | passed | passed | 98 | passed |
+| 244 | 49 | Governance | `governance-11` — Regulatory Governance and Independent Regulators | g3 | passed | passed | passed | passed | 98 | passed |
+| 245 | 49 | Governance | `governance-12` — Local Governance and Service Delivery | g3 | passed | passed | passed | passed | 98 | passed |
+| 246 | 50 | Governance | `governance-13` — Public Finance and Service-Delivery Tools | g3 | passed | passed | passed | passed | 98 | passed |
+| 247 | 50 | Governance | `governance-14` — Participatory Governance | g3 | passed | passed | passed | passed | 98 | passed |
+| 248 | 50 | Governance | `governance-15` — Monitoring, Evaluation and Outcomes | g3 | passed | passed | passed | passed | 98 | passed |
+| 249 | 50 | Governance | `governance-16` — Sports Governance, Institutions and Major Tournaments | g3 | passed | passed | passed | passed | 98 | passed |
+| 250 | 50 | Social Justice | `social-justice-01` — Social Justice, Inclusion and Welfare-State Framework | g4 | passed | passed | passed | passed | 98 | passed |
+| 251 | 51 | Social Justice | `social-justice-02` — Poverty, Hunger, Food and Nutrition Security | g3 | passed | passed | passed | passed | 98 | passed |
+| 252 | 51 | Social Justice | `social-justice-03` — Health Systems, Public Health and Universal Health Coverage | g3 | passed | passed | passed | passed | 98 | passed |
+| 253 | 51 | Social Justice | `social-justice-04` — Education and Human-Resource Development | g3 | passed | passed | passed | passed | 98 | passed |
+| 254 | 51 | Social Justice | `social-justice-05` — Women and Gender Justice | g3 | passed | passed | passed | passed | 98 | passed |
+| 255 | 51 | Social Justice | `social-justice-06` — Children and Child Protection | g3 | passed | passed | passed | passed | 98 | passed |
+| 256 | 52 | Social Justice | `social-justice-07` — Scheduled Castes: Rights, Atrocities and Welfare | g3 | passed | passed | passed | passed | 98 | passed |
+| 257 | 52 | Social Justice | `social-justice-08` — Scheduled Tribes, PVTGs and Tribal Welfare | g3 | passed | passed | passed | passed | 98 | passed |
+| 258 | 52 | Social Justice | `social-justice-09` — OBC, EWS and Social Mobility | g3 | passed | passed | passed | passed | 98 | passed |
+| 259 | 52 | Social Justice | `social-justice-10` — Minorities: Rights and Welfare | g3 | passed | passed | passed | passed | 98 | passed |
+| 260 | 52 | Social Justice | `social-justice-11` — Persons with Disabilities | g3 | passed | passed | passed | passed | 98 | passed |
+| 261 | 53 | Social Justice | `social-justice-12` — Elderly and Senior Citizens | g3 | passed | passed | passed | passed | 98 | passed |
+| 262 | 53 | Social Justice | `social-justice-13` — Transgender Persons and Denotified/Nomadic Communities | g3 | passed | passed | passed | passed | 98 | passed |
+| 263 | 53 | Social Justice | `social-justice-14` — Sanitation, Manual Scavenging and Safai Karamcharis | g3 | passed | passed | passed | passed | 98 | passed |
+| 264 | 53 | Social Justice | `social-justice-15` — Labour Social Security, Unorganised and Gig Workers | g3 | passed | passed | passed | passed | 98 | passed |
+| 265 | 53 | Social Justice | `social-justice-16` — Urban Poor, Homeless and Migrant Workers | g3 | passed | passed | passed | passed | 98 | passed |
+| 266 | 54 | Social Justice | `social-justice-17` — Scheme Performance, Convergence, Targeting and Data | g3 | passed | passed | passed | passed | 98 | passed |
+| 267 | 54 | International Relations | `international-relations-01` — Foreign-Policy Foundations and Strategic Autonomy | g6 | passed | passed | passed | passed | 98 | passed |
+| 268 | 54 | International Relations | `international-relations-02` — India and the Neighbourhood | g6 | passed | passed | passed | passed | 98 | passed |
+| 269 | 54 | International Relations | `international-relations-03` — India, China, Major Powers and Resilient Supply Chains | g5 | passed | passed | passed | passed | 98 | passed |
+| 270 | 54 | International Relations | `international-relations-04` — Indo-Pacific, Indian Ocean and Maritime Security | g5 | passed | passed | passed | passed | 98 | passed |
+| 271 | 55 | International Relations | `international-relations-05` — Central Asia, Eurasia and Connectivity | g5 | passed | passed | passed | passed | 98 | passed |
+| 272 | 55 | International Relations | `international-relations-06` — West Asia, Energy Security and Connectivity | g5 | passed | passed | passed | passed | 98 | passed |
+| 273 | 55 | International Relations | `international-relations-07` — India-Africa Development and Digital Partnership | g5 | passed | passed | passed | passed | 98 | passed |
+| 274 | 55 | International Relations | `international-relations-08` — Global South and Development Partnering | g5 | passed | passed | passed | passed | 98 | passed |
+| 275 | 55 | International Relations | `international-relations-09` — Indian Diaspora, Consular Protection and Soft Power | g5 | passed | passed | passed | passed | 98 | passed |
+| 276 | 56 | International Relations | `international-relations-10` — Regional, Global and Minilateral Groupings | g5 | passed | passed | passed | passed | 98 | passed |
+| 277 | 56 | International Relations | `international-relations-11` — Globalisation, Trade Agreements and External-Policy Effects | g5 | passed | passed | passed | passed | 98 | passed |
+| 278 | 56 | International Relations | `international-relations-12` — UN and International Institutions: Global Governance | g5 | passed | passed | passed | passed | 98 | passed |
+| 279 | 56 | Economy | `economy-01` — National Income: GDP, GVA, GNP, NDP and Measurement | g6 | passed | passed | passed | passed | 98 | passed |
+| 280 | 56 | Economy | `economy-02` — Growth, Development, HDI, IHDI and MPI | g3 | passed | passed | passed | passed | 98 | passed |
+| 281 | 57 | Economy | `economy-03` — Inflation, Price Indices and Business Cycles | g3 | passed | passed | passed | passed | 98 | passed |
+| 282 | 57 | Economy | `economy-04` — RBI, Monetary Policy and Liquidity Management | g3 | passed | passed | passed | passed | 98 | passed |
+| 283 | 57 | Economy | `economy-05` — Banking Structure, NBFCs and Financial Regulation | g3 | passed | passed | passed | passed | 98 | passed |
+| 284 | 57 | Economy | `economy-06` — NPAs, Basel Norms, Resolution and Financial Inclusion | g3 | passed | passed | passed | passed | 98 | passed |
+| 285 | 57 | Economy | `economy-07` — Money Market, Capital Market and Financial Instruments | g3 | passed | passed | passed | passed | 98 | passed |
+| 286 | 58 | Economy | `economy-08` — Securities, Bonds, Equity, Derivatives and Investment Funds | g3 | passed | passed | passed | passed | 98 | passed |
+| 287 | 58 | Economy | `economy-09` — Union Budget, Fiscal Policy and Deficit Indicators | g3 | passed | passed | passed | passed | 98 | passed |
+| 288 | 58 | Economy | `economy-10` — Taxation, GST, Finance Commission and Fiscal Federalism | g3 | passed | passed | passed | passed | 98 | passed |
+| 289 | 58 | Economy | `economy-11` — Land Reforms, Green Revolution and Cropping Systems | g3 | passed | passed | passed | passed | 98 | passed |
+| 290 | 58 | Economy | `economy-12` — MSP, Procurement, Buffer Stocks, PDS and Food Security | g3 | passed | passed | passed | passed | 98 | passed |
+| 291 | 59 | Economy | `economy-13` — APMC, e-NAM, FPOs and Agricultural Supply Chains | g3 | passed | passed | passed | passed | 98 | passed |
+| 292 | 59 | Economy | `economy-14` — Irrigation, Inputs, Credit, Insurance and Sustainable Agriculture | g3 | passed | passed | passed | passed | 98 | passed |
+| 293 | 59 | Economy | `economy-15` — Food Processing, Cold Chains and Value Addition | g3 | passed | passed | passed | passed | 98 | passed |
+| 294 | 59 | Economy | `economy-16` — Industrial Policy, 1991 Reforms, PSUs and Disinvestment | g5 | passed | passed | passed | passed | 98 | passed |
+| 295 | 59 | Economy | `economy-17` — MSMEs, PLI, Semiconductors and Manufacturing Strategy | g3 | passed | passed | passed | passed | 98 | passed |
+| 296 | 60 | Economy | `economy-18` — Infrastructure, PPPs, Logistics and Public Investment | g3 | passed | passed | passed | passed | 98 | passed |
+| 297 | 60 | Economy | `economy-19` — Balance of Payments, Exchange Rates and Forex Reserves | g3 | passed | passed | passed | passed | 98 | passed |
+| 298 | 60 | Economy | `economy-20` — Foreign Trade, WTO, FTAs and Protectionism | g3 | passed | passed | passed | passed | 98 | passed |
+| 299 | 60 | Economy | `economy-21` — IMF, World Bank, ADB, AIIB, NDB and Global Governance | g24 | passed | passed | passed | passed | 98 | passed |
+| 300 | 60 | Economy | `economy-22` — Employment, Labour Codes, Skills and Demographic Dividend | g3 | passed | passed | passed | passed | 98 | passed |
+| 301 | 61 | Economy | `economy-23` — Poverty, Inequality, Social Sector and Inclusive Growth | g3 | passed | passed | passed | passed | 98 | passed |
+| 302 | 61 | Economy | `economy-24` — Services, Digital Economy, Fintech and Platform Markets | g3 | passed | passed | passed | passed | 98 | passed |
+| 303 | 61 | Economy | `economy-25` — Climate Economics, Green Finance and Circular Economy | g3 | passed | passed | passed | passed | 98 | passed |
+| 304 | 61 | Economy | `economy-26` — Economic Survey Synthesis and Current Macro Dashboard | g3 | passed | passed | passed | passed | 98 | passed |
+| 305 | 61 | Economy | `economy-27` — Digital Agriculture, Agritech and e-Technology for Farmers | g3 | passed | passed | passed | passed | 98 | passed |
+| 306 | 62 | Economy | `economy-28` — Direct and Indirect Farm Subsidies and WTO Rules | g3 | passed | passed | passed | passed | 98 | passed |
+| 307 | 62 | Economy | `economy-29` — Agricultural Technology Missions and Mission-Mode Policy | g3 | passed | passed | passed | passed | 98 | passed |
+| 308 | 62 | Economy | `economy-30` — Economics of Animal Rearing, Livestock, Dairy, Poultry and Fisheries | g3 | passed | passed | passed | passed | 98 | passed |
+| 309 | 62 | Economy | `economy-31` — Energy Infrastructure Economics, Power, Fuels and Energy Security | g3 | passed | passed | passed | passed | 98 | passed |
+| 310 | 62 | Environment and Ecology | `environment-and-ecology-01` — Ecosystem Structure and Function | g6 | passed | passed | passed | passed | 98 | passed |
+| 311 | 63 | Environment and Ecology | `environment-and-ecology-02` — Biogeochemical Cycles and Ecological Pyramids | g3 | passed | passed | passed | passed | 98 | passed |
+| 312 | 63 | Environment and Ecology | `environment-and-ecology-03` — Ecological Succession and Biomes | g3 | passed | passed | passed | passed | 98 | passed |
+| 313 | 63 | Environment and Ecology | `environment-and-ecology-04` — Biodiversity Levels and Hotspots | g3 | passed | passed | passed | passed | 98 | passed |
+| 314 | 63 | Environment and Ecology | `environment-and-ecology-05` — IUCN Red List and Endemism | g3 | passed | passed | passed | passed | 98 | passed |
+| 315 | 63 | Environment and Ecology | `environment-and-ecology-06` — Protected Area Network India | g3 | passed | passed | passed | passed | 98 | passed |
+| 316 | 64 | Environment and Ecology | `environment-and-ecology-07` — Biosphere Reserves and Ramsar Sites | g4 | passed | passed | passed | passed | 98 | passed |
+| 317 | 64 | Environment and Ecology | `environment-and-ecology-08` — Wildlife Protection Act and Schedules | g3 | passed | passed | passed | passed | 98 | passed |
+| 318 | 64 | Environment and Ecology | `environment-and-ecology-09` — CITES and Wildlife Trade | g5 | passed | passed | passed | passed | 98 | passed |
+| 319 | 64 | Environment and Ecology | `environment-and-ecology-10` — CMS Bonn Convention Migratory Species | g3 | passed | passed | passed | passed | 98 | passed |
+| 320 | 64 | Environment and Ecology | `environment-and-ecology-11` — Forest Types and Forest Rights Act | g3 | passed | passed | passed | passed | 98 | passed |
+| 321 | 65 | Environment and Ecology | `environment-and-ecology-12` — Forest Governance CAMPA and Green India Mission | g3 | passed | passed | passed | passed | 98 | passed |
+| 322 | 65 | Environment and Ecology | `environment-and-ecology-13` — Air Pollution and CPCB Standards | g4 | passed | passed | passed | passed | 98 | passed |
+| 323 | 65 | Environment and Ecology | `environment-and-ecology-14` — Water Pollution and River Cleaning Missions | g4 | passed | passed | passed | passed | 98 | passed |
+| 324 | 65 | Environment and Ecology | `environment-and-ecology-15` — Solid Plastic and E-Waste Rules | g4 | passed | passed | passed | passed | 98 | passed |
+| 325 | 65 | Environment and Ecology | `environment-and-ecology-16` — Environmental Impact Assessment and NGT | g4 | passed | passed | passed | passed | 98 | passed |
+| 326 | 66 | Environment and Ecology | `environment-and-ecology-17` — Climate Change Science Greenhouse Effect | g4 | passed | passed | passed | passed | 98 | passed |
+| 327 | 66 | Environment and Ecology | `environment-and-ecology-18` — IPCC Assessment Reports | g4 | passed | passed | passed | passed | 98 | passed |
+| 328 | 66 | Environment and Ecology | `environment-and-ecology-19` — UNFCCC COP Kyoto Paris Agreement | g3 | passed | passed | passed | passed | 98 | passed |
+| 329 | 66 | Environment and Ecology | `environment-and-ecology-20` — India Climate Policy NAPCC Panchamrit LTLEDS | g4 | passed | passed | passed | passed | 98 | passed |
+| 330 | 66 | Environment and Ecology | `environment-and-ecology-21` — Carbon Markets CCUS and Direct Air Capture | g6 | passed | passed | passed | passed | 98 | passed |
+| 331 | 67 | Environment and Ecology | `environment-and-ecology-22` — Multilateral Environmental Conventions (CBD, Basel, Stockholm, Montreal) | g4 | passed | passed | passed | passed | 98 | passed |
+| 332 | 67 | Environment and Ecology | `environment-and-ecology-23` — Desertification UNCCD and Land Degradation | g4 | passed | passed | passed | passed | 98 | passed |
+| 333 | 67 | Environment and Ecology | `environment-and-ecology-24` — Coastal and Marine Ecology CRZ Blue Economy | g4 | passed | passed | passed | passed | 98 | passed |
+| 334 | 67 | Environment and Ecology | `environment-and-ecology-25` — Renewable Energy and Green Hydrogen | g3 | passed | passed | passed | passed | 98 | passed |
+| 335 | 67 | Environment and Ecology | `environment-and-ecology-26` — Disaster Management Framework and Sendai | g3 | passed | passed | passed | passed | 98 | passed |
+| 336 | 68 | Environment and Ecology | `environment-and-ecology-27` — Environmental Institutions (MoEFCC, CPCB, NBA, WII) | g3 | passed | passed | passed | passed | 98 | passed |
+| 337 | 68 | Environment and Ecology | `environment-and-ecology-28` — Species and Current Affairs Tracker | g3 | passed | passed | passed | passed | 98 | passed |
 | 338 | 68 | Science and Technology | `science-and-technology-01` — Space Programme: ISRO, Organisation and Launch Vehicles | g3 | passed | passed | passed | passed | 98 | passed |
 | 339 | 68 | Science and Technology | `science-and-technology-02` — Satellites, NavIC, GAGAN and Applications | g2 | passed | passed | passed | passed | 98 | passed |
 | 340 | 68 | Science and Technology | `science-and-technology-03` — Human Spaceflight: Gaganyaan and Planetary Missions | g2 | passed | passed | passed | passed | 98 | passed |

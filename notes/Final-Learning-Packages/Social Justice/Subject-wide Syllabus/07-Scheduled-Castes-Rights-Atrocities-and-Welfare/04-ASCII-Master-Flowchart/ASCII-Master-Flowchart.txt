@@ -40,6 +40,7 @@ REALITY -> notified by States under the Act's conditions
 CONCURRENCE -> with the Chief Justice of the concerned High Court
 ERROR -> assuming one Exclusive Special Court exists in every district
 USE -> treat court availability as a State-specific fact to be verified
+CLOSE DISTINCTION: Article 17 is not the whole field of caste discrimination,...
 
 ASCII MASTER FLOW — PANEL 7/12: Delivery channels
 UMBRELLA FRAMEWORK -> Ministry of Social Justice and Empowerment
@@ -68,7 +69,6 @@ RISK -> fragments collective bargaining power; open to electoral exploitation
 REQUIREMENT -> backwardness and representation data for each sub-group
 CONSEQUENCE -> a classification without evidence is arbitrary and legally vulnerable
 STATUS -> the judgment permits; it does not mandate, so inaction is not unconstitutional
-CLOSE DISTINCTION: Article 17 is not the whole field of caste discrimination,...
 
 ASCII MASTER FLOW — PANEL 11/12: Data discipline
 REGISTERED CASES -> cases that entered the system in a given reporting year
@@ -76,7 +76,6 @@ SUPPRESSORS -> social pressure, fear of retaliation, police reluctance, State va
 CONVICTION -> must be read with pendency, investigation quality, witness vulnerability
 SCALE ANCHOR -> Scheduled Castes were 16.6 per cent of the population in the 2011 Census
 RULE -> attach the year and the denominator to every figure used
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Articles 15-17, 46, reservation...
 
 ASCII MASTER FLOW — PANEL 12/12: Entry against conversion
 ENTRY SIDE -> reservation, post-matriculation scholarship, concessional credit
@@ -84,3 +83,4 @@ CONVERSION SIDE -> discrimination, landlessness, occupational segregation, viole
 INTERSECTION -> Dalit women face caste, gender-based violence and economic dependence
 RULE -> an entry instrument does not repair a conversion failure
 OWNERSHIP -> no Mains or objective demand is routed here and none is manufactured
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Articles 15-17, 46, reservation...

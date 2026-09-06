@@ -1,0 +1,12 @@
+{
+  "topic_key": "environment-and-ecology-05",
+  "allocated_at": "2026-09-06T06:00:16.964563+00:00",
+  "baseline_record_id": "environment-and-ecology-05:learner-v2:g2",
+  "new_record_id": "environment-and-ecology-05:learner-v2:g3",
+  "review_state": "revalidation_pending",
+  "scores": null,
+  "approval": false,
+  "prior_generation_immutable": true,
+  "live_export_identity": "environment-and-ecology-05:learner-v2:g2",
+  "live_master_identity": "environment-and-ecology-05:learner-v2:g2"
+}

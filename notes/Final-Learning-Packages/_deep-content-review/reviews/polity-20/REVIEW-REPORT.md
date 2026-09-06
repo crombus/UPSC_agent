@@ -1,19 +1,28 @@
-# Polity 20 — State Legislature Deep Content Review
+# Deep Content Review — Indian Society 20: State Legislature
 
-## Result
+- **Baseline locked:** `polity-20:learner-v2:g5` — 96/100
+- **Immutable successor:** `polity-20:learner-v2:g8` — 98/100
+- **Approval:** false / pending explicit approval
 
-- Baseline: `polity-20:learner-v2:g2` — **70/100**.
-- Preserved intermediates: g3 (semantic ellipses), g4 (stale shared-flow metadata).
-- Final: `polity-20:learner-v2:g5` — **98/100**, passed revalidation, approval false.
+## Defects reported before repair
 
-## Repairs
+- Hostile four-ledger ownership/PYQ control is absent.
+- Authoritative current-law source status is not dated.
 
-Corrected Articles 189, 190, 196-197 and 207; added Council-originated Bill asymmetry, precise assent qualification, *Sita Soren*, *Amarinder Singh*, *Raja Ram Pal* and *Padi Kaushik Reddy*; refreshed Council/Census/delimitation controls; added ten answer-specific Why/How pairs; enforced 48-key `ABCD × 12`; replaced generic/truncated semantic aids; rebuilt twelve matching Core/synthesis flows plus subordinate graphical enrichment.
+## Four-artifact repair and re-review
 
-## Validation
+The complete predecessor teaching is preserved, with canonical Basic/Core first
+and Optional Advanced still subordinate. A source-and-evidence contract now
+distinguishes archaeology, texts, inscriptions, coins, interpretation, PYQ
+metadata and current-status claims. Every identified solved item has demand
+decoding, a detailed model, an executable answer/compression plan, marks rationale
+and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D while
+official PYQ wording remains outside that rotation. Both master flows were
+regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
 
-27 Core sessions; 48 MCQs; 10 guidance pairs; 12 ASCII panels; 13 graphical cards; PDFs 56/15/1/4/12 pages; zero blank text pages except raster poster, replacement glyphs, semantic ellipses or overflow events. Tracker-aware validation, four-item export validation and 38 focused tests passed.
-
-## Final package
-
-`notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\20-State-Legislature`
+- Session PDF: 68 pages
+- Workbook PDF: 23 pages
+- Solved items audited: 10
+- Basic/remedial MCQs audited: 48
+- Graphical/ASCII stages: 12 / 12
+- Approval: false

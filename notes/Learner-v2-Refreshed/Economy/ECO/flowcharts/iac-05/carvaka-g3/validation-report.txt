@@ -1,0 +1,37 @@
+topic=economy-05
+renderer=carvaka-continuous-at-a-glance-graphical-v2
+renderer_version=2.0
+generated=2026-09-06T09:42:51.779343+05:30
+approved=false
+reference_master_sha256=c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62
+master_dimensions_px=4800x10870
+master_dpi_metadata=300x300
+poster_dimensions_points=2834.64x6419.28
+poster_pages=1
+tiled_pages=4
+same_master_identity=PASS
+tile_overlap_min_px=688
+preview_count=4
+contact_sheet_count=1
+core_stage_count=12
+total_card_count=13
+layout_diversity=5:hierarchy,matrix,process,spatial,synthesis
+header_legend_status=PASS
+continuous_numbered_rail=PASS
+final_synthesis_before_extra=PASS
+extra_visually_subordinate=PASS
+core_before_extra=PASS
+answer_grabbing_lines=PASS
+pill_count_and_colour_diversity=PASS
+internal_2_to_4_column_structure=PASS
+overflow_clipping_edge_contact=PASS
+replacement_glyph_check=PASS
+poster_exact_master_embedding=PASS
+tiled_exact_master_crops=PASS
+reference_byte_preservation=PASS
+tile_coordinates=
+  page-001: y=0..3234; overlap=0; from=00; continues=03
+  page-002: y=2545..5779; overlap=689; from=02; continues=06
+  page-003: y=5091..8325; overlap=688; from=05; continues=09
+  page-004: y=7636..10870; overlap=689; from=09; continues=E
+errors=none

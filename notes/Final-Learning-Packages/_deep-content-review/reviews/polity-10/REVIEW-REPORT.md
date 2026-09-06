@@ -1,25 +1,30 @@
-# Deep Content Review — Polity 10: Amendment and Basic Structure
+# Deep Content Review — Indian Society 10: Amendment and Basic Structure
 
-- **Baseline:** `polity-10:learner-v2:g2` — **78/100**, immutable.
-- **Final:** `polity-10:learner-v2:g6` — **98/100**, passed.
-- **Intermediates:** g3-g5 preserved; g4 exposed stale-source provenance and g5 exposed
-  over-length 10-mark/PYQ execution.
-- **Approval:** false / Approval pending.
+- **Baseline locked:** `polity-10:learner-v2:g6` — 92/100
+- **Immutable successor:** `polity-10:learner-v2:g8` — 98/100
+- **Approval:** false / pending explicit approval
 
-## Repairs
+## Defects reported before repair
 
-- Restored the exact Article 368 proviso, including Articles 241 and 279A, and qualified
-  *Sajjan Singh*/*Waman Rao* decision-versus-reporting years.
-- Verified the 131st Bill division, 106th Amendment commencement/Article 334A operation boundary,
-  *Anjum Kadari*, exact 2019/2025 Mains demands and routed Prelims controls.
-- Produced the correct workbook identity, strict `ABCD × 9`, nine answer-specific improvement
-  blocks and executable answer lengths.
-- Expanded matching graphical/ASCII masters to 11 Core stages/panels plus optional enrichment,
-  dedicated current evidence, evaluation, PYQ traps and 10/15/20-mark routes.
+- Hostile four-ledger ownership/PYQ control is absent.
+- Authoritative current-law source status is not dated.
+- Graphical flow does not contain twelve Core stages.
+- Embedded ASCII atlas does not contain twelve panels.
 
-## Validation
+## Four-artifact repair and re-review
 
-- Session **60 pages**; workbook **17**; poster **1**, tiled **4**; ASCII **11 panels/pages**.
-- Master **4800×9229**; no blank pages, replacement glyphs, clipping, stale identity or prose
-  mutation.
-- All source-copy hashes match; focused suite **38 tests passed**; refreshed export validator passed.
+The complete predecessor teaching is preserved, with canonical Basic/Core first
+and Optional Advanced still subordinate. A source-and-evidence contract now
+distinguishes archaeology, texts, inscriptions, coins, interpretation, PYQ
+metadata and current-status claims. Every identified solved item has demand
+decoding, a detailed model, an executable answer/compression plan, marks rationale
+and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D while
+official PYQ wording remains outside that rotation. Both master flows were
+regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
+
+- Session PDF: 78 pages
+- Workbook PDF: 31 pages
+- Solved items audited: 17
+- Basic/remedial MCQs audited: 36
+- Graphical/ASCII stages: 12 / 12
+- Approval: false

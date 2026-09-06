@@ -1,0 +1,12 @@
+{
+  "topic_key": "economy-01",
+  "allocated_at": "2026-09-06T04:04:30.009491+00:00",
+  "baseline_record_id": "economy-01:learner-v2:g5",
+  "new_record_id": "economy-01:learner-v2:g6",
+  "review_state": "revalidation_pending",
+  "scores": null,
+  "approval": false,
+  "prior_generation_immutable": true,
+  "live_export_identity": "economy-01:learner-v2:g5",
+  "live_master_identity": "economy-01:learner-v2:g5"
+}

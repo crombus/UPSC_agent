@@ -5,8 +5,8 @@ Topic: Health Systems, Public Health and Universal Health Coverage
 Subject: Social Justice
 Section: Subject-wide Syllabus
 Catalogue number: 03
-Source record ID: social-justice-03:learner-v2:g2
-Source generation: 2
+Source record ID: social-justice-03:learner-v2:g3
+Source generation: 3
 Approval: Approval pending
 
 Deliverables

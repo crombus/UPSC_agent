@@ -1,0 +1,1037 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-04",
+  "subject": "Economy",
+  "title": "RBI, MONETARY POLICY AND LIQUIDITY MANAGEMENT",
+  "short_route": "POLICY SIGNAL VERSUS IMPLEMENTATION → LIQUIDITY CORRIDOR → CRR VERSUS OMO → MPC INSTITUTION MAP → INFLATION TARGET FRAME → TRANSMISSION CHAIN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-04\\g3\\economy-04_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-04-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "c874e79ccfd827d75160367494b7971ea4d99a8c8de0b915592b85beeb699951",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "POLICY SIGNAL VERSUS IMPLEMENTATION",
+      "structural_type": "two-track-rail",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "POLICY SIGNAL VERSUS IMPLEMENTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "REPO-RATE SIGNAL",
+          "role": "outcome"
+        },
+        {
+          "text": "RBI OPERATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "LIQUIDITY ALIGNMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "OPERATING TARGET",
+          "role": "primary"
+        },
+        {
+          "text": "STANCE AND QUANTITY ARE DISTINCT",
+          "role": "outcome"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "RBI MONETARY POLICY WORKS THROUGH THE POLICY RATE, LIQUIDITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MPC → repo-rate signal",
+        "RBI OPERATIONS → liquidity alignment",
+        "WACR → operating target",
+        "TRAP → stance and quantity are distinct",
+        "MUST REMEMBER: RBI monetary policy works through the policy rate, liquidity framework"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MPC → repo-rate signal",
+            "RBI OPERATIONS → liquidity alignment"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WACR → operating target",
+            "TRAP → stance and quantity are distinct"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: RBI monetary policy works through the policy rate, liquidity framework,...",
+            "MPC → repo-rate signal"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: RBI monetary policy works through the policy rate, liquidity framework,.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-04\\g3\\economy-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "LIQUIDITY CORRIDOR",
+      "structural_type": "corridor-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "LIQUIDITY CORRIDOR",
+          "role": "primary"
+        },
+        {
+          "text": "OVERNIGHT BACKSTOP",
+          "role": "outcome"
+        },
+        {
+          "text": "COLLATERALISED INJECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "MARKET OPERATING RATE",
+          "role": "evidence"
+        },
+        {
+          "text": "UNCOLLATERALISED ABSORPTION",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "MSF → overnight backstop",
+        "REPO → collateralised injection",
+        "WACR → market operating rate",
+        "SDF → uncollateralised absorption"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MSF → overnight backstop",
+            "REPO → collateralised injection"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WACR → market operating rate",
+            "SDF → uncollateralised absorption"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MSF → overnight backstop",
+            "REPO → collateralised injection"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "WACR → market operating rate; SDF → uncollateralised absorption.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-04\\g3\\economy-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CRR VERSUS OMO",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CRR VERSUS OMO",
+          "role": "comparison"
+        },
+        {
+          "text": "RESERVE IMPOUNDING RATIO",
+          "role": "outcome"
+        },
+        {
+          "text": "OUTRIGHT G-SEC TRANSACTION",
+          "role": "comparison"
+        },
+        {
+          "text": "BROAD BANK-RESOURCE EFFECT",
+          "role": "evidence"
+        },
+        {
+          "text": "DURABLE LIQUIDITY + YIELD EFFECT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CRR → reserve impounding ratio",
+        "OMO → outright G-sec transaction",
+        "CRR → broad bank-resource effect",
+        "OMO → durable liquidity + yield effect"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CRR → reserve impounding ratio",
+          "CRR → broad bank-resource effect",
+          "CRR → reserve impounding ratio"
+        ],
+        [
+          "OMO → outright G-sec transaction",
+          "OMO → durable liquidity + yield effect",
+          "OMO → outright G-sec transaction"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CRR → reserve impounding ratio",
+            "OMO → outright G-sec transaction"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CRR → broad bank-resource effect",
+            "OMO → durable liquidity + yield effect"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CRR → reserve impounding ratio",
+            "OMO → outright G-sec transaction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CRR → broad bank-resource effect; OMO → durable liquidity + yield effect.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-04\\g3\\economy-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MPC INSTITUTION MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MPC INSTITUTION MAP",
+          "role": "institution"
+        },
+        {
+          "text": "RBI GOVERNOR",
+          "role": "outcome"
+        },
+        {
+          "text": "MONETARY-POLICY DEPUTY GOVERNOR",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE RBI OFFICER + THREE EXTERNAL MEMBERS",
+          "role": "evidence"
+        },
+        {
+          "text": "SIX MEMBERS",
+          "role": "primary"
+        },
+        {
+          "text": "REPO DECISION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "RBI GOVERNOR",
+        "MONETARY-POLICY DEPUTY GOVERNOR",
+        "ONE RBI OFFICER + THREE EXTERNAL MEMBERS",
+        "SIX MEMBERS → repo decision"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RBI GOVERNOR",
+            "MONETARY-POLICY DEPUTY GOVERNOR"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ONE RBI OFFICER + THREE EXTERNAL MEMBERS",
+            "SIX MEMBERS → repo decision"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RBI GOVERNOR",
+            "MONETARY-POLICY DEPUTY GOVERNOR"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ONE RBI OFFICER + THREE EXTERNAL MEMBERS; SIX MEMBERS → repo decision.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-04\\g3\\economy-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INFLATION TARGET FRAME",
+      "structural_type": "target-band",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "INFLATION TARGET FRAME",
+          "role": "primary"
+        },
+        {
+          "text": "NOMINAL ANCHOR",
+          "role": "outcome"
+        },
+        {
+          "text": "HEADLINE CPI",
+          "role": "comparison"
+        },
+        {
+          "text": "4 PER CENT",
+          "role": "evidence"
+        },
+        {
+          "text": "PLUS/MINUS 2 PERCENTAGE POINTS",
+          "role": "primary"
+        },
+        {
+          "text": "PRICE STABILITY WHILE MINDFUL OF GROWTH",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "NOMINAL ANCHOR → headline CPI",
+        "TARGET → 4 per cent",
+        "TOLERANCE → plus/minus 2 percentage points",
+        "MANDATE → price stability while mindful of growth"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NOMINAL ANCHOR → headline CPI",
+            "TARGET → 4 per cent"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TOLERANCE → plus/minus 2 percentage points",
+            "MANDATE → price stability while mindful of growth"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NOMINAL ANCHOR → headline CPI",
+            "TARGET → 4 per cent"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MANDATE → price stability while mindful of growth.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-04\\g3\\economy-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TRANSMISSION CHAIN",
+      "structural_type": "causal-chain",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TRANSMISSION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "REPO + COMMUNICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "WACR + FUNDING + DEPOSIT RATES",
+          "role": "comparison"
+        },
+        {
+          "text": "LENDING RATES + CREDIT + DEMAND",
+          "role": "evidence"
+        },
+        {
+          "text": "OUTPUT AND INFLATION WITH LAGS",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "REPO POLICY RATE IS NOT EVERY LIQUIDITY OPERATION, LIQUIDITY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "REPO + COMMUNICATION",
+        "WACR + funding + deposit rates",
+        "lending rates + credit + demand",
+        "output and inflation with lags",
+        "CLOSE DISTINCTION: Repo policy rate is not every liquidity operation, liquidity surplus"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "REPO + COMMUNICATION",
+            "WACR + funding + deposit rates"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "lending rates + credit + demand",
+            "output and inflation with lags"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Repo policy rate is not every liquidity operation, liquidity surplus...",
+            "REPO + COMMUNICATION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Repo policy rate is not every liquidity operation, liquidity surplus.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-04\\g3\\economy-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PANDEMIC PACKAGE",
+      "structural_type": "instrument-stack",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PANDEMIC PACKAGE",
+          "role": "primary"
+        },
+        {
+          "text": "REPO REDUCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "CRR EASING",
+          "role": "comparison"
+        },
+        {
+          "text": "OMO PURCHASES",
+          "role": "evidence"
+        },
+        {
+          "text": "TARGETED LONGER-TERM LIQUIDITY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "REPO REDUCTIONS",
+        "CRR EASING",
+        "OMO PURCHASES",
+        "TARGETED LONGER-TERM LIQUIDITY"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "REPO REDUCTIONS",
+            "CRR EASING"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OMO PURCHASES",
+            "TARGETED LONGER-TERM LIQUIDITY"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "REPO REDUCTIONS",
+            "CRR EASING"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "REPO REDUCTIONS; CRR EASING; OMO PURCHASES; TARGETED LONGER-TERM LIQUIDITY.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-04\\g3\\economy-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PASS-THROUGH FRICTIONS",
+      "structural_type": "friction-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PASS-THROUGH FRICTIONS",
+          "role": "primary"
+        },
+        {
+          "text": "EBLR LOANS",
+          "role": "outcome"
+        },
+        {
+          "text": "FASTER RESPONSE",
+          "role": "comparison"
+        },
+        {
+          "text": "LEGACY LOANS",
+          "role": "evidence"
+        },
+        {
+          "text": "SLOWER RESPONSE",
+          "role": "primary"
+        },
+        {
+          "text": "FUNDING + COMPETITION + RISK",
+          "role": "caution"
+        },
+        {
+          "text": "UNEVEN BURDEN",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "EBLR LOANS → faster response",
+        "DEPOSITS / LEGACY LOANS → slower response",
+        "FRICTIONS → funding + competition + risk",
+        "RESULT → uneven burden"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EBLR LOANS → faster response",
+            "DEPOSITS / LEGACY LOANS → slower response"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FRICTIONS → funding + competition + risk",
+            "RESULT → uneven burden"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EBLR LOANS → faster response",
+            "DEPOSITS / LEGACY LOANS → slower response"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FRICTIONS → funding + competition + risk; RESULT → uneven burden.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-04\\g3\\economy-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "FOREX-LIQUIDITY BRIDGE",
+      "structural_type": "sterilisation-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FOREX-LIQUIDITY BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "FOREX INTERVENTION",
+          "role": "outcome"
+        },
+        {
+          "text": "DOMESTIC LIQUIDITY CHANGES",
+          "role": "comparison"
+        },
+        {
+          "text": "ABSORPTION OFFSET",
+          "role": "evidence"
+        },
+        {
+          "text": "VOLATILITY SMOOTHING, NOT A FIXED RATE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOREX INTERVENTION",
+        "domestic liquidity changes",
+        "OMO / absorption offset",
+        "LIMIT → volatility smoothing, not a fixed rate"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOREX INTERVENTION",
+            "domestic liquidity changes"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OMO / absorption offset",
+            "LIMIT → volatility smoothing, not a fixed rate"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOREX INTERVENTION",
+            "domestic liquidity changes"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → volatility smoothing, not a fixed rate.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-04\\g3\\economy-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "MONEY MULTIPLIER",
+      "structural_type": "multiplier-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MONEY MULTIPLIER",
+          "role": "primary"
+        },
+        {
+          "text": "RESERVE MONEY",
+          "role": "outcome"
+        },
+        {
+          "text": "BANK DEPOSITS AND LENDING",
+          "role": "comparison"
+        },
+        {
+          "text": "LOWER CRR",
+          "role": "evidence"
+        },
+        {
+          "text": "HIGHER POTENTIAL MULTIPLIER",
+          "role": "primary"
+        },
+        {
+          "text": "BANKS MAY HOLD RESERVES OR AVOID RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RESERVE MONEY",
+        "bank deposits and lending",
+        "LOWER CRR / LEAKAGE → higher potential multiplier",
+        "LIMIT → banks may hold reserves or avoid risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RESERVE MONEY",
+            "bank deposits and lending"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LOWER CRR / LEAKAGE → higher potential multiplier",
+            "LIMIT → banks may hold reserves or avoid risk"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RESERVE MONEY",
+            "bank deposits and lending"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → banks may hold reserves or avoid risk.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-04\\g3\\economy-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "RBI BALANCE-SHEET TRAPS",
+      "structural_type": "classification-board",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RBI BALANCE-SHEET TRAPS",
+          "role": "primary"
+        },
+        {
+          "text": "NOTES ISSUED",
+          "role": "outcome"
+        },
+        {
+          "text": "FX INTEREST",
+          "role": "comparison"
+        },
+        {
+          "text": "INCOME SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "PAYMENT STORAGE",
+          "role": "primary"
+        },
+        {
+          "text": "SUPERVISORY DIRECTION",
+          "role": "outcome"
+        },
+        {
+          "text": "MATCH SPONSOR AND SUBJECT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "NOTES ISSUED → liability",
+        "G-SEC / FX INTEREST → income source",
+        "PAYMENT STORAGE → supervisory direction",
+        "COMMITTEES → match sponsor and subject"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NOTES ISSUED → liability",
+            "G-SEC / FX INTEREST → income source"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PAYMENT STORAGE → supervisory direction",
+            "COMMITTEES → match sponsor and subject"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NOTES ISSUED → liability",
+            "G-SEC / FX INTEREST → income source"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PAYMENT STORAGE → supervisory direction; COMMITTEES → match sponsor and subject.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-04\\g3\\economy-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "MONETARY-POLICY ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "MONETARY-POLICY ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DIAGNOSE INFLATION AND OUTPUT",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE MPC SIGNAL",
+          "role": "institution"
+        },
+        {
+          "text": "MAP LIQUIDITY IMPLEMENTATION",
+          "role": "evidence"
+        },
+        {
+          "text": "TEST TRANSMISSION, GROWTH AND EXTERNAL LIMITS",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "PRESERVE RBI ACT, MPC, OPERATING TARGET AND",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "DIAGNOSE inflation and output",
+        "STATE MPC signal",
+        "MAP liquidity implementation",
+        "TEST transmission, growth and external limits",
+        "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Preserve RBI Act, MPC, operating target and"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DIAGNOSE inflation and output",
+            "STATE MPC signal"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MAP liquidity implementation",
+            "TEST transmission, growth and external limits"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Preserve RBI Act, MPC, operating target and...",
+            "DIAGNOSE inflation and output"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Preserve RBI Act, MPC, operating target and.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\04_RBI-Monetary-Policy-and-Liquidity-Management.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-04\\g3\\economy-04_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE STANCE, POLICY RATE, OPERATING TARGET, LIQUIDITY CORRIDOR AND",
+          "role": "outcome"
+        },
+        {
+          "text": "THE FORMAL TARGET CONCERNS HEADLINE CPI, THE REPO IS",
+          "role": "comparison"
+        },
+        {
+          "text": "TRANSMISSION CHANNELS INCLUDE INTEREST RATES, BANK CREDIT, ASSET PRICES",
+          "role": "evidence"
+        },
+        {
+          "text": "A LIQUIDITY DEFICIT CAN KEEP OVERNIGHT RATES FIRM EVEN",
+          "role": "primary"
+        },
+        {
+          "text": "VARIABLE-RATE OPERATIONS CAN FINE-TUNE TRANSIENT LIQUIDITY WHILE OMOS ADDRESS",
+          "role": "outcome"
+        },
+        {
+          "text": "FISCAL CASH BALANCES, CURRENCY LEAKAGE, CAPITAL FLOWS AND GOVERNMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "RBI'S BALANCE-SHEET ACTIONS CAN INFLUENCE BOTH RUPEE LIQUIDITY AND",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Separate stance, policy rate, operating target, liquidity corridor and instruments;",
+            "CAUTION: The formal target concerns headline CPI, the repo is the MPC's policy signal and WACR",
+            "CAUTION: Transmission channels include interest rates, bank credit, asset prices, exchange rates",
+            "CAUTION: A liquidity deficit can keep overnight rates firm even when the announced stance is"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Variable-rate operations can fine-tune transient liquidity while OMOs address durable",
+            "CAUTION: Fiscal cash balances, currency leakage, capital flows and government spending create",
+            "CAUTION: RBI's balance-sheet actions can influence both rupee liquidity and foreign-exchange",
+            "Monetary Policy Committee: decides the policy repo rate under the inflation"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "RBI Financial Markets Operations Department: conducts liquidity operations and",
+            "Scheduled commercial banks and primary dealers: transmit policy through money,",
+            "Government cash-management system: changes autonomous liquidity through taxes,",
+            "CAUTION: An OMO purchase injects durable liquidity by buying government securities outright."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

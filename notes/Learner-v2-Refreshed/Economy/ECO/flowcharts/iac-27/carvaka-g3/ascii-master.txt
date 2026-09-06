@@ -1,0 +1,74 @@
+ASCII MASTER FLOW — PANEL 1/12: Farm data-to-outcome rail
+DATA
+-> SENSE + CONNECT
+-> ANALYSE + ADVISE + ACT
+-> INCOME + RISK + RESOURCE OUTCOME
+MUST REMEMBER: Digital agriculture links farmer/plot registries, decision support, remote...
+
+ASCII MASTER FLOW — PANEL 2/12: Technology-family map
+REMOTE SENSING -> observation
+GIS -> spatial analysis
+GNSS / NAVIC -> positioning
+IOT + AI + CONTROL -> separate layers
+
+ASCII MASTER FLOW — PANEL 3/12: Farm-cycle application chain
+PLAN + SOW
+MONITOR + APPLY INPUT
+INSURE + HARVEST
+STORE + ASSAY + SELL
+
+ASCII MASTER FLOW — PANEL 4/12: Digital Agriculture Mission map
+UMBRELLA MISSION
+AGRISTACK
+KRISHI-DSS
+APPROVAL != adoption or outcome
+
+ASCII MASTER FLOW — PANEL 5/12: AgriStack layers
+FARMER REGISTRY
+GEO-REFERENCED VILLAGE MAP
+CROP-SOWN INFORMATION
+FEDERATED SERVICE INTERFACE
+
+ASCII MASTER FLOW — PANEL 6/12: Krishi-DSS decision boundary
+GEOSPATIAL + ADMIN DATA
+-> MAP + MONITOR + MODEL
+-> HUMAN / OFFICIAL DECISION
+SUPPORT != autonomous authority
+CLOSE DISTINCTION: Registry entry is not land title, platform onboarding is not adoption,...
+
+ASCII MASTER FLOW — PANEL 7/12: e-NAM completion chain
+ONLINE DISCOVERY + BID
++ ASSAYING + AGGREGATION
++ LOGISTICS + SETTLEMENT
++ ENFORCEMENT = COMPLETED TRADE
+
+ASCII MASTER FLOW — PANEL 8/12: Drone capability matrix
+AIRCRAFT PLATFORM
+PAYLOAD -> camera / sensor / sprayer
+OPERATOR + CALIBRATION
+RULE + WEATHER + MAINTENANCE
+
+ASCII MASTER FLOW — PANEL 9/12: Shared-service economics
+HIGH FIXED COST
+-> FPO / SHG / CUSTOM HIRING
+-> COST SHARED ACROSS USERS
+DEMAND + REPAIR determine viability
+
+ASCII MASTER FLOW — PANEL 10/12: Inclusion and correction board
+OWNER != CULTIVATOR
+ASSISTED + OFFLINE ACCESS
+DATA CORRECTION
+HUMAN APPEAL
+
+ASCII MASTER FLOW — PANEL 11/12: Activity-to-outcome ladder
+REGISTRATION / DEVICE / MESSAGE
+-> ACTIVE ADOPTION
+-> CORRECT DECISION
+-> NET INCOME + RESILIENCE
+
+ASCII MASTER FLOW — PANEL 12/12: Digital-agriculture answer spine
+NAME farm-stage problem
+TRACE data -> decision -> action
+ADD physical + institutional complement
+TEST inclusion + outcome + remedy
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Distinguish mission approval, architecture,...

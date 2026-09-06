@@ -1,0 +1,14 @@
+{
+  "topic_key": "economy-12",
+  "locked_at": "2026-09-06T04:26:29.573579+00:00",
+  "master_tracker_identity": "economy-12:learner-v2:g2",
+  "generation": 2,
+  "approval": false,
+  "hashes": {
+    "markdown": "0495433f7ef15831019d28ed87f8eafefe99ec0a69cd9677c28f28d6cbfadf61",
+    "main_pdf": "3799b2cd1c169bbb647332d2dfcddf7e414c84fd883674357561e8a39523230a",
+    "workbook": "ad7ceed6f5fc4b38a6c03b54356853a771c36f16b29532a6ccf10d6d7ae2e651",
+    "graphical_master": "d2e3bdc279af4bfc42d119e0511c7b2e0f086d2159c40ba1da38d744c8dbd685",
+    "ascii_master": "b30fe35f6d6c3d7846515da436afeaf42c22d0902ffcafdc67e1a6c7bec0c05f"
+  }
+}

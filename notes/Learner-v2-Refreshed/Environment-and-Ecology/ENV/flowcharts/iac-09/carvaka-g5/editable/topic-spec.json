@@ -1,0 +1,1159 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-09",
+  "subject": "Environment-and-Ecology",
+  "title": "CITES AND WILDLIFE TRADE",
+  "short_route": "JURISDICTION FIREWALL → APPENDIX COMPARISON → LISTING-TO-TRANSACTION GATE → SPECIMEN AND SOURCE CHECK → TRANSACTION MATRIX → SCIENCE-TO-PERMIT CHAIN",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g5\\environment-and-ecology-09_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-09-deep-review-2026-09-06-g5.json",
+  "ascii_spec_sha256": "dd1c93fd12fa7cedf529d80da7e022742c1b2541a604d0c125aea30d85736dd3",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "JURISDICTION FIREWALL",
+      "structural_type": "layered-rail",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "JURISDICTION FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "INTERNATIONAL MOVEMENT OF LISTED SPECIMENS",
+          "role": "outcome"
+        },
+        {
+          "text": "DOMESTIC HUNTING",
+          "role": "comparison"
+        },
+        {
+          "text": "DOMESTIC WILDLIFE LAW",
+          "role": "evidence"
+        },
+        {
+          "text": "HABITAT LOSS",
+          "role": "primary"
+        },
+        {
+          "text": "LAND, FOREST AND PROTECTED-AREA LAW",
+          "role": "outcome"
+        },
+        {
+          "text": "LOCAL CONSUMPTION",
+          "role": "comparison"
+        },
+        {
+          "text": "DOMESTIC ENFORCEMENT AND DEMAND REDUCTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CITES → international movement of listed specimens",
+        "DOMESTIC HUNTING → domestic wildlife law",
+        "HABITAT LOSS → land, forest and protected-area law",
+        "LOCAL CONSUMPTION → domestic enforcement and demand reduction",
+        "RULE → treaty scope is trade-specific, not species-protection complete"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CITES → international movement of listed specimens",
+            "DOMESTIC HUNTING → domestic wildlife law"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HABITAT LOSS → land, forest and protected-area law",
+            "LOCAL CONSUMPTION → domestic enforcement and demand reduction"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → treaty scope is trade-specific, not species-protection complete",
+            "MUST REMEMBER: CITES regulates international trade in listed specimens through..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → treaty scope is trade-specific, not species-protection complete.",
+      "source_references": [
+        "Trade jurisdiction",
+        "CITES-IUCN-CMS split",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g5\\environment-and-ecology-09_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "APPENDIX COMPARISON",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "APPENDIX COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "APPENDIX I",
+          "role": "outcome"
+        },
+        {
+          "text": "THREATENED WITH EXTINCTION; PARTICULARLY STRICT TRADE CONTROL",
+          "role": "comparison"
+        },
+        {
+          "text": "APPENDIX II",
+          "role": "evidence"
+        },
+        {
+          "text": "TRADE CONTROLLED TO AVOID INCOMPATIBLE UTILIZATION",
+          "role": "primary"
+        },
+        {
+          "text": "APPENDIX III",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE PARTY SEEKS COOPERATION FOR A SPECIES IT REGULATES",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMON THREAD",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "APPENDIX I → threatened with extinction; particularly strict trade control",
+        "APPENDIX II → trade controlled to avoid incompatible utilization",
+        "APPENDIX III → one Party seeks cooperation for a species it regulates",
+        "COMMON THREAD → international trade documents and verification",
+        "NOT A LADDER → Appendix III is not a lower extinction-risk score"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "APPENDIX I → threatened with extinction; particularly strict trade control",
+          "APPENDIX III → one Party seeks cooperation for a species it regulates",
+          "NOT A LADDER → Appendix III is not a lower extinction-risk score"
+        ],
+        [
+          "APPENDIX II → trade controlled to avoid incompatible utilization",
+          "COMMON THREAD → international trade documents and verification",
+          "APPENDIX I → threatened with extinction; particularly strict trade control"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "APPENDIX I → threatened with extinction; particularly strict trade control",
+            "APPENDIX II → trade controlled to avoid incompatible utilization"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "APPENDIX III → one Party seeks cooperation for a species it regulates",
+            "COMMON THREAD → international trade documents and verification"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NOT A LADDER → Appendix III is not a lower extinction-risk score",
+            "APPENDIX I → threatened with extinction; particularly strict trade control"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NOT A LADDER → Appendix III is not a lower extinction-risk score.",
+      "source_references": [
+        "Appendix I boundary",
+        "Appendix II boundary",
+        "Appendix III boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g5\\environment-and-ecology-09_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "LISTING-TO-TRANSACTION GATE",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LISTING-TO-TRANSACTION GATE",
+          "role": "primary"
+        },
+        {
+          "text": "LISTING FOUND",
+          "role": "outcome"
+        },
+        {
+          "text": "VERIFY ACCEPTED SCIENTIFIC NAME",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIMEN OR PROCESSED PRODUCT",
+          "role": "evidence"
+        },
+        {
+          "text": "IMPORT, EXPORT, RE-EXPORT OR INTRODUCTION FROM SEA",
+          "role": "primary"
+        },
+        {
+          "text": "ORIGIN, PURPOSE, RESERVATION AND REQUIRED DOCUMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "LISTING ALONE NEVER PROVES LAWFUL OR UNLAWFUL MOVEMENT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "LISTING FOUND → verify accepted scientific name",
+        "IDENTIFY → specimen or processed product",
+        "CLASSIFY → import, export, re-export or introduction from sea",
+        "CHECK → origin, purpose, reservation and required document",
+        "VERDICT → listing alone never proves lawful or unlawful movement"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LISTING FOUND → verify accepted scientific name",
+            "IDENTIFY → specimen or processed product"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CLASSIFY → import, export, re-export or introduction from sea",
+            "CHECK → origin, purpose, reservation and required document"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → listing alone never proves lawful or unlawful movement",
+            "LISTING FOUND → verify accepted scientific name"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → listing alone never proves lawful or unlawful movement.",
+      "source_references": [
+        "Listing versus trade ban",
+        "Specimen discipline",
+        "Permit matrix",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g5\\environment-and-ecology-09_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SPECIMEN AND SOURCE CHECK",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SPECIMEN AND SOURCE CHECK",
+          "role": "evidence"
+        },
+        {
+          "text": "SHIPMENT LABEL",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPARE WITH ACCEPTED TAXON",
+          "role": "comparison"
+        },
+        {
+          "text": "PART OR DERIVATIVE",
+          "role": "evidence"
+        },
+        {
+          "text": "VERIFY RECOGNIZABILITY AND LISTING SCOPE",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE CLAIM",
+          "role": "evidence"
+        },
+        {
+          "text": "INSPECT THE TRANSACTION DOCUMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "NO SHORTCUT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SHIPMENT LABEL → compare with accepted taxon",
+        "PART OR DERIVATIVE → verify recognizability and listing scope",
+        "SOURCE CLAIM → inspect the transaction document",
+        "NO SHORTCUT → captive or propagated origin is not presumed",
+        "OUTPUT → source-bounded specimen identity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SHIPMENT LABEL → compare with accepted taxon",
+            "PART OR DERIVATIVE → verify recognizability and listing scope"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOURCE CLAIM → inspect the transaction document",
+            "NO SHORTCUT → captive or propagated origin is not presumed"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OUTPUT → source-bounded specimen identity",
+            "SHIPMENT LABEL → compare with accepted taxon"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO SHORTCUT → captive or propagated origin is not presumed.",
+      "source_references": [
+        "Specimen discipline",
+        "Source discipline",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g5\\environment-and-ecology-09_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "TRANSACTION MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TRANSACTION MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "ENTRY INTO A STATE",
+          "role": "institution"
+        },
+        {
+          "text": "DEPARTURE FROM THE STATE OF ORIGIN",
+          "role": "institution"
+        },
+        {
+          "text": "DEPARTURE AFTER PRIOR IMPORT",
+          "role": "evidence"
+        },
+        {
+          "text": "INTRODUCTION FROM SEA",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE CONVENTION TRANSACTION",
+          "role": "outcome"
+        },
+        {
+          "text": "REQUIRED FINDINGS AND DOCUMENTS VARY BY TRANSACTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "IMPORT → entry into a State",
+        "EXPORT → departure from the State of origin",
+        "RE-EXPORT → departure after prior import",
+        "INTRODUCTION FROM SEA → separate Convention transaction",
+        "RULE → required findings and documents vary by transaction"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "IMPORT → entry into a State",
+          "RE-EXPORT → departure after prior import",
+          "RULE → required findings and documents vary by transaction"
+        ],
+        [
+          "EXPORT → departure from the State of origin",
+          "INTRODUCTION FROM SEA → separate Convention transaction",
+          "IMPORT → entry into a State"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IMPORT → entry into a State",
+            "EXPORT → departure from the State of origin"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RE-EXPORT → departure after prior import",
+            "INTRODUCTION FROM SEA → separate Convention transaction"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → required findings and documents vary by transaction",
+            "IMPORT → entry into a State"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → required findings and documents vary by transaction.",
+      "source_references": [
+        "Permit matrix",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g5\\environment-and-ecology-09_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "SCIENCE-TO-PERMIT CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SCIENCE-TO-PERMIT CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "SCIENTIFIC AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSESSES DETRIMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "SCIENCE GATE WHERE APPLICABLE",
+          "role": "evidence"
+        },
+        {
+          "text": "LEGAL ACQUISITION",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE COMPLIANCE FINDING WHERE REQUIRED",
+          "role": "outcome"
+        },
+        {
+          "text": "MANAGEMENT AUTHORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "ISSUES PERMIT OR CERTIFICATE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SCIENTIFIC AUTHORITY → assesses detriment",
+        "NDF → science gate where applicable",
+        "LEGAL ACQUISITION → separate compliance finding where required",
+        "MANAGEMENT AUTHORITY → issues permit or certificate",
+        "BORDER → document and specimen still require verification"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SCIENTIFIC AUTHORITY → assesses detriment",
+            "NDF → science gate where applicable"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LEGAL ACQUISITION → separate compliance finding where required",
+            "MANAGEMENT AUTHORITY → issues permit or certificate"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BORDER → document and specimen still require verification",
+            "CLOSE DISTINCTION: Appendix I is not a universal trade ban, appendix status is not IUCN..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Appendix I is not a universal trade ban, appendix status is not IUCN.",
+      "source_references": [
+        "Non-detriment finding",
+        "Legal-acquisition check",
+        "Management Authority",
+        "Scientific Authority",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g5\\environment-and-ecology-09_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "AUTHORITY SPLIT",
+      "structural_type": "authority-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "AUTHORITY SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "SCIENTIFIC AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "TRADE-IMPACT ADVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "MANAGEMENT AUTHORITY",
+          "role": "evidence"
+        },
+        {
+          "text": "DOCUMENT ADMINISTRATION",
+          "role": "primary"
+        },
+        {
+          "text": "BORDER CONTROL AND DECLARATION CHECKS",
+          "role": "outcome"
+        },
+        {
+          "text": "WILDLIFE-CRIME INTELLIGENCE AND COORDINATION",
+          "role": "comparison"
+        },
+        {
+          "text": "NO MERGER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SCIENTIFIC AUTHORITY → trade-impact advice",
+        "MANAGEMENT AUTHORITY → document administration",
+        "CUSTOMS → border control and declaration checks",
+        "WCCB → wildlife-crime intelligence and coordination",
+        "NO MERGER → each institution keeps its own decision boundary"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SCIENTIFIC AUTHORITY → trade-impact advice",
+            "MANAGEMENT AUTHORITY → document administration"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CUSTOMS → border control and declaration checks",
+            "WCCB → wildlife-crime intelligence and coordination"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NO MERGER → each institution keeps its own decision boundary",
+            "SCIENTIFIC AUTHORITY → trade-impact advice"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NO MERGER → each institution keeps its own decision boundary.",
+      "source_references": [
+        "Management Authority",
+        "Scientific Authority",
+        "WCCB boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g5\\environment-and-ecology-09_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "APPENDIX-CHANGE ROUTES",
+      "structural_type": "decision-gate",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "APPENDIX-CHANGE ROUTES",
+          "role": "primary"
+        },
+        {
+          "text": "APPENDIX I OR II",
+          "role": "outcome"
+        },
+        {
+          "text": "COP AMENDMENT ROUTE",
+          "role": "comparison"
+        },
+        {
+          "text": "APPENDIX III",
+          "role": "evidence"
+        },
+        {
+          "text": "UNILATERAL PARTY REQUEST ROUTE",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIFIED PARTY AND SPECIFIED TAXON TREATMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN UPDATE",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATE DOMESTIC LEGAL STEP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "APPENDIX I OR II → COP amendment route",
+        "APPENDIX III → unilateral Party request route",
+        "RESERVATION → specified Party and specified taxon treatment",
+        "INDIAN UPDATE → separate domestic legal step",
+        "CAUTION → proposal, adoption and domestic effect are different states"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "APPENDIX I OR II → COP amendment route",
+            "APPENDIX III → unilateral Party request route"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESERVATION → specified Party and specified taxon treatment",
+            "INDIAN UPDATE → separate domestic legal step"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION → proposal, adoption and domestic effect are different states",
+            "APPENDIX I OR II → COP amendment route"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → proposal, adoption and domestic effect are different states.",
+      "source_references": [
+        "Appendix amendment route",
+        "Reservation boundary",
+        "Domestic implementation",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g5\\environment-and-ecology-09_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INDIA IMPLEMENTATION BRIDGE",
+      "structural_type": "layered-rail",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "INDIA IMPLEMENTATION BRIDGE",
+          "role": "primary"
+        },
+        {
+          "text": "CITES DECISION",
+          "role": "outcome"
+        },
+        {
+          "text": "INTERNATIONAL TREATY PLANE",
+          "role": "comparison"
+        },
+        {
+          "text": "SCHEDULE IV",
+          "role": "evidence"
+        },
+        {
+          "text": "INDIAN SCHEDULED-SPECIMEN PLANE",
+          "role": "primary"
+        },
+        {
+          "text": "DESIGNATED AUTHORITIES",
+          "role": "outcome"
+        },
+        {
+          "text": "SCIENCE AND PERMIT PLANE",
+          "role": "comparison"
+        },
+        {
+          "text": "CUSTOMS AND WCCB",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CITES DECISION → international treaty plane",
+        "SCHEDULE IV → Indian scheduled-specimen plane",
+        "DESIGNATED AUTHORITIES → science and permit plane",
+        "CUSTOMS AND WCCB → enforcement plane",
+        "RULE → no automaticity across the four planes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CITES DECISION → international treaty plane",
+            "SCHEDULE IV → Indian scheduled-specimen plane"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DESIGNATED AUTHORITIES → science and permit plane",
+            "CUSTOMS AND WCCB → enforcement plane"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → no automaticity across the four planes",
+            "CITES DECISION → international treaty plane"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → no automaticity across the four planes.",
+      "source_references": [
+        "Domestic implementation",
+        "Enforcement chain",
+        "WCCB boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g5\\environment-and-ecology-09_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ENFORCEMENT WEAKEST-LINK MAP",
+      "structural_type": "process-flow",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ENFORCEMENT WEAKEST-LINK MAP",
+          "role": "primary"
+        },
+        {
+          "text": "POPULATION EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "CREDIBLE NDF",
+          "role": "comparison"
+        },
+        {
+          "text": "PERMIT INTEGRITY",
+          "role": "evidence"
+        },
+        {
+          "text": "AUTHENTIC DOCUMENT",
+          "role": "primary"
+        },
+        {
+          "text": "SPECIES IDENTIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "CORRECT SPECIMEN MATCH",
+          "role": "comparison"
+        },
+        {
+          "text": "BORDER COORDINATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "POPULATION EVIDENCE → credible NDF",
+        "PERMIT INTEGRITY → authentic document",
+        "SPECIES IDENTIFICATION → correct specimen match",
+        "BORDER COORDINATION → customs and wildlife enforcement",
+        "DEMAND REDUCTION → complementary domestic response"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "POPULATION EVIDENCE → credible NDF",
+            "PERMIT INTEGRITY → authentic document"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SPECIES IDENTIFICATION → correct specimen match",
+            "BORDER COORDINATION → customs and wildlife enforcement"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEMAND REDUCTION → complementary domestic response",
+            "POPULATION EVIDENCE → credible NDF"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BORDER COORDINATION → customs and wildlife enforcement; DEMAND REDUCTION → complementary domestic response.",
+      "source_references": [
+        "Non-detriment finding",
+        "Enforcement chain",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g5\\environment-and-ecology-09_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "CONVENTION DISTINCTION MATRIX",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CONVENTION DISTINCTION MATRIX",
+          "role": "comparison"
+        },
+        {
+          "text": "INTERNATIONAL WILDLIFE TRADE",
+          "role": "outcome"
+        },
+        {
+          "text": "SCIENTIFIC EXTINCTION-RISK ASSESSMENT",
+          "role": "caution"
+        },
+        {
+          "text": "MIGRATORY-RANGE COOPERATION",
+          "role": "evidence"
+        },
+        {
+          "text": "WILDLIFE ACT",
+          "role": "institution"
+        },
+        {
+          "text": "DOMESTIC LEGAL CONSEQUENCES",
+          "role": "outcome"
+        },
+        {
+          "text": "ONE SPECIES MAY OCCUPY ALL LAYERS WITHOUT MERGING THEM",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CITES → international wildlife trade",
+        "IUCN → scientific extinction-risk assessment",
+        "CMS → migratory-range cooperation",
+        "WILDLIFE ACT → domestic legal consequences",
+        "RULE → one species may occupy all layers without merging them"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CITES → international wildlife trade",
+          "CMS → migratory-range cooperation",
+          "RULE → one species may occupy all layers without merging them"
+        ],
+        [
+          "IUCN → scientific extinction-risk assessment",
+          "WILDLIFE ACT → domestic legal consequences",
+          "CITES → international wildlife trade"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CITES → international wildlife trade",
+            "IUCN → scientific extinction-risk assessment"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CMS → migratory-range cooperation",
+            "WILDLIFE ACT → domestic legal consequences"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → one species may occupy all layers without merging them",
+            "CITES → international wildlife trade"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → one species may occupy all layers without merging them.",
+      "source_references": [
+        "CITES-IUCN-CMS split",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g5\\environment-and-ecology-09_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "AUDIT AND ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "AUDIT AND ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "INTERNATIONAL TRADE ONLY",
+          "role": "outcome"
+        },
+        {
+          "text": "I, II OR III MECHANICS",
+          "role": "comparison"
+        },
+        {
+          "text": "SPECIMEN, SOURCE, PURPOSE AND DOCUMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "SCIENCE, PERMIT AND ENFORCEMENT ROLES",
+          "role": "primary"
+        },
+        {
+          "text": "ZERO DIRECT PYQ AND FAILED CURRENT-LISTING RETRIEVAL",
+          "role": "outcome"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "VERIFY PARTY STATUS, APPENDIX",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SCOPE → international trade only",
+        "APPENDIX → I, II or III mechanics",
+        "TRANSACTION → specimen, source, purpose and document",
+        "AUTHORITY → science, permit and enforcement roles",
+        "QUALIFY → zero direct PYQ and failed current-listing retrieval"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SCOPE → international trade only",
+            "APPENDIX → I, II or III mechanics"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRANSACTION → specimen, source, purpose and document",
+            "AUTHORITY → science, permit and enforcement roles"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "QUALIFY → zero direct PYQ and failed current-listing retrieval",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify Party status, appendix,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify Party status, appendix,...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify Party status, appendix,.",
+      "source_references": [
+        "Zero-direct-PYQ audit",
+        "Live-status boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\09_CITES-and-Wildlife-Trade.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-09\\g5\\environment-and-ecology-09_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE WILDLIFE (PROTECTION) AMENDMENT ACT, 2022'S SCHEDULE IV STRUCTURE",
+          "role": "institution"
+        },
+        {
+          "text": "ILLEGAL WILDLIFE TRADE CASE STUDIES COMMONLY CITED IN INDIAN",
+          "role": "comparison"
+        },
+        {
+          "text": "GLOBAL AND INDIAN ILLEGAL-WILDLIFE-TRADE VOLUME ESTIMATES ARE INHERENTLY DIFFICULT",
+          "role": "evidence"
+        },
+        {
+          "text": "\"NON-DETRIMENT FINDINGS\" QUALITY VARIES BY SPECIES AND SCIENTIFIC AUTHORITY",
+          "role": "primary"
+        },
+        {
+          "text": "COP VOTING OUTCOMES AND THEIR UNDERLYING DIPLOMATIC POSITIONING ARE",
+          "role": "outcome"
+        },
+        {
+          "text": "APPENDIX I AND II AMENDMENTS REQUIRE A TWO-THIRDS MAJORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "EACH CITES PARTY DESIGNATES BOTH A MANAGEMENT AUTHORITY (PERMITS)",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "The Wildlife (Protection) Amendment Act, 2022's Schedule IV structure (Parts mirroring",
+            "CAUTION: Illegal wildlife trade case studies commonly cited in Indian enforcement contexts —",
+            "CAUTION: Global and Indian illegal-wildlife-trade volume estimates are inherently difficult to",
+            "CAUTION: \"Non-detriment findings\" quality varies by species and Scientific Authority capacity;"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: CoP voting outcomes and their underlying diplomatic positioning are not always fully",
+            "Appendix I and II amendments require a two-thirds majority vote at the Conference of",
+            "Each CITES party designates both a Management Authority (permits) and a Scientific",
+            "CITES' jurisdiction is limited to international trade; it has no direct authority over"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "A Party may enter a reservation against a specific listing, in which case it is",
+            "Red Sanders (Appendix II timber species) and Star Tortoise are commonly cited Indian",
+            "NOT: CITES can directly penalise a country for domestic habitat destruction affecting a",
+            "NOT: A two-thirds majority is required for every Appendix listing. - It applies to Appendix I"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

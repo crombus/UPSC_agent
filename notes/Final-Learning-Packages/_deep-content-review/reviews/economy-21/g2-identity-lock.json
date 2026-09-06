@@ -1,0 +1,14 @@
+{
+  "topic_key": "economy-21",
+  "locked_at": "2026-09-06T04:43:57.837653+00:00",
+  "master_tracker_identity": "economy-21:learner-v2:g2",
+  "generation": 2,
+  "approval": false,
+  "hashes": {
+    "markdown": "77755cfb1d744a93616c0d6d4c391a82a1b55b6c7354fe33b06c3483f2d6a9f2",
+    "main_pdf": "058121e581c5bc8a72c411ccdcb31663d4a034d9ae372d06b57f3be1b057aae7",
+    "workbook": "2deddbbc42848d45d38f157de1c37bee591011b778f09889d02847b37c3141f4",
+    "graphical_master": "915ffefef82e78940a85a50fc768a3ba5e8f816066115e8927d7db007cfe45bc",
+    "ascii_master": "a87acc5b569bd11de32622e9f54e8ea0110fe8b5c499a7c48854ca3d5146ee64"
+  }
+}

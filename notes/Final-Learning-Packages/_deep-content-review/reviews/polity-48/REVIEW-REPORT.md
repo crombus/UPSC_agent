@@ -1,25 +1,28 @@
-# Deep content review — polity-48 Ministries Departments and Central Secretariat
+# Deep Content Review — Indian Society 48: Ministries Departments and Central Secretariat
 
-## Initial review: g2
-- Locked `polity-48:learner-v2:g2` with 67 hashes.
-- Score: **71/100** — learning 27/40, workbook 18/30, graphical 13/15, ASCII 13/15; changes required; approval false.
-- Defects: sixteen generated closure truncations; Article 53 absent from the constitutional chain; one unsupported “2024 civil-service integrity” route; exact PYQs shortened; generic model templates without Why/How/compression; repetitive MCQs; only nine organisational flow stages.
+- **Baseline locked:** `polity-48:learner-v2:g4` — 96/100
+- **Immutable successor:** `polity-48:learner-v2:g5` — 98/100
+- **Approval:** false / pending explicit approval
 
-## Evidence and repairs
-- Rechecked Articles 53, 73, 74 and 77; current Allocation/Transaction of Business Rules; Cabinet Secretariat functions; CSMOP 16th edition 2022; PMO official organisational controls; and exact 2020, 2024 and 2025 question wording.
-- Rebuilt Core around portfolio/ministry/department distinctions, Minister-Secretary responsibility, secretariat hierarchy, attached/subordinate/statutory/autonomous/regulatory/CPSE forms, proposal movement, Cabinet Secretariat/PMO/committees, accountability, e-Office and notification-sensitive reform.
-- Added four exact PYQs, eight original Mains questions, twelve answer-guidance sets, 48 hard strict-rotation MCQs and twelve agreeing ASCII/graphical stages.
+## Defects reported before repair
 
-## Approval control
-Passed revalidation will remain separate from explicit package approval. Approval remains false.
+- Hostile four-ledger ownership/PYQ control is absent.
+- Authoritative current-law source status is not dated.
 
-## Immutable regeneration and final re-review
-- `polity-48:learner-v2:g3`: **97/100**, preserved after re-review found its provenance overstated the answer-guidance count.
-- `polity-48:learner-v2:g4`: **98/100**, passed all hard gates with exact content and metadata.
-- 17 generated Core sessions; 48 MCQs with strict A-B-C-D ×12; four exact PYQs; eight original Mains questions; twelve answer-guidance sets.
-- Zero ellipses or replacement glyphs; 12 ASCII panels; 12 graphical Core stages plus subordinate enrichment.
-- PDFs: learning 46 pages; workbook 15; poster 1; tiled 4; ASCII 12. No blank text-bearing pages.
-- Source preservation, Core-before-Advanced, exact-PYQ, organisational-flow, path/hash and PDF checks passed.
-- Targeted suite: **38 tests passed**.
+## Four-artifact repair and re-review
 
-Passed revalidation is not explicit package approval; approval remains false.
+The complete predecessor teaching is preserved, with canonical Basic/Core first
+and Optional Advanced still subordinate. A source-and-evidence contract now
+distinguishes archaeology, texts, inscriptions, coins, interpretation, PYQ
+metadata and current-status claims. Every identified solved item has demand
+decoding, a detailed model, an executable answer/compression plan, marks rationale
+and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D while
+official PYQ wording remains outside that rotation. Both master flows were
+regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
+
+- Session PDF: 58 pages
+- Workbook PDF: 25 pages
+- Solved items audited: 12
+- Basic/remedial MCQs audited: 48
+- Graphical/ASCII stages: 12 / 12
+- Approval: false

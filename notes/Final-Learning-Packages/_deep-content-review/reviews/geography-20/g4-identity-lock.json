@@ -1,0 +1,14 @@
+{
+  "topic_key": "geography-20",
+  "locked_at": "2026-09-05T05:41:56.631191+00:00",
+  "master_tracker_identity": "geography-20:learner-v2:g4",
+  "generation": 4,
+  "approval": false,
+  "hashes": {
+    "markdown": "a085c782f7bcea0ae49b108939d48535def27111e5ee25c21988a28930d63693",
+    "main_pdf": "323ef28746a67872fc639bfd00d4dbd3b4d2f4db1c7a4579358891133b8baeb7",
+    "workbook": "9ce8d2abdfa82230aa67988511d378fd8b66dae2a24ea2c91420a68fff85a3de",
+    "graphical_master": "a1089500088ce6cc976b8b0bf19e9f08a031d1d0222c666433b985a65e128f99",
+    "ascii_master": "206b360396024fb639acbb015888c17b40b66b66149634f4a2a15845dcdb2e91"
+  }
+}

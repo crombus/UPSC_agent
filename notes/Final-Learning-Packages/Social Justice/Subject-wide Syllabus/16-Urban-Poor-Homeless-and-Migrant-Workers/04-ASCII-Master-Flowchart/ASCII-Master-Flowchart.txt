@@ -40,6 +40,7 @@ MACHINERY -> Town Vending Committees, surveys and certificates, vending plans
 PROTECTION -> procedural safeguards against eviction
 CREDIT -> supplies working capital; supplies no vending right
 OFFICIAL CONDITION -> credit available only where a State has notified rules and scheme
+CLOSE DISTINCTION: Urban poor is not synonymous with slum resident, migrant is not...
 
 ASCII MASTER FLOW — PANEL 7/12: Housing mission verticals
 BENEFICIARY-LED -> construction on the household's own land
@@ -68,7 +69,6 @@ UNTIL 2025 -> the Inter-State Migrant Workmen Act, 1979 supplied the migrant fra
 SAME EVENT -> that commencement repeals the 1979 Act
 MAY 2026 -> final Central Rules are notified for Central-jurisdiction establishments
 STILL OPEN -> State rules and actual enforcement, because labour is concurrent
-CLOSE DISTINCTION: Urban poor is not synonymous with slum resident, migrant is not...
 
 ASCII MASTER FLOW — PANEL 11/12: Migration pull structure
 PUSH -> agricultural underemployment, drought and debt distress, thin non-farm opportunity
@@ -76,7 +76,6 @@ PUSH -> agricultural underemployment, drought and debt distress, thin non-farm o
 -> PULL: informal work in construction, domestic service and vending concentrated in metros
 -> PULL: better public services and a wage premium despite informal housing
 NETWORK -> earlier migrants lower entry barriers; small towns lack absorptive density
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use urban livelihoods, shelters, PMAY-U and...
 
 ASCII MASTER FLOW — PANEL 12/12: Spatial policy trade-offs
 AREA-BASED -> special purpose vehicle concentrates investment in selected zones
@@ -84,3 +83,4 @@ PAN-CITY -> transport, water and waste components reach wider populations
 CRITIQUE -> selection favours served areas; showcase priority; weak slum and homeless voice
 UPGRADING VERSUS RESETTLEMENT -> livelihood continuity against central land release
 TENURE VERSUS TITLE -> occupancy certificates secure against eviction without ownership
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use urban livelihoods, shelters, PMAY-U and...

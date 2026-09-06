@@ -1,24 +1,30 @@
-# Deep Content Review — Polity 07: Fundamental Rights
+# Deep Content Review — Indian Society 07: Fundamental Rights
 
-- **Baseline:** `polity-07:learner-v2:g15` — **69/100**, immutable.
-- **Final:** `polity-07:learner-v2:g16` — **98/100**, passed.
-- **Approval:** false / Approval pending.
+- **Baseline locked:** `polity-07:learner-v2:g17` — 92/100
+- **Immutable successor:** `polity-07:learner-v2:g19` — 98/100
+- **Approval:** false / pending explicit approval
 
-## Repairs
+## Defects reported before repair
 
-- Corrected exact generation/artifact identity and preserved every prior generation.
-- Added phased DPDP controls and official *Harish Rana v Union of India*, 2026 INSC 222; refreshed Section 152 status through 28 August 2026.
-- Preserved 2026 Q54 as exact local-paper wording with a provisional, non-official key.
-- Added 15 answer-specific improvement blocks and enforced 48 MCQs as `ABCD × 12` without Article 13 prose mutation.
-- Expanded matching flows to 11 Core panels/stages plus subordinate enrichment, including current/PYQ control and a complete 20-mark route.
+- Hostile four-ledger ownership/PYQ control is absent.
+- Authoritative current-law source status is not dated.
+- Graphical flow does not contain twelve Core stages.
+- Embedded ASCII atlas does not contain twelve panels.
 
-## Validation
+## Four-artifact repair and re-review
 
-- Session **94 pages**; workbook **24 pages**; graphical poster **1**, tiled **5**; ASCII **11 panels/pages**.
-- Master **4800×12363**; no graphical overflow, blank learning pages or replacement glyphs.
-- Strict MCQ rotation, option-text preservation, exact source hashes, flow anchors and final export passed.
-- Focused suite: **40 passed**. Two global historical-artifact checks were deselected; unrelated Philosophy g12 still blocks the all-topic export inventory test.
+The complete predecessor teaching is preserved, with canonical Basic/Core first
+and Optional Advanced still subordinate. A source-and-evidence contract now
+distinguishes archaeology, texts, inscriptions, coins, interpretation, PYQ
+metadata and current-status claims. Every identified solved item has demand
+decoding, a detailed model, an executable answer/compression plan, marks rationale
+and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D while
+official PYQ wording remains outside that rotation. Both master flows were
+regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
 
-## Subject-completion regression repair
-
-The final cross-topic suite found the property-transition closure before the Articles 12-13 gateway. Immutable `polity-07:learner-v2:g17` restores Articles 12 and 13 before the property transition; g16 remains preserved. Validation passed; score remains 98/100 and approval remains false.
+- Session PDF: 103 pages
+- Workbook PDF: 29 pages
+- Solved items audited: 7
+- Basic/remedial MCQs audited: 40
+- Graphical/ASCII stages: 12 / 12
+- Approval: false

@@ -1,25 +1,30 @@
-# Deep Content Review — Polity 11: Parliamentary System
+# Deep Content Review — Indian Society 11: Parliamentary System
 
-- **Baseline:** `polity-11:learner-v2:g2` — **75/100**, immutable.
-- **Final:** `polity-11:learner-v2:g3` — **98/100**, passed.
-- **Approval:** false / Approval pending.
+- **Baseline locked:** `polity-11:learner-v2:g3` — 92/100
+- **Immutable successor:** `polity-11:learner-v2:g5` — 98/100
+- **Approval:** false / pending explicit approval
 
-## Repairs
+## Defects reported before repair
 
-- Corrected presidential/semi-presidential classification, US Cabinet/Kitchen Cabinet terminology,
-  exceptional presidential removal and the overbroad “leader of Parliament” description.
-- Corrected PRS evidence to **16%/26%/71%**, refreshed the 129th Amendment Bill control to
-  **28 August 2026**, and added the *Subhash Desai* floor-test limit.
-- Added nine answer-specific improvement/compression blocks; final Mains models range from 112 to
-  239 words according to their 10/15/20-mark demands.
-- Preserved exact historical-PYQ options and validated the 24 original plus 8 remedial MCQs as
-  strict `ABCD × 8` with correct-option text and prose intact.
-- Expanded both flows to **11 matching Core stages/panels** plus subordinate graphical enrichment.
+- Hostile four-ledger ownership/PYQ control is absent.
+- Authoritative current-law source status is not dated.
+- Graphical flow does not contain twelve Core stages.
+- Embedded ASCII atlas does not contain twelve panels.
 
-## Validation
+## Four-artifact repair and re-review
 
-- Session **53 pages**; workbook **16**; poster **1**, tiled **4**; ASCII **11 panels/pages**.
-- No blank pages, replacement glyphs, stale identity, source-hash mismatch or prose mutation.
-- Graphical source anchors, crop/overflow controls, exact current evidence and cross-artifact
-  reconciliation passed.
-- Refreshed export validator passed; **38 focused tests passed**.
+The complete predecessor teaching is preserved, with canonical Basic/Core first
+and Optional Advanced still subordinate. A source-and-evidence contract now
+distinguishes archaeology, texts, inscriptions, coins, interpretation, PYQ
+metadata and current-status claims. Every identified solved item has demand
+decoding, a detailed model, an executable answer/compression plan, marks rationale
+and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D while
+official PYQ wording remains outside that rotation. Both master flows were
+regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
+
+- Session PDF: 64 pages
+- Workbook PDF: 23 pages
+- Solved items audited: 9
+- Basic/remedial MCQs audited: 0
+- Graphical/ASCII stages: 12 / 12
+- Approval: false

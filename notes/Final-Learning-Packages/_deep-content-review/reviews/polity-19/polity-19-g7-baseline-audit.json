@@ -1,0 +1,22 @@
+{
+  "topic_key": "polity-19",
+  "record_id": "polity-19:learner-v2:g7",
+  "scores": {
+    "complete_learning_session": 39,
+    "solved_practice_workbook": 30,
+    "graphical_flowchart": 15,
+    "ascii_master_flowchart": 14,
+    "total": 100
+  },
+  "defects": [],
+  "metrics": {
+    "main_characters": 253937,
+    "workbook_characters": 106136,
+    "session_count": 26,
+    "ascii_panel_count": 12,
+    "graphical_stage_count": 12,
+    "question_count": 13,
+    "mcq_count": 48,
+    "flow_panel_count": 12
+  }
+}

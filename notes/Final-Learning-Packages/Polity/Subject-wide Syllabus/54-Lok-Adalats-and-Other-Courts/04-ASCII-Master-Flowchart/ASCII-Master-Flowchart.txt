@@ -4,6 +4,8 @@ Hussainara Khatoon (1979) -> Art 21 fair procedure, legal assistance and speedy 
 1987 ACT -> institutions + eligibility + Lok Adalats.
 
 VERDICT: Directive Principle becomes operational through law and remedies.
+MUST REMEMBER: Keep ordinary Lok Adalat compromise, Permanent Lok Adalat hybrid power,
+  mediation, arbitration, Gram Nyayalaya and ordinary adjudication distinct.
 
 ASCII MASTER FLOW — PANEL 2/12: Legal-services authority ladder
 NALSA -> national policy and schemes.
@@ -40,6 +42,8 @@ STAGE -> pre-litigation only.
 BAR -> non-compoundable offence + notified pecuniary boundary.
 
 InterGlobe Aviation v. N. Satchidanand (2011): ordinary and Permanent Lok Adalats differ.
+CLOSE DISTINCTION: Test each forum by statute, stage, subject matter, consent, merits power,
+  award effect, appeal or review and natural-justice safeguards.
 
 ASCII MASTER FLOW — PANEL 7/12: PLA conciliation-to-adjudication sequence
 APPLICATION -> conciliation papers -> settlement terms -> agreement award.
@@ -69,6 +73,11 @@ ARBITRATION -> private adjudication and statutory award challenge.
 ORDINARY LOK ADALAT -> compromise award.
 PLA -> limited post-conciliation adjudication.
 
+CURRENT STATUS: 5 SEPTEMBER 2026
+S.O. 4384(E) commenced only specified Mediation Act sections.
+S.O. 4781(E) established the Mediation Council of India at Delhi on
+27 August 2026; this did not commence every remaining provision.
+
 ASCII MASTER FLOW — PANEL 11/12: Fairness, data and digital access
 Patil Automation v. Rakheja Engineers (2022)
 -> mandatory commercial pre-institution mediation absent an urgent-relief exception.
@@ -85,3 +94,5 @@ ASCII MASTER FLOW — PANEL 12/12: UPSC forum-selection answer spine
 
 VERDICT: affordable justice must remain competent and voluntary where required.
 Illegality remains reviewable.
+LEGAL/SOURCE LIMIT: The Mediation Act remains only partly commenced; S.O. 4781(E) established
+  the Mediation Council of India at Delhi on 27 August 2026.

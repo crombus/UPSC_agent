@@ -37,6 +37,7 @@ ENTITLEMENT -> 26 weeks paid leave, first two surviving children, covered establ
 TRANSFER LIMB -> conditional payment of 5,000 rupees in two instalments, first child
 SECOND CHILD -> 6,000 rupees in one instalment only if that child is a girl
 BOUNDARY -> the transfer replaces wages, never the employer's leave duty
+CLOSE DISTINCTION: Sex is not gender, equality is not identical treatment, protective law...
 
 ASCII MASTER FLOW — PANEL 7/12: Oversight status card
 WOMEN'S COMMISSION -> statutory, National Commission for Women Act, 1990
@@ -64,7 +65,6 @@ VISHAKA -> linked equality and dignity to workplace protection before the 2013 s
 SHAYARA BANO -> scrutinised one discriminatory personal-law practice, not personal law at large
 JOSEPH SHINE -> rejected a paternalistic adultery offence; autonomy, not marital property
 RULE -> pair a provision with a holding; do not list case names as an argument
-CLOSE DISTINCTION: Sex is not gender, equality is not identical treatment, protective law...
 
 ASCII MASTER FLOW — PANEL 11/12: Time and infrastructure
 TIME USE SURVEY -> makes cooking, cleaning and care visible as work
@@ -72,7 +72,6 @@ TIME USE SURVEY -> makes cooking, cleaning and care visible as work
 -> CHILDCARE, WATER, TRANSPORT, SAFE WORK act as economic infrastructure
 -> RELEASED TIME is the mechanism that converts a formal right into participation
 TRAP -> stopping at education and empowerment schemes misses the structural barrier
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use constitutional equality, statutory...
 
 ASCII MASTER FLOW — PANEL 12/12: Data boundary
 FIFTH ROUND -> 78.6 per cent account use; 54.0 per cent mobile-phone use, ages 15 to 49
@@ -80,3 +79,4 @@ SIXTH ROUND -> released 29 May 2026 for 2023-24; cite separately, never mixed
 CHILD MARRIAGE -> 20.1 per cent of women aged 20 to 24 married before 18, from 23.3
 REGISTRATION -> case data reflect reporting and police practice, not prevalence
 OWNERSHIP -> 2024 equality-equity-empowerment demand is routed to Indian Society
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use constitutional equality, statutory...

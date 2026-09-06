@@ -1,0 +1,74 @@
+ASCII MASTER FLOW — PANEL 1/12: MSME classification clock
+1 JULY 2020 -> earlier composite thresholds
+21 MARCH 2025 -> S.O. 1364(E)
+1 APRIL 2025 -> revised thresholds effective
+ALWAYS attach investment + turnover + vintage
+MUST REMEMBER: MSME, PLI, semiconductor and manufacturing strategies address scale,...
+
+ASCII MASTER FLOW — PANEL 2/12: Current threshold matrix
+MICRO -> 2.5 investment / 10 turnover
+SMALL -> 25 investment / 100 turnover
+MEDIUM -> 125 investment / 500 turnover
+UNIT -> Rs crore; both ceilings apply
+
+ASCII MASTER FLOW — PANEL 3/12: MSME constraint map
+IDENTITY -> Udyam
+COLLATERAL RISK -> CGTMSE
+RECEIVABLES DELAY -> TReDS
+CAPABILITY -> clusters + standards + technology
+
+ASCII MASTER FLOW — PANEL 4/12: TReDS transaction rail
+MSME SUPPLIER -> invoice
+BUYER -> accepts receivable
+FINANCIER -> discounts accepted claim
+PLATFORM -> M1xchange / other RBI-regulated TReDS
+
+ASCII MASTER FLOW — PANEL 5/12: PLI status ladder
+SCHEME OUTLAY
+-> APPLICANT SELECTION
+-> ANNOUNCED / ACTUAL INVESTMENT
+-> VERIFIED OUTPUT -> DISBURSEMENT
+
+ASCII MASTER FLOW — PANEL 6/12: PLI scorecard
+ADDITIONAL INVESTMENT + OUTPUT
+DOMESTIC VALUE + PRODUCTIVITY
+JOBS + EXPORTS
+SUPPLIER / R&D SPILLOVERS - FISCAL COST
+CLOSE DISTINCTION: MSME classification is not informality, registration is not survival,...
+
+ASCII MASTER FLOW — PANEL 7/12: Anchor-supplier bridge
+LARGE ANCHOR FIRM
+-> QUALITY / COST / DELIVERY REQUIREMENTS
+-> MSME SUPPLIER UPGRADING
+-> BROADER DOMESTIC SPILLOVERS
+
+ASCII MASTER FLOW — PANEL 8/12: Semiconductor chain
+DESIGN + IP
+-> MATERIALS + EQUIPMENT
+-> WAFER FABRICATION
+-> ATMP / OSAT -> DOWNSTREAM ELECTRONICS
+
+ASCII MASTER FLOW — PANEL 9/12: Fab versus packaging
+FAB -> manufactures wafers
+ATMP / OSAT -> assembly + test + mark + package
+DESIGN -> architecture + IP
+ASSEMBLY -> final electronics; not automatically a fab
+
+ASCII MASTER FLOW — PANEL 10/12: Fab enabling ecosystem
+RELIABLE POWER + ULTRA-PURE WATER
+PROCESS TALENT + TECHNOLOGY PARTNER
+CLEAN LOGISTICS + MATERIALS
+DEMAND + SUPPLIERS + LONG GESTATION
+
+ASCII MASTER FLOW — PANEL 11/12: Domestic-value trap
+GROSS OUTPUT RISES
+BUT HIGH-VALUE INPUTS MAY REMAIN IMPORTED
+-> SHALLOW LOCAL VALUE ADDITION
+-> MEASURE stage-wise capability
+
+ASCII MASTER FLOW — PANEL 12/12: Manufacturing answer spine
+CLASSIFY firm + bind constraint
+MATCH instrument to finance / scale / technology
+TRACE semiconductor stages and status
+EVALUATE additionality + spillovers + exit rules
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Use current notified thresholds/status only...

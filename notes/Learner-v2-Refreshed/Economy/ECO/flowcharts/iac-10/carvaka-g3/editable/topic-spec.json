@@ -1,0 +1,1044 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-10",
+  "subject": "Economy",
+  "title": "TAXATION, GST, FINANCE COMMISSION AND FISCAL FEDERALISM",
+  "short_route": "TAX-INCIDENCE FORK → GST VALUE-ADD CHAIN → SUBSUMED-TAX MAP → OUTSIDE-GST BOUNDARY → GST COUNCIL VOTING BOARD → INTER-STATE SETTLEMENT RAIL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-10\\g3\\economy-10_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-10-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "885dc1e7125f324ecb967d8c36653731b2676d8fdf16225d1bd5efc9d2db88e9",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TAX-INCIDENCE FORK",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TAX-INCIDENCE FORK",
+          "role": "primary"
+        },
+        {
+          "text": "DIRECT TAX",
+          "role": "outcome"
+        },
+        {
+          "text": "LEGAL INCIDENCE ON INCOME/PROFIT BASE",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIRECT TAX",
+          "role": "evidence"
+        },
+        {
+          "text": "TRANSACTION/CONSUMPTION LEVY",
+          "role": "primary"
+        },
+        {
+          "text": "BURDEN MAY SHIFT THROUGH PRICES",
+          "role": "outcome"
+        },
+        {
+          "text": "PROGRESSIVITY REQUIRES INCIDENCE AND BASE ANALYSIS",
+          "role": "comparison"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DIRECT TAX → legal incidence on income/profit base",
+        "INDIRECT TAX → transaction/consumption levy",
+        "BURDEN may shift through prices",
+        "PROGRESSIVITY requires incidence and base analysis",
+        "MUST REMEMBER: Tax design balances revenue, equity, efficiency, certainty and compliance"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DIRECT TAX → legal incidence on income/profit base",
+          "BURDEN may shift through prices",
+          "MUST REMEMBER: Tax design balances revenue, equity, efficiency, certainty and compliance;..."
+        ],
+        [
+          "INDIRECT TAX → transaction/consumption levy",
+          "PROGRESSIVITY requires incidence and base analysis",
+          "DIRECT TAX → legal incidence on income/profit base"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DIRECT TAX → legal incidence on income/profit base",
+            "INDIRECT TAX → transaction/consumption levy"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BURDEN may shift through prices",
+            "PROGRESSIVITY requires incidence and base analysis"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Tax design balances revenue, equity, efficiency, certainty and compliance;...",
+            "DIRECT TAX → legal incidence on income/profit base"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Tax design balances revenue, equity, efficiency, certainty and compliance;.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-10\\g3\\economy-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "GST VALUE-ADD CHAIN",
+      "structural_type": "mechanism-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "GST VALUE-ADD CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "OUTPUT TAX MINUS ELIGIBLE INPUT TAX CREDIT",
+          "role": "outcome"
+        },
+        {
+          "text": "TAX ON VALUE ADDITION",
+          "role": "comparison"
+        },
+        {
+          "text": "DESTINATION-JURISDICTION REVENUE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OUTPUT TAX minus ELIGIBLE INPUT TAX CREDIT",
+        "TAX ON VALUE ADDITION",
+        "DESTINATION-JURISDICTION REVENUE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OUTPUT TAX minus ELIGIBLE INPUT TAX CREDIT",
+            "TAX ON VALUE ADDITION"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DESTINATION-JURISDICTION REVENUE",
+            "OUTPUT TAX minus ELIGIBLE INPUT TAX CREDIT"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TAX ON VALUE ADDITION",
+            "DESTINATION-JURISDICTION REVENUE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUTPUT TAX minus ELIGIBLE INPUT TAX CREDIT; TAX ON VALUE ADDITION; DESTINATION-JURISDICTION REVENUE.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-10\\g3\\economy-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "SUBSUMED-TAX MAP",
+      "structural_type": "classification-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "SUBSUMED-TAX MAP",
+          "role": "primary"
+        },
+        {
+          "text": "EXCISE ON COVERED ITEMS + SERVICE TAX + CVD/SAD",
+          "role": "outcome"
+        },
+        {
+          "text": "VAT/CST + ENTRY + LUXURY + SPECIFIED ENTERTAINMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "REDUCED CASCADING THROUGH ITC",
+          "role": "evidence"
+        },
+        {
+          "text": "VERIFY ITEM AND LEGAL VINTAGE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "UNION → excise on covered items + service tax + CVD/SAD",
+        "STATE → VAT/CST + entry + luxury + specified entertainment",
+        "RESULT → reduced cascading through ITC",
+        "VERIFY item and legal vintage"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "UNION → excise on covered items + service tax + CVD/SAD",
+            "STATE → VAT/CST + entry + luxury + specified entertainment"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESULT → reduced cascading through ITC",
+            "VERIFY item and legal vintage"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "UNION → excise on covered items + service tax + CVD/SAD",
+            "STATE → VAT/CST + entry + luxury + specified entertainment"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATE → VAT/CST + entry + luxury + specified entertainment.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-10\\g3\\economy-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "OUTSIDE-GST BOUNDARY",
+      "structural_type": "exclusion-board",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "OUTSIDE-GST BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "BASIC CUSTOMS DUTY",
+          "role": "outcome"
+        },
+        {
+          "text": "ELECTRICITY DUTIES",
+          "role": "comparison"
+        },
+        {
+          "text": "ALCOHOL FOR HUMAN CONSUMPTION",
+          "role": "evidence"
+        },
+        {
+          "text": "SPECIFIED PETROLEUM PRODUCTS",
+          "role": "primary"
+        },
+        {
+          "text": "OWNER-VINTAGE STATUS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "BASIC CUSTOMS DUTY",
+        "STAMP / PROPERTY / ELECTRICITY DUTIES",
+        "ALCOHOL FOR HUMAN CONSUMPTION",
+        "SPECIFIED PETROLEUM PRODUCTS → owner-vintage status"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BASIC CUSTOMS DUTY",
+            "STAMP / PROPERTY / ELECTRICITY DUTIES"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ALCOHOL FOR HUMAN CONSUMPTION",
+            "SPECIFIED PETROLEUM PRODUCTS → owner-vintage status"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BASIC CUSTOMS DUTY",
+            "STAMP / PROPERTY / ELECTRICITY DUTIES"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ALCOHOL FOR HUMAN CONSUMPTION; SPECIFIED PETROLEUM PRODUCTS → owner-vintage status.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-10\\g3\\economy-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "GST COUNCIL VOTING BOARD",
+      "structural_type": "constitutional-board",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "GST COUNCIL VOTING BOARD",
+          "role": "institution"
+        },
+        {
+          "text": "ARTICLE 279A",
+          "role": "institution"
+        },
+        {
+          "text": "1/3 WEIGHTED VOTES",
+          "role": "comparison"
+        },
+        {
+          "text": "2/3 WEIGHTED VOTES",
+          "role": "evidence"
+        },
+        {
+          "text": "AT LEAST 3/4 WEIGHTED VOTES",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ARTICLE 279A",
+        "CENTRE → 1/3 weighted votes",
+        "STATES → 2/3 weighted votes",
+        "DECISION → at least 3/4 weighted votes"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ARTICLE 279A",
+            "CENTRE → 1/3 weighted votes"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STATES → 2/3 weighted votes",
+            "DECISION → at least 3/4 weighted votes"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARTICLE 279A",
+            "CENTRE → 1/3 weighted votes"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATES → 2/3 weighted votes; DECISION → at least 3/4 weighted votes.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-10\\g3\\economy-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "INTER-STATE SETTLEMENT RAIL",
+      "structural_type": "federal-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INTER-STATE SETTLEMENT RAIL",
+          "role": "institution"
+        },
+        {
+          "text": "INTER-STATE SUPPLY",
+          "role": "institution"
+        },
+        {
+          "text": "IGST COLLECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "INPUT-CREDIT ADJUSTMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "DESTINATION SETTLEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "DIRECT IS NOT ALWAYS PROGRESSIVE, GST RATE RECOMMENDATION IS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "INTER-STATE SUPPLY",
+        "IGST COLLECTION",
+        "INPUT-CREDIT ADJUSTMENT",
+        "DESTINATION SETTLEMENT",
+        "CLOSE DISTINCTION: Direct is not always progressive, GST rate recommendation is not levy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INTER-STATE SUPPLY",
+            "IGST COLLECTION"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INPUT-CREDIT ADJUSTMENT",
+            "DESTINATION SETTLEMENT"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Direct is not always progressive, GST rate recommendation is not levy...",
+            "INTER-STATE SUPPLY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Direct is not always progressive, GST rate recommendation is not levy.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-10\\g3\\economy-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "COMPENSATION TIMELINE",
+      "structural_type": "timeline-strip",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "COMPENSATION TIMELINE",
+          "role": "primary"
+        },
+        {
+          "text": "PROTECTED-REVENUE BASE",
+          "role": "outcome"
+        },
+        {
+          "text": "FIVE-YEAR GUARANTEE",
+          "role": "comparison"
+        },
+        {
+          "text": "STATED ANNUAL PROTECTED GROWTH",
+          "role": "evidence"
+        },
+        {
+          "text": "NOT PERMANENT ENTITLEMENT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "2015-16 → protected-revenue base",
+        "2017-2022 → five-year guarantee",
+        "14% → stated annual protected growth",
+        "TRANSITIONAL → not permanent entitlement"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "2015-16 → protected-revenue base",
+            "2017-2022 → five-year guarantee"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "14% → stated annual protected growth",
+            "TRANSITIONAL → not permanent entitlement"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "2015-16 → protected-revenue base",
+            "2017-2022 → five-year guarantee"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "14% → stated annual protected growth; TRANSITIONAL → not permanent entitlement.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-10\\g3\\economy-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "FINANCE COMMISSION MAP",
+      "structural_type": "federal-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FINANCE COMMISSION MAP",
+          "role": "primary"
+        },
+        {
+          "text": "UNION VERSUS STATES SHARE",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTRIBUTION AMONG STATES",
+          "role": "comparison"
+        },
+        {
+          "text": "OWNER RECORDS 41%",
+          "role": "evidence"
+        },
+        {
+          "text": "2026-27 TO 2030-31; ACCEPTED 41%",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "VERTICAL → Union versus states share",
+        "HORIZONTAL → distribution among states",
+        "XV-FC → owner records 41%",
+        "XVI-FC → 2026-27 to 2030-31; accepted 41%"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "VERTICAL → Union versus states share",
+          "XV-FC → owner records 41%",
+          "VERTICAL → Union versus states share"
+        ],
+        [
+          "HORIZONTAL → distribution among states",
+          "XVI-FC → 2026-27 to 2030-31; accepted 41%",
+          "HORIZONTAL → distribution among states"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "VERTICAL → Union versus states share",
+            "HORIZONTAL → distribution among states"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "XV-FC → owner records 41%",
+            "XVI-FC → 2026-27 to 2030-31; accepted 41%"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERTICAL → Union versus states share",
+            "HORIZONTAL → distribution among states"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "XV-FC → owner records 41%; XVI-FC → 2026-27 to 2030-31; accepted 41%.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-10\\g3\\economy-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DIVISIBLE-POOL BOUNDARY",
+      "structural_type": "pool-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DIVISIBLE-POOL BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "ORDINARY SHAREABLE UNION TAXES",
+          "role": "outcome"
+        },
+        {
+          "text": "DIVISIBLE POOL",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTINCT TREATMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "FEDERAL EFFECT",
+          "role": "primary"
+        },
+        {
+          "text": "STATE UNTIED-SPACE CONCERN",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "ORDINARY SHAREABLE UNION TAXES",
+        "DIVISIBLE POOL",
+        "CESSES / SURCHARGES → distinct treatment",
+        "FEDERAL EFFECT → state untied-space concern"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ORDINARY SHAREABLE UNION TAXES",
+            "DIVISIBLE POOL"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CESSES / SURCHARGES → distinct treatment",
+            "FEDERAL EFFECT → state untied-space concern"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ORDINARY SHAREABLE UNION TAXES",
+            "DIVISIBLE POOL"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CESSES / SURCHARGES → distinct treatment; FEDERAL EFFECT → state untied-space concern.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-10\\g3\\economy-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "ADMINISTRATION AND ENFORCEMENT",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ADMINISTRATION AND ENFORCEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "UNION DIRECT TAXES",
+          "role": "outcome"
+        },
+        {
+          "text": "CBIC + STATE ADMIN",
+          "role": "institution"
+        },
+        {
+          "text": "INDIRECT TAX",
+          "role": "evidence"
+        },
+        {
+          "text": "REVENUE DEPARTMENT AGENCIES",
+          "role": "primary"
+        },
+        {
+          "text": "FUNCTIONS REMAIN LEGALLY DISTINCT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "CBDT → Union direct taxes",
+        "CBIC + STATE ADMIN → indirect tax / GST",
+        "ED / DRI / DGGI → Revenue Department agencies",
+        "FUNCTIONS remain legally distinct"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CBDT → Union direct taxes",
+            "CBIC + STATE ADMIN → indirect tax / GST"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ED / DRI / DGGI → Revenue Department agencies",
+            "FUNCTIONS remain legally distinct"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CBDT → Union direct taxes",
+            "CBIC + STATE ADMIN → indirect tax / GST"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ED / DRI / DGGI → Revenue Department agencies.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-10\\g3\\economy-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "TAX-BASE EDGE CASES",
+      "structural_type": "boundary-board",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "TAX-BASE EDGE CASES",
+          "role": "primary"
+        },
+        {
+          "text": "ALLIED RURAL ACTIVITY",
+          "role": "outcome"
+        },
+        {
+          "text": "AUTOMATIC AGRICULTURAL INCOME",
+          "role": "comparison"
+        },
+        {
+          "text": "RURAL AGRICULTURAL LAND",
+          "role": "evidence"
+        },
+        {
+          "text": "STATUTORY CONDITIONS",
+          "role": "primary"
+        },
+        {
+          "text": "EQUALISATION LEVY",
+          "role": "outcome"
+        },
+        {
+          "text": "SPECIFIED DIGITAL-SERVICE HISTORY",
+          "role": "comparison"
+        },
+        {
+          "text": "INDIRECT TRANSFER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ALLIED RURAL ACTIVITY != automatic agricultural income",
+        "RURAL AGRICULTURAL LAND → statutory conditions",
+        "EQUALISATION LEVY → specified digital-service history",
+        "INDIRECT TRANSFER → offshore form, Indian-value link"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ALLIED RURAL ACTIVITY != automatic agricultural income",
+            "RURAL AGRICULTURAL LAND → statutory conditions"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EQUALISATION LEVY → specified digital-service history",
+            "INDIRECT TRANSFER → offshore form, Indian-value link"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ALLIED RURAL ACTIVITY != automatic agricultural income",
+            "RURAL AGRICULTURAL LAND → statutory conditions"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EQUALISATION LEVY → specified digital-service history; INDIRECT TRANSFER → offshore form, Indian-value link.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-10\\g3\\economy-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "FISCAL-FEDERAL ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "FISCAL-FEDERAL ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE BASE, INCIDENCE AND DESTINATION",
+          "role": "outcome"
+        },
+        {
+          "text": "MAP COLLECTION, ITC AND SETTLEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "SEPARATE DEVOLUTION, GRANTS AND CESSES",
+          "role": "evidence"
+        },
+        {
+          "text": "BALANCE HARMONISATION, AUTONOMY AND TRUST",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "SEPARATE CONSTITUTION, STATUTE, COUNCIL",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "DEFINE base, incidence and destination",
+        "MAP collection, ITC and settlement",
+        "SEPARATE devolution, grants and cesses",
+        "BALANCE harmonisation, autonomy and trust",
+        "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Separate Constitution, statute, Council"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE base, incidence and destination",
+            "MAP collection, ITC and settlement"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEPARATE devolution, grants and cesses",
+            "BALANCE harmonisation, autonomy and trust"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Separate Constitution, statute, Council...",
+            "DEFINE base, incidence and destination"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Separate Constitution, statute, Council.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-10\\g3\\economy-10_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "TAX DESIGN BALANCES REVENUE ADEQUACY, EQUITY, EFFICIENCY, SIMPLICITY, CERTAINTY",
+          "role": "outcome"
+        },
+        {
+          "text": "DESTINATION TAXATION REDUCES PRODUCTION-LOCATION ADVANTAGE BUT REQUIRES ROBUST INTER",
+          "role": "comparison"
+        },
+        {
+          "text": "VERTICAL IMBALANCE ARISES BECAUSE HIGHER LEVELS OFTEN HAVE STRONGER",
+          "role": "evidence"
+        },
+        {
+          "text": "HORIZONTAL DEVOLUTION CRITERIA BALANCE FISCAL CAPACITY, NEEDS, EQUITY, DEMOGRAPHY",
+          "role": "primary"
+        },
+        {
+          "text": "TAX EXPENDITURES THROUGH EXEMPTIONS SHOULD BE EVALUATED LIKE EXPLICIT",
+          "role": "outcome"
+        },
+        {
+          "text": "COOPERATIVE INSTITUTIONS WORK BEST WHEN DATA, COMPENSATION RISKS AND",
+          "role": "comparison"
+        },
+        {
+          "text": "GST COUNCIL",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Tax design balances revenue adequacy, equity, efficiency, simplicity, certainty and",
+            "CAUTION: Destination taxation reduces production-location advantage but requires robust inter",
+            "CAUTION: Vertical imbalance arises because higher levels often have stronger tax bases while",
+            "CAUTION: Horizontal devolution criteria balance fiscal capacity, needs, equity, demography and"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Tax expenditures through exemptions should be evaluated like explicit spending.",
+            "CAUTION: Cooperative institutions work best when data, compensation risks and compliance burdens",
+            "GST Council: federal forum for recommendations on the GST framework.",
+            "CBIC and state GST administrations: administer indirect taxes and compliance."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CBDT: administers Union direct taxes.",
+            "Finance Commission: recommends tax devolution and grants; it does not set GST rates.",
+            "CAUTION: A destination-based GST sends revenue towards the state where final consumption occurs",
+            "CAUTION: Input credit reduces tax-on-tax only when invoices, eligibility and compliance"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

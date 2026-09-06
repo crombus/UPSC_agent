@@ -1,12 +1,28 @@
-# Polity-22 Deep Content Review — Special Provisions
+# Deep Content Review — Indian Society 22: Special Provisions
 
-## Result
-- Baseline `polity-22:learner-v2:g2`: **68/100**.
-- Preserved intermediate `g3`: **95/100**, failed for repetitive openings/generic keyword guidance.
-- Final `polity-22:learner-v2:g4`: **98/100**, passed; approval remains false.
+- **Baseline locked:** `polity-22:learner-v2:g4` — 96/100
+- **Immutable successor:** `polity-22:learner-v2:g6` — 98/100
+- **Approval:** false / pending explicit approval
 
-## Repairs
-Completed the State–Article–amendment–actor matrix for Articles 371–371J; corrected 371D tribunal status; expanded 371A/B/C/F/H/J mechanisms; bounded Article 370/35A and J&K/Ladakh status; completed PYQ provenance, ten answer-guidance pairs, strict varied MCQs and twelve agreeing flows.
+## Defects reported before repair
 
-## Validation
-35 Core sessions; 48 MCQs (`ABCD × 12`); ten Why/How pairs; zero ellipses/replacement glyphs; 12 Core graphical stages + one Optional card; 12 ASCII panels. PDFs: 65/18/1/4/12 pages. Tracker-aware validation, four-item validation and 38 tests passed.
+- Hostile four-ledger ownership/PYQ control is absent.
+- Authoritative current-law source status is not dated.
+
+## Four-artifact repair and re-review
+
+The complete predecessor teaching is preserved, with canonical Basic/Core first
+and Optional Advanced still subordinate. A source-and-evidence contract now
+distinguishes archaeology, texts, inscriptions, coins, interpretation, PYQ
+metadata and current-status claims. Every identified solved item has demand
+decoding, a detailed model, an executable answer/compression plan, marks rationale
+and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D while
+official PYQ wording remains outside that rotation. Both master flows were
+regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
+
+- Session PDF: 74 pages
+- Workbook PDF: 26 pages
+- Solved items audited: 10
+- Basic/remedial MCQs audited: 48
+- Graphical/ASCII stages: 12 / 12
+- Approval: false

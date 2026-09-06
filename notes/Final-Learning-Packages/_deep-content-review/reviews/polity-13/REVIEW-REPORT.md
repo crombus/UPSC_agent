@@ -1,25 +1,28 @@
-# Deep Content Review — Polity 13: Centre State and Inter State Relations
+# Deep Content Review — Indian Society 13: Centre State and Inter State Relations
 
-- **Baseline:** `polity-13:learner-v2:g2` — **69/100**, immutable.
-- **Final:** `polity-13:learner-v2:g3` — **98/100**, passed.
-- **Approval:** false / Approval pending.
+- **Baseline locked:** `polity-13:learner-v2:g3` — 96/100
+- **Immutable successor:** `polity-13:learner-v2:g4` — 98/100
+- **Approval:** false / pending explicit approval
 
-## Repairs
+## Defects reported before repair
 
-- Completed legislative, administrative, fiscal, emergency-linked and inter-State Core, including
-  the Articles 355–365 duty/remedy/financial-emergency distinctions.
-- Added bounded case controls for repugnancy, Article 356, CBI consent, GST and Part XIII.
-- Corrected the river-water Bill from merely “not enacted” to **lapsed**, with the revised proposal
-  clearly separated from current law; added dated 2026 Zonal Council activity.
-- Expanded coverage to eleven PYQs and fifteen guided Mains models with demand decoding, marks
-  rationale and answer-specific improvement/compression guidance.
-- Rebuilt both flows as twelve matching Core stages/panels plus optional enrichment and removed
-  heuristic, truncated and mutated generated prose.
+- Hostile four-ledger ownership/PYQ control is absent.
+- Authoritative current-law source status is not dated.
 
-## Validation
+## Four-artifact repair and re-review
 
-- Session **52 pages**; workbook **16**; poster **1**, tiled **4**; ASCII **12 pages/panels**.
-- **36 MCQs:** strict `ABCD × 9`; correct-option text and explanatory prose preserved.
-- **26/26** generation source hashes and all final-export artifact reconciliations passed.
-- No blank text pages, replacement glyphs, clipping, stale identity or cross-artifact mismatch.
-- Tracker-aware export validation passed; **38 focused tests passed**.
+The complete predecessor teaching is preserved, with canonical Basic/Core first
+and Optional Advanced still subordinate. A source-and-evidence contract now
+distinguishes archaeology, texts, inscriptions, coins, interpretation, PYQ
+metadata and current-status claims. Every identified solved item has demand
+decoding, a detailed model, an executable answer/compression plan, marks rationale
+and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D while
+official PYQ wording remains outside that rotation. Both master flows were
+regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
+
+- Session PDF: 68 pages
+- Workbook PDF: 29 pages
+- Solved items audited: 18
+- Basic/remedial MCQs audited: 36
+- Graphical/ASCII stages: 12 / 12
+- Approval: false

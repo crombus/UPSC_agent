@@ -1,0 +1,89 @@
+ASCII MASTER FLOW — PANEL 1/12: Greenhouse-effect firewall
+NATURAL EFFECT -> absorbs and re-emits outgoing longwave radiation
+FUNCTION -> maintains a habitable energy balance
+HUMAN ENHANCEMENT -> raises concentrations and net forcing
+CLIMATE RESPONSE -> warming plus wider system changes
+EXAM RULE -> preserve the natural-versus-enhanced distinction
+MUST REMEMBER: Climate change follows radiative forcing and Earth-system feedbacks from...
+MUST REMEMBER: Climate change follows radiative forcing and Earth-system feedbacks from...
+
+ASCII MASTER FLOW — PANEL 2/12: Energy-balance rail
+SUN -> incoming predominantly shortwave energy
+SURFACE -> absorbs part and warms
+EARTH -> emits outgoing longwave infrared energy
+GREENHOUSE GASES -> absorb and re-emit part of longwave flow
+IMBALANCE -> forcing changes energy retained by the climate system
+
+ASCII MASTER FLOW — PANEL 3/12: Emission-to-concentration ledger
+ACTIVITY -> emissions flow during a stated period
+ATMOSPHERE -> concentration after sources and sinks interact
+ACCUMULATION -> long-lived gases build an atmospheric stock
+FLOW CUT -> slows addition but does not erase the stock
+REMOVAL -> changes the stock only within a stated boundary
+
+ASCII MASTER FLOW — PANEL 4/12: Forcing-feedback fork
+EXTERNAL OR IMPOSED ENERGY CHANGE -> radiative forcing
+CLIMATE RESPONSE TRIGGERED -> feedback
+AMPLIFIES INITIAL CHANGE -> positive feedback
+DAMPENS INITIAL CHANGE -> negative feedback
+SIGN -> direction of response, never moral value
+
+ASCII MASTER FLOW — PANEL 5/12: Water and particle matrix
+WATER VAPOUR -> greenhouse gas commonly acting as feedback
+SULPHATE-LIKE AEROSOLS -> often cooling influence
+BLACK CARBON -> absorbing warming influence
+SNOW OR ICE DEPOSITION -> can lower albedo
+BOUNDARY -> agent, location and mechanism determine the sign
+
+ASCII MASTER FLOW — PANEL 6/12: Gas comparison gate
+GWP -> relative integrated influence over a named horizon
+POTENCY -> effect per unit mass under the metric
+LIFETIME -> persistence in the atmosphere
+EMISSION SCALE -> quantity released
+POLICY -> near-term and cumulative levers are not identical
+
+ASCII MASTER FLOW — PANEL 7/12: Weather-to-climate ladder
+EVENT -> individual weather occurrence
+SEASON OR YEAR -> short-period variability
+DISTRIBUTION -> frequency, intensity and pattern
+LONGER RECORD -> climate trend assessment
+RULE -> fluctuation around a trend is not trend reversal
+
+ASCII MASTER FLOW — PANEL 8/12: Attribution evidence chain
+OBSERVATION -> define the measured change
+DETECTION -> distinguish signal from expected variability
+DRIVERS -> compare human and natural influences
+MODELS PLUS PHYSICS PLUS RECORDS -> converging evidence
+ATTRIBUTION -> qualified contribution, not slogan causation
+
+ASCII MASTER FLOW — PANEL 9/12: Event-claim firewall
+DEFINE EVENT CLASS -> place, duration and metric
+COMPARE WORLDS -> with and without human influence
+ESTIMATE CHANGE -> probability or intensity
+RETAIN OTHER DRIVERS -> exposure, vulnerability and variability
+NO SOLE CAUSE -> disaster impact is multi-causal
+
+ASCII MASTER FLOW — PANEL 10/12: Observation-projection matrix
+OBSERVATION -> measured past or present
+ATTRIBUTION -> explanation of observed change
+SCENARIO -> conditional assumptions
+PROJECTION -> modelled response under a scenario
+FORECAST -> different claim with a prediction horizon
+CLOSE DISTINCTION: Weather is not climate, emission flow is not concentration stock,...
+CLOSE DISTINCTION: Weather is not climate, emission flow is not concentration stock,...
+
+ASCII MASTER FLOW — PANEL 11/12: Climate-response fork
+SOURCE REDUCTION -> mitigation
+SINK ENHANCEMENT -> mitigation with accounting boundary
+EXPOSURE OR VULNERABILITY REDUCTION -> adaptation
+RESIDUAL HARM -> separate loss-and-damage question
+PORTFOLIO -> mitigation and adaptation are complementary
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State unit, baseline, period, scenario...
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State unit, baseline, period, scenario...
+
+ASCII MASTER FLOW — PANEL 12/12: Science answer spine
+DEFINE -> natural effect, human enhancement and energy flow
+ACCOUNT -> emissions, concentrations, stock and net balance
+EXPLAIN -> forcing, feedback and gas-specific properties
+EVALUATE -> trend, detection, attribution and projection
+QUALIFY -> scale, scenario, confidence and no invented figures

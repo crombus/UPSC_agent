@@ -1544,3 +1544,168 @@ Added exact NCRWC chronology, eleven-member composition, route counts and propos
 | MD-DM18-001 | high | `disaster-management-18` | generated session/flows | Disaster Management precision and status controls absent | E-DM18-001 | Add risk-cycle, mandate, warning, finance, unit/date/status and cross-ownership controls | Generated only | applied g2; canonical owners unchanged |
 | MD-DM18-002 | high | `disaster-management-18` | generated practice | Per-answer execution controls incomplete | E-DM18-002 | Repair each model and timed plan without changing verified PYQ wording | Generated only | applied g2; canonical owners unchanged |
 | MD-DM18-003 | high | `disaster-management-18` | generated MCQs/flows | Rotation and independent flow completeness required | E-DM18-003 | Regenerate all four agreeing artifacts | Generated only | applied and verified g2 |
+| MD-POL01-001 | high | `polity-01` | canonical Basic | hostile constitutional ownership control absent | E-POL01-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL01-002 | high | `polity-01` | generated practice | answer execution controls incomplete | E-POL01-002 | repair without changing official PYQ wording | applied g17 |
+| MD-POL01-003 | high | `polity-01` | generated flows | twelve agreeing authored panels required | E-POL01-003 | regenerate same-master packages | applied g17 |
+| MD-POL02-001 | high | `polity-02` | canonical Basic | hostile constitutional ownership control absent | E-POL02-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL02-002 | high | `polity-02` | generated practice | answer execution controls incomplete | E-POL02-002 | repair without changing official PYQ wording | applied g18 |
+| MD-POL02-003 | high | `polity-02` | generated flows | twelve agreeing authored panels required | E-POL02-003 | regenerate same-master packages | applied g18 |
+| MD-POL03-001 | high | `polity-03` | canonical Basic | hostile constitutional ownership control absent | E-POL03-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL03-002 | high | `polity-03` | generated practice | answer execution controls incomplete | E-POL03-002 | repair without changing official PYQ wording | applied g19 |
+| MD-POL03-003 | high | `polity-03` | generated flows | twelve agreeing authored panels required | E-POL03-003 | regenerate same-master packages | applied g19 |
+| MD-POL04-001 | high | `polity-04` | canonical Basic | hostile constitutional ownership control absent | E-POL04-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL04-002 | high | `polity-04` | generated practice | answer execution controls incomplete | E-POL04-002 | repair without changing official PYQ wording | applied g19 |
+| MD-POL04-003 | high | `polity-04` | generated flows | twelve agreeing authored panels required | E-POL04-003 | regenerate same-master packages | applied g19 |
+| MD-POL05-001 | high | `polity-05` | canonical Basic | hostile constitutional ownership control absent | E-POL05-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL05-002 | high | `polity-05` | generated practice | answer execution controls incomplete | E-POL05-002 | repair without changing official PYQ wording | applied g18 |
+| MD-POL05-003 | high | `polity-05` | generated flows | twelve agreeing authored panels required | E-POL05-003 | regenerate same-master packages | applied g18 |
+| MD-POL06-001 | high | `polity-06` | canonical Basic | hostile constitutional ownership control absent | E-POL06-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL06-002 | high | `polity-06` | generated practice | answer execution controls incomplete | E-POL06-002 | repair without changing official PYQ wording | applied g17 |
+| MD-POL06-003 | high | `polity-06` | generated flows | twelve agreeing authored panels required | E-POL06-003 | regenerate same-master packages | applied g17 |
+| MD-POL07-001 | high | `polity-07` | canonical Basic | hostile constitutional ownership control absent | E-POL07-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL07-002 | high | `polity-07` | generated practice | answer execution controls incomplete | E-POL07-002 | repair without changing official PYQ wording | applied g19 |
+| MD-POL07-003 | high | `polity-07` | generated flows | twelve agreeing authored panels required | E-POL07-003 | regenerate same-master packages | applied g19 |
+| MD-POL08-001 | high | `polity-08` | canonical Basic | hostile constitutional ownership control absent | E-POL08-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL08-002 | high | `polity-08` | generated practice | answer execution controls incomplete | E-POL08-002 | repair without changing official PYQ wording | applied g9 |
+| MD-POL08-003 | high | `polity-08` | generated flows | twelve agreeing authored panels required | E-POL08-003 | regenerate same-master packages | applied g9 |
+| MD-POL09-001 | high | `polity-09` | canonical Basic | hostile constitutional ownership control absent | E-POL09-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL09-002 | high | `polity-09` | generated practice | answer execution controls incomplete | E-POL09-002 | repair without changing official PYQ wording | applied g5 |
+| MD-POL09-003 | high | `polity-09` | generated flows | twelve agreeing authored panels required | E-POL09-003 | regenerate same-master packages | applied g5 |
+| MD-POL10-001 | high | `polity-10` | canonical Basic | hostile constitutional ownership control absent | E-POL10-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL10-002 | high | `polity-10` | generated practice | answer execution controls incomplete | E-POL10-002 | repair without changing official PYQ wording | applied g8 |
+| MD-POL10-003 | high | `polity-10` | generated flows | twelve agreeing authored panels required | E-POL10-003 | regenerate same-master packages | applied g8 |
+| MD-POL11-001 | high | `polity-11` | canonical Basic | hostile constitutional ownership control absent | E-POL11-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL11-002 | high | `polity-11` | generated practice | answer execution controls incomplete | E-POL11-002 | repair without changing official PYQ wording | applied g5 |
+| MD-POL11-003 | high | `polity-11` | generated flows | twelve agreeing authored panels required | E-POL11-003 | regenerate same-master packages | applied g5 |
+| MD-POL12-001 | high | `polity-12` | canonical Basic | hostile constitutional ownership control absent | E-POL12-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL12-002 | high | `polity-12` | generated practice | answer execution controls incomplete | E-POL12-002 | repair without changing official PYQ wording | applied g8 |
+| MD-POL12-003 | high | `polity-12` | generated flows | twelve agreeing authored panels required | E-POL12-003 | regenerate same-master packages | applied g8 |
+| MD-POL13-001 | high | `polity-13` | canonical Basic | hostile constitutional ownership control absent | E-POL13-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL13-002 | high | `polity-13` | generated practice | answer execution controls incomplete | E-POL13-002 | repair without changing official PYQ wording | applied g4 |
+| MD-POL13-003 | high | `polity-13` | generated flows | twelve agreeing authored panels required | E-POL13-003 | regenerate same-master packages | applied g4 |
+| MD-POL14-001 | high | `polity-14` | canonical Basic | hostile constitutional ownership control absent | E-POL14-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL14-002 | high | `polity-14` | generated practice | answer execution controls incomplete | E-POL14-002 | repair without changing official PYQ wording | applied g4 |
+| MD-POL14-003 | high | `polity-14` | generated flows | twelve agreeing authored panels required | E-POL14-003 | regenerate same-master packages | applied g4 |
+| MD-POL15-001 | high | `polity-15` | canonical Basic | hostile constitutional ownership control absent | E-POL15-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL15-002 | high | `polity-15` | generated practice | answer execution controls incomplete | E-POL15-002 | repair without changing official PYQ wording | applied g6 |
+| MD-POL15-003 | high | `polity-15` | generated flows | twelve agreeing authored panels required | E-POL15-003 | regenerate same-master packages | applied g6 |
+| MD-POL16-001 | high | `polity-16` | canonical Basic | hostile constitutional ownership control absent | E-POL16-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL16-002 | high | `polity-16` | generated practice | answer execution controls incomplete | E-POL16-002 | repair without changing official PYQ wording | applied g7 |
+| MD-POL16-003 | high | `polity-16` | generated flows | twelve agreeing authored panels required | E-POL16-003 | regenerate same-master packages | applied g7 |
+| MD-POL17-001 | high | `polity-17` | canonical Basic | hostile constitutional ownership control absent | E-POL17-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL17-002 | high | `polity-17` | generated practice | answer execution controls incomplete | E-POL17-002 | repair without changing official PYQ wording | applied g6 |
+| MD-POL17-003 | high | `polity-17` | generated flows | twelve agreeing authored panels required | E-POL17-003 | regenerate same-master packages | applied g6 |
+| MD-POL18-001 | high | `polity-18` | canonical Basic | hostile constitutional ownership control absent | E-POL18-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL18-002 | high | `polity-18` | generated practice | answer execution controls incomplete | E-POL18-002 | repair without changing official PYQ wording | applied g4 |
+| MD-POL18-003 | high | `polity-18` | generated flows | twelve agreeing authored panels required | E-POL18-003 | regenerate same-master packages | applied g4 |
+| MD-POL19-001 | high | `polity-19` | canonical Basic | hostile constitutional ownership control absent | E-POL19-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL19-002 | high | `polity-19` | generated practice | answer execution controls incomplete | E-POL19-002 | repair without changing official PYQ wording | applied g7 |
+| MD-POL19-003 | high | `polity-19` | generated flows | twelve agreeing authored panels required | E-POL19-003 | regenerate same-master packages | applied g7 |
+| MD-POL20-001 | high | `polity-20` | canonical Basic | hostile constitutional ownership control absent | E-POL20-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL20-002 | high | `polity-20` | generated practice | answer execution controls incomplete | E-POL20-002 | repair without changing official PYQ wording | applied g8 |
+| MD-POL20-003 | high | `polity-20` | generated flows | twelve agreeing authored panels required | E-POL20-003 | regenerate same-master packages | applied g8 |
+| MD-POL21-001 | high | `polity-21` | canonical Basic | hostile constitutional ownership control absent | E-POL21-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL21-002 | high | `polity-21` | generated practice | answer execution controls incomplete | E-POL21-002 | repair without changing official PYQ wording | applied g7 |
+| MD-POL21-003 | high | `polity-21` | generated flows | twelve agreeing authored panels required | E-POL21-003 | regenerate same-master packages | applied g7 |
+| MD-POL22-001 | high | `polity-22` | canonical Basic | hostile constitutional ownership control absent | E-POL22-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL22-002 | high | `polity-22` | generated practice | answer execution controls incomplete | E-POL22-002 | repair without changing official PYQ wording | applied g6 |
+| MD-POL22-003 | high | `polity-22` | generated flows | twelve agreeing authored panels required | E-POL22-003 | regenerate same-master packages | applied g6 |
+| MD-POL23-001 | high | `polity-23` | canonical Basic | hostile constitutional ownership control absent | E-POL23-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL23-002 | high | `polity-23` | generated practice | answer execution controls incomplete | E-POL23-002 | repair without changing official PYQ wording | applied g7 |
+| MD-POL23-003 | high | `polity-23` | generated flows | twelve agreeing authored panels required | E-POL23-003 | regenerate same-master packages | applied g7 |
+| MD-POL24-001 | high | `polity-24` | canonical Basic | hostile constitutional ownership control absent | E-POL24-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL24-002 | high | `polity-24` | generated practice | answer execution controls incomplete | E-POL24-002 | repair without changing official PYQ wording | applied g4 |
+| MD-POL24-003 | high | `polity-24` | generated flows | twelve agreeing authored panels required | E-POL24-003 | regenerate same-master packages | applied g4 |
+| MD-POL25-001 | high | `polity-25` | canonical Basic | hostile constitutional ownership control absent | E-POL25-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL25-002 | high | `polity-25` | generated practice | answer execution controls incomplete | E-POL25-002 | repair without changing official PYQ wording | applied g6 |
+| MD-POL25-003 | high | `polity-25` | generated flows | twelve agreeing authored panels required | E-POL25-003 | regenerate same-master packages | applied g6 |
+| MD-POL26-001 | high | `polity-26` | canonical Basic | hostile constitutional ownership control absent | E-POL26-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL26-002 | high | `polity-26` | generated practice | answer execution controls incomplete | E-POL26-002 | repair without changing official PYQ wording | applied g5 |
+| MD-POL26-003 | high | `polity-26` | generated flows | twelve agreeing authored panels required | E-POL26-003 | regenerate same-master packages | applied g5 |
+| MD-POL27-001 | high | `polity-27` | canonical Basic | hostile constitutional ownership control absent | E-POL27-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL27-002 | high | `polity-27` | generated practice | answer execution controls incomplete | E-POL27-002 | repair without changing official PYQ wording | applied g5 |
+| MD-POL27-003 | high | `polity-27` | generated flows | twelve agreeing authored panels required | E-POL27-003 | regenerate same-master packages | applied g5 |
+| MD-POL28-001 | high | `polity-28` | canonical Basic | hostile constitutional ownership control absent | E-POL28-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL28-002 | high | `polity-28` | generated practice | answer execution controls incomplete | E-POL28-002 | repair without changing official PYQ wording | applied g5 |
+| MD-POL28-003 | high | `polity-28` | generated flows | twelve agreeing authored panels required | E-POL28-003 | regenerate same-master packages | applied g5 |
+| MD-POL29-001 | high | `polity-29` | canonical Basic | hostile constitutional ownership control absent | E-POL29-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL29-002 | high | `polity-29` | generated practice | answer execution controls incomplete | E-POL29-002 | repair without changing official PYQ wording | applied g4 |
+| MD-POL29-003 | high | `polity-29` | generated flows | twelve agreeing authored panels required | E-POL29-003 | regenerate same-master packages | applied g4 |
+| MD-POL30-001 | high | `polity-30` | canonical Basic | hostile constitutional ownership control absent | E-POL30-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL30-002 | high | `polity-30` | generated practice | answer execution controls incomplete | E-POL30-002 | repair without changing official PYQ wording | applied g5 |
+| MD-POL30-003 | high | `polity-30` | generated flows | twelve agreeing authored panels required | E-POL30-003 | regenerate same-master packages | applied g5 |
+| MD-POL31-001 | high | `polity-31` | canonical Basic | hostile constitutional ownership control absent | E-POL31-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL31-002 | high | `polity-31` | generated practice | answer execution controls incomplete | E-POL31-002 | repair without changing official PYQ wording | applied g4 |
+| MD-POL31-003 | high | `polity-31` | generated flows | twelve agreeing authored panels required | E-POL31-003 | regenerate same-master packages | applied g4 |
+| MD-POL32-001 | high | `polity-32` | canonical Basic | hostile constitutional ownership control absent | E-POL32-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL32-002 | high | `polity-32` | generated practice | answer execution controls incomplete | E-POL32-002 | repair without changing official PYQ wording | applied g5 |
+| MD-POL32-003 | high | `polity-32` | generated flows | twelve agreeing authored panels required | E-POL32-003 | regenerate same-master packages | applied g5 |
+| MD-POL33-001 | high | `polity-33` | canonical Basic | hostile constitutional ownership control absent | E-POL33-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL33-002 | high | `polity-33` | generated practice | answer execution controls incomplete | E-POL33-002 | repair without changing official PYQ wording | applied g6 |
+| MD-POL33-003 | high | `polity-33` | generated flows | twelve agreeing authored panels required | E-POL33-003 | regenerate same-master packages | applied g6 |
+| MD-POL34-001 | high | `polity-34` | canonical Basic | hostile constitutional ownership control absent | E-POL34-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL34-002 | high | `polity-34` | generated practice | answer execution controls incomplete | E-POL34-002 | repair without changing official PYQ wording | applied g5 |
+| MD-POL34-003 | high | `polity-34` | generated flows | twelve agreeing authored panels required | E-POL34-003 | regenerate same-master packages | applied g5 |
+| MD-POL35-001 | high | `polity-35` | canonical Basic | hostile constitutional ownership control absent | E-POL35-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL35-002 | high | `polity-35` | generated practice | answer execution controls incomplete | E-POL35-002 | repair without changing official PYQ wording | applied g8 |
+| MD-POL35-003 | high | `polity-35` | generated flows | twelve agreeing authored panels required | E-POL35-003 | regenerate same-master packages | applied g8 |
+| MD-POL36-001 | high | `polity-36` | canonical Basic | hostile constitutional ownership control absent | E-POL36-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL36-002 | high | `polity-36` | generated practice | answer execution controls incomplete | E-POL36-002 | repair without changing official PYQ wording | applied g6 |
+| MD-POL36-003 | high | `polity-36` | generated flows | twelve agreeing authored panels required | E-POL36-003 | regenerate same-master packages | applied g6 |
+| MD-POL37-001 | high | `polity-37` | canonical Basic | hostile constitutional ownership control absent | E-POL37-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL37-002 | high | `polity-37` | generated practice | answer execution controls incomplete | E-POL37-002 | repair without changing official PYQ wording | applied g8 |
+| MD-POL37-003 | high | `polity-37` | generated flows | twelve agreeing authored panels required | E-POL37-003 | regenerate same-master packages | applied g8 |
+| MD-POL38-001 | high | `polity-38` | canonical Basic | hostile constitutional ownership control absent | E-POL38-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL38-002 | high | `polity-38` | generated practice | answer execution controls incomplete | E-POL38-002 | repair without changing official PYQ wording | applied g5 |
+| MD-POL38-003 | high | `polity-38` | generated flows | twelve agreeing authored panels required | E-POL38-003 | regenerate same-master packages | applied g5 |
+| MD-POL39-001 | high | `polity-39` | canonical Basic | hostile constitutional ownership control absent | E-POL39-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL39-002 | high | `polity-39` | generated practice | answer execution controls incomplete | E-POL39-002 | repair without changing official PYQ wording | applied g6 |
+| MD-POL39-003 | high | `polity-39` | generated flows | twelve agreeing authored panels required | E-POL39-003 | regenerate same-master packages | applied g6 |
+| MD-POL40-001 | high | `polity-40` | canonical Basic | hostile constitutional ownership control absent | E-POL40-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL40-002 | high | `polity-40` | generated practice | answer execution controls incomplete | E-POL40-002 | repair without changing official PYQ wording | applied g6 |
+| MD-POL40-003 | high | `polity-40` | generated flows | twelve agreeing authored panels required | E-POL40-003 | regenerate same-master packages | applied g6 |
+| MD-POL41-001 | high | `polity-41` | canonical Basic | hostile constitutional ownership control absent | E-POL41-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL41-002 | high | `polity-41` | generated practice | answer execution controls incomplete | E-POL41-002 | repair without changing official PYQ wording | applied g5 |
+| MD-POL41-003 | high | `polity-41` | generated flows | twelve agreeing authored panels required | E-POL41-003 | regenerate same-master packages | applied g5 |
+| MD-POL42-001 | high | `polity-42` | canonical Basic | hostile constitutional ownership control absent | E-POL42-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL42-002 | high | `polity-42` | generated practice | answer execution controls incomplete | E-POL42-002 | repair without changing official PYQ wording | applied g6 |
+| MD-POL42-003 | high | `polity-42` | generated flows | twelve agreeing authored panels required | E-POL42-003 | regenerate same-master packages | applied g6 |
+| MD-POL43-001 | high | `polity-43` | canonical Basic | hostile constitutional ownership control absent | E-POL43-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL43-002 | high | `polity-43` | generated practice | answer execution controls incomplete | E-POL43-002 | repair without changing official PYQ wording | applied g8 |
+| MD-POL43-003 | high | `polity-43` | generated flows | twelve agreeing authored panels required | E-POL43-003 | regenerate same-master packages | applied g8 |
+| MD-POL44-001 | high | `polity-44` | canonical Basic | hostile constitutional ownership control absent | E-POL44-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL44-002 | high | `polity-44` | generated practice | answer execution controls incomplete | E-POL44-002 | repair without changing official PYQ wording | applied g7 |
+| MD-POL44-003 | high | `polity-44` | generated flows | twelve agreeing authored panels required | E-POL44-003 | regenerate same-master packages | applied g7 |
+| MD-POL45-001 | high | `polity-45` | canonical Basic | hostile constitutional ownership control absent | E-POL45-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL45-002 | high | `polity-45` | generated practice | answer execution controls incomplete | E-POL45-002 | repair without changing official PYQ wording | applied g8 |
+| MD-POL45-003 | high | `polity-45` | generated flows | twelve agreeing authored panels required | E-POL45-003 | regenerate same-master packages | applied g8 |
+| MD-POL46-001 | high | `polity-46` | canonical Basic | hostile constitutional ownership control absent | E-POL46-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL46-002 | high | `polity-46` | generated practice | answer execution controls incomplete | E-POL46-002 | repair without changing official PYQ wording | applied g5 |
+| MD-POL46-003 | high | `polity-46` | generated flows | twelve agreeing authored panels required | E-POL46-003 | regenerate same-master packages | applied g5 |
+| MD-POL47-001 | high | `polity-47` | canonical Basic | hostile constitutional ownership control absent | E-POL47-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL47-002 | high | `polity-47` | generated practice | answer execution controls incomplete | E-POL47-002 | repair without changing official PYQ wording | applied g6 |
+| MD-POL47-003 | high | `polity-47` | generated flows | twelve agreeing authored panels required | E-POL47-003 | regenerate same-master packages | applied g6 |
+| MD-POL48-001 | high | `polity-48` | canonical Basic | hostile constitutional ownership control absent | E-POL48-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL48-002 | high | `polity-48` | generated practice | answer execution controls incomplete | E-POL48-002 | repair without changing official PYQ wording | applied g5 |
+| MD-POL48-003 | high | `polity-48` | generated flows | twelve agreeing authored panels required | E-POL48-003 | regenerate same-master packages | applied g5 |
+| MD-POL49-001 | high | `polity-49` | canonical Basic | hostile constitutional ownership control absent | E-POL49-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL49-002 | high | `polity-49` | generated practice | answer execution controls incomplete | E-POL49-002 | repair without changing official PYQ wording | applied g6 |
+| MD-POL49-003 | high | `polity-49` | generated flows | twelve agreeing authored panels required | E-POL49-003 | regenerate same-master packages | applied g6 |
+| MD-POL50-001 | high | `polity-50` | canonical Basic | hostile constitutional ownership control absent | E-POL50-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL50-002 | high | `polity-50` | generated practice | answer execution controls incomplete | E-POL50-002 | repair without changing official PYQ wording | applied g4 |
+| MD-POL50-003 | high | `polity-50` | generated flows | twelve agreeing authored panels required | E-POL50-003 | regenerate same-master packages | applied g4 |
+| MD-POL51-001 | high | `polity-51` | canonical Basic | hostile constitutional ownership control absent | E-POL51-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL51-002 | high | `polity-51` | generated practice | answer execution controls incomplete | E-POL51-002 | repair without changing official PYQ wording | applied g4 |
+| MD-POL51-003 | high | `polity-51` | generated flows | twelve agreeing authored panels required | E-POL51-003 | regenerate same-master packages | applied g4 |
+| MD-POL52-001 | high | `polity-52` | canonical Basic | hostile constitutional ownership control absent | E-POL52-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL52-002 | high | `polity-52` | generated practice | answer execution controls incomplete | E-POL52-002 | repair without changing official PYQ wording | applied g5 |
+| MD-POL52-003 | high | `polity-52` | generated flows | twelve agreeing authored panels required | E-POL52-003 | regenerate same-master packages | applied g5 |
+| MD-POL53-001 | high | `polity-53` | canonical Basic | hostile constitutional ownership control absent | E-POL53-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL53-002 | high | `polity-53` | generated practice | answer execution controls incomplete | E-POL53-002 | repair without changing official PYQ wording | applied g4 |
+| MD-POL53-003 | high | `polity-53` | generated flows | twelve agreeing authored panels required | E-POL53-003 | regenerate same-master packages | applied g4 |
+| MD-POL54-001 | high | `polity-54` | canonical Basic | hostile constitutional ownership control absent | E-POL54-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL54-002 | high | `polity-54` | generated practice | answer execution controls incomplete | E-POL54-002 | repair without changing official PYQ wording | applied g4 |
+| MD-POL54-003 | high | `polity-54` | generated flows | twelve agreeing authored panels required | E-POL54-003 | regenerate same-master packages | applied g4 |
+| MD-POL55-001 | high | `polity-55` | canonical Basic | hostile constitutional ownership control absent | E-POL55-001 | add exact legal/source/PYQ boundaries | applied |
+| MD-POL55-002 | high | `polity-55` | generated practice | answer execution controls incomplete | E-POL55-002 | repair without changing official PYQ wording | applied g4 |
+| MD-POL55-003 | high | `polity-55` | generated flows | twelve agreeing authored panels required | E-POL55-003 | regenerate same-master packages | applied g4 |

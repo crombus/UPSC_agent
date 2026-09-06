@@ -1,19 +1,28 @@
-# Deep content review — polity-39 Cooperative Societies
+# Deep Content Review — Indian Society 39: Cooperative Societies
 
-## Outcome
-- Baseline `polity-39:learner-v2:g2`: **75/100**, 48 hashes locked.
-- Preserved g3 (**93**) and g4 (**97**) after manual prose/truncation failures.
-- Final `polity-39:learner-v2:g5`: **98/100**, passed; approval false.
+- **Baseline locked:** `polity-39:learner-v2:g5` — 96/100
+- **Immutable successor:** `polity-39:learner-v2:g6` — 98/100
+- **Approval:** false / pending explicit approval
 
-## Fixes
-- Corrected the *Rajendra N. Shah* State/MSCS/Union-Territory severability boundary and Part IXB supersession/banking exceptions.
-- Completed Core treatment of the 2023 Co-operative Election Authority, Ombudsman, Information Officer, audit/conflict controls and rehabilitation fund.
-- Added eight answer-specific improvement/compression pairs and expanded matching graphical/ASCII flows from nine to twelve stages.
+## Defects reported before repair
 
-## Validation
-- 15 sessions; 48 MCQs, strict ABCD x12; eight guidance pairs; ASCII width 94.
-- PDFs: 62/20/1/5/12 pages; zero ellipses, replacement glyphs or acronym mutation.
-- Tests: 38 passed. Forty immutable g2 hashes checked; zero mismatches.
+- Hostile four-ledger ownership/PYQ control is absent.
+- Authoritative current-law source status is not dated.
 
-## Export
-`notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\39-Cooperative-Societies`
+## Four-artifact repair and re-review
+
+The complete predecessor teaching is preserved, with canonical Basic/Core first
+and Optional Advanced still subordinate. A source-and-evidence contract now
+distinguishes archaeology, texts, inscriptions, coins, interpretation, PYQ
+metadata and current-status claims. Every identified solved item has demand
+decoding, a detailed model, an executable answer/compression plan, marks rationale
+and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D while
+official PYQ wording remains outside that rotation. Both master flows were
+regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
+
+- Session PDF: 74 pages
+- Workbook PDF: 29 pages
+- Solved items audited: 8
+- Basic/remedial MCQs audited: 48
+- Graphical/ASCII stages: 12 / 12
+- Approval: false

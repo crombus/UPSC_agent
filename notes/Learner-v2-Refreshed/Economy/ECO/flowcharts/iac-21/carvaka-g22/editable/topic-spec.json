@@ -1,0 +1,1060 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-21",
+  "subject": "Economy",
+  "title": "IMF, WORLD BANK, ADB, AIIB, NDB AND GLOBAL GOVERNANCE",
+  "short_route": "INSTITUTION COMPARISON GRID → IMF FUNCTION RAIL → QUOTA AND SDR MAP → RESERVE TRANCHE TRAP → IMF FACILITY LADDER → WORLD BANK GROUP MAP",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g22 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g22\\economy-21_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-21-deep-review-2026-09-06-g22.json",
+  "ascii_spec_sha256": "097fba20c0c80f4cbe81cf4f10877cd711e4dfd5dfd9588d49d979b5b5b3ef38",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "INSTITUTION COMPARISON GRID",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INSTITUTION COMPARISON GRID",
+          "role": "institution"
+        },
+        {
+          "text": "STABILISATION OR DEVELOPMENT PURPOSE",
+          "role": "outcome"
+        },
+        {
+          "text": "SOVEREIGN OR PRIVATE COUNTERPARTY",
+          "role": "comparison"
+        },
+        {
+          "text": "LOAN, GUARANTEE, SURVEILLANCE OR ADVICE",
+          "role": "evidence"
+        },
+        {
+          "text": "GOVERNANCE + CONDITIONALITY",
+          "role": "primary"
+        },
+        {
+          "text": "VOICE AND IMPLEMENTATION RULES",
+          "role": "outcome"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "IMF, WORLD BANK GROUP, ADB, AIIB AND NDB DIFFER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MANDATE → stabilisation or development purpose",
+        "CLIENT → sovereign or private counterparty",
+        "INSTRUMENT → loan, guarantee, surveillance or advice",
+        "GOVERNANCE + CONDITIONALITY → voice and implementation rules",
+        "MUST REMEMBER: IMF, World Bank Group, ADB, AIIB and NDB differ in membership, voting"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MANDATE → stabilisation or development purpose",
+          "INSTRUMENT → loan, guarantee, surveillance or advice",
+          "MUST REMEMBER: IMF, World Bank Group, ADB, AIIB and NDB differ in membership, voting,..."
+        ],
+        [
+          "CLIENT → sovereign or private counterparty",
+          "GOVERNANCE + CONDITIONALITY → voice and implementation rules",
+          "MANDATE → stabilisation or development purpose"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MANDATE → stabilisation or development purpose",
+            "CLIENT → sovereign or private counterparty"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INSTRUMENT → loan, guarantee, surveillance or advice",
+            "GOVERNANCE + CONDITIONALITY → voice and implementation rules"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: IMF, World Bank Group, ADB, AIIB and NDB differ in membership, voting,...",
+            "MANDATE → stabilisation or development purpose"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: IMF, World Bank Group, ADB, AIIB and NDB differ in membership, voting,.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g22\\economy-21_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "IMF FUNCTION RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "IMF FUNCTION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "EXTERNAL FINANCING NEED",
+          "role": "outcome"
+        },
+        {
+          "text": "FACILITY + CONDITIONALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "REVIEWS + REPAYMENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EXTERNAL FINANCING NEED",
+        "FACILITY + CONDITIONALITY",
+        "REVIEWS + REPAYMENT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EXTERNAL FINANCING NEED",
+            "FACILITY + CONDITIONALITY"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REVIEWS + REPAYMENT",
+            "EXTERNAL FINANCING NEED"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FACILITY + CONDITIONALITY",
+            "REVIEWS + REPAYMENT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXTERNAL FINANCING NEED; FACILITY + CONDITIONALITY; REVIEWS + REPAYMENT.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g22\\economy-21_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "QUOTA AND SDR MAP",
+      "structural_type": "relationship-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "QUOTA AND SDR MAP",
+          "role": "primary"
+        },
+        {
+          "text": "VOTING + ACCESS",
+          "role": "outcome"
+        },
+        {
+          "text": "GENERAL SDR ALLOCATION SHARE",
+          "role": "comparison"
+        },
+        {
+          "text": "RESERVE ASSET; NOT LOAN",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "QUOTA → contribution",
+        "QUOTA → voting + access",
+        "QUOTA → general SDR allocation share",
+        "SDR → reserve asset; not loan"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "QUOTA → contribution",
+            "QUOTA → voting + access"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "QUOTA → general SDR allocation share",
+            "SDR → reserve asset; not loan"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "QUOTA → contribution",
+            "QUOTA → voting + access"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUOTA → general SDR allocation share; SDR → reserve asset; not loan.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g22\\economy-21_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "RESERVE TRANCHE TRAP",
+      "structural_type": "terminology-board",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "RESERVE TRANCHE TRAP",
+          "role": "caution"
+        },
+        {
+          "text": "RESERVE TRANCHE POSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "LIQUID IMF CLAIM",
+          "role": "comparison"
+        },
+        {
+          "text": "GOLD TRANCHE",
+          "role": "evidence"
+        },
+        {
+          "text": "HISTORICAL NAME",
+          "role": "primary"
+        },
+        {
+          "text": "PROGRAMME CREDIT",
+          "role": "outcome"
+        },
+        {
+          "text": "SEPARATE BORROWING",
+          "role": "comparison"
+        },
+        {
+          "text": "RESERVE ASSET",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RESERVE TRANCHE POSITION → liquid IMF claim",
+        "GOLD TRANCHE → historical name",
+        "PROGRAMME CREDIT → separate borrowing",
+        "RESERVE ASSET != fiscal receipt"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RESERVE TRANCHE POSITION → liquid IMF claim",
+            "GOLD TRANCHE → historical name"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PROGRAMME CREDIT → separate borrowing",
+            "RESERVE ASSET != fiscal receipt"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RESERVE TRANCHE POSITION → liquid IMF claim",
+            "GOLD TRANCHE → historical name"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROGRAMME CREDIT → separate borrowing; RESERVE ASSET != fiscal receipt.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g22\\economy-21_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "IMF FACILITY LADDER",
+      "structural_type": "comparison-ladder",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "IMF FACILITY LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "URGENT ONE-OFF SUPPORT",
+          "role": "outcome"
+        },
+        {
+          "text": "SHORTER STABILISATION ARRANGEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "MEDIUM-TERM STRUCTURAL NEED",
+          "role": "evidence"
+        },
+        {
+          "text": "VERIFY CURRENT ACCESS LIMITS SEPARATELY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "RFI → urgent one-off support",
+        "SBA → shorter stabilisation arrangement",
+        "EFF → medium-term structural need",
+        "VERIFY current access limits separately"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "RFI → urgent one-off support",
+          "EFF → medium-term structural need",
+          "RFI → urgent one-off support"
+        ],
+        [
+          "SBA → shorter stabilisation arrangement",
+          "VERIFY current access limits separately",
+          "SBA → shorter stabilisation arrangement"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RFI → urgent one-off support",
+            "SBA → shorter stabilisation arrangement"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EFF → medium-term structural need",
+            "VERIFY current access limits separately"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RFI → urgent one-off support",
+            "SBA → shorter stabilisation arrangement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EFF → medium-term structural need; VERIFY current access limits separately.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g22\\economy-21_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "WORLD BANK GROUP MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "WORLD BANK GROUP MAP",
+          "role": "primary"
+        },
+        {
+          "text": "ELIGIBLE SOVEREIGN BORROWERS",
+          "role": "outcome"
+        },
+        {
+          "text": "CONCESSIONAL SOVEREIGN WINDOW",
+          "role": "comparison"
+        },
+        {
+          "text": "PRIVATE SECTOR",
+          "role": "evidence"
+        },
+        {
+          "text": "POLITICAL-RISK GUARANTEES",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "IMF QUOTA IS NOT WORLD BANK CAPITAL, SDR IS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "IBRD → eligible sovereign borrowers",
+        "IDA → concessional sovereign window",
+        "IFC → private sector",
+        "MIGA → political-risk guarantees",
+        "CLOSE DISTINCTION: IMF quota is not World Bank capital, SDR is not a currency, project"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "IBRD → eligible sovereign borrowers",
+            "IDA → concessional sovereign window"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IFC → private sector",
+            "MIGA → political-risk guarantees"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: IMF quota is not World Bank capital, SDR is not a currency, project...",
+            "IBRD → eligible sovereign borrowers"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: IMF quota is not World Bank capital, SDR is not a currency, project.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g22\\economy-21_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DEVELOPMENT-BANK FAMILY",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DEVELOPMENT-BANK FAMILY",
+          "role": "primary"
+        },
+        {
+          "text": "ASIA-PACIFIC REGIONAL BANK",
+          "role": "outcome"
+        },
+        {
+          "text": "SUSTAINABLE INFRASTRUCTURE + CONNECTIVITY",
+          "role": "comparison"
+        },
+        {
+          "text": "BRICS-FOUNDED DEVELOPMENT BANK",
+          "role": "evidence"
+        },
+        {
+          "text": "MANDATES OVERLAP BUT GOVERNANCE DIFFERS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ADB → Asia-Pacific regional bank",
+        "AIIB → sustainable infrastructure + connectivity",
+        "NDB → BRICS-founded development bank",
+        "MANDATES overlap but governance differs"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ADB → Asia-Pacific regional bank",
+          "NDB → BRICS-founded development bank",
+          "ADB → Asia-Pacific regional bank"
+        ],
+        [
+          "AIIB → sustainable infrastructure + connectivity",
+          "MANDATES overlap but governance differs",
+          "AIIB → sustainable infrastructure + connectivity"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ADB → Asia-Pacific regional bank",
+            "AIIB → sustainable infrastructure + connectivity"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NDB → BRICS-founded development bank",
+            "MANDATES overlap but governance differs"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ADB → Asia-Pacific regional bank",
+            "AIIB → sustainable infrastructure + connectivity"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "NDB → BRICS-founded development bank; MANDATES overlap but governance differs.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g22\\economy-21_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ADB PYQ ANCHOR",
+      "structural_type": "objective-card",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "ADB PYQ ANCHOR",
+          "role": "primary"
+        },
+        {
+          "text": "NATURE SOLUTIONS FINANCE HUB",
+          "role": "outcome"
+        },
+        {
+          "text": "LAUNCHED BY ADB",
+          "role": "comparison"
+        },
+        {
+          "text": "ASIA AND THE PACIFIC",
+          "role": "evidence"
+        },
+        {
+          "text": "DO NOT INVENT CURRENT FINANCE TOTALS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NATURE SOLUTIONS FINANCE HUB",
+        "LAUNCHED BY ADB",
+        "ASIA AND THE PACIFIC",
+        "DO NOT invent current finance totals"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NATURE SOLUTIONS FINANCE HUB",
+            "LAUNCHED BY ADB"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ASIA AND THE PACIFIC",
+            "DO NOT invent current finance totals"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NATURE SOLUTIONS FINANCE HUB",
+            "LAUNCHED BY ADB"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ASIA AND THE PACIFIC; DO NOT invent current finance totals.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g22\\economy-21_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "LENDING-WINDOW DISTINCTION",
+      "structural_type": "two-track-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "LENDING-WINDOW DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "PROJECT LOAN",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSET + APPRAISAL",
+          "role": "comparison"
+        },
+        {
+          "text": "POLICY LOAN",
+          "role": "evidence"
+        },
+        {
+          "text": "REFORM PROGRAMME",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINED RISK",
+          "role": "caution"
+        },
+        {
+          "text": "SHARED FUNDING STRUCTURE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PROJECT LOAN → asset + appraisal",
+        "POLICY LOAN → reform programme",
+        "GUARANTEE → defined risk",
+        "CO-FINANCE → shared funding structure"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PROJECT LOAN → asset + appraisal",
+            "POLICY LOAN → reform programme"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GUARANTEE → defined risk",
+            "CO-FINANCE → shared funding structure"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PROJECT LOAN → asset + appraisal",
+            "POLICY LOAN → reform programme"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GUARANTEE → defined risk; CO-FINANCE → shared funding structure.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g22\\economy-21_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "FOREIGN-CURRENCY RISK CHAIN",
+      "structural_type": "cause-effect-board",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FOREIGN-CURRENCY RISK CHAIN",
+          "role": "caution"
+        },
+        {
+          "text": "FOREIGN-CURRENCY LIABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "DOMESTIC-CURRENCY REVENUE",
+          "role": "comparison"
+        },
+        {
+          "text": "REPAYMENT BURDEN",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCESSIONAL TERMS DO NOT ERASE MISMATCH",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FOREIGN-CURRENCY LIABILITY",
+        "DOMESTIC-CURRENCY REVENUE",
+        "DEPRECIATION → repayment burden",
+        "CONCESSIONAL TERMS do not erase mismatch"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FOREIGN-CURRENCY LIABILITY",
+            "DOMESTIC-CURRENCY REVENUE"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DEPRECIATION → repayment burden",
+            "CONCESSIONAL TERMS do not erase mismatch"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FOREIGN-CURRENCY LIABILITY",
+            "DOMESTIC-CURRENCY REVENUE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEPRECIATION → repayment burden; CONCESSIONAL TERMS do not erase mismatch.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g22\\economy-21_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "DEBT-TREATMENT TIMELINE",
+      "structural_type": "timeline-strip",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "DEBT-TREATMENT TIMELINE",
+          "role": "primary"
+        },
+        {
+          "text": "TEMPORARY SUSPENSION",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMON FRAMEWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "TREATMENT BEYOND DSSI",
+          "role": "evidence"
+        },
+        {
+          "text": "OFFICIAL + PRIVATE CREDITOR COORDINATION",
+          "role": "primary"
+        },
+        {
+          "text": "CASE STATUS",
+          "role": "outcome"
+        },
+        {
+          "text": "VERIFY BY DATE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DSSI → temporary suspension",
+        "COMMON FRAMEWORK → treatment beyond DSSI",
+        "OFFICIAL + PRIVATE creditor coordination",
+        "CASE STATUS → verify by date"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DSSI → temporary suspension",
+            "COMMON FRAMEWORK → treatment beyond DSSI"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OFFICIAL + PRIVATE creditor coordination",
+            "CASE STATUS → verify by date"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DSSI → temporary suspension",
+            "COMMON FRAMEWORK → treatment beyond DSSI"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OFFICIAL + PRIVATE creditor coordination; CASE STATUS → verify by date.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g22\\economy-21_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "GLOBAL-GOVERNANCE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "GLOBAL-GOVERNANCE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "COMPARE MANDATE + WINDOW",
+          "role": "comparison"
+        },
+        {
+          "text": "TEST VOICE + OWNERSHIP",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSESS ADDITIONALITY + DEBT",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCLUDE REFORMED PLURAL MULTILATERALISM",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "VERIFY INSTITUTION, WINDOW, BORROWER",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "COMPARE mandate + window",
+        "TEST voice + ownership",
+        "ASSESS additionality + debt",
+        "CONCLUDE reformed plural multilateralism",
+        "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Verify institution, window, borrower"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "COMPARE mandate + window",
+            "TEST voice + ownership"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ASSESS additionality + debt",
+            "CONCLUDE reformed plural multilateralism"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Verify institution, window, borrower...",
+            "COMPARE mandate + window"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Verify institution, window, borrower.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\21_IMF-World-Bank-ADB-AIIB-NDB-and-Global-Governance.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-21\\g22\\economy-21_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "IMF QUOTAS INFLUENCE CONTRIBUTIONS, ACCESS, VOTING POWER AND SDR",
+          "role": "mechanism"
+        },
+        {
+          "text": "DEVELOPMENT-BANK ADDITIONALITY ASKS WHETHER FINANCE, RISK ABSORPTION OR KNOWLEDGE",
+          "role": "caution"
+        },
+        {
+          "text": "PROJECT LENDING FACES ENVIRONMENTAL, SOCIAL, PROCUREMENT AND DEBT-SUSTAINABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "POLICY-BASED LENDING SUPPORTS REFORM PROGRAMMES RATHER THAN A SINGLE",
+          "role": "primary"
+        },
+        {
+          "text": "CO-FINANCING EXPANDS SCALE BUT CAN COMPLICATE STANDARDS, PROCUREMENT AND",
+          "role": "outcome"
+        },
+        {
+          "text": "REFORM PROPOSALS CONCERN QUOTA REALIGNMENT, LEADERSHIP SELECTION, VOICE OF",
+          "role": "comparison"
+        },
+        {
+          "text": "MACROECONOMIC SURVEILLANCE, CRISIS LENDING, SDR-RELATED FUNCTIONS AND MONETARY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: IMF quotas influence contributions, access, voting power and SDR allocation shares.",
+            "CAUTION: Development-bank additionality asks whether finance, risk absorption or knowledge would",
+            "CAUTION: Project lending faces environmental, social, procurement and debt-sustainability",
+            "CAUTION: Policy-based lending supports reform programmes rather than a single physical asset."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Co-financing expands scale but can complicate standards, procurement and",
+            "CAUTION: Reform proposals concern quota realignment, leadership selection, voice of developing",
+            "IMF: macroeconomic surveillance, crisis lending, SDR-related functions and monetary",
+            "IBRD and IDA: sovereign development finance on different terms for eligible"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "IFC and MIGA: private-sector finance and political-risk guarantees within the World",
+            "ADB, AIIB and NDB: regional or member-led development finance with differing",
+            "CAUTION: An IMF programme addresses an external financing gap; a development-bank road loan",
+            "CAUTION: A guarantee can mobilise private finance by absorbing defined political or credit risks"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

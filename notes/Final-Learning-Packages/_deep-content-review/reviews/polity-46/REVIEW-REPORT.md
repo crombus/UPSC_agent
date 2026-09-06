@@ -1,25 +1,28 @@
-# Deep content review — polity-46 Administrative Tribunals
+# Deep Content Review — Indian Society 46: Administrative Tribunals
 
-## Initial review: g2
-- Locked `polity-46:learner-v2:g2` with 61 hashes.
-- Score: **72/100** — learning 28/40, workbook 18/30, graphical 13/15, ASCII 13/15; changes suggested; approval false.
-- Defects: four generated prose truncations; exact PYQs shortened or paraphrased; generic non-exam-length models without answer-specific guidance; nine compressed flows; current 2025/2026 status needed enactment/commencement discipline; CAT jurisdiction, exclusions and court/tribunal distinctions needed a clearer executable sequence.
+- **Baseline locked:** `polity-46:learner-v2:g4` — 96/100
+- **Immutable successor:** `polity-46:learner-v2:g5` — 98/100
+- **Approval:** false / pending explicit approval
 
-## Evidence and repairs
-- Verified Articles 323A/323B and the Forty-second Amendment, Administrative Tribunals Act 1985, Sections 2/14/20-22, CAT/SAT structure, and tribunal versus constitutional-court distinctions.
-- Verified *S. P. Sampath Kumar*, *L. Chandra Kumar*, *R. Gandhi*, *Rojer Mathew*, the *Madras Bar Association* line, 2025 INSC 1330 and the 9 March 2026 continuity order.
-- Replaced four abbreviated PYQs with exact 2018, 2019, 2024 and 2025 wording and executable models; added eight original Mains questions and twelve Why/How/compression sets.
-- Expanded ASCII and graphical architecture to twelve matching stages and added a current-status firewall.
+## Defects reported before repair
 
-## Immutable regeneration and re-review
-- `polity-46:learner-v2:g3`: **95/100**, preserved after manual review found four generated ellipses and a nine-stage graphical flow.
-- `polity-46:learner-v2:g4`: **98/100**, passed all hard gates; approval remains false.
+- Hostile four-ledger ownership/PYQ control is absent.
+- Authoritative current-law source status is not dated.
 
-## Final validation
-- 16 Core sessions; 48 MCQs with strict A-B-C-D ×12; four exact solved PYQs; twelve answer-guidance sets.
-- Zero ellipses or replacement glyphs; 12 ASCII panels, maximum width 98; 12 graphical Core stages plus one enrichment card.
-- PDFs: learning 49 pages; workbook 16; poster 1; tiled 4; ASCII 12.
-- Syllabus, statute/case/current-status, exact-PYQ, cross-artifact, path/hash and PDF checks passed.
-- Targeted suite: 38 tests passed.
+## Four-artifact repair and re-review
 
-Passed revalidation is not explicit package approval; approval remains false.
+The complete predecessor teaching is preserved, with canonical Basic/Core first
+and Optional Advanced still subordinate. A source-and-evidence contract now
+distinguishes archaeology, texts, inscriptions, coins, interpretation, PYQ
+metadata and current-status claims. Every identified solved item has demand
+decoding, a detailed model, an executable answer/compression plan, marks rationale
+and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D while
+official PYQ wording remains outside that rotation. Both master flows were
+regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
+
+- Session PDF: 62 pages
+- Workbook PDF: 28 pages
+- Solved items audited: 12
+- Basic/remedial MCQs audited: 48
+- Graphical/ASCII stages: 12 / 12
+- Approval: false

@@ -1,0 +1,2835 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-27\\g3\\economy-27_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-27\\g3\\economy-27_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "economy-27",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Digital Agriculture, Agritech and e-Technology for Farmers - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 27,
+      "markdown_body_line_end": 39,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 377.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 72,
+      "markdown_body_line_end": 72,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "e-Technology, digital agriculture and agritech must be read through e-Technology boundary and Digital agriculture and agritech, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 512.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 445.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 87,
+      "markdown_body_line_end": 94,
+      "heading": "VISUAL FIRST",
+      "preview": "E-TECHNOLOGY, DIGITAL AGRICULTURE AND AGRITECH",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 123,
+      "markdown_body_line_end": 130,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 333.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 227.873
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 142,
+      "markdown_body_line_end": 142,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Data-to-outcome chain must be read through Data-to-outcome chain, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 157,
+      "markdown_body_line_end": 161,
+      "heading": "VISUAL FIRST",
+      "preview": "DATA-TO-OUTCOME CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 189,
+      "markdown_body_line_end": 196,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 198.424
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 100.755
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 208,
+      "markdown_body_line_end": 208,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Precision agriculture must be read through Precision-agriculture boundary, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 665.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 223,
+      "markdown_body_line_end": 227,
+      "heading": "VISUAL FIRST",
+      "preview": "PRECISION AGRICULTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 376.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 255,
+      "markdown_body_line_end": 262,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 40.024
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 697.273
+        }
+      },
+      "pdf_pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 274,
+      "markdown_body_line_end": 274,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Remote sensing and ground truth must be read through Remote sensing and ground truth, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 548.073
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 481.405
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 289,
+      "markdown_body_line_end": 293,
+      "heading": "VISUAL FIRST",
+      "preview": "REMOTE SENSING AND GROUND TRUTH",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 300.805
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 259.805
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 321,
+      "markdown_body_line_end": 328,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 713.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 616.023
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 340,
+      "markdown_body_line_end": 340,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "GIS and GNSS must be read through GIS and GNSS, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 466.823
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 400.155
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 355,
+      "markdown_body_line_end": 359,
+      "heading": "VISUAL FIRST",
+      "preview": "GIS AND GNSS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 113
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 387,
+      "markdown_body_line_end": 394,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 413.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 316.023
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 406,
+      "markdown_body_line_end": 406,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "IoT, AI, automated control and physical complements must be read through IoT, AI and automated control and DPI, platform and physical market, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 147.823
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 81.155
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 421,
+      "markdown_body_line_end": 428,
+      "heading": "VISUAL FIRST",
+      "preview": "IOT, AI, AUTOMATED CONTROL AND PHYSICAL COMPLEMENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 103
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 647.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 566.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 457,
+      "markdown_body_line_end": 464,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 170.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 64.073
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 476,
+      "markdown_body_line_end": 476,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Digital Agriculture Mission must be read through Digital Agriculture Mission status, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 665.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 491,
+      "markdown_body_line_end": 495,
+      "heading": "VISUAL FIRST",
+      "preview": "DIGITAL AGRICULTURE MISSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 376.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 523,
+      "markdown_body_line_end": 530,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 68.424
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 726.923
+        }
+      },
+      "pdf_pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 542,
+      "markdown_body_line_end": 542,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "AgriStack federal architecture must be read through AgriStack federal architecture, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 577.723
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 511.055
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 557,
+      "markdown_body_line_end": 561,
+      "heading": "VISUAL FIRST",
+      "preview": "AGRISTACK FEDERAL ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 101
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 316.255
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 265.255
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 589,
+      "markdown_body_line_end": 596,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 699.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 601.823
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 608,
+      "markdown_body_line_end": 608,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "AgriStack building blocks must be read through AgriStack building blocks, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 452.623
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 385.955
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 623,
+      "markdown_body_line_end": 627,
+      "heading": "VISUAL FIRST",
+      "preview": "AGRISTACK BUILDING BLOCKS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 655,
+      "markdown_body_line_end": 662,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 409.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 303.473
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 674,
+      "markdown_body_line_end": 674,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Krishi-DSS must be read through Krishi-DSS boundary, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 154.273
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 87.605
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 689,
+      "markdown_body_line_end": 693,
+      "heading": "VISUAL FIRST",
+      "preview": "KRISHI-DSS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 145
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 647.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 596.691
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 721,
+      "markdown_body_line_end": 728,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 245.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 149.173
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 740,
+      "markdown_body_line_end": 740,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "e-NAM and drone capabilities must be read through e-NAM market completion and Drone platform and payload, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 665.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 755,
+      "markdown_body_line_end": 762,
+      "heading": "VISUAL FIRST",
+      "preview": "E-NAM AND DRONE CAPABILITIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 346.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 791,
+      "markdown_body_line_end": 798,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 719.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 613.673
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 810,
+      "markdown_body_line_end": 810,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Shared-service economics must be read through Shared-service economics, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 464.473
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 397.805
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 825,
+      "markdown_body_line_end": 829,
+      "heading": "VISUAL FIRST",
+      "preview": "SHARED-SERVICE ECONOMICS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 857,
+      "markdown_body_line_end": 864,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 395.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 289.273
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 876,
+      "markdown_body_line_end": 876,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Digital risk assessment must be read through Digital risk assessment, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 140.073
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 73.405
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 891,
+      "markdown_body_line_end": 895,
+      "heading": "VISUAL FIRST",
+      "preview": "DIGITAL RISK ASSESSMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 661.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 923,
+      "markdown_body_line_end": 930,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 312.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 214.823
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 942,
+      "markdown_body_line_end": 942,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Adoption and cultivator inclusion must be read through Adoption and outcome and Cultivator-inclusion boundary, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 957,
+      "markdown_body_line_end": 964,
+      "heading": "VISUAL FIRST",
+      "preview": "ADOPTION AND CULTIVATOR INCLUSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 491.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 993,
+      "markdown_body_line_end": 1000,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 108.624
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 718.573
+        }
+      },
+      "pdf_pages": [
+        25,
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1012,
+      "markdown_body_line_end": 1012,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Platform power and 100 Million Farmers status must be read through Agricultural platform power and 100 Million Farmers status, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 550.373
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 483.705
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1027,
+      "markdown_body_line_end": 1034,
+      "heading": "VISUAL FIRST",
+      "preview": "PLATFORM POWER AND 100 MILLION FARMERS STATUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 113
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1063,
+      "markdown_body_line_end": 1070,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 309.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 203.673
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1074,
+      "markdown_body_line_end": 1081,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Economy | **Tier:** Must-Do (exam-complete Core) | **GS Paper:** GS-III + Prelims. **Official clause:** “e-technology in the aid of farmers.” **Core rule:** This file must remain sufficient without the Advanced companion. **Gro",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 203.673
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 66.005
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1085,
+      "markdown_body_line_end": 1108,
+      "heading": "1. Visual foundation: technology is a decision chain, not a gadget list",
+      "preview": "FARM AND FARMER DATA",
+      "metadata": {
+        "language": "text",
+        "line_count": 22,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1116,
+      "markdown_body_line_end": 1127,
+      "heading": "2. Essential definitions and boundaries",
+      "preview": "Term | Exam-ready meaning | Do not confuse it with",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Term",
+          "Exam-ready meaning",
+          "Do not confuse it with"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 315.49
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1141,
+      "markdown_body_line_end": 1151,
+      "heading": "3. Complete technology map across the farm cycle",
+      "preview": "Stage | Technologies and services | Farmer-facing use | Binding complement",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 9,
+        "headers": [
+          "Stage",
+          "Technologies and services",
+          "Farmer-facing use",
+          "Binding complement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 431.89
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1169,
+      "markdown_body_line_end": 1179,
+      "heading": "4.2 AgriStack",
+      "preview": "GEO-REFERENCED VILLAGE MAPS",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 223.29
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 122.29
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1208,
+      "markdown_body_line_end": 1216,
+      "heading": "4.4 e-NAM as a digital-plus-physical market",
+      "preview": "ONLINE BID",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 33
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 502.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 421.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1257,
+      "markdown_body_line_end": 1259,
+      "heading": "B. Drones",
+      "preview": "🔑 **Prelims trap:** A drone is an unmanned aircraft platform. Its usefulness depends on the payload and sensor; every drone does not automatically perform remote sensing, spraying and autonomous decision-making.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 697.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 652.624
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1277,
+      "markdown_body_line_end": 1278,
+      "heading": "D. AI and machine learning",
+      "preview": "🔑 **Core distinction:** AI can improve prediction; it cannot eliminate biological, weather, price or model risk.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 494.224
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 463.756
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1288,
+      "markdown_body_line_end": 1289,
+      "heading": "E. Mobile, cloud and digital extension",
+      "preview": "🔑 **Extension rule:** A message becomes useful knowledge only when it is locally interpretable, timely and connected to an implementable action.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 389.156
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 344.488
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1303,
+      "markdown_body_line_end": 1323,
+      "heading": "6. Economic logic: how agritech can raise farmer welfare",
+      "preview": "BETTER INFORMATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1335,
+      "markdown_body_line_end": 1344,
+      "heading": "Why adoption is unequal",
+      "preview": "Constraint | Why it matters | Corrective architecture",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Constraint",
+          "Why it matters",
+          "Corrective architecture"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 459.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 175.49
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1381,
+      "markdown_body_line_end": 1390,
+      "heading": "8. Why agritech programmes fail",
+      "preview": "Failure | Deep reason | Better design",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "Failure",
+          "Deep reason",
+          "Better design"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 484.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 200.69
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1436,
+      "markdown_body_line_end": 1441,
+      "heading": "11. PYQ closure",
+      "preview": "PYQ demand | What a complete answer must cover",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "PYQ demand",
+          "What a complete answer must cover"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 259.691
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 105.49
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1480,
+      "markdown_body_line_end": 1486,
+      "heading": "Framework A - S-A-F-E-R",
+      "preview": "S  Stage of farm/value chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 433.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 372.691
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1497,
+      "markdown_body_line_end": 1500,
+      "heading": "Framework B - evaluate any agritech initiative",
+      "preview": "**Answer thesis:** India needs a shift from gadget distribution and app counts to farmer-centric digital public infrastructure, shared-service delivery, human extension, interoperable markets and measurable improvements in net income, resil",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 247.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 188.624
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1625,
+      "markdown_body_line_end": 1632,
+      "heading": "16. Core limitations and trade-offs",
+      "preview": "# | Trade-off | Why it is genuinely double-edged",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "#",
+          "Trade-off",
+          "Why it is genuinely double-edged"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 680.091
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 360.29
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1638,
+      "markdown_body_line_end": 1644,
+      "heading": "17.1 Directive decoder",
+      "preview": "Directive word | What the examiner is actually asking for",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Directive word",
+          "What the examiner is actually asking for"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 319.29
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 143.888
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1663,
+      "markdown_body_line_end": 1674,
+      "heading": "17.4 10/15/20 mark-scaling template",
+      "preview": "10 MARKS (150 words)",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 711.691
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 600.691
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1678,
+      "markdown_body_line_end": 1681,
+      "heading": "17.5 Reasoned-verdict template",
+      "preview": "\"[Technology/programme] improves farmer welfare through [named channel], evidenced by [named evidence unit from §15]; however, [limitation/trade-off from §16] means the net effect depends on [stated complement/condition]. Therefore [reasone",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 600.691
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 519.824
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1687,
+      "markdown_body_line_end": 1689,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 519.824
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 424.756
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1695,
+      "markdown_body_line_end": 1697,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 373.156
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 286.754
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1703,
+      "markdown_body_line_end": 1703,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 247.554
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 202.887
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1710,
+      "markdown_body_line_end": 1712,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The offi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 202.887
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 107.819
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1718,
+      "markdown_body_line_end": 1721,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 654.39
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1728,
+      "markdown_body_line_end": 1728,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 597.99
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 553.322
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2573,
+      "markdown_body_line_end": 2578,
+      "heading": "11. PYQ closure",
+      "preview": "PYQ demand | What a complete answer must cover",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "PYQ demand",
+          "What a complete answer must cover"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 664.691
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 510.49
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2640,
+      "markdown_body_line_end": 2642,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 689.024
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2648,
+      "markdown_body_line_end": 2650,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 637.424
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 551.022
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2656,
+      "markdown_body_line_end": 2656,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 511.822
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 467.154
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2663,
+      "markdown_body_line_end": 2665,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The offi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 467.154
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 372.087
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2671,
+      "markdown_body_line_end": 2674,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 320.487
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 171.585
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2681,
+      "markdown_body_line_end": 2681,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 115.185
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 70.517
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2686,
+      "markdown_body_line_end": 2687,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2693,
+      "markdown_body_line_end": 2695,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 691.024
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 594.122
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2701,
+      "markdown_body_line_end": 2701,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 554.922
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 510.254
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2969,
+      "markdown_body_line_end": 2972,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Economy | **Tier:** Advanced optional enrichment | **GS Paper:** GS-III. **Firewall:** No indispensable syllabus fact, scheme, PYQ demand or answer framework is introduced only here. The Core companion is independently exam-com",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 599.091
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 526.024
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2976,
+      "markdown_body_line_end": 2995,
+      "heading": "1. Analytical architecture",
+      "preview": "TECHNICAL POSSIBILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 504.024
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 313.024
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3022,
+      "markdown_body_line_end": 3029,
+      "heading": "2.2 Fixed-cost and service-economy model",
+      "preview": "High fixed cost + low use by one small farm",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3039,
+      "markdown_body_line_end": 3045,
+      "heading": "2.3 Complementarity model",
+      "preview": "Advisory without credit/input access = recommendation not acted upon",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 632.491
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 571.491
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3065,
+      "markdown_body_line_end": 3071,
+      "heading": "2.5 Principal-agent model",
+      "preview": "Relationship | Possible misalignment",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Relationship",
+          "Possible misalignment"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 363.491
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 232.89
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3080,
+      "markdown_body_line_end": 3084,
+      "heading": "2.6 Rebound-effect model",
+      "preview": "Lower water/energy/input cost per unit",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 177.49
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 136.49
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3102,
+      "markdown_body_line_end": 3110,
+      "heading": "3. Data architecture: from record to decision",
+      "preview": "Layer | Function | Failure risk",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Layer",
+          "Function",
+          "Failure risk"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 716.491
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 532.29
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3123,
+      "markdown_body_line_end": 3133,
+      "heading": "4. Agritech adoption as a welfare calculation",
+      "preview": "Expected adoption value",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 33
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 385.09
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 284.09
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3169,
+      "markdown_body_line_end": 3177,
+      "heading": "6. Evaluation framework: replace activity metrics with outcome metrics",
+      "preview": "Weak metric | Better question",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Weak metric",
+          "Better question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 610.491
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 437.49
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3279,
+      "markdown_body_line_end": 3289,
+      "heading": "10. Advanced synthesis",
+      "preview": "GOOD AGRITECH POLICY",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 744.891
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 643.891
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3291,
+      "markdown_body_line_end": 3294,
+      "heading": "10. Advanced synthesis",
+      "preview": "**Final analytical line:** The goal is not to digitise agriculture for its own sake, but to expand farmers’ effective capabilities while lowering information, coordination and risk costs without converting data, platforms or algorithms into",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 643.891
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 585.024
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3312,
+      "markdown_body_line_end": 3313,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 390.024
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 323.356
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3319,
+      "markdown_body_line_end": 3321,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 271.756
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 174.854
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3327,
+      "markdown_body_line_end": 3327,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 135.654
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 90.987
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3370,
+      "markdown_body_line_end": 3378,
+      "heading": "Digital Agriculture, Agritech and e-Technology for Farmers: ANSWER-WRITING SPINE",
+      "preview": "DEFINE THE MEASURE OR INSTITUTION AND FIX ITS COVERAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 399.091
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 318.091
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3388,
+      "markdown_body_line_end": 3394,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Farm data-to-outcome rail",
+      "preview": "DATA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3398,
+      "markdown_body_line_end": 3403,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Technology-family map",
+      "preview": "REMOTE SENSING -> observation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3407,
+      "markdown_body_line_end": 3412,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Farm-cycle application chain",
+      "preview": "PLAN + SOW",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 21
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 577.691
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3416,
+      "markdown_body_line_end": 3421,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Digital Agriculture Mission map",
+      "preview": "UMBRELLA MISSION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 31
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 555.691
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 503.891
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3425,
+      "markdown_body_line_end": 3430,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: AgriStack layers",
+      "preview": "FARMER REGISTRY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 27
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 481.891
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 430.091
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3434,
+      "markdown_body_line_end": 3440,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Krishi-DSS decision boundary",
+      "preview": "GEOSPATIAL + ADMIN DATA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 408.091
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 346.091
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3444,
+      "markdown_body_line_end": 3449,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: e-NAM completion chain",
+      "preview": "ONLINE DISCOVERY + BID",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 31
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 324.091
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 272.291
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3453,
+      "markdown_body_line_end": 3458,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Drone capability matrix",
+      "preview": "AIRCRAFT PLATFORM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 36
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3462,
+      "markdown_body_line_end": 3467,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Shared-service economics",
+      "preview": "HIGH FIXED COST",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 35
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3471,
+      "markdown_body_line_end": 3476,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Inclusion and correction board",
+      "preview": "OWNER != CULTIVATOR",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 25
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3480,
+      "markdown_body_line_end": 3485,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Activity-to-outcome ladder",
+      "preview": "REGISTRATION / DEVICE / MESSAGE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 31
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3489,
+      "markdown_body_line_end": 3495,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Digital-agriculture answer spine",
+      "preview": "NAME farm-stage problem",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 430.091
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    }
+  ]
+}

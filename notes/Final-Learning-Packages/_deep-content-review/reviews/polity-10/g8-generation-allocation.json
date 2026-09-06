@@ -1,0 +1,12 @@
+{
+  "topic_key": "polity-10",
+  "allocated_at": "2026-09-05T11:37:50.149407+00:00",
+  "baseline_record_id": "polity-10:learner-v2:g6",
+  "new_record_id": "polity-10:learner-v2:g8",
+  "review_state": "revalidation_pending",
+  "scores": null,
+  "approval": false,
+  "prior_generation_immutable": true,
+  "live_export_identity": "polity-10:learner-v2:g6",
+  "live_master_identity": "polity-10:learner-v2:g6"
+}

@@ -1,0 +1,998 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-31",
+  "subject": "Economy",
+  "title": "ENERGY INFRASTRUCTURE ECONOMICS, POWER, FUELS AND ENERGY SECURITY",
+  "short_route": "ENERGY-SERVICE VALUE RAIL → POWER-ENERGY DISTINCTION → ELECTRICITY-LAYER MAP → REAL-TIME BALANCE BOARD → INSTITUTIONAL PERIMETER → TARIFF-FINANCE SPLIT",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g3\\economy-31_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-31-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "cc7bdc4476509fe01e196088d9bafe2b1d05654075ad0eeef4de657f246690a4",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ENERGY-SERVICE VALUE RAIL",
+      "structural_type": "value-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ENERGY-SERVICE VALUE RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "PRIMARY RESOURCE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONVERSION + NETWORK",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTRIBUTION + END USE",
+          "role": "evidence"
+        },
+        {
+          "text": "RELIABLE AFFORDABLE SERVICE",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "ENERGY INFRASTRUCTURE CONNECTS PRIMARY ENERGY, CONVERSION, GENERATION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "PRIMARY RESOURCE / IMPORT",
+        "CONVERSION + NETWORK",
+        "DISTRIBUTION + END USE",
+        "RELIABLE AFFORDABLE SERVICE",
+        "MUST REMEMBER: Energy infrastructure connects primary energy, conversion, generation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PRIMARY RESOURCE / IMPORT",
+            "CONVERSION + NETWORK"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DISTRIBUTION + END USE",
+            "RELIABLE AFFORDABLE SERVICE"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Energy infrastructure connects primary energy, conversion, generation,...",
+            "PRIMARY RESOURCE / IMPORT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Energy infrastructure connects primary energy, conversion, generation,.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g3\\economy-31_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "POWER-ENERGY DISTINCTION",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "POWER-ENERGY DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "POWER CAPACITY",
+          "role": "mechanism"
+        },
+        {
+          "text": "ENERGY FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "CAPACITY SHARE",
+          "role": "evidence"
+        },
+        {
+          "text": "GENERATION SHARE",
+          "role": "primary"
+        },
+        {
+          "text": "TOTAL ENERGY",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "MW / GW → power capacity",
+        "MWh / GWh → energy flow",
+        "CAPACITY SHARE != generation share",
+        "ELECTRICITY != total energy"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MW / GW → power capacity",
+          "CAPACITY SHARE != generation share",
+          "MW / GW → power capacity"
+        ],
+        [
+          "MWh / GWh → energy flow",
+          "ELECTRICITY != total energy",
+          "MWh / GWh → energy flow"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MW / GW → power capacity",
+            "MWh / GWh → energy flow"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CAPACITY SHARE != generation share",
+            "ELECTRICITY != total energy"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MW / GW → power capacity",
+            "MWh / GWh → energy flow"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAPACITY SHARE != generation share; ELECTRICITY != total energy.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g3\\economy-31_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ELECTRICITY-LAYER MAP",
+      "structural_type": "layer-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ELECTRICITY-LAYER MAP",
+          "role": "primary"
+        },
+        {
+          "text": "TRANSMISSION + SYSTEM OPERATION",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTRIBUTION + RETAIL",
+          "role": "comparison"
+        },
+        {
+          "text": "MARKET + REGULATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TRANSMISSION + SYSTEM OPERATION",
+        "DISTRIBUTION + RETAIL",
+        "MARKET + REGULATION"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TRANSMISSION + SYSTEM OPERATION",
+            "DISTRIBUTION + RETAIL"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MARKET + REGULATION",
+            "TRANSMISSION + SYSTEM OPERATION"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DISTRIBUTION + RETAIL",
+            "MARKET + REGULATION"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TRANSMISSION + SYSTEM OPERATION; DISTRIBUTION + RETAIL; MARKET + REGULATION.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g3\\economy-31_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "REAL-TIME BALANCE BOARD",
+      "structural_type": "formula-board",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "REAL-TIME BALANCE BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "GENERATION + IMPORT + DISCHARGE",
+          "role": "outcome"
+        },
+        {
+          "text": "DEMAND + EXPORT + CHARGE + LOSS",
+          "role": "comparison"
+        },
+        {
+          "text": "RESERVE + FLEXIBILITY PROTECT BALANCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GENERATION + IMPORT + DISCHARGE",
+        "DEMAND + EXPORT + CHARGE + LOSS",
+        "RESERVE + FLEXIBILITY protect balance"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GENERATION + IMPORT + DISCHARGE",
+            "DEMAND + EXPORT + CHARGE + LOSS"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESERVE + FLEXIBILITY protect balance",
+            "GENERATION + IMPORT + DISCHARGE"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEMAND + EXPORT + CHARGE + LOSS",
+            "RESERVE + FLEXIBILITY protect balance"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEMAND + EXPORT + CHARGE + LOSS; RESERVE + FLEXIBILITY protect balance.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g3\\economy-31_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INSTITUTIONAL PERIMETER",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INSTITUTIONAL PERIMETER",
+          "role": "primary"
+        },
+        {
+          "text": "TECHNICAL PLANNING",
+          "role": "outcome"
+        },
+        {
+          "text": "RETAIL SERVICE",
+          "role": "comparison"
+        },
+        {
+          "text": "CEA → TECHNICAL PLANNING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CEA → technical planning",
+        "CERC / SERC → regulation",
+        "GRID-INDIA / SLDC → operation",
+        "DISCOM → retail service"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CEA → technical planning",
+            "CERC / SERC → regulation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GRID-INDIA / SLDC → operation",
+            "DISCOM → retail service"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CEA → technical planning",
+            "CERC / SERC → regulation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GRID-INDIA / SLDC → operation; DISCOM → retail service.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g3\\economy-31_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "TARIFF-FINANCE SPLIT",
+      "structural_type": "four-way-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "TARIFF-FINANCE SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "EXPLICIT STATE SUBSIDY",
+          "role": "institution"
+        },
+        {
+          "text": "REGULATORY ASSET",
+          "role": "comparison"
+        },
+        {
+          "text": "DISCOM DEBT",
+          "role": "evidence"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "CAPACITY IN MW IS NOT GENERATION IN MWH, PLANT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EXPLICIT STATE SUBSIDY",
+        "REGULATORY ASSET",
+        "DISCOM DEBT / UNDER-RECOVERY",
+        "CLOSE DISTINCTION: Capacity in MW is not generation in MWh, plant load factor is not"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EXPLICIT STATE SUBSIDY",
+            "REGULATORY ASSET"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DISCOM DEBT / UNDER-RECOVERY",
+            "CLOSE DISTINCTION: Capacity in MW is not generation in MWh, plant load factor is not..."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EXPLICIT STATE SUBSIDY",
+            "REGULATORY ASSET"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Capacity in MW is not generation in MWh, plant load factor is not.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g3\\economy-31_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "DISCOM DIAGNOSTIC",
+      "structural_type": "risk-board",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DISCOM DIAGNOSTIC",
+          "role": "primary"
+        },
+        {
+          "text": "ENERGY RECOVERY",
+          "role": "outcome"
+        },
+        {
+          "text": "REVENUE-COST GAP",
+          "role": "comparison"
+        },
+        {
+          "text": "PPA + SUBSIDY + COLLECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "ONE RATIO CANNOT DIAGNOSE ALL STRESS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "AT&C → energy recovery",
+        "ACS-ARR → revenue-cost gap",
+        "PPA + SUBSIDY + COLLECTION",
+        "ONE RATIO cannot diagnose all stress"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "AT&C → energy recovery",
+          "PPA + SUBSIDY + COLLECTION",
+          "AT&C → energy recovery"
+        ],
+        [
+          "ACS-ARR → revenue-cost gap",
+          "ONE RATIO cannot diagnose all stress",
+          "ACS-ARR → revenue-cost gap"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AT&C → energy recovery",
+            "ACS-ARR → revenue-cost gap"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PPA + SUBSIDY + COLLECTION",
+            "ONE RATIO cannot diagnose all stress"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AT&C → energy recovery",
+            "ACS-ARR → revenue-cost gap"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PPA + SUBSIDY + COLLECTION; ONE RATIO cannot diagnose all stress.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g3\\economy-31_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "PETROLEUM PERIMETER",
+      "structural_type": "value-chain",
+      "layout": "dialectic",
+      "pills": [
+        {
+          "text": "PETROLEUM PERIMETER",
+          "role": "primary"
+        },
+        {
+          "text": "PIPELINE + STORAGE",
+          "role": "outcome"
+        },
+        {
+          "text": "REFINING + MARKETING",
+          "role": "comparison"
+        },
+        {
+          "text": "PNGRB EXCLUDES CRUDE + GAS PRODUCTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "UPSTREAM → production",
+        "MIDSTREAM → pipeline + storage",
+        "DOWNSTREAM → refining + marketing",
+        "PNGRB excludes crude + gas production"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "UPSTREAM → production",
+            "MIDSTREAM → pipeline + storage"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DOWNSTREAM → refining + marketing",
+            "PNGRB excludes crude + gas production"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "UPSTREAM → production",
+            "MIDSTREAM → pipeline + storage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DOWNSTREAM → refining + marketing; PNGRB excludes crude + gas production.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g3\\economy-31_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "ENERGY-SECURITY DIMENSIONS AND RESILIENCE PENTAGON",
+      "structural_type": "five-part-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "ENERGY-SECURITY DIMENSIONS AND RESILIENCE PENTAGON",
+          "role": "primary"
+        },
+        {
+          "text": "PHYSICAL AVAILABILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "INFRASTRUCTURE ACCESSIBILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "USER AFFORDABILITY",
+          "role": "evidence"
+        },
+        {
+          "text": "SOCIAL ACCEPTABILITY + SYSTEM RESILIENCE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "PHYSICAL AVAILABILITY",
+        "INFRASTRUCTURE ACCESSIBILITY",
+        "USER AFFORDABILITY",
+        "SOCIAL ACCEPTABILITY + SYSTEM RESILIENCE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PHYSICAL AVAILABILITY",
+            "INFRASTRUCTURE ACCESSIBILITY"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "USER AFFORDABILITY",
+            "SOCIAL ACCEPTABILITY + SYSTEM RESILIENCE"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PHYSICAL AVAILABILITY",
+            "INFRASTRUCTURE ACCESSIBILITY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INFRASTRUCTURE ACCESSIBILITY; USER AFFORDABILITY; SOCIAL ACCEPTABILITY + SYSTEM RESILIENCE.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g3\\economy-31_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "RENEWABLE-INTEGRATION CHAIN",
+      "structural_type": "system-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RENEWABLE-INTEGRATION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "VARIABLE CAPACITY",
+          "role": "outcome"
+        },
+        {
+          "text": "GRID + FORECAST",
+          "role": "comparison"
+        },
+        {
+          "text": "FLEXIBILITY + STORAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "RELIABLE GENERATION VALUE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "VARIABLE CAPACITY",
+        "GRID + FORECAST",
+        "FLEXIBILITY + STORAGE",
+        "RELIABLE GENERATION VALUE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "VARIABLE CAPACITY",
+            "GRID + FORECAST"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FLEXIBILITY + STORAGE",
+            "RELIABLE GENERATION VALUE"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VARIABLE CAPACITY",
+            "GRID + FORECAST"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GRID + FORECAST; FLEXIBILITY + STORAGE; RELIABLE GENERATION VALUE.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g3\\economy-31_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "STATUS AND UNIT LADDER",
+      "structural_type": "status-ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "STATUS AND UNIT LADDER",
+          "role": "primary"
+        },
+        {
+          "text": "INSTALLED CAPACITY",
+          "role": "outcome"
+        },
+        {
+          "text": "GENERATION + SERVICE OUTCOME",
+          "role": "comparison"
+        },
+        {
+          "text": "ANNOUNCED / BILL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ANNOUNCED / BILL",
+        "APPROVED / SANCTIONED / OUTLAY",
+        "INSTALLED CAPACITY",
+        "GENERATION + SERVICE OUTCOME"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ANNOUNCED / BILL",
+            "APPROVED / SANCTIONED / OUTLAY"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INSTALLED CAPACITY",
+            "GENERATION + SERVICE OUTCOME"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ANNOUNCED / BILL",
+            "APPROVED / SANCTIONED / OUTLAY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "APPROVED / SANCTIONED / OUTLAY; INSTALLED CAPACITY; GENERATION + SERVICE OUTCOME.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g3\\economy-31_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ENERGY-ECONOMICS ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ENERGY-ECONOMICS ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE CARRIER + UNIT + LAYER",
+          "role": "outcome"
+        },
+        {
+          "text": "TRACE NETWORK + TARIFF + REGULATOR",
+          "role": "comparison"
+        },
+        {
+          "text": "TEST SECURITY + TRANSITION",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCLUDE SERVICE, NOT HEADLINE CAPACITY",
+          "role": "caution"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "STATE FUEL/TECHNOLOGY, STOCK OR FLOW, UNIT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "DEFINE carrier + unit + layer",
+        "TRACE network + tariff + regulator",
+        "TEST security + transition",
+        "CONCLUDE service, not headline capacity",
+        "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State fuel/technology, stock or flow, unit"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE carrier + unit + layer",
+            "TRACE network + tariff + regulator"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEST security + transition",
+            "CONCLUDE service, not headline capacity"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State fuel/technology, stock or flow, unit,...",
+            "DEFINE carrier + unit + layer"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State fuel/technology, stock or flow, unit,.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g3\\economy-31_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "DISTRIBUTIONAL AND TRANSITION COST",
+          "role": "outcome"
+        },
+        {
+          "text": "OVERCONSUMPTION IF VARIABLE PRICE IS TOO LOW",
+          "role": "comparison"
+        },
+        {
+          "text": "EXCLUSION IF FIXED CHARGE IS TOO HIGH",
+          "role": "evidence"
+        },
+        {
+          "text": "REVENUE INSTABILITY IF FIXED NETWORK COST IS RECOVERED MAINLY",
+          "role": "primary"
+        },
+        {
+          "text": "SHIFTS BURDEN TO FUTURE CONSUMERS",
+          "role": "outcome"
+        },
+        {
+          "text": "CAPACITY NO LONGER NEEDED",
+          "role": "caution"
+        },
+        {
+          "text": "OLD HIGH TARIFFS AFTER TECHNOLOGY COST FALLS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "distributional and transition cost",
+            "overconsumption if variable price is too low;",
+            "exclusion if fixed charge is too high;",
+            "revenue instability if fixed network cost is recovered mainly per kWh while rooftop/self"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "shifts burden to future consumers;",
+            "capacity no longer needed;",
+            "old high tariffs after technology cost falls;",
+            "fuel/transport assumptions that later fail."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "performance and availability incentives;",
+            "transmission readiness before commissioning.",
+            "suppress wholesale energy prices;",
+            "reduce thermal running hours;"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -38,6 +38,7 @@ GUARANTEE 2 -> basic income security for children: nutrition, education and care
 GUARANTEE 3 -> basic income security in active age: sickness, unemployment, maternity, disability
 GUARANTEE 4 -> basic income security for older persons
 STATUS -> a Recommendation, not a ratified Convention; no self-executing domestic duty
+CLOSE DISTINCTION: Formal equality is not substantive equality, welfare is not charity,...
 
 ASCII MASTER FLOW — PANEL 7/12: Universalism against targeting
 UNIVERSALISM -> lower stigma, lower exclusion error, higher cost, higher inclusion error
@@ -66,7 +67,6 @@ CONSTITUTIONAL FOUNDATION -> Preamble and Directive Principles set the direction
 -> INSTITUTIONAL DELIVERY: ministries, commissions, anganwadi, health centre, school
 -> OUTCOME MEASUREMENT: household surveys, administrative data and social audit
 STOP TEST -> an answer that ends at scheme design has described intent, not justice
-CLOSE DISTINCTION: Formal equality is not substantive equality, welfare is not charity,...
 
 ASCII MASTER FLOW — PANEL 11/12: Five recurring welfare gaps
 IDENTIFICATION -> the eligible person is not correctly listed; fix the roll, not the slogan
@@ -74,10 +74,10 @@ ENFORCEMENT -> the prohibition or protection is not applied; name the enforcing 
 DELIVERY -> the entitlement does not reach the person; trace the last mile
 QUALITY -> what arrives is too poor to change anything; measure the service, not the count
 OUTCOME-LEARNING -> nobody establishes whether it worked; demand the survey and the round
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Map rights-holder, duty-bearer, institution,...
 
 ASCII MASTER FLOW — PANEL 12/12: Answer spine for a social-justice demand
 OPEN -> name the deprivation and the dimension of justice it engages
 BUILD -> separate the entitlement, the scheme that carries it and the delivery that reaches
 TEST -> cite a dated survey or administrative source and state what it cannot prove
 CLOSE -> graded verdict plus the named gap and an explicit indicator caveat
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Map rights-holder, duty-bearer, institution,...

@@ -1,0 +1,12 @@
+{
+  "topic_key": "geography-04",
+  "allocated_at": "2026-09-05T04:24:08.714254+00:00",
+  "baseline_record_id": "geography-04:learner-v2:g10",
+  "new_record_id": "geography-04:learner-v2:g11",
+  "review_state": "revalidation_pending",
+  "scores": null,
+  "approval": false,
+  "prior_generation_immutable": true,
+  "live_export_identity": "geography-04:learner-v2:g10",
+  "live_master_identity": "geography-04:learner-v2:g10"
+}

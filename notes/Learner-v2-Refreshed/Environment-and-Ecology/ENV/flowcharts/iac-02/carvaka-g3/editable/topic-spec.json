@@ -1,0 +1,1147 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "environment-and-ecology-02",
+  "subject": "Environment-and-Ecology",
+  "title": "BIOGEOCHEMICAL CYCLES AND ECOLOGICAL PYRAMIDS",
+  "short_route": "CYCLE ACCOUNTING FRAME → RESERVOIR CLASSIFICATION → CARBON MOVEMENT → NITROGEN TRANSFORMATION RAIL → NITROGEN ORGANISM MAP → PHOSPHORUS PATH",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\environment-and-ecology-02-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "ed599ccd5569943d9e8e88f3a1dac9f65b430c06f2eda898d9974c680b9c7971",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CYCLE ACCOUNTING FRAME",
+      "structural_type": "root-axes",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CYCLE ACCOUNTING FRAME",
+          "role": "mechanism"
+        },
+        {
+          "text": "SYSTEM BOUNDARY",
+          "role": "outcome"
+        },
+        {
+          "text": "ATMOSPHERE, WATER, SOIL, SEDIMENT AND LIVING BIOMASS INCLUDED",
+          "role": "comparison"
+        },
+        {
+          "text": "AMOUNT HELD IN ONE RESERVOIR AT A STATED TIME",
+          "role": "evidence"
+        },
+        {
+          "text": "TRANSFER BETWEEN RESERVOIRS PER STATED TIME",
+          "role": "primary"
+        },
+        {
+          "text": "BIOLOGICAL, CHEMICAL OR GEOLOGICAL TRANSFORMATION",
+          "role": "outcome"
+        },
+        {
+          "text": "INPUTS MINUS OUTPUTS; NEVER ASSUMED FROM ONE ISOLATED STOCK",
+          "role": "comparison"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SYSTEM BOUNDARY → atmosphere, water, soil, sediment and living biomass included",
+        "POOL → amount held in one reservoir at a stated time",
+        "FLUX → transfer between reservoirs per stated time",
+        "PROCESS → biological, chemical or geological transformation",
+        "BALANCE → inputs minus outputs; never assumed from one isolated stock"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SYSTEM BOUNDARY → atmosphere, water, soil, sediment and living biomass included",
+            "POOL → amount held in one reservoir at a stated time"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FLUX → transfer between reservoirs per stated time",
+            "PROCESS → biological, chemical or geological transformation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BALANCE → inputs minus outputs; never assumed from one isolated stock",
+            "MUST REMEMBER: Biogeochemical cycles move elements among reservoirs through biological,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Biogeochemical cycles move elements among reservoirs through biological,.",
+      "source_references": [
+        "Biogeochemical cycle",
+        "Pool, flux and residence-time boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "RESERVOIR CLASSIFICATION",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RESERVOIR CLASSIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "MAJOR ATMOSPHERE OR OCEAN RESERVOIR",
+          "role": "outcome"
+        },
+        {
+          "text": "MAJOR CRUST, SOIL OR SEDIMENT RESERVOIR",
+          "role": "comparison"
+        },
+        {
+          "text": "CARBON AND NITROGEN",
+          "role": "evidence"
+        },
+        {
+          "text": "PROMINENT ATMOSPHERIC EXCHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "ROCK-WEATHERING AND SEDIMENT PATHWAY",
+          "role": "outcome"
+        },
+        {
+          "text": "CLASS DOES NOT SET ONE UNIVERSAL CYCLING SPEED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "GASEOUS → major atmosphere or ocean reservoir",
+        "SEDIMENTARY → major crust, soil or sediment reservoir",
+        "CARBON AND NITROGEN → prominent atmospheric exchange",
+        "PHOSPHORUS → rock-weathering and sediment pathway",
+        "CAUTION → class does not set one universal cycling speed"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "GASEOUS → major atmosphere or ocean reservoir",
+          "CARBON AND NITROGEN → prominent atmospheric exchange",
+          "CAUTION → class does not set one universal cycling speed"
+        ],
+        [
+          "SEDIMENTARY → major crust, soil or sediment reservoir",
+          "PHOSPHORUS → rock-weathering and sediment pathway",
+          "GASEOUS → major atmosphere or ocean reservoir"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GASEOUS → major atmosphere or ocean reservoir",
+            "SEDIMENTARY → major crust, soil or sediment reservoir"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CARBON AND NITROGEN → prominent atmospheric exchange",
+            "PHOSPHORUS → rock-weathering and sediment pathway"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAUTION → class does not set one universal cycling speed",
+            "GASEOUS → major atmosphere or ocean reservoir"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → class does not set one universal cycling speed.",
+      "source_references": [
+        "Gaseous and sedimentary cycle distinction",
+        "Phosphorus-cycle boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CARBON MOVEMENT",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CARBON MOVEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "ATMOSPHERIC OR DISSOLVED CARBON",
+          "role": "outcome"
+        },
+        {
+          "text": "PHOTOSYNTHETIC FIXATION",
+          "role": "comparison"
+        },
+        {
+          "text": "PRODUCER BIOMASS",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSUMERS AND DETRITAL PATHWAYS",
+          "role": "primary"
+        },
+        {
+          "text": "CARBON RETURNED DURING METABOLISM",
+          "role": "outcome"
+        },
+        {
+          "text": "DECOMPOSITION AND COMBUSTION",
+          "role": "comparison"
+        },
+        {
+          "text": "ADDITIONAL RETURN PATHWAYS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ATMOSPHERIC OR DISSOLVED CARBON → photosynthetic fixation",
+        "PRODUCER BIOMASS → consumers and detrital pathways",
+        "RESPIRATION → carbon returned during metabolism",
+        "DECOMPOSITION AND COMBUSTION → additional return pathways",
+        "RULE → stored carbon and annual transfer are different measures"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ATMOSPHERIC OR DISSOLVED CARBON → photosynthetic fixation",
+            "PRODUCER BIOMASS → consumers and detrital pathways"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RESPIRATION → carbon returned during metabolism",
+            "DECOMPOSITION AND COMBUSTION → additional return pathways"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → stored carbon and annual transfer are different measures",
+            "ATMOSPHERIC OR DISSOLVED CARBON → photosynthetic fixation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → stored carbon and annual transfer are different measures.",
+      "source_references": [
+        "Carbon-cycle mechanism",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "NITROGEN TRANSFORMATION RAIL",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "NITROGEN TRANSFORMATION RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "ATMOSPHERIC NITROGEN",
+          "role": "outcome"
+        },
+        {
+          "text": "AMMONIA OR USABLE NITROGEN FORMS",
+          "role": "comparison"
+        },
+        {
+          "text": "ORGANIC NITROGEN",
+          "role": "evidence"
+        },
+        {
+          "text": "PLANT UPTAKE OR DENITRIFICATION",
+          "role": "primary"
+        },
+        {
+          "text": "RETURN TOWARD ATMOSPHERIC NITROGEN",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ATMOSPHERIC NITROGEN → fixation → ammonia or usable nitrogen forms",
+        "ORGANIC NITROGEN → ammonification → ammonia",
+        "AMMONIA → nitrification → nitrite → nitrate",
+        "NITRATE → plant uptake or denitrification",
+        "DENITRIFICATION → return toward atmospheric nitrogen"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ATMOSPHERIC NITROGEN → fixation → ammonia or usable nitrogen forms",
+            "ORGANIC NITROGEN → ammonification → ammonia"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "AMMONIA → nitrification → nitrite → nitrate",
+            "NITRATE → plant uptake or denitrification"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DENITRIFICATION → return toward atmospheric nitrogen",
+            "ATMOSPHERIC NITROGEN → fixation → ammonia or usable nitrogen forms"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ATMOSPHERIC NITROGEN → fixation → ammonia or usable nitrogen forms.",
+      "source_references": [
+        "Nitrogen fixation",
+        "Ammonification, nitrification and denitrification",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "NITROGEN ORGANISM MAP",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "NITROGEN ORGANISM MAP",
+          "role": "primary"
+        },
+        {
+          "text": "SYMBIOTIC FIXATION ASSOCIATED WITH LEGUME ROOTS",
+          "role": "outcome"
+        },
+        {
+          "text": "FREE-LIVING FIXATION EXAMPLE IN THE OWNER",
+          "role": "comparison"
+        },
+        {
+          "text": "AMMONIA TO NITRITE STEP",
+          "role": "evidence"
+        },
+        {
+          "text": "NITRITE TO NITRATE STEP",
+          "role": "primary"
+        },
+        {
+          "text": "DENITRIFICATION ROUTE",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "RHIZOBIUM → symbiotic fixation associated with legume roots",
+        "AZOTOBACTER → free-living fixation example in the owner",
+        "NITROSOMONAS → ammonia to nitrite step",
+        "NITROBACTER → nitrite to nitrate step",
+        "PSEUDOMONAS-TYPE → denitrification route"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RHIZOBIUM → symbiotic fixation associated with legume roots",
+            "AZOTOBACTER → free-living fixation example in the owner"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NITROSOMONAS → ammonia to nitrite step",
+            "NITROBACTER → nitrite to nitrate step"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PSEUDOMONAS-TYPE → denitrification route",
+            "RHIZOBIUM → symbiotic fixation associated with legume roots"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AZOTOBACTER → free-living fixation example in the owner.",
+      "source_references": [
+        "Nitrogen-cycle organism routes",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PHOSPHORUS PATH",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "PHOSPHORUS PATH",
+          "role": "primary"
+        },
+        {
+          "text": "PHOSPHATE ROCK",
+          "role": "outcome"
+        },
+        {
+          "text": "SOIL OR WATER PHOSPHATE",
+          "role": "comparison"
+        },
+        {
+          "text": "PLANT UPTAKE",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSUMER TRANSFER",
+          "role": "primary"
+        },
+        {
+          "text": "DETRITAL RETURN",
+          "role": "outcome"
+        },
+        {
+          "text": "AQUATIC LOADING",
+          "role": "comparison"
+        },
+        {
+          "text": "MINING AND FERTILISER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PHOSPHATE ROCK → weathering → soil or water phosphate",
+        "PLANT UPTAKE → consumer transfer → detrital return",
+        "RUNOFF → aquatic loading → sedimentation",
+        "MINING AND FERTILISER → accelerate extraction and dispersal",
+        "BOUNDARY → no significant atmospheric phase in the owner"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PHOSPHATE ROCK → weathering → soil or water phosphate",
+            "PLANT UPTAKE → consumer transfer → detrital return"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RUNOFF → aquatic loading → sedimentation",
+            "MINING AND FERTILISER → accelerate extraction and dispersal"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BOUNDARY → no significant atmospheric phase in the owner",
+            "CLOSE DISTINCTION: Reservoir stock is not flux, residence time is not turnover rate,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Reservoir stock is not flux, residence time is not turnover rate,.",
+      "source_references": [
+        "Phosphorus-cycle boundary",
+        "Human acceleration is cycle-specific",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "CYCLE-SPECIFIC HUMAN PRESSURE",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CYCLE-SPECIFIC HUMAN PRESSURE",
+          "role": "mechanism"
+        },
+        {
+          "text": "FOSSIL-FUEL COMBUSTION AND LAND-COVER CHANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "SYNTHETIC FERTILISER AND COMBUSTION-RELATED REACTIVE NITROGEN",
+          "role": "comparison"
+        },
+        {
+          "text": "MINING, FERTILISER APPLICATION AND RUNOFF",
+          "role": "evidence"
+        },
+        {
+          "text": "CLIMATE FORCING, NUTRIENT POLLUTION AND RESOURCE LOSS DIFFER",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE CONTROL MUST MATCH THE CYCLE AND RESERVOIR",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CARBON → fossil-fuel combustion and land-cover change",
+        "NITROGEN → synthetic fertiliser and combustion-related reactive nitrogen",
+        "PHOSPHORUS → mining, fertiliser application and runoff",
+        "OUTCOMES → climate forcing, nutrient pollution and resource loss differ",
+        "POLICY → source control must match the cycle and reservoir"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CARBON → fossil-fuel combustion and land-cover change",
+          "PHOSPHORUS → mining, fertiliser application and runoff",
+          "POLICY → source control must match the cycle and reservoir"
+        ],
+        [
+          "NITROGEN → synthetic fertiliser and combustion-related reactive nitrogen",
+          "OUTCOMES → climate forcing, nutrient pollution and resource loss differ",
+          "CARBON → fossil-fuel combustion and land-cover change"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CARBON → fossil-fuel combustion and land-cover change",
+            "NITROGEN → synthetic fertiliser and combustion-related reactive nitrogen"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PHOSPHORUS → mining, fertiliser application and runoff",
+            "OUTCOMES → climate forcing, nutrient pollution and resource loss differ"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "POLICY → source control must match the cycle and reservoir",
+            "CARBON → fossil-fuel combustion and land-cover change"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "POLICY → source control must match the cycle and reservoir.",
+      "source_references": [
+        "Human acceleration is cycle-specific",
+        "Governance and evidence boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "EUTROPHICATION MECHANISM",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "EUTROPHICATION MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "NUTRIENT ENRICHMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "INCREASED ALGAL OR PLANT PRODUCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "ORGANIC MATERIAL ACCUMULATES",
+          "role": "evidence"
+        },
+        {
+          "text": "DECOMPOSER ACTIVITY RISES",
+          "role": "primary"
+        },
+        {
+          "text": "OXYGEN DEMAND RISES",
+          "role": "outcome"
+        },
+        {
+          "text": "DISSOLVED OXYGEN MAY DECLINE",
+          "role": "caution"
+        },
+        {
+          "text": "ECOLOGICAL STRESS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NUTRIENT ENRICHMENT → increased algal or plant production",
+        "ORGANIC MATERIAL ACCUMULATES → decomposer activity rises",
+        "OXYGEN DEMAND RISES → dissolved oxygen may decline",
+        "ECOLOGICAL STRESS → composition changes and mortality may occur",
+        "CLASSIFY → natural ageing versus human-accelerated cultural eutrophication"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NUTRIENT ENRICHMENT → increased algal or plant production",
+            "ORGANIC MATERIAL ACCUMULATES → decomposer activity rises"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OXYGEN DEMAND RISES → dissolved oxygen may decline",
+            "ECOLOGICAL STRESS → composition changes and mortality may occur"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLASSIFY → natural ageing versus human-accelerated cultural eutrophication",
+            "NUTRIENT ENRICHMENT → increased algal or plant production"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLASSIFY → natural ageing versus human-accelerated cultural eutrophication.",
+      "source_references": [
+        "Natural and cultural eutrophication",
+        "Oxygen-depletion chain",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "THREE PYRAMID PARAMETERS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE PYRAMID PARAMETERS",
+          "role": "primary"
+        },
+        {
+          "text": "COUNT OF ORGANISMS AT EACH TROPHIC LEVEL",
+          "role": "outcome"
+        },
+        {
+          "text": "STANDING LIVING MATERIAL AT A STATED TIME",
+          "role": "evidence"
+        },
+        {
+          "text": "TRANSFER THROUGH TROPHIC LEVELS OVER TIME",
+          "role": "evidence"
+        },
+        {
+          "text": "DEPENDS ON PARAMETER AND ECOSYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "ONLY THE ENERGY PYRAMID IS ALWAYS UPRIGHT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "NUMBERS → count of organisms at each trophic level",
+        "BIOMASS → standing living material at a stated time",
+        "ENERGY → transfer through trophic levels over time",
+        "SHAPE → depends on parameter and ecosystem",
+        "RULE → only the energy pyramid is always upright"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "NUMBERS → count of organisms at each trophic level",
+          "ENERGY → transfer through trophic levels over time",
+          "RULE → only the energy pyramid is always upright"
+        ],
+        [
+          "BIOMASS → standing living material at a stated time",
+          "SHAPE → depends on parameter and ecosystem",
+          "NUMBERS → count of organisms at each trophic level"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NUMBERS → count of organisms at each trophic level",
+            "BIOMASS → standing living material at a stated time"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ENERGY → transfer through trophic levels over time",
+            "SHAPE → depends on parameter and ecosystem"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → only the energy pyramid is always upright",
+            "NUMBERS → count of organisms at each trophic level"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → only the energy pyramid is always upright.",
+      "source_references": [
+        "Ecological pyramid parameter",
+        "Pyramid of numbers",
+        "Pyramid of biomass",
+        "Pyramid of energy",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "AQUATIC BIOMASS INVERSION",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "AQUATIC BIOMASS INVERSION",
+          "role": "primary"
+        },
+        {
+          "text": "SMALL PHYTOPLANKTON STANDING CROP",
+          "role": "outcome"
+        },
+        {
+          "text": "RAPID REPLACEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "HIGH TURNOVER",
+          "role": "evidence"
+        },
+        {
+          "text": "CONTINUED PRODUCTION OVER THE MEASUREMENT PERIOD",
+          "role": "primary"
+        },
+        {
+          "text": "CONSUMER STANDING BIOMASS",
+          "role": "outcome"
+        },
+        {
+          "text": "MAY EXCEED PRODUCER BIOMASS AT ONE INSTANT",
+          "role": "comparison"
+        },
+        {
+          "text": "ENERGY TRANSFER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SMALL PHYTOPLANKTON STANDING CROP → rapid replacement",
+        "HIGH TURNOVER → continued production over the measurement period",
+        "CONSUMER STANDING BIOMASS → may exceed producer biomass at one instant",
+        "ENERGY TRANSFER → still declines upward",
+        "VERDICT → biomass inversion is not energy inversion"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SMALL PHYTOPLANKTON STANDING CROP → rapid replacement",
+            "HIGH TURNOVER → continued production over the measurement period"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONSUMER STANDING BIOMASS → may exceed producer biomass at one instant",
+            "ENERGY TRANSFER → still declines upward"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT → biomass inversion is not energy inversion",
+            "SMALL PHYTOPLANKTON STANDING CROP → rapid replacement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → biomass inversion is not energy inversion.",
+      "source_references": [
+        "Pyramid of biomass",
+        "Standing crop versus productivity",
+        "Pyramid of energy",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "HEURISTIC AND MODEL FIREWALL",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "HEURISTIC AND MODEL FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "ENERGY LOSS",
+          "role": "outcome"
+        },
+        {
+          "text": "QUALITATIVE THERMODYNAMIC DIRECTION IS ROBUST",
+          "role": "comparison"
+        },
+        {
+          "text": "TEN-PER-CENT RULE",
+          "role": "evidence"
+        },
+        {
+          "text": "OWNER LABELS IT AN AVERAGE HEURISTIC",
+          "role": "primary"
+        },
+        {
+          "text": "WEAKENS A RIGID ONE-LEVEL ASSIGNMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "CHANGES STANDING STOCKS AND FEEDING RELATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "USEFUL SUMMARY, NOT A COMPLETE FOOD WEB",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ENERGY LOSS → qualitative thermodynamic direction is robust",
+        "TEN-PER-CENT RULE → owner labels it an average heuristic",
+        "OMNIVORY → weakens a rigid one-level assignment",
+        "SEASONALITY → changes standing stocks and feeding relations",
+        "PYRAMID → useful summary, not a complete food web"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ENERGY LOSS → qualitative thermodynamic direction is robust",
+          "OMNIVORY → weakens a rigid one-level assignment",
+          "PYRAMID → useful summary, not a complete food web"
+        ],
+        [
+          "TEN-PER-CENT RULE → owner labels it an average heuristic",
+          "SEASONALITY → changes standing stocks and feeding relations",
+          "ENERGY LOSS → qualitative thermodynamic direction is robust"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ENERGY LOSS → qualitative thermodynamic direction is robust",
+            "TEN-PER-CENT RULE → owner labels it an average heuristic"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OMNIVORY → weakens a rigid one-level assignment",
+            "SEASONALITY → changes standing stocks and feeding relations"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PYRAMID → useful summary, not a complete food web",
+            "ENERGY LOSS → qualitative thermodynamic direction is robust"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TEN-PER-CENT RULE → owner labels it an average heuristic.",
+      "source_references": [
+        "Ecological-efficiency caution",
+        "Pyramid simplification limit",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "PYQ AND EVIDENCE BOUNDARY",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "PYQ AND EVIDENCE BOUNDARY",
+          "role": "evidence"
+        },
+        {
+          "text": "ROUTED CONCEPTS",
+          "role": "outcome"
+        },
+        {
+          "text": "AGRICULTURAL NITROGEN, ROCK-WEATHERED PHOSPHORUS, FIXATION LINKS",
+          "role": "comparison"
+        },
+        {
+          "text": "BASIC PRACTICE",
+          "role": "evidence"
+        },
+        {
+          "text": "RESERVOIR, PROCESS AND ORGANISM DISTINCTIONS",
+          "role": "mechanism"
+        },
+        {
+          "text": "OFFICIAL PAPER",
+          "role": "outcome"
+        },
+        {
+          "text": "DEMAND WORDING ONLY",
+          "role": "comparison"
+        },
+        {
+          "text": "NO KEY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ROUTED CONCEPTS → agricultural nitrogen, rock-weathered phosphorus, fixation links",
+        "BASIC PRACTICE → reservoir, process and organism distinctions",
+        "OFFICIAL PAPER → demand wording only",
+        "NO KEY → no option or answer inferred",
+        "LIVE CHECK → no rate, pool, efficiency or status imported from a stub"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ROUTED CONCEPTS → agricultural nitrogen, rock-weathered phosphorus, fixation links",
+            "BASIC PRACTICE → reservoir, process and organism distinctions"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OFFICIAL PAPER → demand wording only",
+            "NO KEY → no option or answer inferred"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIVE CHECK → no rate, pool, efficiency or status imported from a stub",
+            "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name pool, process, direction, limiting..."
+          ]
+        }
+      ],
+      "mechanism_strip": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name pool, process, direction, limiting...",
+      "answer_line": "EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name pool, process, direction, limiting.",
+      "source_references": [
+        "Verified objective PYQ routes",
+        "Governance and evidence boundary",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\basic\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Environment-and-Ecology\\advanced\\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-02\\g3\\environment-and-ecology-02_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "CPCB MONITORS WATER-QUALITY PARAMETERS (BOD, DISSOLVED OXYGEN, NUTRIENT LOAD)",
+          "role": "outcome"
+        },
+        {
+          "text": "MINISTRY OF AGRICULTURE AND FARMERS WELFARE",
+          "role": "comparison"
+        },
+        {
+          "text": "DEPARTMENT OF FERTILIZERS",
+          "role": "evidence"
+        },
+        {
+          "text": "IMPLEMENTATION GAP",
+          "role": "primary"
+        },
+        {
+          "text": "FERTILISER SUBSIDY DESIGN IN INDIA HAS HISTORICALLY FAVOURED",
+          "role": "outcome"
+        },
+        {
+          "text": "CARBON-CYCLE SCIENCE (IPCC AR6, 2023) IS THE SCIENTIFIC SPINE",
+          "role": "mechanism"
+        },
+        {
+          "text": "NATIONAL-SCALE NUTRIENT-CYCLE DISRUPTION (E.G., TOTAL AGRICULTURAL NITROGEN RUNOFF) IS",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CPCB monitors water-quality parameters (BOD, dissolved oxygen, nutrient load) that",
+            "Ministry of Agriculture and Farmers Welfare / Department of Fertilizers: regulate",
+            "CAUTION: Implementation gap: fertiliser subsidy design in India has historically favoured",
+            "CAUTION: Carbon-cycle science (IPCC AR6, 2023) is the scientific spine of the entire UNFCCC/Paris"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: National-scale nutrient-cycle disruption (e.g., total agricultural nitrogen runoff) is",
+            "CAUTION: \"Ecological efficiency of 10%\" is an average heuristic; actual transfer efficiency",
+            "Gaseous cycles (carbon, nitrogen, oxygen, water) self-regulate faster than sedimentary",
+            "Biological nitrogen fixation converts atmospheric N₂ to ammonia; industrial fixation via"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "The pyramid of energy is always upright due to progressive energy loss at each trophic",
+            "Eutrophication depletes dissolved oxygen as decomposer microbial activity spikes to",
+            "NOT: Nutrient pollution and carbon emissions are governed by the same policy lever. - They",
+            "NOT: An inverted biomass pyramid means an unhealthy ecosystem. - It reflects fast nutrient"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

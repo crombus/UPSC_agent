@@ -40,6 +40,7 @@ STEP 2 -> urban local bodies lack funds; disbursement is slow
 STEP 3 -> workers lack capital and credit access, so loan-subsidy uptake stays low
 STEP 4 -> machines need maintenance and trained operators or they fall into disuse
 LIMIT -> safety mechanisation still requires entry; full robotic substitution is nascent
+CLOSE DISTINCTION: Open-defecation-free status is not safely managed sanitation, toilet...
 
 ASCII MASTER FLOW — PANEL 7/12: Commission tenure record
 1993 -> the National Commission for Safai Karamcharis Act is enacted
@@ -68,7 +69,6 @@ OCCUPATION LOCK -> specific Dalit sub-castes have performed the work across gene
 -> DEMAND-SIDE PREFERENCE: employers including municipalities hire from traditional castes
 -> SEGREGATION REINFORCED: the occupation is inherited rather than chosen
 CONSTITUTIONAL ANCHOR -> Articles 17, 21 and 23 on untouchability, dignity and forced labour
-CLOSE DISTINCTION: Open-defecation-free status is not safely managed sanitation, toilet...
 
 ASCII MASTER FLOW — PANEL 11/12: Evidence discipline card
 SOURCES DIFFER -> Commission, State and civil-society death counts do not agree
@@ -76,7 +76,6 @@ RULE -> cite any figure with its named source and its date
 DISTINGUISH -> recorded deaths against the incidence of all unsafe cleaning
 DASHBOARD -> profiled-worker and equipment totals are outputs, not proof of no unsafe entry
 ARGUE -> persistence despite prohibition, rather than a single headline count
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use the 2013 prohibition/rehabilitation law,...
 
 ASCII MASTER FLOW — PANEL 12/12: Routed objective demand
 YEAR AND PAPER -> 2024 Prelims General Studies Paper I, question numbered 24
@@ -84,3 +83,4 @@ DEMAND -> the World Toilet Organization, rendered neutrally in the audited ledge
 KEY STATUS -> official Set-A key available locally; the answer is not recorded there
 PACKAGE RULE -> no option, key or inferred answer letter is stated anywhere here
 COVERAGE -> the named body is covered as taught content within the sanitation-dignity frame
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use the 2013 prohibition/rehabilitation law,...

@@ -40,6 +40,7 @@ STEP 2 -> sensitisation deficit produces delay, discretionary rejection or invas
 STEP 3 -> discrimination occurs; the complaint officer route is formal but weakly accessible
 STEP 4 -> shelter exists in limited number and spread; smaller towns are underserved
 STEP 5 -> skill training exists; formal-employment linkage remains weak because stigma persists
+CLOSE DISTINCTION: Transgender identity is not limited to medical transition, legal...
 
 ASCII MASTER FLOW — PANEL 7/12: Colonial classification ledger
 1871 -> Criminal Tribes Act stigmatises whole communities as born criminals
@@ -68,7 +69,6 @@ FUNCTIONS -> surveys, coordination of scheme implementation, policy advice
 POWER -> may recommend; cannot compel State action
 ABSENT -> quasi-judicial powers, inquiry and binding directions
 REFORM PROPOSED -> a permanent statutory commission on the existing commission model
-CLOSE DISTINCTION: Transgender identity is not limited to medical transition, legal...
 
 ASCII MASTER FLOW — PANEL 11/12: Dedicated scheme card
 LAUNCHED -> 16 February 2022 as a dedicated central scheme
@@ -76,7 +76,6 @@ COMPONENT -> free coaching for competitive and educational entry
 COMPONENT -> health-insurance facilitation including the national health-assurance route
 COMPONENT -> community livelihood initiatives; and housing or land support
 BOUNDARY -> not a substitute for documents or State-list recognition; coverage nascent
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use NALSA, the Transgender Persons Act/rules,...
 
 ASCII MASTER FLOW — PANEL 12/12: Invisibility chain
 NO CENTRAL LIST -> eligibility fragments across differing State lists or none at all
@@ -84,3 +83,4 @@ NO FIXED ADDRESS -> ration card, Aadhaar seeding and caste certificate are block
 NO DOCUMENTS -> health-assurance, food-security and income-support schemes stay out of reach
 MIGRATION CASE -> a community listed in one State loses eligibility on crossing a border
 OVERLAP CASE -> backward-class status gained may displace scheme-specific benefits
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use NALSA, the Transgender Persons Act/rules,...

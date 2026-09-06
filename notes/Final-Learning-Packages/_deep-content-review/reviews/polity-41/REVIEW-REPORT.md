@@ -1,25 +1,28 @@
-# Deep content review — polity-41 Public Services
+# Deep Content Review — Indian Society 41: Public Services
 
-## Initial review: g2
-- Locked `polity-41:learner-v2:g2` with 49 hashes.
-- Score: **76/100**; changes suggested; approval false.
-- Defects: obsolete classification, imprecise Article 311 conviction/AIS wording, unsolved 2025 GS-I PYQ, no answer-specific improvement guidance, nine compressed flows, generated ellipses and ASCII width 103.
+- **Baseline locked:** `polity-41:learner-v2:g4` — 96/100
+- **Immutable successor:** `polity-41:learner-v2:g5` — 98/100
+- **Approval:** false / pending explicit approval
 
-## Repairs
-- Verified Articles 308-314, CCS/AIS rules, pleasure and Article 311 doctrine, tribunals, neutrality/accountability, Mission Karmayogi, judgments and routed PYQs.
-- Corrected constitutional scope, modern Group A/B/C classification, conviction-conduct formulation, AIS history and date-bound current claims.
-- Added solved 2025 GS-I Q9, ten executable improvement/compression pairs, semantic controls and twelve matching flow panels.
+## Defects reported before repair
 
-## Immutable regeneration history
-- `polity-41:learner-v2:g3`: **97/100**, preserved after manual review found one 104-column ASCII header.
-- `polity-41:learner-v2:g4`: **98/100**, passed revalidation; approval remains false.
+- Hostile four-ledger ownership/PYQ control is absent.
+- Authoritative current-law source status is not dated.
 
-## Final validation
-- 36 sessions; 48 MCQs with strict A-B-C-D ×12; 10 guidance pairs.
-- Zero ellipses, replacement glyphs or sampled acronym mutations.
-- 12 ASCII panels; maximum width 97; graphical build has 13 cards and zero overflow.
-- PDFs: learning 96 pages; workbook 16; poster 1; tiled 5; ASCII 12; no empty text pages in learning/workbook/tiled.
-- 38 targeted tests passed. All 41 immutable g2 generation files retain locked hashes; eight mutable final-export files were intentionally replaced by g4.
+## Four-artifact repair and re-review
 
-## Final export
-`notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\41-Public-Services`
+The complete predecessor teaching is preserved, with canonical Basic/Core first
+and Optional Advanced still subordinate. A source-and-evidence contract now
+distinguishes archaeology, texts, inscriptions, coins, interpretation, PYQ
+metadata and current-status claims. Every identified solved item has demand
+decoding, a detailed model, an executable answer/compression plan, marks rationale
+and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D while
+official PYQ wording remains outside that rotation. Both master flows were
+regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
+
+- Session PDF: 107 pages
+- Workbook PDF: 24 pages
+- Solved items audited: 10
+- Basic/remedial MCQs audited: 48
+- Graphical/ASCII stages: 12 / 12
+- Approval: false

@@ -5,8 +5,8 @@ Topic: Children and Child Protection
 Subject: Social Justice
 Section: Subject-wide Syllabus
 Catalogue number: 06
-Source record ID: social-justice-06:learner-v2:g2
-Source generation: 2
+Source record ID: social-justice-06:learner-v2:g3
+Source generation: 3
 Approval: Approval pending
 
 Deliverables

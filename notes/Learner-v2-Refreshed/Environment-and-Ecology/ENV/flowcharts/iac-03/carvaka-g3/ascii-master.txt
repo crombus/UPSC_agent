@@ -1,0 +1,86 @@
+ASCII MASTER FLOW — PANEL 1/12: Succession decision tree
+START -> newly exposed substrate or disturbed former community
+NO DEVELOPED SOIL -> primary succession pathway
+SOIL AND BIOLOGICAL LEGACIES REMAIN -> secondary succession pathway
+DRIVERS -> autogenic community change plus allogenic external forcing
+OUTCOME -> contingent trajectory, not one guaranteed endpoint
+MUST REMEMBER: Succession is directional community change driven by colonisation,...
+
+ASCII MASTER FLOW — PANEL 2/12: Primary succession rail
+BARE OR NEW SUBSTRATE -> pioneer establishment
+WEATHERING AND ORGANIC INPUT -> initial soil development
+HERBS OR OTHER COLONISTS -> more cover and resource capture
+LATER COMMUNITIES -> increasing structural complexity where conditions permit
+LIMIT -> no universal species list or completion time
+
+ASCII MASTER FLOW — PANEL 3/12: Secondary succession rail
+DISTURBANCE -> prior vegetation reduced or removed
+SOIL, ROOTS, SEEDS OR MICROBES REMAIN -> biological legacy
+RAPID COLONISERS -> early recovery
+COMPETITION AND RECRUITMENT -> later community change
+LIMIT -> faster than primary does not mean instant or identical recovery
+
+ASCII MASTER FLOW — PANEL 4/12: Sere vocabulary map
+SERE -> complete sequence at one site
+SERAL STAGE -> one community within the sequence
+LITHOSERE -> rock   PSAMMOSERE -> sand
+HALOSERE -> saline   HYDROSERE -> fresh water
+XEROSERE -> dry substrate; names identify starts, not fixed ends
+
+ASCII MASTER FLOW — PANEL 5/12: Hydrarch and xerarch comparison
+HYDRARCH -> begins in water or very wet substrate
+XERARCH -> begins under dry conditions
+BOTH -> may trend toward more mesic regional conditions
+PATH -> depends on sediment, soil, colonists and disturbance
+CAUTION -> convergence is not one universal sequence
+
+ASCII MASTER FLOW — PANEL 6/12: Mechanism fork
+AUTOGENIC -> organisms alter litter, soil, shade or microclimate
+ALLOGENIC -> flood, fire, erosion, deposition, climate or land use acts externally
+FACILITATION -> early species improve later establishment
+INHIBITION OR TOLERANCE -> alternative replacement mechanisms
+RULE -> identify the driver before naming the mechanism
+CLOSE DISTINCTION: Primary is not secondary succession, pioneer is not universally...
+
+ASCII MASTER FLOW — PANEL 7/12: Climax theory pressure test
+CLASSICAL CLAIM -> regional climate favours a relatively stable climax
+PRESSURE -> disturbance history and species arrival differ among sites
+MODERN READING -> multiple plausible stable states can occur
+DISTURBANCE -> redirects or resets trajectories
+VERDICT -> climate constrains but does not uniquely script every endpoint
+
+ASCII MASTER FLOW — PANEL 8/12: Restoration staging ladder
+1 STABILISE -> erosion, substrate and hydrology
+2 REBUILD FUNCTION -> organic matter, soil biota and nutrient processes
+3 ENABLE NATIVE RECRUITMENT -> propagules and suitable microclimate
+4 RECOVER STRUCTURE -> composition, layering and connectivity
+5 MONITOR -> function and trajectory, not planting count alone
+
+ASCII MASTER FLOW — PANEL 9/12: Scale vocabulary
+HABITAT -> place used by a species
+ECOSYSTEM -> bounded interacting biotic and abiotic functional unit
+BIOME -> broad regional ecological category
+FOREST LEGAL CATEGORY -> status under applicable law or interpretation
+RULE -> one term cannot silently substitute for another
+
+ASCII MASTER FLOW — PANEL 10/12: Biome control matrix
+BROAD CLIMATE -> temperature and precipitation pattern
+SOIL AND TOPOGRAPHY -> local water and nutrient conditions
+FIRE AND HERBIVORY -> maintain or redirect open vegetation
+LAND-USE HISTORY -> modifies present composition
+BOUNDARY -> biome maps are gradients, not exact site-level lines
+
+ASCII MASTER FLOW — PANEL 11/12: Open ecosystem firewall
+GRASSLAND, SAVANNA, SCRUB -> may be natural ecological states
+WASTELAND -> administrative or revenue label
+FOREST -> legal category in the relevant context
+PLANTATION -> land-cover intervention, not proof of restored biome
+DECISION -> assess native biome before afforestation
+
+ASCII MASTER FLOW — PANEL 12/12: PYQ and monitoring boundary
+2021 ROUTE -> pioneers surviving on surfaces without soil
+2024 ESSAY -> forests and deserts used as a qualified ecological warning
+FOREST COVER -> canopy trend, not successional-stage proof
+RESTORATION CLAIM -> needs repeated composition, soil and function evidence
+LIVE STUB -> adds no succession timeline, biome range or status
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State initial substrate, disturbance...

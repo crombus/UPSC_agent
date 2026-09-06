@@ -5,8 +5,8 @@ Topic: Education and Human-Resource Development
 Subject: Social Justice
 Section: Subject-wide Syllabus
 Catalogue number: 04
-Source record ID: social-justice-04:learner-v2:g2
-Source generation: 2
+Source record ID: social-justice-04:learner-v2:g3
+Source generation: 3
 Approval: Approval pending
 
 Deliverables

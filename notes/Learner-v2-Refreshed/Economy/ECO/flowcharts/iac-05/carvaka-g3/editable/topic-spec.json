@@ -1,0 +1,1033 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-05",
+  "subject": "Economy",
+  "title": "BANKING STRUCTURE, NBFCS AND FINANCIAL REGULATION",
+  "short_route": "BANKING LEGAL PERIMETER → MATURITY TRANSFORMATION → MULTI-TIER ARCHITECTURE → DIFFERENTIATED-BANK FORK → RURAL-CREDIT MAP → PSL TARGET BOARD",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-05\\g3\\economy-05_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-05-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "6e5369016414a1783b983666b08ceb71918516785fe6fc83e024bb8be2350144",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "BANKING LEGAL PERIMETER",
+      "structural_type": "classification-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BANKING LEGAL PERIMETER",
+          "role": "primary"
+        },
+        {
+          "text": "SCHEDULED BANK",
+          "role": "outcome"
+        },
+        {
+          "text": "SECOND SCHEDULE STATUS",
+          "role": "comparison"
+        },
+        {
+          "text": "COMMERCIAL BANK",
+          "role": "evidence"
+        },
+        {
+          "text": "DEPOSITS + PAYMENTS + CREDIT",
+          "role": "primary"
+        },
+        {
+          "text": "CO-OPERATIVE BANK",
+          "role": "outcome"
+        },
+        {
+          "text": "MEMBER FORM + BANKING OVERSIGHT",
+          "role": "comparison"
+        },
+        {
+          "text": "FINANCIAL COMPANY, NOT FULL BANK POWERS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SCHEDULED BANK → Second Schedule status",
+        "COMMERCIAL BANK → deposits + payments + credit",
+        "CO-OPERATIVE BANK → member form + banking oversight",
+        "NBFC → financial company, not full bank powers",
+        "MUST REMEMBER: India's financial system separates scheduled banks, cooperative banks"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SCHEDULED BANK → Second Schedule status",
+            "COMMERCIAL BANK → deposits + payments + credit"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CO-OPERATIVE BANK → member form + banking oversight",
+            "NBFC → financial company, not full bank powers"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: India's financial system separates scheduled banks, cooperative banks,...",
+            "SCHEDULED BANK → Second Schedule status"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: India's financial system separates scheduled banks, cooperative banks,.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-05\\g3\\economy-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "MATURITY TRANSFORMATION",
+      "structural_type": "balance-sheet-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "MATURITY TRANSFORMATION",
+          "role": "primary"
+        },
+        {
+          "text": "WITHDRAWABLE DEPOSITS",
+          "role": "outcome"
+        },
+        {
+          "text": "POOLED BANK FUNDING",
+          "role": "comparison"
+        },
+        {
+          "text": "LONGER LOANS AND INVESTMENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "LIQUIDITY + CREDIT + INTEREST-RATE MISMATCH",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "WITHDRAWABLE DEPOSITS",
+        "pooled bank funding",
+        "longer loans and investments",
+        "RISK → liquidity + credit + interest-rate mismatch"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WITHDRAWABLE DEPOSITS",
+            "pooled bank funding"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "longer loans and investments",
+            "RISK → liquidity + credit + interest-rate mismatch"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WITHDRAWABLE DEPOSITS",
+            "pooled bank funding"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RISK → liquidity + credit + interest-rate mismatch.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-05\\g3\\economy-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "MULTI-TIER ARCHITECTURE",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MULTI-TIER ARCHITECTURE",
+          "role": "primary"
+        },
+        {
+          "text": "SMALL FINANCE BANK",
+          "role": "outcome"
+        },
+        {
+          "text": "PAYMENTS BANK",
+          "role": "comparison"
+        },
+        {
+          "text": "PSB / PRIVATE / FOREIGN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PSB / PRIVATE / FOREIGN",
+        "RRB / CO-OPERATIVE",
+        "SMALL FINANCE BANK",
+        "PAYMENTS BANK"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PSB / PRIVATE / FOREIGN",
+            "RRB / CO-OPERATIVE"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SMALL FINANCE BANK",
+            "PAYMENTS BANK"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PSB / PRIVATE / FOREIGN",
+            "RRB / CO-OPERATIVE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RRB / CO-OPERATIVE; SMALL FINANCE BANK; PAYMENTS BANK.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-05\\g3\\economy-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "DIFFERENTIATED-BANK FORK",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DIFFERENTIATED-BANK FORK",
+          "role": "primary"
+        },
+        {
+          "text": "DEPOSITS + LENDING",
+          "role": "outcome"
+        },
+        {
+          "text": "PAYMENTS BANK",
+          "role": "comparison"
+        },
+        {
+          "text": "DEPOSITS + PAYMENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "NO OWN-BALANCE-SHEET LENDING",
+          "role": "caution"
+        },
+        {
+          "text": "SIMILAR LICENCE FAMILY, DIFFERENT POWERS",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "SFB → deposits + lending",
+        "PAYMENTS BANK → deposits + payments",
+        "PAYMENTS BANK → no own-balance-sheet lending",
+        "RULE → similar licence family, different powers"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SFB → deposits + lending",
+          "PAYMENTS BANK → no own-balance-sheet lending",
+          "SFB → deposits + lending"
+        ],
+        [
+          "PAYMENTS BANK → deposits + payments",
+          "RULE → similar licence family, different powers",
+          "PAYMENTS BANK → deposits + payments"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SFB → deposits + lending",
+            "PAYMENTS BANK → deposits + payments"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PAYMENTS BANK → no own-balance-sheet lending",
+            "RULE → similar licence family, different powers"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SFB → deposits + lending",
+            "PAYMENTS BANK → deposits + payments"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PAYMENTS BANK → no own-balance-sheet lending; RULE → similar licence family, different powers.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-05\\g3\\economy-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "RURAL-CREDIT MAP",
+      "structural_type": "place-based-rail",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "RURAL-CREDIT MAP",
+          "role": "primary"
+        },
+        {
+          "text": "RURAL INTERMEDIARY",
+          "role": "outcome"
+        },
+        {
+          "text": "LEAD BANK",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTRICT COORDINATION",
+          "role": "evidence"
+        },
+        {
+          "text": "SERVICE AREA",
+          "role": "primary"
+        },
+        {
+          "text": "LOCAL RESPONSIBILITY",
+          "role": "outcome"
+        },
+        {
+          "text": "COVERAGE DOES NOT ENSURE VIABLE CREDIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "RRB → rural intermediary",
+        "LEAD BANK → district coordination",
+        "SERVICE AREA → local responsibility",
+        "LIMIT → coverage does not ensure viable credit"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RRB → rural intermediary",
+            "LEAD BANK → district coordination"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SERVICE AREA → local responsibility",
+            "LIMIT → coverage does not ensure viable credit"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RRB → rural intermediary",
+            "LEAD BANK → district coordination"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → coverage does not ensure viable credit.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-05\\g3\\economy-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "PSL TARGET BOARD",
+      "structural_type": "target-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "PSL TARGET BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "MOST DOMESTIC BANKS",
+          "role": "outcome"
+        },
+        {
+          "text": "40 PER CENT OVERALL",
+          "role": "comparison"
+        },
+        {
+          "text": "18 PER CENT",
+          "role": "evidence"
+        },
+        {
+          "text": "SMALL/MARGINAL FARMERS",
+          "role": "primary"
+        },
+        {
+          "text": "10 PER CENT",
+          "role": "outcome"
+        },
+        {
+          "text": "WEAKER SECTIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "12 PER CENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "MOST DOMESTIC BANKS → 40 per cent overall",
+        "AGRICULTURE → 18 per cent",
+        "SMALL/MARGINAL FARMERS → 10 per cent",
+        "WEAKER SECTIONS → 12 per cent",
+        "CLOSE DISTINCTION: Bank is not NBFC, deposit-taking permission is not universal"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "MOST DOMESTIC BANKS → 40 per cent overall",
+          "SMALL/MARGINAL FARMERS → 10 per cent",
+          "CLOSE DISTINCTION: Bank is not NBFC, deposit-taking permission is not universal,..."
+        ],
+        [
+          "AGRICULTURE → 18 per cent",
+          "WEAKER SECTIONS → 12 per cent",
+          "MOST DOMESTIC BANKS → 40 per cent overall"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MOST DOMESTIC BANKS → 40 per cent overall",
+            "AGRICULTURE → 18 per cent"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SMALL/MARGINAL FARMERS → 10 per cent",
+            "WEAKER SECTIONS → 12 per cent"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Bank is not NBFC, deposit-taking permission is not universal,...",
+            "MOST DOMESTIC BANKS → 40 per cent overall"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Bank is not NBFC, deposit-taking permission is not universal,.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-05\\g3\\economy-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "PSL STATUS GATE",
+      "structural_type": "legal-status-band",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "PSL STATUS GATE",
+          "role": "primary"
+        },
+        {
+          "text": "TARGETS COME FROM RBI MASTER DIRECTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "CATEGORIES AND SUB-TARGETS CAN CHANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "QUOTE THE EFFECTIVE DIRECTION",
+          "role": "evidence"
+        },
+        {
+          "text": "DO NOT CALL A RATIO PERMANENT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "TARGETS COME FROM RBI MASTER DIRECTIONS",
+        "CATEGORIES AND SUB-TARGETS CAN CHANGE",
+        "QUOTE THE EFFECTIVE DIRECTION",
+        "DO NOT CALL A RATIO PERMANENT"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TARGETS COME FROM RBI MASTER DIRECTIONS",
+            "CATEGORIES AND SUB-TARGETS CAN CHANGE"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "QUOTE THE EFFECTIVE DIRECTION",
+            "DO NOT CALL A RATIO PERMANENT"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TARGETS COME FROM RBI MASTER DIRECTIONS",
+            "CATEGORIES AND SUB-TARGETS CAN CHANGE"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUOTE THE EFFECTIVE DIRECTION; DO NOT CALL A RATIO PERMANENT.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-05\\g3\\economy-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "NBFC CONTAGION CHAIN",
+      "structural_type": "contagion-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "NBFC CONTAGION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "WHOLESALE FUNDING + MATURITY MISMATCH",
+          "role": "outcome"
+        },
+        {
+          "text": "DHFL STRESS",
+          "role": "comparison"
+        },
+        {
+          "text": "MUTUAL FUNDS + BANKS + MARKETS",
+          "role": "evidence"
+        },
+        {
+          "text": "NON-BANK STRESS CAN BE SYSTEMIC",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "WHOLESALE FUNDING + MATURITY MISMATCH",
+        "IL&FS / DHFL stress",
+        "mutual funds + banks + markets",
+        "LESSON → non-bank stress can be systemic"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WHOLESALE FUNDING + MATURITY MISMATCH",
+            "IL&FS / DHFL stress"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "mutual funds + banks + markets",
+            "LESSON → non-bank stress can be systemic"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WHOLESALE FUNDING + MATURITY MISMATCH",
+            "IL&FS / DHFL stress"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "mutual funds + banks + markets; LESSON → non-bank stress can be systemic.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-05\\g3\\economy-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "DEPOSITOR PROTECTION BOUNDARY",
+      "structural_type": "safety-net-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DEPOSITOR PROTECTION BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "ELIGIBLE BANK DEPOSITS",
+          "role": "outcome"
+        },
+        {
+          "text": "OWNER CAP",
+          "role": "comparison"
+        },
+        {
+          "text": "RS 5 LAKH PER DEPOSITOR PER BANK",
+          "role": "evidence"
+        },
+        {
+          "text": "SECURITIES + INSURANCE + ORDINARY NBFC CLAIMS",
+          "role": "primary"
+        },
+        {
+          "text": "PREVENTION, NOT PAYOUT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DICGC → eligible bank deposits",
+        "OWNER CAP → Rs 5 lakh per depositor per bank",
+        "OUT → securities + insurance + ordinary NBFC claims",
+        "PCA → prevention, not payout"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DICGC → eligible bank deposits",
+            "OWNER CAP → Rs 5 lakh per depositor per bank"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OUT → securities + insurance + ordinary NBFC claims",
+            "PCA → prevention, not payout"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DICGC → eligible bank deposits",
+            "OWNER CAP → Rs 5 lakh per depositor per bank"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OUT → securities + insurance + ordinary NBFC claims.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-05\\g3\\economy-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "REGULATORY PERIMETER",
+      "structural_type": "regulator-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "REGULATORY PERIMETER",
+          "role": "primary"
+        },
+        {
+          "text": "BANKS + NBFCS + PAYMENTS",
+          "role": "outcome"
+        },
+        {
+          "text": "CROSS-SECTOR COORDINATION",
+          "role": "comparison"
+        },
+        {
+          "text": "RBI → BANKS + NBFCS + PAYMENTS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RBI → banks + NBFCs + payments",
+        "SEBI → securities",
+        "IRDAI / PFRDA → insurance / pensions",
+        "FSDC → cross-sector coordination"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RBI → banks + NBFCs + payments",
+            "SEBI → securities"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "IRDAI / PFRDA → insurance / pensions",
+            "FSDC → cross-sector coordination"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RBI → banks + NBFCs + payments",
+            "SEBI → securities"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "IRDAI / PFRDA → insurance / pensions; FSDC → cross-sector coordination.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-05\\g3\\economy-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "BALANCE-SHEET AND INCLUSION TRAPS",
+      "structural_type": "classification-board",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "BALANCE-SHEET AND INCLUSION TRAPS",
+          "role": "primary"
+        },
+        {
+          "text": "ACCESS + USAGE + QUALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "SHARED EXPOSURE, NOT ZERO RISK",
+          "role": "caution"
+        },
+        {
+          "text": "LOANS / INVESTMENTS → ASSETS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LOANS / INVESTMENTS → assets",
+        "DEPOSITS → liabilities",
+        "FI-INDEX → Access + Usage + Quality",
+        "SYNDICATION → shared exposure, not zero risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LOANS / INVESTMENTS → assets",
+            "DEPOSITS → liabilities"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FI-INDEX → Access + Usage + Quality",
+            "SYNDICATION → shared exposure, not zero risk"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LOANS / INVESTMENTS → assets",
+            "DEPOSITS → liabilities"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FI-INDEX → Access + Usage + Quality; SYNDICATION → shared exposure, not zero risk.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-05\\g3\\economy-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "FINANCIAL-REGULATION ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "FINANCIAL-REGULATION ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CLASSIFY INSTITUTION AND POWERS",
+          "role": "institution"
+        },
+        {
+          "text": "MAP FUNDING + LEVERAGE + SAFETY NET",
+          "role": "comparison"
+        },
+        {
+          "text": "TRACE CONTAGION AND SUPERVISION",
+          "role": "evidence"
+        },
+        {
+          "text": "BALANCE INCLUSION, DIVERSITY AND STABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "IDENTIFY REGULATOR, STATUTE/DIRECTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "CLASSIFY institution and powers",
+        "MAP funding + leverage + safety net",
+        "TRACE contagion and supervision",
+        "BALANCE inclusion, diversity and stability",
+        "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Identify regulator, statute/direction"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CLASSIFY institution and powers",
+            "MAP funding + leverage + safety net"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TRACE contagion and supervision",
+            "BALANCE inclusion, diversity and stability"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Identify regulator, statute/direction,...",
+            "CLASSIFY institution and powers"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Identify regulator, statute/direction,.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\05_Banking-Structure-NBFCs-and-Financial-Regulation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-05\\g3\\economy-05_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "BANKING COMBINES LEVERAGE, RUNNABLE LIABILITIES AND MATURITY TRANSFORMATION, WHICH",
+          "role": "outcome"
+        },
+        {
+          "text": "NBFC VULNERABILITY OFTEN COMES FROM WHOLESALE FUNDING, ASSET-LIABILITY MISMATCH",
+          "role": "comparison"
+        },
+        {
+          "text": "SCALE-BASED REGULATION SEEKS PROPORTIONALITY WHILE TIGHTENING RULES AS SYSTEMIC",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSOLIDATED SUPERVISION IS NECESSARY WHEN RISKS MOVE ACROSS GROUP",
+          "role": "primary"
+        },
+        {
+          "text": "RESOLUTION REGIMES SHOULD PROTECT CRITICAL FUNCTIONS WITHOUT GUARANTEEING SHAREHOLDERS",
+          "role": "outcome"
+        },
+        {
+          "text": "COMPETITION POLICY, CONSUMER PROTECTION, CYBER RESILIENCE AND PRUDENTIAL SAFETY",
+          "role": "comparison"
+        },
+        {
+          "text": "REGULATES BANKS, CO-OPERATIVE BANKING FUNCTIONS AND SPECIFIED NBFC CATEGORIES.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Banking combines leverage, runnable liabilities and maturity transformation, which",
+            "CAUTION: NBFC vulnerability often comes from wholesale funding, asset-liability mismatch and",
+            "CAUTION: Scale-based regulation seeks proportionality while tightening rules as systemic",
+            "CAUTION: Consolidated supervision is necessary when risks move across group entities or market"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Resolution regimes should protect critical functions without guaranteeing shareholders",
+            "CAUTION: Competition policy, consumer protection, cyber resilience and prudential safety are",
+            "RBI: regulates banks, co-operative banking functions and specified NBFC categories.",
+            "DICGC: insures eligible deposits in covered banks within the statutory framework."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "SEBI, IRDAI and PFRDA: regulate securities, insurance and pension sectors",
+            "Financial Stability and Development Council: supports inter-regulatory coordination",
+            "CAUTION: A bank can offer demand deposits and payment services; an ordinary NBFC cannot issue",
+            "CAUTION: A wholesale-funded NBFC can face a rollover crisis even without retail deposit"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

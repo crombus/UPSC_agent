@@ -1,0 +1,74 @@
+ASCII MASTER FLOW — PANEL 1/12: Six-box macro dashboard
+GROWTH + DEMAND
+INFLATION + MONETARY
+FISCAL + INVESTMENT
+FINANCIAL + EXTERNAL + INCLUSION
+MUST REMEMBER: A current macro dashboard must reconcile growth, inflation, employment,...
+
+ASCII MASTER FLOW — PANEL 2/12: Estimate-vintage ladder
+FAE / SAE -> early estimate
+PROVISIONAL -> fuller data
+REVISED -> later benchmark
+DATE + VINTAGE travel with value
+
+ASCII MASTER FLOW — PANEL 3/12: GDP-GVA-price boundary
+GDP -> market prices
+GVA -> basic prices
+REAL -> volume after price adjustment
+NOMINAL -> current-price value
+
+ASCII MASTER FLOW — PANEL 4/12: Demand-composition map
+PFCE + GFCE
+GROSS CAPITAL FORMATION
+NET EXPORTS
+SHARE != growth contribution
+
+ASCII MASTER FLOW — PANEL 5/12: Fiscal evidence ladder
+BE -> forward plan
+RE -> in-year reassessment
+CGA PROVISIONAL -> realised to date/year
+FINAL ACTUAL -> later outturn
+
+ASCII MASTER FLOW — PANEL 6/12: Inflation reading board
+HEADLINE CPI
+FOOD + FUEL components
+CORE proxy
+EXPECTATIONS + POLICY stance
+CLOSE DISTINCTION: Survey projection is not Budget estimate, advance estimate is not...
+
+ASCII MASTER FLOW — PANEL 7/12: Stock-flow external map
+RESERVES -> stock at date
+EXTERNAL DEBT -> liability stock
+CAD -> period flow
+EXPORTS / IMPORTS -> period flows
+
+ASCII MASTER FLOW — PANEL 8/12: Labour-data boundary
+PLFS PERIOD
+USUAL / WEEKLY STATUS
+LFPR / WPR / UR denominator
+PUBLICATION LAG
+
+ASCII MASTER FLOW — PANEL 9/12: Survey-budget-outturn split
+SURVEY -> diagnosis / projection
+BUDGET -> proposal / estimate
+OFFICIAL RELEASE -> outturn
+DO NOT blend evidence classes
+
+ASCII MASTER FLOW — PANEL 10/12: V-to-K recovery test
+GDP PATH -> contraction then rebound
+BASE EFFECT -> growth comparison
+SECTORAL PATH -> uneven
+JOBS + INFORMALITY -> K-shaped test
+
+ASCII MASTER FLOW — PANEL 11/12: Cross-box synthesis loop
+HEADLINE
+-> COMPONENT + DENOMINATOR
+-> COMPARABLE PERIOD + VINTAGE
+-> DRIVER + LIMIT + VERDICT
+
+ASCII MASTER FLOW — PANEL 12/12: Macro-dashboard answer spine
+LABEL value + unit + vintage
+CLASSIFY stock / flow / ratio
+CROSS-CHECK six boxes
+CONCLUDE stability + productive capacity
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Attach source, release date, reference...

@@ -1,0 +1,3511 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g3\\economy-31_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-31\\g3\\economy-31_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "economy-31",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Energy Infrastructure Economics, Power, Fuels and Energy Security - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-03. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 29,
+      "markdown_body_line_end": 41,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 377.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 76,
+      "markdown_body_line_end": 76,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Primary, secondary and final energy must be read through Primary and final energy and Power and energy units, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 440.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 373.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 91,
+      "markdown_body_line_end": 98,
+      "heading": "VISUAL FIRST",
+      "preview": "PRIMARY, SECONDARY AND FINAL ENERGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 127,
+      "markdown_body_line_end": 134,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 333.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 227.873
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 146,
+      "markdown_body_line_end": 146,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Capacity, generation and unit discipline must be read through Energy-service boundary, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 161,
+      "markdown_body_line_end": 165,
+      "heading": "VISUAL FIRST",
+      "preview": "CAPACITY, GENERATION AND UNIT DISCIPLINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 193,
+      "markdown_body_line_end": 200,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 212.624
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 114.955
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 212,
+      "markdown_body_line_end": 212,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Energy access and service outcomes must be read through Electricity value chain, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 665.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 227,
+      "markdown_body_line_end": 231,
+      "heading": "VISUAL FIRST",
+      "preview": "ENERGY ACCESS AND SERVICE OUTCOMES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 376.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 259,
+      "markdown_body_line_end": 266,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 68.424
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 726.923
+        }
+      },
+      "pdf_pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 278,
+      "markdown_body_line_end": 278,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Electricity-sector functional layers must be read through Real-time balancing, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 577.723
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 511.055
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 293,
+      "markdown_body_line_end": 297,
+      "heading": "VISUAL FIRST",
+      "preview": "ELECTRICITY-SECTOR FUNCTIONAL LAYERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 330.455
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 289.455
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 325,
+      "markdown_body_line_end": 332,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 636.223
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 344,
+      "markdown_body_line_end": 344,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Real-time balancing and flexibility must be read through Natural monopoly and competition, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 487.023
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 420.355
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 359,
+      "markdown_body_line_end": 363,
+      "heading": "VISUAL FIRST",
+      "preview": "REAL-TIME BALANCING AND FLEXIBILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 391,
+      "markdown_body_line_end": 398,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 437.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 340.223
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 410,
+      "markdown_body_line_end": 410,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Natural monopoly and contestable layers must be read through Institutional perimeter and Tariff and subsidy boundary, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 191.023
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 124.355
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 425,
+      "markdown_body_line_end": 432,
+      "heading": "VISUAL FIRST",
+      "preview": "NATURAL MONOPOLY AND CONTESTABLE LAYERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 696.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 625.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 461,
+      "markdown_body_line_end": 468,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 228.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 122.673
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 480,
+      "markdown_body_line_end": 480,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "CEA, CERC, SERC, Grid-India and DISCOM must be read through AT&C and ACS-ARR, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 665.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 495,
+      "markdown_body_line_end": 499,
+      "heading": "VISUAL FIRST",
+      "preview": "CEA, CERC, SERC, GRID-INDIA AND DISCOM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 376.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 527,
+      "markdown_body_line_end": 534,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 68.424
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 726.923
+        }
+      },
+      "pdf_pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 546,
+      "markdown_body_line_end": 546,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Tariff, subsidy and cross-subsidy must be read through PPA and procurement risk, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 577.723
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 511.055
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 561,
+      "markdown_body_line_end": 565,
+      "heading": "VISUAL FIRST",
+      "preview": "TARIFF, SUBSIDY AND CROSS-SUBSIDY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 316.255
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 275.255
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 593,
+      "markdown_body_line_end": 600,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 636.223
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 612,
+      "markdown_body_line_end": 612,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "AT&C loss and ACS-ARR gap must be read through Access and energy poverty, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 487.023
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 420.355
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 627,
+      "markdown_body_line_end": 631,
+      "heading": "VISUAL FIRST",
+      "preview": "AT&C LOSS AND ACS-ARR GAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 659,
+      "markdown_body_line_end": 666,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 437.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 340.223
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 678,
+      "markdown_body_line_end": 678,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "PPAs, markets and risk allocation must be read through Coal system boundary, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 191.023
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 124.355
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 693,
+      "markdown_body_line_end": 697,
+      "heading": "VISUAL FIRST",
+      "preview": "PPAS, MARKETS AND RISK ALLOCATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 696.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 655.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 725,
+      "markdown_body_line_end": 732,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 318.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 220.823
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 744,
+      "markdown_body_line_end": 744,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Access ladder and energy poverty must be read through Petroleum chain and regulator and Crude imports and product trade, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 759,
+      "markdown_body_line_end": 766,
+      "heading": "VISUAL FIRST",
+      "preview": "ACCESS LADDER AND ENERGY POVERTY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 491.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 795,
+      "markdown_body_line_end": 802,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 122.824
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 814,
+      "markdown_body_line_end": 814,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Coal, resource and reserve boundary must be read through Energy-security dimensions, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 621.123
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 554.455
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 829,
+      "markdown_body_line_end": 833,
+      "heading": "VISUAL FIRST",
+      "preview": "COAL, RESOURCE AND RESERVE BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 373.855
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 332.855
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 861,
+      "markdown_body_line_end": 868,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 689.623
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 880,
+      "markdown_body_line_end": 880,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Petroleum value chain and PNGRB must be read through Renewable integration, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 521.423
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 454.755
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 895,
+      "markdown_body_line_end": 899,
+      "heading": "VISUAL FIRST",
+      "preview": "PETROLEUM VALUE CHAIN AND PNGRB",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 927,
+      "markdown_body_line_end": 934,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 437.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 340.223
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 946,
+      "markdown_body_line_end": 946,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Energy security and import denominators must be read through RPO, REC and finance and Energy efficiency and rebound, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 172.023
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 105.355
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 961,
+      "markdown_body_line_end": 968,
+      "heading": "VISUAL FIRST",
+      "preview": "ENERGY SECURITY AND IMPORT DENOMINATORS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 679.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 608.091
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 997,
+      "markdown_body_line_end": 1004,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 225.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 119.673
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1016,
+      "markdown_body_line_end": 1016,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Renewable integration, efficiency and status must be read through Fuel pricing and transition and Targets and legal status, with the formula or legal perimeter stated before the policy inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1031,
+      "markdown_body_line_end": 1038,
+      "heading": "VISUAL FIRST",
+      "preview": "RENEWABLE INTEGRATION, EFFICIENCY AND STATUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 313.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1067,
+      "markdown_body_line_end": 1074,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 713.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 607.673
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1078,
+      "markdown_body_line_end": 1083,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Economy | **Tier:** Must-Do (exam-complete Core) | **GS Paper:** GS-III + Prelims, with GS-I geography, GS-II/IR and Environment links. **Official owner:** “Infrastructure: Energy, Ports, Roads, Airports, Railways etc.” ✅ = sou",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 607.673
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 498.405
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1089,
+      "markdown_body_line_end": 1112,
+      "heading": "1. Core boundary",
+      "preview": "RESOURCE / IMPORT",
+      "metadata": {
+        "language": "text",
+        "line_count": 22,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 457.205
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 226.205
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1122,
+      "markdown_body_line_end": 1124,
+      "heading": "1. Core boundary",
+      "preview": "**Core proposition:** Energy infrastructure succeeds only when adequate energy is delivered reliably and affordably at the point of use. Installed capacity, a connection or an announced project is not by itself an energy-service outcome.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 119.005
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 74.337
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1128,
+      "markdown_body_line_end": 1148,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 19,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 169.49
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1152,
+      "markdown_body_line_end": 1164,
+      "heading": "3. High-value distinctions",
+      "preview": "Do not confuse | Correct distinction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Do not confuse",
+          "Correct distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 417.49
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1170,
+      "markdown_body_line_end": 1174,
+      "heading": "4.1 Electricity must balance in real time",
+      "preview": "generation + imports + discharge",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 376.49
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 335.49
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1212,
+      "markdown_body_line_end": 1219,
+      "heading": "5.1 Generation",
+      "preview": "Source | Economic strength | Main constraint",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Source",
+          "Economic strength",
+          "Main constraint"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 713.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 505.89
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1221,
+      "markdown_body_line_end": 1222,
+      "heading": "5.1 Generation",
+      "preview": "🔑 **Trap:** “No fuel cost” does not mean “zero system cost.” Capital, transmission, balancing, storage, land, recycling and backup still matter.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 505.89
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 461.222
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1253,
+      "markdown_body_line_end": 1262,
+      "heading": "5.4 Distribution",
+      "preview": "power purchase cost",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 28
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1282,
+      "markdown_body_line_end": 1284,
+      "heading": "6.1 Electricity Act, 2003 - durable architecture",
+      "preview": "**Legal-vintage caution:** The **Electricity (Amendment) Bill, 2025** is a Bill/proposal, not the Electricity Act merely because the Economic Survey discusses it. Always distinguish an enacted provision from a proposed reform.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 488.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 443.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1288,
+      "markdown_body_line_end": 1301,
+      "heading": "6.2 Institutional map",
+      "preview": "Institution | Core function",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 12,
+        "headers": [
+          "Institution",
+          "Core function"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 421.424
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 97.622
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1303,
+      "markdown_body_line_end": 1304,
+      "heading": "6.2 Institutional map",
+      "preview": "🔑 **Acronym trap:** **REC Limited** is a power-sector finance company; an **REC** in the renewable market is a Renewable Energy Certificate. Context determines the meaning.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 97.622
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 52.954
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1335,
+      "markdown_body_line_end": 1343,
+      "heading": "7.3 PPA risk",
+      "preview": "Risk | Example",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Risk",
+          "Example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 473.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 300.29
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1360,
+      "markdown_body_line_end": 1368,
+      "heading": "8.2 Subsidy architecture",
+      "preview": "below-cost tariff directed by state",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1414,
+      "markdown_body_line_end": 1421,
+      "heading": "9.3 Vicious cycle",
+      "preview": "under-recovery",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 160.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 89.091
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1425,
+      "markdown_body_line_end": 1433,
+      "heading": "9.4 Reform instruments",
+      "preview": "Instrument | Function | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Instrument",
+          "Function",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 547.09
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1435,
+      "markdown_body_line_end": 1436,
+      "heading": "9.4 Reform instruments",
+      "preview": "🔑 **Formula caution:** AT&C loss and ACS-ARR gap measure different problems. A DISCOM may reduce theft yet remain loss-making because tariff/subsidy/PPA costs remain adverse.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 547.09
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 502.422
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1442,
+      "markdown_body_line_end": 1451,
+      "heading": "10.1 Access ladder",
+      "preview": "network reaches settlement",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 461.422
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 370.422
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1474,
+      "markdown_body_line_end": 1475,
+      "heading": "10.3 Important programmes",
+      "preview": "**Access trap:** Free/cheap connection does not ensure affordable recurring consumption, reliable supply, productive appliances or LPG refills.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 84.622
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 39.954
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1487,
+      "markdown_body_line_end": 1491,
+      "heading": "11.2 Value chain",
+      "preview": "exploration -> mine allocation/approval -> extraction/washing",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 694.691
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 653.691
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1513,
+      "markdown_body_line_end": 1514,
+      "heading": "11.4 Coal institutions",
+      "preview": "**Prelims trap:** The Coal Controller is not Coal India’s commercial management body and does not itself allocate every coal block.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 369.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 325.224
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1520,
+      "markdown_body_line_end": 1524,
+      "heading": "12.1 Upstream-midstream-downstream",
+      "preview": "Segment | Activities",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Segment",
+          "Activities"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 284.224
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 196.022
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1539,
+      "markdown_body_line_end": 1544,
+      "heading": "12.3 Crude, refinery and product distinction",
+      "preview": "imported/domestic crude",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1550,
+      "markdown_body_line_end": 1556,
+      "heading": "12.4 Natural gas chain",
+      "preview": "domestic gas or imported LNG",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 695.091
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 634.091
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1578,
+      "markdown_body_line_end": 1580,
+      "heading": "12.5 Petroleum pricing and taxation",
+      "preview": "**Tax trap:** Constitutionally listed petroleum products were not automatically subjected to GST from day one. Their GST levy awaits the prescribed Council/government decision; existing excise/VAT arrangements must be read product-wise and ",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 370.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 311.424
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1586,
+      "markdown_body_line_end": 1592,
+      "heading": "13.1 Five dimensions",
+      "preview": "Dimension | Question",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Dimension",
+          "Question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 270.424
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 139.822
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1596,
+      "markdown_body_line_end": 1602,
+      "heading": "13.2 Import-shock transmission",
+      "preview": "global oil/gas/coal price or supply shock",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1619,
+      "markdown_body_line_end": 1621,
+      "heading": "13.3 Security instruments",
+      "preview": "**Self-sufficiency trap:** Energy security does not require producing every unit domestically. A diversified, efficient, well-stocked and financially viable import system can be more secure than costly single-source autarky.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 518.091
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 473.424
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1636,
+      "markdown_body_line_end": 1641,
+      "heading": "14.2 Variable-renewable integration",
+      "preview": "forecasting + transmission + flexible generation",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 307.224
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 256.224
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1702,
+      "markdown_body_line_end": 1709,
+      "heading": "15.2 Policy architecture",
+      "preview": "Instrument | Mechanism",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Instrument",
+          "Mechanism"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 328.691
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 165.69
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1711,
+      "markdown_body_line_end": 1712,
+      "heading": "15.2 Policy architecture",
+      "preview": "**Efficiency trap:** Lower energy use per unit can coexist with higher total energy use if output or appliance use expands—the rebound effect.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 165.69
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 121.022
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1762,
+      "markdown_body_line_end": 1770,
+      "heading": "17.1 Transition is system change",
+      "preview": "efficiency",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 291.491
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 210.491
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1792,
+      "markdown_body_line_end": 1799,
+      "heading": "18. Environmental and social safeguards",
+      "preview": "Infrastructure | Main risk",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Infrastructure",
+          "Main risk"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 735.691
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 583.89
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1895,
+      "markdown_body_line_end": 1901,
+      "heading": "20.4 2021 GS-III - Green Grid Initiative and International Solar Alliance",
+      "preview": "different time zones + diverse renewable profiles",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1945,
+      "markdown_body_line_end": 1952,
+      "heading": "E-N-E-R-G-Y",
+      "preview": "E - Energy mix, demand and access diagnosis",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 232.491
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 161.491
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2014,
+      "markdown_body_line_end": 2018,
+      "heading": "24.2 Feedstock comparison - why the 2025 Prelims question matters",
+      "preview": "Producer | Principal feedstock | Core economic logic",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Producer",
+          "Principal feedstock",
+          "Core economic logic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 609.49
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2043,
+      "markdown_body_line_end": 2046,
+      "heading": "24.3 Policy trade-offs this file must carry (not merely list feedstocks)",
+      "preview": "🔑 **Prelims trap:** Brazil's ethanol economics and the US's ethanol economics rest on different feedstocks with different conversion chemistry (direct sugar fermentation versus starch hydrolysis); India's programme deliberately combines bot",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 291.89
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 233.022
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2125,
+      "markdown_body_line_end": 2132,
+      "heading": "27. Core limitations and trade-offs",
+      "preview": "# | Trade-off | Why it is genuinely double-edged",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "#",
+          "Trade-off",
+          "Why it is genuinely double-edged"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 662.891
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 287.09
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2138,
+      "markdown_body_line_end": 2143,
+      "heading": "28.1 Directive decoder",
+      "preview": "Directive word | What the examiner is actually asking for",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Directive word",
+          "What the examiner is actually asking for"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 246.09
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 91.888
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2164,
+      "markdown_body_line_end": 2183,
+      "heading": "28.4 10/15/20 mark-scaling template",
+      "preview": "10 MARKS (150 words)",
+      "metadata": {
+        "language": "text",
+        "line_count": 18,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 629.691
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 428.691
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2187,
+      "markdown_body_line_end": 2192,
+      "heading": "28.5 Reasoned-verdict template",
+      "preview": "\"[Policy/target/programme] shows measurable progress through [named evidence/anchor from §25-26]; however, [trade-off from §27] means the achievement is [qualified — capacity not generation / early target-meeting not trade-off-free / financ",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 428.691
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 319.424
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2198,
+      "markdown_body_line_end": 2200,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 319.424
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 224.356
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2206,
+      "markdown_body_line_end": 2209,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 664.89
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2216,
+      "markdown_body_line_end": 2216,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 608.49
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 563.822
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2223,
+      "markdown_body_line_end": 2225,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The offi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 563.822
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 468.754
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2231,
+      "markdown_body_line_end": 2240,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 8,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 279.39
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2253,
+      "markdown_body_line_end": 2253,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 119.79
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 75.122
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3152,
+      "markdown_body_line_end": 3158,
+      "heading": "20.4 2021 GS-III - Green Grid Initiative and International Solar Alliance",
+      "preview": "different time zones + diverse renewable profiles",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 723.091
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3215,
+      "markdown_body_line_end": 3219,
+      "heading": "24.2 Feedstock comparison - why the 2025 Prelims question matters",
+      "preview": "Producer | Principal feedstock | Core economic logic",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Producer",
+          "Principal feedstock",
+          "Core economic logic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 609.49
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3244,
+      "markdown_body_line_end": 3247,
+      "heading": "24.3 Policy trade-offs this file must carry (not merely list feedstocks)",
+      "preview": "🔑 **Prelims trap:** Brazil's ethanol economics and the US's ethanol economics rest on different feedstocks with different conversion chemistry (direct sugar fermentation versus starch hydrolysis); India's programme deliberately combines bot",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 291.89
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 233.022
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3251,
+      "markdown_body_line_end": 3253,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 233.022
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 137.954
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3259,
+      "markdown_body_line_end": 3262,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 664.89
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3269,
+      "markdown_body_line_end": 3269,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 608.49
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 563.822
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3276,
+      "markdown_body_line_end": 3278,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The offi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 563.822
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 468.754
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3284,
+      "markdown_body_line_end": 3293,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 8,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 279.39
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3306,
+      "markdown_body_line_end": 3306,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 119.79
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 75.122
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3603,
+      "markdown_body_line_end": 3607,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Economy | **Tier:** Advanced optional enrichment | **GS Paper:** GS-III. **Firewall:** Core contains every indispensable definition, institution, scheme, trap and PYQ answer architecture. *Core owner: `../basic/31_Energy-Infras",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 722.691
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 663.824
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3613,
+      "markdown_body_line_end": 3623,
+      "heading": "1. Welfare model of an energy system",
+      "preview": "social value",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 622.624
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 521.624
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3631,
+      "markdown_body_line_end": 3637,
+      "heading": "2. Natural monopoly and contestable layers",
+      "preview": "Layer | Market property | Governance implication",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Layer",
+          "Market property",
+          "Governance implication"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 471.224
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 318.222
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3661,
+      "markdown_body_line_end": 3665,
+      "heading": "4. Cross-subsidy political economy",
+      "preview": "T_i = tariff charged to consumer class i",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 766.291
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3690,
+      "markdown_body_line_end": 3703,
+      "heading": "5. DISCOM cash-flow decomposition",
+      "preview": "cash inflow",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 32
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 482.491
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 351.491
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3772,
+      "markdown_body_line_end": 3776,
+      "heading": "Cannibalisation",
+      "preview": "high midday solar supply",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 311.491
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 270.491
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3780,
+      "markdown_body_line_end": 3784,
+      "heading": "Duck curve",
+      "preview": "midday: net demand falls with solar",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 248.491
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 207.491
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3813,
+      "markdown_body_line_end": 3817,
+      "heading": "Duration choice",
+      "preview": "Need | Suitable economic question",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Need",
+          "Suitable economic question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 609.691
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 521.49
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3845,
+      "markdown_body_line_end": 3848,
+      "heading": "10. LCOE versus system value",
+      "preview": "system value = energy value + capacity value + flexibility value",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 182.09
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 151.09
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3871,
+      "markdown_body_line_end": 3879,
+      "heading": "Transmission",
+      "preview": "oil price rise",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 677.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 596.291
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3883,
+      "markdown_body_line_end": 3890,
+      "heading": "Policy choices",
+      "preview": "Response | Benefit | Cost",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Response",
+          "Benefit",
+          "Cost"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 574.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 422.49
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3896,
+      "markdown_body_line_end": 3903,
+      "heading": "13. Import portfolio and security",
+      "preview": "expected cost",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 381.29
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 310.29
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3943,
+      "markdown_body_line_end": 3948,
+      "heading": "15. Fossil-fuel subsidy reform",
+      "preview": "Type | Example",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Type",
+          "Example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 612.491
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 503.09
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4049,
+      "markdown_body_line_end": 4055,
+      "heading": "20. Distributional incidence",
+      "preview": "who pays the tariff/tax?",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4066,
+      "markdown_body_line_end": 4077,
+      "heading": "21. Evaluation dashboard",
+      "preview": "Dimension | Metric family",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Dimension",
+          "Metric family"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 639.291
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 402.69
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4095,
+      "markdown_body_line_end": 4103,
+      "heading": "DISCOM reform",
+      "preview": "diagnose: technical + commercial + tariff + subsidy + PPA + governance",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 215.29
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 134.29
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4107,
+      "markdown_body_line_end": 4114,
+      "heading": "Energy security",
+      "preview": "demand efficiency",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4118,
+      "markdown_body_line_end": 4124,
+      "heading": "Renewable transition",
+      "preview": "capacity auction",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 694.291
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 633.291
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4128,
+      "markdown_body_line_end": 4129,
+      "heading": "24. Firewall and study links",
+      "preview": "**Historical-route firewall:** Core contains the complete answer architecture; historical PYQs route to Core, and no PYQ depends on this file.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 633.291
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 566.624
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4178,
+      "markdown_body_line_end": 4186,
+      "heading": "Energy Infrastructure Economics, Power, Fuels and Energy Security: ANSWER-WRITING SPINE",
+      "preview": "DEFINE THE MEASURE OR INSTITUTION AND FIX ITS COVERAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 704.291
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4196,
+      "markdown_body_line_end": 4202,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Energy-service value rail",
+      "preview": "PRIMARY RESOURCE / IMPORT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 570.691
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 508.691
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4206,
+      "markdown_body_line_end": 4211,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Power-energy distinction",
+      "preview": "MW / GW -> power capacity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 34
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 486.691
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 434.891
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4215,
+      "markdown_body_line_end": 4220,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Electricity-layer map",
+      "preview": "GENERATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 31
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 412.891
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 361.091
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4224,
+      "markdown_body_line_end": 4229,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Real-time balance board",
+      "preview": "GENERATION + IMPORT + DISCHARGE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 339.091
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 287.291
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4233,
+      "markdown_body_line_end": 4238,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Institutional perimeter",
+      "preview": "CEA -> technical planning",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 30
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4242,
+      "markdown_body_line_end": 4248,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Tariff-finance split",
+      "preview": "EXPLICIT STATE SUBSIDY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4252,
+      "markdown_body_line_end": 4257,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: DISCOM diagnostic",
+      "preview": "AT&C -> energy recovery",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 36
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 577.691
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4261,
+      "markdown_body_line_end": 4266,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Petroleum perimeter",
+      "preview": "UPSTREAM -> production",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 555.691
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 503.891
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4270,
+      "markdown_body_line_end": 4275,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Energy-security dimensions and resilience pentagon",
+      "preview": "PHYSICAL AVAILABILITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 481.891
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 430.091
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4279,
+      "markdown_body_line_end": 4284,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Renewable-integration chain",
+      "preview": "VARIABLE CAPACITY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 28
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 408.091
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 356.291
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4288,
+      "markdown_body_line_end": 4293,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Status and unit ladder",
+      "preview": "ANNOUNCED / BILL",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 30
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 113,
+          "frame_y": 334.291
+        },
+        "end": {
+          "page": 113,
+          "frame_y": 282.491
+        }
+      },
+      "pdf_pages": [
+        113
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4297,
+      "markdown_body_line_end": 4303,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Energy-economics answer spine",
+      "preview": "DEFINE carrier + unit + layer",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 114,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 114,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        114
+      ]
+    }
+  ]
+}

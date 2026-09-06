@@ -1,0 +1,14 @@
+{
+  "topic_key": "geography-26",
+  "locked_at": "2026-09-05T06:21:27.418089+00:00",
+  "master_tracker_identity": "geography-26:learner-v2:g6",
+  "generation": 6,
+  "approval": false,
+  "hashes": {
+    "markdown": "fb108914c91fb6a54b2980b1c9aa314f398d492602b1577f6f33349e0bab9e8d",
+    "main_pdf": "19135a51da1277c4b1f4555289fb7e11c8a4e63a7d6f295207674c4280a59fee",
+    "workbook": "d8898216b72c2c90800ab75875d24852cc0cc26b31bc137718e84f640c8820a3",
+    "graphical_master": "ef448eac6bf6a3c1a6b4006635541f89262988856445b6b0b4ae54944ed12f40",
+    "ascii_master": "5b8e24d045b472a0b8173369ead59757be2bc1b2b3ca7d56bfb2bfd10bbc5d1f"
+  }
+}

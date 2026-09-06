@@ -1,0 +1,14 @@
+{
+  "topic_key": "geography-32-industries-and-industrial-regions",
+  "locked_at": "2026-09-05T07:14:31.535865+00:00",
+  "master_tracker_identity": "geography-32-industries-and-industrial-regions:learner-v2:g16",
+  "generation": 16,
+  "approval": false,
+  "hashes": {
+    "markdown": "75b8de7cc2657c107351f64b872f2f1b59ffc3d72a7cfe6cdd626a4a94667a9b",
+    "main_pdf": "35e791fe43b9e4fc6c2e5e071a522e98e967eb4fe4232f7eb018a0ae2472f880",
+    "workbook": "29163bd3e3bb5aa65f2ebf0beabb79dbc204b970fe29c3997afca395626366b6",
+    "graphical_master": "6517b9a75c8b33d7c5c7f2f371be63cff7e250d39bc6d9524a2379ec2f3ceeaa",
+    "ascii_master": "6f103aeba4881a1390ee43fbcb4051d8af8cd0365510b79b240c978a7ea6b04e"
+  }
+}

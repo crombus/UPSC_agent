@@ -1,0 +1,86 @@
+ASCII MASTER FLOW — PANEL 1/12: Red List category rail
+NE -> criteria not yet applied
+DD -> evidence inadequate for a risk assessment
+LC -> NT -> VU -> EN -> CR -> EW -> EX
+THREATENED -> VU + EN + CR only
+RULE -> category is assessed risk, not legal protection
+MUST REMEMBER: IUCN Red List categories assess extinction risk through documented...
+
+ASCII MASTER FLOW — PANEL 2/12: Status fields firewall
+CATEGORY -> assessed extinction-risk class
+CRITERION -> quantitative route supporting the category
+TREND -> increasing, stable, decreasing or unknown
+SCALE -> global or regional/national assessment
+DATE -> assessment vintage; never silently omit it
+
+ASCII MASTER FLOW — PANEL 3/12: Criteria A to E map
+A -> population-size reduction
+B -> restricted range plus applicable subconditions
+C -> small population plus continuing decline
+D -> very small or very restricted population
+E -> quantitative extinction-probability analysis
+
+ASCII MASTER FLOW — PANEL 4/12: One-route decision gate
+ASSESS TAXON -> test Criteria A to E
+ONE ROUTE MAY SUFFICE -> only for its applicable category
+CHECK -> threshold, subcriterion, evidence and scale
+DOCUMENT -> category plus criterion plus assessment year
+NEVER -> infer a threshold from the category name alone
+
+ASCII MASTER FLOW — PANEL 5/12: NE and DD diagnostic
+WERE THE CRITERIA APPLIED?
+NO -> Not Evaluated
+YES, BUT EVIDENCE INADEQUATE -> Data Deficient
+DD -> uncertainty, not reassurance
+RULE -> neither label establishes Least Concern
+
+ASCII MASTER FLOW — PANEL 6/12: Distribution vocabulary
+NATIVE -> naturally occurs in the stated region
+ENDEMIC -> naturally restricted to the stated region
+RARE -> low abundance or occurrence under a stated measure
+THREATENED -> VU, EN or CR assessment outcome
+RULE -> overlap does not erase distinct meanings
+CLOSE DISTINCTION: IUCN category is not Wildlife Protection Act schedule, CITES appendix,...
+
+ASCII MASTER FLOW — PANEL 7/12: Endemism risk pathway
+RESTRICTED NATURAL RANGE -> fewer spatial refuges
+LOCAL HABITAT LOSS -> affects a larger share of total range
+ISOLATION -> weaker natural recolonisation
+RESULT -> vulnerability may rise
+LIMIT -> endemic does not automatically mean threatened
+
+ASCII MASTER FLOW — PANEL 8/12: Assessment scale lens
+GLOBAL ASSESSMENT -> taxon across its global range
+REGIONAL ASSESSMENT -> taxon inside a stated region
+DIFFERENT SCOPE -> categories may differ
+POPULATION TREND -> separately reported field
+ANSWER RULE -> state scale, year and evidence
+
+ASCII MASTER FLOW — PANEL 9/12: Assessment workflow
+EVIDENCE -> specialist assessment
+CRITERIA -> documented application
+REVIEW -> consistency and supporting information
+PUBLICATION -> category tied to assessment record
+REASSESSMENT -> later change needs a dated source
+
+ASCII MASTER FLOW — PANEL 10/12: Red List and Green Status
+RED LIST -> extinction risk
+GREEN STATUS -> recovery and conservation impact
+SAME TAXON -> two different analytical questions
+NO SUBSTITUTION -> recovery metric does not erase risk category
+USE -> pair risk diagnosis with recovery ambition
+
+ASCII MASTER FLOW — PANEL 11/12: Science law action chain
+IUCN RED LIST -> scientific global or regional risk assessment
+WILDLIFE LAW -> domestic prohibition, permit and schedule rules
+COURT OR AGENCY -> remedy and implementation choices
+HABITAT ACTION -> mitigation, connectivity and monitoring
+RULE -> no layer automatically determines the next
+
+ASCII MASTER FLOW — PANEL 12/12: PYQ and answer spine
+DEFINE -> category, criterion, trend and scale
+DISTINGUISH -> endemic, native, rare and threatened
+APPLY -> one source-bounded Indian species or habitat route
+QUALIFY -> assessment year and no inferred objective key
+CONCLUDE -> assessment must translate into habitat and legal action
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use taxonomic identity, assessment...

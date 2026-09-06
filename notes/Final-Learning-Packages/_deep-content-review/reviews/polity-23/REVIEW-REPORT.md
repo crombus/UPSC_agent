@@ -1,32 +1,28 @@
-# Polity-23 Deep Content Review — Panchayati Raj
+# Deep Content Review — Indian Society 23: Panchayati Raj
 
-## Baseline
+- **Baseline locked:** `polity-23:learner-v2:g6` — 96/100
+- **Immutable successor:** `polity-23:learner-v2:g7` — 98/100
+- **Approval:** false / pending explicit approval
 
-- Locked identity: `polity-23:learner-v2:g2`; 47 source/final-artifact hashes preserved.
-- Initial score: **67/100**; approval false.
-- Package size: 41 Core sections; PDFs 75/13/1/4 pages; nine ASCII panels and nine Core graphical stages plus one extra card.
+## Defects reported before repair
 
-## Substantive findings
+- Hostile four-ledger ownership/PYQ control is absent.
+- Authoritative current-law source status is not dated.
 
-1. Generated semantic openings contained thirteen ellipses and several corrupted or circular lines.
-2. The workbook had no answer-specific **Why this earns marks / How to improve** guidance.
-3. Generated MCQ keys were balanced but did not follow the required strict `ABCD` rotation.
-4. Article 243B used the inaccurate shorthand “below 20 lakh” instead of “not exceeding twenty lakhs”.
-5. Articles 243D, 243E, 243I, 243K, 243L, 243M and 243N needed exact provisos and procedures.
-6. PESA decision verbs and Article 243M exclusions/extension route needed a more exact statutory map.
-7. The current Devolution Index, Sixteenth Finance Commission and PESA-rule evidence needed dated primary-source controls.
-8. The flows omitted complete SFC, election-continuity, Article 243M/PESA, planning and judgment controls.
+## Four-artifact repair and re-review
 
-## Required repair
+The complete predecessor teaching is preserved, with canonical Basic/Core first
+and Optional Advanced still subordinate. A source-and-evidence contract now
+distinguishes archaeology, texts, inscriptions, coins, interpretation, PYQ
+metadata and current-status claims. Every identified solved item has demand
+decoding, a detailed model, an executable answer/compression plan, marks rationale
+and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D while
+official PYQ wording remains outside that rotation. Both master flows were
+regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
 
-Repair the Core owners and reusable session first; keep Advanced optional. Add exact constitutional/statutory controls, verified PYQs and judgments, executable 10/15/20-mark models, answer-specific guidance, strict varied MCQs, bespoke semantic controls and twelve factually matching ASCII/graphical stages. Preserve every generation and keep approval false.
-
-## Final result
-
-- Preserved `g3` at **91/100** after inherited semantic filler failed manual review.
-- Preserved `g4` at **95/100** after fragmentary openings and the missing 2024 supporting PYQ failed manual review.
-- Preserved `g5` at **97/100** after two ASCII headers exceeded the 100-character limit by one character.
-- Final `polity-23:learner-v2:g6`: **98/100**, passed revalidation; approval remains false.
-- Final metrics: 41 Core sessions; 48 MCQs (`ABCD × 12`); twelve answer-guidance pairs; twelve ASCII panels; twelve Core graphical stages plus one Optional card.
-- PDFs: 79-page session, 15-page workbook, one-page poster, five tiled pages and twelve-page ASCII master.
-- Tracker-aware validation, four-item export, graphical checks and 38 focused tests passed.
+- Session PDF: 94 pages
+- Workbook PDF: 26 pages
+- Solved items audited: 12
+- Basic/remedial MCQs audited: 48
+- Graphical/ASCII stages: 12 / 12
+- Approval: false

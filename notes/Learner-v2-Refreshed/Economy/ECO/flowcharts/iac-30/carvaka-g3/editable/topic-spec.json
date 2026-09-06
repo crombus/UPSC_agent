@@ -1,0 +1,1001 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "economy-30",
+  "subject": "Economy",
+  "title": "ECONOMICS OF ANIMAL REARING, LIVESTOCK, DAIRY, POULTRY AND FISHERIES",
+  "short_route": "ANIMAL-ECONOMY VALUE RAIL → STOCK-FLOW-STATISTICS SPLIT → LIFETIME-RETURN BOARD → PRODUCTIVITY COMPLEMENT CHAIN → DAIRY COLLECTION CHAIN → OPERATION FLOOD INSTITUTION MAP",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g3\\economy-30_Complete-Learning-Session_2026-09-06.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\economy-30-deep-review-2026-09-06-g3.json",
+  "ascii_spec_sha256": "75d40e6b5063c7a4538603b7962af94ac2da94f99d5c714918a54eb9a143984f",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "ANIMAL-ECONOMY VALUE RAIL",
+      "structural_type": "value-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "ANIMAL-ECONOMY VALUE RAIL",
+          "role": "primary"
+        },
+        {
+          "text": "BIOLOGICAL ASSET",
+          "role": "outcome"
+        },
+        {
+          "text": "INPUT + HEALTH SYSTEM",
+          "role": "comparison"
+        },
+        {
+          "text": "PRODUCT FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "MARKET + HOUSEHOLD WELFARE",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "ANIMAL REARING ECONOMICS SPANS BREEDING, FEED, HEALTH, HOUSING, EXTENSION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "BIOLOGICAL ASSET",
+        "INPUT + HEALTH SYSTEM",
+        "PRODUCT FLOW",
+        "MARKET + HOUSEHOLD WELFARE",
+        "MUST REMEMBER: Animal rearing economics spans breeding, feed, health, housing, extension"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "BIOLOGICAL ASSET",
+            "INPUT + HEALTH SYSTEM"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PRODUCT FLOW",
+            "MARKET + HOUSEHOLD WELFARE"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Animal rearing economics spans breeding, feed, health, housing, extension,...",
+            "BIOLOGICAL ASSET"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Animal rearing economics spans breeding, feed, health, housing, extension,.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g3\\economy-30_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "STOCK-FLOW-STATISTICS SPLIT",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "STOCK-FLOW-STATISTICS SPLIT",
+          "role": "mechanism"
+        },
+        {
+          "text": "LIVESTOCK CENSUS",
+          "role": "outcome"
+        },
+        {
+          "text": "ANNUAL PRODUCTION FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "COMPILED PUBLICATION",
+          "role": "evidence"
+        },
+        {
+          "text": "YEAR + INSTRUMENT MUST MATCH",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "LIVESTOCK CENSUS → stock",
+        "ISS → annual production flow",
+        "BAHS → compiled publication",
+        "YEAR + instrument must match"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "LIVESTOCK CENSUS → stock",
+          "BAHS → compiled publication",
+          "LIVESTOCK CENSUS → stock"
+        ],
+        [
+          "ISS → annual production flow",
+          "YEAR + instrument must match",
+          "ISS → annual production flow"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LIVESTOCK CENSUS → stock",
+            "ISS → annual production flow"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BAHS → compiled publication",
+            "YEAR + instrument must match"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LIVESTOCK CENSUS → stock",
+            "ISS → annual production flow"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BAHS → compiled publication; YEAR + instrument must match.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g3\\economy-30_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "LIFETIME-RETURN BOARD",
+      "structural_type": "formula-board",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LIFETIME-RETURN BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "OUTPUT + OFFSPRING + ASSET VALUE",
+          "role": "outcome"
+        },
+        {
+          "text": "FEED + HEALTH + LABOUR",
+          "role": "comparison"
+        },
+        {
+          "text": "MORTALITY + FINANCE + LOSS",
+          "role": "evidence"
+        },
+        {
+          "text": "= NET ENTERPRISE RETURN",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "OUTPUT + OFFSPRING + ASSET VALUE",
+        "FEED + HEALTH + LABOUR",
+        "MORTALITY + FINANCE + LOSS",
+        "= NET ENTERPRISE RETURN"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OUTPUT + OFFSPRING + ASSET VALUE",
+            "FEED + HEALTH + LABOUR"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MORTALITY + FINANCE + LOSS",
+            "= NET ENTERPRISE RETURN"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "OUTPUT + OFFSPRING + ASSET VALUE",
+            "FEED + HEALTH + LABOUR"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MORTALITY + FINANCE + LOSS; = NET ENTERPRISE RETURN.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g3\\economy-30_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "PRODUCTIVITY COMPLEMENT CHAIN",
+      "structural_type": "bottleneck-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "PRODUCTIVITY COMPLEMENT CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "GENETICS X FEED X HEALTH + MANAGEMENT X CLIMATE",
+          "role": "outcome"
+        },
+        {
+          "text": "GENETICS X FEED X",
+          "role": "comparison"
+        },
+        {
+          "text": "HEALTH + MANAGEMENT X",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GENETICS x FEED x HEALTH + MANAGEMENT x CLIMATE + MARKET"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GENETICS x FEED x HEALTH + MANAGEMENT x CLIMATE + MARKET",
+            "GENETICS x FEED x HEALTH + MANAGEMENT x CLIMATE + MARKET"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "GENETICS x FEED x HEALTH + MANAGEMENT x CLIMATE + MARKET",
+            "GENETICS x FEED x HEALTH + MANAGEMENT x CLIMATE + MARKET"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GENETICS x FEED x HEALTH + MANAGEMENT x CLIMATE + MARKET",
+            "GENETICS x FEED x HEALTH + MANAGEMENT x CLIMATE + MARKET"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GENETICS x FEED x HEALTH + MANAGEMENT x CLIMATE + MARKET.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g3\\economy-30_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "DAIRY COLLECTION CHAIN",
+      "structural_type": "value-chain",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "DAIRY COLLECTION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "MILKING HOUSEHOLD",
+          "role": "outcome"
+        },
+        {
+          "text": "TESTING + PAYMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "CHILLING + PROCESSING",
+          "role": "evidence"
+        },
+        {
+          "text": "CONSUMER + PRODUCER SHARE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "MILKING HOUSEHOLD",
+        "TESTING + PAYMENT",
+        "CHILLING + PROCESSING",
+        "CONSUMER + PRODUCER SHARE"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MILKING HOUSEHOLD",
+            "TESTING + PAYMENT"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CHILLING + PROCESSING",
+            "CONSUMER + PRODUCER SHARE"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MILKING HOUSEHOLD",
+            "TESTING + PAYMENT"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TESTING + PAYMENT; CHILLING + PROCESSING; CONSUMER + PRODUCER SHARE.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g3\\economy-30_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "OPERATION FLOOD INSTITUTION MAP",
+      "structural_type": "institution-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "OPERATION FLOOD INSTITUTION MAP",
+          "role": "institution"
+        },
+        {
+          "text": "VILLAGE SOCIETY",
+          "role": "outcome"
+        },
+        {
+          "text": "DISTRICT UNION",
+          "role": "comparison"
+        },
+        {
+          "text": "STATE FEDERATION",
+          "role": "institution"
+        },
+        {
+          "text": "AUTOMATIC GOOD GOVERNANCE",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "LIVESTOCK POPULATION IS A STOCK, MILK/EGG/FISH OUTPUT IS A",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "VILLAGE SOCIETY",
+        "DISTRICT UNION",
+        "STATE FEDERATION",
+        "COOPERATIVE != automatic good governance",
+        "CLOSE DISTINCTION: Livestock population is a stock, milk/egg/fish output is a flow"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "VILLAGE SOCIETY",
+            "DISTRICT UNION"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STATE FEDERATION",
+            "COOPERATIVE != automatic good governance"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Livestock population is a stock, milk/egg/fish output is a flow,...",
+            "VILLAGE SOCIETY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Livestock population is a stock, milk/egg/fish output is a flow,.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g3\\economy-30_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "POULTRY RISK ALLOCATION",
+      "structural_type": "principal-agent-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "POULTRY RISK ALLOCATION",
+          "role": "caution"
+        },
+        {
+          "text": "CHICK + FEED + MARKET",
+          "role": "outcome"
+        },
+        {
+          "text": "SHED + LABOUR + UTILITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "MORTALITY + QUALITY RULES",
+          "role": "evidence"
+        },
+        {
+          "text": "RISK REALLOCATED, NOT ERASED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "INTEGRATOR → chick + feed + market",
+        "FARMER → shed + labour + utilities",
+        "CONTRACT → mortality + quality rules",
+        "RISK REALLOCATED, not erased"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INTEGRATOR → chick + feed + market",
+            "FARMER → shed + labour + utilities"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONTRACT → mortality + quality rules",
+            "RISK REALLOCATED, not erased"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INTEGRATOR → chick + feed + market",
+            "FARMER → shed + labour + utilities"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONTRACT → mortality + quality rules; RISK REALLOCATED, not erased.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g3\\economy-30_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "DISEASE EXTERNALITY LOOP",
+      "structural_type": "risk-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "DISEASE EXTERNALITY LOOP",
+          "role": "primary"
+        },
+        {
+          "text": "NETWORK TRANSMISSION",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSET + PUBLIC-HEALTH LOSS",
+          "role": "comparison"
+        },
+        {
+          "text": "SURVEILLANCE + COMPENSATION + BIOSECURITY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NETWORK TRANSMISSION",
+        "ASSET + PUBLIC-HEALTH LOSS",
+        "SURVEILLANCE + COMPENSATION + BIOSECURITY"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NETWORK TRANSMISSION",
+            "ASSET + PUBLIC-HEALTH LOSS"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SURVEILLANCE + COMPENSATION + BIOSECURITY",
+            "NETWORK TRANSMISSION"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ASSET + PUBLIC-HEALTH LOSS",
+            "SURVEILLANCE + COMPENSATION + BIOSECURITY"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ASSET + PUBLIC-HEALTH LOSS; SURVEILLANCE + COMPENSATION + BIOSECURITY.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g3\\economy-30_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "AQUATIC-SYSTEM SPLIT",
+      "structural_type": "comparison-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AQUATIC-SYSTEM SPLIT",
+          "role": "primary"
+        },
+        {
+          "text": "COMMON-POOL STOCK",
+          "role": "outcome"
+        },
+        {
+          "text": "MANAGED FARMING",
+          "role": "comparison"
+        },
+        {
+          "text": "EFFLUENT + DISEASE BOUNDARIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CAPTURE → common-pool stock",
+        "AQUACULTURE → managed farming",
+        "MSY != MEY",
+        "EFFLUENT + DISEASE boundaries"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CAPTURE → common-pool stock",
+          "MSY != MEY",
+          "CAPTURE → common-pool stock"
+        ],
+        [
+          "AQUACULTURE → managed farming",
+          "EFFLUENT + DISEASE boundaries",
+          "AQUACULTURE → managed farming"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CAPTURE → common-pool stock",
+            "AQUACULTURE → managed farming"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MSY != MEY",
+            "EFFLUENT + DISEASE boundaries"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CAPTURE → common-pool stock",
+            "AQUACULTURE → managed farming"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AQUACULTURE → managed farming; MSY != MEY; EFFLUENT + DISEASE boundaries.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g3\\economy-30_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "IFS CIRCULAR FLOW",
+      "structural_type": "circular-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "IFS CIRCULAR FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "CROP RESIDUE",
+          "role": "outcome"
+        },
+        {
+          "text": "NUTRIENT + INCOME",
+          "role": "comparison"
+        },
+        {
+          "text": "ABSORPTIVE LIMIT PREVENTS WASTE TRANSFER",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CROP RESIDUE → FEED",
+        "MANURE → SOIL / BIOGAS",
+        "POND → NUTRIENT + INCOME",
+        "ABSORPTIVE LIMIT prevents waste transfer"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CROP RESIDUE → FEED",
+            "MANURE → SOIL / BIOGAS"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POND → NUTRIENT + INCOME",
+            "ABSORPTIVE LIMIT prevents waste transfer"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CROP RESIDUE → FEED",
+            "MANURE → SOIL / BIOGAS"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "POND → NUTRIENT + INCOME; ABSORPTIVE LIMIT prevents waste transfer.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g3\\economy-30_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INCLUSION AND VALUE BOARD",
+      "structural_type": "distribution-board",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INCLUSION AND VALUE BOARD",
+          "role": "primary"
+        },
+        {
+          "text": "LANDLESS + SMALLHOLDER",
+          "role": "outcome"
+        },
+        {
+          "text": "WOMEN + PASTORALIST",
+          "role": "comparison"
+        },
+        {
+          "text": "OWNERSHIP + INCOME CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "MARKET POWER + TIME BURDEN",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "LANDLESS + SMALLHOLDER",
+        "WOMEN + PASTORALIST",
+        "OWNERSHIP + INCOME CONTROL",
+        "MARKET POWER + TIME BURDEN"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LANDLESS + SMALLHOLDER",
+            "WOMEN + PASTORALIST"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OWNERSHIP + INCOME CONTROL",
+            "MARKET POWER + TIME BURDEN"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "LANDLESS + SMALLHOLDER",
+            "WOMEN + PASTORALIST"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OWNERSHIP + INCOME CONTROL; MARKET POWER + TIME BURDEN.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g3\\economy-30_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANIMAL-ECONOMY ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANIMAL-ECONOMY ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE ASSET + PRODUCTION SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "TRACE FEED + HEALTH + MARKET",
+          "role": "comparison"
+        },
+        {
+          "text": "TEST INCLUSION + BIOSECURITY",
+          "role": "evidence"
+        },
+        {
+          "text": "CONCLUDE LIFETIME NET SOCIAL VALUE",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "STATE SPECIES/PRODUCT, UNIT, DENOMINATOR",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "DEFINE asset + production system",
+        "TRACE feed + health + market",
+        "TEST inclusion + biosecurity",
+        "CONCLUDE lifetime net social value",
+        "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State species/product, unit, denominator"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE asset + production system",
+            "TRACE feed + health + market"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEST inclusion + biosecurity",
+            "CONCLUDE lifetime net social value"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State species/product, unit, denominator,...",
+            "DEFINE asset + production system"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State species/product, unit, denominator,.",
+      "source_references": [
+        "upsc-ai-kit/knowledge/Economy/basic/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit/knowledge/Economy/advanced/30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\basic\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Economy\\advanced\\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Economy\\ECO\\learning-sessions\\iac-30\\g3\\economy-30_Complete-Learning-Session_2026-09-06.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "FAMILY LABOUR AND TIME",
+          "role": "outcome"
+        },
+        {
+          "text": "CROP RESIDUES AND COMMONS ACCESS",
+          "role": "comparison"
+        },
+        {
+          "text": "DEBT AND MORTALITY RISK",
+          "role": "caution"
+        },
+        {
+          "text": "GESTATION AND MATURATION LAG",
+          "role": "primary"
+        },
+        {
+          "text": "REPLACEMENT AND CULLING DECISION",
+          "role": "outcome"
+        },
+        {
+          "text": "FERTILITY AND CALVING/KIDDING INTERVAL",
+          "role": "comparison"
+        },
+        {
+          "text": "FAIL TO REALISE OUTPUT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "family labour and time;",
+            "crop residues and commons access;",
+            "debt and mortality risk",
+            "gestation and maturation lag;"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "replacement and culling decision;",
+            "fertility and calving/kidding interval;",
+            "fail to realise output;",
+            "increase feed and veterinary cost;"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "raise household downside risk.",
+            "land and irrigation for fodder;",
+            "use of by-products and non-arable resources;",
+            "import and ecological footprint."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -40,6 +40,7 @@ MEANS -> shelter, food, medical care and entertainment opportunities
 PLUS -> encouraging productive and active ageing through capacity building
 PARTNERS -> States and Union Territories, non-governmental organisations, Panchayati Raj
 GOALS -> financial security; health and nutrition; shelter; protection of life and property
+CLOSE DISTINCTION: Senior citizen is a statutory or programme category, not a homogeneous...
 
 ASCII MASTER FLOW — PANEL 7/12: Five recorded components
 INTEGRATED PROGRAMME -> maintenance of senior-citizen homes for indigent senior citizens
@@ -68,7 +69,6 @@ NOT COVERED BY IT -> outpatient care, rehabilitation, palliative care, long-term
 PRIMARY AND SECONDARY -> limited geriatric capacity; needs managed informally or in tertiary
 COORDINATION -> integration between the social-justice and health ministries is weak
 RESULT -> an integration failure rather than an absence of schemes
-CLOSE DISTINCTION: Senior citizen is a statutory or programme category, not a homogeneous...
 
 ASCII MASTER FLOW — PANEL 11/12: Abuse typology and suppressors
 PHYSICAL -> violence and restraint
@@ -76,7 +76,6 @@ FINANCIAL AND PROPERTY -> coerced transfer, theft, misuse of funds
 EMOTIONAL -> verbal aggression, isolation, humiliation
 NEGLECT -> failure to provide care, extending to abandonment
 SUPPRESSORS -> dependence on the abuser, shame, family loyalty, fear of abandonment, stigma
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use the Maintenance and Welfare of Parents...
 
 ASCII MASTER FLOW — PANEL 12/12: Demographic series
 1951 -> 1.98 crore elderly persons, as recorded on the scheme page
@@ -84,3 +83,4 @@ ASCII MASTER FLOW — PANEL 12/12: Demographic series
 2011 -> 10.38 crore, as recorded on the same page
 PROJECTED 2021 -> 14.3 crore; PROJECTED 2026 -> 17.3 crore, recorded as projections
 RULE -> cite a recorded count as a count and a projection as a projection
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use the Maintenance and Welfare of Parents...

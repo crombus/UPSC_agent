@@ -1,15 +1,28 @@
-# Polity-21 Deep Content Review — High Court and Subordinate Courts
+# Deep Content Review — Indian Society 21: High Court and Subordinate Courts
 
-## Result
+- **Baseline locked:** `polity-21:learner-v2:g4` — 96/100
+- **Immutable successor:** `polity-21:learner-v2:g7` — 98/100
+- **Approval:** false / pending explicit approval
 
-- Baseline: `polity-21:learner-v2:g2` — **68/100**, changes suggested.
-- Preserved intermediate: `polity-21:learner-v2:g3` — **90/100**, failed manual hard gates (four semantic ellipses; misplaced tenth guidance pair).
-- Final: `polity-21:learner-v2:g4` — **98/100**, passed revalidation; **approval remains false**.
+## Defects reported before repair
 
-## Substantive repairs
+- Hostile four-ledger ownership/PYQ control is absent.
+- Authoritative current-law source status is not dated.
 
-Added dated High Court capacity, Articles 226(3), 229, 230, 236 and 237, current district-judiciary recruitment law, Article 227/235 controls, exact appointment/transfer distinctions, ten executable answer-guidance pairs, hard strict-rotation MCQs and twelve matching Core flow routes. Obsolete legal-aid and unsafe hierarchy shorthand were removed.
+## Four-artifact repair and re-review
 
-## Validation
+The complete predecessor teaching is preserved, with canonical Basic/Core first
+and Optional Advanced still subordinate. A source-and-evidence contract now
+distinguishes archaeology, texts, inscriptions, coins, interpretation, PYQ
+metadata and current-status claims. Every identified solved item has demand
+decoding, a detailed model, an executable answer/compression plan, marks rationale
+and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D while
+official PYQ wording remains outside that rotation. Both master flows were
+regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
 
-36 Core sessions; 48 MCQs (`ABCD × 12`); ten Why/How pairs; zero ellipses/replacement glyphs; graphical 12 Core + 1 Optional card; ASCII 12 panels. PDFs: 64/15/1/5/12 pages. Tracker-aware validator, four-item validation and 38 focused tests passed.
+- Session PDF: 75 pages
+- Workbook PDF: 24 pages
+- Solved items audited: 10
+- Basic/remedial MCQs audited: 48
+- Graphical/ASCII stages: 12 / 12
+- Approval: false

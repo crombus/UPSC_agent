@@ -1,0 +1,12 @@
+{
+  "topic_key": "indian-society-08",
+  "allocated_at": "2026-09-05T10:03:11.992762+00:00",
+  "baseline_record_id": "indian-society-08:learner-v2:g3",
+  "new_record_id": "indian-society-08:learner-v2:g4",
+  "review_state": "revalidation_pending",
+  "scores": null,
+  "approval": false,
+  "prior_generation_immutable": true,
+  "live_export_identity": "indian-society-08:learner-v2:g3",
+  "live_master_identity": "indian-society-08:learner-v2:g3"
+}

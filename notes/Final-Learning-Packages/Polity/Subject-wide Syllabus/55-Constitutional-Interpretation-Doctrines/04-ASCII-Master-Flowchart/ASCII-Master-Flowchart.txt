@@ -3,6 +3,8 @@ TEXT -> STRUCTURE -> HISTORY -> PURPOSE -> BINDING PRECEDENT.
 TRIGGER -> TEST -> CASE/YEAR -> EFFECT -> LIMIT -> REMEDY.
 APPLICATION -> facts must satisfy every operative element.
 DOCTRINE != free-standing Article or slogan.
+MUST REMEMBER: Begin with constitutional text and the legal problem before selecting a
+  doctrine; a case label is not a substitute for an operative test.
 
 ASCII MASTER FLOW — PANEL 2/12: Severability, eclipse and waiver
 R.M.D. Chamarbaugwala v. Union of India (1957) -> separable workable remainder.
@@ -35,6 +37,8 @@ In re Kerala Education Bill (1958) -> meaningful reconciliation.
 Kedar Nath Singh (1962) -> reading down within text.
 READING INTO -> strong constitutional basis; cannot create a complete code.
 SEVER / STRIKE -> only after saving construction fails.
+CLOSE DISTINCTION: Keep competence, rights review, interpretive meaning, precedent, temporal
+  effect and remedy as distinct stages with bench-strength discipline.
 
 ASCII MASTER FLOW — PANEL 7/12: Time, amendment and basic structure
 I.C. Golaknath (1967) -> reasoned prospective overruling.
@@ -77,3 +81,10 @@ ASCII MASTER FLOW — PANEL 12/12: UPSC integrated decision tree
 5 TIME + AUTHORITY -> prospective effect / Article 141.
 
 VERDICT: exact tests constrain judicial choice.
+
+CURRENT CONTROL: 5 SEPTEMBER 2026
+No located 2025-26 official judgment displaced this doctrine map.
+The nine-judge essential-religious-practices reference remains pending;
+a pending reference does not overrule the controlling larger-bench law.
+LEGAL/SOURCE LIMIT: No located 2025-26 authority displaced the established doctrine map; the
+  nine-judge essential-religious-practices reference remains pending.

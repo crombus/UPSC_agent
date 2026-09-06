@@ -39,6 +39,7 @@ ILLNESS -> care is sought from a provider outside the funded public layer
 -> CATASTROPHIC SPENDING: above a threshold share of household income or consumption
 -> ASSET SALE OR DEBT: years of accumulation are undone by one hospitalisation
 LINK -> this is where the health owner meets the poverty owner
+CLOSE DISTINCTION: UHC is not free hospitalisation alone, insurance coverage is not...
 
 ASCII MASTER FLOW — PANEL 7/12: Referral spine
 SUB-CENTRE -> first contact; outreach and community-level services
@@ -66,7 +67,6 @@ TAX-FUNDED -> general revenue, as in the health mission and the hospitalisation 
 CHAIN -> revenue collection to risk pooling to strategic purchasing to provision
 GAP -> insurance leaves prevention, medicines and outpatient spending unresolved
 TRAP -> calling the tax-funded pillar a contributory insurance scheme
-CLOSE DISTINCTION: UHC is not free hospitalisation alone, insurance coverage is not...
 
 ASCII MASTER FLOW — PANEL 11/12: Community health mapping
 EQUITY -> reach the underserved first rather than the easiest to reach
@@ -74,7 +74,6 @@ PARTICIPATION -> village health, sanitation and nutrition committees
 INTER-SECTORAL ACTION -> water, sanitation, nutrition and gender equality
 APPROPRIATE TECHNOLOGY -> frontline health activists and auxiliary nurse midwives
 INSTITUTION -> the upgraded wellness centre as the named Indian delivery point
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Map Union-state-local responsibilities,...
 
 ASCII MASTER FLOW — PANEL 12/12: Capacity limits and answer spine
 CONDITION -> Union financing and standards depend on State delivery capacity
@@ -82,3 +81,4 @@ GAP -> workforce vacancies and uneven capacity limit identical national schemes
 MENTAL HEALTH -> a statutory right and a tele-service still need district professionals
 OPEN -> name the coverage dimension tested; BUILD -> provision plus regulation
 CLOSE -> graded verdict with a dashboard-count caveat and a reversal condition
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Map Union-state-local responsibilities,...

@@ -38,6 +38,7 @@ HIGHER EDUCATION 2021-22 -> all-India ratio 28.4 for ages eighteen to twenty-thr
 PRIOR YEAR -> 27.3 in 2020-21; female ratio recorded at 28.5
 LEARNING SURVEY 2024 -> 23.4 per cent of government-school Standard III children
 ITS COMPETENCY -> able to read a Standard II text; rural household survey, not admin data
+CLOSE DISTINCTION: Article 21A is not a general right to every level of education,...
 
 ASCII MASTER FLOW — PANEL 7/12: Conversion chain and instruments
 ENROLMENT -> ATTENDANCE -> TRANSITION -> COMPLETION
@@ -67,7 +68,6 @@ POLICY ALIGNMENT -> early childhood, foundational learning, multidisciplinary re
 ALSO -> vocational integration and multiple entry and exit
 DEPENDENCY -> delivery depends on finance, teacher supply and State capacity
 ROUTE -> accept the stated alignment and test the delivery conditions
-CLOSE DISTINCTION: Article 21A is not a general right to every level of education,...
 
 ASCII MASTER FLOW — PANEL 11/12: Skills ecosystem
 TRAINING -> the national skill mission delivers and funds skill training
@@ -75,7 +75,6 @@ REGULATION -> the vocational education and training council under the skills min
 APPRENTICESHIP -> stipend support to employers hiring apprentices
 FRAMEWORK -> a competency-based hierarchy of ten skill levels for recognition
 CONSTRAINTS -> stigma, employer participation, counselling and quality of matching
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use RTE Act duties, NEP status, Samagra...
 
 ASCII MASTER FLOW — PANEL 12/12: Status card and answer spine
 CREDIT BANK -> accumulate credit across institutions and redeem it for a degree
@@ -83,3 +82,4 @@ REGULATORY STATUS -> the single higher-education regulator Bill is not enacted b
 CONSEQUENCE -> the existing university, technical and teacher-education regulators continue
 OPEN -> name the failing link; BUILD -> entitlement, process and outcome separately
 CLOSE -> graded verdict with the survey round, scope and year attached
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use RTE Act duties, NEP status, Samagra...

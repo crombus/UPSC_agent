@@ -1,0 +1,25 @@
+{
+  "topic_key": "polity-30",
+  "record_id": "polity-30:learner-v2:g4",
+  "scores": {
+    "complete_learning_session": 37,
+    "solved_practice_workbook": 28,
+    "graphical_flowchart": 14,
+    "ascii_master_flowchart": 13,
+    "total": 96
+  },
+  "defects": [
+    "Hostile four-ledger ownership/PYQ control is absent.",
+    "Authoritative current-law source status is not dated."
+  ],
+  "metrics": {
+    "main_characters": 149908,
+    "workbook_characters": 47274,
+    "session_count": 17,
+    "ascii_panel_count": 12,
+    "graphical_stage_count": 12,
+    "question_count": 0,
+    "mcq_count": 48,
+    "flow_panel_count": 12
+  }
+}

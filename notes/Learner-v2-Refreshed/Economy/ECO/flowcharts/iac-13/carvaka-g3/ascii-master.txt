@@ -1,0 +1,74 @@
+ASCII MASTER FLOW — PANEL 1/12: Agricultural-market layers
+STATE APMC LAW -> legal venue + rules
+e-NAM -> electronic bid / discovery layer
+ASSAY + WAREHOUSE -> quality + storage
+PAYMENT + LOGISTICS -> completed trade
+MUST REMEMBER: APMC regulation, e-NAM, FPO aggregation, warehousing, grading, logistics...
+
+ASCII MASTER FLOW — PANEL 2/12: Farm-to-market rail
+FARM LOT
+-> AGGREGATION + GRADING
+-> BID / CONTRACT
+-> STORAGE + TRANSPORT + SETTLEMENT
+
+ASCII MASTER FLOW — PANEL 3/12: APMC-e-NAM distinction
+APMC -> state-law institution
+e-NAM -> platform across participating mandis
+LAW REFORM != DIGITAL REFORM
+DIGITAL REFORM != PHYSICAL INFRASTRUCTURE
+
+ASCII MASTER FLOW — PANEL 4/12: Assay-to-settlement chain
+SAMPLE + ASSAY
+-> STANDARD GRADE
+-> COMPARABLE BID
+-> PAYMENT + DELIVERY + GRIEVANCE
+
+ASCII MASTER FLOW — PANEL 5/12: FPO legal-role board
+FPO -> farmer-member producer organisation
+FORM -> producer company / cooperative / other
+ROLE -> pool inputs, produce and services
+RETURN -> member benefit; not guaranteed profit
+
+ASCII MASTER FLOW — PANEL 6/12: FPO viability wheel
+MEMBER TRUST + GOVERNANCE
+WORKING CAPITAL + MANAGEMENT
+BUSINESS VOLUME + QUALITY
+RELIABLE BUYER + PAYMENT
+CLOSE DISTINCTION: APMC is not a single national statute, e-NAM listing is not integrated...
+
+ASCII MASTER FLOW — PANEL 7/12: Warehouse-finance rail
+ACCREDITED STORAGE
+-> ASSAYED INVENTORY
+-> NEGOTIABLE RECEIPT
+-> CREDIT -> DELAYED SALE CHOICE
+
+ASCII MASTER FLOW — PANEL 8/12: Reform model comparison
+KARNATAKA ReMS -> integrate rules + assay + platform
+BIHAR REPEAL -> legal exit, infrastructure still needed
+2020 OUTSIDE-APMC LAW -> new channel
+2021 REPEAL -> status + trust matter
+
+ASCII MASTER FLOW — PANEL 9/12: Intermediary replacement
+TRADITIONAL AGENT may be bypassed
+AGGREGATION still required
+GRADING + FINANCE still required
+LOGISTICS performer changes; function remains
+
+ASCII MASTER FLOW — PANEL 10/12: Market-power board
+MANY SMALL SELLERS
+FEW LOCAL BUYERS
+TIED CREDIT / INFORMATION GAP
+FPO + COMPETITION can rebalance
+
+ASCII MASTER FLOW — PANEL 11/12: High-value crop gate
+CAN IT BE GROWN?
+CAN IT BE STORED / MOVED?
+IS QUALITY MEASURABLE?
+IS THERE A RELIABLE BUYER?
+
+ASCII MASTER FLOW — PANEL 12/12: Marketing answer spine
+SEPARATE law, platform and infrastructure
+TRACE product, payment, information and risk
+TEST FPO and buyer bargaining power
+CONCLUDE with integrated reform
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Map state law, market licence, assaying,...

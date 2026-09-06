@@ -1,24 +1,28 @@
-# Deep content review — polity-32 CAG
+# Deep Content Review — Indian Society 32: CAG
 
-## Locked baseline
-- Identity: `polity-32:learner-v2:g2`; 45 files locked in `g2-identity-lock.json`.
-- Initial score: **72/100**; approval false.
-- PDFs: session 61, workbook 17, poster 1, tiled 4, ASCII 9 pages.
+- **Baseline locked:** `polity-32:learner-v2:g4` — 96/100
+- **Immutable successor:** `polity-32:learner-v2:g5` — 98/100
+- **Approval:** false / pending explicit approval
 
-## Baseline issues
-- **High:** no answer-specific improvement/compression guidance across 13 model answers.
-- **High:** legacy Basic/Advanced owners overstated “agent/responsible only to Parliament”, froze a three-report taxonomy, and used unsafe historical entity exclusion lists.
-- **Medium:** nine-panel flows compressed accounts-after-1976, entity-specific coverage, local-body variation and PAC/CoPU consequences.
-- **Medium:** generated source retained two ellipses and did not use strict reviewed H2 ordering.
-- **Low:** current digital and reform claims required clearer proposal/status labels.
+## Defects reported before repair
 
-## Repairs applied before immutable generation
-Canonical and tier owners now separate constitutional, statutory and entity-specific rules; the reviewed source contains complete Core before Optional Advanced, 48 strict MCQs, 13 guidance pairs and 12 matching Core flows.
+- Hostile four-ledger ownership/PYQ control is absent.
+- Authoritative current-law source status is not dated.
 
-## Immutable regeneration and final review
-- `g3`: **96/100**, preserved but failed the prose-integrity hard gate (`cAG` and ellipsis truncation in Session 11).
-- `g4`: **98/100**, passed every hard gate after a targeted semantic override.
-- 12 Core sessions; 48 MCQs (`ABCD ×12`); 13 guidance pairs; five verified direct/adjacent PYQ routes.
-- 12 matching Core flows plus Optional; ASCII width 91; zero ellipses/replacement glyphs.
-- PDFs: session 59; workbook 21; poster 1; tiled 4; ASCII 12 pages. Tests: **38 passed**.
-- 37 immutable g2 files hash-verified unchanged; approval remains false.
+## Four-artifact repair and re-review
+
+The complete predecessor teaching is preserved, with canonical Basic/Core first
+and Optional Advanced still subordinate. A source-and-evidence contract now
+distinguishes archaeology, texts, inscriptions, coins, interpretation, PYQ
+metadata and current-status claims. Every identified solved item has demand
+decoding, a detailed model, an executable answer/compression plan, marks rationale
+and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D while
+official PYQ wording remains outside that rotation. Both master flows were
+regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
+
+- Session PDF: 73 pages
+- Workbook PDF: 32 pages
+- Solved items audited: 13
+- Basic/remedial MCQs audited: 48
+- Graphical/ASCII stages: 12 / 12
+- Approval: false

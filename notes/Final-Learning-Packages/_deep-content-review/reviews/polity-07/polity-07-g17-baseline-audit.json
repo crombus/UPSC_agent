@@ -1,0 +1,27 @@
+{
+  "topic_key": "polity-07",
+  "record_id": "polity-07:learner-v2:g17",
+  "scores": {
+    "complete_learning_session": 35,
+    "solved_practice_workbook": 27,
+    "graphical_flowchart": 13,
+    "ascii_master_flowchart": 12,
+    "total": 92
+  },
+  "defects": [
+    "Hostile four-ledger ownership/PYQ control is absent.",
+    "Authoritative current-law source status is not dated.",
+    "Graphical flow does not contain twelve Core stages.",
+    "Embedded ASCII atlas does not contain twelve panels."
+  ],
+  "metrics": {
+    "main_characters": 251583,
+    "workbook_characters": 71719,
+    "session_count": 26,
+    "ascii_panel_count": 11,
+    "graphical_stage_count": 11,
+    "question_count": 0,
+    "mcq_count": 40,
+    "flow_panel_count": 11
+  }
+}

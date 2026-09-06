@@ -1616,3 +1616,168 @@ topic has passed revalidation.
 | DM18-001 | high | `disaster-management-18` | all four artifacts | Risk mechanism, institution, law/status, unit/date/status and current-claim controls | Fresh review required | E-DM18-001 | MD-DM18-001 | closed in g2 |
 | DM18-002 | high | `disaster-management-18` | solved practice | Every answer requires demand, detailed model, timed compression, marks rationale and answer-specific improvement | Baseline solved=9 | E-DM18-002 | MD-DM18-002 | closed in g2 |
 | DM18-003 | high | `disaster-management-18` | MCQs and flows | Strict A→B→C→D plus independently complete graphical/ASCII reconstruction | Baseline MCQs=80, panels=12 | E-DM18-003 | MD-DM18-003 | closed in g2 |
+| POL01-001 | high | `polity-01` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g17 hostile repair | E-POL01-001 | MD-POL01-001 | closed |
+| POL01-002 | high | `polity-01` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=10 | E-POL01-002 | MD-POL01-002 | closed |
+| POL01-003 | high | `polity-01` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL01-003 | MD-POL01-003 | closed |
+| POL02-001 | high | `polity-02` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g18 hostile repair | E-POL02-001 | MD-POL02-001 | closed |
+| POL02-002 | high | `polity-02` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=11 | E-POL02-002 | MD-POL02-002 | closed |
+| POL02-003 | high | `polity-02` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL02-003 | MD-POL02-003 | closed |
+| POL03-001 | high | `polity-03` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g19 hostile repair | E-POL03-001 | MD-POL03-001 | closed |
+| POL03-002 | high | `polity-03` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=20 | E-POL03-002 | MD-POL03-002 | closed |
+| POL03-003 | high | `polity-03` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL03-003 | MD-POL03-003 | closed |
+| POL04-001 | high | `polity-04` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g19 hostile repair | E-POL04-001 | MD-POL04-001 | closed |
+| POL04-002 | high | `polity-04` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=16 | E-POL04-002 | MD-POL04-002 | closed |
+| POL04-003 | high | `polity-04` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL04-003 | MD-POL04-003 | closed |
+| POL05-001 | high | `polity-05` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g18 hostile repair | E-POL05-001 | MD-POL05-001 | closed |
+| POL05-002 | high | `polity-05` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=9 | E-POL05-002 | MD-POL05-002 | closed |
+| POL05-003 | high | `polity-05` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL05-003 | MD-POL05-003 | closed |
+| POL06-001 | high | `polity-06` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g17 hostile repair | E-POL06-001 | MD-POL06-001 | closed |
+| POL06-002 | high | `polity-06` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=8 | E-POL06-002 | MD-POL06-002 | closed |
+| POL06-003 | high | `polity-06` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL06-003 | MD-POL06-003 | closed |
+| POL07-001 | high | `polity-07` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g19 hostile repair | E-POL07-001 | MD-POL07-001 | closed |
+| POL07-002 | high | `polity-07` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=7 | E-POL07-002 | MD-POL07-002 | closed |
+| POL07-003 | high | `polity-07` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=40 | E-POL07-003 | MD-POL07-003 | closed |
+| POL08-001 | high | `polity-08` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g9 hostile repair | E-POL08-001 | MD-POL08-001 | closed |
+| POL08-002 | high | `polity-08` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=9 | E-POL08-002 | MD-POL08-002 | closed |
+| POL08-003 | high | `polity-08` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=28 | E-POL08-003 | MD-POL08-003 | closed |
+| POL09-001 | high | `polity-09` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g5 hostile repair | E-POL09-001 | MD-POL09-001 | closed |
+| POL09-002 | high | `polity-09` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=8 | E-POL09-002 | MD-POL09-002 | closed |
+| POL09-003 | high | `polity-09` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=24 | E-POL09-003 | MD-POL09-003 | closed |
+| POL10-001 | high | `polity-10` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g8 hostile repair | E-POL10-001 | MD-POL10-001 | closed |
+| POL10-002 | high | `polity-10` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=17 | E-POL10-002 | MD-POL10-002 | closed |
+| POL10-003 | high | `polity-10` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=36 | E-POL10-003 | MD-POL10-003 | closed |
+| POL11-001 | high | `polity-11` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g5 hostile repair | E-POL11-001 | MD-POL11-001 | closed |
+| POL11-002 | high | `polity-11` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=9 | E-POL11-002 | MD-POL11-002 | closed |
+| POL11-003 | high | `polity-11` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=32 | E-POL11-003 | MD-POL11-003 | closed |
+| POL12-001 | high | `polity-12` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g8 hostile repair | E-POL12-001 | MD-POL12-001 | closed |
+| POL12-002 | high | `polity-12` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=17 | E-POL12-002 | MD-POL12-002 | closed |
+| POL12-003 | high | `polity-12` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=36 | E-POL12-003 | MD-POL12-003 | closed |
+| POL13-001 | high | `polity-13` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g4 hostile repair | E-POL13-001 | MD-POL13-001 | closed |
+| POL13-002 | high | `polity-13` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=18 | E-POL13-002 | MD-POL13-002 | closed |
+| POL13-003 | high | `polity-13` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=36 | E-POL13-003 | MD-POL13-003 | closed |
+| POL14-001 | high | `polity-14` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g4 hostile repair | E-POL14-001 | MD-POL14-001 | closed |
+| POL14-002 | high | `polity-14` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=13 | E-POL14-002 | MD-POL14-002 | closed |
+| POL14-003 | high | `polity-14` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=36 | E-POL14-003 | MD-POL14-003 | closed |
+| POL15-001 | high | `polity-15` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g6 hostile repair | E-POL15-001 | MD-POL15-001 | closed |
+| POL15-002 | high | `polity-15` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=15 | E-POL15-002 | MD-POL15-002 | closed |
+| POL15-003 | high | `polity-15` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=36 | E-POL15-003 | MD-POL15-003 | closed |
+| POL16-001 | high | `polity-16` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g7 hostile repair | E-POL16-001 | MD-POL16-001 | closed |
+| POL16-002 | high | `polity-16` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=10 | E-POL16-002 | MD-POL16-002 | closed |
+| POL16-003 | high | `polity-16` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=36 | E-POL16-003 | MD-POL16-003 | closed |
+| POL17-001 | high | `polity-17` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g6 hostile repair | E-POL17-001 | MD-POL17-001 | closed |
+| POL17-002 | high | `polity-17` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=15 | E-POL17-002 | MD-POL17-002 | closed |
+| POL17-003 | high | `polity-17` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=0 | E-POL17-003 | MD-POL17-003 | closed |
+| POL18-001 | high | `polity-18` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g4 hostile repair | E-POL18-001 | MD-POL18-001 | closed |
+| POL18-002 | high | `polity-18` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=15 | E-POL18-002 | MD-POL18-002 | closed |
+| POL18-003 | high | `polity-18` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL18-003 | MD-POL18-003 | closed |
+| POL19-001 | high | `polity-19` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g7 hostile repair | E-POL19-001 | MD-POL19-001 | closed |
+| POL19-002 | high | `polity-19` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=13 | E-POL19-002 | MD-POL19-002 | closed |
+| POL19-003 | high | `polity-19` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL19-003 | MD-POL19-003 | closed |
+| POL20-001 | high | `polity-20` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g8 hostile repair | E-POL20-001 | MD-POL20-001 | closed |
+| POL20-002 | high | `polity-20` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=10 | E-POL20-002 | MD-POL20-002 | closed |
+| POL20-003 | high | `polity-20` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL20-003 | MD-POL20-003 | closed |
+| POL21-001 | high | `polity-21` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g7 hostile repair | E-POL21-001 | MD-POL21-001 | closed |
+| POL21-002 | high | `polity-21` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=10 | E-POL21-002 | MD-POL21-002 | closed |
+| POL21-003 | high | `polity-21` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL21-003 | MD-POL21-003 | closed |
+| POL22-001 | high | `polity-22` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g6 hostile repair | E-POL22-001 | MD-POL22-001 | closed |
+| POL22-002 | high | `polity-22` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=10 | E-POL22-002 | MD-POL22-002 | closed |
+| POL22-003 | high | `polity-22` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL22-003 | MD-POL22-003 | closed |
+| POL23-001 | high | `polity-23` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g7 hostile repair | E-POL23-001 | MD-POL23-001 | closed |
+| POL23-002 | high | `polity-23` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=12 | E-POL23-002 | MD-POL23-002 | closed |
+| POL23-003 | high | `polity-23` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL23-003 | MD-POL23-003 | closed |
+| POL24-001 | high | `polity-24` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g4 hostile repair | E-POL24-001 | MD-POL24-001 | closed |
+| POL24-002 | high | `polity-24` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=11 | E-POL24-002 | MD-POL24-002 | closed |
+| POL24-003 | high | `polity-24` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL24-003 | MD-POL24-003 | closed |
+| POL25-001 | high | `polity-25` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g6 hostile repair | E-POL25-001 | MD-POL25-001 | closed |
+| POL25-002 | high | `polity-25` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=10 | E-POL25-002 | MD-POL25-002 | closed |
+| POL25-003 | high | `polity-25` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL25-003 | MD-POL25-003 | closed |
+| POL26-001 | high | `polity-26` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g5 hostile repair | E-POL26-001 | MD-POL26-001 | closed |
+| POL26-002 | high | `polity-26` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=8 | E-POL26-002 | MD-POL26-002 | closed |
+| POL26-003 | high | `polity-26` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL26-003 | MD-POL26-003 | closed |
+| POL27-001 | high | `polity-27` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g5 hostile repair | E-POL27-001 | MD-POL27-001 | closed |
+| POL27-002 | high | `polity-27` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=16 | E-POL27-002 | MD-POL27-002 | closed |
+| POL27-003 | high | `polity-27` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL27-003 | MD-POL27-003 | closed |
+| POL28-001 | high | `polity-28` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g5 hostile repair | E-POL28-001 | MD-POL28-001 | closed |
+| POL28-002 | high | `polity-28` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=8 | E-POL28-002 | MD-POL28-002 | closed |
+| POL28-003 | high | `polity-28` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL28-003 | MD-POL28-003 | closed |
+| POL29-001 | high | `polity-29` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g4 hostile repair | E-POL29-001 | MD-POL29-001 | closed |
+| POL29-002 | high | `polity-29` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=11 | E-POL29-002 | MD-POL29-002 | closed |
+| POL29-003 | high | `polity-29` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL29-003 | MD-POL29-003 | closed |
+| POL30-001 | high | `polity-30` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g5 hostile repair | E-POL30-001 | MD-POL30-001 | closed |
+| POL30-002 | high | `polity-30` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=13 | E-POL30-002 | MD-POL30-002 | closed |
+| POL30-003 | high | `polity-30` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL30-003 | MD-POL30-003 | closed |
+| POL31-001 | high | `polity-31` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g4 hostile repair | E-POL31-001 | MD-POL31-001 | closed |
+| POL31-002 | high | `polity-31` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=12 | E-POL31-002 | MD-POL31-002 | closed |
+| POL31-003 | high | `polity-31` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL31-003 | MD-POL31-003 | closed |
+| POL32-001 | high | `polity-32` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g5 hostile repair | E-POL32-001 | MD-POL32-001 | closed |
+| POL32-002 | high | `polity-32` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=13 | E-POL32-002 | MD-POL32-002 | closed |
+| POL32-003 | high | `polity-32` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL32-003 | MD-POL32-003 | closed |
+| POL33-001 | high | `polity-33` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g6 hostile repair | E-POL33-001 | MD-POL33-001 | closed |
+| POL33-002 | high | `polity-33` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=10 | E-POL33-002 | MD-POL33-002 | closed |
+| POL33-003 | high | `polity-33` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL33-003 | MD-POL33-003 | closed |
+| POL34-001 | high | `polity-34` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g5 hostile repair | E-POL34-001 | MD-POL34-001 | closed |
+| POL34-002 | high | `polity-34` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=13 | E-POL34-002 | MD-POL34-002 | closed |
+| POL34-003 | high | `polity-34` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=36 | E-POL34-003 | MD-POL34-003 | closed |
+| POL35-001 | high | `polity-35` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g8 hostile repair | E-POL35-001 | MD-POL35-001 | closed |
+| POL35-002 | high | `polity-35` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=10 | E-POL35-002 | MD-POL35-002 | closed |
+| POL35-003 | high | `polity-35` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=36 | E-POL35-003 | MD-POL35-003 | closed |
+| POL36-001 | high | `polity-36` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g6 hostile repair | E-POL36-001 | MD-POL36-001 | closed |
+| POL36-002 | high | `polity-36` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=9 | E-POL36-002 | MD-POL36-002 | closed |
+| POL36-003 | high | `polity-36` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=36 | E-POL36-003 | MD-POL36-003 | closed |
+| POL37-001 | high | `polity-37` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g8 hostile repair | E-POL37-001 | MD-POL37-001 | closed |
+| POL37-002 | high | `polity-37` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=9 | E-POL37-002 | MD-POL37-002 | closed |
+| POL37-003 | high | `polity-37` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL37-003 | MD-POL37-003 | closed |
+| POL38-001 | high | `polity-38` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g5 hostile repair | E-POL38-001 | MD-POL38-001 | closed |
+| POL38-002 | high | `polity-38` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=8 | E-POL38-002 | MD-POL38-002 | closed |
+| POL38-003 | high | `polity-38` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL38-003 | MD-POL38-003 | closed |
+| POL39-001 | high | `polity-39` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g6 hostile repair | E-POL39-001 | MD-POL39-001 | closed |
+| POL39-002 | high | `polity-39` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=8 | E-POL39-002 | MD-POL39-002 | closed |
+| POL39-003 | high | `polity-39` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL39-003 | MD-POL39-003 | closed |
+| POL40-001 | high | `polity-40` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g6 hostile repair | E-POL40-001 | MD-POL40-001 | closed |
+| POL40-002 | high | `polity-40` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=9 | E-POL40-002 | MD-POL40-002 | closed |
+| POL40-003 | high | `polity-40` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL40-003 | MD-POL40-003 | closed |
+| POL41-001 | high | `polity-41` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g5 hostile repair | E-POL41-001 | MD-POL41-001 | closed |
+| POL41-002 | high | `polity-41` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=10 | E-POL41-002 | MD-POL41-002 | closed |
+| POL41-003 | high | `polity-41` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL41-003 | MD-POL41-003 | closed |
+| POL42-001 | high | `polity-42` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g6 hostile repair | E-POL42-001 | MD-POL42-001 | closed |
+| POL42-002 | high | `polity-42` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=9 | E-POL42-002 | MD-POL42-002 | closed |
+| POL42-003 | high | `polity-42` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL42-003 | MD-POL42-003 | closed |
+| POL43-001 | high | `polity-43` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g8 hostile repair | E-POL43-001 | MD-POL43-001 | closed |
+| POL43-002 | high | `polity-43` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=10 | E-POL43-002 | MD-POL43-002 | closed |
+| POL43-003 | high | `polity-43` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=0 | E-POL43-003 | MD-POL43-003 | closed |
+| POL44-001 | high | `polity-44` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g7 hostile repair | E-POL44-001 | MD-POL44-001 | closed |
+| POL44-002 | high | `polity-44` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=13 | E-POL44-002 | MD-POL44-002 | closed |
+| POL44-003 | high | `polity-44` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL44-003 | MD-POL44-003 | closed |
+| POL45-001 | high | `polity-45` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g8 hostile repair | E-POL45-001 | MD-POL45-001 | closed |
+| POL45-002 | high | `polity-45` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=16 | E-POL45-002 | MD-POL45-002 | closed |
+| POL45-003 | high | `polity-45` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL45-003 | MD-POL45-003 | closed |
+| POL46-001 | high | `polity-46` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g5 hostile repair | E-POL46-001 | MD-POL46-001 | closed |
+| POL46-002 | high | `polity-46` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=12 | E-POL46-002 | MD-POL46-002 | closed |
+| POL46-003 | high | `polity-46` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL46-003 | MD-POL46-003 | closed |
+| POL47-001 | high | `polity-47` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g6 hostile repair | E-POL47-001 | MD-POL47-001 | closed |
+| POL47-002 | high | `polity-47` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=16 | E-POL47-002 | MD-POL47-002 | closed |
+| POL47-003 | high | `polity-47` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL47-003 | MD-POL47-003 | closed |
+| POL48-001 | high | `polity-48` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g5 hostile repair | E-POL48-001 | MD-POL48-001 | closed |
+| POL48-002 | high | `polity-48` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=12 | E-POL48-002 | MD-POL48-002 | closed |
+| POL48-003 | high | `polity-48` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL48-003 | MD-POL48-003 | closed |
+| POL49-001 | high | `polity-49` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g6 hostile repair | E-POL49-001 | MD-POL49-001 | closed |
+| POL49-002 | high | `polity-49` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=15 | E-POL49-002 | MD-POL49-002 | closed |
+| POL49-003 | high | `polity-49` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL49-003 | MD-POL49-003 | closed |
+| POL50-001 | high | `polity-50` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g4 hostile repair | E-POL50-001 | MD-POL50-001 | closed |
+| POL50-002 | high | `polity-50` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=11 | E-POL50-002 | MD-POL50-002 | closed |
+| POL50-003 | high | `polity-50` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL50-003 | MD-POL50-003 | closed |
+| POL51-001 | high | `polity-51` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g4 hostile repair | E-POL51-001 | MD-POL51-001 | closed |
+| POL51-002 | high | `polity-51` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=10 | E-POL51-002 | MD-POL51-002 | closed |
+| POL51-003 | high | `polity-51` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL51-003 | MD-POL51-003 | closed |
+| POL52-001 | high | `polity-52` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g5 hostile repair | E-POL52-001 | MD-POL52-001 | closed |
+| POL52-002 | high | `polity-52` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=12 | E-POL52-002 | MD-POL52-002 | closed |
+| POL52-003 | high | `polity-52` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL52-003 | MD-POL52-003 | closed |
+| POL53-001 | high | `polity-53` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g4 hostile repair | E-POL53-001 | MD-POL53-001 | closed |
+| POL53-002 | high | `polity-53` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=10 | E-POL53-002 | MD-POL53-002 | closed |
+| POL53-003 | high | `polity-53` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL53-003 | MD-POL53-003 | closed |
+| POL54-001 | high | `polity-54` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g4 hostile repair | E-POL54-001 | MD-POL54-001 | closed |
+| POL54-002 | high | `polity-54` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=10 | E-POL54-002 | MD-POL54-002 | closed |
+| POL54-003 | high | `polity-54` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL54-003 | MD-POL54-003 | closed |
+| POL55-001 | high | `polity-55` | canonical and four artifacts | Articles/Parts/Schedules/amendments/cases/dates, legal status, source hierarchy and four-ledger ownership | g4 hostile repair | E-POL55-001 | MD-POL55-001 | closed |
+| POL55-002 | high | `polity-55` | solved practice | examiner-grade answers and PYQ/key discipline | solved blocks=10 | E-POL55-002 | MD-POL55-002 | closed |
+| POL55-003 | high | `polity-55` | MCQs and flows | strict ABCD and same-ledger 12/12 agreement | MCQs=48 | E-POL55-003 | MD-POL55-003 | closed |

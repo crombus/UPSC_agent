@@ -1,0 +1,14 @@
+{
+  "topic_key": "international-relations-12",
+  "locked_at": "2026-09-06T03:38:24.437119+00:00",
+  "master_tracker_identity": "international-relations-12:learner-v2:g4",
+  "generation": 4,
+  "approval": false,
+  "hashes": {
+    "markdown": "36142a89f7e996f4a985a88bc676058b64974d89b4402ac5c478b0dd87eadc6f",
+    "main_pdf": "b4c55caced0e3ae98299233c77ac8dd4dfb61e13034811c300831bad7df201fa",
+    "workbook": "987c6de1a4490d390375a5d1b8a05b8b01c751460d7c9a1df246dbb1a6acfffb",
+    "graphical_master": "1b672e82ac2b7bcbcc14cdb931872a6ffad92a5dae861ee7823badec94577318",
+    "ascii_master": "fb7d578cb8292e4d93cab446c193458e88b2daa59d7bc12400b1fa4cef915edd"
+  }
+}

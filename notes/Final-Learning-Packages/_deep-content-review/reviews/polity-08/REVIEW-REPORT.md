@@ -1,19 +1,30 @@
-# Deep Content Review — Polity 08: Directive Principles
+# Deep Content Review — Indian Society 08: Directive Principles
 
-- **Baseline:** `polity-08:learner-v2:g2` — **72/100**, immutable.
-- **Final:** `polity-08:learner-v2:g8` — **98/100**, passed.
-- **Approval:** false / Approval pending.
+- **Baseline locked:** `polity-08:learner-v2:g8` — 92/100
+- **Immutable successor:** `polity-08:learner-v2:g9` — 98/100
+- **Approval:** false / pending explicit approval
 
-## Repairs
+## Defects reported before repair
 
-- Corrected Article 39(f), Article 40/73rd–74th, Special Marriage Act and FR–DPSP/Article 31C formulations.
-- Updated Uttarakhand UCC status, *Suhas Chakma*, *Property Owners Association*, Labour Codes and exact 2025 PYQ control.
-- Restored workbook identity, `ABCD × 9`, eight answer-specific improvement blocks and a 158-word 2023 NALSA model.
-- Expanded matching flows to 11 Core stages/panels plus optional enrichment and fixed deep-override/rotation generator defects.
-- Preserved g3–g7 as immutable repair intermediates.
+- Hostile four-ledger ownership/PYQ control is absent.
+- Authoritative current-law source status is not dated.
+- Graphical flow does not contain twelve Core stages.
+- Embedded ASCII atlas does not contain twelve panels.
 
-## Validation
+## Four-artifact repair and re-review
 
-- Session **61 pages**; workbook **16**; poster **1**, tiled **4**; ASCII **11 panels/pages**.
-- Master **4800×10049**; no blank pages, replacement glyphs, clipping, stale identity, generic filler or prose corruption.
-- Strict rotation, source hashes, final export and **37 focused tests** passed.
+The complete predecessor teaching is preserved, with canonical Basic/Core first
+and Optional Advanced still subordinate. A source-and-evidence contract now
+distinguishes archaeology, texts, inscriptions, coins, interpretation, PYQ
+metadata and current-status claims. Every identified solved item has demand
+decoding, a detailed model, an executable answer/compression plan, marks rationale
+and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D while
+official PYQ wording remains outside that rotation. Both master flows were
+regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
+
+- Session PDF: 72 pages
+- Workbook PDF: 22 pages
+- Solved items audited: 9
+- Basic/remedial MCQs audited: 28
+- Graphical/ASCII stages: 12 / 12
+- Approval: false

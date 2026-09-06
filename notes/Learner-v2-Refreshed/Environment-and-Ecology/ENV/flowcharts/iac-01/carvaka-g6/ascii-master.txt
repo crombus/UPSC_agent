@@ -1,0 +1,86 @@
+ASCII MASTER FLOW — PANEL 1/12: Ecosystem boundary card
+BOUNDARY -> state the pond, forest patch, wetland or landscape being analysed
+ABIOTIC -> climate, water, soil, minerals and topography inside that boundary
+BIOTIC -> producers, consumers, detritivores and microbial decomposers
+FUNCTION -> energy transfer, matter cycling, productivity and recovery
+RULE -> a boundary is analytical; it must match the question and evidence
+MUST REMEMBER: An ecosystem joins biotic communities and the abiotic environment through...
+
+ASCII MASTER FLOW — PANEL 2/12: Energy and matter split
+SOLAR OR CHEMICAL INPUT -> producer fixation -> consumer transfer
+AT EACH TRANSFER -> respiration and heat dissipation reduce usable energy
+DEAD ORGANIC MATTER -> fragmentation -> microbial decomposition
+RELEASED NUTRIENTS -> abiotic pool -> producer uptake
+VERDICT -> energy moves one way; matter can cycle
+
+ASCII MASTER FLOW — PANEL 3/12: Functional guild ladder
+PRODUCERS -> create organic matter from inorganic inputs
+PRIMARY CONSUMERS -> feed directly on producers
+HIGHER CONSUMERS -> feed through one or more trophic routes
+DETRITIVORES -> fragment dead material
+DECOMPOSERS -> chemically release nutrients
+
+ASCII MASTER FLOW — PANEL 4/12: Chain and web comparison
+FOOD CHAIN -> one selected linear route
+FOOD WEB -> connected set of chains within the same boundary
+ALTERNATIVE LINKS -> may reduce dependence on one route
+OMNIVORY -> one organism may feed across trophic positions
+LIMIT -> connectivity does not immunise a system against every disturbance
+
+ASCII MASTER FLOW — PANEL 5/12: Habitat and niche matrix
+HABITAT -> physical address
+HABITAT NICHE -> where within that address the organism operates
+TROPHIC NICHE -> resources and feeding relations
+REPRODUCTIVE NICHE -> breeding requirements and timing
+RULE -> overlap in place does not prove identical functional niches
+
+ASCII MASTER FLOW — PANEL 6/12: Ecotone logic
+ECOSYSTEM A -> transition zone of variable width -> ECOSYSTEM B
+OVERLAPPING CONDITIONS -> species from both sides may occur
+NEW EDGE CONDITIONS -> some additional specialists may occur
+COMPETITION AND TENSION -> the zone is not automatically benign
+EDGE EFFECT -> possible density or variety pattern, not the definition
+CLOSE DISTINCTION: Habitat is not niche, food chain is not food web, standing crop...
+
+ASCII MASTER FLOW — PANEL 7/12: Forest stratification section
+CANOPY -> high light, wind exposure and arboreal niches
+UNDERSTOREY -> filtered light and humid microclimate
+SHRUB AND HERB LAYERS -> near-ground resource partitioning
+FOREST FLOOR -> litter, detritivores and decomposer activity
+CAUTION -> more layers do not prove universal stability
+
+ASCII MASTER FLOW — PANEL 8/12: Productivity accounting
+GROSS PRIMARY PRODUCTIVITY -> total producer fixation per unit time
+MINUS PRODUCER RESPIRATION -> metabolic energy used by producers
+NET PRIMARY PRODUCTIVITY -> growth and production available onward
+STANDING CROP -> living stock at a stated instant
+RULE -> a stock cannot substitute for a production rate
+
+ASCII MASTER FLOW — PANEL 9/12: Resistance and resilience
+RESISTANCE -> limited departure from prior condition during a disturbance
+RESILIENCE -> recovery after the disturbance
+MONOCULTURE -> may look uniform while remaining shock-specific and fragile
+DIVERSE WEB -> may provide response options but no universal guarantee
+ANSWER -> name the shock, response variable and time frame
+
+ASCII MASTER FLOW — PANEL 10/12: Services and contributions
+PROVISIONING -> material outputs such as food, fibre and water
+REGULATING -> flood buffering, pollination and climate moderation
+SUPPORTING -> soil formation, primary production and nutrient cycling
+CULTURAL -> spiritual, aesthetic, recreational and knowledge values
+NCP -> includes relational and indigenous or local-knowledge values
+
+ASCII MASTER FLOW — PANEL 11/12: Carrying-capacity answer spine
+DEFINE -> sustained load without erosion of regenerative functions
+MEASURE -> regenerative supply, assimilative capacity and connectivity
+CONTEXT -> consumption, technology and governance alter the threshold
+LIMIT -> no timeless fixed headcount follows from the concept
+CONCLUDE -> plan within ecological limits and monitor the response
+
+ASCII MASTER FLOW — PANEL 12/12: Evidence and institution firewall
+BASIC OWNER -> definitions, mechanisms and verified PYQ concepts
+ROUTING LEDGER -> paper, year and neutral demand ownership
+OFFICIAL PAPER OCR -> printed wording only, never an inferred answer key
+FSI OR SURVEY BODY -> extent or inventory within its stated method
+LIVE STUB -> recorded as a failure, never converted into a current claim
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Fix system boundary, trophic level, stock...

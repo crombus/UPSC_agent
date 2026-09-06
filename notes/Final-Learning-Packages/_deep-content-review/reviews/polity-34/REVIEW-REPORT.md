@@ -1,23 +1,28 @@
-# Deep content review — polity-34 NITI Aayog
+# Deep Content Review — Indian Society 34: NITI Aayog
 
-## Identity and outcome
-- Baseline `polity-34:learner-v2:g2`; 49 hashes locked; **72/100**; approval false.
-- Preserved intermediate `polity-34:learner-v2:g3`; **95/100**; failed manual prose-integrity review.
-- Final `polity-34:learner-v2:g4`; **98/100**; all hard gates passed; approval remains false.
+- **Baseline locked:** `polity-34:learner-v2:g4` — 96/100
+- **Immutable successor:** `polity-34:learner-v2:g5` — 98/100
+- **Approval:** false / pending explicit approval
 
-## Substantive repairs
-- Corrected shorthand that all allocation power moved to the Finance Ministry and that States are constitutionally equal partners in NITI Aayog.
-- Distinguished executive/non-constitutional/non-statutory status, non-binding coordination, fiscal institutions, Governing Council and temporary issue-specific Regional Councils.
-- Clarified that Planning Commission replacement, Five-Year Plan cessation and plan/non-plan abolition were related but separate reforms.
-- Added nine answer-specific Why/How guidance pairs, verified PYQ routes, strict `ABCD x12`, and 12 matching Core flows.
-- Added targeted semantic controls after g3 exposed closure truncation and lowercase acronym mutation.
+## Defects reported before repair
 
-## Final validation
-- 27 sessions; 48 MCQs; nine guidance pairs; 12 graphical/ASCII stages.
-- PDFs: 74/21/1/4/12 pages; complete ASCII maximum width 89.
-- Zero ellipses, replacement glyphs or malformed NITI acronym; graphical and ASCII specifications agree.
-- `python -m pytest -q tools\test_refresh_all_v2_learning_sessions.py`: **38 passed**.
-- 41 immutable g2 hashes checked outside the mutable final-library destination; zero mismatches.
+- Hostile four-ledger ownership/PYQ control is absent.
+- Authoritative current-law source status is not dated.
 
-## Export
-`notes\Final-Learning-Packages\Polity\Subject-wide Syllabus\34-NITI-Aayog`
+## Four-artifact repair and re-review
+
+The complete predecessor teaching is preserved, with canonical Basic/Core first
+and Optional Advanced still subordinate. A source-and-evidence contract now
+distinguishes archaeology, texts, inscriptions, coins, interpretation, PYQ
+metadata and current-status claims. Every identified solved item has demand
+decoding, a detailed model, an executable answer/compression plan, marks rationale
+and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D while
+official PYQ wording remains outside that rotation. Both master flows were
+regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
+
+- Session PDF: 87 pages
+- Workbook PDF: 31 pages
+- Solved items audited: 13
+- Basic/remedial MCQs audited: 36
+- Graphical/ASCII stages: 12 / 12
+- Approval: false

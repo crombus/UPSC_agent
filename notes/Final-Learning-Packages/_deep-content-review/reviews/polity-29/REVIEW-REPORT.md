@@ -1,23 +1,28 @@
-# Polity-29 deep-content review — Finance Commission
+# Deep Content Review — Indian Society 29: Finance Commission
 
-## Locked baseline
-- Identity: `polity-29:learner-v2:g2`
-- Hash lock: `g2-identity-lock.json` (78 files)
-- Initial substantive score: **69/100**
+- **Baseline locked:** `polity-29:learner-v2:g3` — 96/100
+- **Immutable successor:** `polity-29:learner-v2:g4` — 98/100
+- **Approval:** false / pending explicit approval
+
+## Defects reported before repair
+
+- Hostile four-ledger ownership/PYQ control is absent.
+- Authoritative current-law source status is not dated.
+
+## Four-artifact repair and re-review
+
+The complete predecessor teaching is preserved, with canonical Basic/Core first
+and Optional Advanced still subordinate. A source-and-evidence contract now
+distinguishes archaeology, texts, inscriptions, coins, interpretation, PYQ
+metadata and current-status claims. Every identified solved item has demand
+decoding, a detailed model, an executable answer/compression plan, marks rationale
+and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D while
+official PYQ wording remains outside that rotation. Both master flows were
+regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
+
+- Session PDF: 92 pages
+- Workbook PDF: 28 pages
+- Solved items audited: 11
+- Basic/remedial MCQs audited: 48
+- Graphical/ASCII stages: 12 / 12
 - Approval: false
-
-## Baseline findings
-The g2 export had only 24 named sessions despite a substantially deeper canonical owner, nine ellipses, 48 non-strict generated MCQs, no answer-specific improvement guidance, nine broad flow stages and an ASCII maximum width of 106. The package also needed precise status separation for Sixteenth Finance Commission recommendations, Government acceptance, FY 2026-27 provision and actual release.
-
-## Repairs
-- Reverified Articles 270, 271, 275 and 279-282; the 1951 Act; FC-14/15/16 reports; the FC-16 Explanatory Memorandum; Union Budget 2026-27; Article 282 and GST Council comparison cases; and every routed PYQ.
-- Restored 25 complete Core sessions, strict ABCD ×12 questions, three solved Mains PYQs plus eight original models with answer-specific earning/improvement guidance.
-- Preserved exact FC-16 status vocabulary and dated five-year versus annual figures.
-- Expanded matching graphical and ASCII masters to 12 Core routes plus one Optional card.
-
-## Immutable regeneration and final review
-- `g3`: **98/100**, passed every hard gate.
-- Final metrics: 24 named Core sessions with complete fiscal-roadmap content; 48 MCQs (`ABCD ×12`); 11 answer-specific guidance pairs; five verified PYQ routes; 12 Core flow panels/stages plus one Optional card; ASCII maximum width 92.
-- PDFs: session 80 pages; workbook 20; poster 1; tiled graphical 5; ASCII 12. No replacement glyphs, ellipses, clipping or unintended blank-text pages.
-- Focused tests: **38 passed**. g2 remains preserved at locked hashes.
-- Final identity: `polity-29:learner-v2:g3`. Approval remains false.

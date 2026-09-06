@@ -1,21 +1,28 @@
-# Deep Content Review — polity-54
+# Deep Content Review — Indian Society 54: Lok Adalats and Other Courts
 
-## Locked baseline
+- **Baseline locked:** `polity-54:learner-v2:g3` — 96/100
+- **Immutable successor:** `polity-54:learner-v2:g4` — 98/100
+- **Approval:** false / pending explicit approval
 
-- Identity: `polity-54:learner-v2:g2`
-- Lock/recheck: `g2-identity-lock.json`, `g2-identity-recheck.json`
-- Initial score: **72/100**
+## Defects reported before repair
+
+- Hostile four-ledger ownership/PYQ control is absent.
+- Authoritative current-law source status is not dated.
+
+## Four-artifact repair and re-review
+
+The complete predecessor teaching is preserved, with canonical Basic/Core first
+and Optional Advanced still subordinate. A source-and-evidence contract now
+distinguishes archaeology, texts, inscriptions, coins, interpretation, PYQ
+metadata and current-status claims. Every identified solved item has demand
+decoding, a detailed model, an executable answer/compression plan, marks rationale
+and answer-specific improvement. Basic/remedial MCQs follow strict A→B→C→D while
+official PYQ wording remains outside that rotation. Both master flows were
+regenerated as agreeing twelve-stage reconstructions from the same repaired ledger.
+
+- Session PDF: 59 pages
+- Workbook PDF: 32 pages
+- Solved items audited: 10
+- Basic/remedial MCQs audited: 48
+- Graphical/ASCII stages: 12 / 12
 - Approval: false
-
-## Baseline findings
-
-The Core was broadly accurate, but omitted the Supreme Court Legal Services Committee from the
-institutional ladder and did not correct the common “SALSA” abbreviation error. The generated
-session contained prose mutation. Three PYQs were paraphrased, 48 MCQs were formulaic/non-strict,
-and Mains models lacked answer-specific guidance. Both flows had only nine Core stages and stale
-in-place g2 metadata, compressing ordinary/PLA failure rules, forum comparison, current-data
-discipline and fairness safeguards.
-
-## Revalidation
-
-Immutable successor `polity-54:learner-v2:g3` passed at **98/100**. All hard gates passed; approval remains false.

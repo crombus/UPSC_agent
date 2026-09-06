@@ -40,6 +40,7 @@ PROBLEM -> dispersed, unorganised art and craft sector; informal-employment vuln
 MERGED -> Seekho aur Kamao, USTTAD, Hamari Dharohar, Nai Roshni, Nai Manzil
 TYPE -> Central Sector scheme aligned with the Fifteenth Finance Commission cycle to 2025-26
 ALIGNMENT -> Sustainable Development Goals 1, 5, 8 and 10
+CLOSE DISTINCTION: Minority is context- and provision-specific, Article 30 is not...
 
 ASCII MASTER FLOW — PANEL 7/12: Instrument separation
 UMBRELLA ROUTES -> traditional and non-traditional skilling; leadership; bridge education; credit
@@ -68,7 +69,6 @@ WAQF BY USER -> long uninterrupted religious or charitable use without documenta
 REFORM -> the 2025 amendment prospectively abolishes waqf by user for future claims
 WHY IT MATTERS -> the undocumented route is where disputes with government land arise
 NOT STAYED -> the interim order did not stay that prospective abolition
-CLOSE DISTINCTION: Minority is context- and provision-specific, Article 30 is not...
 
 ASCII MASTER FLOW — PANEL 11/12: Interim order ledger
 5 APRIL 2025 -> presidential assent; Waqf (Amendment) Act, 2025, Act No. 14 of 2025
@@ -76,7 +76,6 @@ ASCII MASTER FLOW — PANEL 11/12: Interim order ledger
 STAYED -> five years of practising Islam before creating a waqf, until States frame a mechanism
 STAYED -> unilateral determination of disputed government-versus-waqf status by a Collector
 CAPPED -> non-Muslim members at 4 of 22 on the Council and 3 of 11 on a State Board
-EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Articles 14-16 and 25-30, NCM/minority...
 
 ASCII MASTER FLOW — PANEL 12/12: Evidence and boundary
 NAMED DIAGNOSIS -> the 2006 committee on education, employment, credit and representation
@@ -84,3 +83,4 @@ SIGNIFICANCE -> shifted the debate from rhetoric to measurable capability gaps
 LIMIT -> dated findings varying by region, class and gender; do not universalise
 MEASUREMENT GAP -> outputs tracked; attainment, employment and representation not tracked
 OWNERSHIP -> no Mains or objective demand is routed here and none is manufactured
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Articles 14-16 and 25-30, NCM/minority...
