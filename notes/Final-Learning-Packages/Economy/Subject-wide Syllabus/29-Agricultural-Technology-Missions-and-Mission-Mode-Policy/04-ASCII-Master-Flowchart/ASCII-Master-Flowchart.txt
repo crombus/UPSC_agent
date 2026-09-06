@@ -34,6 +34,7 @@ ASCII MASTER FLOW — PANEL 6/12: Mission chronology spine
 2000 -> COTTON
 2005-06 -> NHM
 2007-08 -> NFSM
+CLOSE DISTINCTION: Technology Mission is not every scheme, Cabinet approval is not...
 
 ASCII MASTER FLOW — PANEL 7/12: Oilseed system split
 NMEO-OS -> annual oilseeds
@@ -58,17 +59,16 @@ QUALITY SEED
 TRUSTED EXTENSION
 FINANCE + WATER ACCESS
 MARKET + REPAIR SERVICE
-CLOSE DISTINCTION: Technology Mission is not every scheme, Cabinet approval is not...
 
 ASCII MASTER FLOW — PANEL 11/12: Mission evaluation and attribution ladder
 BUDGET INPUT
 -> DELIVERY ACTIVITY
 -> MEASURABLE OUTPUT
 -> OUTCOME -> LONG-TERM IMPACT
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Name mission, ministry, legal/executive...
 
 ASCII MASTER FLOW — PANEL 12/12: Technology-mission answer spine
 DEFINE problem + mission
 TRACE research to market
 TEST inclusion + ecology
 EVALUATE outcome + redesign
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Name mission, ministry, legal/executive...

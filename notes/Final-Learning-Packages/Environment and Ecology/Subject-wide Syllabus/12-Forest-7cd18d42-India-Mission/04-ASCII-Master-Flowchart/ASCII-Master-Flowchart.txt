@@ -40,6 +40,7 @@ PERMITTED USE -> afforestation or other eligible forest activity
 AUTHORITY -> National or State role
 RECORD -> dated sanction and expenditure evidence
 NO FIGURE -> never infer allocation, spend or area
+CLOSE DISTINCTION: Compensatory afforestation is not ecological equivalence, fund...
 
 ASCII MASTER FLOW — PANEL 7/12: Ecological equivalence test
 DIVERTED MATURE FOREST -> layered structure and accumulated history
@@ -68,7 +69,6 @@ OFFICIAL TARGET -> quality improvement over another 5 mha
 OFFICIAL TARGET -> livelihood income for about 3 million families
 ACHIEVEMENT CLAIM -> requires dated monitoring evidence
 RULE -> mission target is not actual output or outcome
-CLOSE DISTINCTION: Compensatory afforestation is not ecological equivalence, fund...
 
 ASCII MASTER FLOW — PANEL 11/12: Convergence matrix
 GIM -> ecosystem-service mission objectives
@@ -76,7 +76,6 @@ CAMPA -> diversion-triggered statutory finance
 MGNREGS -> eligible labour and asset channel
 CONVERGENCE -> align plans, sites and monitoring
 NO AUTOMATICITY -> institutions and accounts remain distinct
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Date the governing Act/rules/guidelines...
 
 ASCII MASTER FLOW — PANEL 12/12: Law metric and PYQ spine
 LAW -> 2023 statute plus February 2024 interim direction
@@ -84,3 +83,4 @@ FINANCE -> approval, NPV, CA cost and fund flow
 MISSION -> GIM targets separated from achievements
 METRIC -> accrual, spend, output and outcome kept distinct
 AUDIT -> objective PYQs and failed live figures remain answer-free
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Date the governing Act/rules/guidelines...

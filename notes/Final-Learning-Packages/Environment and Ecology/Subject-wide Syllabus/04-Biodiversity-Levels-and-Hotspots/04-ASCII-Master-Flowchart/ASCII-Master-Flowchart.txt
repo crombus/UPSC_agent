@@ -40,6 +40,7 @@ AND
 GATE 2 -> 30 per cent or less of original natural vegetation remains
 BOTH GATES MET -> hotspot prioritisation framework applies
 FAILED GATE -> species richness alone cannot create hotspot status
+CLOSE DISTINCTION: Richness is not abundance or evenness, hotspot is not a statutory...
 
 ASCII MASTER FLOW — PANEL 7/12: Designation firewall
 HOTSPOT -> Conservation International scientific prioritisation framework
@@ -68,7 +69,6 @@ LMMC -> international political grouping
 HOTSPOT -> transboundary scientific priority region
 NBA, SBB, BMC -> domestic statutory governance levels
 RULE -> four categories answer different questions
-CLOSE DISTINCTION: Richness is not abundance or evenness, hotspot is not a statutory...
 
 ASCII MASTER FLOW — PANEL 11/12: ABS governance rail
 BIOLOGICAL RESOURCE OR ASSOCIATED KNOWLEDGE -> access request
@@ -76,7 +76,6 @@ RELEVANT AUTHORITY -> scrutiny under the legal architecture
 COMMERCIAL OR RESEARCH USE -> applicable conditions
 BENEFIT SHARING -> intended return to eligible claimants or communities
 PBR -> local documentation; not proof that benefits were delivered
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Attach metric, taxon, geography and...
 
 ASCII MASTER FLOW — PANEL 12/12: Global and PYQ boundary
 KMGBF TARGET 3 -> area-based conservation and OECMs in the owner
@@ -84,3 +83,4 @@ CBD GUIDANCE -> does not replace or qualify adopted COP decisions
 MASS EXTINCTION ROUTE -> human drivers, no inferred objective answer
 ISSG AND EU NRL -> external institutional or legal comparators
 CLOSE -> scientific label, domestic law and external comparator stay distinct
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Attach metric, taxon, geography and...

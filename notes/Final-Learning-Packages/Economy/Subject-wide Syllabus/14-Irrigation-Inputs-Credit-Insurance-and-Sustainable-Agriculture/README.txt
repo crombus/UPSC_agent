@@ -5,8 +5,8 @@ Topic: Irrigation, Inputs, Credit, Insurance and Sustainable Agriculture
 Subject: Economy
 Section: Subject-wide Syllabus
 Catalogue number: 14
-Source record ID: economy-14:learner-v2:g2
-Source generation: 2
+Source record ID: economy-14:learner-v2:g3
+Source generation: 3
 Approval: Approval pending
 
 Deliverables

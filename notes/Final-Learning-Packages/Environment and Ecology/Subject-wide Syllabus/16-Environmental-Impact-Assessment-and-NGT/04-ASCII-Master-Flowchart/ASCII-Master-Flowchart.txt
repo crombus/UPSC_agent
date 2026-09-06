@@ -5,6 +5,7 @@ CONDITIONAL GRANT OR REJECTION -> competent authority decision
 CONSTRUCTION OR OPERATION -> only under applicable approvals
 RULE -> later paperwork cannot recreate prior appraisal
 MUST REMEMBER: EIA is a prior decision-support and clearance process with screening,...
+MUST REMEMBER: EIA is a prior decision-support and clearance process with screening,...
 
 ASCII MASTER FLOW — PANEL 2/12: Approval matrix
 ENVIRONMENTAL CLEARANCE -> project impact appraisal
@@ -69,6 +70,7 @@ APPEAL -> specified order and appeal provision
 WRIT ROUTE -> separate constitutional review
 NO LABEL-BASED JURISDICTION -> statute controls
 CLOSE DISTINCTION: EIA notification is not an Act, Terms of Reference are not clearance,...
+CLOSE DISTINCTION: EIA notification is not an Act, Terms of Reference are not clearance,...
 
 ASCII MASTER FLOW — PANEL 11/12: Remedy and limitation matrix
 RELIEF OR COMPENSATION -> person or damage claim
@@ -76,6 +78,7 @@ PROPERTY RESTITUTION -> restore affected property
 ENVIRONMENT RESTITUTION -> repair environmental harm
 LIMITATION -> remedy-specific clock and extension
 PRINCIPLES -> apply within jurisdiction and evidence
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State project category, competent...
 EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State project category, competent...
 
 ASCII MASTER FLOW — PANEL 12/12: Instrument and answer spine

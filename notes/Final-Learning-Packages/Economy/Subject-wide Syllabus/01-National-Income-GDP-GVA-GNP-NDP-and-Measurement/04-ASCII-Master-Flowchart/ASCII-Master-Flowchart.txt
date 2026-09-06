@@ -34,6 +34,7 @@ IN -> current final goods and services
 IN -> permitted imputations and government services
 OUT -> embedded intermediate inputs and pure transfers
 OUT -> old assets except current brokerage
+CLOSE DISTINCTION: Nominal is current-price value, real is constant-price volume, a level...
 
 ASCII MASTER FLOW — PANEL 7/12: Informal-sector estimation
 MISSING COMPLETE ACCOUNTS
@@ -58,17 +59,16 @@ SAVING -> INVESTMENT
 INVESTMENT -> capital formation
 ICOR -> capital needed per extra output
 HIGH ICOR -> weak conversion efficiency
-CLOSE DISTINCTION: Nominal is current-price value, real is constant-price volume, a level...
 
 ASCII MASTER FLOW — PANEL 11/12: Cross-country comparison fork
 PPP -> common basket -> purchasing power
 MARKET RATE -> external value -> trade and debt
 SAME OUTPUT, DIFFERENT PRICE BASIS
 RULE -> quote source and reference year
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State factor cost/basic/market-price...
 
 ASCII MASTER FLOW — PANEL 12/12: Examiner closing spine
 DEFINE -> boundary + formula
 VERIFY -> base year + period + vintage
 ANALYSE -> coverage + method + efficiency
 QUALIFY -> distribution + unpaid work + ecology
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State factor cost/basic/market-price...

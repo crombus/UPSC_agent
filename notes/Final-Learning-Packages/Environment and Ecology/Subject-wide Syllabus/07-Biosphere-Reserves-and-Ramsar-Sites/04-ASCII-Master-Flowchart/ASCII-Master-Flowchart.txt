@@ -40,6 +40,7 @@ TEST -> applicable Ramsar criteria
 AT LEAST ONE -> can support nomination
 THRESHOLD -> use only readable official criterion text
 NO SHORTCUT -> designation cannot be inferred from importance alone
+CLOSE DISTINCTION: UNESCO biosphere reserve is not a Wildlife Protection Act category,...
 
 ASCII MASTER FLOW — PANEL 7/12: Ecological character map
 COMPONENTS -> biotic and abiotic features
@@ -68,7 +69,6 @@ PARALLEL PROGRAMME -> National Lake Conservation Plan
 2013 OWNER ROUTE -> merger into NPCA
 CURRENT ANSWER -> use NPCA with Wetlands Rules framework
 CAUTION -> do not rewrite a historical PYQ's original programme label
-CLOSE DISTINCTION: UNESCO biosphere reserve is not a Wildlife Protection Act category,...
 
 ASCII MASTER FLOW — PANEL 11/12: Overlapping designation stack
 NATIONAL PARK OR SANCTUARY -> domestic wildlife-law status
@@ -76,7 +76,6 @@ TIGER RESERVE -> species-management overlay
 BIOSPHERE RESERVE -> zoned landscape designation
 RAMSAR SITE -> wetland international listing
 RULE -> map functions and boundaries separately
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify designation body, criteria, date,...
 
 ASCII MASTER FLOW — PANEL 12/12: Evidence and answer spine
 CLASSIFY -> biosphere status, zone, Ramsar status or domestic wetland law
@@ -84,3 +83,4 @@ FIX -> site boundary, designation date and competent authority
 ANALYSE -> ecological character, wise use and livelihood mechanism
 VERIFY -> current count and Montreux status before citing
 CONCLUDE -> designation matters only through implemented management
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify designation body, criteria, date,...

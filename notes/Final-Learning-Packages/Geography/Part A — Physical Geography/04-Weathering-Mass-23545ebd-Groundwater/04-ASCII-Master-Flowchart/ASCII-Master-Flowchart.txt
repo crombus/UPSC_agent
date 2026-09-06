@@ -25,6 +25,9 @@ are linked but distinct processes.
 MUST REMEMBER: Weathering prepares material in situ, mass movement transfers it downslope,
   running water removes it, and groundwater follows infiltration, percolation, aquifer storage
   and discharge; Indian analysis links lithology, slope, rainfall, land use and pumping.
+MUST REMEMBER: Weathering prepares material in situ, mass movement transfers it downslope,
+  running water removes it, and groundwater follows infiltration, percolation, aquifer storage
+  and discharge; Indian analysis links lithology, slope, rainfall, land use and pumping.
 
 ASCII MASTER FLOW — PANEL 2/12: Weathering taxonomy, controls, regolith and soil formation
                        WEATHERING
@@ -188,27 +191,27 @@ Desalination supplies water but does not restore freshwater aquifer head.
 
 ASCII MASTER FLOW — PANEL 9/12: Evidence ladder and confidence control
 EVIDENCE LADDER
-1. = from source book = inference / standard knowledge = current affairs.
-2. Agriculture.md uses "chernozem", "alluvial" and "black soil" as...
-3. Evidence units available in this file
-VERDICT: Source type controls the strength and limits of the historical claim.
+1. Start with macro-phase, then regional sequence, dated stratum and assemblage.
+2. Read cores, flakes, debitage, wear and raw material before inferring behaviour.
+3. Separate lithic technology from hominin taxonomy, language and group identity.
+VERDICT: Broad chronology guides comparison; site context controls the claim.
 
 ASCII MASTER FLOW — PANEL 10/12: Examiner traps and contested boundaries
 CLOSE DISTINCTIONS
-1. Causal method Initial condition -> energy/force or driver ->...
-2. SCALE, INTERACTING CONTROL OR EVIDENCE LIMIT
-3. UPSC TRAP / ANSWER-USE: A landslide can deliver sediment to a river,...
-VERDICT: Qualification earns marks; false certainty is a hard failure.
+1. Acheulian is a technology, Levallois a method and microlith a tool element.
+2. Bhimbetka spans many periods; rock-art meaning and dates remain indirect.
+3. Mesolithic domestication and sedentariness must be established site by site.
+VERDICT: Transition means changing combinations, overlap and regional coexistence.
 CLOSE DISTINCTION: Weathering differs from erosion, porosity from permeability, water table
   from piezometric surface, aquifer from aquitard, and slump/slide/flow/creep require
   movement-specific geometry rather than the generic label landslide.
 
 ASCII MASTER FLOW — PANEL 11/12: Integrated answer spine and qualified conclusion
 ANSWER SPINE
-1. Original solved Mains questions 6
-2. Local official papers/keys checked: 2018, 2019, 2020, 2021, 2023,...
-3. Practice contract Every solved item has demand decoding, a detailed...
-VERDICT: Claim, named evidence, analysis and qualification lead to a graded...
+1. Use the 2019 Denisovan PYQ to separate population, place and geological period.
+2. Compare phases through tools, ecology, mobility, habitation, art and burials.
+3. Write claim -> site/assemblage -> significance -> date/context limit -> verdict.
+VERDICT: Indian prehistory is regionally varied history reconstructed without texts.
 EVIDENCE LIMIT: A trigger such as intense rain is not the complete cause: antecedent moisture,
   discontinuities, toe cutting, drainage and construction condition failure; groundwater
   trends and notified areas require dated official status.

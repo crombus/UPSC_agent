@@ -5,6 +5,7 @@ STOCKHOLM -> persistent organic pollutant controls
 VIENNA MONTREAL -> ozone-layer substance regime
 RULE -> environmental object determines the mechanism
 MUST REMEMBER: CBD, Basel, Stockholm and Montreal regimes have distinct objects, annexes,...
+MUST REMEMBER: CBD, Basel, Stockholm and Montreal regimes have distinct objects, annexes,...
 
 ASCII MASTER FLOW — PANEL 2/12: Treaty legal-status ladder
 ADOPTION -> text agreed
@@ -69,6 +70,7 @@ RISK PROFILE AND EVALUATION -> scientific review
 POPRC RECOMMENDATION -> advice, not final listing
 COP DECISION -> legal listing step subject to treaty rules
 CLOSE DISTINCTION: CBD targets are not treaty articles, Basel waste controls are not...
+CLOSE DISTINCTION: CBD targets are not treaty articles, Basel waste controls are not...
 
 ASCII MASTER FLOW — PANEL 11/12: Ozone treaty hierarchy
 VIENNA CONVENTION -> framework cooperation
@@ -76,6 +78,7 @@ MONTREAL PROTOCOL -> operative substance controls
 SCHEDULES -> production and consumption phase-out
 MULTILATERAL FUND -> developing-country implementation support
 KIGALI -> HFC phase-down for climate impact
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify Party status, annex/list,...
 EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify Party status, annex/list,...
 
 ASCII MASTER FLOW — PANEL 12/12: Convention answer spine

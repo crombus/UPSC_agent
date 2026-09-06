@@ -34,6 +34,7 @@ QUOTE -> RUPEES PER US DOLLAR
 NUMBER RISES -> dollar costs more
 RUPEE -> DEPRECIATES
 ALWAYS state quote before direction
+CLOSE DISTINCTION: Current-account deficit is not trade deficit, BOP accounting balance...
 
 ASCII MASTER FLOW — PANEL 7/12: Rate-change vocabulary
 MARKET -> depreciation / appreciation
@@ -58,17 +59,16 @@ BILATERAL RATE
 -> TRADE-WEIGHTED NEER
 -> RELATIVE-PRICE ADJUSTED REER
 INTERPRET -> use RBI convention + base + weights
-CLOSE DISTINCTION: Current-account deficit is not trade deficit, BOP accounting balance...
 
 ASCII MASTER FLOW — PANEL 11/12: Reserve-adequacy dashboard
 IMPORT COVER
 SHORT-TERM DEBT
 BROAD MONEY / FINANCING NEED
 MATURITY + CURRENCY + HEDGING + STRESS
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State period, currency/unit, stock or flow...
 
 ASCII MASTER FLOW — PANEL 12/12: External-sector answer spine
 CLASSIFY transaction by account
 STATE sign / quote / stock-flow convention
 TRACE financing + intervention + liquidity
 JUDGE resilience through composition, not headline
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State period, currency/unit, stock or flow...

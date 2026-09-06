@@ -9,6 +9,11 @@ MUST REMEMBER: Resource geography begins with geological occurrence, reserve/res
   externalities; world belts and India's Gondwana coal, offshore/onshore hydrocarbons,
   Odisha–Jharkhand iron-manganese-bauxite, Rajasthan non-ferrous minerals and
   nuclear/renewable endowments require map logic.
+MUST REMEMBER: Resource geography begins with geological occurrence, reserve/resource
+  classification, grade, extraction technology, transport, processing, markets and
+  externalities; world belts and India's Gondwana coal, offshore/onshore hydrocarbons,
+  Odisha–Jharkhand iron-manganese-bauxite, Rajasthan non-ferrous minerals and
+  nuclear/renewable endowments require map logic.
 
 ASCII MASTER FLOW — PANEL 2/12: Mineral and energy classification ladder
 FERROUS METALLIC -> iron ore, manganese, chromite; steel-making base
@@ -76,6 +81,10 @@ CLOSE DISTINCTION: Resource differs from reserve, occurrence from economically r
   deposit, thermal from metallurgical coal, conventional from non-conventional only by stated
   taxonomy, and installed renewable capacity from actual generation; criticality combines
   economic importance and supply risk rather than geological scarcity alone.
+CLOSE DISTINCTION: Resource differs from reserve, occurrence from economically recoverable
+  deposit, thermal from metallurgical coal, conventional from non-conventional only by stated
+  taxonomy, and installed renewable capacity from actual generation; criticality combines
+  economic importance and supply risk rather than geological scarcity alone.
 
 ASCII MASTER FLOW — PANEL 11/12: India mineral belt and energy corridor rail
 CHOTA NAGPUR COMPLEX -> iron ore, coal, mica, bauxite, manganese heartland
@@ -83,6 +92,10 @@ BELT HOOKS -> Bailadila iron, Jharia coking coal, Khetri copper, Zawar lead-zinc
 GONDWANA COAL -> Damodar, Mahanadi, Son and Godavari valley basins
 SOLAR CORRIDOR -> Rajasthan and Gujarat dry high-insolation belts
 WIND CORRIDOR -> Tamil Nadu, Gujarat, Karnataka and Maharashtra coasts and passes
+EVIDENCE LIMIT: Jharia/Raniganj/Talcher/Korba, Mumbai High, Assam, Krishna-Godavari,
+  Bailadila, Keonjhar, Khetri, Jaduguda, monazite coasts, solar Rajasthan/Gujarat and wind
+  Tamil Nadu/Gujarat anchor India; Ministry, IBM, CEA and international data need year/status
+  labels, while just-transition and import dependence qualify security claims.
 EVIDENCE LIMIT: Jharia/Raniganj/Talcher/Korba, Mumbai High, Assam, Krishna-Godavari,
   Bailadila, Keonjhar, Khetri, Jaduguda, monazite coasts, solar Rajasthan/Gujarat and wind
   Tamil Nadu/Gujarat anchor India; Ministry, IBM, CEA and international data need year/status

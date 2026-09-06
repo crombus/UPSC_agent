@@ -5,8 +5,8 @@ Topic: Carbon Markets CCUS and Direct Air Capture
 Subject: Environment and Ecology
 Section: Subject-wide Syllabus
 Catalogue number: 21
-Source record ID: environment-and-ecology-21:learner-v2:g3
-Source generation: 3
+Source record ID: environment-and-ecology-21:learner-v2:g6
+Source generation: 6
 Approval: Approval pending
 
 Deliverables

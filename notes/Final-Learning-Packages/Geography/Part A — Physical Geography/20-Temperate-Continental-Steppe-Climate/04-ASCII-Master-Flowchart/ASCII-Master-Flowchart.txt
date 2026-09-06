@@ -7,6 +7,9 @@ AUSTRALIA -> downs: eastern interior grasslands
 MUST REMEMBER: Temperate continental steppe Bs climates occupy interiors and rain shadows
   between deserts and humid forests, with low variable precipitation, large annual range,
   short grasses and chernozem-linked grain/pastoral economies.
+MUST REMEMBER: Temperate continental steppe Bs climates occupy interiors and rain shadows
+  between deserts and humid forests, with low variable precipitation, large annual range,
+  short grasses and chernozem-linked grain/pastoral economies.
 
 ASCII MASTER FLOW — PANEL 2/12: Continentality mechanism
 DISTANCE FROM SEA -> weak maritime moderation
@@ -64,12 +67,18 @@ MSP/PROCUREMENT -> assured floor price and central pool stocks
 CLOSE DISTINCTION: Steppe differs from tropical savanna and humid prairie, chernozem is not
   universal across all steppes, and continentality concerns land-dominated thermal range
   rather than simply distance from a national coastline.
+CLOSE DISTINCTION: Steppe differs from tropical savanna and humid prairie, chernozem is not
+  universal across all steppes, and continentality concerns land-dominated thermal range
+  rather than simply distance from a national coastline.
 
 ASCII MASTER FLOW — PANEL 11/12: Savanna-steppe comparison
 LATITUDE -> tropical savanna versus temperate steppe/prairie
 RAINFALL -> wet-and-dry seasonal versus low-total spring maximum
 SOIL -> leached laterising versus base-rich chernozem/prairie
 ECONOMY -> pastoral-subsistence versus mechanised-commercial grain
+EVIDENCE LIMIT: Grain productivity depends on soil, snowmelt, technology and markets as well
+  as climate; India's wheat belt is a functional comparison with monsoonal irrigation and
+  subtropical seasonality, not a climatic identity.
 EVIDENCE LIMIT: Grain productivity depends on soil, snowmelt, technology and markets as well
   as climate; India's wheat belt is a functional comparison with monsoonal irrigation and
   subtropical seasonality, not a climatic identity.

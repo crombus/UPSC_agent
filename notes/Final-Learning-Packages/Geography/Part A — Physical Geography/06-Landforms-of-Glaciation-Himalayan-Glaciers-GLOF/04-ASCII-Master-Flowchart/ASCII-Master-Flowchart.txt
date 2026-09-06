@@ -7,6 +7,10 @@ MUST REMEMBER: Glaciation proceeds through accumulation-ablation balance, ice
   deformation/basal motion, erosion, transport and deposition; cirque–arête–horn, U-shaped
   valley, moraine and outwash logic must connect to Himalayan mass balance, proglacial lakes
   and GLOF cascades.
+MUST REMEMBER: Glaciation proceeds through accumulation-ablation balance, ice
+  deformation/basal motion, erosion, transport and deposition; cirque–arête–horn, U-shaped
+  valley, moraine and outwash logic must connect to Himalayan mass balance, proglacial lakes
+  and GLOF cascades.
 
 ASCII MASTER FLOW — PANEL 2/12: Retreat paradox
 ICE PARTICLES -> continue moving downslope
@@ -64,12 +68,18 @@ VALLEY -> constrictions and assets shape consequences
 CLOSE DISTINCTION: Snowline, equilibrium-line altitude, firn line and glacier terminus are
   distinct; till is unsorted ice-laid sediment while outwash is meltwater-sorted, and a fjord
   is a drowned glacial trough rather than any steep inlet.
+CLOSE DISTINCTION: Snowline, equilibrium-line altitude, firn line and glacier terminus are
+  distinct; till is unsorted ice-laid sediment while outwash is meltwater-sorted, and a fjord
+  is a drowned glacial trough rather than any steep inlet.
 
 ASCII MASTER FLOW — PANEL 11/12: Risk-reduction stack
 SATELLITE INVENTORY -> changing lakes and slopes
 FIELD ASSESSMENT -> dam material and thresholds
 WARNING + DRILLS -> last-mile action
 LAND USE + DESIGN -> reduce exposure and fragility
+EVIDENCE LIMIT: Retreat varies by glacier and period; lake growth alone does not prove
+  imminent outburst, while dam material, freeboard, slope instability, ice/rock avalanches and
+  downstream exposure condition risk.
 EVIDENCE LIMIT: Retreat varies by glacier and period; lake growth alone does not prove
   imminent outburst, while dam material, freeboard, slope instability, ice/rock avalanches and
   downstream exposure condition risk.

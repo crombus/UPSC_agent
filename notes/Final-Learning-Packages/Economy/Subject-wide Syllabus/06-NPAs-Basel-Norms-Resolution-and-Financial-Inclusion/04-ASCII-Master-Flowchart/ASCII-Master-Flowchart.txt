@@ -34,6 +34,7 @@ BANK BALANCE SHEET
 -> ARC / NARCL TRANSFER
 -> SPECIALISED RECOVERY OR SALE
 LOSS REMAINS -> valuation and buyer interest decide
+CLOSE DISTINCTION: Gross NPA is not net NPA, provision is not write-off, write-off is not...
 
 ASCII MASTER FLOW — PANEL 7/12: Supervisory repair sequence
 AQR -> RECOGNITION
@@ -58,17 +59,16 @@ PMJDY -> transaction-account platform
 SHG-BANK LINKAGE -> group savings to formal bank
 BUSINESS CORRESPONDENT -> last-mile access
 WATERCREDIT -> targeted water/sanitation finance
-CLOSE DISTINCTION: Gross NPA is not net NPA, provision is not write-off, write-off is not...
 
 ASCII MASTER FLOW — PANEL 11/12: Credit-cleanup trade-offs
 EARLY RECOGNITION -> credibility / short-run ratio shock
 HIGHER CAPITAL -> resilience / lending constraint
 FAST RECOVERY -> discipline / viability risk
 DIGITAL ACCESS -> lower cost / exclusion and mis-selling risk
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Use ratio numerator/denominator and date,...
 
 ASCII MASTER FLOW — PANEL 12/12: NPA answer spine
 DEFINE stress and classification
 ABSORB loss through provisions and capital
 CHOOSE recovery, resolution or transfer
 RESTORE governance and useful inclusion
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Use ratio numerator/denominator and date,...

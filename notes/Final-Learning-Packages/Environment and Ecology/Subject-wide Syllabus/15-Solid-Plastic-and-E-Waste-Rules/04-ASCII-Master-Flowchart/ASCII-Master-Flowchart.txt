@@ -40,6 +40,7 @@ PLASTIC PACKAGING -> test EPR category and obligation
 OTHER PRODUCT -> do not infer ban from plastic content
 MATERIAL FACT -> composition question
 LEGAL FACT -> rule-specific classification
+CLOSE DISTINCTION: Solid, plastic and e-waste rules are not interchangeable; EPR...
 
 ASCII MASTER FLOW — PANEL 7/12: EPR evidence ladder
 OBLIGATION OR TARGET -> legal requirement
@@ -68,7 +69,6 @@ UNSAFE DISMANTLING -> exposure and pollution risk
 AUTHORISED FACILITY -> controlled processing route
 INTEGRATION -> recognition, safety and traceability
 VERDICT -> formalise processing without erasing livelihoods
-CLOSE DISTINCTION: Solid, plastic and e-waste rules are not interchangeable; EPR...
 
 ASCII MASTER FLOW — PANEL 11/12: Stock-flow and technology matrix
 CURRENT WASTE FLOW -> EPR and collection controls
@@ -76,7 +76,6 @@ LEGACY DUMP OR SITE -> remediation problem
 RECYCLING -> material recovery route
 THERMAL OR CHEMICAL ROUTE -> feedstock and emission conditions
 NO UNIVERSAL WINNER -> compare complete mass and residue balance
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State exact rule and amendment vintage,...
 
 ASCII MASTER FLOW — PANEL 12/12: Waste-governance answer spine
 CLASSIFY -> stream, material and rule vintage
@@ -84,3 +83,4 @@ ASSIGN -> generator, ULB, producer, importer and processor
 TRACE -> segregation, collection, processing and residue
 VERIFY -> obligation, certificate, throughput and recovery
 QUALIFY -> informal sector, legacy stock, technology and PYQ limits
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State exact rule and amendment vintage,...

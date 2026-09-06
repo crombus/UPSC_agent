@@ -5,8 +5,8 @@ Topic: Industrial Policy, 1991 Reforms, PSUs and Disinvestment
 Subject: Economy
 Section: Subject-wide Syllabus
 Catalogue number: 16
-Source record ID: economy-16:learner-v2:g4
-Source generation: 4
+Source record ID: economy-16:learner-v2:g5
+Source generation: 5
 Approval: Approval pending
 
 Deliverables

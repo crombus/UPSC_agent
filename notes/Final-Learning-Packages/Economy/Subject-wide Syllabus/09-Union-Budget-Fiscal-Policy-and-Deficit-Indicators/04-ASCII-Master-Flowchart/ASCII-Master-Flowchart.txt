@@ -34,6 +34,7 @@ ARTICLE 112 -> Annual Financial Statement
 FRBM ACT -> medium-term fiscal discipline
 MEFS -> macro assumptions
 PARLIAMENT + CAG -> authorisation and scrutiny
+CLOSE DISTINCTION: Allocation is not release or expenditure, capital receipt is not...
 
 ASCII MASTER FLOW — PANEL 7/12: Debt-dynamics chain
 PRIMARY BALANCE + INTEREST
@@ -58,17 +59,16 @@ OWN-REVENUE MOBILISATION
 EXPENDITURE QUALITY
 FISCAL PRUDENCE
 DEBT SUSTAINABILITY
-CLOSE DISTINCTION: Allocation is not release or expenditure, capital receipt is not...
 
 ASCII MASTER FLOW — PANEL 11/12: Budget 2026-27 status card
 2026-27 BE -> fiscal deficit 4.3% GDP
 2026-27 BE -> capex Rs 12.22 lakh crore
 2025-26 RE -> fiscal deficit 4.4% GDP
 STATUS -> BE / RE, not Actuals
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Use one Budget year and document stage—BE,...
 
 ASCII MASTER FLOW — PANEL 12/12: Fiscal-policy answer spine
 DEFINE identities and coverage
 CHECK BE / RE / Actual vintage
 ASSESS composition and multiplier
 CONCLUDE on debt path and transparency
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Use one Budget year and document stage—BE,...

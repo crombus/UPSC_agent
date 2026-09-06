@@ -6,6 +6,9 @@ BASIN + FRICTION -> realised current path
 MUST REMEMBER: Ocean structure links temperature, salinity and density to stratification and
   circulation; wind stress, Coriolis, Ekman transport, gyres, upwelling, thermohaline
   overturning, tides and Indian Ocean monsoon reversal culminate in IOD–ENSO interactions.
+MUST REMEMBER: Ocean structure links temperature, salinity and density to stratification and
+  circulation; wind stress, Coriolis, Ekman transport, gyres, upwelling, thermohaline
+  overturning, tides and Indian Ocean monsoon reversal culminate in IOD–ENSO interactions.
 
 ASCII MASTER FLOW — PANEL 2/12: Density-overturning chain
 COOLING / EVAPORATION -> density increase
@@ -63,12 +66,18 @@ INDIA EFFECT -> conditional on timing + ENSO + MJO
 CLOSE DISTINCTION: Wave transmits energy, current transports water and tide is astronomical
   sea-level oscillation; spring/neap are alignment effects, not seasons, and positive IOD is a
   west-minus-east Indian Ocean SST gradient rather than simply a warm western ocean.
+CLOSE DISTINCTION: Wave transmits energy, current transports water and tide is astronomical
+  sea-level oscillation; spring/neap are alignment effects, not seasons, and positive IOD is a
+  west-minus-east Indian Ocean SST gradient rather than simply a warm western ocean.
 
 ASCII MASTER FLOW — PANEL 11/12: Observation-to-service chain
 OMNI / RAMA -> ocean + weather observations
 INCOIS -> data management and products
 MODELS -> analysis and forecast ensembles
 USER -> marine service with uncertainty
+EVIDENCE LIMIT: IOD and ENSO modulate probabilities rather than determine Indian rainfall;
+  event phase, season, interaction, basin background and model/source date must qualify
+  fisheries, cyclone or monsoon conclusions.
 EVIDENCE LIMIT: IOD and ENSO modulate probabilities rather than determine Indian rainfall;
   event phase, season, interaction, basin background and model/source date must qualify
   fisheries, cyclone or monsoon conclusions.

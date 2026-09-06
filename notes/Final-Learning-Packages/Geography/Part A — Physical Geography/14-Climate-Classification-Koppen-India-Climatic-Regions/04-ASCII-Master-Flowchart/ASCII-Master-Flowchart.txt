@@ -6,6 +6,9 @@ OUTPUT -> useful model with explicit limits
 MUST REMEMBER: Köppen classification uses temperature and precipitation thresholds with
   seasonality letters; India must be mapped as regional climate regimes shaped by latitude,
   altitude, continentality, relief and monsoon circulation rather than memorised codes alone.
+MUST REMEMBER: Köppen classification uses temperature and precipitation thresholds with
+  seasonality letters; India must be mapped as regional climate regimes shaped by latitude,
+  altitude, continentality, relief and monsoon circulation rather than memorised codes alone.
 
 ASCII MASTER FLOW — PANEL 2/12: Koppen major groups
 A -> tropical thermal regime
@@ -63,12 +66,18 @@ CHOICE -> match method to question purpose
 CLOSE DISTINCTION: A/B/C/D/E are major climate groups, second and third letters carry
   moisture/thermal meaning, and climate region differs from vegetation biome or agro-climatic
   zone even when boundaries broadly correlate.
+CLOSE DISTINCTION: A/B/C/D/E are major climate groups, second and third letters carry
+  moisture/thermal meaning, and climate region differs from vegetation biome or agro-climatic
+  zone even when boundaries broadly correlate.
 
 ASCII MASTER FLOW — PANEL 11/12: Planning overlay
 CLIMATE TYPE -> long-period thermal-rain pattern
 AGRO-CLIMATE -> crop and season context
 AGRO-ECOLOGY -> soil + landform + growing period
 RISK LAYER -> hazards, exposure and vulnerability
+EVIDENCE LIMIT: Threshold classification simplifies transitional and highland mosaics; map
+  answers should state dataset/scale and avoid treating a code boundary as a permanent
+  administrative or ecological line.
 EVIDENCE LIMIT: Threshold classification simplifies transitional and highland mosaics; map
   answers should state dataset/scale and avoid treating a code boundary as a permanent
   administrative or ecological line.

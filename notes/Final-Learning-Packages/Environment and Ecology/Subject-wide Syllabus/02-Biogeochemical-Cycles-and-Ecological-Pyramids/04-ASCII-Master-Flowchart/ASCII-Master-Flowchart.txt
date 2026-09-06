@@ -40,6 +40,7 @@ PLANT UPTAKE -> consumer transfer -> detrital return
 RUNOFF -> aquatic loading -> sedimentation
 MINING AND FERTILISER -> accelerate extraction and dispersal
 BOUNDARY -> no significant atmospheric phase in the owner
+CLOSE DISTINCTION: Reservoir stock is not flux, residence time is not turnover rate,...
 
 ASCII MASTER FLOW — PANEL 7/12: Cycle-specific human pressure
 CARBON -> fossil-fuel combustion and land-cover change
@@ -68,7 +69,6 @@ HIGH TURNOVER -> continued production over the measurement period
 CONSUMER STANDING BIOMASS -> may exceed producer biomass at one instant
 ENERGY TRANSFER -> still declines upward
 VERDICT -> biomass inversion is not energy inversion
-CLOSE DISTINCTION: Reservoir stock is not flux, residence time is not turnover rate,...
 
 ASCII MASTER FLOW — PANEL 11/12: Heuristic and model firewall
 ENERGY LOSS -> qualitative thermodynamic direction is robust
@@ -76,7 +76,6 @@ TEN-PER-CENT RULE -> owner labels it an average heuristic
 OMNIVORY -> weakens a rigid one-level assignment
 SEASONALITY -> changes standing stocks and feeding relations
 PYRAMID -> useful summary, not a complete food web
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name pool, process, direction, limiting...
 
 ASCII MASTER FLOW — PANEL 12/12: PYQ and evidence boundary
 ROUTED CONCEPTS -> agricultural nitrogen, rock-weathered phosphorus, fixation links
@@ -84,3 +83,4 @@ BASIC PRACTICE -> reservoir, process and organism distinctions
 OFFICIAL PAPER -> demand wording only
 NO KEY -> no option or answer inferred
 LIVE CHECK -> no rate, pool, efficiency or status imported from a stub
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name pool, process, direction, limiting...

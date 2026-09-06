@@ -34,6 +34,7 @@ H -> incidence: how many are poor
 A -> intensity: how deprived the poor are
 MPI = H x A
 TRAP -> H and A can move differently
+CLOSE DISTINCTION: Growth is not development, per-capita average is not distribution, HDI...
 
 ASCII MASTER FLOW — PANEL 7/12: Income line versus MPI
 INCOME LINE -> monetary threshold
@@ -58,17 +59,16 @@ MGNREGA -> wage floor + rural assets
 ICDS / PM POSHAN -> nutrition + schooling
 SHGs -> savings + agency + networks
 LIMIT -> productivity and decent jobs remain necessary
-CLOSE DISTINCTION: Growth is not development, per-capita average is not distribution, HDI...
 
 ASCII MASTER FLOW — PANEL 11/12: Composite-index limits
 AVERAGE -> can hide distribution
 WEIGHTS -> shape results
 SURVEY TIMING -> misses sudden shocks
 QUALITY -> may differ from access
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Name publisher, edition/release date,...
 
 ASCII MASTER FLOW — PANEL 12/12: Inclusive-growth answer spine
 DEFINE growth and development
 TRACE jobs + services + capabilities
 COMPARE HDI / IHDI / MPI
 QUALIFY with inequality, quality and ecology
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Name publisher, edition/release date,...

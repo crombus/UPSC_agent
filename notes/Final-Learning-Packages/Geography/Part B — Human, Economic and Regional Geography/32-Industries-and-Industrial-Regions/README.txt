@@ -5,8 +5,8 @@ Topic: Industries and Industrial Regions
 Subject: Geography
 Section: Part B — Human, Economic and Regional Geography
 Catalogue number: 32
-Source record ID: geography-32-industries-and-industrial-regions:learner-v2:g16
-Source generation: 16
+Source record ID: geography-32-industries-and-industrial-regions:learner-v2:g17
+Source generation: 17
 Approval: Approval pending
 
 Deliverables

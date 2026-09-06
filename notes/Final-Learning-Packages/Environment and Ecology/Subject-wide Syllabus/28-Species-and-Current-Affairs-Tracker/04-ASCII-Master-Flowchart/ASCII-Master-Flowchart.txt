@@ -5,6 +5,7 @@ SOURCE AND DATE -> authoritative issuer and publication
 STATUS VERB -> assessed listed notified observed or proposed
 STATIC LINK AND RECHECK -> concept owner plus expiry trigger
 MUST REMEMBER: A species/current-affairs tracker must bind taxonomic identity, range,...
+MUST REMEMBER: A species/current-affairs tracker must bind taxonomic identity, range,...
 
 ASCII MASTER FLOW — PANEL 2/12: Taxonomic identity ladder
 SCIENTIFIC NAME -> primary identity anchor
@@ -69,6 +70,7 @@ RANGE INTERPRETATION -> evidence synthesis
 FORMAL REASSESSMENT OR LISTING -> separate process
 RULE -> observation alone changes no status automatically
 CLOSE DISTINCTION: Common name is not secure taxonomic identity, rediscovery is not...
+CLOSE DISTINCTION: Common name is not secure taxonomic identity, rediscovery is not...
 
 ASCII MASTER FLOW — PANEL 11/12: Cross-source reconciliation
 IDENTITY QUESTION -> taxonomic source
@@ -76,6 +78,7 @@ EXTINCTION-RISK QUESTION -> IUCN assessment
 DOMESTIC LEGAL QUESTION -> WPA text
 TRADE OR MIGRATION QUESTION -> CITES or CMS
 CURRENT TRIGGER -> dated official decision or study
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use source, publication/event date,...
 EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use source, publication/event date,...
 
 ASCII MASTER FLOW — PANEL 12/12: Species tracker answer spine

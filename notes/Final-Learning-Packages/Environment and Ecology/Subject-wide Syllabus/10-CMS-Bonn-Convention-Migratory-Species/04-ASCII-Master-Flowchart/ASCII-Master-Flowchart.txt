@@ -40,6 +40,7 @@ APPENDIX II -> international-cooperation and agreement route
 BOTH -> expressly possible under Article IV
 NOT HIERARCHY -> functions overlap without cancelling each other
 ANSWER -> state each consequence separately
+CLOSE DISTINCTION: Appendix I and II have distinct consequences, CMS is not CITES, range...
 
 ASCII MASTER FLOW — PANEL 7/12: Instrument-status ladder
 APPENDIX -> Convention listing status
@@ -68,7 +69,6 @@ STRATEGIC PLAN -> 2024-2032 direction and targets
 INITIATIVE -> Central Asian Flyway coordination step
 MONITORING -> needed for implementation evidence
 RULE -> adoption is an output, not species recovery
-CLOSE DISTINCTION: Appendix I and II have distinct consequences, CMS is not CITES, range...
 
 ASCII MASTER FLOW — PANEL 11/12: Threat-location matrix
 ROUTE-WIDE -> habitat network, taking and shared data
@@ -76,7 +76,6 @@ DOMESTIC -> power line, wetland loss or local enforcement
 LOCAL SUCCESS -> Doyang or Pangti stopover protection
 LIMIT -> one repaired link does not prove whole-route safety
 RESPONSE -> match institution to threat location
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify membership, appendix, taxon, range...
 
 ASCII MASTER FLOW — PANEL 12/12: PYQ and convention spine
 DEFINE -> migratory species, range and Range State
@@ -84,3 +83,4 @@ CLASSIFY -> Appendix I, II or both
 NAME -> Agreement, MOU, Action Plan or Concerted Action
 APPLY -> Amur Falcon answer-free route-and-community concept
 SEPARATE -> CMS, CITES, Ramsar and current-listing evidence
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify membership, appendix, taxon, range...

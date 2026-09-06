@@ -34,6 +34,7 @@ ELIGIBILITY / TAXONOMY
 -> ALLOCATION
 -> OUTPUT + OUTCOME METRIC
 -> ASSURANCE + ADDITIONALITY
+CLOSE DISTINCTION: Carbon tax is not emissions trading, green label is not verified...
 
 ASCII MASTER FLOW — PANEL 7/12: Bond-use boundary
 GREEN BOND -> environmental uses
@@ -58,17 +59,16 @@ WORKERS + SKILLS
 REGIONS + REVENUE
 CONSUMERS + AFFORDABILITY
 ENERGY ACCESS + SOCIAL PROTECTION
-CLOSE DISTINCTION: Carbon tax is not emissions trading, green label is not verified...
 
 ASCII MASTER FLOW — PANEL 11/12: Trade-climate boundary
 EU CBAM -> external import rule
 INDIA CCTS / MRV -> domestic system
 RECOGNITION -> unsettled unless verified
 TRADE PRESSURE != policy identity
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State taxonomy/method, boundary, baseline,...
 
 ASCII MASTER FLOW — PANEL 12/12: Climate-economics answer spine
 DEFINE metric + status
 TRACE price + finance + innovation
 TEST distribution + additionality
 CONCLUDE credible just transition
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State taxonomy/method, boundary, baseline,...

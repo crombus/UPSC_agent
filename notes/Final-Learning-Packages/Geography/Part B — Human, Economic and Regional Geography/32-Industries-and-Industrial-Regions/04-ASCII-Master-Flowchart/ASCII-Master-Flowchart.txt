@@ -22,6 +22,10 @@ MUST REMEMBER: Industrial geography links raw material, energy, labour, capital,
   transport, agglomeration and policy through Weber's least-cost theory, Lösch's market areas,
   growth-pole and product-cycle/network perspectives, then maps old and new industrial regions
   at world and India scales.
+MUST REMEMBER: Industrial geography links raw material, energy, labour, capital, market,
+  transport, agglomeration and policy through Weber's least-cost theory, Lösch's market areas,
+  growth-pole and product-cycle/network perspectives, then maps old and new industrial regions
+  at world and India scales.
 
 ASCII MASTER FLOW — PANEL 2/12: Ranked location factors and industrial orientation
 FIRST ASK: Which cost, risk or capability dominates this industry?
@@ -189,6 +193,10 @@ CLOSE DISTINCTION: Industry, manufacturing and factory employment are not synony
   localisation economies differ from urbanisation economies, industrial corridor from a single
   estate or transport line, footloose from location-free, and deindustrialisation can be
   relative employment/output change rather than disappearance.
+CLOSE DISTINCTION: Industry, manufacturing and factory employment are not synonyms;
+  localisation economies differ from urbanisation economies, industrial corridor from a single
+  estate or transport line, footloose from location-free, and deindustrialisation can be
+  relative employment/output change rather than disappearance.
 
 ASCII MASTER FLOW — PANEL 11/12: Integrated answer spine and qualified conclusion
 ANSWER SPINE
@@ -196,6 +204,10 @@ ANSWER SPINE
 2. Visual first: the topic moves from precise terms to factors, theory,...
 3. ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM
 VERDICT: Claim, named evidence, analysis and qualification lead to a graded...
+EVIDENCE LIMIT: Chotanagpur, Mumbai–Pune, Gujarat, Hugli, Bengaluru–Tamil Nadu, NCR and
+  Visakhapatnam–Guntur contrast with Ruhr, Great Lakes, Japan's Pacific Belt and China's
+  coast; Jamshedpur, petrochemical ports, auto clusters, electronics/services and DMIC show
+  changing weights of material, market, skills and logistics.
 EVIDENCE LIMIT: Chotanagpur, Mumbai–Pune, Gujarat, Hugli, Bengaluru–Tamil Nadu, NCR and
   Visakhapatnam–Guntur contrast with Ruhr, Great Lakes, Japan's Pacific Belt and China's
   coast; Jamshedpur, petrochemical ports, auto clusters, electronics/services and DMIC show

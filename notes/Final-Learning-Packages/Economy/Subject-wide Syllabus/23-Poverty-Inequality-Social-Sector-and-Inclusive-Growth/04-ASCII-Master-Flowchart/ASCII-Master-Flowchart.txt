@@ -34,6 +34,7 @@ ASCII MASTER FLOW — PANEL 6/12: MPI construction rail
 -> deprivation score
 -> H headcount + A intensity
 -> MPI = H x A
+CLOSE DISTINCTION: Poverty headcount is not poverty gap, income is not consumption, Gini...
 
 ASCII MASTER FLOW — PANEL 7/12: MPI vintage boundary
 NFHS-5 2019-21 -> observed base
@@ -58,17 +59,16 @@ ASSISTANCE -> need/category
 INSURANCE -> pooled risk
 UNIVERSAL SERVICES -> broad access
 TARGETING -> exclusion risk
-CLOSE DISTINCTION: Poverty headcount is not poverty gap, income is not consumption, Gini...
 
 ASCII MASTER FLOW — PANEL 11/12: Named instrument boundary
 MGNREGA -> work guarantee
 NFSA -> food entitlement
 HEALTH INSURANCE -> hospitalisation protection
 FINANCE -> access + usage + quality
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State survey, line/method, unit, price...
 
 ASCII MASTER FLOW — PANEL 12/12: Inclusive-growth answer spine
 FIX metric + vintage
 TRACE jobs + services + transfers
 DISAGGREGATE groups + places
 CONCLUDE capability + resilience
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State survey, line/method, unit, price...

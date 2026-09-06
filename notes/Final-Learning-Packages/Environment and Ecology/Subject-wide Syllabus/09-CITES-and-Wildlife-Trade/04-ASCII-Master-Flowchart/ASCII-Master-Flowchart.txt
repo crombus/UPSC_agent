@@ -40,6 +40,7 @@ NDF -> science gate where applicable
 LEGAL ACQUISITION -> separate compliance finding where required
 MANAGEMENT AUTHORITY -> issues permit or certificate
 BORDER -> document and specimen still require verification
+CLOSE DISTINCTION: Appendix I is not a universal trade ban, appendix status is not IUCN...
 
 ASCII MASTER FLOW — PANEL 7/12: Authority split
 SCIENTIFIC AUTHORITY -> trade-impact advice
@@ -68,7 +69,6 @@ PERMIT INTEGRITY -> authentic document
 SPECIES IDENTIFICATION -> correct specimen match
 BORDER COORDINATION -> customs and wildlife enforcement
 DEMAND REDUCTION -> complementary domestic response
-CLOSE DISTINCTION: Appendix I is not a universal trade ban, appendix status is not IUCN...
 
 ASCII MASTER FLOW — PANEL 11/12: Convention distinction matrix
 CITES -> international wildlife trade
@@ -76,7 +76,6 @@ IUCN -> scientific extinction-risk assessment
 CMS -> migratory-range cooperation
 WILDLIFE ACT -> domestic legal consequences
 RULE -> one species may occupy all layers without merging them
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify Party status, appendix,...
 
 ASCII MASTER FLOW — PANEL 12/12: Audit and answer spine
 SCOPE -> international trade only
@@ -84,3 +83,4 @@ APPENDIX -> I, II or III mechanics
 TRANSACTION -> specimen, source, purpose and document
 AUTHORITY -> science, permit and enforcement roles
 QUALIFY -> zero direct PYQ and failed current-listing retrieval
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify Party status, appendix,...

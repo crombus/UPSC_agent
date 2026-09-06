@@ -5,8 +5,8 @@ Topic: Ecosystem Structure and Function
 Subject: Environment and Ecology
 Section: Subject-wide Syllabus
 Catalogue number: 01
-Source record ID: environment-and-ecology-01:learner-v2:g4
-Source generation: 4
+Source record ID: environment-and-ecology-01:learner-v2:g6
+Source generation: 6
 Approval: Approval pending
 
 Deliverables

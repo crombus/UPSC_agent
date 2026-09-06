@@ -34,6 +34,7 @@ ENROLLED
 -> TRAINED
 -> CERTIFIED
 -> PLACED -> RETAINED -> WAGE GAIN
+CLOSE DISTINCTION: Unemployment rate denominator is labour force, not population; labour-...
 
 ASCII MASTER FLOW — PANEL 7/12: Demographic dividend converter
 WORKING-AGE SHARE
@@ -58,17 +59,16 @@ ENACTED 2019-20
 -> COMMENCEMENT 21 NOV 2025
 -> FINAL CENTRAL RULES MAY 2026
 -> STATE RULES + ENFORCEMENT vary
-CLOSE DISTINCTION: Unemployment rate denominator is labour force, not population; labour-...
 
 ASCII MASTER FLOW — PANEL 11/12: New-work boundary
 FIXED-TERM
 CASUAL / CONTRACT
 GIG / PLATFORM
 TEST wages + security + bargaining separately
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Name PLFS status, reference period,...
 
 ASCII MASTER FLOW — PANEL 12/12: Employment answer spine
 DEFINE indicator + denominator
 DIAGNOSE unemployment type
 LINK skills to demand
 CONCLUDE jobs + earnings + portable protection
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Name PLFS status, reference period,...

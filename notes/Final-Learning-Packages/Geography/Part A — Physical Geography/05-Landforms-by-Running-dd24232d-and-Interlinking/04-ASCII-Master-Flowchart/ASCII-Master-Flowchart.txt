@@ -6,6 +6,9 @@ BASIN RULE -> upstream change travels downstream
 MUST REMEMBER: Fluvial systems connect rainfall-runoff, drainage-network organisation,
   erosion, transport, deposition, graded-profile adjustment and floodplain evolution to
   Himalayan antecedent rivers, Peninsular drainage and basin-scale interlink proposals.
+MUST REMEMBER: Fluvial systems connect rainfall-runoff, drainage-network organisation,
+  erosion, transport, deposition, graded-profile adjustment and floodplain evolution to
+  Himalayan antecedent rivers, Peninsular drainage and basin-scale interlink proposals.
 
 ASCII MASTER FLOW — PANEL 2/12: River-work engine
 ENERGY + DISCHARGE -> erosion capacity
@@ -63,12 +66,18 @@ ALTERNATIVES -> recharge, efficiency, reuse, operations
 CLOSE DISTINCTION: V-shaped valley, gorge, waterfall, meander, oxbow, levee, delta and
   alluvial fan occupy different energy and valley settings; drainage pattern differs from
   drainage basin, and river capture differs from planned diversion.
+CLOSE DISTINCTION: V-shaped valley, gorge, waterfall, meander, oxbow, levee, delta and
+  alluvial fan occupy different energy and valley settings; drainage pattern differs from
+  drainage basin, and river capture differs from planned diversion.
 
 ASCII MASTER FLOW — PANEL 11/12: Ken-Betwa boundary
 DIRECTION -> Ken basin to Betwa basin
 STATUS -> official material says under implementation
 LANDSCAPE -> Panna connectivity + downstream flow
 RULE -> status is not measured outcome
+EVIDENCE LIMIT: Interlinking effects are basin- and design-specific: transfer volume,
+  seasonality, environmental flows, sediment, displacement, federal consent and climate
+  uncertainty must qualify both drought-proofing and ecological-damage claims.
 EVIDENCE LIMIT: Interlinking effects are basin- and design-specific: transfer volume,
   seasonality, environmental flows, sediment, displacement, federal consent and climate
   uncertainty must qualify both drought-proofing and ecological-damage claims.

@@ -7,6 +7,18 @@ MUST REMEMBER: Population geography separates stock, structure, distribution, de
   fertility, mortality and mobility; demographic transition moves from high birth/high death
   through mortality-led growth and fertility decline toward low rates, with a possible ageing
   or below-replacement phase rather than one universal timetable.
+MUST REMEMBER: Population geography separates stock, structure, distribution, density, growth,
+  fertility, mortality and mobility; demographic transition moves from high birth/high death
+  through mortality-led growth and fertility decline toward low rates, with a possible ageing
+  or below-replacement phase rather than one universal timetable.
+MUST REMEMBER: Population geography separates stock, structure, distribution, density, growth,
+  fertility, mortality and mobility; demographic transition moves from high birth/high death
+  through mortality-led growth and fertility decline toward low rates, with a possible ageing
+  or below-replacement phase rather than one universal timetable.
+MUST REMEMBER: Population geography separates stock, structure, distribution, density, growth,
+  fertility, mortality and mobility; demographic transition moves from high birth/high death
+  through mortality-led growth and fertility decline toward low rates, with a possible ageing
+  or below-replacement phase rather than one universal timetable.
 
 ASCII MASTER FLOW — PANEL 2/12: Demographic transition spine
 STAGE 1 -> high birth, high death, unstable growth
@@ -65,12 +77,36 @@ CLOSE DISTINCTION: Crude birth/death rates, TFR, replacement fertility, dependen
   ratio, life expectancy and population pyramid answer different questions; demographic
   dividend is a conditional age-structure opportunity, not an automatic growth bonus, and
   Census 2011, SRS, NFHS and UN estimates retain different reference dates and methods.
+CLOSE DISTINCTION: Crude birth/death rates, TFR, replacement fertility, dependency ratio, sex
+  ratio, life expectancy and population pyramid answer different questions; demographic
+  dividend is a conditional age-structure opportunity, not an automatic growth bonus, and
+  Census 2011, SRS, NFHS and UN estimates retain different reference dates and methods.
+CLOSE DISTINCTION: Crude birth/death rates, TFR, replacement fertility, dependency ratio, sex
+  ratio, life expectancy and population pyramid answer different questions; demographic
+  dividend is a conditional age-structure opportunity, not an automatic growth bonus, and
+  Census 2011, SRS, NFHS and UN estimates retain different reference dates and methods.
+CLOSE DISTINCTION: Crude birth/death rates, TFR, replacement fertility, dependency ratio, sex
+  ratio, life expectancy and population pyramid answer different questions; demographic
+  dividend is a conditional age-structure opportunity, not an automatic growth bonus, and
+  Census 2011, SRS, NFHS and UN estimates retain different reference dates and methods.
 
 ASCII MASTER FLOW — PANEL 11/12: World divergence under one model
 SUB-SAHARAN AFRICA -> youthful, high-growth structures remain common
 EUROPE / EAST ASIA -> low fertility, ageing and labour shortage concerns
 INDIA -> dividend window plus internal divergence at the same time
 LESSON -> one transition model yields very different policy problems
+EVIDENCE LIMIT: India must be mapped through Kerala/Tamil Nadu ageing and low fertility,
+  EAG-state youth and higher fertility, urban-rural and gender contrasts, and
+  migration-adjusted state patterns; transition theory is descriptive, while policy, health,
+  education, labour absorption and gender agency explain divergent pathways.
+EVIDENCE LIMIT: India must be mapped through Kerala/Tamil Nadu ageing and low fertility,
+  EAG-state youth and higher fertility, urban-rural and gender contrasts, and
+  migration-adjusted state patterns; transition theory is descriptive, while policy, health,
+  education, labour absorption and gender agency explain divergent pathways.
+EVIDENCE LIMIT: India must be mapped through Kerala/Tamil Nadu ageing and low fertility,
+  EAG-state youth and higher fertility, urban-rural and gender contrasts, and
+  migration-adjusted state patterns; transition theory is descriptive, while policy, health,
+  education, labour absorption and gender agency explain divergent pathways.
 EVIDENCE LIMIT: India must be mapped through Kerala/Tamil Nadu ageing and low fertility,
   EAG-state youth and higher fertility, urban-rural and gender contrasts, and
   migration-adjusted state patterns; transition theory is descriptive, while policy, health,

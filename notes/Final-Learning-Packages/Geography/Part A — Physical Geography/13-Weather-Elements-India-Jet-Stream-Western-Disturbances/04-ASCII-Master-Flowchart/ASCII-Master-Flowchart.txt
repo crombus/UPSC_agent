@@ -7,6 +7,10 @@ MUST REMEMBER: Weather elements connect radiation balance, temperature, pressure
   force, Coriolis/friction, humidity, stability, condensation, clouds and precipitation;
   upper-air Rossby waves, subtropical jet and western-disturbance tracks anchor Indian
   seasonality.
+MUST REMEMBER: Weather elements connect radiation balance, temperature, pressure-gradient
+  force, Coriolis/friction, humidity, stability, condensation, clouds and precipitation;
+  upper-air Rossby waves, subtropical jet and western-disturbance tracks anchor Indian
+  seasonality.
 
 ASCII MASTER FLOW — PANEL 2/12: Heat-budget ledger
 SUN -> incoming shortwave
@@ -64,12 +68,18 @@ RULE -> jets are parts of wider circulation
 CLOSE DISTINCTION: Humidity, relative humidity and dew point differ; weather differs from
   climate, jet stream from surface wind, and a western disturbance is an eastward-moving
   extratropical system embedded in westerlies rather than a western Indian monsoon branch.
+CLOSE DISTINCTION: Humidity, relative humidity and dew point differ; weather differs from
+  climate, jet stream from surface wind, and a western disturbance is an eastward-moving
+  extratropical system embedded in westerlies rather than a western Indian monsoon branch.
 
 ASCII MASTER FLOW — PANEL 11/12: Western-disturbance chain
 UPPER TROUGH / LOW -> eastward westerly motion
 MOISTURE + DYNAMICAL LIFT -> cloud and rain/snow
 HIMALAYA + PLAINS -> terrain-specific impacts
 OUTCOME -> beneficial or damaging by timing/intensity
+EVIDENCE LIMIT: Jet position is one control among topography, blocking, moisture supply and
+  synoptic evolution; event attribution and seasonal forecasts require dated agency evidence
+  and probabilistic language.
 EVIDENCE LIMIT: Jet position is one control among topography, blocking, moisture supply and
   synoptic evolution; event attribution and seasonal forecasts require dated agency evidence
   and probabilistic language.

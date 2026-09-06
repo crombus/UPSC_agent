@@ -6,6 +6,9 @@ RAMSAR SITE -> international designation, not basin origin
 MUST REMEMBER: Lake classification must follow basin origin—tectonic, volcanic, glacial,
   fluvial, karst, coastal, aeolian, landslide or artificial—then water balance, mixing,
   sediment and succession; Indian wetlands add Ramsar and domestic-governance layers.
+MUST REMEMBER: Lake classification must follow basin origin—tectonic, volcanic, glacial,
+  fluvial, karst, coastal, aeolian, landslide or artificial—then water balance, mixing,
+  sediment and succession; Indian wetlands add Ramsar and domestic-governance layers.
 
 ASCII MASTER FLOW — PANEL 2/12: Lake-origin tree
 EARTH MOVEMENT -> tectonic or volcanic basin
@@ -63,12 +66,18 @@ LIMIT -> listing is not automatic National Park status
 CLOSE DISTINCTION: Lake, lagoon, oxbow, reservoir and wetland are not synonyms;
   freshwater/saline and exorheic/endorheic are separate axes, while Ramsar designation is
   international recognition rather than ownership transfer or automatic protection.
+CLOSE DISTINCTION: Lake, lagoon, oxbow, reservoir and wetland are not synonyms;
+  freshwater/saline and exorheic/endorheic are separate axes, while Ramsar designation is
+  international recognition rather than ownership transfer or automatic protection.
 
 ASCII MASTER FLOW — PANEL 11/12: India governance chain
 INVENTORY -> identify and delineate system
 NOTIFICATION / RULES -> regulate activities
 PLAN / NPCA -> finance and implement management
 MONITOR -> prove ecological response
+EVIDENCE LIMIT: Area, designation count and ecological status are time-sensitive; shrinkage or
+  eutrophication needs inflow, evaporation, abstraction, nutrients, encroachment and catchment
+  evidence rather than one-cause attribution.
 EVIDENCE LIMIT: Area, designation count and ecological status are time-sensitive; shrinkage or
   eutrophication needs inflow, evaporation, abstraction, nutrients, encroachment and catchment
   evidence rather than one-cause attribution.

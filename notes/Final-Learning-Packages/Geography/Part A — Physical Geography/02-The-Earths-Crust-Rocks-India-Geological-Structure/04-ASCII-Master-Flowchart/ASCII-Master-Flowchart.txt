@@ -23,6 +23,9 @@ The cycle is a network: no rock family has one compulsory next stage.
 MUST REMEMBER: Crustal analysis connects seismic evidence, compositional and rheological
   layers, rock cycle, plate boundaries and Wilson-cycle logic to India's cratons, mobile
   belts, Gondwana basins, Deccan volcanics, Himalaya and Indo-Gangetic foredeep.
+MUST REMEMBER: Crustal analysis connects seismic evidence, compositional and rheological
+  layers, rock cycle, plate boundaries and Wilson-cycle logic to India's cratons, mobile
+  belts, Gondwana basins, Deccan volcanics, Himalaya and Indo-Gangetic foredeep.
 
 ASCII MASTER FLOW — PANEL 2/12: Igneous, sedimentary and metamorphic diagnostic matrix
 +--------------+----------------------+---------------------------+
@@ -180,27 +183,27 @@ Answer order: thesis -> map -> evidence -> mechanism -> India example
 
 ASCII MASTER FLOW — PANEL 9/12: Evidence ladder and confidence control
 EVIDENCE LADDER
-1. = from source book = inference / standard knowledge = current affairs.
-2. Sedimentary characteristics: derived from pre-existing rock (igneous...
-3. Quartzite Sandstone Hard; source rock easily identified
-VERDICT: Source type controls the strength and limits of the historical claim.
+1. Archaeology gives context; inscriptions acts; coins circulation; texts intent.
+2. Date each layer, sample or record before comparing sources.
+3. Triangulate independent evidence only at matching time, place and scale.
+VERDICT: Fit the source to the question and state the residual uncertainty.
 
 ASCII MASTER FLOW — PANEL 10/12: Examiner traps and contested boundaries
 CLOSE DISTINCTIONS
-1. Evidence tags: [FACT] directly retrieved or officially verified...
-2. Causal method Initial condition -> energy/force or driver ->...
-3. [LIMIT] No volatile reserve percentage, unsupported plate rate,...
-VERDICT: Qualification earns marks; false certainty is a hard failure.
+1. Texts are layered; inscriptions formulaic; coins travel beyond political borders.
+2. Scientific dates are sample ranges; material culture is not language or ethnicity.
+3. Absence matters only after survivability, search coverage and patterned silence.
+VERDICT: Source proximity improves evidence, not automatic neutrality.
 CLOSE DISTINCTION: Crust is compositional while lithosphere is mechanical; continental crust
   is generally granitic and less dense, oceanic crust basaltic and denser, and a shield,
   craton, platform, basin and plate are not interchangeable map units.
 
 ASCII MASTER FLOW — PANEL 11/12: Integrated answer spine and qualified conclusion
 ANSWER SPINE
-1. Learner-v2 generation g2 Part A - Physical Geography Prelims GS-I +...
-2. Practice contract Every solved item has demand decoding, a detailed...
-3. Geological Survey of India/PIB - Field Season 2025-26 conclusion and...
-VERDICT: Claim, named evidence, analysis and qualification lead to a graded...
+1. Decode the directive and select the source class that fits the claim.
+2. Write claim -> named evidence -> inference -> limitation -> corroboration.
+3. Use 2018 travellers, 2023 literary authors and 2024 site matching as anchors.
+VERDICT: Independent convergence strengthens history without erasing differences.
 EVIDENCE LIMIT: Present relief is a multi-stage tectonic-denudational product; rock age,
   orogeny, mineralisation and surface form need not coincide, so geological association
   supports probability rather than deterministic resource claims.

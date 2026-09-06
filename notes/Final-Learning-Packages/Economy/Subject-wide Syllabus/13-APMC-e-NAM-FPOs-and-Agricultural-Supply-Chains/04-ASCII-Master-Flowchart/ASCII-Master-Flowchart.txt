@@ -34,6 +34,7 @@ MEMBER TRUST + GOVERNANCE
 WORKING CAPITAL + MANAGEMENT
 BUSINESS VOLUME + QUALITY
 RELIABLE BUYER + PAYMENT
+CLOSE DISTINCTION: APMC is not a single national statute, e-NAM listing is not integrated...
 
 ASCII MASTER FLOW — PANEL 7/12: Warehouse-finance rail
 ACCREDITED STORAGE
@@ -58,17 +59,16 @@ MANY SMALL SELLERS
 FEW LOCAL BUYERS
 TIED CREDIT / INFORMATION GAP
 FPO + COMPETITION can rebalance
-CLOSE DISTINCTION: APMC is not a single national statute, e-NAM listing is not integrated...
 
 ASCII MASTER FLOW — PANEL 11/12: High-value crop gate
 CAN IT BE GROWN?
 CAN IT BE STORED / MOVED?
 IS QUALITY MEASURABLE?
 IS THERE A RELIABLE BUYER?
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Map state law, market licence, assaying,...
 
 ASCII MASTER FLOW — PANEL 12/12: Marketing answer spine
 SEPARATE law, platform and infrastructure
 TRACE product, payment, information and risk
 TEST FPO and buyer bargaining power
 CONCLUDE with integrated reform
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Map state law, market licence, assaying,...

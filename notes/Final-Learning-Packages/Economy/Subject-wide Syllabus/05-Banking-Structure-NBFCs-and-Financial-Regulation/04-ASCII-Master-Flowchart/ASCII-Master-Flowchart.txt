@@ -34,6 +34,7 @@ MOST DOMESTIC BANKS -> 40 per cent overall
 AGRICULTURE -> 18 per cent
 SMALL/MARGINAL FARMERS -> 10 per cent
 WEAKER SECTIONS -> 12 per cent
+CLOSE DISTINCTION: Bank is not NBFC, deposit-taking permission is not universal,...
 
 ASCII MASTER FLOW — PANEL 7/12: PSL status gate
 TARGETS COME FROM RBI MASTER DIRECTIONS
@@ -58,17 +59,16 @@ RBI -> banks + NBFCs + payments
 SEBI -> securities
 IRDAI / PFRDA -> insurance / pensions
 FSDC -> cross-sector coordination
-CLOSE DISTINCTION: Bank is not NBFC, deposit-taking permission is not universal,...
 
 ASCII MASTER FLOW — PANEL 11/12: Balance-sheet and inclusion traps
 LOANS / INVESTMENTS -> assets
 DEPOSITS -> liabilities
 FI-INDEX -> Access + Usage + Quality
 SYNDICATION -> shared exposure, not zero risk
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Identify regulator, statute/direction,...
 
 ASCII MASTER FLOW — PANEL 12/12: Financial-regulation answer spine
 CLASSIFY institution and powers
 MAP funding + leverage + safety net
 TRACE contagion and supervision
 BALANCE inclusion, diversity and stability
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Identify regulator, statute/direction,...

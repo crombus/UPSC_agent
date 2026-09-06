@@ -34,6 +34,7 @@ PATTERN -> crop-area distribution
 INTENSITY -> gross cropped / net sown area
 DIVERSIFICATION -> crop / allied shift
 EACH needs stated time + geography
+CLOSE DISTINCTION: Land record is not title guarantee, abolition is not complete...
 
 ASCII MASTER FLOW — PANEL 7/12: Diversification decision board
 AGRO-CLIMATE + WATER
@@ -58,17 +59,16 @@ VISVESVARAYA -> sluice gates + block irrigation
 SWAMINATHAN -> semi-dwarf crop adaptation
 ENGINEERING -> assured water systems
 CROP SCIENCE -> yield response
-CLOSE DISTINCTION: Land record is not title guarantee, abolition is not complete...
 
 ASCII MASTER FLOW — PANEL 11/12: Agrarian trade-offs
 SECURE TENURE -> investment / owner concerns
 CONSOLIDATION -> scale / vulnerable-user safeguards
 HIGH YIELD -> food security / ecological cost
 DIVERSIFICATION -> resilience / market risk
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Use state-specific law and period,...
 
 ASCII MASTER FLOW — PANEL 12/12: Agrarian answer spine
 DEFINE rights, records and holding structure
 TRACE technology + water + market package
 COMPARE regional outcomes and trade-offs
 CONCLUDE with viable diversification
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Use state-specific law and period,...

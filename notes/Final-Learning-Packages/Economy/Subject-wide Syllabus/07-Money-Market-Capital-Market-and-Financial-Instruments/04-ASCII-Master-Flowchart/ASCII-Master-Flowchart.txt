@@ -34,6 +34,7 @@ RBI -> money market + G-Secs + payment rails
 SEBI -> securities issuance + exchanges
 IFSCA -> unified IFSC perimeter
 KEEP instrument, venue and regulator distinct
+CLOSE DISTINCTION: Primary is not secondary, money market is not merely cash, yield is...
 
 ASCII MASTER FLOW — PANEL 7/12: G-Sec trading infrastructure
 NDS-OM -> electronic G-Sec trading
@@ -58,17 +59,16 @@ RTGS -> real time + gross + transaction-wise
 NEFT -> batch settlement
 BOTH -> owner records continuous operation
 PAYMENT RAIL is not a capital-market security
-CLOSE DISTINCTION: Primary is not secondary, money market is not merely cash, yield is...
 
 ASCII MASTER FLOW — PANEL 11/12: Receivables and physical assets
 TReDS -> accepted MSME receivable discounting
 ETF / SWAP -> financial instruments
 MOTOR VEHICLE -> physical asset
 COLLATERAL status does not change asset class
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State issuer, maturity, claim, quotation,...
 
 ASCII MASTER FLOW — PANEL 12/12: Financial-market answer spine
 CLASSIFY tenor, issuer and claim
 MAP primary versus secondary function
 TRACE trading, clearing and settlement
 BALANCE depth with disclosure and resilience
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State issuer, maturity, claim, quotation,...

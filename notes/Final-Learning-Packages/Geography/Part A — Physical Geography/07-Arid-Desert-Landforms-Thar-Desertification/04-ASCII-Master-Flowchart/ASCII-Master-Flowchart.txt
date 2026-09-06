@@ -6,6 +6,9 @@ DESERTIFICATION -> degradation within drylands
 MUST REMEMBER: Arid geomorphology links moisture deficit, sparse cover, mechanical weathering,
   episodic runoff, deflation, abrasion and dune migration; pediment–bajada–playa and Thar
   land-use pressures frame desertification as land degradation.
+MUST REMEMBER: Arid geomorphology links moisture deficit, sparse cover, mechanical weathering,
+  episodic runoff, deflation, abrasion and dune migration; pediment–bajada–playa and Thar
+  land-use pressures frame desertification as land degradation.
 
 ASCII MASTER FLOW — PANEL 2/12: Desert-forming controls
 SUBTROPICAL HIGH -> descending dry air
@@ -63,12 +66,18 @@ BALANCE -> monitor gains and losses transparently
 CLOSE DISTINCTION: Desert is a climatic moisture condition, desertification is degradation in
   drylands, and drought is a temporary anomaly; barchan, transverse, longitudinal and
   parabolic dunes encode different wind/sediment/vegetation controls.
+CLOSE DISTINCTION: Desert is a climatic moisture condition, desertification is degradation in
+  drylands, and drought is a temporary anomaly; barchan, transverse, longitudinal and
+  parabolic dunes encode different wind/sediment/vegetation controls.
 
 ASCII MASTER FLOW — PANEL 11/12: Restoration matrix
 WIND EROSION -> cover, shelter and dune management
 RUNOFF EROSION -> contour and watershed treatment
 SALINITY -> drainage and water balance
 RANGELAND DECLINE -> native grass + institutions
+EVIDENCE LIMIT: Wind is not the sole desert agent and every dune is not freely migrating;
+  grazing, irrigation salinity, groundwater, shelterbelts and rainfall variability have
+  locally different effects, so causal conclusions must be spatially qualified.
 EVIDENCE LIMIT: Wind is not the sole desert agent and every dune is not freely migrating;
   grazing, irrigation salinity, groundwater, shelterbelts and rainfall variability have
   locally different effects, so causal conclusions must be spatially qualified.

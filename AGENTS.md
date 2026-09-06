@@ -27,6 +27,26 @@ PDF work—not only exports.
   folder when needed. Use the repository's established subject spelling.
 - A quick-glance export does not satisfy or replace either mandatory master-flow representation
   required for `Notes`, a complete learning session or `Export PDF`.
+- **Whole-knowledge-base atlas:** the active atlas covers every source-ready topic in
+  `upsc-ai-kit\manifests\v2\topic-catalog.json` except Essay, CSAT, Qualifying English and
+  Qualifying Hindi. Process topics strictly in catalogue order and finish one chart before
+  starting the next.
+- Do not batch-generate chart content, use a fast/generic template, compress source coverage or
+  mark a topic complete from an outline. Read that topic's complete canonical Core/Basic owner,
+  Advanced owner and relevant verified PYQs, author its topic-specific tree, save it, then refresh
+  `quick_galance\TREE-CHART-INDEX.md` and `quick_galance\TREE-CHART-STATUS.json`.
+- `tools\generate_quick_glance_index.py` may regenerate only the inventory and completion status;
+  it must never generate chart content.
+- `Continue Quick-Glance Atlas` resolves `next_pending` from
+  `quick_galance\TREE-CHART-STATUS.json` and generates exactly that one topic. It must not skip
+  ahead or generate multiple topics in one invocation.
+- While the quick-glance atlas is active, the standalone command `Next` is an exact alias for
+  `Continue Quick-Glance Atlas`: resolve and generate only the first pending topic.
+- After every successfully completed atlas topic, include the exact next copy-ready
+  `Export Tree Chart: ...` command in the final response. If no topic remains, state that the atlas
+  is complete instead.
+- Keep the copy-ready pending queue at `quick_galance\TREE-CHART-COMMAND-INDEX.md`; regenerate it
+  together with the completion index after every completed chart.
 
 ## Compact Visual Layout
 

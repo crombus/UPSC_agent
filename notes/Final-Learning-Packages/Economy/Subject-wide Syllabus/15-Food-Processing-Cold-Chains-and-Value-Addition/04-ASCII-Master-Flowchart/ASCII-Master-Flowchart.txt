@@ -34,6 +34,7 @@ PERISHABLE PRICE STRESS
 SPECIFIED COMMODITY / WINDOW
 STORAGE + PROCESSING LINK
 NOT universal farm-price insurance
+CLOSE DISTINCTION: Processing is not only manufacturing, cold storage is not an end-to-...
 
 ASCII MASTER FLOW — PANEL 7/12: Food Park cluster
 COLLECTION CENTRE
@@ -58,17 +59,16 @@ FARM-GATE SORTING
 COLD LOGISTICS + MAINTENANCE
 PROCESSING + PACKAGING + TESTING
 RETAIL / EXPORT; test formality + seasonality
-CLOSE DISTINCTION: Processing is not only manufacturing, cold storage is not an end-to-...
 
 ASCII MASTER FLOW — PANEL 11/12: Small-processor constraint wheel
 WORKING CAPITAL
 POWER + TECHNOLOGY
 TESTING + FORMALISATION
 MARKET + BRAND + DISTRIBUTION
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Use commodity-specific chain,...
 
 ASCII MASTER FLOW — PANEL 12/12: Processing answer spine
 DEFINE chain and accounting units
 MAP missing node and scheme stage
 TEST standards, jobs and bargaining
 CONCLUDE with throughput + fair value capture
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Use commodity-specific chain,...

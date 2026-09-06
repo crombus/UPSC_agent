@@ -5,6 +5,7 @@ COP OR CMA -> party decision-making forum
 NATIONAL GOVERNMENT -> policy and implementation
 RULE -> assessment evidence is not a negotiated obligation
 MUST REMEMBER: IPCC assesses published evidence through Working Groups and synthesis...
+MUST REMEMBER: IPCC assesses published evidence through Working Groups and synthesis...
 
 ASCII MASTER FLOW — PANEL 2/12: Assessment-production rail
 PUBLISHED LITERATURE -> assessed evidence base
@@ -69,6 +70,7 @@ PUBLICATION -> completed assessment baseline
 NEW STUDIES -> may post-date the cut-off
 NEXT PRODUCT -> later incorporation is not automatic
 CLOSE DISTINCTION: Assessment report is not treaty decision, scenario is not forecast,...
+CLOSE DISTINCTION: Assessment report is not treaty decision, scenario is not forecast,...
 
 ASCII MASTER FLOW — PANEL 11/12: AR6-AR7 status board
 AR6 -> completed assessment cycle
@@ -76,6 +78,7 @@ AR7 -> cycle in progress in official material checked
 OUTLINE -> planned coverage, not evidence
 SCHEDULE -> intended timing, not publication
 EXAM RULE -> cite report, year, group and status exactly
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name report, working group, release date,...
 EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Name report, working group, release date,...
 
 ASCII MASTER FLOW — PANEL 12/12: IPCC answer spine

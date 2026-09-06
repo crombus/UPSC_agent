@@ -34,6 +34,7 @@ FOUR STRATEGIC SECTORS -> bare-minimum public presence
 OTHER STRATEGIC CPSEs -> privatise / merge / subsidiary / close
 NON-STRATEGIC -> privatise where feasible or consider closure
 EXCLUDED CLASSES -> preserve official policy boundary
+CLOSE DISTINCTION: Liberalisation is not absence of regulation, privatisation is not...
 
 ASCII MASTER FLOW — PANEL 7/12: Disinvestment versus monetisation
 DISINVESTMENT -> equity stake
@@ -58,17 +59,16 @@ SECOND PLAN -> heavy / basic industry
 SIXTH -> modernisation + productivity
 SEVENTH -> technology + early delicensing
 EIGHTH -> post-1991 industrial + financial reform
-CLOSE DISTINCTION: Liberalisation is not absence of regulation, privatisation is not...
 
 ASCII MASTER FLOW — PANEL 11/12: Objective PYQ distinctions
 CCO -> regulatory office; CIL -> producer
 CSR -> statutory Board duty; not ordinary tax
 SCHEDULES A/B/C -> 1956 vintage
 ANSWER KEY -> never infer from routing
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Separate 1991 measures by legal/executive...
 
 ASCII MASTER FLOW — PANEL 12/12: Industrial-policy answer spine
 TRACE chronology and binding constraint
 DISTINGUISH licensing, ownership and control
 TEST competition, capability, jobs and regions
 CONCLUDE with explicit mandates + review
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Separate 1991 measures by legal/executive...

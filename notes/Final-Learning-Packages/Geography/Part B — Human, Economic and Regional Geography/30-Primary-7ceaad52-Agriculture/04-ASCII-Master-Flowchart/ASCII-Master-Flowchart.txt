@@ -23,6 +23,10 @@ MUST REMEMBER: Agricultural geography reconstructs land use through physical con
   labour, technology, markets and policy; it compares subsistence/commercial,
   intensive/extensive, plantation, mixed, dairy, Mediterranean, shifting, pastoral and von
   Thünen location logics before mapping India's crop seasons and agro-regions.
+MUST REMEMBER: Agricultural geography reconstructs land use through physical controls, tenure,
+  labour, technology, markets and policy; it compares subsistence/commercial,
+  intensive/extensive, plantation, mixed, dairy, Mediterranean, shifting, pastoral and von
+  Thünen location logics before mapping India's crop seasons and agro-regions.
 
 ASCII MASTER FLOW — PANEL 2/12: Farming-system classification by ecology, labour and market
 +----------------------+-----------------------+----------------------+
@@ -197,6 +201,10 @@ CLOSE DISTINCTION: Kharif, rabi and zaid are seasons rather than crop essences; 
   differs from gross cropped area, cropping intensity from yield, MSP announcement from
   procurement, food security from cereal self-sufficiency, and irrigation potential from
   realised equitable water delivery.
+CLOSE DISTINCTION: Kharif, rabi and zaid are seasons rather than crop essences; net sown area
+  differs from gross cropped area, cropping intensity from yield, MSP announcement from
+  procurement, food security from cereal self-sufficiency, and irrigation potential from
+  realised equitable water delivery.
 
 ASCII MASTER FLOW — PANEL 11/12: Integrated answer spine and qualified conclusion
 ANSWER SPINE
@@ -204,6 +212,11 @@ ANSWER SPINE
 2. NATURAL BASE -> FARMING SYSTEM -> LOCATION -> MARKET LINK -> CHANGE...
 3. In Prelims, UPSC separates close classifications. In Mains, it...
 VERDICT: Claim, named evidence, analysis and qualification lead to a graded...
+EVIDENCE LIMIT: Punjab–Haryana wheat-rice, western Maharashtra sugarcane, Malwa
+  cotton/soybean, Assam tea, Kerala rubber/spices, Karnataka coffee, eastern rice, dryland
+  Deccan millets/pulses and horticultural belts must be explained through water, soil, labour,
+  market and policy interactions, with Agriculture Census/land-use/production data
+  source-dated.
 EVIDENCE LIMIT: Punjab–Haryana wheat-rice, western Maharashtra sugarcane, Malwa
   cotton/soybean, Assam tea, Kerala rubber/spices, Karnataka coffee, eastern rice, dryland
   Deccan millets/pulses and horticultural belts must be explained through water, soil, labour,

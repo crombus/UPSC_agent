@@ -34,6 +34,7 @@ EXPLICIT STATE SUBSIDY
 CROSS-SUBSIDY
 REGULATORY ASSET
 DISCOM DEBT / UNDER-RECOVERY
+CLOSE DISTINCTION: Capacity in MW is not generation in MWh, plant load factor is not...
 
 ASCII MASTER FLOW — PANEL 7/12: DISCOM diagnostic
 AT&C -> energy recovery
@@ -58,17 +59,16 @@ VARIABLE CAPACITY
 -> GRID + FORECAST
 -> FLEXIBILITY + STORAGE
 -> RELIABLE GENERATION VALUE
-CLOSE DISTINCTION: Capacity in MW is not generation in MWh, plant load factor is not...
 
 ASCII MASTER FLOW — PANEL 11/12: Status and unit ladder
 ANNOUNCED / BILL
 APPROVED / SANCTIONED / OUTLAY
 INSTALLED CAPACITY
 GENERATION + SERVICE OUTCOME
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State fuel/technology, stock or flow, unit,...
 
 ASCII MASTER FLOW — PANEL 12/12: Energy-economics answer spine
 DEFINE carrier + unit + layer
 TRACE network + tariff + regulator
 TEST security + transition
 CONCLUDE service, not headline capacity
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State fuel/technology, stock or flow, unit,...

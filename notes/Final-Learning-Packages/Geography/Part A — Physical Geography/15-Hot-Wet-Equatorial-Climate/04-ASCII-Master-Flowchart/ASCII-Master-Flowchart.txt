@@ -6,6 +6,9 @@ HIGHLANDS / MARGINS -> altitude or monsoon modification
 MUST REMEMBER: Equatorial Af climate follows year-round high sun, ITCZ convection, humid air
   and weak annual thermal range, producing frequent rainfall, evergreen stratification,
   intense chemical weathering and leached soils in Amazon, Congo and Maritime Southeast Asia.
+MUST REMEMBER: Equatorial Af climate follows year-round high sun, ITCZ convection, humid air
+  and weak annual thermal range, producing frequent rainfall, evergreen stratification,
+  intense chemical weathering and leached soils in Amazon, Congo and Maritime Southeast Asia.
 
 ASCII MASTER FLOW — PANEL 2/12: Convection day cycle
 MORNING SUN -> moist surface heating
@@ -63,12 +66,18 @@ LEGAL STATUS -> separate administrative category
 CLOSE DISTINCTION: Equatorial does not mean everywhere exactly on the Equator, convectional
   rainfall is not continuous all-day rain, and luxuriant biomass does not imply nutrient-rich
   soil because rapid cycling stores nutrients mainly in biomass.
+CLOSE DISTINCTION: Equatorial does not mean everywhere exactly on the Equator, convectional
+  rainfall is not continuous all-day rain, and luxuriant biomass does not imply nutrient-rich
+  soil because rapid cycling stores nutrients mainly in biomass.
 
 ASCII MASTER FLOW — PANEL 11/12: Verified PYQ pair
 2021 -> rainforest vegetation structure
 2023 -> nutrients and decomposition
 LEDGER -> official answer letters withheld
 METHOD -> teach distinction; do not invent key
+EVIDENCE LIMIT: Deforestation alters energy, moisture and nutrient cycles but rainfall
+  feedback magnitude varies by scale and region; Indian evergreen forests are analogues with
+  monsoonal/topographic differences, not Af replicas.
 EVIDENCE LIMIT: Deforestation alters energy, moisture and nutrient cycles but rainfall
   feedback magnitude varies by scale and region; Indian evergreen forests are analogues with
   monsoonal/topographic differences, not Af replicas.

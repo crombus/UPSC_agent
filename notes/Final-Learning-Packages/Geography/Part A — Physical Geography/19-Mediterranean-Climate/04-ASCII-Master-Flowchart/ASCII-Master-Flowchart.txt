@@ -6,6 +6,9 @@ SW / SOUTH AUSTRALIA -> fifth region
 MUST REMEMBER: Mediterranean Cs climate results from summer subtropical-high subsidence and
   winter westerly cyclone/frontal rain on western margins, supporting sclerophyll vegetation,
   winter cereals, vines, olives and high summer fire risk.
+MUST REMEMBER: Mediterranean Cs climate results from summer subtropical-high subsidence and
+  winter westerly cyclone/frontal rain on western margins, supporting sclerophyll vegetation,
+  winter cereals, vines, olives and high summer fire risk.
 
 ASCII MASTER FLOW — PANEL 2/12: Seasonal pressure switch
 SUMMER -> subtropical high shifts poleward
@@ -63,12 +66,18 @@ MAHARASHTRA -> grape belt, not Cs climate
 CLOSE DISTINCTION: Mediterranean climate is not confined to the Mediterranean Basin, winter
   rainfall is not monsoonal reversal, and chaparral, maquis, fynbos and mallee are regional
   analogues rather than identical floras.
+CLOSE DISTINCTION: Mediterranean climate is not confined to the Mediterranean Basin, winter
+  rainfall is not monsoonal reversal, and chaparral, maquis, fynbos and mallee are regional
+  analogues rather than identical floras.
 
 ASCII MASTER FLOW — PANEL 11/12: Apple viability ladder
 WINTER CHILL -> cultivar-specific dormancy
 SITE -> frost, hail, aspect and water
 HARVEST -> grading and storage
 MARKET -> roads, cold chain and timing
+EVIDENCE LIMIT: Fire is climate-enabled but ignition, fuel management and settlement shape
+  disaster; Himalayan fruit belts share horticultural traits but not the complete
+  Mediterranean circulation regime.
 EVIDENCE LIMIT: Fire is climate-enabled but ignition, fuel management and settlement shape
   disaster; Himalayan fruit belts share horticultural traits but not the complete
   Mediterranean circulation regime.

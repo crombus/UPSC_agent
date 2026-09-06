@@ -5,8 +5,8 @@ Topic: Vulcanism and Earthquakes / India Seismic Zones
 Subject: Geography
 Section: Part A — Physical Geography
 Catalogue number: 03
-Source record ID: geography-03:learner-v2:g9
-Source generation: 9
+Source record ID: geography-03:learner-v2:g10
+Source generation: 10
 Approval: Approval pending
 
 Deliverables

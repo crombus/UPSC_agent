@@ -23,6 +23,10 @@ MUST REMEMBER: Vulcanism and seismicity follow magma generation, ascent, eruptio
   rupture, wave propagation and site response; India requires Himalayan collision, Kachchh
   intraplate strain, Peninsular reservoirs/faults, Andaman subduction and Barren Island
   anchors.
+MUST REMEMBER: Vulcanism and seismicity follow magma generation, ascent, eruption style, fault
+  rupture, wave propagation and site response; India requires Himalayan collision, Kachchh
+  intraplate strain, Peninsular reservoirs/faults, Andaman subduction and Barren Island
+  anchors.
 
 ASCII MASTER FLOW — PANEL 2/12: Earthquake source geometry, depth and seismogram logic
                          SURFACE
@@ -174,27 +178,27 @@ zone map is not prediction | code publication is not enforcement.
 
 ASCII MASTER FLOW — PANEL 9/12: Evidence ladder and confidence control
 EVIDENCE LADDER
-1. = from source book = inference / standard knowledge = current affairs.
-2. Extinct volcano Geological evidence indicates eruption is no longer...
-3. geophysical evidence; a long-quiescent volcano may still be dormant.
-VERDICT: Source type controls the strength and limits of the historical claim.
+1. Convert relief, water, climate and resources into a dated historical mechanism.
+2. Add technology, labour, institutions and power before claiming an outcome.
+3. State each proxy's catchment, chronology, preservation and alternative causes.
+VERDICT: Geography conditions choices; it does not dictate one inevitable history.
 
 ASCII MASTER FLOW — PANEL 10/12: Examiner traps and contested boundaries
 CLOSE DISTINCTIONS
-1. Causal method Initial condition -> energy/force or driver ->...
-2. PIB/MoES - updated seismic zonation map statement, 17 December 2025,...
-3. SCALE, INTERACTING CONTROL OR EVIDENCE LIMIT
-VERDICT: Qualification earns marks; false certainty is a hard failure.
+1. Mountains are barriers and corridors; rivers are routes and changing hazards.
+2. A palaeochannel is not a named textual river; correlation is not causation.
+3. Resource maps are not political maps; modern borders are not ancient regions.
+VERDICT: Date the landscape, match the scale and preserve regional variation.
 CLOSE DISTINCTION: Magnitude measures source size whereas intensity records effects; focus
   differs from epicentre, P differs from S and surface waves, and a tsunami requires
   water-column displacement rather than every submarine earthquake.
 
 ASCII MASTER FLOW — PANEL 11/12: Integrated answer spine and qualified conclusion
 ANSWER SPINE
-1. Cross-owned but directly relevant Mains PYQ 1
-2. Original solved Mains practice 6
-3. Practice contract Every solved item has demand decoding, a detailed...
-VERDICT: Claim, named evidence, analysis and qualification lead to a graded...
+1. For 2023 GS-I Q1, map mountain, plain, plateau, river, resource and coast.
+2. Write factor -> mechanism -> named evidence -> outcome -> mediation -> limit.
+3. Compare prehistoric, Harappan, Vedic and early historic uses of landscapes.
+VERDICT: Societies selected, connected and transformed geographic possibilities.
 EVIDENCE LIMIT: Hazard is not disaster: exposure, vulnerability, construction and preparedness
   mediate loss; seismic zonation is probabilistic and revised through evidence, while
   prediction claims must not be confused with monitoring or early warning.

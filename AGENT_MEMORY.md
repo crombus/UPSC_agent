@@ -177,6 +177,25 @@ format.
   conclusion. Use branches and arrows with minimal prose, but do not remove exact examinable
   dates, articles, sections or names. This quick-glance chart is a separate revision artifact and
   never replaces the complete ASCII Master Flow Diagram or graphical master-flow package.
+- **Whole-knowledge-base quick-glance atlas (saved 5 September 2026):** generate a separate
+  quick-glance tree for every source-ready catalogue topic except Essay, CSAT, Qualifying English
+  and Qualifying Hindi. Follow the order in
+  `upsc-ai-kit\manifests\v2\topic-catalog.json` strictly, one topic at a time. For each topic, read
+  the complete canonical Core/Basic owner, Advanced owner and relevant verified PYQs; manually
+  author a topic-specific tree with complete examinable coverage; save it under the matching
+  `quick_galance\<Subject>\` folder; and only then update
+  `quick_galance\TREE-CHART-INDEX.md` and `quick_galance\TREE-CHART-STATUS.json`. No batch content
+  generation, fast command, generic template filling, outline-only completion or source
+  compression is permitted. Inventory automation may track files but must never write chart
+  content.
+- **Quick-glance continuation command:** `Continue Quick-Glance Atlas` reads `next_pending` from
+  `quick_galance\TREE-CHART-STATUS.json` and generates exactly one topic before refreshing the
+  status, completion index and `quick_galance\TREE-CHART-COMMAND-INDEX.md`. Never skip the first
+  pending topic or process more than one topic for this command.
+- **Quick-glance `Next` alias:** while this atlas is active, a standalone `Next` means
+  `Continue Quick-Glance Atlas` and must generate exactly the first pending topic. After every
+  atlas completion, print the exact next copy-ready `Export Tree Chart: ...` command; when no
+  pending topic remains, report completion instead.
 - **Verbatim learning-session export (all subjects):** when exporting a completed interactive
   learning session, the notes Markdown and main notes PDF must preserve the teaching **word for
   word and in the original order**, including roadmap, pre-teach checklists, visuals, tables,

@@ -7,6 +7,10 @@ MUST REMEMBER: Cool temperate eastern-margin Laurentian climate combines contine
   masses, maritime moisture, warm-current influence and frontal/cyclonic precipitation,
   yielding warm summers, cold winters and year-round precipitation in northeastern North
   America and northeast Asia.
+MUST REMEMBER: Cool temperate eastern-margin Laurentian climate combines continental air
+  masses, maritime moisture, warm-current influence and frontal/cyclonic precipitation,
+  yielding warm summers, cold winters and year-round precipitation in northeastern North
+  America and northeast Asia.
 
 ASCII MASTER FLOW — PANEL 2/12: Seasonal rainfall mechanism
 WINTER -> continental Westerlies blow dry frigid air from interior
@@ -64,12 +68,18 @@ FOREST -> British: deciduous broadleaf | Laurentian: mixed transitional
 CLOSE DISTINCTION: Laurentian differs from warm China type by colder winters and from Siberian
   interiors by stronger maritime precipitation; warm and cold currents modify coastal
   gradients but do not alone create the whole climate.
+CLOSE DISTINCTION: Laurentian differs from warm China type by colder winters and from Siberian
+  interiors by stronger maritime precipitation; warm and cold currents modify coastal
+  gradients but do not alone create the whole climate.
 
 ASCII MASTER FLOW — PANEL 11/12: Polar-vortex hypothesis
 STRATOSPHERIC DISRUPTION -> weakens polar vortex containment
 COLD ARCTIC AIR -> spills southward into mid-latitudes
 LAURENTIAN REGIONS -> experience severe cold outbreaks
 STATUS -> actively debated link to Arctic sea-ice loss; not settled science
+EVIDENCE LIMIT: Current-air-mass causation must be expressed as interaction with latitude,
+  westerlies and continentality; Eastern Himalayan temperate zones are topographic analogues
+  rather than Laurentian climatic replicas.
 EVIDENCE LIMIT: Current-air-mass causation must be expressed as interaction with latitude,
   westerlies and continentality; Eastern Himalayan temperate zones are topographic analogues
   rather than Laurentian climatic replicas.

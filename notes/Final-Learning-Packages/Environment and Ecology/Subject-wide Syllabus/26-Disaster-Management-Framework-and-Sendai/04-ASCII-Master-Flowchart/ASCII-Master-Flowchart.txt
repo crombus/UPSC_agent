@@ -5,6 +5,7 @@ VULNERABILITY -> susceptibility to damage
 CAPACITY -> resources and ability to manage risk
 RISK -> interaction across a stated place and time
 MUST REMEMBER: Environment Topic 26 owns the climate-ecosystem-Sendai overlap: hazard,...
+MUST REMEMBER: Environment Topic 26 owns the climate-ecosystem-Sendai overlap: hazard,...
 
 ASCII MASTER FLOW — PANEL 2/12: Hazard-to-disaster threshold
 HAZARD OCCURS -> physical or human-induced event
@@ -69,6 +70,7 @@ NATIONAL AND STATE PLANS -> domestic implementation choices
 SECTOR AGENCIES -> warnings infrastructure health and relief
 ALIGNMENT -> policy bridge, not legal identity
 CLOSE DISTINCTION: Hazard is not disaster, resilience is not mere recovery, NDMA is not...
+CLOSE DISTINCTION: Hazard is not disaster, resilience is not mere recovery, NDMA is not...
 
 ASCII MASTER FLOW — PANEL 11/12: Evidence status screen
 LOSS FIGURE -> event date definition and reporting source
@@ -76,6 +78,7 @@ TARGET PROGRESS -> indicator baseline and period
 EARLY WARNING -> hazard geography reach and access
 INSTITUTIONAL POWER -> current statutory provision
 PLAN STATUS -> dated official edition or amendment
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Preserve dedicated Disaster Management...
 EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Preserve dedicated Disaster Management...
 
 ASCII MASTER FLOW — PANEL 12/12: Disaster answer spine

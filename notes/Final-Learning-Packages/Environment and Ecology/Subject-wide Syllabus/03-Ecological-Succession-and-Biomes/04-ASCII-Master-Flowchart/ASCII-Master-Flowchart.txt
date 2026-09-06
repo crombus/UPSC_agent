@@ -40,6 +40,7 @@ ALLOGENIC -> flood, fire, erosion, deposition, climate or land use acts external
 FACILITATION -> early species improve later establishment
 INHIBITION OR TOLERANCE -> alternative replacement mechanisms
 RULE -> identify the driver before naming the mechanism
+CLOSE DISTINCTION: Primary is not secondary succession, pioneer is not universally...
 
 ASCII MASTER FLOW — PANEL 7/12: Climax theory pressure test
 CLASSICAL CLAIM -> regional climate favours a relatively stable climax
@@ -68,7 +69,6 @@ SOIL AND TOPOGRAPHY -> local water and nutrient conditions
 FIRE AND HERBIVORY -> maintain or redirect open vegetation
 LAND-USE HISTORY -> modifies present composition
 BOUNDARY -> biome maps are gradients, not exact site-level lines
-CLOSE DISTINCTION: Primary is not secondary succession, pioneer is not universally...
 
 ASCII MASTER FLOW — PANEL 11/12: Open ecosystem firewall
 GRASSLAND, SAVANNA, SCRUB -> may be natural ecological states
@@ -76,7 +76,6 @@ WASTELAND -> administrative or revenue label
 FOREST -> legal category in the relevant context
 PLANTATION -> land-cover intervention, not proof of restored biome
 DECISION -> assess native biome before afforestation
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State initial substrate, disturbance...
 
 ASCII MASTER FLOW — PANEL 12/12: PYQ and monitoring boundary
 2021 ROUTE -> pioneers surviving on surfaces without soil
@@ -84,3 +83,4 @@ ASCII MASTER FLOW — PANEL 12/12: PYQ and monitoring boundary
 FOREST COVER -> canopy trend, not successional-stage proof
 RESTORATION CLAIM -> needs repeated composition, soil and function evidence
 LIVE STUB -> adds no succession timeline, biome range or status
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State initial substrate, disturbance...

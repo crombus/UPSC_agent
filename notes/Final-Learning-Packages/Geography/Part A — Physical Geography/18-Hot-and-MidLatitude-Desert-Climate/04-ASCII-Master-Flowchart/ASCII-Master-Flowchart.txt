@@ -6,6 +6,9 @@ SAND / HEAT -> possible, not defining
 MUST REMEMBER: Hot deserts cluster near subtropical subsidence, western-margin cold currents,
   continental interiors and rain shadows, while mid-latitude deserts add distance and mountain
   barriers; large diurnal range, episodic rain and xerophytes follow water-energy balance.
+MUST REMEMBER: Hot deserts cluster near subtropical subsidence, western-margin cold currents,
+  continental interiors and rain shadows, while mid-latitude deserts add distance and mountain
+  barriers; large diurnal range, episodic rain and xerophytes follow water-energy balance.
 
 ASCII MASTER FLOW — PANEL 2/12: Aridity cause matrix
 SUBSIDENCE -> stable descending air
@@ -63,12 +66,18 @@ RISKS -> salinity, waterlogging, habitat collision
 CLOSE DISTINCTION: Hot desert differs from cold/mid-latitude desert, aridity from drought, and
   cold current promotes coastal stability/fog rather than directly 'removing' all rain; Thar's
   monsoon-margin setting differs from Sahara's dominant controls.
+CLOSE DISTINCTION: Hot desert differs from cold/mid-latitude desert, aridity from drought, and
+  cold current promotes coastal stability/fog rather than directly 'removing' all rain; Thar's
+  monsoon-margin setting differs from Sahara's dominant controls.
 
 ASCII MASTER FLOW — PANEL 11/12: UNCCD status gate
 COP16 -> Riyadh, 2-13 December 2024
 LAND + DROUGHT -> resilience agenda advanced
 BINDING FRAMEWORK -> not finalised
 PYQ LEDGER -> no direct Topic 18 demand
+EVIDENCE LIMIT: Desert location is multicausal and boundaries migrate; Great Indian Bustard
+  habitat policy, renewable infrastructure and desertification trends require dated, spatially
+  explicit sources and trade-off analysis.
 EVIDENCE LIMIT: Desert location is multicausal and boundaries migrate; Great Indian Bustard
   habitat policy, renewable infrastructure and desertification trends require dated, spatially
   explicit sources and trade-off analysis.

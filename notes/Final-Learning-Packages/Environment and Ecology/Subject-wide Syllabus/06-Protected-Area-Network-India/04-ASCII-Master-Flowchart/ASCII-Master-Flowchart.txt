@@ -40,6 +40,7 @@ ELEPHANT -> wide-ranging corridor and landscape coordination
 BOUNDARY FIT -> stronger for bounded tiger habitat than elephant movement
 JURISDICTION -> multi-state coordination matters for elephants
 RULE -> reserve design must follow species ecology
+CLOSE DISTINCTION: National park is not wildlife sanctuary, conservation reserve is not...
 
 ASCII MASTER FLOW — PANEL 7/12: ESZ legal firewall
 PROTECTED AREA -> Wildlife Protection Act notification
@@ -68,7 +69,6 @@ STATE LEGISLATURE -> owner-recorded role for specified boundary changes
 NBWL -> owner-recorded recommendation or approval safeguard
 NTCA -> additional Tiger Reserve boundary role
 RULE -> identify the exact category before naming the authority
-CLOSE DISTINCTION: National park is not wildlife sanctuary, conservation reserve is not...
 
 ASCII MASTER FLOW — PANEL 11/12: Formal PA and OECM
 FORMAL PA -> statutory category under wildlife law
@@ -76,7 +76,6 @@ OECM -> sustained conservation outcome outside formal PA status
 SACRED OR WORKING LANDSCAPE -> possible OECM route, not automatic status
 COUNTING CLAIM -> needs a verified recognition process
 RULE -> outcome label does not silently create a legal category
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Identify competent authority, Wildlife...
 
 ASCII MASTER FLOW — PANEL 12/12: Evidence and PYQ spine
 CLASSIFY -> PA category, Tiger overlay, ESZ, corridor or OECM
@@ -84,3 +83,4 @@ FIX -> notified boundary and competent authority
 ADD -> rights, connectivity and management mechanism
 DATE -> any count, notification or overlay milestone
 QUALIFY -> designation is not verified protection outcome
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Identify competent authority, Wildlife...

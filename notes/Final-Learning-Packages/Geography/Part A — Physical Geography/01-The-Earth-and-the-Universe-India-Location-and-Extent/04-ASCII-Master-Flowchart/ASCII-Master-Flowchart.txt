@@ -20,6 +20,9 @@ ASCII MASTER FLOW — PANEL 1/12: Earth in the cosmic hierarchy: origin, evidenc
 MUST REMEMBER: Earth-system explanation runs from universe and Solar-System scale through
   rotation, revolution, axial tilt, latitude-longitude and time to India's 8°4′N–37°6′N,
   68°7′E–97°25′E location, 82°30′E standard meridian and Indian Ocean setting.
+MUST REMEMBER: Earth-system explanation runs from universe and Solar-System scale through
+  rotation, revolution, axial tilt, latitude-longitude and time to India's 8°4′N–37°6′N,
+  68°7′E–97°25′E location, 82°30′E standard meridian and Indian Ocean setting.
 
 ASCII MASTER FLOW — PANEL 2/12: Stars, Solar-System bodies and the mass-controlled life cycle
                          NEBULA
@@ -178,16 +181,16 @@ MAP RULE: schematic, not to scale, claim-relevant labels, no improvised borders.
 
 ASCII MASTER FLOW — PANEL 9/12: Evidence ladder and confidence control
 EVIDENCE LADDER
-1. = from source book = inference / standard knowledge = current affairs.
-2. Evidence units available in this file
-3. the atmosphere. Evidence: the aurora forms an oval centred on the...
+1. Separate verified source fact, historical inference and current-status claim.
+2. Topic 01 owns method; Topic 02 owns detailed source classes and techniques.
+3. Write claim -> named evidence -> significance -> limitation.
 VERDICT: Source type controls the strength and limits of the historical claim.
 
 ASCII MASTER FLOW — PANEL 10/12: Examiner traps and contested boundaries
 CLOSE DISTINCTIONS
-1. synthesis [LIMIT] scope, dating or cartographic caution.
-2. Causal method Initial condition -> energy/force or driver ->...
-3. [LIMIT] Maps below are schematic/not to scale and do not depict or...
+1. Attribute contested readings; name their evidence and counter-evidence.
+2. Inscriptions record claims; coins show circulation, not uniform territorial rule.
+3. Co-relate sources; texts are layered and normative, material evidence interpreted.
 VERDICT: Qualification earns marks; false certainty is a hard failure.
 CLOSE DISTINCTION: Rotation causes the diurnal cycle and Coriolis framework, revolution plus
   axial tilt causes seasons; local solar time is longitude-based while IST is a legal
@@ -195,10 +198,10 @@ CLOSE DISTINCTION: Rotation causes the diurnal cycle and Coriolis framework, rev
 
 ASCII MASTER FLOW — PANEL 11/12: Integrated answer spine and qualified conclusion
 ANSWER SPINE
-1. Learner-v2 generation g2 Part A - Physical Geography Prelims GS-I +...
-2. Practice contract Every solved item has demand decoding, a detailed...
-3. Classification: CORE PRELIMS + CORE MAINS
-VERDICT: Claim, named evidence, analysis and qualification lead to a graded...
+1. Define the demand and the controlling historiographical question.
+2. Build each paragraph as claim -> named evidence -> analysis -> qualification.
+3. Compare schools by question, archive, contribution and residual blind spot.
+VERDICT: Evidence and method rank plural readings without pretending finality.
 EVIDENCE LIMIT: Astronomical models, boundary lengths and current administrative counts
   require source/date discipline; location creates opportunities and constraints but does not
   mechanically determine monsoon, trade or strategy.

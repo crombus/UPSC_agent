@@ -5,8 +5,8 @@ Topic: Money Market, Capital Market and Financial Instruments
 Subject: Economy
 Section: Subject-wide Syllabus
 Catalogue number: 07
-Source record ID: economy-07:learner-v2:g2
-Source generation: 2
+Source record ID: economy-07:learner-v2:g3
+Source generation: 3
 Approval: Approval pending
 
 Deliverables

@@ -6,6 +6,9 @@ DESERT MARGIN -> drought risk intensifies
 MUST REMEMBER: Savanna Aw/As climates reflect seasonal ITCZ migration between convective wet
   summers and subtropical-high dry winters, sustaining tall grasses with scattered
   drought/fire-adapted trees across Africa, South America and northern Australia.
+MUST REMEMBER: Savanna Aw/As climates reflect seasonal ITCZ migration between convective wet
+  summers and subtropical-high dry winters, sustaining tall grasses with scattered
+  drought/fire-adapted trees across Africa, South America and northern Australia.
 
 ASCII MASTER FLOW — PANEL 2/12: ITCZ seasonal switch
 HIGH-SUN SEASON -> ITCZ approaches
@@ -63,12 +66,18 @@ LIVELIHOOD -> grazing and tenure design
 CLOSE DISTINCTION: Savanna is tropical grassland, steppe is semi-arid temperate/subtropical
   grassland, and parkland structure is not evidence of a climax maintained by climate alone
   because fire, herbivory and land use matter.
+CLOSE DISTINCTION: Savanna is tropical grassland, steppe is semi-arid temperate/subtropical
+  grassland, and parkland structure is not evidence of a climax maintained by climate alone
+  because fire, herbivory and land use matter.
 
 ASCII MASTER FLOW — PANEL 11/12: Savanna PYQ firewall
 2021 PRELIMS -> tree-limiting conditions
 CLIMATE -> long dry season
 DISTURBANCE -> fire + herbivory
 LEDGER -> no answer letter invented
+EVIDENCE LIMIT: Fire can recycle nutrients and maintain openness but frequency/intensity
+  changes may degrade systems; Indian deciduous forests and grasslands need region-specific
+  rainfall, fire and grazing evidence rather than direct Sudan-type equivalence.
 EVIDENCE LIMIT: Fire can recycle nutrients and maintain openness but frequency/intensity
   changes may degrade systems; Indian deciduous forests and grasslands need region-specific
   rainfall, fire and grazing evidence rather than direct Sudan-type equivalence.

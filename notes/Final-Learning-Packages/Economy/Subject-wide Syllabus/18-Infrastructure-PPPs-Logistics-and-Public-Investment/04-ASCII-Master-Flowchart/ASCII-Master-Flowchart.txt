@@ -34,6 +34,7 @@ ECONOMICALLY JUSTIFIED?
 COMMERCIALLY SUB-VIABLE?
 COMPETITIVE PRIVATE SELECTION?
 NOTIFIED SUPPORT -> still test demand + land + contract
+CLOSE DISTINCTION: PPP is not privatisation, project cost is not annual expenditure,...
 
 ASCII MASTER FLOW — PANEL 7/12: PPP stress and correction
 POST-2012 -> BOT-toll stress
@@ -58,17 +59,16 @@ VIZHINJAM -> trans-shipment project
 SAGARMALA -> port-led programme
 PORT VALUE -> berth + evacuation + customs
 STATUS -> verify actual ramp-up
-CLOSE DISTINCTION: PPP is not privatisation, project cost is not annual expenditure,...
 
 ASCII MASTER FLOW — PANEL 11/12: Station redevelopment logic
 COMMERCIAL LAND / LEASE VALUE
 -> CROSS-SUBSIDISE station upgrade
 RISKS -> footfall + title + coordination
 DUTY -> passenger access + safety + affordability
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Identify model, concession term, risk...
 
 ASCII MASTER FLOW — PANEL 12/12: Infrastructure answer spine
 DEFINE service and project stage
 APPRAISE demand + land + finance
 ALLOCATE risks by controllability
 TEST completion + maintenance + contingent liability
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Identify model, concession term, risk...

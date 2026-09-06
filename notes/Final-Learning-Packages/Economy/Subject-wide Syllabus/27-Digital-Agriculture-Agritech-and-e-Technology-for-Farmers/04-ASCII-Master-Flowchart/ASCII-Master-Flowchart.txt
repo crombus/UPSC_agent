@@ -34,6 +34,7 @@ GEOSPATIAL + ADMIN DATA
 -> MAP + MONITOR + MODEL
 -> HUMAN / OFFICIAL DECISION
 SUPPORT != autonomous authority
+CLOSE DISTINCTION: Registry entry is not land title, platform onboarding is not adoption,...
 
 ASCII MASTER FLOW — PANEL 7/12: e-NAM completion chain
 ONLINE DISCOVERY + BID
@@ -58,17 +59,16 @@ OWNER != CULTIVATOR
 ASSISTED + OFFLINE ACCESS
 DATA CORRECTION
 HUMAN APPEAL
-CLOSE DISTINCTION: Registry entry is not land title, platform onboarding is not adoption,...
 
 ASCII MASTER FLOW — PANEL 11/12: Activity-to-outcome ladder
 REGISTRATION / DEVICE / MESSAGE
 -> ACTIVE ADOPTION
 -> CORRECT DECISION
 -> NET INCOME + RESILIENCE
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Distinguish mission approval, architecture,...
 
 ASCII MASTER FLOW — PANEL 12/12: Digital-agriculture answer spine
 NAME farm-stage problem
 TRACE data -> decision -> action
 ADD physical + institutional complement
 TEST inclusion + outcome + remedy
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Distinguish mission approval, architecture,...

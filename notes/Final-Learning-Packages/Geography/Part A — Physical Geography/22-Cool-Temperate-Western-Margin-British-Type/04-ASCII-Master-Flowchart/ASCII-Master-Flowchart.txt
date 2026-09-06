@@ -6,6 +6,9 @@ LATITUDE BELT -> about 45-65 degrees N and S
 MUST REMEMBER: Cool temperate western-margin British type follows year-round westerlies,
   maritime moderation, frequent frontal cyclones and orographic rain, producing mild winters,
   cool summers, small annual range and deciduous/mixed vegetation.
+MUST REMEMBER: Cool temperate western-margin British type follows year-round westerlies,
+  maritime moderation, frequent frontal cyclones and orographic rain, producing mild winters,
+  cool summers, small annual range and deciduous/mixed vegetation.
 
 ASCII MASTER FLOW — PANEL 2/12: Westerly-ocean mechanism
 WESTERLIES -> permanent onshore flow from warm ocean
@@ -63,12 +66,18 @@ CHIR PINE -> subtropical montane, highly resinous and fire-prone
 CLOSE DISTINCTION: Marine west coast differs from Mediterranean summer-dry climate and
   continental interiors; 'British type' is a climatic shorthand extending to other western
   margins, not a statement that all Britain is uniform.
+CLOSE DISTINCTION: Marine west coast differs from Mediterranean summer-dry climate and
+  continental interiors; 'British type' is a climatic shorthand extending to other western
+  margins, not a statement that all Britain is uniform.
 
 ASCII MASTER FLOW — PANEL 11/12: Water-security-fire chain
 FOREST FLOOR SPONGE -> absorbs rain, feeds springs and rivers
 FOREST LOSS -> reduced infiltration, spring decline, downstream shortage
 CHIR PINE + DRY WEATHER -> fuel accumulation, rapid fire spread
 FIRE DAMAGE -> soil loss, regeneration failure, catchment degradation
+EVIDENCE LIMIT: North Atlantic circulation, latitude, relief and changing storm tracks jointly
+  matter; Himalayan temperate forests are altitudinal analogues under monsoon influence, not
+  marine-west-coast equivalents.
 EVIDENCE LIMIT: North Atlantic circulation, latitude, relief and changing storm tracks jointly
   matter; Himalayan temperate forests are altitudinal analogues under monsoon influence, not
   marine-west-coast equivalents.

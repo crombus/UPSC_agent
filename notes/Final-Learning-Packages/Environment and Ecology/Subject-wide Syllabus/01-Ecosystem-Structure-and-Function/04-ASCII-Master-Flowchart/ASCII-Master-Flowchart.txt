@@ -40,6 +40,7 @@ OVERLAPPING CONDITIONS -> species from both sides may occur
 NEW EDGE CONDITIONS -> some additional specialists may occur
 COMPETITION AND TENSION -> the zone is not automatically benign
 EDGE EFFECT -> possible density or variety pattern, not the definition
+CLOSE DISTINCTION: Habitat is not niche, food chain is not food web, standing crop...
 
 ASCII MASTER FLOW — PANEL 7/12: Forest stratification section
 CANOPY -> high light, wind exposure and arboreal niches
@@ -68,7 +69,6 @@ REGULATING -> flood buffering, pollination and climate moderation
 SUPPORTING -> soil formation, primary production and nutrient cycling
 CULTURAL -> spiritual, aesthetic, recreational and knowledge values
 NCP -> includes relational and indigenous or local-knowledge values
-CLOSE DISTINCTION: Habitat is not niche, food chain is not food web, standing crop...
 
 ASCII MASTER FLOW — PANEL 11/12: Carrying-capacity answer spine
 DEFINE -> sustained load without erosion of regenerative functions
@@ -76,7 +76,6 @@ MEASURE -> regenerative supply, assimilative capacity and connectivity
 CONTEXT -> consumption, technology and governance alter the threshold
 LIMIT -> no timeless fixed headcount follows from the concept
 CONCLUDE -> plan within ecological limits and monitor the response
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Fix system boundary, trophic level, stock...
 
 ASCII MASTER FLOW — PANEL 12/12: Evidence and institution firewall
 BASIC OWNER -> definitions, mechanisms and verified PYQ concepts
@@ -84,3 +83,4 @@ ROUTING LEDGER -> paper, year and neutral demand ownership
 OFFICIAL PAPER OCR -> printed wording only, never an inferred answer key
 FSI OR SURVEY BODY -> extent or inventory within its stated method
 LIVE STUB -> recorded as a failure, never converted into a current claim
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Fix system boundary, trophic level, stock...

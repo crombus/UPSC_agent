@@ -6,6 +6,9 @@ SOUTHERN HEMISPHERE -> absent: no land broad enough at these latitudes
 MUST REMEMBER: Cool temperate continental Siberian/D climate develops in high-latitude
   interiors with long severe winters, short summers, strong annual range, low precipitation
   and taiga conifers adapted to frozen soils and brief growth seasons.
+MUST REMEMBER: Cool temperate continental Siberian/D climate develops in high-latitude
+  interiors with long severe winters, short summers, strong annual range, low precipitation
+  and taiga conifers adapted to frozen soils and brief growth seasons.
 
 ASCII MASTER FLOW — PANEL 2/12: Climate character profile
 WINTER -> bitterly cold, long, sub-Arctic; very large annual range
@@ -63,12 +66,18 @@ SNOWLINE -> permanent snow above the pastoral belt
 CLOSE DISTINCTION: Taiga is boreal conifer forest south of tundra, permafrost extent varies
   and is not synonymous with all seasonally frozen ground, and continental subarctic climate
   differs from polar ET/EF thresholds.
+CLOSE DISTINCTION: Taiga is boreal conifer forest south of tundra, permafrost extent varies
+  and is not synonymous with all seasonally frozen ground, and continental subarctic climate
+  differs from polar ET/EF thresholds.
 
 ASCII MASTER FLOW — PANEL 11/12: Biome comparison strip
 TAIGA -> high-latitude coniferous, below-ground carbon, softwood economy
 STEPPE -> mid-latitude grassland, chernozem soil, mechanised grain
 SAVANNA -> tropical grassland, laterised soil, pastoral subsistence
 DISTINGUISHER -> latitude, rainfall regime, soil type and economic system
+EVIDENCE LIMIT: Cold alone does not determine vegetation: moisture, active-layer depth, fire
+  and disturbance matter; India's subalpine/alpine belts are elevation-controlled analogues
+  with monsoonal and Himalayan differences.
 EVIDENCE LIMIT: Cold alone does not determine vegetation: moisture, active-layer depth, fire
   and disturbance matter; India's subalpine/alpine belts are elevation-controlled analogues
   with monsoonal and Himalayan differences.

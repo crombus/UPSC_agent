@@ -5,6 +5,7 @@ DROUGHT -> abnormal water-deficit event or hazard
 INTERACTION -> drought can intensify degradation
 NO MERGER -> process event and spatial scope differ
 MUST REMEMBER: UNCCD addresses desertification, land degradation and drought through...
+MUST REMEMBER: UNCCD addresses desertification, land degradation and drought through...
 
 ASCII MASTER FLOW — PANEL 2/12: Drought-risk triangle
 HAZARD -> severity duration timing and spatial extent
@@ -69,6 +70,7 @@ BIODIVERSITY -> native open or wooded system respected
 TENURE AND LIVELIHOOD -> users and rights considered
 VERDICT -> aggregate area alone cannot prove replacement
 CLOSE DISTINCTION: Desertification is not desert expansion, land degradation neutrality...
+CLOSE DISTINCTION: Desertification is not desert expansion, land degradation neutrality...
 
 ASCII MASTER FLOW — PANEL 11/12: Dryland response chain
 SOIL COVER -> reduce erosion
@@ -76,6 +78,7 @@ INFILTRATION AND RUNOFF -> watershed treatment
 DEMAND -> groundwater crops and grazing pressure
 INSTITUTIONS -> commons tenure and participation
 ADAPTIVE MONITORING -> drought and recovery feedback
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State definition, baseline, indicator,...
 EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State definition, baseline, indicator,...
 
 ASCII MASTER FLOW — PANEL 12/12: UNCCD answer spine

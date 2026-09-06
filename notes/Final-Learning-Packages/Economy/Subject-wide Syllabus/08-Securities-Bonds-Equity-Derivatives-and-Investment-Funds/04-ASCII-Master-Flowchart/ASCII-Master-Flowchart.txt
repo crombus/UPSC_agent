@@ -34,6 +34,7 @@ POSITION
 -> MARGIN + MARK-TO-MARKET
 -> CLEARING CORPORATION
 RESIDUAL -> basis, liquidity and leverage risk
+CLOSE DISTINCTION: Bondholder is not owner, dividend is not contractual interest, futures...
 
 ASCII MASTER FLOW — PANEL 7/12: Pooled-vehicle map
 MUTUAL FUND -> pooled mandate + NAV
@@ -58,17 +59,16 @@ GREEN BOND -> environmental projects
 SOCIAL BOND -> social projects
 SUSTAINABILITY BOND -> both
 LABEL does not eliminate credit risk
-CLOSE DISTINCTION: Bondholder is not owner, dividend is not contractual interest, futures...
 
 ASCII MASTER FLOW — PANEL 11/12: Investor-protection stack
 DISCLOSURE + PRODUCT LABELLING
 REGISTERED ADVISERS + INTERMEDIARIES
 MARGIN + SETTLEMENT + GRIEVANCE
 LIMIT -> business and market loss remain
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Identify legal claim, payoff,...
 
 ASCII MASTER FLOW — PANEL 12/12: Securities answer spine
 CLASSIFY claim and cash-flow priority
 MAP liquidity promise and leverage
 TRACE regulator and settlement
 MATCH instrument to investor exposure
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Identify legal claim, payoff,...

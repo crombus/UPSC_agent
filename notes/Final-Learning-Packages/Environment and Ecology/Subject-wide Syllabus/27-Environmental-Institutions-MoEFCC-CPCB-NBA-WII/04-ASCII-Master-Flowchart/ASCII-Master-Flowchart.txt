@@ -5,6 +5,7 @@ RESEARCH INSTITUTE -> evidence training and advisory work
 ENFORCEMENT BODY -> investigation or operational compliance role
 TRIBUNAL -> adjudication within statutory jurisdiction
 MUST REMEMBER: Environmental governance distributes policy, standard-setting, consent,...
+MUST REMEMBER: Environmental governance distributes policy, standard-setting, consent,...
 
 ASCII MASTER FLOW — PANEL 2/12: MoEFCC role map
 UNION MINISTRY -> executive policy institution
@@ -69,6 +70,7 @@ DELEGATED POWER -> scope follows delegation
 AUTONOMOUS OR RESEARCH BODY -> institutional mandate
 VERDICT -> cite the exact founding instrument
 CLOSE DISTINCTION: MoEFCC is not CPCB, CPCB standards are not every SPCB consent...
+CLOSE DISTINCTION: MoEFCC is not CPCB, CPCB standards are not every SPCB consent...
 
 ASCII MASTER FLOW — PANEL 11/12: Governance coordination chain
 POLICY -> sets direction
@@ -76,6 +78,7 @@ SCIENCE -> supplies evidence
 STANDARD AND CONSENT -> regulate activity
 MONITORING AND ENFORCEMENT -> test compliance
 ADJUDICATION -> resolves qualifying disputes
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State institution type, parent...
 EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State institution type, parent...
 
 ASCII MASTER FLOW — PANEL 12/12: Institutions answer spine

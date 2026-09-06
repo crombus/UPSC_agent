@@ -34,6 +34,7 @@ PRICE SHOCK
 -> wage and price expectations
 -> second-round adjustments
 -> persistence beyond initial shock
+CLOSE DISTINCTION: Price level is not inflation rate, falling inflation is not falling...
 
 ASCII MASTER FLOW — PANEL 7/12: Policy assignment board
 RBI -> rates + liquidity + communication
@@ -58,17 +59,16 @@ TROUGH -> RECOVERY -> EXPANSION
 -> PEAK -> SLOWDOWN / RECESSION
 POLICY DEPENDS ON output gap and shock
 PHILLIPS CURVE -> guide, not law
-CLOSE DISTINCTION: Price level is not inflation rate, falling inflation is not falling...
 
 ASCII MASTER FLOW — PANEL 11/12: Index-series break
 CPI 2024=100 -> releases from JAN 2026
 WPI 2022-23 base -> MAY 2026 onward
 NEW BASKET != NEW INFLATION
 RULE -> no casual level splicing
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State index, weights/base, month or year...
 
 ASCII MASTER FLOW — PANEL 12/12: Inflation answer spine
 IDENTIFY index + component
 DIAGNOSE demand / cost / supply
 TRACE expectations + distribution
 PRESCRIBE coordinated policy mix
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State index, weights/base, month or year...

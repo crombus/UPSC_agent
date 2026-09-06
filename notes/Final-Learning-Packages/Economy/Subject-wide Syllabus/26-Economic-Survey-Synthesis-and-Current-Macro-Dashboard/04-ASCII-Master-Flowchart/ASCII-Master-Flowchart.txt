@@ -34,6 +34,7 @@ HEADLINE CPI
 FOOD + FUEL components
 CORE proxy
 EXPECTATIONS + POLICY stance
+CLOSE DISTINCTION: Survey projection is not Budget estimate, advance estimate is not...
 
 ASCII MASTER FLOW — PANEL 7/12: Stock-flow external map
 RESERVES -> stock at date
@@ -58,17 +59,16 @@ GDP PATH -> contraction then rebound
 BASE EFFECT -> growth comparison
 SECTORAL PATH -> uneven
 JOBS + INFORMALITY -> K-shaped test
-CLOSE DISTINCTION: Survey projection is not Budget estimate, advance estimate is not...
 
 ASCII MASTER FLOW — PANEL 11/12: Cross-box synthesis loop
 HEADLINE
 -> COMPONENT + DENOMINATOR
 -> COMPARABLE PERIOD + VINTAGE
 -> DRIVER + LIMIT + VERDICT
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Attach source, release date, reference...
 
 ASCII MASTER FLOW — PANEL 12/12: Macro-dashboard answer spine
 LABEL value + unit + vintage
 CLASSIFY stock / flow / ratio
 CROSS-CHECK six boxes
 CONCLUDE stability + productive capacity
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Attach source, release date, reference...

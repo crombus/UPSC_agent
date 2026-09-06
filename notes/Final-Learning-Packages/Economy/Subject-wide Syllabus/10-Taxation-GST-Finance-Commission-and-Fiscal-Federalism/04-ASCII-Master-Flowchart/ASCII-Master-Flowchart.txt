@@ -34,6 +34,7 @@ INTER-STATE SUPPLY
 -> IGST COLLECTION
 -> INPUT-CREDIT ADJUSTMENT
 -> DESTINATION SETTLEMENT
+CLOSE DISTINCTION: Direct is not always progressive, GST rate recommendation is not levy...
 
 ASCII MASTER FLOW — PANEL 7/12: Compensation timeline
 2015-16 -> protected-revenue base
@@ -58,17 +59,16 @@ CBDT -> Union direct taxes
 CBIC + STATE ADMIN -> indirect tax / GST
 ED / DRI / DGGI -> Revenue Department agencies
 FUNCTIONS remain legally distinct
-CLOSE DISTINCTION: Direct is not always progressive, GST rate recommendation is not levy...
 
 ASCII MASTER FLOW — PANEL 11/12: Tax-base edge cases
 ALLIED RURAL ACTIVITY != automatic agricultural income
 RURAL AGRICULTURAL LAND -> statutory conditions
 EQUALISATION LEVY -> specified digital-service history
 INDIRECT TRANSFER -> offshore form, Indian-value link
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Separate Constitution, statute, Council...
 
 ASCII MASTER FLOW — PANEL 12/12: Fiscal-federal answer spine
 DEFINE base, incidence and destination
 MAP collection, ITC and settlement
 SEPARATE devolution, grants and cesses
 BALANCE harmonisation, autonomy and trust
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Separate Constitution, statute, Council...

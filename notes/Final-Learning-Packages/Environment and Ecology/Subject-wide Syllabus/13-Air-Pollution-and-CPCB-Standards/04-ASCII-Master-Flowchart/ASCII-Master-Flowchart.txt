@@ -40,6 +40,7 @@ UNIT -> preserve the notified unit
 AVERAGING PERIOD -> annual, daily or shorter only if sourced
 AREA AND COMPLIANCE RULE -> read notification
 NO TABLE -> no invented limit
+CLOSE DISTINCTION: Emission is not ambient concentration or exposure, AQI is not an...
 
 ASCII MASTER FLOW — PANEL 7/12: AQI statutory boundary
 INPUT -> monitored pollutant concentrations
@@ -68,7 +69,6 @@ SEASON -> activity and meteorology change
 POLLUTANT -> PM, ozone and gases have different pathways
 METHOD -> model and sampling assumptions matter
 NO UNIVERSAL SHARE -> date and scope every estimate
-CLOSE DISTINCTION: Emission is not ambient concentration or exposure, AQI is not an...
 
 ASCII MASTER FLOW — PANEL 11/12: Programme-response architecture
 NCAP -> long-run structural planning
@@ -76,7 +76,6 @@ NON-ATTAINMENT -> standards-based classification over a period
 GRAP -> episodic graded response
 CAQM -> statutory Delhi-NCR regional coordination
 NO SUBSTITUTION -> each serves a different function
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State pollutant, averaging time, unit,...
 
 ASCII MASTER FLOW — PANEL 12/12: Evidence and answer spine
 DEFINE -> ambient, emission, concentration and exposure
@@ -84,3 +83,4 @@ TRACE -> source, precursor, atmospheric formation and receptor
 GOVERN -> NAAQS, AQI, consent, NCAP, GRAP and CAQM
 MEASURE -> station, averaging period and apportionment boundary
 AUDIT -> target, attainment, current data and PYQ key stay distinct
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State pollutant, averaging time, unit,...

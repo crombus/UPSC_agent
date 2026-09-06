@@ -40,6 +40,7 @@ DISABLED OR DISEASED BEYOND RECOVERY -> test evidence
 SCHEDULE -> determines applicable authority route
 WRITTEN PERMISSION -> retain in the answer
 NO EXTENSION -> do not invent a population-control exception
+CLOSE DISTINCTION: Current schedules must not be replaced by pre-2022 six-schedule...
 
 ASCII MASTER FLOW — PANEL 7/12: CITES authority split
 MANAGEMENT AUTHORITY -> permits and certificates
@@ -68,7 +69,6 @@ SECTION 38Z -> functions on MoEFCC page
 INTELLIGENCE -> collection, collation and dissemination
 COORDINATION -> enforcement and international cooperation
 LIMIT -> WCCB does not replace every statutory decision-maker
-CLOSE DISTINCTION: Current schedules must not be replaced by pre-2022 six-schedule...
 
 ASCII MASTER FLOW — PANEL 11/12: Domestic authority matrix
 CHIEF WILDLIFE WARDEN -> state authorisation and enforcement route
@@ -76,7 +76,6 @@ WCCB -> organised wildlife-crime intelligence and coordination
 NBWL -> protected-area governance role
 NTCA -> tiger-specific statutory role
 CITES AUTHORITIES -> international scheduled-specimen trade
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State Act/amendment commencement and...
 
 ASCII MASTER FLOW — PANEL 12/12: PYQ and answer spine
 DATE -> pre-2022 or post-2022 structure
@@ -84,3 +83,4 @@ CLASSIFY -> Schedule I, II, III or IV function
 TRACE -> prohibition, exception, authority and permit
 SEPARATE -> IUCN risk, domestic schedule and CITES trade
 QUALIFY -> verify current placement, penalty and objective key
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State Act/amendment commencement and...

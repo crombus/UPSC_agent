@@ -7,6 +7,10 @@ MUST REMEMBER: Island analysis distinguishes continental, volcanic, coral and de
   origins; reef-building follows light, temperature, salinity, substrate and symbiosis, with
   fringing–barrier–atoll sequences compared against Lakshadweep and Andaman-Nicobar tectonic
   settings.
+MUST REMEMBER: Island analysis distinguishes continental, volcanic, coral and depositional
+  origins; reef-building follows light, temperature, salinity, substrate and symbiosis, with
+  fringing–barrier–atoll sequences compared against Lakshadweep and Andaman-Nicobar tectonic
+  settings.
 
 ASCII MASTER FLOW — PANEL 2/12: Reef-building engine
 POLYP -> calcium-carbonate skeleton
@@ -65,12 +69,19 @@ CLOSE DISTINCTION: Coral island is not coral reef, atoll is not every ring-shape
   bleaching is stress-driven symbiont loss rather than immediate coral death; Great Nicobar
   project components, tribal reserve, biosphere and statutory clearance statuses remain
   separate.
+CLOSE DISTINCTION: Coral island is not coral reef, atoll is not every ring-shaped island, and
+  bleaching is stress-driven symbiont loss rather than immediate coral death; Great Nicobar
+  project components, tribal reserve, biosphere and statutory clearance statuses remain
+  separate.
 
 ASCII MASTER FLOW — PANEL 11/12: Island appraisal gate
 NEED -> strategic and economic rationale
 PLACE -> hazard, freshwater and carrying capacity
 PEOPLE / ECOLOGY -> rights + cumulative effects
 DECISION -> alternatives, safeguards, monitoring
+EVIDENCE LIMIT: Darwinian subsidence is a model, not a universal single pathway; reef
+  condition and project impacts need site/date/source evidence, cumulative-risk analysis and
+  explicit uncertainty rather than benefit-versus-environment binaries.
 EVIDENCE LIMIT: Darwinian subsidence is a model, not a universal single pathway; reef
   condition and project impacts need site/date/source evidence, cumulative-risk analysis and
   explicit uncertainty rather than benefit-versus-environment binaries.

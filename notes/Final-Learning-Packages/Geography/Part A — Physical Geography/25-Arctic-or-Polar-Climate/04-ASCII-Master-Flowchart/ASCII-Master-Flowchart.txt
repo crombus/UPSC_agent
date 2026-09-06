@@ -6,6 +6,9 @@ NORTHERN POLE -> Arctic: ocean basin surrounded by continental land masses
 MUST REMEMBER: Polar climates separate tundra ET, where the warmest month is above 0°C but
   below 10°C, from ice-cap EF below 0°C year-round; low sun angle, high albedo, polar
   night/day, permafrost and short food webs structure Arctic and Antarctic systems.
+MUST REMEMBER: Polar climates separate tundra ET, where the warmest month is above 0°C but
+  below 10°C, from ice-cap EF below 0°C year-round; low sun angle, high albedo, polar
+  night/day, permafrost and short food webs structure Arctic and Antarctic systems.
 
 ASCII MASTER FLOW — PANEL 2/12: Temperature-precipitation profile
 WARMEST MONTH -> seldom exceeds about 10 degrees C (June/July)
@@ -63,12 +66,18 @@ HIMADRI (2008) -> Ny-Alesund, Svalbard; Arctic; HIMANSH -> Spiti, HP
 CLOSE DISTINCTION: Arctic is mainly an ocean surrounded by continents while Antarctica is a
   high continent surrounded by ocean; sea ice differs from land ice, tundra from ice cap, and
   polar desert refers to low precipitation rather than absence of frozen water.
+CLOSE DISTINCTION: Arctic is mainly an ocean surrounded by continents while Antarctica is a
+  high continent surrounded by ocean; sea ice differs from land ice, tundra from ice cap, and
+  polar desert refers to low precipitation rather than absence of frozen water.
 
 ASCII MASTER FLOW — PANEL 11/12: India polar legal framework
 ANTARCTIC TREATY 1959 -> India acceded 1983; consultative party
 INDIAN ANTARCTIC ACT 2022 -> domestic legislation for polar activities
 ARCTIC POLICY 2022 -> six pillars; observer in Arctic forum
 RESEARCH FOCUS -> teleconnections: Arctic ice loss to Indian monsoon disruption
+EVIDENCE LIMIT: Amplification, sea-ice loss, ice-sheet mass balance and governance claims
+  require hemisphere, variable, baseline and date; Ladakh/cold deserts are useful process
+  comparisons but not polar climates.
 EVIDENCE LIMIT: Amplification, sea-ice loss, ice-sheet mass balance and governance claims
   require hemisphere, variable, baseline and date; Ladakh/cold deserts are useful process
   comparisons but not polar climates.

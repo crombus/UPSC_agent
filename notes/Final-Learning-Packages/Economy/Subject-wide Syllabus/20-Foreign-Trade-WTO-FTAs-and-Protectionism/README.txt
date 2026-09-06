@@ -5,8 +5,8 @@ Topic: Foreign Trade, WTO, FTAs and Protectionism
 Subject: Economy
 Section: Subject-wide Syllabus
 Catalogue number: 20
-Source record ID: economy-20:learner-v2:g2
-Source generation: 2
+Source record ID: economy-20:learner-v2:g3
+Source generation: 3
 Approval: Approval pending
 
 Deliverables

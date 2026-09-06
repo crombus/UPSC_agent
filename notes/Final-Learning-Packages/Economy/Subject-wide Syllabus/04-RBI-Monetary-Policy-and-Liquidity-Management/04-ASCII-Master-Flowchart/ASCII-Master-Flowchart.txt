@@ -34,6 +34,7 @@ REPO + COMMUNICATION
 -> WACR + funding + deposit rates
 -> lending rates + credit + demand
 -> output and inflation with lags
+CLOSE DISTINCTION: Repo policy rate is not every liquidity operation, liquidity surplus...
 
 ASCII MASTER FLOW — PANEL 7/12: Pandemic package
 REPO REDUCTIONS
@@ -58,17 +59,16 @@ RESERVE MONEY
 -> bank deposits and lending
 LOWER CRR / LEAKAGE -> higher potential multiplier
 LIMIT -> banks may hold reserves or avoid risk
-CLOSE DISTINCTION: Repo policy rate is not every liquidity operation, liquidity surplus...
 
 ASCII MASTER FLOW — PANEL 11/12: RBI balance-sheet traps
 NOTES ISSUED -> liability
 G-SEC / FX INTEREST -> income source
 PAYMENT STORAGE -> supervisory direction
 COMMITTEES -> match sponsor and subject
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Preserve RBI Act, MPC, operating target and...
 
 ASCII MASTER FLOW — PANEL 12/12: Monetary-policy answer spine
 DIAGNOSE inflation and output
 STATE MPC signal
 MAP liquidity implementation
 TEST transmission, growth and external limits
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Preserve RBI Act, MPC, operating target and...

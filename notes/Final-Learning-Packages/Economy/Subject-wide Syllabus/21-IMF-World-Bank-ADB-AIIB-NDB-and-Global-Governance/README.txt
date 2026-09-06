@@ -5,8 +5,8 @@ Topic: IMF, World Bank, ADB, AIIB, NDB and Global Governance
 Subject: Economy
 Section: Subject-wide Syllabus
 Catalogue number: 21
-Source record ID: economy-21:learner-v2:g2
-Source generation: 2
+Source record ID: economy-21:learner-v2:g24
+Source generation: 24
 Approval: Approval pending
 
 Deliverables

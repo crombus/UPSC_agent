@@ -34,6 +34,7 @@ CHEAP POWER -> PUMPING
 PUMPING -> WATER-INTENSIVE CROP
 GROUNDWATER FALL -> MORE ENERGY
 REFORM needs crop + aquifer safeguards
+CLOSE DISTINCTION: Direct versus indirect subsidy is not WTO green/amber/blue...
 
 ASCII MASTER FLOW — PANEL 7/12: Risk-support audit
 CREDIT -> liquidity
@@ -58,17 +59,16 @@ PRODUCT-SPECIFIC -> separate test
 NON-PRODUCT-SPECIFIC -> separate test
 DEVELOPING COUNTRY -> general 10%
 PRICE GAP x ELIGIBLE PRODUCTION
-CLOSE DISTINCTION: Direct versus indirect subsidy is not WTO green/amber/blue...
 
 ASCII MASTER FLOW — PANEL 11/12: Public-stockholding status
 FOOD-SECURITY PROGRAMME
 -> BALI 2013 INTERIM SHIELD
 -> TRANSPARENCY + CONDITIONS
 PEACE CLAUSE != permanent solution
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Qualify eligible production value, external...
 
 ASCII MASTER FLOW — PANEL 12/12: Farm-subsidy answer spine
 CLASSIFY delivery + objective
 TRACE incidence + distortion
 APPLY WTO category + status
 REFORM with transition protection
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Qualify eligible production value, external...

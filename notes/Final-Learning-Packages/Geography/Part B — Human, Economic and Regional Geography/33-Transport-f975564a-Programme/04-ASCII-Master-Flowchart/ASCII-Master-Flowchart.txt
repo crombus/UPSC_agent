@@ -8,6 +8,10 @@ MUST REMEMBER: Transport geography explains networks through nodes, links, acces
   connectivity, density, hierarchy, break-of-bulk, modal cost and hinterland; trade adds
   comparative advantage, corridors, ports, logistics and chokepoints, while India's space
   programme links launch, satellite, application and governance institutions.
+MUST REMEMBER: Transport geography explains networks through nodes, links, accessibility,
+  connectivity, density, hierarchy, break-of-bulk, modal cost and hinterland; trade adds
+  comparative advantage, corridors, ports, logistics and chokepoints, while India's space
+  programme links launch, satellite, application and governance institutions.
 
 ASCII MASTER FLOW — PANEL 2/12: Modal cost structure comparison
 ROAD -> low terminal cost, high per-km cost; short hauls and door-to-door delivery
@@ -75,6 +79,10 @@ CLOSE DISTINCTION: Road/rail density differs from effective accessibility, port 
   throughput, inland waterway declaration from operational traffic, trade balance from current
   account, ISRO from the Department of Space and NewSpace India Limited, and
   navigation/communication/earth-observation missions retain distinct functions.
+CLOSE DISTINCTION: Road/rail density differs from effective accessibility, port capacity from
+  throughput, inland waterway declaration from operational traffic, trade balance from current
+  account, ISRO from the Department of Space and NewSpace India Limited, and
+  navigation/communication/earth-observation missions retain distinct functions.
 
 ASCII MASTER FLOW — PANEL 11/12: Space as applied geography
 EARTH OBSERVATION -> land use, crop condition, forests, water bodies, coasts, glaciers
@@ -82,6 +90,10 @@ METEOROLOGY -> cyclone tracking and monsoon monitoring feeding warning systems
 NAVIGATION AND COMMUNICATION -> positioning, timing and remote-region connectivity
 GIS INTEGRATION -> imagery plus terrain, infrastructure and socio-economic layers
 OUTPUT -> site selection, corridor alignment, watershed planning, damage assessment
+EVIDENCE LIMIT: Golden Quadrilateral, Dedicated Freight Corridors, Bharatmala, Sagarmala,
+  major ports, National Waterway-1, Delhi–Mumbai corridor, Malacca/Hormuz/Suez and
+  PSLV/GSLV/LVM3, INSAT/GSAT, IRS/EOS and NavIC form named map-institution anchors; project
+  and mission claims require official date/status qualification.
 EVIDENCE LIMIT: Golden Quadrilateral, Dedicated Freight Corridors, Bharatmala, Sagarmala,
   major ports, National Waterway-1, Delhi–Mumbai corridor, Malacca/Hormuz/Suez and
   PSLV/GSLV/LVM3, INSAT/GSAT, IRS/EOS and NavIC form named map-institution anchors; project

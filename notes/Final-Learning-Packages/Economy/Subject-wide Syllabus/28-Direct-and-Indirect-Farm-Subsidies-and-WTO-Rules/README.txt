@@ -5,8 +5,8 @@ Topic: Direct and Indirect Farm Subsidies and WTO Rules
 Subject: Economy
 Section: Subject-wide Syllabus
 Catalogue number: 28
-Source record ID: economy-28:learner-v2:g2
-Source generation: 2
+Source record ID: economy-28:learner-v2:g3
+Source generation: 3
 Approval: Approval pending
 
 Deliverables

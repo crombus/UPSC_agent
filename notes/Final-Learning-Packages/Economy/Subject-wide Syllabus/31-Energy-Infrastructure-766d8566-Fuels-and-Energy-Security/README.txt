@@ -5,8 +5,8 @@ Topic: Energy Infrastructure Economics, Power, Fuels and Energy Security
 Subject: Economy
 Section: Subject-wide Syllabus
 Catalogue number: 31
-Source record ID: economy-31:learner-v2:g2
-Source generation: 2
+Source record ID: economy-31:learner-v2:g3
+Source generation: 3
 Approval: Approval pending
 
 Deliverables

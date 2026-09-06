@@ -40,6 +40,7 @@ ENDEMIC -> naturally restricted to the stated region
 RARE -> low abundance or occurrence under a stated measure
 THREATENED -> VU, EN or CR assessment outcome
 RULE -> overlap does not erase distinct meanings
+CLOSE DISTINCTION: IUCN category is not Wildlife Protection Act schedule, CITES appendix,...
 
 ASCII MASTER FLOW — PANEL 7/12: Endemism risk pathway
 RESTRICTED NATURAL RANGE -> fewer spatial refuges
@@ -68,7 +69,6 @@ GREEN STATUS -> recovery and conservation impact
 SAME TAXON -> two different analytical questions
 NO SUBSTITUTION -> recovery metric does not erase risk category
 USE -> pair risk diagnosis with recovery ambition
-CLOSE DISTINCTION: IUCN category is not Wildlife Protection Act schedule, CITES appendix,...
 
 ASCII MASTER FLOW — PANEL 11/12: Science law action chain
 IUCN RED LIST -> scientific global or regional risk assessment
@@ -76,7 +76,6 @@ WILDLIFE LAW -> domestic prohibition, permit and schedule rules
 COURT OR AGENCY -> remedy and implementation choices
 HABITAT ACTION -> mitigation, connectivity and monitoring
 RULE -> no layer automatically determines the next
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use taxonomic identity, assessment...
 
 ASCII MASTER FLOW — PANEL 12/12: PYQ and answer spine
 DEFINE -> category, criterion, trend and scale
@@ -84,3 +83,4 @@ DISTINGUISH -> endemic, native, rare and threatened
 APPLY -> one source-bounded Indian species or habitat route
 QUALIFY -> assessment year and no inferred objective key
 CONCLUDE -> assessment must translate into habitat and legal action
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Use taxonomic identity, assessment...

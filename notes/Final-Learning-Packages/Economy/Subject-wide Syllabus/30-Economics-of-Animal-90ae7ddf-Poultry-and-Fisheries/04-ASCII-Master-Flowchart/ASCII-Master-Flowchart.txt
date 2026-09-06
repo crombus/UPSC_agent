@@ -34,6 +34,7 @@ VILLAGE SOCIETY
 -> DISTRICT UNION
 -> STATE FEDERATION
 COOPERATIVE != automatic good governance
+CLOSE DISTINCTION: Livestock population is a stock, milk/egg/fish output is a flow,...
 
 ASCII MASTER FLOW — PANEL 7/12: Poultry risk allocation
 INTEGRATOR -> chick + feed + market
@@ -58,17 +59,16 @@ CROP RESIDUE -> FEED
 MANURE -> SOIL / BIOGAS
 POND -> NUTRIENT + INCOME
 ABSORPTIVE LIMIT prevents waste transfer
-CLOSE DISTINCTION: Livestock population is a stock, milk/egg/fish output is a flow,...
 
 ASCII MASTER FLOW — PANEL 11/12: Inclusion and value board
 LANDLESS + SMALLHOLDER
 WOMEN + PASTORALIST
 OWNERSHIP + INCOME CONTROL
 MARKET POWER + TIME BURDEN
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State species/product, unit, denominator,...
 
 ASCII MASTER FLOW — PANEL 12/12: Animal-economy answer spine
 DEFINE asset + production system
 TRACE feed + health + market
 TEST inclusion + biosecurity
 CONCLUDE lifetime net social value
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State species/product, unit, denominator,...

@@ -34,6 +34,7 @@ PDS -> entitled household access
 OMSS -> wider market supply
 PROCUREMENT -> stock inflow
 OFFTAKE / RELEASE -> stock outflow
+CLOSE DISTINCTION: MSP coverage is not procurement coverage, recommendation is not...
 
 ASCII MASTER FLOW — PANEL 7/12: NFSA architecture
 NFSA -> legal entitlement
@@ -58,17 +59,16 @@ FARMER -> price assurance + purchase access
 CONSUMER -> affordable access + stability
 STATE -> fiscal + storage cost
 ECOLOGY -> crop / water incentive
-CLOSE DISTINCTION: MSP coverage is not procurement coverage, recommendation is not...
 
 ASCII MASTER FLOW — PANEL 11/12: Nutrition diversification
 AVAILABILITY
 ACCESS
 UTILISATION / NUTRITION
 STABILITY -> cereals alone are insufficient
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State crop, season, agency, unit, date and...
 
 ASCII MASTER FLOW — PANEL 12/12: Food-policy answer spine
 SEPARATE announcement, purchase and stock
 TRACE inflow, carrying and release
 TEST entitlement against actual delivery
 BALANCE farm, consumer, fiscal and ecology
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State crop, season, agency, unit, date and...

@@ -6,6 +6,9 @@ SURFACE + CAVE -> one hydrological landscape
 MUST REMEMBER: Karst requires soluble rock, joints, water and carbonic-acid solution, followed
   by underground drainage and carbonate deposition; lapies, sinkholes, dolines, uvalas,
   poljes, caves, stalactites and stalagmites form a connected hydrological system.
+MUST REMEMBER: Karst requires soluble rock, joints, water and carbonic-acid solution, followed
+  by underground drainage and carbonate deposition; lapies, sinkholes, dolines, uvalas,
+  poljes, caves, stalactites and stalagmites form a connected hydrological system.
 
 ASCII MASTER FLOW — PANEL 2/12: Carbonate cycle
 CO2 + WATER -> weak carbonic acid
@@ -63,12 +66,18 @@ GSSP -> KM-A speleothem at Mawmluh
 CLOSE DISTINCTION: Solution enlarges voids whereas deposition builds speleothems; stalactites
   hang, stalagmites rise, columns join them, and Meghalaya caves, Bhimbetka shelters and the
   Meghalayan chronostratigraphic unit are categorically different.
+CLOSE DISTINCTION: Solution enlarges voids whereas deposition builds speleothems; stalactites
+  hang, stalagmites rise, columns join them, and Meghalaya caves, Bhimbetka shelters and the
+  Meghalayan chronostratigraphic unit are categorically different.
 
 ASCII MASTER FLOW — PANEL 11/12: Status and narrative caution
 4.2 ka EVENT -> correlation guide
 GSSP POINT -> physical lower boundary
 MEGHALAYAN -> named formal interval
 ANTHROPOCENE -> not a ratified Epoch
+EVIDENCE LIMIT: Cave age, host-rock age, occupation age and formal geological-age boundary
+  must not be collapsed; tourism and infrastructure effects depend on recharge, passage
+  geometry, biodiversity and carrying capacity.
 EVIDENCE LIMIT: Cave age, host-rock age, occupation age and formal geological-age boundary
   must not be collapsed; tourism and infrastructure effects depend on recharge, passage
   geometry, biodiversity and carrying capacity.

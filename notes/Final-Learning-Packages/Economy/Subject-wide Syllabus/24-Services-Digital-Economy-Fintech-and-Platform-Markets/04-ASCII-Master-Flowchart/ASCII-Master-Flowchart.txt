@@ -34,6 +34,7 @@ MORE USERS -> MORE MATCHES
 MORE DATA -> BETTER RANKING
 SWITCHING COST -> ENTRY BARRIER
 INTEROPERABILITY -> contestability lever
+CLOSE DISTINCTION: Digital transaction is not digital economy output, platform worker is...
 
 ASCII MASTER FLOW — PANEL 7/12: Digital-lending responsibility
 REGULATED ENTITY -> principal duty
@@ -58,17 +59,16 @@ MDR -> merchant processing fee
 NFS -> interbank ATM network
 UPI PIN -> payer authentication
 NPCI systems remain function-specific
-CLOSE DISTINCTION: Digital transaction is not digital economy output, platform worker is...
 
 ASCII MASTER FLOW — PANEL 11/12: Platform-work risk board
 MATCHING + FLEXIBILITY
 ALGORITHMIC ALLOCATION
 EARNINGS + DEMAND RISK
 LEGAL COVERAGE -> separate Topic 22 route
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Name regulator, legal category, period,...
 
 ASCII MASTER FLOW — PANEL 12/12: Digital-economy answer spine
 DEFINE rail + actor + liability
 TRACE cost + scale + network effects
 TEST competition + data + worker risk
 CONCLUDE open rails + accountable applications
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Name regulator, legal category, period,...

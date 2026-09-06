@@ -34,6 +34,7 @@ PRIVATE PUMP
 SHARED AQUIFER
 LOCAL WATER BUDGET
 CROP + EXTRACTION RULES
+CLOSE DISTINCTION: Irrigation potential is not utilised irrigation, credit sanction is...
 
 ASCII MASTER FLOW — PANEL 7/12: Credit-insurance fork
 KCC -> pre-harvest liquidity
@@ -58,17 +59,16 @@ CONSERVATION -> minimum disturbance + residue + rotation
 PRECISION -> drip + fertigation + tensiometer
 DIVERSIFICATION -> integrated farming
 ORGANIC -> certification and transition context
-CLOSE DISTINCTION: Irrigation potential is not utilised irrigation, credit sanction is...
 
 ASCII MASTER FLOW — PANEL 11/12: Tenant-access gate
 ACTUAL CULTIVATOR
 -> RECORD / LEASE EVIDENCE
 -> CREDIT / INSURANCE ELIGIBILITY
 -> COVERAGE OR EXCLUSION
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State unit, season, beneficiary denominator...
 
 ASCII MASTER FLOW — PANEL 12/12: Resilience answer spine
 SEPARATE potential, use and efficiency
 LINK water, energy, crop and credit
 TRACE enrolment to claim settlement
 CONCLUDE with aquifer + tenant governance
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: State unit, season, beneficiary denominator...

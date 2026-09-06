@@ -40,6 +40,7 @@ ELIGIBLE FOREST DWELLER -> statutory claimant category
 RIGHT CLAIM -> evidence and procedure
 RECOGNITION -> defined right and title
 NO BLANKET TRANSFER -> State governance framework continues
+CLOSE DISTINCTION: Forest cover is not recorded forest area, legal forest is not...
 
 ASCII MASTER FLOW — PANEL 7/12: Eligibility decision tree
 CLAIMANT -> forest-dwelling Scheduled Tribe or OTFD
@@ -68,7 +69,6 @@ LIMIT -> safeguard does not automatically approve every claim
 SECTION 3(2) -> specified community facilities only
 CONDITIONS -> retain area, tree and Gram Sabha limits from the owner
 NO EXTENSION -> not a general non-forest-use exemption
-CLOSE DISTINCTION: Forest cover is not recorded forest area, legal forest is not...
 
 ASCII MASTER FLOW — PANEL 11/12: Rights-conservation bridge
 RECOGNISED TENURE -> stronger stewardship incentive may follow
@@ -76,7 +76,6 @@ CFR INSTITUTION -> community management authority
 SUPPORT -> ecological, technical and livelihood capacity
 MONITOR -> forest condition and distributional outcomes
 QUALIFY -> title is an input, not automatic ecological success
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State dataset or legal definition, canopy...
 
 ASCII MASTER FLOW — PANEL 12/12: PYQ answer spine
 CLASSIFY -> type, legal category, record, cover or right
@@ -84,3 +83,4 @@ DEFINE -> claimant, right holder and procedure
 TRACE -> Gram Sabha, SDLC and DLC
 APPLY -> bamboo, habitat, forest type, Miyawaki or resource demand
 QUALIFY -> dated data and objective keys remain source-bounded
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State dataset or legal definition, canopy...

@@ -5,8 +5,8 @@ Topic: Landforms of Glaciation / Himalayan Glaciers-GLOF
 Subject: Geography
 Section: Part A — Physical Geography
 Catalogue number: 06
-Source record ID: geography-06:learner-v2:g4
-Source generation: 4
+Source record ID: geography-06:learner-v2:g6
+Source generation: 6
 Approval: Approval pending
 
 Deliverables

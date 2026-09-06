@@ -34,6 +34,7 @@ ADDITIONAL INVESTMENT + OUTPUT
 DOMESTIC VALUE + PRODUCTIVITY
 JOBS + EXPORTS
 SUPPLIER / R&D SPILLOVERS - FISCAL COST
+CLOSE DISTINCTION: MSME classification is not informality, registration is not survival,...
 
 ASCII MASTER FLOW — PANEL 7/12: Anchor-supplier bridge
 LARGE ANCHOR FIRM
@@ -58,17 +59,16 @@ RELIABLE POWER + ULTRA-PURE WATER
 PROCESS TALENT + TECHNOLOGY PARTNER
 CLEAN LOGISTICS + MATERIALS
 DEMAND + SUPPLIERS + LONG GESTATION
-CLOSE DISTINCTION: MSME classification is not informality, registration is not survival,...
 
 ASCII MASTER FLOW — PANEL 11/12: Domestic-value trap
 GROSS OUTPUT RISES
 BUT HIGH-VALUE INPUTS MAY REMAIN IMPORTED
 -> SHALLOW LOCAL VALUE ADDITION
 -> MEASURE stage-wise capability
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Use current notified thresholds/status only...
 
 ASCII MASTER FLOW — PANEL 12/12: Manufacturing answer spine
 CLASSIFY firm + bind constraint
 MATCH instrument to finance / scale / technology
 TRACE semiconductor stages and status
 EVALUATE additionality + spillovers + exit rules
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Use current notified thresholds/status only...

@@ -6,6 +6,9 @@ WESTERN MARGIN (same latitude) -> Mediterranean: summer drought contrast
 MUST REMEMBER: Warm temperate eastern-margin China type combines humid subtropical latitude,
   onshore summer flow, convection/cyclones and winter continental influence, producing hot wet
   summers, cooler winters and mixed crops/forests in East Asia and analogous margins.
+MUST REMEMBER: Warm temperate eastern-margin China type combines humid subtropical latitude,
+  onshore summer flow, convection/cyclones and winter continental influence, producing hot wet
+  summers, cooler winters and mixed crops/forests in East Asia and analogous margins.
 
 ASCII MASTER FLOW — PANEL 2/12: Pressure-reversal mechanism
 SUMMER -> intense heating over Asian interior -> low pressure
@@ -63,12 +66,18 @@ SIGNIFICANCE -> climate change links to NE livelihoods and export crop
 CLOSE DISTINCTION: China type is an eastern-margin climate label, not China's entire climate;
   it differs from tropical monsoon by winter temperature and from Laurentian by warmer
   conditions and different ocean-current/air-mass relations.
+CLOSE DISTINCTION: China type is an eastern-margin climate label, not China's entire climate;
+  it differs from tropical monsoon by winter temperature and from Laurentian by warmer
+  conditions and different ocean-current/air-mass relations.
 
 ASCII MASTER FLOW — PANEL 11/12: Trewartha classification note
 TREWARTHA -> humid mesothermal and tropical-humid types in India
 H CLASS -> undifferentiated highland for elevated regions
 NE BELT -> spans several codes depending on elevation and scheme
 CAUTION -> do not force entire region into one Cwg or Amw code
+EVIDENCE LIMIT: East-margin similarity does not erase monsoon, current and topographic
+  differences; Northeast India is an anchored comparison whose altitude and exceptional
+  rainfall prevent one-code generalisation.
 EVIDENCE LIMIT: East-margin similarity does not erase monsoon, current and topographic
   differences; Northeast India is an anchored comparison whose altitude and exceptional
   rainfall prevent one-code generalisation.

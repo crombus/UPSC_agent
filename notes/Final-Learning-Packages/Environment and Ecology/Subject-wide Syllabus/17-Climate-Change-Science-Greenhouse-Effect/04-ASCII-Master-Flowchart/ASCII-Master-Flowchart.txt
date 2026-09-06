@@ -5,6 +5,7 @@ HUMAN ENHANCEMENT -> raises concentrations and net forcing
 CLIMATE RESPONSE -> warming plus wider system changes
 EXAM RULE -> preserve the natural-versus-enhanced distinction
 MUST REMEMBER: Climate change follows radiative forcing and Earth-system feedbacks from...
+MUST REMEMBER: Climate change follows radiative forcing and Earth-system feedbacks from...
 
 ASCII MASTER FLOW — PANEL 2/12: Energy-balance rail
 SUN -> incoming predominantly shortwave energy
@@ -69,6 +70,7 @@ SCENARIO -> conditional assumptions
 PROJECTION -> modelled response under a scenario
 FORECAST -> different claim with a prediction horizon
 CLOSE DISTINCTION: Weather is not climate, emission flow is not concentration stock,...
+CLOSE DISTINCTION: Weather is not climate, emission flow is not concentration stock,...
 
 ASCII MASTER FLOW — PANEL 11/12: Climate-response fork
 SOURCE REDUCTION -> mitigation
@@ -76,6 +78,7 @@ SINK ENHANCEMENT -> mitigation with accounting boundary
 EXPOSURE OR VULNERABILITY REDUCTION -> adaptation
 RESIDUAL HARM -> separate loss-and-damage question
 PORTFOLIO -> mitigation and adaptation are complementary
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State unit, baseline, period, scenario...
 EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State unit, baseline, period, scenario...
 
 ASCII MASTER FLOW — PANEL 12/12: Science answer spine

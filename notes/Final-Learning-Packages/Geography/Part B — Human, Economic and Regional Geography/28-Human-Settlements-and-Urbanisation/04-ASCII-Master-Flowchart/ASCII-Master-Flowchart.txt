@@ -26,6 +26,10 @@ MUST REMEMBER: Settlement geography connects site and situation, rural form, cen
   hierarchy, rank-size and primate-city patterns, urban morphology, suburbanisation,
   peri-urbanisation and metropolitan regions to India's statutory town, census town, urban
   agglomeration and outgrowth categories.
+MUST REMEMBER: Settlement geography connects site and situation, rural form, central-place
+  hierarchy, rank-size and primate-city patterns, urban morphology, suburbanisation,
+  peri-urbanisation and metropolitan regions to India's statutory town, census town, urban
+  agglomeration and outgrowth categories.
 
 ASCII MASTER FLOW — PANEL 2/12: Rural settlement forms and the rural-urban continuum
 RURAL MORPHOLOGY
@@ -202,6 +206,10 @@ CLOSE DISTINCTION: Urbanisation is a rising urban share and structural-spatial t
   not merely urban population growth; municipality status does not equal Census urban
   classification, conurbation differs from megalopolis, slum from all informal settlement, and
   Smart Cities Mission from AMRUT and PMAY-U mandates.
+CLOSE DISTINCTION: Urbanisation is a rising urban share and structural-spatial transformation,
+  not merely urban population growth; municipality status does not equal Census urban
+  classification, conurbation differs from megalopolis, slum from all informal settlement, and
+  Smart Cities Mission from AMRUT and PMAY-U mandates.
 
 ASCII MASTER FLOW — PANEL 11/12: Integrated answer spine and qualified conclusion
 ANSWER SPINE
@@ -209,6 +217,10 @@ ANSWER SPINE
 2. Practice contract Every solved item has demand decoding, a detailed...
 3. Compare settlements: rural forms, urban places and the rural-urban...
 VERDICT: Claim, named evidence, analysis and qualification lead to a graded...
+EVIDENCE LIMIT: Delhi–NCR, Mumbai Metropolitan Region, Bengaluru, Surat, Chandigarh, Jaipur
+  and Kerala's dispersed settlement provide contrasting map anchors; Burgess, Hoyt,
+  Harris-Ullman and Christaller are simplified models whose assumptions, scale and
+  Global-South informality limits must be explicit.
 EVIDENCE LIMIT: Delhi–NCR, Mumbai Metropolitan Region, Bengaluru, Surat, Chandigarh, Jaipur
   and Kerala's dispersed settlement provide contrasting map anchors; Burgess, Hoyt,
   Harris-Ullman and Christaller are simplified models whose assumptions, scale and

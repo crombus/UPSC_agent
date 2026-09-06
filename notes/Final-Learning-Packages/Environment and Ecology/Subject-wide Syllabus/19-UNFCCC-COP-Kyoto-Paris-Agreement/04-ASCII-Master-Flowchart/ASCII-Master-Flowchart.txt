@@ -5,6 +5,7 @@ PARIS AGREEMENT -> universal NDC-cycle agreement
 COP CMP CMA DECISIONS -> implementation and governance
 NATIONAL INSTRUMENTS -> domestic communication and action
 MUST REMEMBER: UNFCCC supplies principles and institutions, Kyoto created differentiated...
+MUST REMEMBER: UNFCCC supplies principles and institutions, Kyoto created differentiated...
 
 ASCII MASTER FLOW — PANEL 2/12: Governing-body matrix
 COP -> Parties to the Convention
@@ -69,6 +70,7 @@ ASCII MASTER FLOW — PANEL 10/12: Article 6 fork
 ACCOUNTING -> authorisation and double-counting safeguards
 OUTCOME CLAIM -> requires verified delivery evidence
 CLOSE DISTINCTION: Convention membership is not Annex status, Kyoto commitment is not...
+CLOSE DISTINCTION: Convention membership is not Annex status, Kyoto commitment is not...
 
 ASCII MASTER FLOW — PANEL 11/12: Response-and-finance matrix
 MITIGATION -> limit sources or enhance sinks
@@ -76,6 +78,7 @@ ADAPTATION -> reduce vulnerability and manage impacts
 LOSS AND DAMAGE -> residual harms
 GOAL OR PLEDGE -> stated commitment
 DELIVERY -> verified contribution or disbursement
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify Party status, article/decision,...
 EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Verify Party status, article/decision,...
 
 ASCII MASTER FLOW — PANEL 12/12: Treaty answer spine

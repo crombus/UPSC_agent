@@ -40,6 +40,7 @@ SEWERED -> flow reaching a network
 INSTALLED -> nameplate treatment capacity
 ACTUALLY TREATED -> operating inflow and performance
 REUSED OR DISCHARGED -> final pathway and quality
+CLOSE DISTINCTION: BOD is not COD, sewage generation is not treatment capacity or actual...
 
 ASCII MASTER FLOW — PANEL 7/12: Treatment-plant matrix
 STP -> municipal or domestic sewage
@@ -68,7 +69,6 @@ OTHER RIVER -> identify applicable programme and state actors
 NRCP -> wider river-conservation programme context
 RESULT -> retain river, stretch and date
 NO TRANSFER -> never move one mission result to another river
-CLOSE DISTINCTION: BOD is not COD, sewage generation is not treatment capacity or actual...
 
 ASCII MASTER FLOW — PANEL 11/12: Performance and evidence chain
 OUTLAY OR SANCTION -> input
@@ -76,7 +76,6 @@ EXPENDITURE -> financial activity
 ASSET COMPLETED -> physical output
 FLOW TREATED OR LOAD REDUCED -> operational result
 RIVER QUALITY -> stretch-season-indicator outcome
-EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Fix parameter, unit, sampling...
 
 ASCII MASTER FLOW — PANEL 12/12: Water answer spine
 DIAGNOSE -> source, pathway and pollutant
@@ -84,3 +83,4 @@ MEASURE -> indicator, unit, location, season and sampling
 REGULATE -> consent, effluent control and enforcement
 TREAT -> sewer network, STP, ETP or CETP operation
 JUDGE -> load and river outcome, with PYQ and live-data limits
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: Fix parameter, unit, sampling...

@@ -7,6 +7,10 @@ MUST REMEMBER: Coastal morphology connects wave generation, refraction, erosion,
   drift, sediment cells, deposition and sea-level/tectonic change to cliffs,
   caves-arches-stacks, beaches, spits, bars, lagoons, deltas and India's east-west coast
   contrast.
+MUST REMEMBER: Coastal morphology connects wave generation, refraction, erosion, longshore
+  drift, sediment cells, deposition and sea-level/tectonic change to cliffs,
+  caves-arches-stacks, beaches, spits, bars, lagoons, deltas and India's east-west coast
+  contrast.
 
 ASCII MASTER FLOW — PANEL 2/12: Refraction map
 DEEP WATER -> wave fronts travel faster
@@ -64,12 +68,18 @@ PROJECT -> appraisal, decision, compliance
 CLOSE DISTINCTION: Emergent and submergent coasts describe relative sea-level histories,
   erosional and depositional forms can coexist, and CRZ categories/regulatory lines are
   legal-planning constructs rather than geomorphic shoreline types.
+CLOSE DISTINCTION: Emergent and submergent coasts describe relative sea-level histories,
+  erosional and depositional forms can coexist, and CRZ categories/regulatory lines are
+  legal-planning constructs rather than geomorphic shoreline types.
 
 ASCII MASTER FLOW — PANEL 11/12: Coastal response hierarchy
 AVOID -> keep new exposure out of high-risk space
 RESTORE / ACCOMMODATE -> buffers + resilient use
 RETREAT -> move assets where persistence fails
 PROTECT -> selective works with downdrift audit
+EVIDENCE LIMIT: Erosion control can shift risk downdrift; ports, dams, sand mining, storms,
+  subsidence and sea-level rise interact, while CRZ rules, clearances and project status
+  require exact notification/date/source discipline.
 EVIDENCE LIMIT: Erosion control can shift risk downdrift; ports, dams, sand mining, storms,
   subsidence and sea-level rise interact, while CRZ rules, clearances and project status
   require exact notification/date/source discipline.

@@ -5,8 +5,8 @@ Topic: Balance of Payments, Exchange Rates and Forex Reserves
 Subject: Economy
 Section: Subject-wide Syllabus
 Catalogue number: 19
-Source record ID: economy-19:learner-v2:g2
-Source generation: 2
+Source record ID: economy-19:learner-v2:g3
+Source generation: 3
 Approval: Approval pending
 
 Deliverables

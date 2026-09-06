@@ -5,6 +5,7 @@ CAPACITY SHARE -> portfolio capability, not output share
 RELIABLE SUPPLY -> timing, flexibility and network matter
 RULE -> never convert megawatts into generation without evidence
 MUST REMEMBER: Renewable-energy transition must connect resource, installed capacity,...
+MUST REMEMBER: Renewable-energy transition must connect resource, installed capacity,...
 
 ASCII MASTER FLOW — PANEL 2/12: Energy category map
 RENEWABLE -> solar wind hydro biomass geothermal
@@ -69,6 +70,7 @@ STORAGE AND TRANSPORT -> vessel pipeline tanker or port
 END USE -> equipment and safety compatibility
 OUTCOME -> delivered service differs from production capacity
 CLOSE DISTINCTION: Capacity in MW is not generation in MWh, renewable is not impact-free,...
+CLOSE DISTINCTION: Capacity in MW is not generation in MWh, renewable is not impact-free,...
 
 ASCII MASTER FLOW — PANEL 11/12: Mission and SIGHT map
 MISSION TARGET -> intended future production scale
@@ -76,6 +78,7 @@ SIGHT MANUFACTURING -> electrolyser capability support
 SIGHT PRODUCTION -> hydrogen output support
 COMMISSIONED OUTPUT -> later measured evidence
 CLIMATE OUTCOME -> separate lifecycle result
+EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State technology, unit,...
 EVIDENCE LIMIT: MECHANISM / STATUS / CAUSATION: State technology, unit,...
 
 ASCII MASTER FLOW — PANEL 12/12: Energy-transition answer spine

@@ -6,6 +6,9 @@ MARINE RAIN -> generally steadier distribution
 MUST REMEMBER: Tropical monsoon and trade-wind littoral climates arise from seasonal pressure
   migration, cross-equatorial flow, ocean moisture, relief and convergence, producing a marked
   wet season, short dry season and monsoon-forest adaptations.
+MUST REMEMBER: Tropical monsoon and trade-wind littoral climates arise from seasonal pressure
+  migration, cross-equatorial flow, ocean moisture, relief and convergence, producing a marked
+  wet season, short dry season and monsoon-forest adaptations.
 
 ASCII MASTER FLOW — PANEL 2/12: Three-level monsoon engine
 THERMAL -> land-sea pressure reversal
@@ -63,12 +66,18 @@ RAIN + CYCLONE RISK -> retreating season
 CLOSE DISTINCTION: Monsoon means seasonal wind reversal/system, not merely heavy rain;
   tropical marine eastern margins receive trade-wind/orographic rain and tropical cyclones,
   while onset, burst, break and withdrawal are distinct Indian phases.
+CLOSE DISTINCTION: Monsoon means seasonal wind reversal/system, not merely heavy rain;
+  tropical marine eastern margins receive trade-wind/orographic rain and tropical cyclones,
+  while onset, burst, break and withdrawal are distinct Indian phases.
 
 ASCII MASTER FLOW — PANEL 11/12: Verified PYQ routes
 2023 GS-I -> Purvaiya and cultural ethos
 2026 PRELIMS -> island climate and rain
 2026 KEY -> provisional; no letter inferred
 METHOD -> map wind, season and regional meaning
+EVIDENCE LIMIT: Land-sea thermal contrast is necessary but insufficient: ITCZ, Tibetan
+  heating, jets, Mascarene High, ENSO, IOD, MJO and snow/soil states interact, so no single
+  driver explains each year's monsoon.
 EVIDENCE LIMIT: Land-sea thermal contrast is necessary but insufficient: ITCZ, Tibetan
   heating, jets, Mascarene High, ENSO, IOD, MJO and snow/soil states interact, so no single
   driver explains each year's monsoon.

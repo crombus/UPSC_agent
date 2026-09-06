@@ -34,6 +34,7 @@ IBRD -> eligible sovereign borrowers
 IDA -> concessional sovereign window
 IFC -> private sector
 MIGA -> political-risk guarantees
+CLOSE DISTINCTION: IMF quota is not World Bank capital, SDR is not a currency, project...
 
 ASCII MASTER FLOW — PANEL 7/12: Development-bank family
 ADB -> Asia-Pacific regional bank
@@ -58,17 +59,16 @@ FOREIGN-CURRENCY LIABILITY
 DOMESTIC-CURRENCY REVENUE
 DEPRECIATION -> repayment burden
 CONCESSIONAL TERMS do not erase mismatch
-CLOSE DISTINCTION: IMF quota is not World Bank capital, SDR is not a currency, project...
 
 ASCII MASTER FLOW — PANEL 11/12: Debt-treatment timeline
 DSSI -> temporary suspension
 COMMON FRAMEWORK -> treatment beyond DSSI
 OFFICIAL + PRIVATE creditor coordination
 CASE STATUS -> verify by date
-EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Verify institution, window, borrower...
 
 ASCII MASTER FLOW — PANEL 12/12: Global-governance answer spine
 COMPARE mandate + window
 TEST voice + ownership
 ASSESS additionality + debt
 CONCLUDE reformed plural multilateralism
+EVIDENCE LIMIT: FORMULA / STATUS / CAUSATION: Verify institution, window, borrower...
