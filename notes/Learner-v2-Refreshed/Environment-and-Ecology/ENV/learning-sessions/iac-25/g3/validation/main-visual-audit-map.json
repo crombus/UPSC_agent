@@ -1,0 +1,2415 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-25\\g3\\environment-and-ecology-25_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-25\\g3\\environment-and-ecology-25_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "environment-and-ecology-25",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Renewable Energy and Green Hydrogen - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-06. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 28,
+      "markdown_body_line_end": 40,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 433.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 78,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Installed capacity generation and reliable supply must be read through Capacity-generation boundary and Renewable-non-fossil boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 473.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 392.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 93,
+      "markdown_body_line_end": 100,
+      "heading": "VISUAL FIRST",
+      "preview": "INSTALLED CAPACITY GENERATION AND RELIABLE SUPPLY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 129,
+      "markdown_body_line_end": 136,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 348.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 242.073
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 148,
+      "markdown_body_line_end": 148,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Renewable and non-fossil source categories must be read through Source-carrier boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 163,
+      "markdown_body_line_end": 167,
+      "heading": "VISUAL FIRST",
+      "preview": "RENEWABLE AND NON-FOSSIL SOURCE CATEGORIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 195,
+      "markdown_body_line_end": 202,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 212.624
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 114.955
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 214,
+      "markdown_body_line_end": 214,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Variable renewables firmness and grid integration must be read through Variable-firm distinction, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 229,
+      "markdown_body_line_end": 233,
+      "heading": "VISUAL FIRST",
+      "preview": "VARIABLE RENEWABLES FIRMNESS AND GRID INTEGRATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 261,
+      "markdown_body_line_end": 268,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 63.624
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 726.923
+        }
+      },
+      "pdf_pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 280,
+      "markdown_body_line_end": 280,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Transmission flexibility and storage chain must be read through Integration chain, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 591.923
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 525.255
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 295,
+      "markdown_body_line_end": 299,
+      "heading": "VISUAL FIRST",
+      "preview": "TRANSMISSION FLEXIBILITY AND STORAGE CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 344.655
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 303.655
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 327,
+      "markdown_body_line_end": 334,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 636.223
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 346,
+      "markdown_body_line_end": 346,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Targets pipelines commissioning and generation must be read through Storage boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 482.223
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 415.555
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 361,
+      "markdown_body_line_end": 365,
+      "heading": "VISUAL FIRST",
+      "preview": "TARGETS PIPELINES COMMISSIONING AND GENERATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 393,
+      "markdown_body_line_end": 400,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 437.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 340.223
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 412,
+      "markdown_body_line_end": 412,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Electrolysis and the hydrogen production pathway must be read through Target-achievement boundary and Status-verb discipline, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 186.223
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 105.355
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 427,
+      "markdown_body_line_end": 434,
+      "heading": "VISUAL FIRST",
+      "preview": "ELECTROLYSIS AND THE HYDROGEN PRODUCTION PATHWAY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 679.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 608.091
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 463,
+      "markdown_body_line_end": 470,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 239.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 133.873
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 482,
+      "markdown_body_line_end": 482,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Green label standard and certification must be read through Electrolysis pathway, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 497,
+      "markdown_body_line_end": 501,
+      "heading": "VISUAL FIRST",
+      "preview": "GREEN LABEL STANDARD AND CERTIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 529,
+      "markdown_body_line_end": 536,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 82.624
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 726.923
+        }
+      },
+      "pdf_pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 548,
+      "markdown_body_line_end": 548,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Grey blue and green lifecycle boundaries must be read through Label-standard-certification boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 591.923
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 525.255
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 563,
+      "markdown_body_line_end": 567,
+      "heading": "VISUAL FIRST",
+      "preview": "GREY BLUE AND GREEN LIFECYCLE BOUNDARIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 344.655
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 303.655
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 595,
+      "markdown_body_line_end": 602,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 636.223
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 614,
+      "markdown_body_line_end": 614,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Renewable electricity attributes and additionality must be read through Hydrogen-colour boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 482.223
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 415.555
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 629,
+      "markdown_body_line_end": 633,
+      "heading": "VISUAL FIRST",
+      "preview": "RENEWABLE ELECTRICITY ATTRIBUTES AND ADDITIONALITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 661,
+      "markdown_body_line_end": 668,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 437.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 340.223
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 680,
+      "markdown_body_line_end": 680,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Direct electrification before hydrogen must be read through Electricity-attribute boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 205.223
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 138.555
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 695,
+      "markdown_body_line_end": 699,
+      "heading": "VISUAL FIRST",
+      "preview": "DIRECT ELECTRIFICATION BEFORE HYDROGEN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 672.491
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 727,
+      "markdown_body_line_end": 734,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 364.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 266.423
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 746,
+      "markdown_body_line_end": 746,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Hard-to-abate sector fit and conversion losses must be read through Direct-electrification test and Hard-to-abate fit, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 131.423
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 64.755
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 761,
+      "markdown_body_line_end": 768,
+      "heading": "VISUAL FIRST",
+      "preview": "HARD-TO-ABATE SECTOR FIT AND CONVERSION LOSSES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 557.691
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 797,
+      "markdown_body_line_end": 804,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 189.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 83.473
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 816,
+      "markdown_body_line_end": 816,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Hydrogen ammonia methanol and synthetic-fuel boundaries must be read through Derivative boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 831,
+      "markdown_body_line_end": 835,
+      "heading": "VISUAL FIRST",
+      "preview": "HYDROGEN AMMONIA METHANOL AND SYNTHETIC-FUEL BOUNDARIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 398.824
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 357.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 863,
+      "markdown_body_line_end": 870,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 49.424
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 705.623
+        }
+      },
+      "pdf_pages": [
+        22,
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 882,
+      "markdown_body_line_end": 882,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Water source treatment and local stress must be read through Water-context boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 551.623
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 484.955
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 897,
+      "markdown_body_line_end": 901,
+      "heading": "VISUAL FIRST",
+      "preview": "WATER SOURCE TREATMENT AND LOCAL STRESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 304.355
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 263.355
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 929,
+      "markdown_body_line_end": 936,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 713.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 616.023
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 948,
+      "markdown_body_line_end": 948,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Safety storage transport and delivery must be read through Safety-and-logistics boundary and Mission-target-outcome boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 462.023
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 381.155
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 963,
+      "markdown_body_line_end": 970,
+      "heading": "VISUAL FIRST",
+      "preview": "SAFETY STORAGE TRANSPORT AND DELIVERY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 999,
+      "markdown_body_line_end": 1006,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 348.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 242.073
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1018,
+      "markdown_body_line_end": 1018,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mission SIGHT evidence and current-data audit must be read through SIGHT-dual-pillar boundary and Current evidence boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1033,
+      "markdown_body_line_end": 1040,
+      "heading": "VISUAL FIRST",
+      "preview": "MISSION SIGHT EVIDENCE AND CURRENT-DATA AUDIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 491.024
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1069,
+      "markdown_body_line_end": 1076,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 122.824
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        26,
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1080,
+      "markdown_body_line_end": 1084,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Environment and Ecology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III (Environment/Infrastructure) + Prelims. **Core area:** India's energy-transition policy architecture. **Grounded in:** Ministry of New and Renewabl",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 745.323
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 643.855
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1088,
+      "markdown_body_line_end": 1103,
+      "heading": "1. Visual foundation",
+      "preview": "INDIA'S RENEWABLE-ENERGY-TO-GREEN-HYDROGEN PATHWAY",
+      "metadata": {
+        "language": "text",
+        "line_count": 14,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 621.855
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 470.855
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1113,
+      "markdown_body_line_end": 1120,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 392.055
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 83.454
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1309,
+      "markdown_body_line_end": 1309,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Treat renewable-energy expansion and green-hydrogen development as sequentially linked, not independent strategies, and evaluate green hydrogen's role specifically by its fit for hard-to-abate sectors rather than as a uni",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 578.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 520.024
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1335,
+      "markdown_body_line_end": 1337,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 194.824
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 113.956
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1343,
+      "markdown_body_line_end": 1345,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 695.89
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1351,
+      "markdown_body_line_end": 1351,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 656.69
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 612.022
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1358,
+      "markdown_body_line_end": 1360,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`, `_PYQ-R",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 612.022
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 502.754
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1366,
+      "markdown_body_line_end": 1373,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 6,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 451.154
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 83.753
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1384,
+      "markdown_body_line_end": 1384,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 717.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 672.624
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1393,
+      "markdown_body_line_end": 1398,
+      "heading": "13.1 Direct demand - energy independence through clean technology and biotechnology (2025 GS-III, 10 marks)",
+      "preview": "Lever | Claim → named evidence/example → significance | Trade-off/qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Lever",
+          "Claim → named evidence/example → significance",
+          "Trade-off/qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 571.024
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 271.222
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1408,
+      "markdown_body_line_end": 1412,
+      "heading": "13.3 Historical renewable-energy demand bank",
+      "preview": "Demand family | Core answer route | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Demand family",
+          "Core answer route",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 564.69
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1418,
+      "markdown_body_line_end": 1420,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRE",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 564.69
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 469.622
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1426,
+      "markdown_body_line_end": 1438,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 11,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 133.89
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1454,
+      "markdown_body_line_end": 1454,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 638.224
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2295,
+      "markdown_body_line_end": 2297,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 434.091
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 353.224
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2303,
+      "markdown_body_line_end": 2305,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 301.624
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 194.222
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2311,
+      "markdown_body_line_end": 2311,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 155.022
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 110.354
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2318,
+      "markdown_body_line_end": 2320,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`, `_PYQ-R",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 700.024
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2326,
+      "markdown_body_line_end": 2333,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 6,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 648.424
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 281.022
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2344,
+      "markdown_body_line_end": 2344,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 155.822
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 111.154
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2349,
+      "markdown_body_line_end": 2351,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRE",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2357,
+      "markdown_body_line_end": 2369,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 11,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 133.89
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2385,
+      "markdown_body_line_end": 2385,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 638.224
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2398,
+      "markdown_body_line_end": 2399,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 529.224
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 448.356
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2405,
+      "markdown_body_line_end": 2411,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 5,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 396.756
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 49.854
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2421,
+      "markdown_body_line_end": 2421,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 701.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 656.624
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2730,
+      "markdown_body_line_end": 2734,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Environment/Infrastructure) + Prelims. **Core area:** India's energy-transition policy architecture. **Grounded in:** National Green Hydrogen Mission full pol",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 599.091
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 497.624
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2816,
+      "markdown_body_line_end": 2820,
+      "heading": "6. Recurring UPSC analytical tensions",
+      "preview": "Tension | Balanced framing",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Tension",
+          "Balanced framing"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 355.491
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 188.89
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2856,
+      "markdown_body_line_end": 2862,
+      "heading": "9. CURRENT: Current anchor - analytical use",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 516.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 94.49
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2917,
+      "markdown_body_line_end": 2918,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 208.091
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 127.224
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2924,
+      "markdown_body_line_end": 2930,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 5,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 456.39
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2940,
+      "markdown_body_line_end": 2940,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 348.39
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 303.722
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2993,
+      "markdown_body_line_end": 3001,
+      "heading": "Renewable Energy and Green Hydrogen: RENEWABLE-TO-HYDROGEN ANSWER SPINE",
+      "preview": "SEPARATE INSTALLED CAPACITY GENERATION AND RELIABLE SUPPLY",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 571.891
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 490.891
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3011,
+      "markdown_body_line_end": 3019,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Power metric firewall",
+      "preview": "INSTALLED CAPACITY -> nameplate power capability",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 357.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 274.891
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3023,
+      "markdown_body_line_end": 3029,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Energy category map",
+      "preview": "RENEWABLE -> solar wind hydro biomass geothermal",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3033,
+      "markdown_body_line_end": 3039,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Grid integration rail",
+      "preview": "VARIABLE GENERATION -> forecast resource-dependent output",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3043,
+      "markdown_body_line_end": 3049,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Project status ladder",
+      "preview": "TARGET OR ANNOUNCEMENT -> intended future scale",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3053,
+      "markdown_body_line_end": 3059,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Electrolysis pathway",
+      "preview": "ELECTRICITY SOURCE -> attribute must be evidenced",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3063,
+      "markdown_body_line_end": 3069,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Hydrogen claim stack",
+      "preview": "PRODUCTION PATHWAY -> how hydrogen is made",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 389.291
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3073,
+      "markdown_body_line_end": 3079,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Use-case decision tree",
+      "preview": "CAN CLEAN ELECTRICITY BE USED DIRECTLY -> prefer direct route",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 367.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3083,
+      "markdown_body_line_end": 3089,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Derivative conversion map",
+      "preview": "HYDROGEN -> base energy carrier and feedstock",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3093,
+      "markdown_body_line_end": 3099,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Water and site screen",
+      "preview": "SOURCE -> freshwater treated water or other verified supply",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3103,
+      "markdown_body_line_end": 3111,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Hydrogen logistics chain",
+      "preview": "PRODUCTION -> hydrogen leaves electrolyser",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 536.891
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3115,
+      "markdown_body_line_end": 3123,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Mission and SIGHT map",
+      "preview": "MISSION TARGET -> intended future production scale",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 514.891
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 432.491
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3127,
+      "markdown_body_line_end": 3133,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Energy-transition answer spine",
+      "preview": "DEFINE -> capacity generation reliability source and carrier",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 410.491
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 348.491
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    }
+  ]
+}

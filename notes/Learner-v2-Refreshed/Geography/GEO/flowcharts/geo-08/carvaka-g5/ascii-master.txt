@@ -1,0 +1,89 @@
+ASCII MASTER FLOW — PANEL 1/12: Karst coupled system
+RECHARGE -> joints, bedding and sink points
+DISSOLUTION -> openings enlarge underground
+CONDUITS -> springs export water and solute
+SURFACE + CAVE -> one hydrological landscape
+MUST REMEMBER: Karst requires soluble rock, joints, water and carbonic-acid solution, followed
+  by underground drainage and carbonate deposition; lapies, sinkholes, dolines, uvalas,
+  poljes, caves, stalactites and stalagmites form a connected hydrological system.
+MUST REMEMBER: Karst requires soluble rock, joints, water and carbonic-acid solution, followed
+  by underground drainage and carbonate deposition; lapies, sinkholes, dolines, uvalas,
+  poljes, caves, stalactites and stalagmites form a connected hydrological system.
+
+ASCII MASTER FLOW — PANEL 2/12: Carbonate cycle
+CO2 + WATER -> weak carbonic acid
+ACID + CaCO3 -> dissolved bicarbonate
+TRANSPORT -> solution moves through conduits
+DEGASSING -> calcite can precipitate
+
+ASCII MASTER FLOW — PANEL 3/12: Karst prerequisites
+ROCK -> soluble, thick and exposed to recharge
+STRUCTURE -> joints and bedding pathways
+FLOW -> gradient plus outlet / base level
+TIME -> sustained dissolution and removal
+
+ASCII MASTER FLOW — PANEL 4/12: Hydrological zones
+EPKARST -> shallow storage and routing
+VADOSE -> descending water in air-filled voids
+WATER TABLE -> fluctuating boundary
+PHREATIC -> saturated tubes and loops
+
+ASCII MASTER FLOW — PANEL 5/12: Surface-karst ladder
+KARREN -> small solution grooves
+DOLINE -> closed depression
+UVALA / POLJE -> larger composite / structural basin
+SWALLOW HOLE -> surface stream transfers underground
+
+ASCII MASTER FLOW — PANEL 6/12: Cave-development sequence
+INCEPTION -> favourable fracture or bedding plane
+PHREATIC -> passage enlarges under saturation
+VADOSE -> stream incises after water-table fall
+LATE CHANGE -> collapse, fill or renewed solution
+
+ASCII MASTER FLOW — PANEL 7/12: Speleothem map
+STALACTITE -> roof drip deposit
+STALAGMITE -> floor splash / drip deposit
+COLUMN -> roof and floor forms join
+FLOWSTONE / CURTAIN -> film flow on wall or slope
+
+ASCII MASTER FLOW — PANEL 8/12: India cave firewall
+MAWMLUH / MAWSMAI / SIJU -> Meghalaya limestone
+BORRA / BELUM -> natural caves in Andhra Pradesh
+AJANTA / ELLORA -> human rock-cut architecture
+RULE -> location does not replace genetic classification
+
+ASCII MASTER FLOW — PANEL 9/12: Proxy pipeline
+CLIMATE -> rainfall, vegetation and soil CO2
+RECHARGE -> route and residence time
+CALCITE -> isotope / element signal
+CHRONOLOGY -> dated series with uncertainty
+
+ASCII MASTER FLOW — PANEL 10/12: Meghalayan hierarchy
+QUATERNARY -> Period
+HOLOCENE -> Epoch
+MEGHALAYAN -> Age / Stage
+GSSP -> KM-A speleothem at Mawmluh
+CLOSE DISTINCTION: Solution enlarges voids whereas deposition builds speleothems; stalactites
+  hang, stalagmites rise, columns join them, and Meghalaya caves, Bhimbetka shelters and the
+  Meghalayan chronostratigraphic unit are categorically different.
+CLOSE DISTINCTION: Solution enlarges voids whereas deposition builds speleothems; stalactites
+  hang, stalagmites rise, columns join them, and Meghalaya caves, Bhimbetka shelters and the
+  Meghalayan chronostratigraphic unit are categorically different.
+
+ASCII MASTER FLOW — PANEL 11/12: Status and narrative caution
+4.2 ka EVENT -> correlation guide
+GSSP POINT -> physical lower boundary
+MEGHALAYAN -> named formal interval
+ANTHROPOCENE -> not a ratified Epoch
+EVIDENCE LIMIT: Cave age, host-rock age, occupation age and formal geological-age boundary
+  must not be collapsed; tourism and infrastructure effects depend on recharge, passage
+  geometry, biodiversity and carrying capacity.
+EVIDENCE LIMIT: Cave age, host-rock age, occupation age and formal geological-age boundary
+  must not be collapsed; tourism and infrastructure effects depend on recharge, passage
+  geometry, biodiversity and carrying capacity.
+
+ASCII MASTER FLOW — PANEL 12/12: Karst conservation spine
+MAP -> recharge, passages, springs and values
+AVOID -> irreversible quarry and pollution pathways
+MANAGE -> visitation, waste and water use
+MONITOR -> hydrology, biodiversity and structural change

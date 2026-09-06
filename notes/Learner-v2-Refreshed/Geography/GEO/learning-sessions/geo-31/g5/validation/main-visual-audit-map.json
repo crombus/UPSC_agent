@@ -1,0 +1,2712 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-31\\g5\\geography-31_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-31\\g5\\geography-31_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "geography-31",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Mineral and Energy Resources: World and India - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 332.824
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 92.622
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 52,
+      "markdown_body_line_end": 52,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-31\\g5\\assets\\geography-31_Teaching-Navigation_2026-08-22.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 363.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 55.556
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 66,
+      "markdown_body_line_end": 66,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Geological control of distribution: Mineral and energy resources are unevenly distributed because occurrence depends on geological history, rock structure, sedimentary basins, tectonics and climate-driven surface processes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 615.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 549.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 81,
+      "markdown_body_line_end": 88,
+      "heading": "VISUAL FIRST",
+      "preview": "WHY RESOURCE GEOGRAPHY BEGINS WITH GEOLOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 354.424
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 283.424
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 117,
+      "markdown_body_line_end": 134,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WHY RESOURCE GEOGRAPHY BEGINS WITH GEOLOGY",
+      "preview": "START / CONCEPT: FOUNDATION — Why resource geography begins with geology",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 252
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 663.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 442.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 145,
+      "markdown_body_line_end": 145,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Energy classification pairs: Energy resources are classified twice over: conventional commercial against non-conventional newer sources, and exhaustible stock against renewable flow.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 288.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 221.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 160,
+      "markdown_body_line_end": 167,
+      "heading": "VISUAL FIRST",
+      "preview": "CLASSIFYING MINERALS AND ENERGY RESOURCES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 196,
+      "markdown_body_line_end": 213,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - CLASSIFYING MINERALS AND ENERGY RESOURCES",
+      "preview": "START / CONCEPT: FOUNDATION — Classifying minerals and energy resources",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 245
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 373.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 122.491
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 224,
+      "markdown_body_line_end": 224,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Lateritisation and bauxite: Tropical weathering and lateritisation concentrate bauxite on suitable plateaux and hilltops, so the bauxite map does not simply repeat the shield-ore map.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 239,
+      "markdown_body_line_end": 243,
+      "heading": "VISUAL FIRST",
+      "preview": "WEATHERING, LATERITISATION AND BAUXITE GEOGRAPHY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 386.224
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 271,
+      "markdown_body_line_end": 288,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WEATHERING, LATERITISATION AND BAUXITE GEOGRAPHY",
+      "preview": "START / CONCEPT: FOUNDATION — Weathering, lateritisation and bauxite geography",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 212
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 299,
+      "markdown_body_line_end": 299,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "World mineral-energy belts: The standard world belts are the Persian Gulf hydrocarbon province, the Appalachian and interior United States belts, the Ruhr-Lorraine coal-iron core, the Russian and Siberian basins, the Chinese northern and in",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 417.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 322.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 314,
+      "markdown_body_line_end": 318,
+      "heading": "VISUAL FIRST",
+      "preview": "WORLD MINERAL-ENERGY BELTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 346,
+      "markdown_body_line_end": 363,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - WORLD MINERAL-ENERGY BELTS",
+      "preview": "START / CONCEPT: FOUNDATION — World mineral-energy belts",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 418
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 406.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 155.491
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 374,
+      "markdown_body_line_end": 374,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Extraction to industry chain: Minerals matter along a chain of extraction, transport, processing, power supply and industrial clustering, so a mine site alone does not create an industrial region.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 389,
+      "markdown_body_line_end": 393,
+      "heading": "VISUAL FIRST",
+      "preview": "FROM MINE TO INDUSTRY: THE RESOURCE CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 386.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 421,
+      "markdown_body_line_end": 438,
+      "heading": "CLOSING RECALL FLOW - CORE - FROM MINE TO INDUSTRY: THE RESOURCE CHAIN",
+      "preview": "START / CONCEPT: CORE — From mine to industry: the resource chain",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 225
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 449,
+      "markdown_body_line_end": 449,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A mineral on a geological map is not automatically a reserve available to the economy.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 393.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 464,
+      "markdown_body_line_end": 468,
+      "heading": "VISUAL FIRST",
+      "preview": "OCCURRENCE VERSUS USABLE RESOURCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 496,
+      "markdown_body_line_end": 513,
+      "heading": "CLOSING RECALL FLOW - CORE - OCCURRENCE VERSUS USABLE RESOURCE",
+      "preview": "START / CONCEPT: CORE — Occurrence versus usable resource",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 175
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 242.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 524,
+      "markdown_body_line_end": 524,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Four-element petroleum system: Oil and gas require source rock, reservoir rock, an impermeable seal and a trap geometry together, so a sedimentary basin is necessary but not sufficient for petroleum.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 121.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 54.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 539,
+      "markdown_body_line_end": 543,
+      "heading": "VISUAL FIRST",
+      "preview": "THE FOUR-ELEMENT PETROLEUM SYSTEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 573.491
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 571,
+      "markdown_body_line_end": 588,
+      "heading": "CLOSING RECALL FLOW - CORE - THE FOUR-ELEMENT PETROLEUM SYSTEM",
+      "preview": "START / CONCEPT: CORE — The four-element petroleum system",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 228
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 290.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 69.491
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 599,
+      "markdown_body_line_end": 599,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Why margins concentrate oil Qualified use: Explain sediment sinks, organic preservation and salt or deltaic traps in sequence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 614,
+      "markdown_body_line_end": 618,
+      "heading": "VISUAL FIRST",
+      "preview": "WHY PASSIVE MARGINS CONCENTRATE OFFSHORE OIL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 427.224
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 386.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 646,
+      "markdown_body_line_end": 663,
+      "heading": "CLOSING RECALL FLOW - CORE - WHY PASSIVE MARGINS CONCENTRATE OFFSHORE OIL",
+      "preview": "START / CONCEPT: CORE — Why passive margins concentrate offshore oil",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 171
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 674,
+      "markdown_body_line_end": 674,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Offshore versus onshore regime: Offshore petroleum needs very high lumpy capital and large fields, works through platforms, subsea pipelines and coastal landfall terminals, and carries marine spill risk and maritime jurisdictional questions",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 422.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 341.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 689,
+      "markdown_body_line_end": 693,
+      "heading": "VISUAL FIRST",
+      "preview": "OFFSHORE VERSUS ONSHORE AS ECONOMIC GEOGRAPHY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 721,
+      "markdown_body_line_end": 738,
+      "heading": "CLOSING RECALL FLOW - CORE - OFFSHORE VERSUS ONSHORE AS ECONOMIC GEOGRAPHY",
+      "preview": "START / CONCEPT: CORE — Offshore versus onshore as economic geography",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 297
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 203.891
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 749,
+      "markdown_body_line_end": 749,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India’s petroleum geography is a basin-and-petroleum-system map, not a list of producing states.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 756.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 764,
+      "markdown_body_line_end": 768,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA'S PETROLEUM PROVINCES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 796,
+      "markdown_body_line_end": 813,
+      "heading": "CLOSING RECALL FLOW - CORE - INDIA'S PETROLEUM PROVINCES",
+      "preview": "START / CONCEPT: CORE — India's petroleum provinces",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 160
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 824,
+      "markdown_body_line_end": 824,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Midstream critical-mineral chokepoint: For transition minerals the processing and refining stage is even more geographically concentrated than extraction and often sits in different countries, so the binding chokepoint is midstream rather t",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 426.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 345.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 839,
+      "markdown_body_line_end": 846,
+      "heading": "VISUAL FIRST",
+      "preview": "CRITICAL MINERALS AND THE MIDSTREAM CHOKEPOINT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 875,
+      "markdown_body_line_end": 892,
+      "heading": "CLOSING RECALL FLOW - CORE - CRITICAL MINERALS AND THE MIDSTREAM CHOKEPOINT",
+      "preview": "START / CONCEPT: CORE — Critical minerals and the midstream chokepoint",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 285
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 345.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 114.091
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 903,
+      "markdown_body_line_end": 903,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Chota Nagpur mineral heartland: Khullar treats the Chota Nagpur Plateau complex and the wider peninsular shield as India's classic mineral heartland and heavy-industry base.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 918,
+      "markdown_body_line_end": 922,
+      "heading": "VISUAL FIRST",
+      "preview": "CHOTA NAGPUR AND THE PENINSULAR MINERAL HEARTLAND",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 950,
+      "markdown_body_line_end": 967,
+      "heading": "CLOSING RECALL FLOW - CORE - CHOTA NAGPUR AND THE PENINSULAR MINERAL HEARTLAND",
+      "preview": "START / CONCEPT: CORE — Chota Nagpur and the peninsular mineral heartland",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 202
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 978,
+      "markdown_body_line_end": 978,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Indian belt map hooks Qualified use: Fix one commodity to one belt and rehearse the pairing before the exam.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 402.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 335.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 993,
+      "markdown_body_line_end": 997,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIAN BELT MAP HOOKS FOR PRELIMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1025,
+      "markdown_body_line_end": 1042,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - INDIAN BELT MAP HOOKS FOR PRELIMS",
+      "preview": "START / CONCEPT: SYNTHESIS — Indian belt map hooks for Prelims",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 153
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 243.891
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1053,
+      "markdown_body_line_end": 1053,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Coal and the east-central pull Qualified use: Link coalfields to steel, thermal power and freight corridors in one causal line.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 118.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 51.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1068,
+      "markdown_body_line_end": 1072,
+      "heading": "VISUAL FIRST",
+      "preview": "COAL, POWER AND THE EAST-CENTRAL INDUSTRIAL PULL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 573.491
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1100,
+      "markdown_body_line_end": 1117,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - COAL, POWER AND THE EAST-CENTRAL INDUSTRIAL PULL",
+      "preview": "START / CONCEPT: SYNTHESIS — Coal, power and the east-central industrial pull",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 172
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 276.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 65.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1128,
+      "markdown_body_line_end": 1128,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Renewable corridor shift - Institutional conversion ladder - National Critical Mineral Mission anchor Qualified use: Close with overlay logic: new corridors, converting institutions and a dated mission anchor.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1143,
+      "markdown_body_line_end": 1153,
+      "heading": "VISUAL FIRST",
+      "preview": "RENEWABLE CORRIDORS, INSTITUTIONS AND THE CRITICAL-MINERAL MISSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 370.424
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 269.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1182,
+      "markdown_body_line_end": 1186,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (world/general-concept) · **GS Paper:** GS-I & GS-III **Grounded in:** Majid Husain, *Indian & World Geography* + G.C. Leong's rock/climate foundations + verified dated current-affairs anchor. **Da",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 569.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 445.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1194,
+      "markdown_body_line_end": 1199,
+      "heading": "2. Mineral classification",
+      "preview": "Class | Meaning | Examples",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Class",
+          "Meaning",
+          "Examples"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 359.024
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 249.622
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1201,
+      "markdown_body_line_end": 1201,
+      "heading": "2. Mineral classification",
+      "preview": "🔑 Trap: \"Mineral resource\" is broader than \"metal\"; coal and petroleum are also mineral resources in economic geography.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 249.622
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 204.954
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1205,
+      "markdown_body_line_end": 1210,
+      "heading": "3. Energy-resource classification",
+      "preview": "Type | Core idea | Geographic note",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Type",
+          "Core idea",
+          "Geographic note"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 182.954
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 62.353
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1216,
+      "markdown_body_line_end": 1222,
+      "heading": "4. Why resources cluster where they do",
+      "preview": "Control | Resource outcome",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Control",
+          "Resource outcome"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 611.09
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1226,
+      "markdown_body_line_end": 1235,
+      "heading": "5. Major world mineral-energy belts",
+      "preview": "World belt | Resource association | Geographic meaning",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "World belt",
+          "Resource association",
+          "Geographic meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 589.09
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 350.088
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1245,
+      "markdown_body_line_end": 1251,
+      "heading": "6. Resource use and industrial location",
+      "preview": "Resource | Common location pull",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Resource",
+          "Common location pull"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 266.288
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 135.687
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1257,
+      "markdown_body_line_end": 1262,
+      "heading": "7. Actor / institution lens",
+      "preview": "Actor / institution | Geographic role",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Actor / institution",
+          "Geographic role"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 666.69
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1273,
+      "markdown_body_line_end": 1273,
+      "heading": "8. Must-Know Facts (Prelims) and UPSC traps",
+      "preview": "🔑 Trap: A mineral-producing region is not automatically an industrial region; power, transport, market and capital must also be present.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 541.49
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 496.822
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1325,
+      "markdown_body_line_end": 1327,
+      "heading": "14. Offshore versus onshore hydrocarbons, and the critical-mineral turn",
+      "preview": "**Why this section exists:** the file was routed a 15-mark demand on the **distribution of offshore oil and how it differs from onshore occurrence** and answered it with a two-line pointer. The geological and economic logic is supplied here",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 553.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 472.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1334,
+      "markdown_body_line_end": 1339,
+      "heading": "14.1 The petroleum system: what must be present anywhere",
+      "preview": "Element | Requirement",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Element",
+          "Requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 417.424
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 263.222
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1347,
+      "markdown_body_line_end": 1354,
+      "heading": "14.2 Why so much oil is offshore",
+      "preview": "Factor | Mechanism",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Factor",
+          "Mechanism"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 523.49
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1358,
+      "markdown_body_line_end": 1369,
+      "heading": "14.3 Offshore and onshore compared as an economic geography",
+      "preview": "Axis | **Onshore** | **Offshore**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Axis",
+          "**Onshore**",
+          "**Offshore**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 501.49
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 74.488
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1398,
+      "markdown_body_line_end": 1400,
+      "heading": "14.4 Critical minerals and the energy transition",
+      "preview": "⚠️ **Factual caution:** do **not** name a country's percentage share of any mineral's extraction or refining, quote reserve figures, or assert a specific import-dependence ratio from memory. The structural argument above requires no numbers",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 446.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 387.424
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1406,
+      "markdown_body_line_end": 1412,
+      "heading": "15.1 Directive decoding",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 346.424
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 70.222
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1436,
+      "markdown_body_line_end": 1442,
+      "heading": "15.3 Evidence units available in this file",
+      "preview": "**Claim:** the location of a resource is a tectonic legacy. **Evidence:** metallic ores concentrate in ancient shields, fuels in sedimentary basins, bauxite in lateritic weathering profiles, and offshore hydrocarbons on thick passive-margin",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 494.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 371.424
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1444,
+      "markdown_body_line_end": 1450,
+      "heading": "15.3 Evidence units available in this file",
+      "preview": "**Claim:** in the energy transition the binding constraint has moved downstream from the mine. **Evidence:** processing and refining capacity for several transition-critical minerals is even more geographically concentrated than their extra",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 371.424
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 269.956
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1456,
+      "markdown_body_line_end": 1458,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key ",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 269.956
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 160.688
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1464,
+      "markdown_body_line_end": 1469,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 550.39
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1478,
+      "markdown_body_line_end": 1478,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 459.59
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 414.922
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1485,
+      "markdown_body_line_end": 1487,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 414.922
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 334.054
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1493,
+      "markdown_body_line_end": 1501,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 7,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 394.39
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1513,
+      "markdown_body_line_end": 1513,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 251.99
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 207.322
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1518,
+      "markdown_body_line_end": 1535,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - RENEWABLE CORRIDORS, INSTITUTIONS AND THE CRITICAL-MINERAL MISSION",
+      "preview": "START / CONCEPT: SYNTHESIS — Renewable corridors, institutions and the critical-mineral mission",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 332
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 493.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2428,
+      "markdown_body_line_end": 2430,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key ",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 505.224
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2436,
+      "markdown_body_line_end": 2441,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 453.624
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 200.722
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2450,
+      "markdown_body_line_end": 2450,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 109.922
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 65.254
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2457,
+      "markdown_body_line_end": 2459,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2465,
+      "markdown_body_line_end": 2473,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 7,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 676.824
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 267.922
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2485,
+      "markdown_body_line_end": 2485,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 125.522
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 80.854
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2507,
+      "markdown_body_line_end": 2508,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 585.691
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 519.024
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2514,
+      "markdown_body_line_end": 2519,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 467.424
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 183.022
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2528,
+      "markdown_body_line_end": 2528,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 92.222
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 47.554
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2909,
+      "markdown_body_line_end": 2913,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I & GS-III **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *Geography of India* + distinct verified Mines/Coal/Power current an",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 197.891
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 96.424
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2923,
+      "markdown_body_line_end": 2931,
+      "heading": "2. Major mineral belts of India",
+      "preview": "Belt / zone | Key resources | Geographic significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Belt / zone",
+          "Key resources",
+          "Geographic significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 675.091
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 446.09
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2940,
+      "markdown_body_line_end": 2948,
+      "heading": "Prelims map hooks - belts, not isolated mines",
+      "preview": "Resource | Principal belt logic | High-yield locations",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Resource",
+          "Principal belt logic",
+          "High-yield locations"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 395.69
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 155.488
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2950,
+      "markdown_body_line_end": 2951,
+      "heading": "Prelims map hooks - belts, not isolated mines",
+      "preview": "🔑 Trap: Bailadila is an iron-ore range, Jharia a coking-coal field, Khetri copper, Zawar lead-zinc, and Mumbai High offshore petroleum—do not swap commodity belts.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 155.488
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 110.82
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2957,
+      "markdown_body_line_end": 2964,
+      "heading": "3. Coal, power and energy geography",
+      "preview": "Energy source | Core Indian geography",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Energy source",
+          "Core Indian geography"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 651.49
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2970,
+      "markdown_body_line_end": 2978,
+      "heading": "4. Institutions and major actors",
+      "preview": "Institution / actor | Role in geography",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Institution / actor",
+          "Role in geography"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 601.09
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 416.888
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2995,
+      "markdown_body_line_end": 2995,
+      "heading": "6. Must-Know Facts (Prelims) and UPSC traps",
+      "preview": "🔑 Trap: Mineral-rich states are not always the biggest manufacturing winners; infrastructure, power quality and policy matter.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 164.288
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 119.62
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3027,
+      "markdown_body_line_end": 3031,
+      "heading": "CA Anchor - India's changing power-capacity map",
+      "preview": "Current fact | Geographic reading",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Current fact",
+          "Geographic reading"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 448.691
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 338.09
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3059,
+      "markdown_body_line_end": 3060,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 753.891
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 687.224
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3066,
+      "markdown_body_line_end": 3071,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 635.624
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 351.222
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3080,
+      "markdown_body_line_end": 3080,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 260.422
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 215.754
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3089,
+      "markdown_body_line_end": 3105,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Geological control of resource distribution",
+      "preview": "GEOLOGICAL HISTORY -> rock structure, basins, tectonics, surface weathering",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 623.291
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3109,
+      "markdown_body_line_end": 3115,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Mineral and energy classification ladder",
+      "preview": "FERROUS METALLIC -> iron ore, manganese, chromite; steel-making base",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 601.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 539.291
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3119,
+      "markdown_body_line_end": 3125,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: World mineral-energy belt rail",
+      "preview": "PERSIAN GULF -> classic sedimentary hydrocarbon province",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 517.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 455.291
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3129,
+      "markdown_body_line_end": 3135,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Extraction to industry chain",
+      "preview": "EXTRACTION -> ore or fuel raised at the deposit",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 433.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 371.291
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3139,
+      "markdown_body_line_end": 3145,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Occurrence to usable resource filter",
+      "preview": "OCCURRENCE EXISTS -> geology has done its part",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 349.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 287.291
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3149,
+      "markdown_body_line_end": 3155,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Four-element petroleum system",
+      "preview": "SOURCE ROCK -> organic-rich fine sediment buried deeply and long enough",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3159,
+      "markdown_body_line_end": 3165,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Why passive margins hold offshore oil",
+      "preview": "SHELF AND SLOPE -> the world's great sediment sinks receive river-borne organic load",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3169,
+      "markdown_body_line_end": 3175,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Offshore versus onshore comparison",
+      "preview": "GEOLOGY -> onshore intracratonic and rift basins vs shelf, slope and deepwater margin",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3179,
+      "markdown_body_line_end": 3185,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: India petroleum province map hooks",
+      "preview": "ONSHORE -> Assam-Arakan basin and the Cambay basin of western India",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3189,
+      "markdown_body_line_end": 3203,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Critical-mineral chokepoint fork",
+      "preview": "TRANSITION DEMAND RISES -> lithium, cobalt, nickel, graphite, copper, rare earths",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 307.691
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3207,
+      "markdown_body_line_end": 3221,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: India mineral belt and energy corridor rail",
+      "preview": "CHOTA NAGPUR COMPLEX -> iron ore, coal, mica, bauxite, manganese heartland",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 643.691
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3225,
+      "markdown_body_line_end": 3231,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Mineral and energy answer spine",
+      "preview": "DEFINE -> which class of resource and which measure is being asked about",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 621.691
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 559.691
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    }
+  ]
+}

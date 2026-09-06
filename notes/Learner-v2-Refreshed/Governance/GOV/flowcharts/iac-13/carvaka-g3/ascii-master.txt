@@ -1,0 +1,82 @@
+ASCII MASTER FLOW — PANEL 1/12: Budget-to-beneficiary chain
+1 BUDGET -> appropriation, scheme approval, outlay; failure: an unrealistic outlay
+2 RELEASE -> Union to State or agency, just-in-time via e-Kuber; failure: delay, float
+3 AGENCY -> agency receives, incurs and reports; failure: diversion and idle balance
+4 PROCUREMENT -> goods, works and services under the rules; failure: specification, cartel
+5 BENEFICIARY -> transfer or service delivered; failure: exclusion, last-mile cash access
+6 OUTCOME -> did the money change anything; failure: outputs counted in place of outcomes
+MUST REMEMBER: Public finance for service delivery follows need and entitlement,...
+
+ASCII MASTER FLOW — PANEL 2/12: The tool stack and the problem each solves
+JAM -> the precondition: a verifiable person, a usable account, a notification channel
+DIRECT BENEFIT TRANSFER -> identity-based leakage from fake, duplicate, ineligible entries
+PUBLIC FINANCIAL MANAGEMENT SYSTEM -> diversion and idle balances at the agency level
+SNA-SPARSH -> float and advance parking in the centrally sponsored scheme release chain
+GENERAL FINANCIAL RULES, 2017 -> procedural discipline over sanction and procurement
+
+ASCII MASTER FLOW — PANEL 3/12: The JAM foundation
+JAN DHAN -> universal bank-account access as the destination of a transfer
+AADHAAR -> unique identity that makes individual-level de-duplication possible
+MOBILE -> the transaction and notification channel that closes the loop
+LIMIT -> an account that exists is not always an account the holder can actually use
+
+ASCII MASTER FLOW — PANEL 4/12: Scope card for authenticated transfer
+CASH -> transfers credited to an individual verified beneficiary account
+IN KIND -> benefits delivered through authenticated systems rather than credited
+SERVICE ENABLERS -> certain transfers made to those who enable the service
+SCOPE ERROR -> equating the instrument with cash transfer alone
+
+ASCII MASTER FLOW — PANEL 5/12: Release architecture succession
+2021 -> Single Nodal Agency model: designated agency and account per scheme
+13 JULY 2023 -> Office Memorandum No. 1(27)/PFMS/2020 introduces SNA-SPARSH
+10 JUNE 2025 OM -> thirty-seven further schemes brought in from 1 July 2025
+1 NOVEMBER 2025 -> applies to all such schemes in States and Union Territories with legislatures
+BOUNDARY -> applicable from is provable; operational in all is not
+
+ASCII MASTER FLOW — PANEL 6/12: Just-in-time release mechanism
+INTEGRATION -> Public Financial Management System plus State IFMIS plus RBI e-Kuber
+RULE -> Union and State shares released together against an actual expenditure claim
+GAIN -> idle float and advance parking are removed from the release chain
+COST -> State cash-planning buffer is lost and agency reconciliation load rises
+CLOSE DISTINCTION: Budget allocation is not release, release is not expenditure,...
+
+ASCII MASTER FLOW — PANEL 7/12: Error matrix
+E1 INCLUSION ERROR -> an ineligible person receives; cause: fake, duplicate, outdated lists
+E1 INSTRUMENTS -> authentication, de-duplication, verification; cost: raises E2
+E2 EXCLUSION ERROR -> an eligible person is denied; cause: authentication and seeding failure
+E2 CORRECTIVES -> offline fallback, named exception officer, list revision, timed grievance
+
+ASCII MASTER FLOW — PANEL 8/12: Which error the state chooses to bear
+E1 -> a fiscal cost falling on the exchequer and recoverable in later years
+E2 -> a subsistence cost falling on one person in the year the benefit was needed
+-> FOR FOOD, PENSION AND WAGE ENTITLEMENTS the asymmetry favours tolerating some E1
+-> INCIDENCE: worn fingerprints, elderly users and low-connectivity areas bear E2 first
+ANSWER MOVE -> say which error the design optimises against and why
+
+ASCII MASTER FLOW — PANEL 9/12: Three failures, three instruments
+LEAKAGE -> benefit diverted to someone not entitled; instrument: de-duplication, tracking
+EXCLUSION -> benefit never reaches an eligible person; instrument: fallback and grievance
+INEFFICIENCY -> benefit delivered at excessive cost; instrument: procurement and design
+ERROR -> merging all three into plugging the leakages produces recommendations that fail
+
+ASCII MASTER FLOW — PANEL 10/12: Procurement failure and integrity map
+SPECIFICATION -> over-specified or vendor-tailored terms narrow the field before bidding
+COMPETITION -> single-bid and limited-competition outcomes remove the price discipline
+SELECTION -> lowest-cost selection for quality-dependent services buys the wrong thing
+AFTER AWARD -> weak contract management and thin technical evaluation capacity
+INTEGRITY -> disclosure, debarment, independent complaint handling, audit of the award
+TRADE-OFF -> tighter rules raise integrity, lengthen timelines and deter capable suppliers
+
+ASCII MASTER FLOW — PANEL 11/12: Local-body finance three-source test
+SOURCE 1 -> own revenue raised by the local body itself
+SOURCE 2 -> State devolution on State Finance Commission recommendations
+SOURCE 3 -> Union Finance Commission grants under Article 280(3)(bb) and Article 280(3)(c)
+TEST -> dependence on source three alone is spending capacity without fiscal autonomy
+CONDITION -> audited accounts, predictable release, transparent formula, public disclosure
+
+ASCII MASTER FLOW — PANEL 12/12: Answer spine for a financial-flow demand
+OPEN -> name the stage of the chain the stem occupies and the failure that belongs to it
+BUILD -> assign each tool its own problem, mechanism and limitation, never one system
+CORRECT -> separate leakage, exclusion and inefficiency and state which error is borne
+CLOSE -> graded verdict with the reporting-date caveat and no dashboard total asserted
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use PFMS, DBT, Government e-Marketplace,...

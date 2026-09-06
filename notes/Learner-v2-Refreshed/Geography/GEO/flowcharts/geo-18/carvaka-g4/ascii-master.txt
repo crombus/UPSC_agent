@@ -1,0 +1,89 @@
+ASCII MASTER FLOW — PANEL 1/12: Desert identity test
+MOISTURE DEFICIT -> desert criterion
+HOT + ARID -> BWh tendency
+COLD WINTER + ARID -> BWk tendency
+SAND / HEAT -> possible, not defining
+MUST REMEMBER: Hot deserts cluster near subtropical subsidence, western-margin cold currents,
+  continental interiors and rain shadows, while mid-latitude deserts add distance and mountain
+  barriers; large diurnal range, episodic rain and xerophytes follow water-energy balance.
+MUST REMEMBER: Hot deserts cluster near subtropical subsidence, western-margin cold currents,
+  continental interiors and rain shadows, while mid-latitude deserts add distance and mountain
+  barriers; large diurnal range, episodic rain and xerophytes follow water-energy balance.
+
+ASCII MASTER FLOW — PANEL 2/12: Aridity cause matrix
+SUBSIDENCE -> stable descending air
+OFFSHORE FLOW -> weak moisture supply
+COLD CURRENT -> fog but weak convection
+CONTINENT / RAIN SHADOW -> inland dryness
+
+ASCII MASTER FLOW — PANEL 3/12: Cold-current coast
+COLD WATER -> chilled marine boundary layer
+STABLE AIR -> weak vertical uplift
+FOG / MIST -> moisture without deep rain
+COASTAL DESERT -> aridity persists
+
+ASCII MASTER FLOW — PANEL 4/12: Temperature firewall
+HOT DESERT -> very large day-night range
+MID-LATITUDE DESERT -> cold winter
+CLEAR SKY -> rapid nocturnal radiation
+RULE -> do not equate desert with constant heat
+
+ASCII MASTER FLOW — PANEL 5/12: Wadi flood chain
+RARE INTENSE STORM -> high rain rate
+BARE / CRUSTED SURFACE -> rapid runoff
+DRY CHANNEL -> sudden flow concentration
+SETTLEMENT / ROAD -> flash-flood exposure
+
+ASCII MASTER FLOW — PANEL 6/12: Plant-water adaptations
+LEAF -> reduced, waxy or thorny
+STEM -> water storage in some species
+ROOT -> deep tap or wide shallow network
+SPACING -> lower competition for water
+
+ASCII MASTER FLOW — PANEL 7/12: Oasis and water strategy
+AQUIFER / SPRING / EXOTIC RIVER -> source
+WELL / CONDUIT / TANK -> access
+DATE PALM + CROPS -> layered use
+OVERUSE -> depletion, salinity or conflict
+
+ASCII MASTER FLOW — PANEL 8/12: Thar aridity map
+ARABIAN SEA BRANCH -> approaches north-west
+ARAVALLIS -> broadly parallel orientation
+WEAK FORCED ASCENT -> little orographic rain
+CONTINENTALITY + SUBSIDENCE -> reinforce aridity
+
+ASCII MASTER FLOW — PANEL 9/12: Thar landscape ledger
+DUNES -> barchan, seif and sand sheets
+DHANDS / PLAYAS -> inland salt basins
+LUNI -> principal inland-draining river
+KHEJRI / GRASS -> xeric open habitat
+
+ASCII MASTER FLOW — PANEL 10/12: Transformation trade-off
+TANKA / KHADIN / JOHAD -> local harvesting
+CANAL -> irrigation and settlement expansion
+RENEWABLE GRID -> low-carbon power
+RISKS -> salinity, waterlogging, habitat collision
+CLOSE DISTINCTION: Hot desert differs from cold/mid-latitude desert, aridity from drought, and
+  cold current promotes coastal stability/fog rather than directly 'removing' all rain; Thar's
+  monsoon-margin setting differs from Sahara's dominant controls.
+CLOSE DISTINCTION: Hot desert differs from cold/mid-latitude desert, aridity from drought, and
+  cold current promotes coastal stability/fog rather than directly 'removing' all rain; Thar's
+  monsoon-margin setting differs from Sahara's dominant controls.
+
+ASCII MASTER FLOW — PANEL 11/12: UNCCD status gate
+COP16 -> Riyadh, 2-13 December 2024
+LAND + DROUGHT -> resilience agenda advanced
+BINDING FRAMEWORK -> not finalised
+PYQ LEDGER -> no direct Topic 18 demand
+EVIDENCE LIMIT: Desert location is multicausal and boundaries migrate; Great Indian Bustard
+  habitat policy, renewable infrastructure and desertification trends require dated, spatially
+  explicit sources and trade-off analysis.
+EVIDENCE LIMIT: Desert location is multicausal and boundaries migrate; Great Indian Bustard
+  habitat policy, renewable infrastructure and desertification trends require dated, spatially
+  explicit sources and trade-off analysis.
+
+ASCII MASTER FLOW — PANEL 12/12: Desert answer spine
+DEFINE -> aridity and water balance
+MAP -> circulation, current and relief causes
+COMPARE -> hot versus mid-latitude
+APPLY -> Thar, GIB and drought governance

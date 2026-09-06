@@ -1,0 +1,95 @@
+ASCII MASTER FLOW — PANEL 1/12: Population balance equation
+POPULATION AT T2 = population at T1 + births - deaths +/- migration
+CENSUS -> time-specific snapshot, not a continuous live counter
+GROWTH RATE -> outcome of all three components together
+TRAP -> birth rate alone cannot explain total population change
+MUST REMEMBER: Population geography separates stock, structure, distribution, density, growth,
+  fertility, mortality and mobility; demographic transition moves from high birth/high death
+  through mortality-led growth and fertility decline toward low rates, with a possible ageing
+  or below-replacement phase rather than one universal timetable.
+MUST REMEMBER: Population geography separates stock, structure, distribution, density, growth,
+  fertility, mortality and mobility; demographic transition moves from high birth/high death
+  through mortality-led growth and fertility decline toward low rates, with a possible ageing
+  or below-replacement phase rather than one universal timetable.
+
+ASCII MASTER FLOW — PANEL 2/12: Demographic transition spine
+STAGE 1 -> high birth, high death, unstable growth
+STAGE 2 -> death rate falls first, birth stays high
+STAGE 3 -> fertility falls, growth slows
+STAGE 4/5 -> low rates, then ageing or decline in some societies
+
+ASCII MASTER FLOW — PANEL 3/12: Population pyramid reading
+EXPANSIVE -> broad base, youthful age structure, high fertility
+STATIONARY -> moderated base and fuller middle, slower growth
+CONSTRICTIVE -> narrow base and wider upper ages, ageing trend
+READING RULE -> shape, dependency and labour supply move together
+
+ASCII MASTER FLOW — PANEL 4/12: Dependency to dividend fork
+WORKING-AGE SHARE RISES -> dependency ratio can fall
+IF health + education + skills + jobs improve -> dividend window
+IF labour absorption fails -> unemployment and informality rise
+VERDICT -> demography gives potential, institutions decide the outcome
+
+ASCII MASTER FLOW — PANEL 5/12: Population-resource triangle
+UNDER-POPULATION -> too few people to use resources fully
+OVER-POPULATION -> pressure lowers living standards and employment quality
+OPTIMUM POPULATION -> relative balance of people, resources and technology
+SHIFT RULE -> technology, trade and institutions can move the optimum
+
+ASCII MASTER FLOW — PANEL 6/12: India demographic timeline
+1901-1921 -> stagnation under high birth and high death rates
+1921-1951 -> steady growth after the turning point
+1951-1981 -> population explosion as mortality falls sharply
+1981-2011 -> slowing growth as fertility decline deepens
+
+ASCII MASTER FLOW — PANEL 7/12: India data-source firewall
+CENSUS 2011 -> 1.21 billion total; sex ratio 943; literacy 74.04%
+SRS 2022 / NFHS-5 -> TFR 2.0; fertility anchor, not census count
+UN WPP 2024 -> mid-2024 estimate about 1.45 billion projection
+RULE -> keep instrument, date and status label attached to every figure
+
+ASCII MASTER FLOW — PANEL 8/12: Kerala-EAG contrast rail
+KERALA -> early fertility decline, higher literacy, later-ageing pressures
+EAG STATES -> more youthful structures and slower transition timing
+NATIONAL AVERAGE -> hides staggered state-level transition stages
+EXAM USE -> India contains early, middle and late transition spaces together
+
+ASCII MASTER FLOW — PANEL 9/12: Ageing with population momentum
+REPLACEMENT-LEVEL TFR -> does not stop growth immediately
+YOUNG COHORT BULGE -> population momentum keeps totals rising
+EARLY-TRANSITION STATES -> old-age burden appears sooner
+LATE-TRANSITION STATES -> youth bulge and migration pressure persist longer
+
+ASCII MASTER FLOW — PANEL 10/12: Sex ratio interpretation rule
+SEX RATIO -> shaped by births, mortality and migration together
+LABOUR MIGRATION -> can skew all-age ratios without changing births
+CHILD SEX RATIO -> isolates a different part of the demographic problem
+SAFE ANSWER -> define the measure before comparing regions
+CLOSE DISTINCTION: Crude birth/death rates, TFR, replacement fertility, dependency ratio, sex
+  ratio, life expectancy and population pyramid answer different questions; demographic
+  dividend is a conditional age-structure opportunity, not an automatic growth bonus, and
+  Census 2011, SRS, NFHS and UN estimates retain different reference dates and methods.
+CLOSE DISTINCTION: Crude birth/death rates, TFR, replacement fertility, dependency ratio, sex
+  ratio, life expectancy and population pyramid answer different questions; demographic
+  dividend is a conditional age-structure opportunity, not an automatic growth bonus, and
+  Census 2011, SRS, NFHS and UN estimates retain different reference dates and methods.
+
+ASCII MASTER FLOW — PANEL 11/12: World divergence under one model
+SUB-SAHARAN AFRICA -> youthful, high-growth structures remain common
+EUROPE / EAST ASIA -> low fertility, ageing and labour shortage concerns
+INDIA -> dividend window plus internal divergence at the same time
+LESSON -> one transition model yields very different policy problems
+EVIDENCE LIMIT: India must be mapped through Kerala/Tamil Nadu ageing and low fertility,
+  EAG-state youth and higher fertility, urban-rural and gender contrasts, and
+  migration-adjusted state patterns; transition theory is descriptive, while policy, health,
+  education, labour absorption and gender agency explain divergent pathways.
+EVIDENCE LIMIT: India must be mapped through Kerala/Tamil Nadu ageing and low fertility,
+  EAG-state youth and higher fertility, urban-rural and gender contrasts, and
+  migration-adjusted state patterns; transition theory is descriptive, while policy, health,
+  education, labour absorption and gender agency explain divergent pathways.
+
+ASCII MASTER FLOW — PANEL 12/12: Population answer spine
+DEFINE -> indicator, census or survey, and what exactly is being measured
+ORDER -> transition stage, pyramid shape and dependency condition
+LOCATE -> world contrast plus Kerala-EAG or other state divergence
+QUALIFY -> projection versus census, dividend versus momentum, no fabricated PYQ

@@ -1,0 +1,2381 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-06\\g3\\governance-06_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-06\\g3\\governance-06_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "governance-06",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Digital Public Infrastructure and Data Governance - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-02. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 29,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 728.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 434.29
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-06\\g3\\assets\\governance-06_Teaching-Navigation_2026-09-02.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rails, service and safeguard as three layers should be analysed as a relation among Digital public infrastructure defined against a service and The three layers a digital-governance answer must keep apart, not as a list of virtues attached ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 265.756
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 184.888
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 85,
+      "heading": "VISUAL FIRST",
+      "preview": "RAILS, SERVICE AND SAFEGUARD AS THREE LAYERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 135
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 719.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 638.491
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 114,
+      "markdown_body_line_end": 121,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 99.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 710.223
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 133,
+      "markdown_body_line_end": 133,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The identity layer and its exact statutory anchor should be analysed as a relation among Identity layer: Aadhaar and its exact statute, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 527.823
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 461.155
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 148,
+      "markdown_body_line_end": 152,
+      "heading": "VISUAL FIRST",
+      "preview": "THE IDENTITY LAYER AND ITS EXACT STATUTORY ANCHOR",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 187,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 381.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 275.073
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 199,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Payments and documents layers should be analysed as a relation among Payments layer: the Unified Payments Interface and Documents layer: DigiLocker, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 111.673
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 45.005
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 214,
+      "markdown_body_line_end": 221,
+      "heading": "VISUAL FIRST",
+      "preview": "PAYMENTS AND DOCUMENTS LAYERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 138
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 600.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 519.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 250,
+      "markdown_body_line_end": 257,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 51.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 697.273
+        }
+      },
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 269,
+      "markdown_body_line_end": 269,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Consent in finance and the techno-legal design should be analysed as a relation among Consent in finance: the Account Aggregator under DEPA, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 533.873
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 467.205
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 284,
+      "markdown_body_line_end": 288,
+      "heading": "VISUAL FIRST",
+      "preview": "CONSENT IN FINANCE AND THE TECHNO-LEGAL DESIGN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 316,
+      "markdown_body_line_end": 323,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 328.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 222.473
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 335,
+      "markdown_body_line_end": 335,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Commerce and health layers with distinct risks should be analysed as a relation among Commerce layer: the Open Network for Digital Commerce and Health layer: the Ayushman Bharat Digital Mission, not as a list of virtues attached to the word",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 350,
+      "markdown_body_line_end": 357,
+      "heading": "VISUAL FIRST",
+      "preview": "COMMERCE AND HEALTH LAYERS WITH DISTINCT RISKS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 145
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 519.424
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 438.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 386,
+      "markdown_body_line_end": 393,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 652.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 537.723
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 405,
+      "markdown_body_line_end": 405,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Principles that are not yet statute should be analysed as a relation among Techno-legal design and non-statutory principle frameworks, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 374.323
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 307.655
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 420,
+      "markdown_body_line_end": 424,
+      "heading": "VISUAL FIRST",
+      "preview": "PRINCIPLES THAT ARE NOT YET STATUTE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 103
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 452,
+      "markdown_body_line_end": 459,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 300.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 194.073
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 471,
+      "markdown_body_line_end": 471,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The three-tranche commencement should be analysed as a relation among The three-tranche commencement of the data-protection statute, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 717.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 486,
+      "markdown_body_line_end": 490,
+      "heading": "VISUAL FIRST",
+      "preview": "THE THREE-TRANCHE COMMENCEMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 118
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 508.424
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 457.424
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 518,
+      "markdown_body_line_end": 525,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 697.273
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 537,
+      "markdown_body_line_end": 537,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Rules and their notification identity should be analysed as a relation among The Rules and their notification identity, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 533.873
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 467.205
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 552,
+      "markdown_body_line_end": 556,
+      "heading": "VISUAL FIRST",
+      "preview": "THE RULES AND THEIR NOTIFICATION IDENTITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 584,
+      "markdown_body_line_end": 591,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 381.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 275.073
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 603,
+      "markdown_body_line_end": 603,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Two subsections that are routinely swapped should be analysed as a relation among Section 44(2) against section 44(3), not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 111.673
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 45.005
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 618,
+      "markdown_body_line_end": 622,
+      "heading": "VISUAL FIRST",
+      "preview": "TWO SUBSECTIONS THAT ARE ROUTINELY SWAPPED",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 158
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 600.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 549.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 650,
+      "markdown_body_line_end": 657,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 127.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 669,
+      "markdown_body_line_end": 669,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Enacted categories that are not yet enforceable should be analysed as a relation among Enacted categories that are not yet enforceable, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 587.923
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 521.255
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 684,
+      "markdown_body_line_end": 688,
+      "heading": "VISUAL FIRST",
+      "preview": "ENACTED CATEGORIES THAT ARE NOT YET ENFORCEABLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 312.255
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 271.255
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 716,
+      "markdown_body_line_end": 723,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 630.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 524.073
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 735,
+      "markdown_body_line_end": 735,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Two consent managers that are not the same registration should be analysed as a relation among Consent Manager against Account Aggregator, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 341.673
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 275.005
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 750,
+      "markdown_body_line_end": 754,
+      "heading": "VISUAL FIRST",
+      "preview": "TWO CONSENT MANAGERS THAT ARE NOT THE SAME REGISTRATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 134
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 782,
+      "markdown_body_line_end": 789,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 342.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 236.673
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 801,
+      "markdown_body_line_end": 801,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Board and the five-stage enforcement sequence should be analysed as a relation among The Board and the enforcement sequence, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 816,
+      "markdown_body_line_end": 820,
+      "heading": "VISUAL FIRST",
+      "preview": "THE BOARD AND THE FIVE-STAGE ENFORCEMENT SEQUENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 492.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 848,
+      "markdown_body_line_end": 855,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 113.224
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        25,
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 867,
+      "markdown_body_line_end": 867,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Authentication dependency and the reuse tension should be analysed as a relation among Authentication dependency and the exclusion tail and Interoperability against purpose limitation, not as a list of virtues attached to the word governanc",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 573.723
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 492.855
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 882,
+      "markdown_body_line_end": 889,
+      "heading": "VISUAL FIRST",
+      "preview": "AUTHENTICATION DEPENDENCY AND THE REUSE TENSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 130
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 918,
+      "markdown_body_line_end": 925,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 139.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        27,
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 937,
+      "markdown_body_line_end": 937,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Six binding constraints and the intermediary paradox should be analysed as a relation among Six binding constraints behind rural digital illiteracy and The intermediary paradox and the four safeguards, not as a list of virtues attached to t",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 573.723
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 492.855
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 952,
+      "markdown_body_line_end": 959,
+      "heading": "VISUAL FIRST",
+      "preview": "SIX BINDING CONSTRAINTS AND THE INTERMEDIARY PARADOX",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 130
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 988,
+      "markdown_body_line_end": 995,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 68.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 710.223
+        }
+      },
+      "pdf_pages": [
+        29,
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1007,
+      "markdown_body_line_end": 1007,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Remedy forums and honest question ownership should be analysed as a relation among Verified question ownership and remedy forums, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 527.823
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 461.155
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1022,
+      "markdown_body_line_end": 1026,
+      "heading": "VISUAL FIRST",
+      "preview": "REMEDY FORUMS AND HONEST QUESTION OWNERSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1061,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 139.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        31,
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1065,
+      "markdown_body_line_end": 1073,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Governance | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II. **Core area:** DPI vs e-governance; Aadhaar/UPI/DigiLocker/Account Aggregator/ONDC/ABDM; DEPA; the Digital Personal Data Protection Act and Rules; privacy/exclu",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 770.323
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 632.655
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1077,
+      "markdown_body_line_end": 1097,
+      "heading": "1. Visual foundation",
+      "preview": "E-GOVERNANCE                          DIGITAL PUBLIC INFRASTRUCTURE (DPI)",
+      "metadata": {
+        "language": "text",
+        "line_count": 19,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 610.655
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 409.655
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1106,
+      "markdown_body_line_end": 1116,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 224.69
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1246,
+      "markdown_body_line_end": 1250,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** India's Digital Public Infrastructure — identity, payments and consent-based data-sharing rails used across government and private services — has materially expanded access and reduced transaction costs, but its benefits ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 730.224
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1275,
+      "markdown_body_line_end": 1277,
+      "heading": "13. Answer architecture (10/15/20-mark support)",
+      "preview": "**Scope.** All marks-bearing content for *digital public infrastructure and data governance*, including the demand the 2018–2023 ledger routed to `advanced/06`, is held **in this file**. `advanced/06` is optional enrichment only.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 441.424
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 374.756
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1313,
+      "markdown_body_line_end": 1320,
+      "heading": "13.1 Demand map",
+      "preview": "Stem pattern | What is being tested | Opening move",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Stem pattern",
+          "What is being tested",
+          "Opening move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 685.091
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 454.89
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1357,
+      "markdown_body_line_end": 1366,
+      "heading": "13.4 Evidence bank A - the DPI stack",
+      "preview": "Layer | Component | Mechanism | Limitation / caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Layer",
+          "Component",
+          "Mechanism",
+          "Limitation / caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 410.39
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1370,
+      "markdown_body_line_end": 1379,
+      "heading": "13.5 Evidence bank B - the distinctions that earn marks",
+      "preview": "Confused pair | Correct distinction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Confused pair",
+          "Correct distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 388.39
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 115.788
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1383,
+      "markdown_body_line_end": 1396,
+      "heading": "13.6 Causal chain - from DPI adoption to privacy/exclusion outcomes",
+      "preview": "POPULATION-SCALE IDENTITY  -> efficient targeting, de-duplication (see 13)",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 656.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1434,
+      "markdown_body_line_end": 1438,
+      "heading": "13.8 Algorithmic accountability and grievance routes",
+      "preview": "LAWFUL PURPOSE -> REPRESENTATIVE DATA -> TESTED ERROR RATES BY GROUP",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 190.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 149.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1482,
+      "markdown_body_line_end": 1484,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 449.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 354.224
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1490,
+      "markdown_body_line_end": 1492,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 302.624
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 216.222
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1498,
+      "markdown_body_line_end": 1498,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 177.022
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 132.354
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1505,
+      "markdown_body_line_end": 1507,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 132.354
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 51.487
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1513,
+      "markdown_body_line_end": 1518,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 768.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 526.49
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1527,
+      "markdown_body_line_end": 1527,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 435.69
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 391.022
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2407,
+      "markdown_body_line_end": 2409,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 516.291
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 421.224
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2415,
+      "markdown_body_line_end": 2417,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 369.624
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 283.222
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2423,
+      "markdown_body_line_end": 2423,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 244.022
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 199.354
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2430,
+      "markdown_body_line_end": 2432,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 91,
+          "frame_y": 199.354
+        },
+        "end": {
+          "page": 91,
+          "frame_y": 118.487
+        }
+      },
+      "pdf_pages": [
+        91
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2438,
+      "markdown_body_line_end": 2443,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 560.89
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2452,
+      "markdown_body_line_end": 2452,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 470.09
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 425.422
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2469,
+      "markdown_body_line_end": 2470,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 288.022
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 221.354
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2476,
+      "markdown_body_line_end": 2478,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 169.754
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 72.853
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2484,
+      "markdown_body_line_end": 2484,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 770.091
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 725.424
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2861,
+      "markdown_body_line_end": 2868,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Governance | **Tier:** Advanced | **GS Paper:** GS-II. **Core area:** DPI vs e-governance; Aadhaar/UPI/DigiLocker/Account Aggregator/ONDC/ABDM; DEPA; the Digital Personal Data Protection Act and Rules; privacy/exclusion risks. ",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 689.291
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 587.824
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2872,
+      "markdown_body_line_end": 2884,
+      "heading": "1. Architecture",
+      "preview": "LAYERED DPI STACK                             GOVERNANCE QUESTION AT EACH LAYER",
+      "metadata": {
+        "language": "text",
+        "line_count": 11,
+        "max_source_line_length": 103
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 565.824
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 434.824
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2894,
+      "markdown_body_line_end": 2900,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 365.49
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3069,
+      "markdown_body_line_end": 3070,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 539.691
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 473.024
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3076,
+      "markdown_body_line_end": 3078,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 421.424
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 324.522
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3084,
+      "markdown_body_line_end": 3084,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 285.322
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 240.654
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3134,
+      "markdown_body_line_end": 3140,
+      "heading": "Digital Public Infrastructure and Data Governance: ANSWER-WRITING SPINE",
+      "preview": "NAME THE NORM OR PROBLEM -> IDENTIFY THE DUTY-HOLDER AND THE BINDING FORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 118,
+          "frame_y": 259.091
+        },
+        "end": {
+          "page": 118,
+          "frame_y": 198.091
+        }
+      },
+      "pdf_pages": [
+        118
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3150,
+      "markdown_body_line_end": 3156,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Rails, service and safeguard",
+      "preview": "RAILS -> identity, payments, documents, consent, commerce and health infrastructure",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 119,
+          "frame_y": 609.291
+        },
+        "end": {
+          "page": 119,
+          "frame_y": 547.291
+        }
+      },
+      "pdf_pages": [
+        119
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3160,
+      "markdown_body_line_end": 3166,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: The stack card",
+      "preview": "IDENTITY -> Aadhaar under the Aadhaar Act, 2016; UIDAI; not proof of citizenship",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 119,
+          "frame_y": 525.291
+        },
+        "end": {
+          "page": 119,
+          "frame_y": 463.291
+        }
+      },
+      "pdf_pages": [
+        119
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3170,
+      "markdown_body_line_end": 3175,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Two consent constructs",
+      "preview": "ACCOUNT AGGREGATOR -> finance-specific; Reserve Bank regulated; cannot view or store the data",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 119,
+          "frame_y": 441.291
+        },
+        "end": {
+          "page": 119,
+          "frame_y": 389.491
+        }
+      },
+      "pdf_pages": [
+        119
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3179,
+      "markdown_body_line_end": 3184,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Layer-specific risk matrix",
+      "preview": "IDENTITY -> who is excluded by authentication failure",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 119,
+          "frame_y": 367.491
+        },
+        "end": {
+          "page": 119,
+          "frame_y": 315.691
+        }
+      },
+      "pdf_pages": [
+        119
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3188,
+      "markdown_body_line_end": 3193,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Three-tranche commencement",
+      "preview": "13 NOVEMBER 2025 -> definitions, sections 18 to 26 establishing the Board, section 44(1) and 44(3)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3197,
+      "markdown_body_line_end": 3203,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: The section 44 split",
+      "preview": "SECTION 44(3) -> substitutes the personal-information exemption in the transparency statute",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3207,
+      "markdown_body_line_end": 3213,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Enforcement sequence",
+      "preview": "STAGE 1 ESTABLISHED -> the Board exists in law under section 18",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 567.491
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3217,
+      "markdown_body_line_end": 3223,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Authentication dependency",
+      "preview": "POPULATION-SCALE IDENTITY -> efficient targeting and de-duplication",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 545.491
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 483.491
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3227,
+      "markdown_body_line_end": 3232,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Interoperability against purpose limitation",
+      "preview": "INTEROPERABILITY -> the same rails reused across many public and private services",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 461.491
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 409.691
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3236,
+      "markdown_body_line_end": 3242,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Six binding constraints",
+      "preview": "DEVICE -> household handset shared and controlled by one member",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 387.691
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 325.691
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3246,
+      "markdown_body_line_end": 3251,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Intermediary paradox and four safeguards",
+      "preview": "REALISTIC ROUTE -> assisted access through a centre, a shopkeeper or a family member",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 303.691
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 251.891
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3255,
+      "markdown_body_line_end": 3261,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Answer spine for an adequacy demand",
+      "preview": "OPEN -> separate rails, service and safeguard, and name the layer at issue",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 121,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 121,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        121
+      ]
+    }
+  ]
+}

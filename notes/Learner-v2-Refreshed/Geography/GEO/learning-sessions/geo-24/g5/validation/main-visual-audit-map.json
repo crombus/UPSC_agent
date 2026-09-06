@@ -1,0 +1,1721 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g5\\geography-24_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g5\\geography-24_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "geography-24",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Cool Temperate Eastern Margin Laurentian - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 418.024
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 189.022
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 51,
+      "markdown_body_line_end": 51,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-24\\g5\\assets\\geography-24_Teaching-Navigation_2026-08-22.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 127.356
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Intermediate type identity must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 82,
+      "heading": "VISUAL FIRST",
+      "preview": "INTERMEDIATE TYPE IDENTITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 466.424
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 425.424
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 110,
+      "markdown_body_line_end": 117,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 117.024
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 129,
+      "markdown_body_line_end": 129,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Two-region restriction must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 635.323
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 568.655
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 143,
+      "markdown_body_line_end": 150,
+      "heading": "VISUAL FIRST",
+      "preview": "TWO-REGION RESTRICTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 391.055
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 320.055
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 179,
+      "markdown_body_line_end": 186,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 680.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 582.823
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 198,
+      "markdown_body_line_end": 198,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cold dry winter mechanism must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 462.023
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 395.355
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 213,
+      "markdown_body_line_end": 217,
+      "heading": "VISUAL FIRST",
+      "preview": "COLD DRY WINTER MECHANISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 245,
+      "markdown_body_line_end": 252,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 452.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 362.773
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 264,
+      "markdown_body_line_end": 264,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Warm summer rainfall maximum must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 227.773
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 161.105
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 277,
+      "markdown_body_line_end": 281,
+      "heading": "VISUAL FIRST",
+      "preview": "WARM SUMMER RAINFALL MAXIMUM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 721.091
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 309,
+      "markdown_body_line_end": 316,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 426.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 329.223
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 328,
+      "markdown_body_line_end": 328,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Oyashio-Kuroshio convergence must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 194.223
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 127.555
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 343,
+      "markdown_body_line_end": 347,
+      "heading": "VISUAL FIRST",
+      "preview": "OYASHIO-KUROSHIO CONVERGENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 699.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 658.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 375,
+      "markdown_body_line_end": 382,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 349.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 252.223
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 394,
+      "markdown_body_line_end": 394,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Grand Banks and Labrador-Atlantic meeting must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 103.023
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 801.024
+        }
+      },
+      "pdf_pages": [
+        13,
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 409,
+      "markdown_body_line_end": 416,
+      "heading": "VISUAL FIRST",
+      "preview": "GRAND BANKS AND LABRADOR-ATLANTIC MEETING",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 606.224
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 535.224
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 445,
+      "markdown_body_line_end": 452,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 152.824
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 55.155
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 464,
+      "markdown_body_line_end": 464,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Fishing economy and current foundation must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 665.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 478,
+      "markdown_body_line_end": 485,
+      "heading": "VISUAL FIRST",
+      "preview": "FISHING ECONOMY AND CURRENT FOUNDATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 420.824
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 349.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 514,
+      "markdown_body_line_end": 521,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 636.223
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 533,
+      "markdown_body_line_end": 533,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cool temperate mixed forest must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 515.423
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 448.755
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 546,
+      "markdown_body_line_end": 550,
+      "heading": "VISUAL FIRST",
+      "preview": "COOL TEMPERATE MIXED FOREST",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 578,
+      "markdown_body_line_end": 585,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 437.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 340.223
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 597,
+      "markdown_body_line_end": 597,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Fog as dual-purpose phenomenon must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 205.223
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 138.555
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 611,
+      "markdown_body_line_end": 615,
+      "heading": "VISUAL FIRST",
+      "preview": "FOG AS DUAL-PURPOSE PHENOMENON",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 716.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 675.491
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 643,
+      "markdown_body_line_end": 650,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 381.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 283.623
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 662,
+      "markdown_body_line_end": 662,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Fishery governance constraint must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 162.823
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 96.155
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 677,
+      "markdown_body_line_end": 681,
+      "heading": "VISUAL FIRST",
+      "preview": "FISHERY GOVERNANCE CONSTRAINT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 664.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 623.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 709,
+      "markdown_body_line_end": 716,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 329.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 240.373
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 728,
+      "markdown_body_line_end": 728,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Eastern Himalaya as India analogue must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 743,
+      "markdown_body_line_end": 750,
+      "heading": "VISUAL FIRST",
+      "preview": "EASTERN HIMALAYA AS INDIA ANALOGUE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 476.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 779,
+      "markdown_body_line_end": 786,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 94.424
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 718.573
+        }
+      },
+      "pdf_pages": [
+        20,
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 798,
+      "markdown_body_line_end": 798,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Teesta drainage and hazards must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 583.573
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 516.905
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 811,
+      "markdown_body_line_end": 818,
+      "heading": "VISUAL FIRST",
+      "preview": "TEESTA DRAINAGE AND HAZARDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 370.705
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 299.705
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 847,
+      "markdown_body_line_end": 854,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 713.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 616.023
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 866,
+      "markdown_body_line_end": 866,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Darjeeling premium tea must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 481.023
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 414.355
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 881,
+      "markdown_body_line_end": 888,
+      "heading": "VISUAL FIRST",
+      "preview": "DARJEELING PREMIUM TEA",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 917,
+      "markdown_body_line_end": 924,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 333.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 236.223
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 936,
+      "markdown_body_line_end": 936,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Polar vortex and mid-latitude linkage must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 101.223
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 951,
+      "markdown_body_line_end": 955,
+      "heading": "VISUAL FIRST",
+      "preview": "POLAR VORTEX AND MID-LATITUDE LINKAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 983,
+      "markdown_body_line_end": 990,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 198.424
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 100.755
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1002,
+      "markdown_body_line_end": 1002,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "PYQ boundary and answer spine must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1017,
+      "markdown_body_line_end": 1021,
+      "heading": "VISUAL FIRST",
+      "preview": "PYQ BOUNDARY AND ANSWER SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1049,
+      "markdown_body_line_end": 1056,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 82.624
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 735.273
+        }
+      },
+      "pdf_pages": [
+        25,
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1060,
+      "markdown_body_line_end": 1063,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*. ✅ = from source book · ⚠️ = inference ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 735.273
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 640.205
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1071,
+      "markdown_body_line_end": 1074,
+      "heading": "1. What & Where (G.C. Leong)",
+      "preview": "Region | Areas",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 2,
+        "headers": [
+          "Region",
+          "Areas"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 570.605
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 492.404
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1082,
+      "markdown_body_line_end": 1083,
+      "heading": "2. Climate",
+      "preview": "🔑 Trap: Rain has a **summer maximum** (easterly ocean winds); winters are **dry and cold** — the opposite of the British type (autumn/winter rain).",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 418.804
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 374.136
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1129,
+      "markdown_body_line_end": 1133,
+      "heading": "9.1 Directive decoding",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 625.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 469.69
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1163,
+      "markdown_body_line_end": 1170,
+      "heading": "9.4 Evidence units available in this file",
+      "preview": "**Claim:** the same current configuration produces a hazard and a resource in one place. **Evidence:** the meeting of a warm and a cold current off this coast chills warm moist air from below, generating persistent dense fog, while the mixi",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 671.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1172,
+      "markdown_body_line_end": 1179,
+      "heading": "9.4 Evidence units available in this file",
+      "preview": "**Claim:** the absence of a climate type can be a fact about land distribution rather than about climate. **Evidence:** the cool temperate eastern margin type is effectively absent in the Southern Hemisphere because the southern continents ",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 671.624
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 570.156
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2342,
+      "markdown_body_line_end": 2345,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I / GS-III **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *India geography* + verified CA. ✅ = from source book · ⚠️ = inferen",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 707.224
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2363,
+      "markdown_body_line_end": 2368,
+      "heading": "2. Darjeeling tea (Khullar)",
+      "preview": "Feature | Detail",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Feature",
+          "Detail"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 513.424
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 392.822
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2404,
+      "markdown_body_line_end": 2417,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Laurentian climate world distribution",
+      "preview": "NE NORTH AMERICA -> eastern Canada, Maritime Provinces, New England, Newfoundland",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 733.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 599.891
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2421,
+      "markdown_body_line_end": 2426,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Seasonal rainfall mechanism",
+      "preview": "WINTER -> continental Westerlies blow dry frigid air from interior",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 577.891
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 526.091
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2430,
+      "markdown_body_line_end": 2435,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Current convergence and fishing",
+      "preview": "OYASHIO (cold) + KUROSHIO (warm) -> convergence off northern Japan",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 504.091
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 452.291
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2439,
+      "markdown_body_line_end": 2444,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Fog as dual phenomenon",
+      "preview": "FOG AS HAZARD -> poor visibility, navigational danger, shipping risk",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 430.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 378.491
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2448,
+      "markdown_body_line_end": 2453,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Mixed forest transition strip",
+      "preview": "BRITISH MARGIN -> deciduous broadleaf forest (mild, wet winters)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 356.491
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 304.691
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2457,
+      "markdown_body_line_end": 2462,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Fishery governance lesson",
+      "preview": "PHYSICAL BASE -> current convergence + shallow shelf + nutrient mixing",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2466,
+      "markdown_body_line_end": 2471,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Eastern Himalaya analogue map",
+      "preview": "DARJEELING-SIKKIM -> cool humid eastern-facing temperate belt",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2475,
+      "markdown_body_line_end": 2480,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Teesta basin profile",
+      "preview": "STEEP RELIEF -> rapid runoff, high sediment load",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2484,
+      "markdown_body_line_end": 2489,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Darjeeling tea economy",
+      "preview": "DARJEELING HILLS -> low-yield, premium, GI-protected orthodox tea",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2493,
+      "markdown_body_line_end": 2504,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: British-Laurentian comparison",
+      "preview": "RAINFALL -> British: autumn-winter max | Laurentian: summer max",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 379.091
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2508,
+      "markdown_body_line_end": 2519,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Polar-vortex hypothesis",
+      "preview": "STRATOSPHERIC DISRUPTION -> weakens polar vortex containment",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 357.091
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 244.091
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2523,
+      "markdown_body_line_end": 2528,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Laurentian answer spine",
+      "preview": "DEFINE -> intermediate type between British maritime and Siberian continental",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    }
+  ]
+}

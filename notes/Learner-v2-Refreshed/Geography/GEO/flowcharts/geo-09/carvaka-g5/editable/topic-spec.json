@@ -1,0 +1,1100 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-09",
+  "subject": "Geography",
+  "title": "LAKES / INDIA LAKES AND WETLANDS",
+  "short_route": "CATEGORY BOUNDARY → LAKE-ORIGIN TREE → WATER-BUDGET EQUATION → LAKE-CHANGE FIREWALL → WETLAND HYDROPERIOD → INDIA LAKE MAP",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g5\\geography-09_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-09-deep-review-2026-09-05-g5.json",
+  "ascii_spec_sha256": "1cef3a5d3b1a46fc5bb30be56d100c4ed27040225925c121663fe0d127f03f3d",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "CATEGORY BOUNDARY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "CATEGORY BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "STANDING WATER IN AN INLAND BASIN",
+          "role": "outcome"
+        },
+        {
+          "text": "ARTIFICIAL OR STRONGLY REGULATED STORAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "BROADER HYDROLOGICAL-ECOLOGICAL CATEGORY",
+          "role": "evidence"
+        },
+        {
+          "text": "RAMSAR SITE",
+          "role": "primary"
+        },
+        {
+          "text": "INTERNATIONAL DESIGNATION, NOT BASIN ORIGIN",
+          "role": "caution"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "LAKE CLASSIFICATION MUST FOLLOW BASIN ORIGIN—TECTONIC, VOLCANIC, GLACIAL, FLUVIAL",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "LAKE → standing water in an inland basin",
+        "RESERVOIR → artificial or strongly regulated storage",
+        "WETLAND → broader hydrological-ecological category",
+        "RAMSAR SITE → international designation, not basin origin",
+        "MUST REMEMBER: Lake classification must follow basin origin—tectonic, volcanic, glacial, fluvial, karst, coastal, aeolian, landslide"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "LAKE → standing water in an inland basin",
+          "WETLAND → broader hydrological-ecological category",
+          "MUST REMEMBER: Lake classification must follow basin origin—tectonic, volcanic, glacial, fluvial, karst, coastal, aeolian, landslide or artificial—then water"
+        ],
+        [
+          "RESERVOIR → artificial or strongly regulated storage",
+          "RAMSAR SITE → international designation, not basin origin",
+          "Indian wetlands add Ramsar and domestic-governance layers."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LAKE → standing water in an inland basin",
+            "RESERVOIR → artificial or strongly regulated storage"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WETLAND → broader hydrological-ecological category",
+            "RAMSAR SITE → international designation, not basin origin"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Lake classification must follow basin origin—tectonic, volcanic, glacial, fluvial, karst, coastal, aeolian, landslide or artificial—then water",
+            "Indian wetlands add Ramsar and domestic-governance layers."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Lake classification must follow basin origin—tectonic, volcanic, glacial, fluvial, karst, coastal, aeolian, landslide or artificial—then water balance, mixing, sediment and succession; Indian wetlands add Ramsar and domestic-governance layers.",
+      "source_references": [
+        "Lake, pond, reservoir and wetland",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g5\\geography-09_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "LAKE-ORIGIN TREE",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LAKE-ORIGIN TREE",
+          "role": "primary"
+        },
+        {
+          "text": "EARTH MOVEMENT",
+          "role": "outcome"
+        },
+        {
+          "text": "TECTONIC OR VOLCANIC BASIN",
+          "role": "comparison"
+        },
+        {
+          "text": "TARN, OX-BOW OR LAGOON",
+          "role": "evidence"
+        },
+        {
+          "text": "LANDSLIDE DAM OR CRATER",
+          "role": "primary"
+        },
+        {
+          "text": "HUMAN WORK",
+          "role": "outcome"
+        },
+        {
+          "text": "RESERVOIR, BUND OR EXCAVATION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "EARTH MOVEMENT → tectonic or volcanic basin",
+        "ICE / RIVER / COAST → tarn, ox-bow or lagoon",
+        "BLOCKAGE / IMPACT → landslide dam or crater",
+        "HUMAN WORK → reservoir, bund or excavation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EARTH MOVEMENT → tectonic or volcanic basin",
+            "ICE / RIVER / COAST → tarn, ox-bow or lagoon"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BLOCKAGE / IMPACT → landslide dam or crater",
+            "HUMAN WORK → reservoir, bund or excavation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EARTH MOVEMENT → tectonic or volcanic basin",
+            "ICE / RIVER / COAST → tarn, ox-bow or lagoon"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "BLOCKAGE / IMPACT → landslide dam or crater.",
+      "source_references": [
+        "How lake basins form",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g5\\geography-09_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "WATER-BUDGET EQUATION",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WATER-BUDGET EQUATION",
+          "role": "primary"
+        },
+        {
+          "text": "RAIN + RIVER + GROUNDWATER",
+          "role": "outcome"
+        },
+        {
+          "text": "EVAPORATION + OUTFLOW + SEEPAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "STORAGE CHANGE",
+          "role": "evidence"
+        },
+        {
+          "text": "INPUTS MINUS OUTPUTS",
+          "role": "primary"
+        },
+        {
+          "text": "STATE PERIOD, BASIN AND UNCERTAINTY",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "INPUT → rain + river + groundwater",
+        "OUTPUT → evaporation + outflow + seepage",
+        "STORAGE CHANGE → inputs minus outputs",
+        "ATTRIBUTION → state period, basin and uncertainty"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INPUT → rain + river + groundwater",
+            "OUTPUT → evaporation + outflow + seepage"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "STORAGE CHANGE → inputs minus outputs",
+            "ATTRIBUTION → state period, basin and uncertainty"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INPUT → rain + river + groundwater",
+            "OUTPUT → evaporation + outflow + seepage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STORAGE CHANGE → inputs minus outputs; ATTRIBUTION → state period, basin and uncertainty.",
+      "source_references": [
+        "Lake water budget",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g5\\geography-09_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "LAKE-CHANGE FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LAKE-CHANGE FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "SEDIMENT AND ORGANIC INFILLING",
+          "role": "outcome"
+        },
+        {
+          "text": "NUTRIENT-PRODUCTIVITY-OXYGEN SHIFT",
+          "role": "comparison"
+        },
+        {
+          "text": "WATER-BUDGET DEFICIT",
+          "role": "evidence"
+        },
+        {
+          "text": "SIMILAR APPEARANCE CAN HIDE DIFFERENT MECHANISMS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "SUCCESSION → sediment and organic infilling",
+        "EUTROPHICATION → nutrient-productivity-oxygen shift",
+        "SHRINKAGE → water-budget deficit",
+        "RULE → similar appearance can hide different mechanisms"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SUCCESSION → sediment and organic infilling",
+          "SHRINKAGE → water-budget deficit",
+          "SUCCESSION → sediment and organic infilling"
+        ],
+        [
+          "EUTROPHICATION → nutrient-productivity-oxygen shift",
+          "RULE → similar appearance can hide different mechanisms",
+          "EUTROPHICATION → nutrient-productivity-oxygen shift"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SUCCESSION → sediment and organic infilling",
+            "EUTROPHICATION → nutrient-productivity-oxygen shift"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SHRINKAGE → water-budget deficit",
+            "RULE → similar appearance can hide different mechanisms"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SUCCESSION → sediment and organic infilling",
+            "EUTROPHICATION → nutrient-productivity-oxygen shift"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → similar appearance can hide different mechanisms.",
+      "source_references": [
+        "Trophic states and eutrophication",
+        "Two modes of lake loss",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g5\\geography-09_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "WETLAND HYDROPERIOD",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WETLAND HYDROPERIOD",
+          "role": "primary"
+        },
+        {
+          "text": "SEASON OF INUNDATION",
+          "role": "outcome"
+        },
+        {
+          "text": "HOW LONG WATER REMAINS",
+          "role": "comparison"
+        },
+        {
+          "text": "DEPTH + FREQUENCY",
+          "role": "evidence"
+        },
+        {
+          "text": "HABITAT FILTER",
+          "role": "primary"
+        },
+        {
+          "text": "RIVER, AQUIFER OR COAST LINK",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "TIMING → season of inundation",
+        "DURATION → how long water remains",
+        "DEPTH + FREQUENCY → habitat filter",
+        "CONNECTIVITY → river, aquifer or coast link"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TIMING → season of inundation",
+            "DURATION → how long water remains"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DEPTH + FREQUENCY → habitat filter",
+            "CONNECTIVITY → river, aquifer or coast link"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TIMING → season of inundation",
+            "DURATION → how long water remains"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DEPTH + FREQUENCY → habitat filter; CONNECTIVITY → river, aquifer or coast link.",
+      "source_references": [
+        "Hydroperiod and connectivity",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g5\\geography-09_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "INDIA LAKE MAP",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INDIA LAKE MAP",
+          "role": "primary"
+        },
+        {
+          "text": "JHELUM-LINKED KASHMIR BASIN",
+          "role": "outcome"
+        },
+        {
+          "text": "SALINE RAJASTHAN CLOSED BASIN",
+          "role": "comparison"
+        },
+        {
+          "text": "ODISHA COASTAL LAGOON",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WULAR → Jhelum-linked Kashmir basin",
+        "SAMBHAR → saline Rajasthan closed basin",
+        "CHILIKA → Odisha coastal lagoon",
+        "LONAR / KANWAR / BHOJ → impact / fluvial / artificial"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WULAR → Jhelum-linked Kashmir basin",
+            "SAMBHAR → saline Rajasthan closed basin"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CHILIKA → Odisha coastal lagoon",
+            "LONAR / KANWAR / BHOJ → impact / fluvial / artificial"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WULAR → Jhelum-linked Kashmir basin",
+            "SAMBHAR → saline Rajasthan closed basin"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LONAR / KANWAR / BHOJ → impact / fluvial / artificial.",
+      "source_references": [
+        "Indian lake-origin map",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g5\\geography-09_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "RIVER-LAKE TRAPS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RIVER-LAKE TRAPS",
+          "role": "primary"
+        },
+        {
+          "text": "LINKED TO JHELUM",
+          "role": "outcome"
+        },
+        {
+          "text": "BETWEEN KRISHNA AND GODAVARI DELTAS",
+          "role": "comparison"
+        },
+        {
+          "text": "PHUMDI-BEARING LAKE",
+          "role": "evidence"
+        },
+        {
+          "text": "ADJACENCY DOES NOT PROVE DIRECT FEEDING",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "WULAR → linked to Jhelum",
+        "KOLLERU → between Krishna and Godavari deltas",
+        "LOKTAK → phumdi-bearing lake",
+        "RULE → adjacency does not prove direct feeding"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "WULAR → linked to Jhelum",
+          "LOKTAK → phumdi-bearing lake",
+          "WULAR → linked to Jhelum"
+        ],
+        [
+          "KOLLERU → between Krishna and Godavari deltas",
+          "RULE → adjacency does not prove direct feeding",
+          "KOLLERU → between Krishna and Godavari deltas"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WULAR → linked to Jhelum",
+            "KOLLERU → between Krishna and Godavari deltas"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LOKTAK → phumdi-bearing lake",
+            "RULE → adjacency does not prove direct feeding"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WULAR → linked to Jhelum",
+            "KOLLERU → between Krishna and Godavari deltas"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → adjacency does not prove direct feeding.",
+      "source_references": [
+        "River-lake and phumdi hooks",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g5\\geography-09_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "URBAN RECLAMATION CHAIN",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "URBAN RECLAMATION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "STORAGE AND DRAINAGE LOST",
+          "role": "outcome"
+        },
+        {
+          "text": "FLOOD PEAK AND DURATION RISE",
+          "role": "comparison"
+        },
+        {
+          "text": "DILUTION AND HABITAT DECLINE",
+          "role": "caution"
+        },
+        {
+          "text": "LOW-LYING COMMUNITIES BEAR SHIFTED RISK",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FILL / NARROW → storage and drainage lost",
+        "RUNOFF → flood peak and duration rise",
+        "POLLUTION → dilution and habitat decline",
+        "EQUITY → low-lying communities bear shifted risk"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FILL / NARROW → storage and drainage lost",
+            "RUNOFF → flood peak and duration rise"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "POLLUTION → dilution and habitat decline",
+            "EQUITY → low-lying communities bear shifted risk"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FILL / NARROW → storage and drainage lost",
+            "RUNOFF → flood peak and duration rise"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "FILL / NARROW → storage and drainage lost.",
+      "source_references": [
+        "Urban reclamation",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g5\\geography-09_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "THREAT-RESPONSE MATRIX",
+      "structural_type": "decision-tree",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREAT-RESPONSE MATRIX",
+          "role": "primary"
+        },
+        {
+          "text": "SOURCE CONTROL + TREATMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "CATCHMENT AND EROSION MANAGEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "PROTECT HYDROLOGICAL SPACE",
+          "role": "evidence"
+        },
+        {
+          "text": "ALTERED FLOW",
+          "role": "mechanism"
+        },
+        {
+          "text": "ECOLOGICAL AND FLOW RESTORATION",
+          "role": "mechanism"
+        }
+      ],
+      "sequence": [
+        "SEWAGE / NUTRIENT → source control + treatment",
+        "SEDIMENT → catchment and erosion management",
+        "ENCROACHMENT → protect hydrological space",
+        "INVASIVE / ALTERED FLOW → ecological and flow restoration"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SEWAGE / NUTRIENT → source control + treatment",
+          "ENCROACHMENT → protect hydrological space",
+          "SEWAGE / NUTRIENT → source control + treatment"
+        ],
+        [
+          "SEDIMENT → catchment and erosion management",
+          "INVASIVE / ALTERED FLOW → ecological and flow restoration",
+          "SEDIMENT → catchment and erosion management"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SEWAGE / NUTRIENT → source control + treatment",
+            "SEDIMENT → catchment and erosion management"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ENCROACHMENT → protect hydrological space",
+            "INVASIVE / ALTERED FLOW → ecological and flow restoration"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SEWAGE / NUTRIENT → source control + treatment",
+            "SEDIMENT → catchment and erosion management"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "INVASIVE / ALTERED FLOW → ecological and flow restoration.",
+      "source_references": [
+        "Threat diagnosis and restoration",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g5\\geography-09_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "RAMSAR STATUS FIREWALL",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RAMSAR STATUS FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "AT LEAST ONE CAN SUPPORT LISTING",
+          "role": "outcome"
+        },
+        {
+          "text": "WISE USE",
+          "role": "comparison"
+        },
+        {
+          "text": "MAINTAIN ECOLOGICAL CHARACTER",
+          "role": "evidence"
+        },
+        {
+          "text": "PRIORITY ATTENTION TO CHARACTER CHANGE",
+          "role": "primary"
+        },
+        {
+          "text": "LISTING IS NOT AUTOMATIC NATIONAL PARK STATUS",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "LAKE, LAGOON, OXBOW, RESERVOIR AND WETLAND ARE NOT SYNONYMS",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "CRITERION → at least one can support listing",
+        "WISE USE → maintain ecological character",
+        "MONTREUX → priority attention to character change",
+        "LIMIT → listing is not automatic National Park status",
+        "CLOSE DISTINCTION: Lake, lagoon, oxbow, reservoir and wetland are not synonyms"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CRITERION → at least one can support listing",
+          "LIMIT → listing is not automatic National Park status",
+          "international recognition rather than ownership transfer or automatic protection."
+        ],
+        [
+          "WISE USE → maintain ecological character",
+          "CLOSE DISTINCTION: Lake, lagoon, oxbow, reservoir and wetland are not synonyms",
+          ""
+        ],
+        [
+          "MONTREUX → priority attention to character change",
+          "freshwater/saline and exorheic/endorheic are separate axes, while Ramsar designation is",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CRITERION → at least one can support listing",
+            "WISE USE → maintain ecological character",
+            "MONTREUX → priority attention to character change"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "LIMIT → listing is not automatic National Park status",
+            "CLOSE DISTINCTION: Lake, lagoon, oxbow, reservoir and wetland are not synonyms",
+            "freshwater/saline and exorheic/endorheic are separate axes, while Ramsar designation is"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "international recognition rather than ownership transfer or automatic protection."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "freshwater/saline and exorheic/endorheic are separate axes, while Ramsar designation is international recognition rather than ownership transfer or automatic protection.",
+      "source_references": [
+        "Ramsar wise use and Montreux",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g5\\geography-09_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INDIA GOVERNANCE CHAIN",
+      "structural_type": "ladder",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INDIA GOVERNANCE CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "IDENTIFY AND DELINEATE SYSTEM",
+          "role": "outcome"
+        },
+        {
+          "text": "REGULATE ACTIVITIES",
+          "role": "comparison"
+        },
+        {
+          "text": "FINANCE AND IMPLEMENT MANAGEMENT",
+          "role": "evidence"
+        },
+        {
+          "text": "PROVE ECOLOGICAL RESPONSE",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "AREA, DESIGNATION COUNT AND ECOLOGICAL STATUS ARE TIME-SENSITIVE; SHRINKAGE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "INVENTORY → identify and delineate system",
+        "NOTIFICATION / RULES → regulate activities",
+        "PLAN / NPCA → finance and implement management",
+        "MONITOR → prove ecological response",
+        "EVIDENCE LIMIT: Area, designation count and ecological status are time-sensitive"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INVENTORY → identify and delineate system",
+            "NOTIFICATION / RULES → regulate activities"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PLAN / NPCA → finance and implement management",
+            "MONITOR → prove ecological response"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Area, designation count and ecological status are time-sensitive",
+            "shrinkage or eutrophication needs inflow, evaporation, abstraction, nutrients, encroachment and catchment evidence rather than one-cause attribution."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Area, designation count and ecological status are time-sensitive; shrinkage or eutrophication needs inflow, evaporation, abstraction, nutrients, encroachment and catchment evidence rather than one-cause attribution.",
+      "source_references": [
+        "Wetlands Rules and programmes",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g5\\geography-09_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "LAKE-WETLAND ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "LAKE-WETLAND ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "BASIN, WETLAND AND STATUS",
+          "role": "outcome"
+        },
+        {
+          "text": "ORIGIN AND HYDROLOGY",
+          "role": "comparison"
+        },
+        {
+          "text": "BUDGET, NUTRIENT OR CONNECTIVITY FAILURE",
+          "role": "evidence"
+        },
+        {
+          "text": "BASIN-SCALE, MONITORED AND STATUS-AWARE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE → basin, wetland and status",
+        "CLASSIFY → origin and hydrology",
+        "DIAGNOSE → budget, nutrient or connectivity failure",
+        "RESPOND → basin-scale, monitored and status-aware"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE → basin, wetland and status",
+            "CLASSIFY → origin and hydrology"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DIAGNOSE → budget, nutrient or connectivity failure",
+            "RESPOND → basin-scale, monitored and status-aware"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE → basin, wetland and status",
+            "CLASSIFY → origin and hydrology"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DIAGNOSE → budget, nutrient or connectivity failure; RESPOND → basin-scale, monitored and status-aware.",
+      "source_references": [
+        "Verified routes and final wetland spine",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\09_Lakes.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\09_India-Lakes-and-Wetlands.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g4\\geography-09_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g5\\geography-09_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDIAN GLACIAL LAKES IN THE SOURCE ARE HIMALAYAN",
+          "role": "evidence"
+        },
+        {
+          "text": "GANGABAL, SHESHNAG, KAILASH-KUND, SANASAR.",
+          "role": "comparison"
+        },
+        {
+          "text": "NO PLEISTOCENE GLACIATION IN MAJID'S ACCOUNT; HENCE NO PENINSULAR",
+          "role": "caution"
+        },
+        {
+          "text": "WULAR (J&K)",
+          "role": "primary"
+        },
+        {
+          "text": "TECTONIC FRESHWATER LAKE; AMONG ASIA'S LARGEST FRESHWATER LAKES.",
+          "role": "outcome"
+        },
+        {
+          "text": "CHILIKA AND PULICAT",
+          "role": "comparison"
+        },
+        {
+          "text": "EAST-COAST LAGOONS.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Indian glacial lakes in the source are Himalayan: Gangabal, Sheshnag, Kailash-Kund, Sanasar.",
+            "Peninsula: no Pleistocene glaciation in Majid's account; hence no Peninsular glacial tarn belt.",
+            "Wular (J&K) = tectonic freshwater lake; among Asia's largest freshwater lakes.",
+            "Chilika and Pulicat = east-coast lagoons."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Sambhar (Rajasthan) = major inland salt lake.",
+            "Sasthamkotta = Kerala's largest freshwater lake.",
+            "Sat Tal = Kumaun lake group near Bhimtal; avoid reducing its origin to a single glacial label.",
+            "NOT: Peninsular India has glacial tarn lakes → Glacial lakes are Himalayan in the source; Peninsular India shows no Pleistocene glaciation ."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "NOT: Sambhar is a freshwater lake → Sambhar is a salt lake of Rajasthan's arid inland drainage.",
+            "NOT: Pulicat is a west-coast lagoon → Pulicat is on the east coast (AP/TN).",
+            "NOT: Wular is a lagoon → Wular is tectonic/freshwater , not coastal lagoonal.",
+            "NOT: All Ramsar lakes have the same origin → Ramsar status is conservation status; origin may be glacial, tectonic, lagoonal, man-made or salt."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

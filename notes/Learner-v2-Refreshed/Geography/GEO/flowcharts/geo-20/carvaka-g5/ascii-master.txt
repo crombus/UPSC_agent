@@ -1,0 +1,90 @@
+ASCII MASTER FLOW — PANEL 1/12: Temperate grassland world map
+EURASIA -> steppes: Ukraine-Kazakhstan belt, continental interior
+NORTH AMERICA -> prairies: Great Plains, USA and Canada
+SOUTH AMERICA -> pampas: Argentina and Uruguay, maritime fringe
+SOUTH AFRICA -> veld: elevated interior plateau
+AUSTRALIA -> downs: eastern interior grasslands
+MUST REMEMBER: Temperate continental steppe Bs climates occupy interiors and rain shadows
+  between deserts and humid forests, with low variable precipitation, large annual range,
+  short grasses and chernozem-linked grain/pastoral economies.
+MUST REMEMBER: Temperate continental steppe Bs climates occupy interiors and rain shadows
+  between deserts and humid forests, with low variable precipitation, large annual range,
+  short grasses and chernozem-linked grain/pastoral economies.
+
+ASCII MASTER FLOW — PANEL 2/12: Continentality mechanism
+DISTANCE FROM SEA -> weak maritime moderation
+SUMMER -> strong heating of continental mass -> hot
+WINTER -> strong radiative cooling -> cold
+RESULT -> large annual temperature range, especially in Eurasia
+
+ASCII MASTER FLOW — PANEL 3/12: Rainfall-moisture profile
+TOTAL ANNUAL -> about 25-75 cm, low to moderate
+SEASONAL MAXIMUM -> late spring and early summer
+DRY MARGIN -> shorter grass, steppe-desert transition
+WET MARGIN -> taller grass, steppe-forest boundary
+
+ASCII MASTER FLOW — PANEL 4/12: Hemisphere asymmetry
+NORTHERN -> steppes and prairies: large continental mass, extreme range
+SOUTHERN -> pampas, veld, downs: narrower landmass, maritime moderation
+CAUSE -> continental mass determines winter severity
+EXAM TRAP -> do not treat all five as climatically identical
+
+ASCII MASTER FLOW — PANEL 5/12: Chernozem-soil chain
+GRASSLAND COVER -> deep root network decays in place
+LOW LEACHING -> base-rich conditions preserved
+HUMUS ACCUMULATES -> dark, deep, fertile soil profile
+RESULT -> chernozem or black earth, among world's most fertile
+
+ASCII MASTER FLOW — PANEL 6/12: Granary conversion timeline
+NATURAL STATE -> pastoral grassland, low-density use
+RAIL + OCEAN FREIGHT -> access to distant industrial markets
+MECHANISATION + HYV -> high output per worker on level plains
+RESULT -> world's wheat granaries: Ukraine, prairies, pampas
+
+ASCII MASTER FLOW — PANEL 7/12: Anti-determinism firewall
+PHYSICAL BASE -> fertile soil + level relief + suitable climate
+CONVERSION AGENTS -> rail, freight, mechanisation, market demand
+WITHOUT ACCESS -> same soil, no granary for centuries
+CONCLUSION -> endowment is necessary, access is sufficient
+
+ASCII MASTER FLOW — PANEL 8/12: Ecological-cost chain
+SOD REMOVAL -> bare fine soil exposed to wind
+DROUGHT YEAR -> vegetation fails, deflation peaks
+ORGANIC DECLINE -> reduced humus, compaction risk
+AQUIFER DRAWDOWN -> irrigation in semi-arid belt depletes groundwater
+
+ASCII MASTER FLOW — PANEL 9/12: India wheat granary map
+PUNJAB-HARYANA-WESTERN UP -> Indo-Gangetic alluvial plain
+SOIL -> alluvial, not chernozem (fundamental difference)
+SEASON -> Rabi: sown Oct-Dec, harvested Mar-Apr
+ENABLERS -> HYV seeds + irrigation + fertiliser + MSP procurement
+
+ASCII MASTER FLOW — PANEL 10/12: Green Revolution package
+HYV SEMI-DWARF WHEAT -> raised yield potential
+CANAL + TUBE-WELL IRRIGATION -> reduced rainfall dependence
+CHEMICAL FERTILISERS -> supported intensive cultivation
+MSP/PROCUREMENT -> assured floor price and central pool stocks
+CLOSE DISTINCTION: Steppe differs from tropical savanna and humid prairie, chernozem is not
+  universal across all steppes, and continentality concerns land-dominated thermal range
+  rather than simply distance from a national coastline.
+CLOSE DISTINCTION: Steppe differs from tropical savanna and humid prairie, chernozem is not
+  universal across all steppes, and continentality concerns land-dominated thermal range
+  rather than simply distance from a national coastline.
+
+ASCII MASTER FLOW — PANEL 11/12: Savanna-steppe comparison
+LATITUDE -> tropical savanna versus temperate steppe/prairie
+RAINFALL -> wet-and-dry seasonal versus low-total spring maximum
+SOIL -> leached laterising versus base-rich chernozem/prairie
+ECONOMY -> pastoral-subsistence versus mechanised-commercial grain
+EVIDENCE LIMIT: Grain productivity depends on soil, snowmelt, technology and markets as well
+  as climate; India's wheat belt is a functional comparison with monsoonal irrigation and
+  subtropical seasonality, not a climatic identity.
+EVIDENCE LIMIT: Grain productivity depends on soil, snowmelt, technology and markets as well
+  as climate; India's wheat belt is a functional comparison with monsoonal irrigation and
+  subtropical seasonality, not a climatic identity.
+
+ASCII MASTER FLOW — PANEL 12/12: Steppe answer spine
+DEFINE -> continental interior grassland with large annual range
+LOCATE -> five regional names on a world map
+EXPLAIN -> moisture deficit, chernozem, granary conversion
+QUALIFY -> anti-determinism: access converted endowment into resource

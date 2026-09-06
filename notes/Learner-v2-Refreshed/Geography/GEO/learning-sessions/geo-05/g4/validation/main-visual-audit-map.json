@@ -1,0 +1,2771 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-05\\g4\\geography-05_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-05\\g4\\geography-05_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "geography-05",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Landforms by Running Water / India Drainage and Interlinking - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 418.024
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 189.022
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 50,
+      "markdown_body_line_end": 50,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-05\\g4\\assets\\geography-05_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 494.691
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 187.156
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 64,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Drainage basin anatomy: A drainage basin is the area contributing runoff to a river system; a watershed or divide separates neighbouring basins, while tributaries join a trunk stream before its outlet.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 688.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 83,
+      "heading": "VISUAL FIRST",
+      "preview": "BASIN, DIVIDE AND CHANNEL NETWORK",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 441.424
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 400.424
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 111,
+      "markdown_body_line_end": 128,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - BASIN, DIVIDE AND CHANNEL NETWORK",
+      "preview": "START / CONCEPT: FOUNDATION — Basin, divide and channel network",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 230
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 139,
+      "markdown_body_line_end": 139,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A river is an energy-and-load system in which erosion, transport and deposition may coexist while their relative dominance changes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 436.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 369.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 154,
+      "markdown_body_line_end": 158,
+      "heading": "VISUAL FIRST",
+      "preview": "EROSION, TRANSPORT AND DEPOSITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 186,
+      "markdown_body_line_end": 203,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - EROSION, TRANSPORT AND DEPOSITION",
+      "preview": "START / CONCEPT: FOUNDATION — Erosion, transport and deposition",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 160
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 272.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 214,
+      "markdown_body_line_end": 214,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Long-profile adjustment: A graded river tends toward a concave-up long profile in dynamic balance with discharge, sediment load, rock resistance and base level; uplift, floods and dams can interrupt the tendency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 132.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 65.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 229,
+      "markdown_body_line_end": 233,
+      "heading": "VISUAL FIRST",
+      "preview": "LONG PROFILE AND GRADED ADJUSTMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 573.491
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 261,
+      "markdown_body_line_end": 278,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - LONG PROFILE AND GRADED ADJUSTMENT",
+      "preview": "START / CONCEPT: FOUNDATION — Long profile and graded adjustment",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 241
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 290.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 79.491
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 289,
+      "markdown_body_line_end": 289,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Upper-course suite Qualified use: Derive gorge, waterfall and V-valley from process.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 655.224
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 304,
+      "markdown_body_line_end": 308,
+      "heading": "VISUAL FIRST",
+      "preview": "UPPER-COURSE EROSIONAL SUITE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 419.424
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 336,
+      "markdown_body_line_end": 353,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - UPPER-COURSE EROSIONAL SUITE",
+      "preview": "START / CONCEPT: FOUNDATION — Upper-course erosional suite",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 129
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 364,
+      "markdown_body_line_end": 364,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Meander and floodplain system: Helicoidal flow links outer-bank erosion to inner-bank deposition; neck cutoff can form an ox-bow lake, while repeated overbank deposition builds floodplains and natural levees.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 379,
+      "markdown_body_line_end": 383,
+      "heading": "VISUAL FIRST",
+      "preview": "MEANDERS, OX-BOWS AND FLOODPLAINS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 411,
+      "markdown_body_line_end": 428,
+      "heading": "CLOSING RECALL FLOW - CORE - MEANDERS, OX-BOWS AND FLOODPLAINS",
+      "preview": "START / CONCEPT: CORE — Meanders, ox-bows and floodplains",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 237
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 242.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 439,
+      "markdown_body_line_end": 439,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Delta-estuary discriminator: A delta develops where sediment accumulation exceeds marine removal and subsidence, whereas an estuary is a drowned or tidally scoured river mouth; estuarine is not a delta shape.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 454,
+      "markdown_body_line_end": 461,
+      "heading": "VISUAL FIRST",
+      "preview": "DELTA VERSUS ESTUARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 476.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 490,
+      "markdown_body_line_end": 507,
+      "heading": "CLOSING RECALL FLOW - CORE - DELTA VERSUS ESTUARY",
+      "preview": "START / CONCEPT: CORE — Delta versus estuary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 237
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 518,
+      "markdown_body_line_end": 518,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Pattern is evidence of controls, not a decorative map label.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 420.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 368.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 533,
+      "markdown_body_line_end": 537,
+      "heading": "VISUAL FIRST",
+      "preview": "DRAINAGE PATTERNS AS STRUCTURAL EVIDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 565,
+      "markdown_body_line_end": 582,
+      "heading": "CLOSING RECALL FLOW - CORE - DRAINAGE PATTERNS AS STRUCTURAL EVIDENCE",
+      "preview": "START / CONCEPT: CORE — Drainage patterns as structural evidence",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 226
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 228.091
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 593,
+      "markdown_body_line_end": 593,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Antecedence and superimposition - River capture Qualified use: Use gorges, elbows and wind gaps diagnostically.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 608,
+      "markdown_body_line_end": 615,
+      "heading": "VISUAL FIRST",
+      "preview": "ANTECEDENCE, SUPERIMPOSITION AND CAPTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 476.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 644,
+      "markdown_body_line_end": 661,
+      "heading": "CLOSING RECALL FLOW - CORE - ANTECEDENCE, SUPERIMPOSITION AND CAPTURE",
+      "preview": "START / CONCEPT: CORE — Antecedence, superimposition and capture",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 220
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 672,
+      "markdown_body_line_end": 672,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Himalayan drainage Qualified use: Build a rain-snow-groundwater regime answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 449.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 397.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 687,
+      "markdown_body_line_end": 691,
+      "heading": "VISUAL FIRST",
+      "preview": "HIMALAYAN RIVER SYSTEMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 719,
+      "markdown_body_line_end": 736,
+      "heading": "CLOSING RECALL FLOW - CORE - HIMALAYAN RIVER SYSTEMS",
+      "preview": "START / CONCEPT: CORE — Himalayan river systems",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 157
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 262.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 747,
+      "markdown_body_line_end": 747,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Peninsular drainage: Most large Peninsular rivers follow the eastward plateau slope toward Bay of Bengal deltas, while Narmada and Tapi use west-flowing structural troughs and many Ghats streams are short and steep.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 127.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 60.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 762,
+      "markdown_body_line_end": 769,
+      "heading": "VISUAL FIRST",
+      "preview": "PENINSULAR RIVER SYSTEMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 543.491
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 798,
+      "markdown_body_line_end": 815,
+      "heading": "CLOSING RECALL FLOW - CORE - PENINSULAR RIVER SYSTEMS",
+      "preview": "START / CONCEPT: CORE — Peninsular river systems",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 244
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 826,
+      "markdown_body_line_end": 826,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Floodplain risk chain Qualified use: Connect channel process, exposure and governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 459.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 407.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 841,
+      "markdown_body_line_end": 845,
+      "heading": "VISUAL FIRST",
+      "preview": "FLOODPLAIN AND DELTA VULNERABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 873,
+      "markdown_body_line_end": 890,
+      "heading": "CLOSING RECALL FLOW - CORE - FLOODPLAIN AND DELTA VULNERABILITY",
+      "preview": "START / CONCEPT: CORE — Floodplain and delta vulnerability",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 131
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 252.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 901,
+      "markdown_body_line_end": 901,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Inter-basin transfer test Qualified use: Test donor, recipient and alternatives.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 117.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 64.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 916,
+      "markdown_body_line_end": 920,
+      "heading": "VISUAL FIRST",
+      "preview": "INTER-BASIN TRANSFER ACCOUNTING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 573.491
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 948,
+      "markdown_body_line_end": 965,
+      "heading": "CLOSING RECALL FLOW - CORE - INTER-BASIN TRANSFER ACCOUNTING",
+      "preview": "START / CONCEPT: CORE — Inter-basin transfer accounting",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 240
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 290.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 59.491
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 976,
+      "markdown_body_line_end": 976,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ken-Betwa direction and status: Official NWDA material identifies Ken-to-Betwa transfer and the project as the first National Perspective Plan link under implementation; implementation is not proof of delivered outcomes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 991,
+      "markdown_body_line_end": 998,
+      "heading": "VISUAL FIRST",
+      "preview": "KEN-BETWA AND PANNA",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 346.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1027,
+      "markdown_body_line_end": 1044,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - KEN-BETWA AND PANNA",
+      "preview": "START / CONCEPT: SYNTHESIS — Ken-Betwa and Panna",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 249
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 730.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 489.891
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1055,
+      "markdown_body_line_end": 1055,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Flood-navigation limits: A link moderates floods only with storage space, timing and operating rules; navigation separately requires dependable depth, locks, terminals and sediment management.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 335.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 269.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1070,
+      "markdown_body_line_end": 1077,
+      "heading": "VISUAL FIRST",
+      "preview": "FLOOD, NAVIGATION AND FEDERAL LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1106,
+      "markdown_body_line_end": 1123,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - FLOOD, NAVIGATION AND FEDERAL LIMITS",
+      "preview": "START / CONCEPT: SYNTHESIS — Flood, navigation and federal limits",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 237
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 373.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 132.491
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1134,
+      "markdown_body_line_end": 1134,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Verified PYQ routes: The routed direct Mains demand is 2020 GS-I on interlinking for droughts, floods and navigation; 2021 Prelims routes test Indus tributaries and rivers rising in the Eastern Ghats.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 607.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1149,
+      "markdown_body_line_end": 1156,
+      "heading": "VISUAL FIRST",
+      "preview": "VERIFIED ROUTES AND FINAL BASIN SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 342.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1184,
+      "markdown_body_line_end": 1187,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*. ✅ = from source book · ⚠️ = inference ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 691.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1213,
+      "markdown_body_line_end": 1222,
+      "heading": "2. Key classification / data",
+      "preview": "River course / process | Dominant work | Characteristic landforms / notes",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "River course / process",
+          "Dominant work",
+          "Characteristic landforms / notes"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 503.49
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1226,
+      "markdown_body_line_end": 1227,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Geography → Physical → Fluvial Landforms (GC Leong: Ch on Running Water; Majid: River Landforms) **Study link:** ✅ Geography → Fluvial Deposition → Deltas (applied CA)",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 503.49
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 436.822
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1247,
+      "markdown_body_line_end": 1247,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Do not confuse similar-looking landforms, processes, scales or Indian locations; UPSC often tests the exact mechanism and setting.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 221.622
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 154.954
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1280,
+      "markdown_body_line_end": 1285,
+      "heading": "8. India's drainage: two river systems and why they differ",
+      "preview": "**Why this section exists:** a hostile Core-only stress test found that questions on Peninsular drainage, the eastward flow of its rivers, or a comparison of Indian deltas could not be answered from Core, because Indian drainage was deferre",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 534.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 425.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1289,
+      "markdown_body_line_end": 1297,
+      "heading": "8.1 The Himalayan and Peninsular systems compared",
+      "preview": "Axis | **Himalayan rivers** | **Peninsular rivers**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Axis",
+          "**Himalayan rivers**",
+          "**Peninsular rivers**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 403.224
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 129.422
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1301,
+      "markdown_body_line_end": 1311,
+      "heading": "8.2 Why most Peninsular rivers flow east",
+      "preview": "WESTERN GHATS = a faulted ESCARPMENT close to the WEST coast",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1325,
+      "markdown_body_line_end": 1332,
+      "heading": "8.3 Drainage patterns and what each reveals",
+      "preview": "Pattern | Form | What it indicates",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Pattern",
+          "Form",
+          "What it indicates"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 553.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 368.49
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1349,
+      "markdown_body_line_end": 1355,
+      "heading": "8.4 Comparing deltas: a reusable method",
+      "preview": "Test | What to establish",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Test",
+          "What to establish"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 616.69
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1363,
+      "markdown_body_line_end": 1365,
+      "heading": "8.4 Comparing deltas: a reusable method",
+      "preview": "⚠️ **Factual caution:** do **not** quote river lengths, basin areas, discharge or sediment-load figures, dam and barrage construction dates, or land-loss rates for any delta from memory. Names of major rivers, their broad direction of flow ",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 537.69
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 478.822
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1369,
+      "markdown_body_line_end": 1370,
+      "heading": "8.5 A worked delta comparison: two deltas, opposite trajectories",
+      "preview": "⚠️ Added 13 Aug 2026 after a final hostile test found the comparison **method** present but only one side of any actual comparison supported. A comparative question needs two worked cases.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 478.822
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 412.154
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1375,
+      "markdown_body_line_end": 1382,
+      "heading": "8.5 A worked delta comparison: two deltas, opposite trajectories",
+      "preview": "Test | **Ganga–Brahmaputra–Meghna delta** | **Nile delta**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Test",
+          "**Ganga–Brahmaputra–Meghna delta**",
+          "**Nile delta**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 461.09
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1397,
+      "markdown_body_line_end": 1399,
+      "heading": "8.5 A worked delta comparison: two deltas, opposite trajectories",
+      "preview": "⚠️ **Factual caution:** do **not** quote sediment loads in tonnes, dam completion dates, land-loss rates or shoreline-retreat figures for either delta from memory. The names, the direction of change and the mechanism are safe; the numbers a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 280.89
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 222.022
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1405,
+      "markdown_body_line_end": 1411,
+      "heading": "9.1 Directive decoding for this topic",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 768.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 559.29
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1450,
+      "markdown_body_line_end": 1455,
+      "heading": "9.4 Evidence units available in this file",
+      "preview": "**Claim:** river mouths are not all deltas, and the difference is a process difference. **Evidence:** the Narmada and Tapi discharge into a strongly tidal gulf and form estuaries, while the Ganga-Brahmaputra system builds one of the world's",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 674.824
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1457,
+      "markdown_body_line_end": 1462,
+      "heading": "9.4 Evidence units available in this file",
+      "preview": "**Claim:** upstream engineering has downstream geomorphic costs that appear decades later. **Evidence:** reservoirs trap the coarse and fine load that would otherwise reach the coast, reducing the sediment available for delta building. **Si",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 674.824
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 587.556
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1468,
+      "markdown_body_line_end": 1470,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 587.556
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 506.688
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1476,
+      "markdown_body_line_end": 1479,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 455.088
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 253.687
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1486,
+      "markdown_body_line_end": 1486,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 197.287
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 152.619
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1493,
+      "markdown_body_line_end": 1495,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 152.619
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 57.551
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1501,
+      "markdown_body_line_end": 1503,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 768.891
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 682.49
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1509,
+      "markdown_body_line_end": 1509,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 643.29
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 598.622
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1516,
+      "markdown_body_line_end": 1518,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 598.622
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 517.754
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1524,
+      "markdown_body_line_end": 1528,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 466.154
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 275.753
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1536,
+      "markdown_body_line_end": 1536,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 202.153
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 157.485
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1541,
+      "markdown_body_line_end": 1558,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - VERIFIED ROUTES AND FINAL BASIN SPINE",
+      "preview": "START / CONCEPT: SYNTHESIS — Verified routes and final basin spine",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 229
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2508,
+      "markdown_body_line_end": 2510,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 726.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 646.024
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2516,
+      "markdown_body_line_end": 2519,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 594.424
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 393.022
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2526,
+      "markdown_body_line_end": 2526,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 336.622
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 291.954
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2533,
+      "markdown_body_line_end": 2535,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 291.954
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 196.887
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2541,
+      "markdown_body_line_end": 2543,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 145.287
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 58.885
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2549,
+      "markdown_body_line_end": 2549,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 770.091
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 725.424
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2556,
+      "markdown_body_line_end": 2558,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 725.424
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 644.556
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2564,
+      "markdown_body_line_end": 2568,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 592.956
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 402.554
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2576,
+      "markdown_body_line_end": 2576,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 328.954
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 284.287
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2581,
+      "markdown_body_line_end": 2582,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 284.287
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 217.619
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2588,
+      "markdown_body_line_end": 2590,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 166.019
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 69.117
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2596,
+      "markdown_body_line_end": 2596,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 770.091
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 725.424
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2913,
+      "markdown_body_line_end": 2916,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *India geography* + verified CA. ✅ = from source book · ⚠️ = inference / stan",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 529.291
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 456.224
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2946,
+      "markdown_body_line_end": 2954,
+      "heading": "2. Key classification / data",
+      "preview": "Feature | Himalayan drainage | Peninsular drainage",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Feature",
+          "Himalayan drainage",
+          "Peninsular drainage"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 535.89
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2958,
+      "markdown_body_line_end": 2959,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Geography → India → Drainage System (Khullar: Evolution of Himalayan Rivers; Majid: River Systems) **Study link:** ✅ Geography → India Drainage → Inter-basin Transfer (applied CA)",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 535.89
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 469.222
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2963,
+      "markdown_body_line_end": 2974,
+      "heading": "Map hooks - source/course/mouth pairs",
+      "preview": "River | Source / formation | Mouth / terminal basin",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "River",
+          "Source / formation",
+          "Mouth / terminal basin"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 447.222
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 165.82
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2976,
+      "markdown_body_line_end": 2977,
+      "heading": "Map hooks - source/course/mouth pairs",
+      "preview": "🔑 Map trap: “Ganga source” may mean the Bhagirathi headstream at Gomukh or the named Ganga at Devprayag. State which convention you are using.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 165.82
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 121.153
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2996,
+      "markdown_body_line_end": 2996,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Do not confuse similar-looking landforms, processes, scales or Indian locations; UPSC often tests the exact mechanism and setting.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 663.691
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 597.024
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3029,
+      "markdown_body_line_end": 3030,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 229.024
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 162.356
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3036,
+      "markdown_body_line_end": 3038,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 706.39
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3044,
+      "markdown_body_line_end": 3044,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 667.19
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 622.522
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3053,
+      "markdown_body_line_end": 3064,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Basin anatomy",
+      "preview": "RIDGELINE -> watershed / drainage divide",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 542.522
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 429.522
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3068,
+      "markdown_body_line_end": 3073,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: River-work engine",
+      "preview": "ENERGY + DISCHARGE -> erosion capacity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 407.522
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 355.722
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3077,
+      "markdown_body_line_end": 3082,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Long-profile controls",
+      "preview": "UPLIFT / BASE LEVEL -> potential-energy change",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 333.722
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 281.922
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3086,
+      "markdown_body_line_end": 3091,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Meander-floodplain loop",
+      "preview": "OUTER BANK -> faster flow -> erosion",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3095,
+      "markdown_body_line_end": 3100,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Drainage-pattern matrix",
+      "preview": "DENDRITIC -> uniform resistance",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3104,
+      "markdown_body_line_end": 3109,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Drainage-evolution firewall",
+      "preview": "ANTECEDENT -> river older than uplift",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3113,
+      "markdown_body_line_end": 3118,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: India river-system contrast",
+      "preview": "HIMALAYAN -> high relief, mixed perennial inputs",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3122,
+      "markdown_body_line_end": 3127,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Source-course-mouth rail",
+      "preview": "INDUS -> Tibetan headwaters -> Arabian Sea",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3131,
+      "markdown_body_line_end": 3136,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Delta budget",
+      "preview": "INPUT -> basin sediment delivery",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3140,
+      "markdown_body_line_end": 3151,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Transfer viability test",
+      "preview": "DONOR -> seasonal water after existing claims",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 231.491
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3155,
+      "markdown_body_line_end": 3166,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Ken-Betwa boundary",
+      "preview": "DIRECTION -> Ken basin to Betwa basin",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3170,
+      "markdown_body_line_end": 3175,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Basin answer spine",
+      "preview": "DEFINE + MAP -> basin and direction",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    }
+  ]
+}

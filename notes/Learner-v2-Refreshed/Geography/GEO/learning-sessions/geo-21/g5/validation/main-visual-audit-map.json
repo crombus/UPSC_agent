@@ -1,0 +1,1750 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\geography-21_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "geography-21",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Warm Temperate Eastern Margin China Type - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 418.024
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 189.022
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 52,
+      "markdown_body_line_end": 52,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-21\\g5\\assets\\geography-21_Teaching-Navigation_2026-08-22.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 417.691
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 110.156
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 66,
+      "markdown_body_line_end": 66,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Eastern-margin location and rainfall contrast must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 83,
+      "heading": "VISUAL FIRST",
+      "preview": "EASTERN-MARGIN LOCATION AND RAINFALL CONTRAST",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 433.224
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 392.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 111,
+      "markdown_body_line_end": 118,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 69.624
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 735.273
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 130,
+      "markdown_body_line_end": 130,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Temperate monsoon identity must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 614.473
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 547.805
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 145,
+      "markdown_body_line_end": 149,
+      "heading": "VISUAL FIRST",
+      "preview": "TEMPERATE MONSOON IDENTITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 353.005
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 312.005
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 177,
+      "markdown_body_line_end": 184,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 697.973
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 196,
+      "markdown_body_line_end": 196,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Three sub-types must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 577.173
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 510.505
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 211,
+      "markdown_body_line_end": 215,
+      "heading": "VISUAL FIRST",
+      "preview": "THREE SUB-TYPES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 315.705
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 274.705
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 243,
+      "markdown_body_line_end": 250,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 713.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 633.873
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 262,
+      "markdown_body_line_end": 262,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Asiatic pressure reversal must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 513.073
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 446.405
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 277,
+      "markdown_body_line_end": 281,
+      "heading": "VISUAL FIRST",
+      "preview": "ASIATIC PRESSURE REVERSAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 309,
+      "markdown_body_line_end": 316,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 437.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 348.573
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 328,
+      "markdown_body_line_end": 328,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Temperature range and maritime moderation must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 213.573
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 146.905
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 343,
+      "markdown_body_line_end": 347,
+      "heading": "VISUAL FIRST",
+      "preview": "TEMPERATURE RANGE AND MARITIME MODERATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 730.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 689.691
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 375,
+      "markdown_body_line_end": 382,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 381.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 283.623
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 394,
+      "markdown_body_line_end": 394,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Typhoon mechanism and seasonality must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 162.823
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 96.155
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 409,
+      "markdown_body_line_end": 413,
+      "heading": "VISUAL FIRST",
+      "preview": "TYPHOON MECHANISM AND SEASONALITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 679.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 638.091
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 441,
+      "markdown_body_line_end": 448,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 329.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 240.373
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 460,
+      "markdown_body_line_end": 460,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sub-type winter-severity contrast must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 475,
+      "markdown_body_line_end": 482,
+      "heading": "VISUAL FIRST",
+      "preview": "SUB-TYPE WINTER-SEVERITY CONTRAST",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 491.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 511,
+      "markdown_body_line_end": 518,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 108.624
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 718.573
+        }
+      },
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 530,
+      "markdown_body_line_end": 530,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Vegetation, crops and agricultural intensity must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 583.573
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 516.905
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 544,
+      "markdown_body_line_end": 551,
+      "heading": "VISUAL FIRST",
+      "preview": "VEGETATION, CROPS AND AGRICULTURAL INTENSITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 339.305
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 268.305
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 580,
+      "markdown_body_line_end": 587,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 630.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 532.423
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 599,
+      "markdown_body_line_end": 599,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India China-type analogue must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 411.623
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 344.955
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 614,
+      "markdown_body_line_end": 618,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA CHINA-TYPE ANALOGUE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 646,
+      "markdown_body_line_end": 653,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 437.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 348.573
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 665,
+      "markdown_body_line_end": 665,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Humid North-East division must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 213.573
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 146.905
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 679,
+      "markdown_body_line_end": 686,
+      "heading": "VISUAL FIRST",
+      "preview": "HUMID NORTH-EAST DIVISION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 676.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 715,
+      "markdown_body_line_end": 722,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 322.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 225.223
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 734,
+      "markdown_body_line_end": 734,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Bengal and Assam Plain must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 748,
+      "markdown_body_line_end": 755,
+      "heading": "VISUAL FIRST",
+      "preview": "BENGAL AND ASSAM PLAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 579.224
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 508.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 784,
+      "markdown_body_line_end": 791,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 125.824
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        20,
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 803,
+      "markdown_body_line_end": 803,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Trewartha and classification must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 649.523
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 582.855
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 818,
+      "markdown_body_line_end": 822,
+      "heading": "VISUAL FIRST",
+      "preview": "TREWARTHA AND CLASSIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 402.255
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 361.255
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 850,
+      "markdown_body_line_end": 857,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 52.855
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 705.623
+        }
+      },
+      "pdf_pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 869,
+      "markdown_body_line_end": 869,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Bay of Bengal branch must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 584.823
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 518.155
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 884,
+      "markdown_body_line_end": 888,
+      "heading": "VISUAL FIRST",
+      "preview": "BAY OF BENGAL BRANCH",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 337.555
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 296.555
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 916,
+      "markdown_body_line_end": 923,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 697.973
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 935,
+      "markdown_body_line_end": 935,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Flood-fertility paradox and tea must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 562.973
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 496.305
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 948,
+      "markdown_body_line_end": 955,
+      "heading": "VISUAL FIRST",
+      "preview": "FLOOD-FERTILITY PARADOX AND TEA",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 335.905
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 264.905
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 984,
+      "markdown_body_line_end": 991,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 644.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 546.623
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1003,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "PYQ boundary and answer spine must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 411.623
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 344.955
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1016,
+      "markdown_body_line_end": 1020,
+      "heading": "VISUAL FIRST",
+      "preview": "PYQ BOUNDARY AND ANSWER SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1048,
+      "markdown_body_line_end": 1055,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 437.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 348.573
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1059,
+      "markdown_body_line_end": 1062,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*. ✅ = from source book · ⚠️ = inference ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 348.573
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 253.505
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1073,
+      "markdown_body_line_end": 1077,
+      "heading": "2. The three sub-types",
+      "preview": "Sub-type | Region | Character",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Sub-type",
+          "Region",
+          "Character"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 152.705
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 42.104
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1133,
+      "markdown_body_line_end": 1137,
+      "heading": "10.1 Directive decoding",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 201.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 46.49
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1141,
+      "markdown_body_line_end": 1149,
+      "heading": "10.2 The eastern-margin logic",
+      "preview": "WARM TEMPERATE EASTERN MARGIN (China / Gulf / Natal types)",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1156,
+      "markdown_body_line_end": 1160,
+      "heading": "10.2 The eastern-margin logic",
+      "preview": "🔑 **Trap:** the eastern-margin warm temperate type has **no summer drought**, which is precisely what distinguishes it from the Mediterranean type at the same latitude on the western margin. The contrast is the highest-value single comparis",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 655.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 582.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1178,
+      "markdown_body_line_end": 1184,
+      "heading": "10.4 Evidence units available in this file",
+      "preview": "**Claim:** the size of the adjoining landmass, not latitude, decides how severe an eastern-margin winter is. **Evidence:** the three sub-types of this climate share a summer-rain regime but differ sharply in winter severity, with the Asian ",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 366.424
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 242.956
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1186,
+      "markdown_body_line_end": 1193,
+      "heading": "10.4 Evidence units available in this file",
+      "preview": "**Claim:** the mechanism that makes a region agriculturally rich is the same one that makes it hazardous. **Evidence:** the summer inflow of warm, moist maritime air that gives this climate its long wet growing season and supports very dens",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 242.956
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 127.288
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2266,
+      "markdown_body_line_end": 2269,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *India geography* + verified CA. ✅ = from source book · ⚠️ = inference / stan",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 546.491
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 473.424
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2292,
+      "markdown_body_line_end": 2295,
+      "heading": "Key data at a glance",
+      "preview": "Division (source) | Extent | Annual rainfall | July temp | January temp",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 2,
+        "headers": [
+          "Division (source)",
+          "Extent",
+          "Annual rainfall",
+          "July temp",
+          "January temp"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 243.424
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 157.522
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2338,
+      "markdown_body_line_end": 2349,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Eastern-margin world map",
+      "preview": "CHINA -> central and north China + southern Japan: temperate monsoonal",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 419.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 306.291
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2353,
+      "markdown_body_line_end": 2358,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Pressure-reversal mechanism",
+      "preview": "SUMMER -> intense heating over Asian interior -> low pressure",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2362,
+      "markdown_body_line_end": 2367,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Three sub-types comparison",
+      "preview": "CHINA TYPE -> temperate monsoonal, harshest winter (large Asian landmass)",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2371,
+      "markdown_body_line_end": 2376,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: East-west rainfall asymmetry",
+      "preview": "EASTERN MARGIN -> summer rain from onshore flow, no summer drought",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2380,
+      "markdown_body_line_end": 2385,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Typhoon track map",
+      "preview": "ORIGIN -> warm western Pacific Ocean, low-latitude genesis",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2389,
+      "markdown_body_line_end": 2394,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Agriculture-hazard duality",
+      "preview": "SUMMER INFLOW -> warm moist air gives long wet growing season",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2398,
+      "markdown_body_line_end": 2403,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: India humid eastern-margin map",
+      "preview": "BENGAL PLAIN -> West Bengal plain, about 150 cm Bay-of-Bengal monsoon",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2407,
+      "markdown_body_line_end": 2412,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Monsoon-branch discriminator",
+      "preview": "QUESTION: which monsoon branch serves NE India?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 292.691
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2416,
+      "markdown_body_line_end": 2421,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Flood-fertility paradox",
+      "preview": "HEAVY MONSOON RAIN -> annual flooding of Brahmaputra floodplain",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2425,
+      "markdown_body_line_end": 2436,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Tea-industry vulnerability",
+      "preview": "ASSAM -> central to India's tea output, world's 2nd-largest producer",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2440,
+      "markdown_body_line_end": 2451,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Trewartha classification note",
+      "preview": "TREWARTHA -> humid mesothermal and tropical-humid types in India",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 465.491
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2455,
+      "markdown_body_line_end": 2460,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: China-type answer spine",
+      "preview": "DEFINE -> warm temperate eastern margin with summer-rain regime",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 443.491
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 391.691
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    }
+  ]
+}

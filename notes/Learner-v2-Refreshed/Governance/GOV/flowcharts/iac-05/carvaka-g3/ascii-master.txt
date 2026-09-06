@@ -1,0 +1,78 @@
+ASCII MASTER FLOW — PANEL 1/12: Five models, one typology
+BROADCASTING -> wide one-way dissemination of government information
+CRITICAL FLOW -> targeted routing of information of critical value
+COMPARATIVE ANALYSIS -> citizen-facing performance benchmarking
+MOBILISATION AND NETWORKING -> digital advocacy and collective action
+INTERACTIVE SERVICE -> two-way transaction with accountability designed in
+RULE -> a typology of functions, never an official maturity ladder
+MUST REMEMBER: E-governance redesigns information, transactions and accountability across...
+
+ASCII MASTER FLOW — PANEL 2/12: Three axes that must not collapse
+MODEL AXIS -> which information or interaction function is performed
+DOMAIN AXIS -> government to citizen, business, government or employee
+MATURITY AXIS -> presence, interaction, transaction, integration, transformation
+ERROR PREVENTED -> calling a downloadable-form page transactional
+
+ASCII MASTER FLOW — PANEL 3/12: Interactive Service Model card
+DEFINING FEATURE -> apply, pay, track and appeal within one accountable transaction
+NOT -> a digitised paper process or an information page with a form attached
+EMBEDS -> transparency structurally, because each step is logged
+EMBEDS ONLY CONDITIONALLY -> accountability, because a log names no duty-holder
+
+ASCII MASTER FLOW — PANEL 4/12: Digitisation against e-governance
+DIGITISATION -> paper and process converted to digital form; a precondition
+E-GOVERNANCE -> the service redesigned around the citizen's task sequence
+FAILURE MODE -> digitising an unreformed process automates the delay
+TEST -> did the approval chain change, or only the surface on which it runs
+
+ASCII MASTER FLOW — PANEL 5/12: Programme and assessment card
+DIGITAL INDIA -> umbrella programme of the Ministry of Electronics and Information Technology
+PILLARS -> digital infrastructure, governance on demand, digital empowerment
+ASSESSMENT -> National e-Governance Service Delivery Assessment, run by DARPG
+PARAMETERS -> accessibility, content, ease of use, security, delivery, integration, tracking
+
+ASCII MASTER FLOW — PANEL 6/12: Twin service-completion parameters
+END SERVICE DELIVERY -> is the service completed online, not merely initiated
+INTEGRATED SERVICE DELIVERY -> are departments and services joined up seamlessly
+WHAT THE PAIR SEPARATES -> real interactive delivery from a front end on unchanged silos
+CAUTION -> a scored parameter can be optimised without changing citizen experience
+CLOSE DISTINCTION: Digitisation converts form, digitalisation changes a process, and...
+
+ASCII MASTER FLOW — PANEL 7/12: Dated status controls
+LATEST COMPLETED ASSESSMENT LOCATED -> NeSDA 2021
+PORTAL LAUNCH -> NeSDA 2025 assessment portal launched on 25 May 2026
+RULE -> a launched portal is not a completed or published assessment report
+DATED FIGURE -> 56 identified mandatory e-services, re-verified 13 August 2026
+
+ASCII MASTER FLOW — PANEL 8/12: Why the back-end bias is structural
+1 PROCUREMENT -> a tender specifies databases and features, not task completion
+2 CAPACITY -> deep back-end expertise, thin citizen-experience design capacity
+3 METRICS -> go-live and feature count are measured, drop-off usually is not
+4 DEFAULT DESIGN -> the interface is built around the departmental database
+5 OUTCOME -> a functional portal that reproduces the old opacity
+
+ASCII MASTER FLOW — PANEL 9/12: Use value of information
+AVAILABILITY -> the information exists somewhere; digitisation supplies this almost free
+ACCESSIBILITY -> a citizen can actually obtain it
+USE VALUE -> timely, intelligible, actionable at the moment of decision
+DESIGN LEVERS -> format, timing, granularity and an action attached to the information
+LIMIT -> information without an identifiable duty-holder produces awareness, not remedy
+
+ASCII MASTER FLOW — PANEL 10/12: Seven implementation factors
+PROCESS -> re-engineer before digitising; ownership continuity across transfers
+ARCHITECTURE -> interoperability and open standards instead of one-off vendor stacks
+DATA AND CAPACITY -> clean source records; officials and citizens trained; assisted access
+PEOPLE AND CONTINUITY -> change management and incentives; security, audit trail, fallback
+
+ASCII MASTER FLOW — PANEL 11/12: Three inadequacy buckets
+EFFECTIVENESS -> unreformed process, poor source data, online start with offline finish
+TRANSPARENCY -> status without reasons, unusable rules, disposal dashboards without quality
+ACCOUNTABILITY -> no named officer, tickets closed without the capability fix, no penalty
+STRUCTURAL POINT -> transparency features create no accountability without a duty-holder
+
+ASCII MASTER FLOW — PANEL 12/12: Answer spine for an e-governance evaluation
+OPEN -> name the model, the interaction domain and the maturity stage separately
+BUILD -> four-stage bias mechanism, then the twin completion parameters as the benchmark
+CORRECT -> journey mapping, usability testing, vernacular and low-bandwidth design, assisted route
+CLOSE -> graded verdict with an explicit dated status caveat and stated question ownership
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use UMANG, DigiLocker, Government...

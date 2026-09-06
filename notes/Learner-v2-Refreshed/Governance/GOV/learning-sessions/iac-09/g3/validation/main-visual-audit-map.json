@@ -1,0 +1,2189 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-09\\g3\\governance-09_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-09\\g3\\governance-09_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "governance-09",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Civil Services and Mission Karmayogi - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-02. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 29,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 461.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-09\\g3\\assets\\governance-09_Teaching-Navigation_2026-09-02.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Civil services as a structurally distinctive democratic institution should be analysed as a relation among Civil services as a structurally distinctive democratic institution, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 279.956
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 213.288
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 82,
+      "heading": "VISUAL FIRST",
+      "preview": "CIVIL SERVICES AS A STRUCTURALLY DISTINCTIVE DEMOCRATIC INSTITUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 721.091
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 110,
+      "markdown_body_line_end": 117,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 370.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 264.073
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 129,
+      "markdown_body_line_end": 129,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Political neutrality as impartiality rather than passivity should be analysed as a relation among Political neutrality as impartiality rather than passivity, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 144,
+      "markdown_body_line_end": 148,
+      "heading": "VISUAL FIRST",
+      "preview": "POLITICAL NEUTRALITY AS IMPARTIALITY RATHER THAN PASSIVITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 102
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 482.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 176,
+      "markdown_body_line_end": 183,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 117.424
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 195,
+      "markdown_body_line_end": 195,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Permanence and anonymity as a designed pair should be analysed as a relation among Permanence and institutional memory and Anonymity as accountability displacement, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 573.723
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 492.855
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 210,
+      "markdown_body_line_end": 217,
+      "heading": "VISUAL FIRST",
+      "preview": "PERMANENCE AND ANONYMITY AS A DESIGNED PAIR",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 110
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 246,
+      "markdown_body_line_end": 253,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 238.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 132.673
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 265,
+      "markdown_body_line_end": 265,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The constitutional setting of Articles 309 to 312 should be analysed as a relation among The constitutional setting of Articles 309 to 312, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 650.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 584.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 280,
+      "markdown_body_line_end": 284,
+      "heading": "VISUAL FIRST",
+      "preview": "THE CONSTITUTIONAL SETTING OF ARTICLES 309 TO 312",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 375.224
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 324.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 312,
+      "markdown_body_line_end": 319,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 713.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 607.673
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 331,
+      "markdown_body_line_end": 331,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Doctrine of Democratic Governance should be analysed as a relation among The Doctrine of Democratic Governance as a perceptual legitimacy claim, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 444.273
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 377.605
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 346,
+      "markdown_body_line_end": 350,
+      "heading": "VISUAL FIRST",
+      "preview": "THE DOCTRINE OF DEMOCRATIC GOVERNANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 378,
+      "markdown_body_line_end": 385,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 366.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 260.873
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 397,
+      "markdown_body_line_end": 397,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Perceptual legitimacy as a separate variable should be analysed as a relation among Perceptual legitimacy as a variable distinct from structure and procedure, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 412,
+      "markdown_body_line_end": 416,
+      "heading": "VISUAL FIRST",
+      "preview": "PERCEPTUAL LEGITIMACY AS A SEPARATE VARIABLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 492.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 444,
+      "markdown_body_line_end": 451,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 113.224
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 463,
+      "markdown_body_line_end": 463,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mission Karmayogi as a change in training philosophy should be analysed as a relation among Mission Karmayogi as a change in training philosophy, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 587.923
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 521.255
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 478,
+      "markdown_body_line_end": 482,
+      "heading": "VISUAL FIRST",
+      "preview": "MISSION KARMAYOGI AS A CHANGE IN TRAINING PHILOSOPHY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 312.255
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 271.255
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 510,
+      "markdown_body_line_end": 517,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 666.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 560.273
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 529,
+      "markdown_body_line_end": 529,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The six-pillar design of the national programme should be analysed as a relation among The six-pillar design of the national programme, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 396.873
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 330.205
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 544,
+      "markdown_body_line_end": 548,
+      "heading": "VISUAL FIRST",
+      "preview": "THE SIX-PILLAR DESIGN OF THE NATIONAL PROGRAMME",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 576,
+      "markdown_body_line_end": 583,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 395.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 289.273
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 595,
+      "markdown_body_line_end": 595,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The four-tier institutional chain should be analysed as a relation among The four-tier institutional chain, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 140.073
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 73.405
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 610,
+      "markdown_body_line_end": 614,
+      "heading": "VISUAL FIRST",
+      "preview": "THE FOUR-TIER INSTITUTIONAL CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 647.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 606.691
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 642,
+      "markdown_body_line_end": 649,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 227.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 121.273
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 661,
+      "markdown_body_line_end": 661,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Commission's dated establishment and working instruments should be analysed as a relation among The Capacity Building Commission and its dated establishment, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 617.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 551.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 676,
+      "markdown_body_line_end": 680,
+      "heading": "VISUAL FIRST",
+      "preview": "THE COMMISSION'S DATED ESTABLISHMENT AND WORKING INSTRUMENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 342.024
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 301.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 708,
+      "markdown_body_line_end": 715,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 666.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 560.273
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 727,
+      "markdown_body_line_end": 727,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Platform outputs against workplace outcomes should be analysed as a relation among iGOT Karmayogi and the output against outcome distinction, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 396.873
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 330.205
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 742,
+      "markdown_body_line_end": 746,
+      "heading": "VISUAL FIRST",
+      "preview": "PLATFORM OUTPUTS AGAINST WORKPLACE OUTCOMES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 774,
+      "markdown_body_line_end": 781,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 366.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 260.873
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 793,
+      "markdown_body_line_end": 793,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Competency mapping and the posting link should be analysed as a relation among The Karmayogi Competency Model and the untested link, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 808,
+      "markdown_body_line_end": 812,
+      "heading": "VISUAL FIRST",
+      "preview": "COMPETENCY MAPPING AND THE POSTING LINK",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 111
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 482.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 840,
+      "markdown_body_line_end": 847,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 131.624
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        24,
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 859,
+      "markdown_body_line_end": 859,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Generalist, specialist and bounded lateral entry should be analysed as a relation among Generalist and specialist as a capacity-allocation problem and Lateral entry as a bounded supplement, not as a list of virtues attached to the word gove",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 573.723
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 492.855
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 874,
+      "markdown_body_line_end": 881,
+      "heading": "VISUAL FIRST",
+      "preview": "GENERALIST, SPECIALIST AND BOUNDED LATERAL ENTRY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 103
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 910,
+      "markdown_body_line_end": 917,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 167.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 53.323
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 929,
+      "markdown_body_line_end": 929,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "How neutrality erodes and what protects it should be analysed as a relation among How neutrality erodes through posting and transfer discretion, The protections that hold neutrality in place and The reciprocal obligation on the political ex",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 603.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 522.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 944,
+      "markdown_body_line_end": 954,
+      "heading": "VISUAL FIRST",
+      "preview": "HOW NEUTRALITY ERODES AND WHAT PROTECTS IT",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 313.624
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 202.624
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 984,
+      "markdown_body_line_end": 991,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 210.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 88.173
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1003,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Judging capacity claims and stating reform conflicts honestly should be analysed as a relation among Six outcome indicators for any capacity claim and The reform-conflict bank and honest question ownership, not as a list of virtues attached",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 617.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 536.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1018,
+      "markdown_body_line_end": 1025,
+      "heading": "VISUAL FIRST",
+      "preview": "JUDGING CAPACITY CLAIMS AND STATING REFORM CONFLICTS HONESTLY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 327.824
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 256.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1061,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 185.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 71.123
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1065,
+      "markdown_body_line_end": 1072,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Governance | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II. **Core area:** Civil services in a democracy, neutrality/permanence/anonymity, the generalist-specialist and lateral-entry debate, and Mission Karmayogi/NPCSCB.",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 685.824
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1076,
+      "markdown_body_line_end": 1100,
+      "heading": "1. Visual foundation",
+      "preview": "CLASSICAL WEBERIAN BUREAUCRACY TRAITS APPLIED TO A DEMOCRACY",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 663.824
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 422.824
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1110,
+      "markdown_body_line_end": 1118,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 367.89
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1233,
+      "markdown_body_line_end": 1237,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** The civil service's democratic legitimacy rests on a combination of neutral competence, institutional permanence and — as the Doctrine of Democratic Governance underlines — the public's continued perception that this unel",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 440.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 367.224
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1265,
+      "markdown_body_line_end": 1267,
+      "heading": "13. Answer architecture (10/15/20-mark support)",
+      "preview": "**Scope.** All marks-bearing content for the *role of civil services in a democracy* clause is held **in this file**. `advanced/09` is optional enrichment only; no mark depends on it.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 717.424
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1319,
+      "markdown_body_line_end": 1327,
+      "heading": "13.1 Demand map",
+      "preview": "Stem pattern | What is being tested | Opening move",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Stem pattern",
+          "What is being tested",
+          "Opening move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 513.49
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1361,
+      "markdown_body_line_end": 1371,
+      "heading": "13.4 Evidence bank - institutions and mechanisms",
+      "preview": "Anchor | What it is | Mechanism | Limitation / caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 9,
+        "headers": [
+          "Anchor",
+          "What it is",
+          "Mechanism",
+          "Limitation / caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 274.39
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1385,
+      "markdown_body_line_end": 1402,
+      "heading": "13.6 Causal chain - how neutrality erodes (and how it is protected)",
+      "preview": "POSTING AND TRANSFER DISCRETION unconstrained",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1406,
+      "markdown_body_line_end": 1413,
+      "heading": "13.7 Reform-conflict bank (the balance that earns 15-20 mark credit)",
+      "preview": "Reform | What it fixes | What it puts at risk | Reconciliation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Reform",
+          "What it fixes",
+          "What it puts at risk",
+          "Reconciliation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 594.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 363.39
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1470,
+      "markdown_body_line_end": 1471,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 406.691
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 340.024
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1477,
+      "markdown_body_line_end": 1479,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 288.424
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 191.522
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1485,
+      "markdown_body_line_end": 1485,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 152.322
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 107.654
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1492,
+      "markdown_body_line_end": 1494,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** Th",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1500,
+      "markdown_body_line_end": 1503,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 662.624
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 513.722
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1510,
+      "markdown_body_line_end": 1510,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 457.322
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 412.654
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2391,
+      "markdown_body_line_end": 2392,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 281.091
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 214.424
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2398,
+      "markdown_body_line_end": 2400,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 162.824
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 65.922
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2406,
+      "markdown_body_line_end": 2406,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 770.091
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 725.424
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2413,
+      "markdown_body_line_end": 2415,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** Th",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 725.424
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 630.356
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2421,
+      "markdown_body_line_end": 2424,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 578.756
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 429.854
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2431,
+      "markdown_body_line_end": 2431,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 373.454
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 328.787
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2761,
+      "markdown_body_line_end": 2767,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Governance | **Tier:** Advanced | **GS Paper:** GS-II. **Core area:** Civil services in a democracy, neutrality/permanence/anonymity, the generalist-specialist and lateral-entry debate, and Mission Karmayogi/NPCSCB. **Grounded ",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 182.491
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 81.024
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2771,
+      "markdown_body_line_end": 2788,
+      "heading": "1. Architecture",
+      "preview": "LEGITIMACY SOURCE OF CIVIL SERVICE IN A DEMOCRACY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2798,
+      "markdown_body_line_end": 2803,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 537.491
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 215.29
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3019,
+      "markdown_body_line_end": 3025,
+      "heading": "Civil Services and Mission Karmayogi: ANSWER-WRITING SPINE",
+      "preview": "NAME THE NORM OR PROBLEM -> IDENTIFY THE DUTY-HOLDER AND THE BINDING FORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 380.091
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3035,
+      "markdown_body_line_end": 3041,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Three designed traits, one package",
+      "preview": "NEUTRALITY -> impartial service to any elected government; not the absence of policy influence",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 701.291
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3045,
+      "markdown_body_line_end": 3050,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Neutrality: what it is and what it is not",
+      "preview": "IS -> impartial implementation of lawful policy irrespective of personal preference",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 627.491
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3054,
+      "markdown_body_line_end": 3059,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Constitutional setting card",
+      "preview": "ARTICLES 309 TO 311 -> recruitment, service conditions, pleasure doctrine, dismissal safeguards",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 605.491
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 553.691
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3063,
+      "markdown_body_line_end": 3068,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Three layers of civil-service legitimacy",
+      "preview": "STRUCTURAL -> neutrality, permanence and anonymity built into the design",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 531.691
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 479.891
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3072,
+      "markdown_body_line_end": 3079,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Six pillars of the capacity programme",
+      "preview": "1 POLICY FRAMEWORK -> the reform intent and its stated shift to role-based learning",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 457.891
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 385.691
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3083,
+      "markdown_body_line_end": 3090,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Institutional chain in four tiers",
+      "preview": "APEX GUIDANCE -> Prime Minister's Human Resources Council",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 363.691
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 291.491
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3094,
+      "markdown_body_line_end": 3099,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Dated capacity anchors",
+      "preview": "CABINET APPROVAL -> 2 September 2020, Ministry of Personnel, Public Grievances and Pensions",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3103,
+      "markdown_body_line_end": 3108,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Output against outcome",
+      "preview": "OUTPUT -> enrolment, course counts, completions, certificates on a live dashboard",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3112,
+      "markdown_body_line_end": 3117,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Generalist, specialist and lateral entry",
+      "preview": "GENERALIST -> breadth for coordination across sectors and levels of government",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3121,
+      "markdown_body_line_end": 3127,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: How neutrality erodes",
+      "preview": "UNCONSTRAINED POSTING AND TRANSFER DISCRETION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 503.891
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3131,
+      "markdown_body_line_end": 3136,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Reform conflict ladder",
+      "preview": "FIXED MINIMUM TENURE -> repairs arbitrary transfer; can entrench a poor performer",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 481.891
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 430.091
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3140,
+      "markdown_body_line_end": 3146,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Answer spine for a civil-services demand",
+      "preview": "OPEN -> name the function being tested rather than listing duties of the service",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 408.091
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 346.091
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-03\\g10\\geography-03_Solved-Practice-Workbook_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-03\\g10\\geography-03_Solved-Practice-Workbook_2026-09-05.pdf",
+  "mode": "workbook",
+  "topic_key": "geography-03",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 745,
+      "markdown_body_line_end": 749,
+      "heading": "Model answer",
+      "preview": "deep thermal anomaly -> broad plume head -> flood basalt",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 766.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 798,
+      "markdown_body_line_end": 801,
+      "heading": "Model answer",
+      "preview": "oceanic plate -> trench -> inclined Wadati-Benioff seismic zone",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 548.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 517.891
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 852,
+      "markdown_body_line_end": 857,
+      "heading": "Model answer",
+      "preview": "Occurrence | Setting/product | Regional environmental impact",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Occurrence",
+          "Setting/product",
+          "Regional environmental impact"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 302.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 126.09
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 945,
+      "markdown_body_line_end": 948,
+      "heading": "Model answer",
+      "preview": "damage ≠ magnitude alone",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 397.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 366.891
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 984,
+      "markdown_body_line_end": 988,
+      "heading": "Model answer",
+      "preview": "Hazard | Composition/motion | Control | Hazard-map implication",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Hazard",
+          "Composition/motion",
+          "Control",
+          "Hazard-map implication"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 362.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 245.39
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1026,
+      "markdown_body_line_end": 1028,
+      "heading": "Model answer",
+      "preview": "tectonic source -> wave path -> local ground -> exposed built environment",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 171.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 150.691
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1154,
+      "markdown_body_line_end": 1158,
+      "heading": "Model answer",
+      "preview": "macrozonation -> city microzonation -> parcel/geotechnical check",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 738.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 697.491
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1198,
+      "markdown_body_line_end": 1203,
+      "heading": "Model answer",
+      "preview": "trench",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 608.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 557.491
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    }
+  ]
+}

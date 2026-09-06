@@ -1,0 +1,2360 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-26\\g6\\geography-26_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-26\\g6\\geography-26_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "geography-26",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "World Population and Demographic Transition - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 403.824
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 163.622
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 48,
+      "markdown_body_line_end": 48,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-26\\g6\\assets\\geography-26_Teaching-Navigation_2026-08-22.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 529.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 221.556
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 62,
+      "markdown_body_line_end": 62,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Population geography baseline - Census snapshot rule - Vital-rate toolkit Qualified use: Open with definition plus the indicator toolkit before citing any number.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 77,
+      "markdown_body_line_end": 87,
+      "heading": "VISUAL FIRST",
+      "preview": "POPULATION GEOGRAPHY BASELINE AND CENSUS SNAPSHOT",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 446.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 117,
+      "markdown_body_line_end": 134,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - POPULATION GEOGRAPHY BASELINE AND CENSUS SNAPSHOT",
+      "preview": "START / CONCEPT: FOUNDATION — Population geography baseline and census snapshot",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 207
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 145,
+      "markdown_body_line_end": 145,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Mortality-first transition logic - Stage 1 and Stage 2 profile Qualified use: Explain why the middle-stage gap produces rapid growth.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 412.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 345.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 160,
+      "markdown_body_line_end": 167,
+      "heading": "VISUAL FIRST",
+      "preview": "MORTALITY-FIRST TRANSITION LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 196,
+      "markdown_body_line_end": 213,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - MORTALITY-FIRST TRANSITION LOGIC",
+      "preview": "START / CONCEPT: FOUNDATION — Mortality-first transition logic",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 187
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 387.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 166.691
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 224,
+      "markdown_body_line_end": 224,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Stage 3 to Stage 5 profile Qualified use: Contrast Stage 4 stability with Stage 5 ageing pressures.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 674.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 622.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 239,
+      "markdown_body_line_end": 243,
+      "heading": "VISUAL FIRST",
+      "preview": "LATE TRANSITION, AGEING AND BELOW REPLACEMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 441.424
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 400.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 271,
+      "markdown_body_line_end": 288,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - LATE TRANSITION, AGEING AND BELOW REPLACEMENT",
+      "preview": "START / CONCEPT: FOUNDATION — Late transition, ageing and below replacement",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 226
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 299,
+      "markdown_body_line_end": 299,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Population pyramid types: Expansive, stationary and constrictive population pyramids are the quick visual forms for youthful, slower-growth and ageing populations respectively.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 445.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 378.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 314,
+      "markdown_body_line_end": 318,
+      "heading": "VISUAL FIRST",
+      "preview": "POPULATION PYRAMID READING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 346,
+      "markdown_body_line_end": 363,
+      "heading": "CLOSING RECALL FLOW - FOUNDATION - POPULATION PYRAMID READING",
+      "preview": "START / CONCEPT: FOUNDATION — Population pyramid reading",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 205
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 242.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 374,
+      "markdown_body_line_end": 374,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Dependency and dividend condition Qualified use: Move from age structure to productivity, not to slogans about youth.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 116.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 50.024
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 389,
+      "markdown_body_line_end": 393,
+      "heading": "VISUAL FIRST",
+      "preview": "DEPENDENCY RATIO AND DIVIDEND CONDITIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 573.491
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 421,
+      "markdown_body_line_end": 438,
+      "heading": "CLOSING RECALL FLOW - CORE - DEPENDENCY RATIO AND DIVIDEND CONDITIONS",
+      "preview": "START / CONCEPT: CORE — Dependency ratio and dividend conditions",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 162
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 276.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 65.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 449,
+      "markdown_body_line_end": 449,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: Over-under-optimum population - Optimum population shifts Qualified use: Use over, under and optimum population as relational, not moral, categories.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 464,
+      "markdown_body_line_end": 471,
+      "heading": "VISUAL FIRST",
+      "preview": "POPULATION-RESOURCE RELATIONSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 500,
+      "markdown_body_line_end": 517,
+      "heading": "CLOSING RECALL FLOW - CORE - POPULATION-RESOURCE RELATIONSHIP",
+      "preview": "START / CONCEPT: CORE — Population-resource relationship",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 196
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 528,
+      "markdown_body_line_end": 528,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India 1901-1921 stagnation: Khullar treats 1901-1921 as a phase of high birth and high death rates, epidemics, famine stress and demographic stagnation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 435.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 368.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 543,
+      "markdown_body_line_end": 547,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA'S STAGNATION PHASE 1901-1921",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 575,
+      "markdown_body_line_end": 592,
+      "heading": "CLOSING RECALL FLOW - CORE - INDIA'S STAGNATION PHASE 1901-1921",
+      "preview": "START / CONCEPT: CORE — India's stagnation phase 1901-1921",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 181
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 252.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 603,
+      "markdown_body_line_end": 603,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India 1921 turning point: The years 1921-1951 are the steady-growth phase, and 1921 is widely treated as India's demographic turning point.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 131.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 64.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 618,
+      "markdown_body_line_end": 622,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA'S TURNING POINT 1921-1951",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 573.491
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 650,
+      "markdown_body_line_end": 667,
+      "heading": "CLOSING RECALL FLOW - CORE - INDIA'S TURNING POINT 1921-1951",
+      "preview": "START / CONCEPT: CORE — India's turning point 1921-1951",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 168
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 304.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 93.691
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 678,
+      "markdown_body_line_end": 678,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: India 1951-1981 explosion Qualified use: Show mortality decline outrunning fertility decline.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 655.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 693,
+      "markdown_body_line_end": 697,
+      "heading": "VISUAL FIRST",
+      "preview": "POPULATION EXPLOSION 1951-1981",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 460.424
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 419.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 725,
+      "markdown_body_line_end": 742,
+      "heading": "CLOSING RECALL FLOW - CORE - POPULATION EXPLOSION 1951-1981",
+      "preview": "START / CONCEPT: CORE — Population explosion 1951-1981",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 138
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 753,
+      "markdown_body_line_end": 753,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: India 1981-2011 slowdown Qualified use: Explain fertility decline and momentum together.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 479.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 427.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 768,
+      "markdown_body_line_end": 772,
+      "heading": "VISUAL FIRST",
+      "preview": "SLOWDOWN AFTER 1981",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 800,
+      "markdown_body_line_end": 817,
+      "heading": "CLOSING RECALL FLOW - CORE - SLOWDOWN AFTER 1981",
+      "preview": "START / CONCEPT: CORE — Slowdown after 1981",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 133
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 262.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 828,
+      "markdown_body_line_end": 828,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not merge Census totals with later projections.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 141.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 89.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 843,
+      "markdown_body_line_end": 850,
+      "heading": "VISUAL FIRST",
+      "preview": "CENSUS 2011 BASELINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 647.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 576.691
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 879,
+      "markdown_body_line_end": 896,
+      "heading": "CLOSING RECALL FLOW - CORE - CENSUS 2011 BASELINE",
+      "preview": "START / CONCEPT: CORE — Census 2011 baseline",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 171
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 262.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 51.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 907,
+      "markdown_body_line_end": 907,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: SRS-NFHS fertility anchor Qualified use: Use TFR 2.0 as a named SRS-NFHS fertility marker.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 707.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 655.224
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 922,
+      "markdown_body_line_end": 926,
+      "heading": "VISUAL FIRST",
+      "preview": "SRS AND NFHS FERTILITY ANCHOR",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 474.624
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 433.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 954,
+      "markdown_body_line_end": 971,
+      "heading": "CLOSING RECALL FLOW - CORE - SRS AND NFHS FERTILITY ANCHOR",
+      "preview": "START / CONCEPT: CORE — SRS and NFHS fertility anchor",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 135
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 982,
+      "markdown_body_line_end": 982,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence chain: UN 2024 projection boundary Qualified use: Use the 2024 estimate only to explain population momentum.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 465.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 398.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 997,
+      "markdown_body_line_end": 1001,
+      "heading": "VISUAL FIRST",
+      "preview": "UN PROJECTION BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1029,
+      "markdown_body_line_end": 1046,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - UN PROJECTION BOUNDARY",
+      "preview": "START / CONCEPT: SYNTHESIS — UN projection boundary",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 201
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 242.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1057,
+      "markdown_body_line_end": 1057,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Kerala-EAG contrast: Kerala had reached a high stage of transition comparable to advanced countries by the 2011 period, while several populous EAG states retained more youthful structures for longer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 121.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 54.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1072,
+      "markdown_body_line_end": 1076,
+      "heading": "VISUAL FIRST",
+      "preview": "KERALA-EAG CONTRAST",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1104,
+      "markdown_body_line_end": 1121,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - KERALA-EAG CONTRAST",
+      "preview": "START / CONCEPT: SYNTHESIS — Kerala-EAG contrast",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 228
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 304.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 93.691
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1132,
+      "markdown_body_line_end": 1132,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "⚠️ Replacement-level fertility is the fertility rate at which a generation exactly replaces itself; sustained fertility below that level means eventual population decline once the momentum of the existing age structure is exhausted. ⚠️ \"Dem",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 536.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1147,
+      "markdown_body_line_end": 1151,
+      "heading": "VISUAL FIRST",
+      "preview": "AGEING, YOUTH BULGE AND MOMENTUM TOGETHER",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 356.224
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 315.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1178,
+      "markdown_body_line_end": 1181,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** Majid Husain, *Indian & World Geography* + G.C. Leong for physical-resource context + verified UN/Census-SRS current anchor. ✅ = from s",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1188,
+      "markdown_body_line_end": 1196,
+      "heading": "1. Population as a geographic variable",
+      "preview": "Indicator | What it measures | Why UPSC cares",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Indicator",
+          "What it measures",
+          "Why UPSC cares"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 644.624
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 438.022
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1198,
+      "markdown_body_line_end": 1198,
+      "heading": "1. Population as a geographic variable",
+      "preview": "🔑 Trap: population growth is not the same as birth rate; it depends on births, deaths and migration together.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 438.022
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 407.554
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1204,
+      "markdown_body_line_end": 1210,
+      "heading": "2. Demographic transition model",
+      "preview": "Stage | Birth rate | Death rate | Growth outcome | Typical social setting",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 5,
+        "headers": [
+          "Stage",
+          "Birth rate",
+          "Death rate",
+          "Growth outcome",
+          "Typical social setting"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 352.154
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 194.253
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1219,
+      "markdown_body_line_end": 1223,
+      "heading": "3. Population composition and population pyramids",
+      "preview": "Pyramid type | Shape logic | What it usually signals",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Pyramid type",
+          "Shape logic",
+          "What it usually signals"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 715.09
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1231,
+      "markdown_body_line_end": 1236,
+      "heading": "4. Population-resource ideas",
+      "preview": "Idea | Meaning | Exam use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Idea",
+          "Meaning",
+          "Exam use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 617.09
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 474.088
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1238,
+      "markdown_body_line_end": 1238,
+      "heading": "4. Population-resource ideas",
+      "preview": "🔑 Trap: optimum population is not a single permanent number; technology, trade and institutions can shift it.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 474.088
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 429.42
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1271,
+      "markdown_body_line_end": 1276,
+      "heading": "CA Anchor - UN World Population Prospects 2024",
+      "preview": "Current fact | Static linkage",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Current fact",
+          "Static linkage"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 700.491
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 591.09
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1299,
+      "markdown_body_line_end": 1301,
+      "heading": "12. Population debates, decline and policy",
+      "preview": "**Why this section exists:** the file taught the transition model but omitted the **debate** that gives population geography its analytical content, and it listed *demographic winter* as a routed demand while teaching nothing about it. Both",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 273.89
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 193.022
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1305,
+      "markdown_body_line_end": 1312,
+      "heading": "12.1 Malthus and Boserup: the founding argument",
+      "preview": " | **Malthusian position** | **Boserupian position**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "",
+          "**Malthusian position**",
+          "**Boserupian position**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 534.69
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1334,
+      "markdown_body_line_end": 1341,
+      "heading": "12.2 The far end of the transition: ageing, below-replacement fertility and \"demographic winter\"",
+      "preview": "Feature of the condition | Mechanism | Consequence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Feature of the condition",
+          "Mechanism",
+          "Consequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 301.09
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 48.488
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1364,
+      "markdown_body_line_end": 1368,
+      "heading": "12.3 India's position in the transition, stated carefully",
+      "preview": "⚠️ **Factual caution:** do **not** quote a total fertility rate, a national or state population figure, an old-age dependency ratio, a life-expectancy value, a decadal growth rate or a \"dividend window\" end-year from memory. The folder's Ce",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 527.091
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 454.024
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1372,
+      "markdown_body_line_end": 1375,
+      "heading": "13. Reading population composition spatially",
+      "preview": "**Why this section exists:** a Core-only stress test found that a question on the **spatial pattern** of a composition variable such as the sex ratio could not be answered, because the file defined composition concepts without ever asking *",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 454.024
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 358.956
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1379,
+      "markdown_body_line_end": 1400,
+      "heading": "13.1 The method: turn a ratio into a geography",
+      "preview": "1. DEFINE the measure precisely (numerator, denominator, and which",
+      "metadata": {
+        "language": "text",
+        "line_count": 20,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 336.956
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 125.956
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1412,
+      "markdown_body_line_end": 1414,
+      "heading": "13.1 The method: turn a ratio into a geography",
+      "preview": "⚠️ **Factual caution:** do **not** quote a sex ratio, a child sex ratio, a literacy rate or a state ranking from memory. The folder's Census-currency rule applies: the last completed all-India Census is the baseline, and any later figure ne",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 752.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 693.824
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1420,
+      "markdown_body_line_end": 1426,
+      "heading": "14.1 Directive decoding",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 652.824
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 410.222
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1449,
+      "markdown_body_line_end": 1455,
+      "heading": "14.3 Evidence units available in this file",
+      "preview": "**Claim:** the same demographic structure can produce opposite economic outcomes. **Evidence:** a large working-age share raises output only where health, education, skills and employment absorb it; the identical age structure without those",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 700.024
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1457,
+      "markdown_body_line_end": 1463,
+      "heading": "14.3 Evidence units available in this file",
+      "preview": "**Claim:** population decline is harder to reverse than population growth was to slow. **Evidence:** where fertility has fallen well below replacement, the shrinking size of successive cohorts continues the decline even if fertility recover",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 700.024
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 598.556
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1469,
+      "markdown_body_line_end": 1471,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key ",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 598.556
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 489.288
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1477,
+      "markdown_body_line_end": 1481,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 437.688
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 236.787
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1489,
+      "markdown_body_line_end": 1489,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 163.187
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 118.519
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1494,
+      "markdown_body_line_end": 1511,
+      "heading": "CLOSING RECALL FLOW - SYNTHESIS - AGEING, YOUTH BULGE AND MOMENTUM TOGETHER",
+      "preview": "START / CONCEPT: SYNTHESIS — Ageing, youth bulge and momentum together",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 538
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 536.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1522,
+      "markdown_body_line_end": 1528,
+      "heading": "Models and criteria",
+      "preview": "Model | Core use | Limit",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Model",
+          "Core use",
+          "Limit"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 317.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 130.69
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1537,
+      "markdown_body_line_end": 1543,
+      "heading": "Grant rights and ground effects",
+      "preview": "Recipient/right | Historical question | Source caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Recipient/right",
+          "Historical question",
+          "Source caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 611.89
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1547,
+      "markdown_body_line_end": 1554,
+      "heading": "REGIONAL CONTINUITY-CHANGE LEDGER - TOPIC 26",
+      "preview": "Region | Transition pattern | Anti-universalization rule",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Region",
+          "Transition pattern",
+          "Anti-universalization rule"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 586.89
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 367.888
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2649,
+      "markdown_body_line_end": 2652,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *Geography of India* + distinct verified Census/SRS/UN current anchor. ✅ = fr",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 486.691
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 413.624
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2658,
+      "markdown_body_line_end": 2664,
+      "heading": "1. India's long demographic transition",
+      "preview": "Phase in Khullar | Main demographic logic | India significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Phase in Khullar",
+          "Main demographic logic",
+          "India significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 329.824
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 188.022
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2666,
+      "markdown_body_line_end": 2666,
+      "heading": "1. India's long demographic transition",
+      "preview": "🔑 Trap: India's “demographic transition” is not one uniform national stage; state-level transitions are staggered.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 188.022
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 143.354
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2672,
+      "markdown_body_line_end": 2678,
+      "heading": "2. Official indicators to use in answers",
+      "preview": "Indicator | Verified figure | Source and caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Indicator",
+          "Verified figure",
+          "Source and caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 639.09
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2694,
+      "markdown_body_line_end": 2698,
+      "heading": "4. Demographic dividend versus demographic burden",
+      "preview": "Debate | Geographic reading",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Debate",
+          "Geographic reading"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 380.29
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 269.688
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2731,
+      "markdown_body_line_end": 2736,
+      "heading": "CA Anchor - SRS 2022 and UN World Population Prospects 2024",
+      "preview": "Current fact | Static concept | Exam use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Current fact",
+          "Static concept",
+          "Exam use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 567.091
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 412.89
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2774,
+      "markdown_body_line_end": 2787,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Population balance equation",
+      "preview": "POPULATION AT T2 = population at T1 + births - deaths +/- migration",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 608.091
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 474.691
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2791,
+      "markdown_body_line_end": 2796,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Demographic transition spine",
+      "preview": "STAGE 1 -> high birth, high death, unstable growth",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 452.691
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 400.891
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2800,
+      "markdown_body_line_end": 2805,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Population pyramid reading",
+      "preview": "EXPANSIVE -> broad base, youthful age structure, high fertility",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 378.891
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 327.091
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2809,
+      "markdown_body_line_end": 2814,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Dependency to dividend fork",
+      "preview": "WORKING-AGE SHARE RISES -> dependency ratio can fall",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 305.091
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 253.291
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2818,
+      "markdown_body_line_end": 2823,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Population-resource triangle",
+      "preview": "UNDER-POPULATION -> too few people to use resources fully",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2827,
+      "markdown_body_line_end": 2832,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: India demographic timeline",
+      "preview": "1901-1921 -> stagnation under high birth and high death rates",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2836,
+      "markdown_body_line_end": 2841,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: India data-source firewall",
+      "preview": "CENSUS 2011 -> 1.21 billion total; sex ratio 943; literacy 74.04%",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2845,
+      "markdown_body_line_end": 2850,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Kerala-EAG contrast rail",
+      "preview": "KERALA -> early fertility decline, higher literacy, later-ageing pressures",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2854,
+      "markdown_body_line_end": 2859,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Ageing with population momentum",
+      "preview": "REPLACEMENT-LEVEL TFR -> does not stop growth immediately",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2863,
+      "markdown_body_line_end": 2876,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Sex ratio interpretation rule",
+      "preview": "SEX RATIO -> shaped by births, mortality and migration together",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 284.891
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2880,
+      "markdown_body_line_end": 2893,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: World divergence under one model",
+      "preview": "SUB-SAHARAN AFRICA -> youthful, high-growth structures remain common",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 653.891
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2897,
+      "markdown_body_line_end": 2902,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Population answer spine",
+      "preview": "DEFINE -> indicator, census or survey, and what exactly is being measured",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 580.091
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    }
+  ]
+}

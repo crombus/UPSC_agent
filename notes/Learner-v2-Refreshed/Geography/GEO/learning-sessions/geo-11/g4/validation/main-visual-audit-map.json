@@ -1,0 +1,2070 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-11\\g4\\geography-11_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-11\\g4\\geography-11_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "geography-11",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Islands and Coral Reefs / India Islands-Great Nicobar - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 418.024
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 189.022
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 53,
+      "markdown_body_line_end": 53,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-11\\g4\\assets\\geography-11_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 357.891
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 50.356
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 67,
+      "markdown_body_line_end": 67,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Island origin classes must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 634.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 568.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 82,
+      "markdown_body_line_end": 89,
+      "heading": "VISUAL FIRST",
+      "preview": "ISLAND ORIGIN CLASSES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 387.624
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 316.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 118,
+      "markdown_body_line_end": 125,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 636.223
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 137,
+      "markdown_body_line_end": 137,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Volcanic and coral island formation must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 501.223
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 434.555
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 151,
+      "markdown_body_line_end": 158,
+      "heading": "VISUAL FIRST",
+      "preview": "VOLCANIC AND CORAL ISLAND FORMATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 187,
+      "markdown_body_line_end": 194,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 390.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 293.023
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 206,
+      "markdown_body_line_end": 206,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Coral polyp and reef metabolism must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 172.223
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 105.555
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 220,
+      "markdown_body_line_end": 224,
+      "heading": "VISUAL FIRST",
+      "preview": "CORAL POLYP AND REEF METABOLISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 696.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 655.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 252,
+      "markdown_body_line_end": 259,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 375.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 285.973
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 271,
+      "markdown_body_line_end": 271,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Coral growth conditions must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 165.173
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 98.505
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 285,
+      "markdown_body_line_end": 289,
+      "heading": "VISUAL FIRST",
+      "preview": "CORAL GROWTH CONDITIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 696.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 655.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 317,
+      "markdown_body_line_end": 324,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 375.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 285.973
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 336,
+      "markdown_body_line_end": 336,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Fringing reef anatomy must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 165.173
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 98.505
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 351,
+      "markdown_body_line_end": 355,
+      "heading": "VISUAL FIRST",
+      "preview": "FRINGING REEF ANATOMY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 679.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 638.091
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 383,
+      "markdown_body_line_end": 390,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 358.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 268.773
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 402,
+      "markdown_body_line_end": 402,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Barrier reef anatomy must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 147.973
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 81.305
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 417,
+      "markdown_body_line_end": 421,
+      "heading": "VISUAL FIRST",
+      "preview": "BARRIER REEF ANATOMY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 661.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 449,
+      "markdown_body_line_end": 456,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 340.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 251.573
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 468,
+      "markdown_body_line_end": 468,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Atoll and lagoon must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 130.773
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 64.105
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 483,
+      "markdown_body_line_end": 487,
+      "heading": "VISUAL FIRST",
+      "preview": "ATOLL AND LAGOON",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 515,
+      "markdown_body_line_end": 522,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 307.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 227.873
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 534,
+      "markdown_body_line_end": 534,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Darwin and Daly models must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 549,
+      "markdown_body_line_end": 556,
+      "heading": "VISUAL FIRST",
+      "preview": "DARWIN AND DALY MODELS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 491.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 585,
+      "markdown_body_line_end": 592,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 151.224
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 53.555
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 604,
+      "markdown_body_line_end": 604,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Bleaching, mortality and recovery must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 619,
+      "markdown_body_line_end": 623,
+      "heading": "VISUAL FIRST",
+      "preview": "BLEACHING, MORTALITY AND RECOVERY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 651,
+      "markdown_body_line_end": 658,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 125.224
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 670,
+      "markdown_body_line_end": 670,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Reef ecosystem services and limits must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 649.523
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 582.855
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 685,
+      "markdown_body_line_end": 689,
+      "heading": "VISUAL FIRST",
+      "preview": "REEF ECOSYSTEM SERVICES AND LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 402.255
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 361.255
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 717,
+      "markdown_body_line_end": 724,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 81.255
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 735.273
+        }
+      },
+      "pdf_pages": [
+        18,
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 736,
+      "markdown_body_line_end": 736,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Andaman-Nicobar tectonic arc must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 614.473
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 547.805
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 751,
+      "markdown_body_line_end": 755,
+      "heading": "VISUAL FIRST",
+      "preview": "ANDAMAN-NICOBAR TECTONIC ARC",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 367.205
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 326.205
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 783,
+      "markdown_body_line_end": 790,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 46.205
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 713.973
+        }
+      },
+      "pdf_pages": [
+        19,
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 802,
+      "markdown_body_line_end": 802,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Lakshadweep coral system must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 578.973
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 512.305
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 815,
+      "markdown_body_line_end": 822,
+      "heading": "VISUAL FIRST",
+      "preview": "LAKSHADWEEP CORAL SYSTEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 366.105
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 295.105
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 851,
+      "markdown_body_line_end": 858,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 636.223
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 870,
+      "markdown_body_line_end": 870,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Great Nicobar biosphere value must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 501.223
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 434.555
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 884,
+      "markdown_body_line_end": 888,
+      "heading": "VISUAL FIRST",
+      "preview": "GREAT NICOBAR BIOSPHERE VALUE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 916,
+      "markdown_body_line_end": 923,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 466.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 376.973
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 935,
+      "markdown_body_line_end": 935,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Project components and approval status must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 227.773
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 161.105
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 950,
+      "markdown_body_line_end": 957,
+      "heading": "VISUAL FIRST",
+      "preview": "PROJECT COMPONENTS AND APPROVAL STATUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 676.891
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 986,
+      "markdown_body_line_end": 993,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 308.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 202.673
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1005,
+      "markdown_body_line_end": 1005,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "PYQ reef route and island appraisal must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1019,
+      "markdown_body_line_end": 1023,
+      "heading": "VISUAL FIRST",
+      "preview": "PYQ REEF ROUTE AND ISLAND APPRAISAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 579.224
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 538.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1051,
+      "markdown_body_line_end": 1058,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 244.024
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 154.705
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1062,
+      "markdown_body_line_end": 1065,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*. ✅ = from source book · ⚠️ = inference ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 154.705
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 59.637
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1071,
+      "markdown_body_line_end": 1075,
+      "heading": "1. Islands: basic classification",
+      "preview": "Island type | Origin | Examples from notes",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Island type",
+          "Origin",
+          "Examples from notes"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 739.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 640.29
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1081,
+      "markdown_body_line_end": 1087,
+      "heading": "2. Conditions for coral growth",
+      "preview": "Requirement | UPSC meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Requirement",
+          "UPSC meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 570.69
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 440.088
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1089,
+      "markdown_body_line_end": 1089,
+      "heading": "2. Conditions for coral growth",
+      "preview": "🔑 Trap: Coral reefs are not deep-sea features; they are warm, shallow, clear-water tropical landforms.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 440.088
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 409.62
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1093,
+      "markdown_body_line_end": 1097,
+      "heading": "3. Reef types and Darwin's sequence",
+      "preview": "Reef type | Position/form | Recognition point",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Reef type",
+          "Position/form",
+          "Recognition point"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 387.62
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 288.219
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1153,
+      "markdown_body_line_end": 1155,
+      "heading": "9. Two distinct threats: warming-driven bleaching and ocean acidification",
+      "preview": "**Why this section exists:** the file taught bleaching but not **acidification**, and the two are routinely conflated. They have different chemistry, different timescales and different consequences, and a question that asks to distinguish t",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 308.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 227.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1157,
+      "markdown_body_line_end": 1165,
+      "heading": "9. Two distinct threats: warming-driven bleaching and ocean acidification",
+      "preview": " | **Coral bleaching** | **Ocean acidification**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "",
+          "**Coral bleaching**",
+          "**Ocean acidification**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 484.69
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1176,
+      "markdown_body_line_end": 1178,
+      "heading": "9. Two distinct threats: warming-driven bleaching and ocean acidification",
+      "preview": "🔑 **Trap:** a bleached coral is **not** a dead coral. It has lost its symbionts and is starving; recovery is possible if the thermal stress ends. Mortality follows only if the stress persists or recurs before recovery.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 369.29
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 324.622
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1180,
+      "markdown_body_line_end": 1182,
+      "heading": "9. Two distinct threats: warming-driven bleaching and ocean acidification",
+      "preview": "⚠️ **Factual caution:** do not quote a pH value, a percentage of reefs lost, a species count or a bleaching-event date from memory. Where the file already carries a dated NOAA-attributed bleaching event, retain that attribution rather than ",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 324.622
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 265.754
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1200,
+      "markdown_body_line_end": 1205,
+      "heading": "10.1 Directive decoding for this topic",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 768.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 546.89
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1225,
+      "markdown_body_line_end": 1230,
+      "heading": "10.3 Evidence units available in this file",
+      "preview": "**Claim:** coral reefs are a coastal-protection asset, not only an ecological one. **Evidence:** a reef crest dissipates wave energy before it reaches the shore, which is why reef-fringed coasts and the islands behind them experience attenu",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 294.29
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 185.022
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1232,
+      "markdown_body_line_end": 1236,
+      "heading": "10.3 Evidence units available in this file",
+      "preview": "**Claim:** an island can be threatened by chemistry as much as by water level. **Evidence:** low reef islands are built from carbonate produced by the living reef, and their freshwater is a thin lens vulnerable to overwash and abstraction. ",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 185.022
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 111.954
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1242,
+      "markdown_body_line_end": 1244,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** Th",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1250,
+      "markdown_body_line_end": 1253,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 662.624
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 513.722
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1260,
+      "markdown_body_line_end": 1260,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 457.322
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 412.654
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2119,
+      "markdown_body_line_end": 2121,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** Th",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 297.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 202.224
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2127,
+      "markdown_body_line_end": 2130,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 654.39
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2137,
+      "markdown_body_line_end": 2137,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 597.99
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 553.322
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2419,
+      "markdown_body_line_end": 2422,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I & GS-III **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain + verified CA. ✅ = from source book · ⚠️ = inference / standard knowl",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 721.424
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2428,
+      "markdown_body_line_end": 2428,
+      "heading": "1. Island groups of India",
+      "preview": "🔑 Trap: Do not treat all Indian islands as coral. Andaman, Nicobar and Lakshadweep have different origins.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 651.824
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 621.356
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2432,
+      "markdown_body_line_end": 2439,
+      "heading": "2. Origin and key facts",
+      "preview": "Group / island | Sea | Origin / note",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Group / island",
+          "Sea",
+          "Origin / note"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 599.356
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 402.754
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2512,
+      "markdown_body_line_end": 2525,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Island-origin tree",
+      "preview": "CONTINENTAL -> crust or shelf affinity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 653.891
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2529,
+      "markdown_body_line_end": 2534,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Reef-building engine",
+      "preview": "POLYP -> calcium-carbonate skeleton",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 580.091
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2538,
+      "markdown_body_line_end": 2543,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Reef-type cross-section",
+      "preview": "FRINGING -> shore contact + narrow lagoon",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 558.091
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 506.291
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2547,
+      "markdown_body_line_end": 2552,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Darwin sequence",
+      "preview": "VOLCANIC ISLAND + FRINGING REEF",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 484.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 432.491
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2556,
+      "markdown_body_line_end": 2561,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Daly qualification",
+      "preview": "GLACIAL SEA-LEVEL FALL -> exposed platform",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 410.491
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 358.691
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2565,
+      "markdown_body_line_end": 2570,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Bleaching outcome fork",
+      "preview": "THERMAL / LIGHT / POLLUTION STRESS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 336.691
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 284.891
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2574,
+      "markdown_body_line_end": 2579,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Reef-service chain",
+      "preview": "REEF COMPLEXITY -> habitat + fisheries",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2583,
+      "markdown_body_line_end": 2588,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: India island contrast",
+      "preview": "A&N -> tectonic arc, high relief, seismic setting",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2592,
+      "markdown_body_line_end": 2597,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Great Nicobar value map",
+      "preview": "TECTONIC ISLAND -> earthquake-tsunami exposure",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2601,
+      "markdown_body_line_end": 2614,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Project-status firewall",
+      "preview": "PROPOSAL -> port + airport + township + power",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 12,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 432.491
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2618,
+      "markdown_body_line_end": 2629,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Island appraisal gate",
+      "preview": "NEED -> strategic and economic rationale",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 410.491
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 297.491
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2633,
+      "markdown_body_line_end": 2638,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Island answer spine",
+      "preview": "CLASSIFY -> origin and reef type",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    }
+  ]
+}

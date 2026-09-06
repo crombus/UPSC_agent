@@ -1,0 +1,2117 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-14\\g4\\environment-and-ecology-14_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-14\\g4\\environment-and-ecology-14_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "environment-and-ecology-14",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Water Pollution and River Cleaning Missions - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-06. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 30,
+      "markdown_body_line_end": 42,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 415.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 82,
+      "markdown_body_line_end": 82,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Point sources non-point sources and pathways must be read through Point and non-point sources and Water-quality and effluent boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 325.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 244.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 97,
+      "markdown_body_line_end": 104,
+      "heading": "VISUAL FIRST",
+      "preview": "POINT SOURCES NON-POINT SOURCES AND PATHWAYS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 133,
+      "markdown_body_line_end": 140,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 362.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 256.273
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 152,
+      "markdown_body_line_end": 152,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Receiving-water quality and effluent standards must be read through Water class and discharge boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 102.273
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 801.024
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 167,
+      "markdown_body_line_end": 171,
+      "heading": "VISUAL FIRST",
+      "preview": "RECEIVING-WATER QUALITY AND EFFLUENT STANDARDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 620.424
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 206,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 271.024
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 173.355
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 218,
+      "markdown_body_line_end": 218,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Water-use classes indicators units and sampling must be read through BOD and DO relation, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 233,
+      "markdown_body_line_end": 237,
+      "heading": "VISUAL FIRST",
+      "preview": "WATER-USE CLASSES INDICATORS UNITS AND SAMPLING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 265,
+      "markdown_body_line_end": 272,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 63.624
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 726.923
+        }
+      },
+      "pdf_pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 284,
+      "markdown_body_line_end": 284,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "BOD DO and faecal contamination must be read through Faecal-indicator boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 591.923
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 525.255
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 299,
+      "markdown_body_line_end": 303,
+      "heading": "VISUAL FIRST",
+      "preview": "BOD DO AND FAECAL CONTAMINATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 344.655
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 303.655
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 331,
+      "markdown_body_line_end": 338,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 636.223
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 350,
+      "markdown_body_line_end": 350,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Eutrophication and nutrient loading must be read through Eutrophication chain, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 501.223
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 434.555
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 365,
+      "markdown_body_line_end": 369,
+      "heading": "VISUAL FIRST",
+      "preview": "EUTROPHICATION AND NUTRIENT LOADING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 397,
+      "markdown_body_line_end": 404,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 437.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 340.223
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 416,
+      "markdown_body_line_end": 416,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Water Act CPCB and SPCB architecture must be read through Water Act institution layer and CTE and CTO boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 205.223
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 138.555
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 431,
+      "markdown_body_line_end": 438,
+      "heading": "VISUAL FIRST",
+      "preview": "WATER ACT CPCB AND SPCB ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 642.491
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 467,
+      "markdown_body_line_end": 474,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 274.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 168.273
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 486,
+      "markdown_body_line_end": 486,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "CTE CTO and prior-clearance boundary must be read through Sewage quantity chain, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 501,
+      "markdown_body_line_end": 505,
+      "heading": "VISUAL FIRST",
+      "preview": "CTE CTO AND PRIOR-CLEARANCE BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 533,
+      "markdown_body_line_end": 540,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 82.624
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 726.923
+        }
+      },
+      "pdf_pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 552,
+      "markdown_body_line_end": 552,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sewage generation sewering and treatment chain must be read through Capacity and utilisation, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 572.923
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 506.255
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 567,
+      "markdown_body_line_end": 571,
+      "heading": "VISUAL FIRST",
+      "preview": "SEWAGE GENERATION SEWERING AND TREATMENT CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 325.655
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 284.655
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 599,
+      "markdown_body_line_end": 606,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 636.223
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 618,
+      "markdown_body_line_end": 618,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Installed capacity operation and utilisation must be read through Municipal and industrial streams, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 501.223
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 434.555
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 633,
+      "markdown_body_line_end": 637,
+      "heading": "VISUAL FIRST",
+      "preview": "INSTALLED CAPACITY OPERATION AND UTILISATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 665,
+      "markdown_body_line_end": 672,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 437.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 340.223
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 684,
+      "markdown_body_line_end": 684,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Municipal sewage and industrial effluent must be read through STP ETP and CETP, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 205.223
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 138.555
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 699,
+      "markdown_body_line_end": 703,
+      "heading": "VISUAL FIRST",
+      "preview": "MUNICIPAL SEWAGE AND INDUSTRIAL EFFLUENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 672.491
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 731,
+      "markdown_body_line_end": 738,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 364.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 266.423
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 750,
+      "markdown_body_line_end": 750,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "STP ETP and CETP treatment roles must be read through Regulation and mission boundary and NMCG institutional boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 131.423
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 64.755
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 765,
+      "markdown_body_line_end": 772,
+      "heading": "VISUAL FIRST",
+      "preview": "STP ETP AND CETP TREATMENT ROLES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 557.691
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 801,
+      "markdown_body_line_end": 808,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 189.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 83.473
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 820,
+      "markdown_body_line_end": 820,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Regulation river missions and NMCG must be read through Namami Gange component boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 835,
+      "markdown_body_line_end": 839,
+      "heading": "VISUAL FIRST",
+      "preview": "REGULATION RIVER MISSIONS AND NMCG",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 867,
+      "markdown_body_line_end": 874,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 82.624
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 726.923
+        }
+      },
+      "pdf_pages": [
+        22,
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 886,
+      "markdown_body_line_end": 886,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Namami Gange components and NRCP scope must be read through NRCP and river scope, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 572.923
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 506.255
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 901,
+      "markdown_body_line_end": 905,
+      "heading": "VISUAL FIRST",
+      "preview": "NAMAMI GANGE COMPONENTS AND NRCP SCOPE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 325.655
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 284.655
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 933,
+      "markdown_body_line_end": 940,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 636.223
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 952,
+      "markdown_body_line_end": 952,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Inputs outputs outcomes stretch and season must be read through Input output outcome chain and Stretch season indicator, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 482.223
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 415.555
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 967,
+      "markdown_body_line_end": 974,
+      "heading": "VISUAL FIRST",
+      "preview": "INPUTS OUTPUTS OUTCOMES STRETCH AND SEASON",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1010,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 362.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 256.273
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1022,
+      "markdown_body_line_end": 1022,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Evidence-safe exam synthesis must be read through Dilution and ecological flow and Audited evidence boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 121.273
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 54.605
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1037,
+      "markdown_body_line_end": 1044,
+      "heading": "VISUAL FIRST",
+      "preview": "EVIDENCE-SAFE EXAM SYNTHESIS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 557.691
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1073,
+      "markdown_body_line_end": 1080,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 175.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 69.273
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1084,
+      "markdown_body_line_end": 1088,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Environment and Ecology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III (Environment) + Prelims. **Core area:** Water-quality regulation and river-restoration governance. **Grounded in:** Water (Prevention and Control o",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 683.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1092,
+      "markdown_body_line_end": 1101,
+      "heading": "1. Visual foundation",
+      "preview": "WATER POLLUTION SOURCES              KEY QUALITY INDICATORS              GOVERNANCE RESPONSE",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 661.824
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 570.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1111,
+      "markdown_body_line_end": 1122,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 10,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 237.09
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1263,
+      "markdown_body_line_end": 1263,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Treat general water-pollution law (Water Act, 1974/CPCB-SPCB consent mechanism) and dedicated river-specific missions (Namami Gange) as complementary layers, and judge river-cleaning success by sustained sewage-treatment ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 575.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 517.024
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1287,
+      "markdown_body_line_end": 1289,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:*",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 242.424
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 133.156
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1295,
+      "markdown_body_line_end": 1301,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 5,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 487.89
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1311,
+      "markdown_body_line_end": 1311,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 379.89
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 335.222
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1320,
+      "markdown_body_line_end": 1324,
+      "heading": "13.1 Direct demand A - industrial river pollution (2024 GS-III, 10 marks)",
+      "preview": "Claim | Named evidence/example → significance | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Claim",
+          "Named evidence/example → significance",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 246.622
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 46.42
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1330,
+      "markdown_body_line_end": 1334,
+      "heading": "13.2 Direct demand B - three freshwater technologies (2024 GS-III, 15 marks)",
+      "preview": "Technology | Mechanism and merit | Demerit/condition",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Technology",
+          "Mechanism and merit",
+          "Demerit/condition"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 738.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 549.69
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1352,
+      "markdown_body_line_end": 1354,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 325.29
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 244.422
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1360,
+      "markdown_body_line_end": 1363,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 192.822
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 54.42
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1370,
+      "markdown_body_line_end": 1370,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 708.224
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2256,
+      "markdown_body_line_end": 2258,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:*",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 148.891
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 39.624
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2264,
+      "markdown_body_line_end": 2270,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 5,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 751.691
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 436.29
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2280,
+      "markdown_body_line_end": 2280,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 328.29
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 283.622
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2285,
+      "markdown_body_line_end": 2287,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 283.622
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 202.754
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2293,
+      "markdown_body_line_end": 2296,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 664.89
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2303,
+      "markdown_body_line_end": 2303,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 608.49
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 563.822
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2558,
+      "markdown_body_line_end": 2562,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Environment) + Prelims. **Core area:** Water-quality regulation and river-restoration governance. **Grounded in:** Water (Prevention and Control of Pollution)",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 599.091
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 497.624
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2578,
+      "markdown_body_line_end": 2583,
+      "heading": "2. Namami Gange's institutional architecture and its \"infrastructure-first\" logic",
+      "preview": "Component | Function | Analytical significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Component",
+          "Function",
+          "Analytical significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 354.224
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 76.822
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2633,
+      "markdown_body_line_end": 2637,
+      "heading": "6. Recurring UPSC analytical tensions",
+      "preview": "Tension | Balanced framing",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Tension",
+          "Balanced framing"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 298.891
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 121.09
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2670,
+      "markdown_body_line_end": 2674,
+      "heading": "9. CURRENT: Current anchor - analytical use",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 471.891
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 260.49
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2780,
+      "markdown_body_line_end": 2788,
+      "heading": "Water Pollution and River Cleaning Missions: RIVER-CLEANING GOVERNANCE ANSWER SPINE",
+      "preview": "IDENTIFY POINT OR NON-POINT SOURCE AND RECEIVING WATER",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 675.091
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 594.091
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2798,
+      "markdown_body_line_end": 2805,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Source-pathway map",
+      "preview": "POINT SOURCE -> identifiable pipe, drain or outfall",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 460.491
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 388.291
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2809,
+      "markdown_body_line_end": 2815,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Standard firewall",
+      "preview": "EFFLUENT STANDARD -> controls discharge from a source",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 81,
+          "frame_y": 366.291
+        },
+        "end": {
+          "page": 81,
+          "frame_y": 304.291
+        }
+      },
+      "pdf_pages": [
+        81
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2819,
+      "markdown_body_line_end": 2825,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Organic-pollution diagnostic",
+      "preview": "ORGANIC LOAD -> microbial decomposition",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2829,
+      "markdown_body_line_end": 2835,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Eutrophication chain",
+      "preview": "NUTRIENT INPUT -> nitrogen or phosphorus enrichment",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2839,
+      "markdown_body_line_end": 2845,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Institution and approval ladder",
+      "preview": "WATER ACT -> statutory pollution-control framework",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2849,
+      "markdown_body_line_end": 2856,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Sewage quantity ledger",
+      "preview": "GENERATED -> total wastewater produced",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 463.091
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2860,
+      "markdown_body_line_end": 2866,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Treatment-plant matrix",
+      "preview": "STP -> municipal or domestic sewage",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 379.091
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2870,
+      "markdown_body_line_end": 2876,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Regulator-mission firewall",
+      "preview": "CPCB OR SPCB -> statutory pollution-control role",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 357.091
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 295.091
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2880,
+      "markdown_body_line_end": 2886,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: River-mission component wheel",
+      "preview": "SEWAGE INFRASTRUCTURE -> intercept and treat flow",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2890,
+      "markdown_body_line_end": 2896,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Programme-scope gate",
+      "preview": "GANGA QUESTION -> use notified Ganga architecture",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2900,
+      "markdown_body_line_end": 2906,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Performance and evidence chain",
+      "preview": "OUTLAY OR SANCTION -> input",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2910,
+      "markdown_body_line_end": 2917,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Water answer spine",
+      "preview": "DIAGNOSE -> source, pathway and pollutant",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 463.091
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    }
+  ]
+}

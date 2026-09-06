@@ -1,0 +1,97 @@
+ASCII MASTER FLOW — PANEL 1/12: Migration concept firewall
+MIGRATION -> change in usual residence across a meaningful boundary
+IMMIGRATION -> movement into a country or receiving region
+EMIGRATION -> movement out of a country or sending region
+DATA RULE -> place of birth and last usual residence answer different questions
+MUST REMEMBER: Migration analysis joins Ravenstein's regularities, Lee's
+  push-pull-intervening-obstacle framework, gravity and distance-decay, Zelinsky's mobility
+  transition, Harris-Todaro expected-income logic, network/cumulative causation and segmented
+  labour demand to India's marriage, work, education, distress and circulation streams.
+MUST REMEMBER: Migration analysis joins Ravenstein's regularities, Lee's
+  push-pull-intervening-obstacle framework, gravity and distance-decay, Zelinsky's mobility
+  transition, Harris-Todaro expected-income logic, network/cumulative causation and segmented
+  labour demand to India's marriage, work, education, distress and circulation streams.
+
+ASCII MASTER FLOW — PANEL 2/12: Push-pull-obstacle model
+ORIGIN PUSH -> job loss, conflict, debt, disaster, social pressure
+DESTINATION PULL -> wages, safety, education, amenities, networks
+INTERVENING OBSTACLES -> distance, cost, borders, information gaps
+SELECTIVITY -> age, gender, class and skills shape who actually moves
+
+ASCII MASTER FLOW — PANEL 3/12: Ravenstein law strip
+MOST MOVES -> short distance rather than very long distance
+STEP MIGRATION -> village to town to city to metropolis
+COUNTER-STREAM -> each major flow generates some reverse movement
+LIMIT -> use as an analytical guide, not as an absolute rule
+
+ASCII MASTER FLOW — PANEL 4/12: Distance-decay and step migration
+DISTANCE RISES -> cost, uncertainty and social risk rise
+OPPORTUNITY NODES -> nearer towns intercept part of the flow
+NETWORKS -> reduce cost and keep corridors alive
+RESULT -> many migrants move in stages rather than one leap
+
+ASCII MASTER FLOW — PANEL 5/12: Migration stream matrix
+RURAL-RURAL -> marriage, local farm labour, nearby relocation
+RURAL-URBAN -> labour, services, education, construction
+URBAN-URBAN -> professional, business and higher-education mobility
+URBAN-RURAL -> return migration, retirement or peri-urban spillover
+
+ASCII MASTER FLOW — PANEL 6/12: Source-destination balance sheet
+SOURCE -> reduced pressure, remittances, but loss of young workers
+DESTINATION -> labour gain, market expansion, but service pressure
+AGE-SEX EFFECT -> selective migration alters both ends differently
+VERDICT -> migration redistributes both opportunity and vulnerability
+
+ASCII MASTER FLOW — PANEL 7/12: India official snapshot
+ALL-INDIA RATE -> 28.9% in MoSPI Migration in India 2020-21
+RURAL RATE -> 26.5% | URBAN RATE -> 34.9%
+INTRASTATE -> 87.5% | INTERSTATE -> 12.5%
+RULE -> label the source-year before using any percentage
+
+ASCII MASTER FLOW — PANEL 8/12: Marriage migration dominance
+FEMALE MIGRANTS DUE TO MARRIAGE -> 86.8% in MoSPI 2020-21
+ANALYTICAL RESULT -> raw migration totals are not equal to labour migration
+RURAL-RURAL STREAM -> remains large because marriage mobility is large
+EXAM USE -> separate social migration from labour migration explicitly
+
+ASCII MASTER FLOW — PANEL 9/12: India corridor map
+SENDING BELTS -> Bihar, Uttar Pradesh, Odisha and east-central regions
+GAINER ZONES -> Maharashtra, Gujarat, Delhi, Haryana and Punjab
+CURRENT LOGIC -> labour moves toward industrial, farm and service corridors
+QUALIFIER -> the same corridor may mix opportunity and distress migration
+
+ASCII MASTER FLOW — PANEL 10/12: Circular migration and undercount
+SEASONAL MOVEMENT -> brick kilns, harvesting, construction, informal work
+USUAL-RESIDENCE DATA -> can miss repeated short-duration mobility
+POLICY EFFECT -> portability of welfare becomes a major issue
+CITY EFFECT -> rental insecurity and service pressure stay concentrated
+CLOSE DISTINCTION: Migrant stock differs from flow, lifetime from last-residence migration,
+  internal from international movement, seasonal/circular from permanent relocation, and
+  Census reason-for-migration categories from causal explanation; women recorded under
+  marriage can also be workers, so one response category must not erase economic agency.
+CLOSE DISTINCTION: Migrant stock differs from flow, lifetime from last-residence migration,
+  internal from international movement, seasonal/circular from permanent relocation, and
+  Census reason-for-migration categories from causal explanation; women recorded under
+  marriage can also be workers, so one response category must not erase economic agency.
+
+ASCII MASTER FLOW — PANEL 11/12: Large-city attraction logic
+DIVERSE JOB SET -> big cities offer multiple labour-market entry points
+NETWORKS -> earlier migrants lower cost and risk for later migrants
+TRANSPORT + SERVICES -> large nodes compress search costs
+COUNTERPOINT -> some nearer towns intercept flows as opportunities expand
+EVIDENCE LIMIT: India patterns require Bihar–Uttar Pradesh source belts,
+  Delhi–NCR/Mumbai/Surat/Bengaluru destinations, Kerala–Gulf corridors, tribal and
+  drought-prone seasonal streams, remittances and care/skill loss; Census 2011 is the latest
+  completed census baseline as of the review date, while surveys and administrative records
+  are partial.
+EVIDENCE LIMIT: India patterns require Bihar–Uttar Pradesh source belts,
+  Delhi–NCR/Mumbai/Surat/Bengaluru destinations, Kerala–Gulf corridors, tribal and
+  drought-prone seasonal streams, remittances and care/skill loss; Census 2011 is the latest
+  completed census baseline as of the review date, while surveys and administrative records
+  are partial.
+
+ASCII MASTER FLOW — PANEL 12/12: Migration answer spine
+DEFINE -> residence rule, stream type and whether migration is internal or international
+EXPLAIN -> push, pull, obstacles, distance-decay and step migration
+MAP -> marriage-heavy rural-rural and labour-heavy corridor movements in India
+QUALIFY -> intrastate dominance, remittances, undercount and verified PYQ routing

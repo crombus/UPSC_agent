@@ -1,0 +1,1945 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g4\\geography-18_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g4\\geography-18_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "geography-18",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Hot and MidLatitude Desert Climate - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 403.824
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 174.822
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 53,
+      "markdown_body_line_end": 53,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-18\\g4\\assets\\geography-18_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 400.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 92.956
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 67,
+      "markdown_body_line_end": 67,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Aridity, not heat must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 82,
+      "markdown_body_line_end": 86,
+      "heading": "VISUAL FIRST",
+      "preview": "ARIDITY, NOT HEAT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 114,
+      "markdown_body_line_end": 121,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 111.024
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 779.823
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 133,
+      "markdown_body_line_end": 133,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Hot and mid-latitude desert map must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 644.823
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 578.155
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 148,
+      "markdown_body_line_end": 152,
+      "heading": "VISUAL FIRST",
+      "preview": "HOT AND MID-LATITUDE DESERT MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 397.555
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 356.555
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 187,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 76.555
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 735.273
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 199,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Subtropical subsidence must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 614.473
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 547.805
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 214,
+      "markdown_body_line_end": 218,
+      "heading": "VISUAL FIRST",
+      "preview": "SUBTROPICAL SUBSIDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 367.205
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 326.205
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 246,
+      "markdown_body_line_end": 253,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 46.205
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 713.973
+        }
+      },
+      "pdf_pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 265,
+      "markdown_body_line_end": 265,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Offshore winds and cold currents must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 578.973
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 512.305
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 280,
+      "markdown_body_line_end": 287,
+      "heading": "VISUAL FIRST",
+      "preview": "OFFSHORE WINDS AND COLD CURRENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 331.705
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 260.705
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 316,
+      "markdown_body_line_end": 323,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 644.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 546.623
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 335,
+      "markdown_body_line_end": 335,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Continentality and rain shadow must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 411.623
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 344.955
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 349,
+      "markdown_body_line_end": 356,
+      "heading": "VISUAL FIRST",
+      "preview": "CONTINENTALITY AND RAIN SHADOW",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 385,
+      "markdown_body_line_end": 392,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 376.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 278.823
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 404,
+      "markdown_body_line_end": 404,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rainfall and temperature regimes must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 143.823
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 77.155
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 419,
+      "markdown_body_line_end": 426,
+      "heading": "VISUAL FIRST",
+      "preview": "RAINFALL AND TEMPERATURE REGIMES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 661.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 590.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 455,
+      "markdown_body_line_end": 462,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 251.091
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 153.423
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 474,
+      "markdown_body_line_end": 474,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Flash floods and wadis must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 488,
+      "markdown_body_line_end": 492,
+      "heading": "VISUAL FIRST",
+      "preview": "FLASH FLOODS AND WADIS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 463.424
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 422.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 520,
+      "markdown_body_line_end": 527,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 142.424
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 53.105
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 539,
+      "markdown_body_line_end": 539,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Xerophytes and oasis ecology must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 554,
+      "markdown_body_line_end": 561,
+      "heading": "VISUAL FIRST",
+      "preview": "XEROPHYTES AND OASIS ECOLOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 590,
+      "markdown_body_line_end": 597,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 705.623
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 609,
+      "markdown_body_line_end": 609,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Desert societies and water must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 584.823
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 518.155
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 623,
+      "markdown_body_line_end": 627,
+      "heading": "VISUAL FIRST",
+      "preview": "DESERT SOCIETIES AND WATER",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 354.755
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 313.755
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 655,
+      "markdown_body_line_end": 662,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 697.973
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 674,
+      "markdown_body_line_end": 674,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Thar location and gradient must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 577.173
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 510.505
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 689,
+      "markdown_body_line_end": 693,
+      "heading": "VISUAL FIRST",
+      "preview": "THAR LOCATION AND GRADIENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 329.905
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 288.905
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 721,
+      "markdown_body_line_end": 728,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 767.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 677.773
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 740,
+      "markdown_body_line_end": 740,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Why the Thar is arid must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 556.973
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 490.305
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 755,
+      "markdown_body_line_end": 759,
+      "heading": "VISUAL FIRST",
+      "preview": "WHY THE THAR IS ARID",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 309.705
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 268.705
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 787,
+      "markdown_body_line_end": 794,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 644.573
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 806,
+      "markdown_body_line_end": 806,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Thar landforms and drainage must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 523.773
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 457.105
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 821,
+      "markdown_body_line_end": 825,
+      "heading": "VISUAL FIRST",
+      "preview": "THAR LANDFORMS AND DRAINAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 853,
+      "markdown_body_line_end": 860,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 466.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 376.973
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 872,
+      "markdown_body_line_end": 872,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Water harvesting and canal change must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 241.973
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 175.305
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 887,
+      "markdown_body_line_end": 891,
+      "heading": "VISUAL FIRST",
+      "preview": "WATER HARVESTING AND CANAL CHANGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 706.891
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 919,
+      "markdown_body_line_end": 926,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 412.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 315.023
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 938,
+      "markdown_body_line_end": 938,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "GIB and renewable-energy planning must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 180.023
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 113.355
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 952,
+      "markdown_body_line_end": 956,
+      "heading": "VISUAL FIRST",
+      "preview": "GIB AND RENEWABLE-ENERGY PLANNING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 672.491
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 984,
+      "markdown_body_line_end": 991,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 364.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 266.423
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1003,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "UNCCD drought governance and PYQ boundary must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 112.423
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 45.755
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1018,
+      "markdown_body_line_end": 1025,
+      "heading": "VISUAL FIRST",
+      "preview": "UNCCD DROUGHT GOVERNANCE AND PYQ BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 557.691
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1061,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 161.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 63.423
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1065,
+      "markdown_body_line_end": 1068,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*. ✅ = from source book · ⚠️ = inference ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1076,
+      "markdown_body_line_end": 1079,
+      "heading": "1. What & Where (G.C. Leong)",
+      "preview": "Type | ✅ Examples | ✅ Main location",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Type",
+          "✅ Examples",
+          "✅ Main location"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 616.224
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 538.022
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1081,
+      "markdown_body_line_end": 1081,
+      "heading": "1. What & Where (G.C. Leong)",
+      "preview": "🔑 Trap: Deserts are defined by **aridity**, not by heat alone.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 538.022
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 507.554
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1089,
+      "markdown_body_line_end": 1095,
+      "heading": "2. Causes of Aridity",
+      "preview": "Aridity factor | ✅ Applies mainly to | Result",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Aridity factor",
+          "✅ Applies mainly to",
+          "Result"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 376.154
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 245.553
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1103,
+      "markdown_body_line_end": 1108,
+      "heading": "3. Temperature & Rainfall Regime",
+      "preview": "Feature | ✅ Hot desert | ✅ Mid-latitude desert",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Feature",
+          "✅ Hot desert",
+          "✅ Mid-latitude desert"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 693.89
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1110,
+      "markdown_body_line_end": 1110,
+      "heading": "3. Temperature & Rainfall Regime",
+      "preview": "🔑 Trap: Cold ocean currents increase aridity; they do **not** bring rainfall to coastal deserts.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 693.89
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 663.422
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1118,
+      "markdown_body_line_end": 1125,
+      "heading": "4. Vegetation & Human Life",
+      "preview": "Adaptation | ✅ Function",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Adaptation",
+          "✅ Function"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 560.422
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 408.62
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1164,
+      "markdown_body_line_end": 1169,
+      "heading": "9.1 Directive decoding",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 621.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 445.29
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1173,
+      "markdown_body_line_end": 1179,
+      "heading": "9.2 Hot and mid-latitude deserts compared",
+      "preview": "Axis | Hot / trade-wind desert | Mid-latitude / continental desert",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Axis",
+          "Hot / trade-wind desert",
+          "Mid-latitude / continental desert"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 423.29
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 259.088
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1181,
+      "markdown_body_line_end": 1183,
+      "heading": "9.2 Hot and mid-latitude deserts compared",
+      "preview": "🔑 **Trap:** the mid-latitude deserts are **cold in winter**. Describing the Gobi as a hot desert, or generalising \"desert\" to mean \"hot\", is a standard error. Detailed causation of aridity and the arid landform suite are in `07_Arid-Desert-",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 259.088
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 200.22
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1204,
+      "markdown_body_line_end": 1209,
+      "heading": "9.4 Evidence unit",
+      "preview": "**Claim:** aridity is a circulation outcome, not simply a rainfall statistic. **Evidence:** the great trade-wind deserts lie beneath the descending limb of the subtropical high, while the Atacama and Namib are cooled and stabilised by cold ",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 697.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 587.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2292,
+      "markdown_body_line_end": 2295,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain + verified CA. ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 722.691
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 649.624
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2301,
+      "markdown_body_line_end": 2309,
+      "heading": "1. Thar: India's Hot Desert",
+      "preview": "Parameter | ✅ Thar fact",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Parameter",
+          "✅ Thar fact"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 565.824
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 392.822
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2311,
+      "markdown_body_line_end": 2311,
+      "heading": "1. Thar: India's Hot Desert",
+      "preview": "🔑 Trap: The Thar is arid even though monsoon winds reach the region; rainfall remains low.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 392.822
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 362.354
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2320,
+      "markdown_body_line_end": 2325,
+      "heading": "2. Why the Thar is Arid",
+      "preview": "Cause | ✅ Effect",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Cause",
+          "✅ Effect"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 278.554
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 169.153
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2335,
+      "markdown_body_line_end": 2341,
+      "heading": "3. Landforms, Drainage & Ecology",
+      "preview": "Feature | ✅ Examples",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Feature",
+          "✅ Examples"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 672.69
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2390,
+      "markdown_body_line_end": 2401,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Desert identity test",
+      "preview": "MOISTURE DEFICIT -> desert criterion",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 733.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 620.291
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2405,
+      "markdown_body_line_end": 2410,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Aridity cause matrix",
+      "preview": "SUBSIDENCE -> stable descending air",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 598.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 546.491
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2414,
+      "markdown_body_line_end": 2419,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Cold-current coast",
+      "preview": "COLD WATER -> chilled marine boundary layer",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 524.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 472.691
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2423,
+      "markdown_body_line_end": 2428,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Temperature firewall",
+      "preview": "HOT DESERT -> very large day-night range",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 450.691
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 398.891
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2432,
+      "markdown_body_line_end": 2437,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Wadi flood chain",
+      "preview": "RARE INTENSE STORM -> high rain rate",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 376.891
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 325.091
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2441,
+      "markdown_body_line_end": 2446,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Plant-water adaptations",
+      "preview": "LEAF -> reduced, waxy or thorny",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 303.091
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 251.291
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2450,
+      "markdown_body_line_end": 2455,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Oasis and water strategy",
+      "preview": "AQUIFER / SPRING / EXOTIC RIVER -> source",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2459,
+      "markdown_body_line_end": 2464,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Thar aridity map",
+      "preview": "ARABIAN SEA BRANCH -> approaches north-west",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2468,
+      "markdown_body_line_end": 2473,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Thar landscape ledger",
+      "preview": "DUNES -> barchan, seif and sand sheets",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2477,
+      "markdown_body_line_end": 2488,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Transformation trade-off",
+      "preview": "TANKA / KHADIN / JOHAD -> local harvesting",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2492,
+      "markdown_body_line_end": 2503,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: UNCCD status gate",
+      "preview": "COP16 -> Riyadh, 2-13 December 2024",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 430.891
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 317.891
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2507,
+      "markdown_body_line_end": 2512,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Desert answer spine",
+      "preview": "DEFINE -> aridity and water balance",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    }
+  ]
+}

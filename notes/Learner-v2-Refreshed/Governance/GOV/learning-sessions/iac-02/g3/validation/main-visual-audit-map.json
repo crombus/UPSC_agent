@@ -1,0 +1,2214 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-02\\g3\\governance-02_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-02\\g3\\governance-02_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "governance-02",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Government Policy Design and Implementation - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-02. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 29,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 509.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-02\\g3\\assets\\governance-02_Teaching-Navigation_2026-09-02.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Locating failure on the policy cycle should be analysed as a relation among The policy cycle as a locating device and The implementation gap, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 298.956
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 232.288
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 85,
+      "heading": "VISUAL FIRST",
+      "preview": "LOCATING FAILURE ON THE POLICY CYCLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 131
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 114,
+      "markdown_body_line_end": 121,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 252.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 146.873
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 133,
+      "markdown_body_line_end": 133,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Clearance points and the complexity of joint action should be analysed as a relation among Clearance points and the complexity of joint action, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 148,
+      "markdown_body_line_end": 152,
+      "heading": "VISUAL FIRST",
+      "preview": "CLEARANCE POINTS AND THE COMPLEXITY OF JOINT ACTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 172
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 356.224
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 305.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 187,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 666.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 551.923
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 199,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Street-level bureaucracy should be analysed as a relation among Street-level bureaucracy, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 402.723
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 336.055
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 214,
+      "markdown_body_line_end": 218,
+      "heading": "VISUAL FIRST",
+      "preview": "STREET-LEVEL BUREAUCRACY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 127
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 246,
+      "markdown_body_line_end": 253,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 385.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 279.273
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 265,
+      "markdown_body_line_end": 265,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Coping routines and exclusion without corruption should be analysed as a relation among Coping routines and exclusion without an allegation of corruption, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 280,
+      "markdown_body_line_end": 284,
+      "heading": "VISUAL FIRST",
+      "preview": "COPING ROUTINES AND EXCLUSION WITHOUT CORRUPTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 167
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 482.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 312,
+      "markdown_body_line_end": 319,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 117.424
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 710.223
+        }
+      },
+      "pdf_pages": [
+        13,
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 331,
+      "markdown_body_line_end": 331,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Top-down and bottom-up readings should be analysed as a relation among Top-down and bottom-up readings of implementation, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 546.823
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 480.155
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 346,
+      "markdown_body_line_end": 350,
+      "heading": "VISUAL FIRST",
+      "preview": "TOP-DOWN AND BOTTOM-UP READINGS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 117
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 378,
+      "markdown_body_line_end": 385,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 385.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 279.273
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 397,
+      "markdown_body_line_end": 397,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Design realism against design ambition should be analysed as a relation among Design realism against design ambition, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 115.873
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 49.205
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 412,
+      "markdown_body_line_end": 416,
+      "heading": "VISUAL FIRST",
+      "preview": "DESIGN REALISM AGAINST DESIGN AMBITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 600.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 549.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 444,
+      "markdown_body_line_end": 451,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 226.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 120.673
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 463,
+      "markdown_body_line_end": 463,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Pre-legislative consultation and its statutory status should be analysed as a relation among The Pre-Legislative Consultation Policy of 2014, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 478,
+      "markdown_body_line_end": 482,
+      "heading": "VISUAL FIRST",
+      "preview": "PRE-LEGISLATIVE CONSULTATION AND ITS STATUTORY STATUS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 124
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 356.224
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 305.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 510,
+      "markdown_body_line_end": 517,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 713.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 607.673
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 529,
+      "markdown_body_line_end": 529,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Regulatory impact assessment as an emerging practice should be analysed as a relation among Regulatory impact assessment as an emerging practice, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 425.273
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 358.605
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 544,
+      "markdown_body_line_end": 548,
+      "heading": "VISUAL FIRST",
+      "preview": "REGULATORY IMPACT ASSESSMENT AS AN EMERGING PRACTICE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 102
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 576,
+      "markdown_body_line_end": 583,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 413.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 307.673
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 595,
+      "markdown_body_line_end": 595,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Convergence as clearance-point removal should be analysed as a relation among Convergence as clearance-point removal, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 144.273
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 77.605
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 610,
+      "markdown_body_line_end": 614,
+      "heading": "VISUAL FIRST",
+      "preview": "CONVERGENCE AS CLEARANCE-POINT REMOVAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 633.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 592.491
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 642,
+      "markdown_body_line_end": 649,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 227.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 121.273
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 661,
+      "markdown_body_line_end": 661,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Public Examinations Act, 2024 and its scope rule should be analysed as a relation among The Public Examinations Act, 2024 and its commencement and Authority-based coverage against territorial extent, not as a list of virtues attached to",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 617.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 536.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 676,
+      "markdown_body_line_end": 683,
+      "heading": "VISUAL FIRST",
+      "preview": "THE PUBLIC EXAMINATIONS ACT, 2024 AND ITS SCOPE RULE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 131
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 327.824
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 246.824
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 712,
+      "markdown_body_line_end": 719,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 448.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 334.523
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 731,
+      "markdown_body_line_end": 731,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The six-stage implementation map should be analysed as a relation among The six-stage implementation map, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 185.323
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 118.655
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 746,
+      "markdown_body_line_end": 750,
+      "heading": "VISUAL FIRST",
+      "preview": "THE SIX-STAGE IMPLEMENTATION MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 133
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 667.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 616.891
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 778,
+      "markdown_body_line_end": 785,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 194.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 88.873
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 797,
+      "markdown_body_line_end": 797,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Aspirational districts: convergence, collaboration, competition should be analysed as a relation among The Aspirational Districts Programme design and Delta ranking and the self-reported-data limit, not as a list of virtues attached to the ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 617.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 536.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 812,
+      "markdown_body_line_end": 819,
+      "heading": "VISUAL FIRST",
+      "preview": "ASPIRATIONAL DISTRICTS: CONVERGENCE, COLLABORATION, COMPETITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 118
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 327.824
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 246.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 848,
+      "markdown_body_line_end": 855,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 420.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 306.123
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 867,
+      "markdown_body_line_end": 867,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Contradictory sectoral policies and the environmental externality should be analysed as a relation among Policy contradiction as an externality problem, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 123.723
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 57.055
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 882,
+      "markdown_body_line_end": 886,
+      "heading": "VISUAL FIRST",
+      "preview": "CONTRADICTORY SECTORAL POLICIES AND THE ENVIRONMENTAL EXTERNALITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 132
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 600.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 549.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 914,
+      "markdown_body_line_end": 921,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 141.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        26,
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 933,
+      "markdown_body_line_end": 933,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "PM GatiShakti and public-private coordination should be analysed as a relation among PM GatiShakti as an information layer and Public-private partnership governance, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 573.723
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 507.055
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 948,
+      "markdown_body_line_end": 955,
+      "heading": "VISUAL FIRST",
+      "preview": "PM GATISHAKTI AND PUBLIC-PRIVATE COORDINATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 138
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 984,
+      "markdown_body_line_end": 991,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 153.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 39.123
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1003,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Targeting error and honest question ownership should be analysed as a relation among Targeting error and the universalism trade-off and Verified question ownership across two ledgers, not as a list of virtues attached to the word governance",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 617.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 536.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1018,
+      "markdown_body_line_end": 1025,
+      "heading": "VISUAL FIRST",
+      "preview": "TARGETING ERROR AND HONEST QUESTION OWNERSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 164
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 327.824
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 246.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1061,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 434.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 320.323
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1065,
+      "markdown_body_line_end": 1073,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Governance | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II. **Core area:** The policy cycle, the implementation gap, street-level bureaucracy, convergence and consultation. **Grounded in:** Official UPSC GS-II syllabus (",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 320.323
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 182.655
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1077,
+      "markdown_body_line_end": 1083,
+      "heading": "1. Visual foundation",
+      "preview": "AGENDA SETTING -> FORMULATION -> DECISION/ENACTMENT -> IMPLEMENTATION -> EVALUATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 160.655
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 99.655
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1092,
+      "markdown_body_line_end": 1099,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 400.29
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1212,
+      "markdown_body_line_end": 1215,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** A policy is not implemented merely because it is announced; it is implemented only when clearance points are minimised, street-level discretion is guided rather than left unchecked, and convergence replaces silos — failur",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 466.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 407.824
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1234,
+      "markdown_body_line_end": 1237,
+      "heading": "13. Answer architecture (10/15/20-mark support)",
+      "preview": "**Scope of this section.** Everything needed for a directive-sensitive, thesis-led GS-II answer on *policy design, the implementation gap and sectoral interventions* is held **in this file**, including the demands the older 2018–2023 ledger",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 195.824
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 114.956
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1322,
+      "markdown_body_line_end": 1330,
+      "heading": "13.0 Direct Mains demands owned by this Core file",
+      "preview": "PUBLIC PURPOSE + OUTPUT STANDARD",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 466.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 385.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1350,
+      "markdown_body_line_end": 1357,
+      "heading": "13.1 Demand map",
+      "preview": "Stem pattern | What is really being tested | Opening move that scores",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Stem pattern",
+          "What is really being tested",
+          "Opening move that scores"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 512.29
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1392,
+      "markdown_body_line_end": 1400,
+      "heading": "13.4 Evidence bank A - implementation theory with Indian application",
+      "preview": "Concept | Named source | Mechanism | Indian application | Limitation",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 7,
+        "headers": [
+          "Concept",
+          "Named source",
+          "Mechanism",
+          "Indian application",
+          "Limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 346.89
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1439,
+      "markdown_body_line_end": 1446,
+      "heading": "13.6 The six-stage implementation map (apply to any unfamiliar policy)",
+      "preview": "1 LEGAL AUTHORITY   Act / rule / guideline / executive scheme? Who is bound?",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 558.491
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1454,
+      "markdown_body_line_end": 1460,
+      "heading": "13.7 Targeting, error and trade-off bank",
+      "preview": "Trade-off | Statement that scores | Governance resolution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Trade-off",
+          "Statement that scores",
+          "Governance resolution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 493.891
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 228.89
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1512,
+      "markdown_body_line_end": 1513,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 351.491
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 284.824
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1519,
+      "markdown_body_line_end": 1521,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 233.224
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 136.322
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1527,
+      "markdown_body_line_end": 1527,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 97.122
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 52.454
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2411,
+      "markdown_body_line_end": 2412,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 623.491
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 556.824
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2418,
+      "markdown_body_line_end": 2420,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 505.224
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 408.322
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2426,
+      "markdown_body_line_end": 2426,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 369.122
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 324.454
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2440,
+      "markdown_body_line_end": 2441,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 201.254
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 134.587
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2447,
+      "markdown_body_line_end": 2451,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 581.39
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2459,
+      "markdown_body_line_end": 2459,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 507.79
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 463.122
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2802,
+      "markdown_body_line_end": 2809,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Governance | **Tier:** Advanced | **GS Paper:** GS-II. **Core area:** The policy cycle, the implementation gap, street-level bureaucracy, convergence and consultation. **Grounded in:** Pressman & Wildavsky's implementation theo",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 560.691
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 459.224
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2813,
+      "markdown_body_line_end": 2826,
+      "heading": "1. Architecture",
+      "preview": "TOP-DOWN VIEW                          BOTTOM-UP VIEW",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 437.224
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 306.224
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2835,
+      "markdown_body_line_end": 2841,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 466.29
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2997,
+      "markdown_body_line_end": 2998,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 749.691
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 683.024
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3004,
+      "markdown_body_line_end": 3008,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 631.424
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 409.522
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3016,
+      "markdown_body_line_end": 3016,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 335.922
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 291.254
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3067,
+      "markdown_body_line_end": 3073,
+      "heading": "Government Policy Design and Implementation: ANSWER-WRITING SPINE",
+      "preview": "NAME THE NORM OR PROBLEM -> IDENTIFY THE DUTY-HOLDER AND THE BINDING FORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 532.291
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 471.291
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3083,
+      "markdown_body_line_end": 3089,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Design against implementation",
+      "preview": "DESIGN SIDE -> problem diagnosis, target population, incentive, realism against capacity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3093,
+      "markdown_body_line_end": 3098,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Clearance-point arithmetic",
+      "preview": "EACH APPROVAL -> Union, state, district, panchayat sign-off adds an independent point",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3102,
+      "markdown_body_line_end": 3107,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Frontline discretion",
+      "preview": "TOP-DOWN -> did frontline action match the original design",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 577.691
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3111,
+      "markdown_body_line_end": 3116,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Consultation and ex-ante design",
+      "preview": "POLICY -> Pre-Legislative Consultation Policy, 2014, executive and not statutory",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 555.691
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 503.891
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3120,
+      "markdown_body_line_end": 3125,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Public Examinations Act card",
+      "preview": "STATUTE -> Public Examinations (Prevention of Unfair Means) Act, 2024",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 481.891
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 430.091
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3129,
+      "markdown_body_line_end": 3135,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Aims against scope",
+      "preview": "AIMS -> prevent and penalise paper leaks, impersonation and tampering; protect credibility",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 408.091
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 346.091
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3139,
+      "markdown_body_line_end": 3144,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Six-stage implementation map",
+      "preview": "1 LEGAL AUTHORITY -> Act, rule, guideline or executive scheme, and who is bound",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 324.091
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 272.291
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3148,
+      "markdown_body_line_end": 3153,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Aspirational Districts design card",
+      "preview": "UNIT -> inter-district divergence; 112 districts under NITI Aayog",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3157,
+      "markdown_body_line_end": 3162,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Delta ranking and its limit",
+      "preview": "CHOICE -> rank on the pace of improvement rather than the absolute level",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3166,
+      "markdown_body_line_end": 3171,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Contradiction as externality",
+      "preview": "MANDATES -> each ministry optimises its own objective function",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3175,
+      "markdown_body_line_end": 3180,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Coordination against authority",
+      "preview": "PM GATISHAKTI -> shared geographic-information-system layer for multi-modal connectivity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3184,
+      "markdown_body_line_end": 3190,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Targeting and answer spine",
+      "preview": "TRADE-OFF -> tighter verification lowers inclusion error and raises exclusion error",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 430.091
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    }
+  ]
+}

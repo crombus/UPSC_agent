@@ -1,0 +1,1129 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-20",
+  "subject": "Geography",
+  "title": "TEMPERATE CONTINENTAL STEPPE CLIMATE",
+  "short_route": "TEMPERATE GRASSLAND WORLD MAP → CONTINENTALITY MECHANISM → RAINFALL-MOISTURE PROFILE → HEMISPHERE ASYMMETRY → CHERNOZEM-SOIL CHAIN → GRANARY CONVERSION TIMELINE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g5 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-20-deep-review-2026-09-05-g5.json",
+  "ascii_spec_sha256": "0f622d7b80b3c92758a643b7c96fed268cdd8f3112c1af391c59aac192e5e5ad",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "TEMPERATE GRASSLAND WORLD MAP",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "TEMPERATE GRASSLAND WORLD MAP",
+          "role": "primary"
+        },
+        {
+          "text": "UKRAINE-KAZAKHSTAN BELT, CONTINENTAL INTERIOR",
+          "role": "outcome"
+        },
+        {
+          "text": "NORTH AMERICA",
+          "role": "comparison"
+        },
+        {
+          "text": "GREAT PLAINS, USA AND CANADA",
+          "role": "evidence"
+        },
+        {
+          "text": "SOUTH AMERICA",
+          "role": "primary"
+        },
+        {
+          "text": "ARGENTINA AND URUGUAY, MARITIME FRINGE",
+          "role": "outcome"
+        },
+        {
+          "text": "SOUTH AFRICA",
+          "role": "comparison"
+        },
+        {
+          "text": "ELEVATED INTERIOR PLATEAU",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EURASIA → steppes: Ukraine-Kazakhstan belt, continental interior",
+        "NORTH AMERICA → prairies: Great Plains, USA and Canada",
+        "SOUTH AMERICA → pampas: Argentina and Uruguay, maritime fringe",
+        "SOUTH AFRICA → veld: elevated interior plateau",
+        "AUSTRALIA → downs: eastern interior grasslands"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EURASIA → steppes: Ukraine-Kazakhstan belt, continental interior",
+            "NORTH AMERICA → prairies: Great Plains, USA and Canada",
+            "SOUTH AMERICA → pampas: Argentina and Uruguay, maritime fringe"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOUTH AFRICA → veld: elevated interior plateau",
+            "AUSTRALIA → downs: eastern interior grasslands",
+            "MUST REMEMBER: Temperate continental steppe Bs climates occupy interiors and rain shadows between deserts and"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "humid forests, with low variable precipitation, large annual range, short grasses and chernozem-linked grain/pastoral economies."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Temperate continental steppe Bs climates occupy interiors and rain shadows between deserts and humid forests, with low variable precipitation, large annual range, short grasses and chernozem-linked grain/pastoral economies.",
+      "source_references": [
+        "Steppe location and continental setting",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "CONTINENTALITY MECHANISM",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONTINENTALITY MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "DISTANCE FROM SEA",
+          "role": "outcome"
+        },
+        {
+          "text": "WEAK MARITIME MODERATION",
+          "role": "comparison"
+        },
+        {
+          "text": "STRONG HEATING OF CONTINENTAL MASS",
+          "role": "evidence"
+        },
+        {
+          "text": "STRONG RADIATIVE COOLING",
+          "role": "primary"
+        },
+        {
+          "text": "LARGE ANNUAL TEMPERATURE RANGE, ESPECIALLY IN EURASIA",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "DISTANCE FROM SEA → weak maritime moderation",
+        "SUMMER → strong heating of continental mass → hot",
+        "WINTER → strong radiative cooling → cold",
+        "RESULT → large annual temperature range, especially in Eurasia"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DISTANCE FROM SEA → weak maritime moderation",
+            "SUMMER → strong heating of continental mass → hot"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WINTER → strong radiative cooling → cold",
+            "RESULT → large annual temperature range, especially in Eurasia"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DISTANCE FROM SEA → weak maritime moderation",
+            "SUMMER → strong heating of continental mass → hot"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → large annual temperature range, especially in Eurasia.",
+      "source_references": [
+        "Continentality and temperature range",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "RAINFALL-MOISTURE PROFILE",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RAINFALL-MOISTURE PROFILE",
+          "role": "primary"
+        },
+        {
+          "text": "TOTAL ANNUAL",
+          "role": "outcome"
+        },
+        {
+          "text": "ABOUT 25-75 CM, LOW TO MODERATE",
+          "role": "comparison"
+        },
+        {
+          "text": "SEASONAL MAXIMUM",
+          "role": "evidence"
+        },
+        {
+          "text": "LATE SPRING AND EARLY SUMMER",
+          "role": "primary"
+        },
+        {
+          "text": "DRY MARGIN",
+          "role": "outcome"
+        },
+        {
+          "text": "SHORTER GRASS, STEPPE-DESERT TRANSITION",
+          "role": "comparison"
+        },
+        {
+          "text": "WET MARGIN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "TOTAL ANNUAL → about 25-75 cm, low to moderate",
+        "SEASONAL MAXIMUM → late spring and early summer",
+        "DRY MARGIN → shorter grass, steppe-desert transition",
+        "WET MARGIN → taller grass, steppe-forest boundary"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "TOTAL ANNUAL → about 25-75 cm, low to moderate",
+          "DRY MARGIN → shorter grass, steppe-desert transition",
+          "TOTAL ANNUAL → about 25-75 cm, low to moderate"
+        ],
+        [
+          "SEASONAL MAXIMUM → late spring and early summer",
+          "WET MARGIN → taller grass, steppe-forest boundary",
+          "SEASONAL MAXIMUM → late spring and early summer"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "TOTAL ANNUAL → about 25-75 cm, low to moderate",
+            "SEASONAL MAXIMUM → late spring and early summer"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DRY MARGIN → shorter grass, steppe-desert transition",
+            "WET MARGIN → taller grass, steppe-forest boundary"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "TOTAL ANNUAL → about 25-75 cm, low to moderate",
+            "SEASONAL MAXIMUM → late spring and early summer"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SEASONAL MAXIMUM → late spring and early summer.",
+      "source_references": [
+        "Rainfall regime and moisture deficit",
+        "Natural grassland and treelessness",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "HEMISPHERE ASYMMETRY",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "HEMISPHERE ASYMMETRY",
+          "role": "primary"
+        },
+        {
+          "text": "STEPPES AND PRAIRIES",
+          "role": "outcome"
+        },
+        {
+          "text": "LARGE CONTINENTAL MASS, EXTREME RANGE",
+          "role": "comparison"
+        },
+        {
+          "text": "PAMPAS, VELD, DOWNS",
+          "role": "evidence"
+        },
+        {
+          "text": "NARROWER LANDMASS, MARITIME MODERATION",
+          "role": "primary"
+        },
+        {
+          "text": "CONTINENTAL MASS DETERMINES WINTER SEVERITY",
+          "role": "outcome"
+        },
+        {
+          "text": "EXAM TRAP",
+          "role": "caution"
+        },
+        {
+          "text": "DO NOT TREAT ALL FIVE AS CLIMATICALLY IDENTICAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NORTHERN → steppes and prairies: large continental mass, extreme range",
+        "SOUTHERN → pampas, veld, downs: narrower landmass, maritime moderation",
+        "CAUSE → continental mass determines winter severity",
+        "EXAM TRAP → do not treat all five as climatically identical"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "NORTHERN → steppes and prairies: large continental mass, extreme range",
+          "CAUSE → continental mass determines winter severity",
+          "NORTHERN → steppes and prairies: large continental mass, extreme range"
+        ],
+        [
+          "SOUTHERN → pampas, veld, downs: narrower landmass, maritime moderation",
+          "EXAM TRAP → do not treat all five as climatically identical",
+          "SOUTHERN → pampas, veld, downs: narrower landmass, maritime moderation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NORTHERN → steppes and prairies: large continental mass, extreme range",
+            "SOUTHERN → pampas, veld, downs: narrower landmass, maritime moderation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CAUSE → continental mass determines winter severity",
+            "EXAM TRAP → do not treat all five as climatically identical"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NORTHERN → steppes and prairies: large continental mass, extreme range",
+            "SOUTHERN → pampas, veld, downs: narrower landmass, maritime moderation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EXAM TRAP → do not treat all five as climatically identical.",
+      "source_references": [
+        "Hemisphere contrast",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CHERNOZEM-SOIL CHAIN",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CHERNOZEM-SOIL CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "GRASSLAND COVER",
+          "role": "outcome"
+        },
+        {
+          "text": "DEEP ROOT NETWORK DECAYS IN PLACE",
+          "role": "comparison"
+        },
+        {
+          "text": "LOW LEACHING",
+          "role": "evidence"
+        },
+        {
+          "text": "BASE-RICH CONDITIONS PRESERVED",
+          "role": "primary"
+        },
+        {
+          "text": "HUMUS ACCUMULATES",
+          "role": "outcome"
+        },
+        {
+          "text": "DARK, DEEP, FERTILE SOIL PROFILE",
+          "role": "comparison"
+        },
+        {
+          "text": "CHERNOZEM OR BLACK EARTH, AMONG WORLD'S MOST FERTILE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "GRASSLAND COVER → deep root network decays in place",
+        "LOW LEACHING → base-rich conditions preserved",
+        "HUMUS ACCUMULATES → dark, deep, fertile soil profile",
+        "RESULT → chernozem or black earth, among world's most fertile"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GRASSLAND COVER → deep root network decays in place",
+            "LOW LEACHING → base-rich conditions preserved"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "HUMUS ACCUMULATES → dark, deep, fertile soil profile",
+            "RESULT → chernozem or black earth, among world's most fertile"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GRASSLAND COVER → deep root network decays in place",
+            "LOW LEACHING → base-rich conditions preserved"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → chernozem or black earth, among world's most fertile.",
+      "source_references": [
+        "Chernozem formation and fertility",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "GRANARY CONVERSION TIMELINE",
+      "structural_type": "process-flow",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "GRANARY CONVERSION TIMELINE",
+          "role": "primary"
+        },
+        {
+          "text": "NATURAL STATE",
+          "role": "institution"
+        },
+        {
+          "text": "PASTORAL GRASSLAND, LOW-DENSITY USE",
+          "role": "comparison"
+        },
+        {
+          "text": "RAIL + OCEAN FREIGHT",
+          "role": "evidence"
+        },
+        {
+          "text": "ACCESS TO DISTANT INDUSTRIAL MARKETS",
+          "role": "primary"
+        },
+        {
+          "text": "MECHANISATION + HYV",
+          "role": "outcome"
+        },
+        {
+          "text": "HIGH OUTPUT PER WORKER ON LEVEL PLAINS",
+          "role": "comparison"
+        },
+        {
+          "text": "WORLD'S WHEAT GRANARIES",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "NATURAL STATE → pastoral grassland, low-density use",
+        "RAIL + OCEAN FREIGHT → access to distant industrial markets",
+        "MECHANISATION + HYV → high output per worker on level plains",
+        "RESULT → world's wheat granaries: Ukraine, prairies, pampas"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NATURAL STATE → pastoral grassland, low-density use",
+            "RAIL + OCEAN FREIGHT → access to distant industrial markets"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MECHANISATION + HYV → high output per worker on level plains",
+            "RESULT → world's wheat granaries: Ukraine, prairies, pampas"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NATURAL STATE → pastoral grassland, low-density use",
+            "RAIL + OCEAN FREIGHT → access to distant industrial markets"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESULT → world's wheat granaries: Ukraine, prairies, pampas.",
+      "source_references": [
+        "Granary identity and wheat belts",
+        "Transport-conversion argument",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "ANTI-DETERMINISM FIREWALL",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "ANTI-DETERMINISM FIREWALL",
+          "role": "primary"
+        },
+        {
+          "text": "PHYSICAL BASE",
+          "role": "outcome"
+        },
+        {
+          "text": "FERTILE SOIL + LEVEL RELIEF + SUITABLE CLIMATE",
+          "role": "comparison"
+        },
+        {
+          "text": "CONVERSION AGENTS",
+          "role": "evidence"
+        },
+        {
+          "text": "RAIL, FREIGHT, MECHANISATION, MARKET DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "WITHOUT ACCESS",
+          "role": "outcome"
+        },
+        {
+          "text": "SAME SOIL, NO GRANARY FOR CENTURIES",
+          "role": "caution"
+        },
+        {
+          "text": "ENDOWMENT IS NECESSARY, ACCESS IS SUFFICIENT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "PHYSICAL BASE → fertile soil + level relief + suitable climate",
+        "CONVERSION AGENTS → rail, freight, mechanisation, market demand",
+        "WITHOUT ACCESS → same soil, no granary for centuries",
+        "CONCLUSION → endowment is necessary, access is sufficient"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PHYSICAL BASE → fertile soil + level relief + suitable climate",
+            "CONVERSION AGENTS → rail, freight, mechanisation, market demand"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WITHOUT ACCESS → same soil, no granary for centuries",
+            "CONCLUSION → endowment is necessary, access is sufficient"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PHYSICAL BASE → fertile soil + level relief + suitable climate",
+            "CONVERSION AGENTS → rail, freight, mechanisation, market demand"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONCLUSION → endowment is necessary, access is sufficient.",
+      "source_references": [
+        "Transport-conversion argument",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "ECOLOGICAL-COST CHAIN",
+      "structural_type": "hazard-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "ECOLOGICAL-COST CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "SOD REMOVAL",
+          "role": "outcome"
+        },
+        {
+          "text": "BARE FINE SOIL EXPOSED TO WIND",
+          "role": "comparison"
+        },
+        {
+          "text": "DROUGHT YEAR",
+          "role": "evidence"
+        },
+        {
+          "text": "VEGETATION FAILS, DEFLATION PEAKS",
+          "role": "primary"
+        },
+        {
+          "text": "ORGANIC DECLINE",
+          "role": "caution"
+        },
+        {
+          "text": "REDUCED HUMUS, COMPACTION RISK",
+          "role": "caution"
+        },
+        {
+          "text": "AQUIFER DRAWDOWN",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SOD REMOVAL → bare fine soil exposed to wind",
+        "DROUGHT YEAR → vegetation fails, deflation peaks",
+        "ORGANIC DECLINE → reduced humus, compaction risk",
+        "AQUIFER DRAWDOWN → irrigation in semi-arid belt depletes groundwater"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SOD REMOVAL → bare fine soil exposed to wind",
+            "DROUGHT YEAR → vegetation fails, deflation peaks"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ORGANIC DECLINE → reduced humus, compaction risk",
+            "AQUIFER DRAWDOWN → irrigation in semi-arid belt depletes groundwater"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SOD REMOVAL → bare fine soil exposed to wind",
+            "DROUGHT YEAR → vegetation fails, deflation peaks"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "AQUIFER DRAWDOWN → irrigation in semi-arid belt depletes groundwater.",
+      "source_references": [
+        "Ecological cost of ploughing",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "INDIA WHEAT GRANARY MAP",
+      "structural_type": "spatial-map",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "INDIA WHEAT GRANARY MAP",
+          "role": "primary"
+        },
+        {
+          "text": "PUNJAB-HARYANA-WESTERN UP",
+          "role": "outcome"
+        },
+        {
+          "text": "INDO-GANGETIC ALLUVIAL PLAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "ALLUVIAL, NOT CHERNOZEM (FUNDAMENTAL DIFFERENCE)",
+          "role": "caution"
+        },
+        {
+          "text": "SOWN OCT-DEC, HARVESTED MAR-APR",
+          "role": "primary"
+        },
+        {
+          "text": "HYV SEEDS + IRRIGATION + FERTILISER + MSP PROCUREMENT",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "PUNJAB-HARYANA-WESTERN UP → Indo-Gangetic alluvial plain",
+        "SOIL → alluvial, not chernozem (fundamental difference)",
+        "SEASON → Rabi: sown Oct-Dec, harvested Mar-Apr",
+        "ENABLERS → HYV seeds + irrigation + fertiliser + MSP procurement"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PUNJAB-HARYANA-WESTERN UP → Indo-Gangetic alluvial plain",
+            "SOIL → alluvial, not chernozem (fundamental difference)"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEASON → Rabi: sown Oct-Dec, harvested Mar-Apr",
+            "ENABLERS → HYV seeds + irrigation + fertiliser + MSP procurement"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PUNJAB-HARYANA-WESTERN UP → Indo-Gangetic alluvial plain",
+            "SOIL → alluvial, not chernozem (fundamental difference)"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ENABLERS → HYV seeds + irrigation + fertiliser + MSP procurement.",
+      "source_references": [
+        "India climate boundary",
+        "Alluvial-chernozem distinction",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "GREEN REVOLUTION PACKAGE",
+      "structural_type": "institutional-ladder",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "GREEN REVOLUTION PACKAGE",
+          "role": "primary"
+        },
+        {
+          "text": "HYV SEMI-DWARF WHEAT",
+          "role": "outcome"
+        },
+        {
+          "text": "RAISED YIELD POTENTIAL",
+          "role": "comparison"
+        },
+        {
+          "text": "CANAL + TUBE-WELL IRRIGATION",
+          "role": "evidence"
+        },
+        {
+          "text": "REDUCED RAINFALL DEPENDENCE",
+          "role": "primary"
+        },
+        {
+          "text": "CHEMICAL FERTILISERS",
+          "role": "outcome"
+        },
+        {
+          "text": "SUPPORTED INTENSIVE CULTIVATION",
+          "role": "comparison"
+        },
+        {
+          "text": "ASSURED FLOOR PRICE AND CENTRAL POOL STOCKS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "HYV SEMI-DWARF WHEAT → raised yield potential",
+        "CANAL + TUBE-WELL IRRIGATION → reduced rainfall dependence",
+        "CHEMICAL FERTILISERS → supported intensive cultivation",
+        "MSP/PROCUREMENT → assured floor price and central pool stocks",
+        "CLOSE DISTINCTION: Steppe differs from tropical savanna and humid prairie, chernozem is not universal across"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "HYV SEMI-DWARF WHEAT → raised yield potential",
+            "CANAL + TUBE-WELL IRRIGATION → reduced rainfall dependence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CHEMICAL FERTILISERS → supported intensive cultivation",
+            "MSP/PROCUREMENT → assured floor price and central pool stocks"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Steppe differs from tropical savanna and humid prairie, chernozem is not universal across all",
+            "steppes, and continentality concerns land-dominated thermal range rather than simply distance from a national coastline."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Steppe differs from tropical savanna and humid prairie, chernozem is not universal across all steppes, and continentality concerns land-dominated thermal range rather than simply distance from a national coastline.",
+      "source_references": [
+        "Green Revolution and granary conversion",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SAVANNA-STEPPE COMPARISON",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SAVANNA-STEPPE COMPARISON",
+          "role": "primary"
+        },
+        {
+          "text": "TROPICAL SAVANNA VERSUS TEMPERATE STEPPE/PRAIRIE",
+          "role": "comparison"
+        },
+        {
+          "text": "WET-AND-DRY SEASONAL VERSUS LOW-TOTAL SPRING MAXIMUM",
+          "role": "comparison"
+        },
+        {
+          "text": "LEACHED LATERISING VERSUS BASE-RICH CHERNOZEM/PRAIRIE",
+          "role": "comparison"
+        },
+        {
+          "text": "PASTORAL-SUBSISTENCE VERSUS MECHANISED-COMMERCIAL GRAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "GRAIN PRODUCTIVITY DEPENDS ON SOIL, SNOWMELT, TECHNOLOGY AND MARKETS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "LATITUDE → tropical savanna versus temperate steppe/prairie",
+        "RAINFALL → wet-and-dry seasonal versus low-total spring maximum",
+        "SOIL → leached laterising versus base-rich chernozem/prairie",
+        "ECONOMY → pastoral-subsistence versus mechanised-commercial grain",
+        "EVIDENCE LIMIT: Grain productivity depends on soil, snowmelt, technology and markets as well as climate"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "LATITUDE → tropical savanna versus temperate steppe/prairie",
+          "SOIL → leached laterising versus base-rich chernozem/prairie",
+          "EVIDENCE LIMIT: Grain productivity depends on soil, snowmelt, technology and markets as well as climate"
+        ],
+        [
+          "RAINFALL → wet-and-dry seasonal versus low-total spring maximum",
+          "ECONOMY → pastoral-subsistence versus mechanised-commercial grain",
+          "India's wheat belt is a functional comparison with monsoonal irrigation and subtropical seasonality, not a climatic identity."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "LATITUDE → tropical savanna versus temperate steppe/prairie",
+            "RAINFALL → wet-and-dry seasonal versus low-total spring maximum"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SOIL → leached laterising versus base-rich chernozem/prairie",
+            "ECONOMY → pastoral-subsistence versus mechanised-commercial grain"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Grain productivity depends on soil, snowmelt, technology and markets as well as climate",
+            "India's wheat belt is a functional comparison with monsoonal irrigation and subtropical seasonality, not a climatic identity."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "EVIDENCE LIMIT: Grain productivity depends on soil, snowmelt, technology and markets as well as climate; India's wheat belt is a functional comparison with monsoonal irrigation and subtropical seasonality, not a climatic identity.",
+      "source_references": [
+        "Sustainability and savanna-steppe comparison",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "STEPPE ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "STEPPE ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "CONTINENTAL INTERIOR GRASSLAND WITH LARGE ANNUAL RANGE",
+          "role": "outcome"
+        },
+        {
+          "text": "FIVE REGIONAL NAMES ON A WORLD MAP",
+          "role": "comparison"
+        },
+        {
+          "text": "MOISTURE DEFICIT, CHERNOZEM, GRANARY CONVERSION",
+          "role": "evidence"
+        },
+        {
+          "text": "ACCESS CONVERTED ENDOWMENT INTO RESOURCE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DEFINE → continental interior grassland with large annual range",
+        "LOCATE → five regional names on a world map",
+        "EXPLAIN → moisture deficit, chernozem, granary conversion",
+        "QUALIFY → anti-determinism: access converted endowment into resource"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEFINE → continental interior grassland with large annual range",
+            "LOCATE → five regional names on a world map"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "EXPLAIN → moisture deficit, chernozem, granary conversion",
+            "QUALIFY → anti-determinism: access converted endowment into resource"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEFINE → continental interior grassland with large annual range",
+            "LOCATE → five regional names on a world map"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "QUALIFY → anti-determinism: access converted endowment into resource.",
+      "source_references": [
+        "PYQ boundary and answer spine",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\20_Temperate-Continental-Steppe-Climate.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\20_India-Wheat-Granary.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g4\\geography-20_Complete-Learning-Session_2026-09-01.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA’S WHEAT GRANARY",
+          "role": "outcome"
+        },
+        {
+          "text": "PUNJAB, HARYANA, WESTERN UP",
+          "role": "comparison"
+        },
+        {
+          "text": "INDO-GANGETIC PLAIN.",
+          "role": "evidence"
+        },
+        {
+          "text": "PUNJAB IS DESCRIBED AS A MAJOR FOOD BASKET/GRANARY IN",
+          "role": "primary"
+        },
+        {
+          "text": "PUNJAB'S HIGH CULTIVATED SHARE AND CROPPING INTENSITY ARE SOURCE-ERA",
+          "role": "evidence"
+        },
+        {
+          "text": "HARYANA'S WHEAT BELT SPANS IRRIGATED EASTERN, CENTRAL AND WESTERN",
+          "role": "comparison"
+        },
+        {
+          "text": "WHEAT IS A RABI CROP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "India’s wheat granary = Punjab, Haryana, western UP / Indo-Gangetic plain.",
+            "Punjab is described as a major food basket/granary in the source text.",
+            "Punjab's high cultivated share and cropping intensity are source-era indicators, not current statistics.",
+            "Haryana's wheat belt spans irrigated eastern, central and western plains; use current district maps."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Wheat is a Rabi crop: sown Oct–Dec, harvested Mar–Apr in source notes.",
+            "Green Revolution package: HYV + irrigation + fertiliser + MSP/procurement.",
+            "Soil is alluvial , not steppe chernozem.",
+            "The source-era text records a substantial marketed surplus; current share requires a dated source."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Surplus states: Punjab, Haryana, UP, Rajasthan, MP.",
+            "Deficit destinations include Maharashtra, West Bengal, Bihar and Delhi.",
+            "NOT: India’s wheat belt sits on chernozem like the steppe → It sits on Indo-Gangetic alluvial soil.",
+            "NOT: Wheat is a Kharif monsoon crop → Wheat is a Rabi winter crop."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

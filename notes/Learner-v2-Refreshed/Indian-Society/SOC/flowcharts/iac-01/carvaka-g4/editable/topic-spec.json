@@ -1,0 +1,1104 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-society-01",
+  "subject": "Indian-Society",
+  "title": "SALIENT FEATURES AND DIVERSITY OF INDIAN SOCIETY",
+  "short_route": "READING INDIAN DIVERSITY → FOUR-TERM DISTINCTION → LINGUISTIC LAYER → SCALE OF RECOGNISED EXCLUSION → CLEAVAGE TEST → INTEGRATIVE MECHANISMS",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g4 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-society-01-deep-review-2026-09-05-g4.json",
+  "ascii_spec_sha256": "e511465f44216c03bab76d908fe13e8b78ca6a7bfda390e66d1b18a091589e44",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "READING INDIAN DIVERSITY",
+      "structural_type": "root-axes",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "READING INDIAN DIVERSITY",
+          "role": "primary"
+        },
+        {
+          "text": "ETHNICITY, LANGUAGE, RELIGION, REGION, CASTE AND TRIBE",
+          "role": "outcome"
+        },
+        {
+          "text": "LAYERED AND OVERLAPPING, NOT PARALLEL LISTS",
+          "role": "caution"
+        },
+        {
+          "text": "DO THE AXES CROSS-CUT OR REINFORCE ON ONE HOUSEHOLD",
+          "role": "evidence"
+        },
+        {
+          "text": "COHESION OR COMPOUNDED MARGINALITY",
+          "role": "primary"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "INDIAN SOCIETY IS PLURAL, STRATIFIED AND RELATIONAL",
+          "role": "comparison"
+        },
+        {
+          "text": "LANGUAGE, RELIGION, CASTE, TRIBE, CLASS, GENDER, REGION, RURAL-URBAN LOCATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "AXES → ethnicity, language, religion, region, caste and tribe",
+        "RELATION → layered and overlapping, not parallel lists",
+        "TEST → do the axes cross-cut or reinforce on one household",
+        "OUTCOME → cohesion or compounded marginality",
+        "MUST REMEMBER: Indian society is plural, stratified and relational: language, religion, caste, tribe, class, gender"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AXES → ethnicity, language, religion, region, caste and tribe",
+            "RELATION → layered and overlapping, not parallel lists"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEST → do the axes cross-cut or reinforce on one household",
+            "OUTCOME → cohesion or compounded marginality"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Indian society is plural, stratified and relational: language, religion, caste, tribe, class, gender, region,",
+            "rural-urban location and migration overlap, while constitutional citizenship and institutions create unity without erasing difference."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Indian society is plural, stratified and relational: language, religion, caste, tribe, class, gender, region, rural-urban location and migration overlap, while constitutional citizenship and institutions create unity without erasing difference.",
+      "source_references": [
+        "How to read Indian diversity",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "FOUR-TERM DISTINCTION",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOUR-TERM DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "OBJECTIVE PRESENCE OF DIFFERENT IDENTITIES",
+          "role": "outcome"
+        },
+        {
+          "text": "COEXISTENCE WITH MUTUAL RECOGNITION",
+          "role": "comparison"
+        },
+        {
+          "text": "UNEQUAL OUTCOMES BETWEEN GROUPS OR REGIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "EXCLUSION FROM OPPORTUNITY, RESOURCES OR VOICE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "DIVERSITY → objective presence of different identities",
+        "PLURALITY → coexistence with mutual recognition",
+        "DISPARITY → unequal outcomes between groups or regions",
+        "MARGINALITY → exclusion from opportunity, resources or voice"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DIVERSITY → objective presence of different identities",
+          "DISPARITY → unequal outcomes between groups or regions",
+          "DIVERSITY → objective presence of different identities"
+        ],
+        [
+          "PLURALITY → coexistence with mutual recognition",
+          "MARGINALITY → exclusion from opportunity, resources or voice",
+          "PLURALITY → coexistence with mutual recognition"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DIVERSITY → objective presence of different identities",
+            "PLURALITY → coexistence with mutual recognition"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DISPARITY → unequal outcomes between groups or regions",
+            "MARGINALITY → exclusion from opportunity, resources or voice"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DIVERSITY → objective presence of different identities",
+            "PLURALITY → coexistence with mutual recognition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MARGINALITY → exclusion from opportunity, resources or voice.",
+      "source_references": [
+        "Diversity, plurality, disparity and marginality",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "LINGUISTIC LAYER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "LINGUISTIC LAYER",
+          "role": "primary"
+        },
+        {
+          "text": "INDO-ARYAN, DRAVIDIAN, AUSTROASIATIC, TIBETO-BURMAN",
+          "role": "outcome"
+        },
+        {
+          "text": "EIGHTH SCHEDULE CURRENTLY LISTS 22 LANGUAGES",
+          "role": "comparison"
+        },
+        {
+          "text": "CENSUS 2011",
+          "role": "evidence"
+        },
+        {
+          "text": "19,500 PLUS RAW RETURNS RATIONALISED TO 121 LANGUAGES",
+          "role": "primary"
+        },
+        {
+          "text": "THE FOUR-FAMILY SHORTHAND IS NOT AN EXHAUSTIVE TAXONOMY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "FAMILIES → Indo-Aryan, Dravidian, Austroasiatic, Tibeto-Burman",
+        "RECOGNITION → Eighth Schedule currently lists 22 languages",
+        "CENSUS 2011 → 19,500 plus raw returns rationalised to 121 languages",
+        "LIMIT → the four-family shorthand is not an exhaustive taxonomy"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FAMILIES → Indo-Aryan, Dravidian, Austroasiatic, Tibeto-Burman",
+            "RECOGNITION → Eighth Schedule currently lists 22 languages"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CENSUS 2011 → 19,500 plus raw returns rationalised to 121 languages",
+            "LIMIT → the four-family shorthand is not an exhaustive taxonomy"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FAMILIES → Indo-Aryan, Dravidian, Austroasiatic, Tibeto-Burman",
+            "RECOGNITION → Eighth Schedule currently lists 22 languages"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → the four-family shorthand is not an exhaustive taxonomy.",
+      "source_references": [
+        "The linguistic layer and its recognition",
+        "Counting language and identity",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "SCALE OF RECOGNISED EXCLUSION",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "SCALE OF RECOGNISED EXCLUSION",
+          "role": "primary"
+        },
+        {
+          "text": "CENSUS 2011",
+          "role": "outcome"
+        },
+        {
+          "text": "LAST COMPLETED FULL COUNT",
+          "role": "comparison"
+        },
+        {
+          "text": "SCHEDULED TRIBES",
+          "role": "evidence"
+        },
+        {
+          "text": "ABOUT 8.6 PER CENT OF POPULATION",
+          "role": "primary"
+        },
+        {
+          "text": "SCHEDULED CASTES",
+          "role": "outcome"
+        },
+        {
+          "text": "ABOUT 16.6 PER CENT OF POPULATION",
+          "role": "comparison"
+        },
+        {
+          "text": "A STOCK FIGURE, NEVER A CURRENT-YEAR ESTIMATE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENSUS 2011 → last completed full count",
+        "SCHEDULED TRIBES → about 8.6 per cent of population",
+        "SCHEDULED CASTES → about 16.6 per cent of population",
+        "STATUS → a stock figure, never a current-year estimate"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CENSUS 2011 → last completed full count",
+          "SCHEDULED CASTES → about 16.6 per cent of population",
+          "CENSUS 2011 → last completed full count"
+        ],
+        [
+          "SCHEDULED TRIBES → about 8.6 per cent of population",
+          "STATUS → a stock figure, never a current-year estimate",
+          "SCHEDULED TRIBES → about 8.6 per cent of population"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENSUS 2011 → last completed full count",
+            "SCHEDULED TRIBES → about 8.6 per cent of population"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SCHEDULED CASTES → about 16.6 per cent of population",
+            "STATUS → a stock figure, never a current-year estimate"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CENSUS 2011 → last completed full count",
+            "SCHEDULED TRIBES → about 8.6 per cent of population"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STATUS → a stock figure, never a current-year estimate.",
+      "source_references": [
+        "The scale of recognised historical exclusion",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "CLEAVAGE TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CLEAVAGE TEST",
+          "role": "primary"
+        },
+        {
+          "text": "AXES UNCORRELATED",
+          "role": "outcome"
+        },
+        {
+          "text": "CROSS-CUTTING, DIVERSITY STAYS PLURAL",
+          "role": "comparison"
+        },
+        {
+          "text": "AXES OVERLAP ON ONE GROUP",
+          "role": "evidence"
+        },
+        {
+          "text": "REINFORCING, DIVERSITY COMPOUNDS",
+          "role": "primary"
+        },
+        {
+          "text": "REINFORCED STACK",
+          "role": "outcome"
+        },
+        {
+          "text": "REMOTENESS, LOW LITERACY, ASSET-POVERTY",
+          "role": "comparison"
+        },
+        {
+          "text": "THE CORRELATION IS CONDITIONAL, NOT UNIVERSAL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "AXES UNCORRELATED → cross-cutting, diversity stays plural",
+        "AXES OVERLAP ON ONE GROUP → reinforcing, diversity compounds",
+        "REINFORCED STACK → remoteness, low literacy, asset-poverty",
+        "VERDICT → the correlation is conditional, not universal"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AXES UNCORRELATED → cross-cutting, diversity stays plural",
+            "AXES OVERLAP ON ONE GROUP → reinforcing, diversity compounds"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REINFORCED STACK → remoteness, low literacy, asset-poverty",
+            "VERDICT → the correlation is conditional, not universal"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "AXES UNCORRELATED → cross-cutting, diversity stays plural",
+            "AXES OVERLAP ON ONE GROUP → reinforcing, diversity compounds"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → the correlation is conditional, not universal.",
+      "source_references": [
+        "Cross-cutting cleavages",
+        "Reinforcing cleavages",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "INTEGRATIVE MECHANISMS",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "INTEGRATIVE MECHANISMS",
+          "role": "primary"
+        },
+        {
+          "text": "SYNCRETIC IDIOM",
+          "role": "outcome"
+        },
+        {
+          "text": "DARGAHS, BHAKTI POETS, SHARED SHRINES",
+          "role": "comparison"
+        },
+        {
+          "text": "FESTIVAL CIRCUIT",
+          "role": "evidence"
+        },
+        {
+          "text": "ONAM, BIHU AND PONGAL AS COMPOSITE BELONGING",
+          "role": "primary"
+        },
+        {
+          "text": "CIVIC SPACE",
+          "role": "outcome"
+        },
+        {
+          "text": "SCHOOLS, MARKETS, ELECTIONS, PUBLIC TRANSPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "MIXED NEIGHBOURHOODS NORMALISE DIFFERENCE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SYNCRETIC IDIOM → dargahs, Bhakti poets, shared shrines",
+        "FESTIVAL CIRCUIT → Onam, Bihu and Pongal as composite belonging",
+        "CIVIC SPACE → schools, markets, elections, public transport",
+        "MIGRATION → mixed neighbourhoods normalise difference",
+        "CLOSE DISTINCTION: Diversity is not inequality, pluralism is not assimilation, integration is not homogenisation, and"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SYNCRETIC IDIOM → dargahs, Bhakti poets, shared shrines",
+            "FESTIVAL CIRCUIT → Onam, Bihu and Pongal as composite belonging"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CIVIC SPACE → schools, markets, elections, public transport",
+            "MIGRATION → mixed neighbourhoods normalise difference"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Diversity is not inequality, pluralism is not assimilation, integration is not homogenisation, and coexistence is not",
+            "intersectionality explains combined disadvantages without treating every identity combination as identical."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Diversity is not inequality, pluralism is not assimilation, integration is not homogenisation, and coexistence is not proof of equal power; intersectionality explains combined disadvantages without treating every identity combination as identical.",
+      "source_references": [
+        "Syncretism and composite culture",
+        "Everyday civic integration",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "REINFORCING CASE CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "REINFORCING CASE CARD",
+          "role": "primary"
+        },
+        {
+          "text": "MINISTRY OF TRIBAL AFFAIRS LIST DATED 9 JULY 2024",
+          "role": "outcome"
+        },
+        {
+          "text": "75 PARTICULARLY VULNERABLE TRIBAL GROUPS",
+          "role": "comparison"
+        },
+        {
+          "text": "18 STATES AND THE UT OF ANDAMAN AND NICOBAR",
+          "role": "evidence"
+        },
+        {
+          "text": "ADMINISTRATIVE CRITERIA, NOT A RANKING OF COMMUNITIES",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "SOURCE → Ministry of Tribal Affairs list dated 9 July 2024",
+        "COUNT → 75 Particularly Vulnerable Tribal Groups",
+        "SPREAD → 18 States and the UT of Andaman and Nicobar Islands",
+        "LIMIT → administrative criteria, not a ranking of communities"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SOURCE → Ministry of Tribal Affairs list dated 9 July 2024",
+          "SPREAD → 18 States and the UT of Andaman and Nicobar Islands",
+          "SOURCE → Ministry of Tribal Affairs list dated 9 July 2024"
+        ],
+        [
+          "COUNT → 75 Particularly Vulnerable Tribal Groups",
+          "LIMIT → administrative criteria, not a ranking of communities",
+          "COUNT → 75 Particularly Vulnerable Tribal Groups"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SOURCE → Ministry of Tribal Affairs list dated 9 July 2024",
+            "COUNT → 75 Particularly Vulnerable Tribal Groups"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SPREAD → 18 States and the UT of Andaman and Nicobar Islands",
+            "LIMIT → administrative criteria, not a ranking of communities"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SOURCE → Ministry of Tribal Affairs list dated 9 July 2024",
+            "COUNT → 75 Particularly Vulnerable Tribal Groups"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LIMIT → administrative criteria, not a ranking of communities.",
+      "source_references": [
+        "The sharpest reinforcing case",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "COUNTER-EVIDENCE PAIR",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "COUNTER-EVIDENCE PAIR",
+          "role": "evidence"
+        },
+        {
+          "text": "DIVERSITY WITHOUT MARGINALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "PROSPEROUS LINGUISTIC-MINORITY TRADERS",
+          "role": "comparison"
+        },
+        {
+          "text": "SEVERAL SIKH AND JAIN BUSINESS COMMUNITIES",
+          "role": "evidence"
+        },
+        {
+          "text": "MARGINALITY WITHOUT MARKER",
+          "role": "primary"
+        },
+        {
+          "text": "LANDLESS DOMINANT-CASTE LABOURER",
+          "role": "outcome"
+        },
+        {
+          "text": "THE CORRELATION IS NEITHER UNIVERSAL NOR SYMMETRIC",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DIVERSITY WITHOUT MARGINALITY → prosperous linguistic-minority traders",
+        "ALSO → several Sikh and Jain business communities",
+        "MARGINALITY WITHOUT MARKER → landless dominant-caste labourer",
+        "RULE → the correlation is neither universal nor symmetric"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DIVERSITY WITHOUT MARGINALITY → prosperous linguistic-minority traders",
+          "MARGINALITY WITHOUT MARKER → landless dominant-caste labourer",
+          "DIVERSITY WITHOUT MARGINALITY → prosperous linguistic-minority traders"
+        ],
+        [
+          "ALSO → several Sikh and Jain business communities",
+          "RULE → the correlation is neither universal nor symmetric",
+          "ALSO → several Sikh and Jain business communities"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DIVERSITY WITHOUT MARGINALITY → prosperous linguistic-minority traders",
+            "ALSO → several Sikh and Jain business communities"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MARGINALITY WITHOUT MARKER → landless dominant-caste labourer",
+            "RULE → the correlation is neither universal nor symmetric"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DIVERSITY WITHOUT MARGINALITY → prosperous linguistic-minority traders",
+            "ALSO → several Sikh and Jain business communities"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → the correlation is neither universal nor symmetric.",
+      "source_references": [
+        "Boundary cases that break the correlation",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "CONTINUITY MECHANISM",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "CONTINUITY MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "ADD A TRADITION WITHOUT EXTINGUISHING THE EARLIER ONE",
+          "role": "outcome"
+        },
+        {
+          "text": "EIGHTH SCHEDULE LISTING OF 22 LANGUAGES",
+          "role": "comparison"
+        },
+        {
+          "text": "STATES REORGANISATION ACT, 1956 ACCOMMODATES LANGUAGE",
+          "role": "institution"
+        },
+        {
+          "text": "HIERARCHY PERSISTED INSIDE THE SAME CONTINUITY",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "ABSORPTION → add a tradition without extinguishing the earlier one",
+        "RECOGNITION → Eighth Schedule listing of 22 languages",
+        "TERRITORY → States Reorganisation Act, 1956 accommodates language",
+        "COST → hierarchy persisted inside the same continuity"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ABSORPTION → add a tradition without extinguishing the earlier one",
+            "RECOGNITION → Eighth Schedule listing of 22 languages"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TERRITORY → States Reorganisation Act, 1956 accommodates language",
+            "COST → hierarchy persisted inside the same continuity"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ABSORPTION → add a tradition without extinguishing the earlier one",
+            "RECOGNITION → Eighth Schedule listing of 22 languages"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COST → hierarchy persisted inside the same continuity.",
+      "source_references": [
+        "Accommodation as the continuity mechanism",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "RECOGNITION AND REDISTRIBUTION",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "RECOGNITION AND REDISTRIBUTION",
+          "role": "primary"
+        },
+        {
+          "text": "RESPECT, VISIBILITY AND CULTURAL STANDING",
+          "role": "outcome"
+        },
+        {
+          "text": "LAND, CREDIT, SCHOOLING AND ACCESS",
+          "role": "comparison"
+        },
+        {
+          "text": "RECOGNITION ALONE LEAVES THE ASSET GAP INTACT",
+          "role": "evidence"
+        },
+        {
+          "text": "IDENTIFY THE GAP BEFORE CHOOSING THE INSTRUMENT",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "RECOGNITION → respect, visibility and cultural standing",
+        "REDISTRIBUTION → land, credit, schooling and access",
+        "MISMATCH → recognition alone leaves the asset gap intact",
+        "DIAGNOSIS → identify the gap before choosing the instrument"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "RECOGNITION → respect, visibility and cultural standing",
+          "MISMATCH → recognition alone leaves the asset gap intact",
+          "RECOGNITION → respect, visibility and cultural standing"
+        ],
+        [
+          "REDISTRIBUTION → land, credit, schooling and access",
+          "DIAGNOSIS → identify the gap before choosing the instrument",
+          "REDISTRIBUTION → land, credit, schooling and access"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RECOGNITION → respect, visibility and cultural standing",
+            "REDISTRIBUTION → land, credit, schooling and access"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MISMATCH → recognition alone leaves the asset gap intact",
+            "DIAGNOSIS → identify the gap before choosing the instrument"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RECOGNITION → respect, visibility and cultural standing",
+            "REDISTRIBUTION → land, credit, schooling and access"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "DIAGNOSIS → identify the gap before choosing the instrument.",
+      "source_references": [
+        "Recognition, redistribution and causation",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "EVIDENCE LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "CENSUS 2011 STOCKS AND THE DATED OFFICIAL PVTG LIST",
+          "role": "outcome"
+        },
+        {
+          "text": "NAMED INTEGRATIVE PRACTICES AND BOUNDARY CASES",
+          "role": "comparison"
+        },
+        {
+          "text": "NATIONAL AGGREGATES ABOUT WHICH SUB-GROUP IS EXCLUDED",
+          "role": "evidence"
+        },
+        {
+          "text": "ANY CASTE FIGURE FROM PROSPECTIVE CENSUS 2027",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "STRONG → Census 2011 stocks and the dated official PVTG list",
+        "MODERATE → named integrative practices and boundary cases",
+        "WEAK → national aggregates about which sub-group is excluded",
+        "UNSUPPORTED → any caste figure from prospective Census 2027"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STRONG → Census 2011 stocks and the dated official PVTG list",
+            "MODERATE → named integrative practices and boundary cases"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WEAK → national aggregates about which sub-group is excluded",
+            "UNSUPPORTED → any caste figure from prospective Census 2027"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STRONG → Census 2011 stocks and the dated official PVTG list",
+            "MODERATE → named integrative practices and boundary cases"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "UNSUPPORTED → any caste figure from prospective Census 2027.",
+      "source_references": [
+        "Measurement boundary and the complete answer spine",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "DIVERSITY ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "DIVERSITY ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "STATE THE PROPOSITION AND THE AXIS STRUCTURE",
+          "role": "institution"
+        },
+        {
+          "text": "REINFORCING CASES, THEN CROSS-CUTTING COUNTER-CASES",
+          "role": "comparison"
+        },
+        {
+          "text": "EXCLUSION AND REMOTENESS ARE THE MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "CONDITIONAL VERDICT PLUS THE MEASUREMENT CAVEAT",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "USE CENSUS 2011 LANGUAGE/RELIGION BASELINES, THE NOTIFIED PVTG POSITION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "OPEN → state the proposition and the axis structure",
+        "BODY → reinforcing cases, then cross-cutting counter-cases",
+        "REFRAME → exclusion and remoteness are the mechanism",
+        "CLOSE → conditional verdict plus the measurement caveat",
+        "EVIDENCE LIMIT: Use Census 2011 language/religion baselines, the notified PVTG position and named regional examples"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → state the proposition and the axis structure",
+            "BODY → reinforcing cases, then cross-cutting counter-cases"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "REFRAME → exclusion and remoteness are the mechanism",
+            "CLOSE → conditional verdict plus the measurement caveat"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Use Census 2011 language/religion baselines, the notified PVTG position and named regional examples with source-date-status labels",
+            "neither harmony nor conflict is timeless, and correlation between diversity and marginality is not sufficient causation."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → conditional verdict plus the measurement caveat.",
+      "source_references": [
+        "Measurement boundary and the complete answer spine",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\01_Salient-Features-and-Diversity-of-Indian-Society.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-01\\g4\\indian-society-01_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "FEDERAL ACCOMMODATION AS A SOCIAL DEVICE",
+          "role": "outcome"
+        },
+        {
+          "text": "LINGUISTIC STATES AND LOCAL SELF-GOVERNMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPOSITE-CULTURE INSTITUTIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "SHARED FESTIVALS, SYNCRETIC SHRINES AND REGIONAL",
+          "role": "primary"
+        },
+        {
+          "text": "TARGETED DEVELOPMENT ARCHITECTURE",
+          "role": "outcome"
+        },
+        {
+          "text": "WHERE REINFORCING CLEAVAGES ARE IDENTIFIED",
+          "role": "comparison"
+        },
+        {
+          "text": "REFORM GAP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Federal accommodation as a social device: linguistic states and local self-government",
+            "CAUTION: Composite-culture institutions: shared festivals, syncretic shrines and regional",
+            "CAUTION: Targeted development architecture: where reinforcing cleavages are identified",
+            "CAUTION: Reform gap: recognition-only responses (declaring a group's festival a holiday,"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Boundary case 1 — diversity without marginality: a prosperous linguistic-minority",
+            "CAUTION: Boundary case 2 — marginality without conspicuous diversity: a landless labouring",
+            "CAUTION: Boundary case 3 — reinforcing case: a Particularly Vulnerable Tribal Group household",
+            "CAUTION: Correlation-causation conflation: treating diversity as causal (rather than as a"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "CAUTION: Aggregation masking: national-level diversity statistics can mask which specific",
+            "Indo-Aryan, Dravidian, Austroasiatic and Tibeto-Burman are the four large language",
+            "Census 2011 recorded 121 rationalised languages spoken by 10,000 or more persons, from",
+            "Scheduled Tribes were about 8.6% and Scheduled Castes about 16.6% of the population at"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2550 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\geography-30-primary-economic-activities-agriculture_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\geography-30-primary-economic-activities-agriculture_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "geography-30-primary-economic-activities-agriculture",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 11,
+      "markdown_body_line_end": 19,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 666.691
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 426.49
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 40,
+      "markdown_body_line_end": 40,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\assets\\geography-30_Teaching-Navigation_2026-08-23.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 47,
+      "markdown_body_line_end": 47,
+      "heading": "Visual first",
+      "preview": "Roadmap from primary-activity basics to location, systems, change and exam application",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\assets\\01_topic-roadmap.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 415.356
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 107.82
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 51,
+      "markdown_body_line_end": 54,
+      "heading": "Visual first",
+      "preview": "NATURAL BASE -> FARMING SYSTEM -> LOCATION -> MARKET LINK -> CHANGE -> EXAM ANSWER",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 776.291
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 70,
+      "heading": "Plain-language explanation",
+      "preview": "Never merge these labels | Safe reading rule",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Never merge these labels",
+          "Safe reading rule"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 701.691
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 526.29
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 72,
+      "markdown_body_line_end": 75,
+      "heading": "Plain-language explanation",
+      "preview": "FACT: The v1 evidence register was retrieved on 19 August 2026. Its 2025-26 Third Advance Estimate is not presented as final. It records foodgrains at 3765.63 lakh tonnes and nine oilseeds at 430.59 lakh tonnes; the oilseed aggregate is als",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 526.29
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 467.422
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 104,
+      "markdown_body_line_end": 115,
+      "heading": "VISUAL FIRST",
+      "preview": "WHAT AGRICULTURAL GEOGRAPHY STUDIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 127,
+      "markdown_body_line_end": 127,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A good GS-I opening line is: Agricultural geography explains the spatial organisation of production through the interaction of ecological suitability and human choice.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 573.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 506.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 142,
+      "markdown_body_line_end": 142,
+      "heading": "Visual first",
+      "preview": "Primary activities classified by direct dependence on nature",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\assets\\02_primary-activity-taxonomy.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 311.824
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 181,
+      "markdown_body_line_end": 198,
+      "heading": "CLOSING RECALL FLOW - WHAT AGRICULTURAL GEOGRAPHY STUDIES",
+      "preview": "START / CONCEPT: WHAT AGRICULTURAL GEOGRAPHY STUDIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 196
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 203,
+      "markdown_body_line_end": 214,
+      "heading": "VISUAL FIRST",
+      "preview": "THE SIX CONTROLS OF AGRICULTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 506.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 395.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 226,
+      "markdown_body_line_end": 226,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "For a location question, organise the answer under physical controls and human controls, then show their interaction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 306.491
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 239.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 241,
+      "markdown_body_line_end": 241,
+      "heading": "Visual first",
+      "preview": "Physical and human controls that jointly shape agricultural location",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\assets\\07_physical-controls-matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 479.756
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 247,
+      "markdown_body_line_end": 254,
+      "heading": "Plain-language explanation",
+      "preview": "Control | What it decides | Easy example",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "What it decides",
+          "Easy example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 438.556
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 241.954
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 284,
+      "markdown_body_line_end": 301,
+      "heading": "CLOSING RECALL FLOW - THE SIX CONTROLS OF AGRICULTURE",
+      "preview": "START / CONCEPT: THE SIX CONTROLS OF AGRICULTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 194
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 744.591
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 523.591
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 306,
+      "markdown_body_line_end": 317,
+      "heading": "VISUAL FIRST",
+      "preview": "MAJOR AGRICULTURAL SYSTEMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 463.591
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 352.591
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 329,
+      "markdown_body_line_end": 329,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A farming system tells us how land, labour, animals, capital and markets are combined.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 263.791
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 211.324
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 344,
+      "markdown_body_line_end": 344,
+      "heading": "Visual first",
+      "preview": "Farming systems compared by subsistence, labour, scale and market orientation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\assets\\03_farming-system-classification.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 479.756
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 350,
+      "markdown_body_line_end": 359,
+      "heading": "Plain-language explanation",
+      "preview": "System | Simple meaning | Typical setting",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 8,
+        "headers": [
+          "System",
+          "Simple meaning",
+          "Typical setting"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 438.556
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 210.754
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 391,
+      "markdown_body_line_end": 408,
+      "heading": "CLOSING RECALL FLOW - MAJOR AGRICULTURAL SYSTEMS",
+      "preview": "START / CONCEPT: MAJOR AGRICULTURAL SYSTEMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 197
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 689.991
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 478.991
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 413,
+      "markdown_body_line_end": 424,
+      "heading": "VISUAL FIRST",
+      "preview": "VON THUNEN — WHY DISTANCE STILL MATTERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 418.991
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 307.991
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 436,
+      "markdown_body_line_end": 436,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Von Thunen is a location model, not a climate classification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 204.991
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 152.524
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 451,
+      "markdown_body_line_end": 451,
+      "heading": "Visual first",
+      "preview": "Classical Von Thunen rings around a central market",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\assets\\05_von-thunen-classical-rings.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 716.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 408.956
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 453,
+      "markdown_body_line_end": 456,
+      "heading": "Visual first",
+      "preview": "MARKET -> perishables/high value -> field crops -> extensive grazing",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 408.956
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 377.956
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 470,
+      "markdown_body_line_end": 470,
+      "heading": "Plain-language explanation",
+      "preview": "Modern transport and cold chains stretch rather than erase distance effects",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\assets\\06_von-thunen-modified-model.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 237.556
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 500,
+      "markdown_body_line_end": 517,
+      "heading": "CLOSING RECALL FLOW - VON THUNEN - WHY DISTANCE STILL MATTERS",
+      "preview": "START / CONCEPT: VON THUNEN — WHY DISTANCE STILL MATTERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 151
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 245.456
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 44.456
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 522,
+      "markdown_body_line_end": 533,
+      "heading": "VISUAL FIRST",
+      "preview": "WORLD AGRICULTURAL REGIONS AND CROP REQUIREMENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 735.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 624.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 545,
+      "markdown_body_line_end": 545,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A crop region is a bundle of suitability, not a single climatic number.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 535.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 483.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 560,
+      "markdown_body_line_end": 560,
+      "heading": "Visual first",
+      "preview": "World agricultural regions linked to climate, labour and markets",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\assets\\08_global-farming-systems.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 479.756
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 567,
+      "markdown_body_line_end": 574,
+      "heading": "Plain-language explanation",
+      "preview": "Region | Dominant pattern | Why it appears there",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Region",
+          "Dominant pattern",
+          "Why it appears there"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 424.356
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 250.154
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 576,
+      "markdown_body_line_end": 576,
+      "heading": "Plain-language explanation",
+      "preview": "A decision tree for linking crop needs to a plausible location",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\assets\\11_crop-location-decision-tree.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 250.154
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        18,
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 580,
+      "markdown_body_line_end": 588,
+      "heading": "Plain-language explanation",
+      "preview": "Crop | Broad requirement | High-yield caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Crop",
+          "Broad requirement",
+          "High-yield caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 476.556
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 292.354
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 614,
+      "markdown_body_line_end": 631,
+      "heading": "CLOSING RECALL FLOW - WORLD AGRICULTURAL REGIONS AND CROP REQUIREMENTS",
+      "preview": "START / CONCEPT: WORLD AGRICULTURAL REGIONS AND CROP REQUIREMENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 161
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 636,
+      "markdown_body_line_end": 647,
+      "heading": "VISUAL FIRST",
+      "preview": "FROM SUBSISTENCE TO COMMERCIALISATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 526.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 415.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 659,
+      "markdown_body_line_end": 659,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Explain commercialisation as a sequence of linked capabilities, not as a simple shift from “traditional” to “modern.”.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 312.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 259.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 674,
+      "markdown_body_line_end": 674,
+      "heading": "Visual first",
+      "preview": "Inputs, farm decisions, outputs and feedbacks in an agroecosystem",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\assets\\04_agroecosystem-flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 479.756
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 676,
+      "markdown_body_line_end": 679,
+      "heading": "Visual first",
+      "preview": "SUBSISTENCE -> SURPLUS -> SPECIALISATION -> PROCESSING AND VALUE CHAINS",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 479.756
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 448.756
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 685,
+      "markdown_body_line_end": 691,
+      "heading": "Plain-language explanation",
+      "preview": "Driver | Spatial consequence",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Driver",
+          "Spatial consequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 407.556
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 276.954
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 724,
+      "markdown_body_line_end": 724,
+      "heading": "Visual first",
+      "preview": "Official-data status ladder and the labels that must not be collapsed",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\assets\\29_current-data-status-firewall.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 758.791
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 451.256
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 764,
+      "markdown_body_line_end": 781,
+      "heading": "CLOSING RECALL FLOW - FROM SUBSISTENCE TO COMMERCIALISATION",
+      "preview": "START / CONCEPT: FROM SUBSISTENCE TO COMMERCIALISATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 217
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 786,
+      "markdown_body_line_end": 797,
+      "heading": "VISUAL FIRST",
+      "preview": "NON-FARM PRIMARY ACTIVITIES — THE PHYSIOGRAPHY PRINCIPLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 477.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 366.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 809,
+      "markdown_body_line_end": 809,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Physiography sets where the resource can exist; human systems decide whether and how it is used.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 263.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 210.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 824,
+      "markdown_body_line_end": 827,
+      "heading": "Visual first",
+      "preview": "PHYSIOGRAPHY -> RESOURCE OCCURRENCE -> ACCESS -> ACTIVITY LOCATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 756.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 863,
+      "markdown_body_line_end": 880,
+      "heading": "CLOSING RECALL FLOW - NON-FARM PRIMARY ACTIVITIES - THE PHYSIOGRAPHY PRINCIPLE",
+      "preview": "START / CONCEPT: NON-FARM PRIMARY ACTIVITIES — THE PHYSIOGRAPHY PRINCIPLE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 181
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 422.191
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 221.191
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 885,
+      "markdown_body_line_end": 896,
+      "heading": "VISUAL FIRST",
+      "preview": "FISHING",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 908,
+      "markdown_body_line_end": 908,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Coastal state does not automatically mean the same fishing potential.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 587.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 535.024
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 923,
+      "markdown_body_line_end": 928,
+      "heading": "Visual first",
+      "preview": "BROAD SHALLOW SHELF + SUNLIGHT + NUTRIENTS -> PLANKTON -> FISHING GROUND",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 340.224
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 289.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 963,
+      "markdown_body_line_end": 980,
+      "heading": "CLOSING RECALL FLOW - FISHING",
+      "preview": "START / CONCEPT: FISHING",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 200
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 724.391
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 503.391
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 985,
+      "markdown_body_line_end": 996,
+      "heading": "VISUAL FIRST",
+      "preview": "FORESTRY AND FOREST PRODUCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 443.391
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 332.391
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1008,
+      "markdown_body_line_end": 1008,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Forestry location is shaped by forest type, slope, accessibility and rights.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 243.591
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 191.124
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1023,
+      "markdown_body_line_end": 1028,
+      "heading": "Visual first",
+      "preview": "Physiographic control | What it changes",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Physiographic control",
+          "What it changes"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 652.69
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1061,
+      "markdown_body_line_end": 1078,
+      "heading": "CLOSING RECALL FLOW - FORESTRY AND FOREST PRODUCE",
+      "preview": "START / CONCEPT: FORESTRY AND FOREST PRODUCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 220
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 351.99
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 130.99
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1083,
+      "markdown_body_line_end": 1094,
+      "heading": "VISUAL FIRST",
+      "preview": "MINING AND QUARRYING",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 754.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 643.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1106,
+      "markdown_body_line_end": 1106,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Quarrying may be widespread, but riverbed mining and hill cutting can destabilise channels and slopes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 526.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 473.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1121,
+      "markdown_body_line_end": 1127,
+      "heading": "Visual first",
+      "preview": "Geological setting | Typical occurrence | Location implication",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Geological setting",
+          "Typical occurrence",
+          "Location implication"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 634.29
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1161,
+      "markdown_body_line_end": 1161,
+      "heading": "Visual first",
+      "preview": "A Geography answer spine from claim and map logic to qualification and verdict",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\assets\\30_upsc-answer-spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 312.59
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        29,
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1167,
+      "markdown_body_line_end": 1172,
+      "heading": "Plain-language explanation",
+      "preview": "Directive | What the answer must do",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Directive",
+          "What the answer must do"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 454.556
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 300.354
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1179,
+      "markdown_body_line_end": 1183,
+      "heading": "Plain-language explanation",
+      "preview": "UNEVEN PRECONDITIONS -> UNEVEN ADOPTION -> SURPLUS CORE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 252.754
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 211.754
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1210,
+      "markdown_body_line_end": 1227,
+      "heading": "CLOSING RECALL FLOW - MINING AND QUARRYING",
+      "preview": "START / CONCEPT: MINING AND QUARRYING",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 250
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 731.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 500.891
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1232,
+      "markdown_body_line_end": 1243,
+      "heading": "VISUAL FIRST",
+      "preview": "CORE EXAM MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 440.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 329.891
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1255,
+      "markdown_body_line_end": 1255,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Prelims: farming-system distinctions; crop-climate links; Von Thunen; primary-activity classification; official-data labels.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 226.891
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 160.224
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1276,
+      "markdown_body_line_end": 1293,
+      "heading": "CLOSING RECALL FLOW - CORE EXAM MAP",
+      "preview": "START / CONCEPT: CORE EXAM MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 187
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 640.691
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 429.691
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1305,
+      "markdown_body_line_end": 1313,
+      "heading": "VISUAL FIRST",
+      "preview": "KHARIF: monsoon sowing → rice/cotton/millets/soybean",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1329,
+      "markdown_body_line_end": 1337,
+      "heading": "VISUAL FIRST",
+      "preview": "MARKET ACCESS + PERISHABILITY + FREIGHT + LAND RENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 532.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 451.091
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1352,
+      "markdown_body_line_end": 1358,
+      "heading": "VISUAL FIRST",
+      "preview": "MSP ANNOUNCEMENT ≠ PROCUREMENT ≠ FARM-GATE REALISATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 726.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1374,
+      "markdown_body_line_end": 1379,
+      "heading": "VISUAL FIRST",
+      "preview": "RELIEF / GEOLOGY / COAST / DRAINAGE / FOREST",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 552.091
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 501.091
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1792,
+      "markdown_body_line_end": 1798,
+      "heading": "Basic remediation ladder",
+      "preview": "Error pattern | Repair action | Mastery test",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Error pattern",
+          "Repair action",
+          "Mastery test"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 585.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 409.89
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2871,
+      "markdown_body_line_end": 2871,
+      "heading": "Visual first",
+      "preview": "Kharif, Rabi and Zaid read as different climate and water geographies",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\assets\\09_india-seasons-calendar.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 439.691
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 132.156
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2873,
+      "markdown_body_line_end": 2873,
+      "heading": "Visual first",
+      "preview": "India's major agricultural mosaics from irrigated plains to drylands and plantation highlands",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\assets\\10_agro-climatic-regionalisation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2880,
+      "markdown_body_line_end": 2884,
+      "heading": "Plain-language explanation",
+      "preview": "Season | Basic timing | Geographic logic",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Season",
+          "Basic timing",
+          "Geographic logic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 440.356
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 318.554
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2914,
+      "markdown_body_line_end": 2914,
+      "heading": "Visual first",
+      "preview": "Landholding definitions and the distinction between ownership and operation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\assets\\15_landholding-tenure-firewall.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 455.756
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2916,
+      "markdown_body_line_end": 2916,
+      "heading": "Visual first",
+      "preview": "Schematic crop belts for foodgrains and fibres; not a current ranking chart",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\assets\\12_major-crop-belts-foodgrains-fibres.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 455.756
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 148.22
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2924,
+      "markdown_body_line_end": 2929,
+      "heading": "Plain-language explanation",
+      "preview": "Factor | Regional effect",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Factor",
+          "Regional effect"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 671.49
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2931,
+      "markdown_body_line_end": 2939,
+      "heading": "Plain-language explanation",
+      "preview": "Soil group | Core association | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Soil group",
+          "Core association",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 671.49
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 442.488
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2966,
+      "markdown_body_line_end": 2966,
+      "heading": "Visual first",
+      "preview": "The Green Revolution as a package with spatially selective preconditions and outcomes",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\assets\\14_green-revolution-chain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 479.756
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2974,
+      "markdown_body_line_end": 2979,
+      "heading": "Plain-language explanation",
+      "preview": "Package element | Spatial outcome",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Package element",
+          "Spatial outcome"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 424.356
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 314.954
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3008,
+      "markdown_body_line_end": 3008,
+      "heading": "Visual first",
+      "preview": "From price recommendation and announcement to geographically selective procurement",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\assets\\20_msp-procurement-chain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 455.756
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3010,
+      "markdown_body_line_end": 3010,
+      "heading": "Visual first",
+      "preview": "Production, procurement, central-pool movement and distribution kept as distinct stages",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\assets\\22_food-security-architecture.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 455.756
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 148.22
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3017,
+      "markdown_body_line_end": 3020,
+      "heading": "Plain-language explanation",
+      "preview": "CACP recommendation -> Union MSP announcement -> FCI/state procurement",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 776.291
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3026,
+      "markdown_body_line_end": 3031,
+      "heading": "Plain-language explanation",
+      "preview": "Actor | Geographic role",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Actor",
+          "Geographic role"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 742.891
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 633.49
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3059,
+      "markdown_body_line_end": 3059,
+      "heading": "Visual first",
+      "preview": "The feedback between cheap pumping, aquifer decline, energy use and crop choice",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\assets\\16_irrigation-and-groundwater-energy-nexus.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 372.39
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 64.854
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3101,
+      "markdown_body_line_end": 3101,
+      "heading": "Visual first",
+      "preview": "Current agriculture policies mapped to income, risk, water, markets, infrastructure, data and transition",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\assets\\27_current-schemes-architecture.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 389.591
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 82.056
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3103,
+      "markdown_body_line_end": 3103,
+      "heading": "Visual first",
+      "preview": "Status ladder for distinguishing policy activity from outcome and impact",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\assets\\29_current-data-status-firewall.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3113,
+      "markdown_body_line_end": 3123,
+      "heading": "Plain-language explanation",
+      "preview": "Dated official evidence retained from v1 | Safe use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Dated official evidence retained from v1",
+          "Safe use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 411.956
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 174.154
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3127,
+      "markdown_body_line_end": 3130,
+      "heading": "Plain-language explanation",
+      "preview": "ANNOUNCEMENT -> APPROVAL -> GUIDELINES -> SELECTION/ALLOCATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 154.954
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 123.954
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 3159,
+      "markdown_body_line_end": 3159,
+      "heading": "Visual first",
+      "preview": "Claim, evidence, analysis, qualification and verdict for a high-scoring Geography answer",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-30\\g15\\assets\\30_upsc-answer-spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 581.391
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 273.856
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3306,
+      "markdown_body_line_end": 3335,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Agricultural geography as a natural-human-market system",
+      "preview": "+-------------- AGRICULTURAL GEOGRAPHY ----------------+",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 28,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 622.891
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 326.291
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3339,
+      "markdown_body_line_end": 3358,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Farming-system classification by ecology, labour and market",
+      "preview": "+----------------------+-----------------------+----------------------+",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 304.291
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 109.691
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3362,
+      "markdown_body_line_end": 3384,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Von Thunen rings and the survival of distance",
+      "preview": "CENTRAL MARKET",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 21,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 562.091
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3388,
+      "markdown_body_line_end": 3407,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: World crop regions and ecological requirements",
+      "preview": "+---------+--------------------------+----------------------------+",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 540.091
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 345.491
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3411,
+      "markdown_body_line_end": 3432,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: India's agro-climatic mosaic, Green Revolution and food chain",
+      "preview": "INDIA'S AGRICULTURAL MOSAIC",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 323.491
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 108.491
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3436,
+      "markdown_body_line_end": 3457,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Fishing, forestry, mining and quarrying through physiography",
+      "preview": "+------------+---------------------------+-------------------------+",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 572.291
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3461,
+      "markdown_body_line_end": 3484,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Sustainable agriculture and intervention stack",
+      "preview": "REGIONAL PRODUCTION PRESSURE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 22,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 550.291
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 314.891
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3488,
+      "markdown_body_line_end": 3512,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Map-answer and Mains spine for agricultural geography",
+      "preview": "QUESTION: Why is agricultural change spatially unequal?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 23,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 541.691
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3516,
+      "markdown_body_line_end": 3522,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Evidence ladder and confidence control",
+      "preview": "EVIDENCE LADDER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 519.691
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 457.691
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3526,
+      "markdown_body_line_end": 3540,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Examiner traps and contested boundaries",
+      "preview": "CLOSE DISTINCTIONS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 435.691
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 292.091
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3544,
+      "markdown_body_line_end": 3560,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Integrated answer spine and qualified conclusion",
+      "preview": "ANSWER SPINE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 15,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 623.291
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3564,
+      "markdown_body_line_end": 3570,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Evidence ladder and confidence control - DEEP-REVIEW SYNTHESIS 2",
+      "preview": "EVIDENCE LADDER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 80,
+          "frame_y": 588.291
+        },
+        "end": {
+          "page": 80,
+          "frame_y": 526.291
+        }
+      },
+      "pdf_pages": [
+        80
+      ]
+    }
+  ]
+}

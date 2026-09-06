@@ -1,0 +1,2057 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g5\\governance-01_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g5\\governance-01_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "governance-01",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Good Governance: Concepts and Frameworks - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-02. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 29,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 509.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-01\\g5\\assets\\governance-01_Teaching-Navigation_2026-09-02.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Government, governance and the normative test should be analysed as a relation among Government as a formal authority set, Governance as a wider decision process and Good governance as a normative standard, not as a list of virtues attached",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 265.756
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 184.888
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 88,
+      "heading": "VISUAL FIRST",
+      "preview": "GOVERNMENT, GOVERNANCE AND THE NORMATIVE TEST",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 193
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 705.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 594.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 118,
+      "markdown_body_line_end": 125,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 52.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 680.573
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 137,
+      "markdown_body_line_end": 137,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Worldwide Governance Indicators frame should be analysed as a relation among Worldwide Governance Indicators: six dimensions and The perception basis of the Worldwide Governance Indicators, not as a list of virtues attached to the word ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 483.973
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 403.105
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 152,
+      "markdown_body_line_end": 159,
+      "heading": "VISUAL FIRST",
+      "preview": "THE WORLDWIDE GOVERNANCE INDICATORS FRAME",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 168
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 188,
+      "markdown_body_line_end": 195,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 252.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 138.523
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 207,
+      "markdown_body_line_end": 207,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "UNDP principles as a process checklist should be analysed as a relation among UNDP principles as a checklist, not an index, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 650.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 584.224
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 222,
+      "markdown_body_line_end": 226,
+      "heading": "VISUAL FIRST",
+      "preview": "UNDP PRINCIPLES AS A PROCESS CHECKLIST",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 103
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 375.224
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 324.224
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 254,
+      "markdown_body_line_end": 261,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 719.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 613.673
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 273,
+      "markdown_body_line_end": 273,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Second ARC frame and the patchwork of sector laws should be analysed as a relation among The Second ARC frame and the absence of one governance statute, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 417.073
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 350.405
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 288,
+      "markdown_body_line_end": 292,
+      "heading": "VISUAL FIRST",
+      "preview": "THE SECOND ARC FRAME AND THE PATCHWORK OF SECTOR LAWS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 173
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 320,
+      "markdown_body_line_end": 327,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 314.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 199.923
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 339,
+      "markdown_body_line_end": 339,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "DARPG as reformer and measurer should be analysed as a relation among DARPG as reformer and measurer in one department, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 354,
+      "markdown_body_line_end": 358,
+      "heading": "VISUAL FIRST",
+      "preview": "DARPG AS REFORMER AND MEASURER",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 186
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 519.424
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 468.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 386,
+      "markdown_body_line_end": 393,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 103.224
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 701.873
+        }
+      },
+      "pdf_pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 405,
+      "markdown_body_line_end": 405,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Good Governance Day as a dated institutional anchor should be analysed as a relation among Good Governance Day, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 533.673
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 467.005
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 420,
+      "markdown_body_line_end": 424,
+      "heading": "VISUAL FIRST",
+      "preview": "GOOD GOVERNANCE DAY AS A DATED INSTITUTIONAL ANCHOR",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 133
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 452,
+      "markdown_body_line_end": 459,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 399.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 293.473
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 471,
+      "markdown_body_line_end": 471,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Good Governance Index and its located edition should be analysed as a relation among Good Governance Index launch and latest located edition, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 111.073
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 44.405
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 486,
+      "markdown_body_line_end": 490,
+      "heading": "VISUAL FIRST",
+      "preview": "THE GOOD GOVERNANCE INDEX AND ITS LOCATED EDITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 142
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 600.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 549.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 518,
+      "markdown_body_line_end": 525,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 169.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 63.873
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 537,
+      "markdown_body_line_end": 537,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Reading Good Governance Index groupings by edition should be analysed as a relation among Edition-specific Good Governance Index grouping, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 552,
+      "markdown_body_line_end": 556,
+      "heading": "VISUAL FIRST",
+      "preview": "READING GOOD GOVERNANCE INDEX GROUPINGS BY EDITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 122
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 356.224
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 305.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 584,
+      "markdown_body_line_end": 591,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 685.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 570.923
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 603,
+      "markdown_body_line_end": 603,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Withdrawn claims and prohibited assertions should be analysed as a relation among The withdrawn Good Governance Index 2025 claim and The District Good Governance Index is not a national edition, not as a list of virtues attached to the word",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 393.323
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 312.455
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 618,
+      "markdown_body_line_end": 625,
+      "heading": "VISUAL FIRST",
+      "preview": "WITHDRAWN CLAIMS AND PROHIBITED ASSERTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 115
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 654,
+      "markdown_body_line_end": 661,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 238.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 124.323
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 673,
+      "markdown_body_line_end": 673,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Rule of Law Index attribution should be analysed as a relation among The Rule of Law Index attribution, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 665.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 688,
+      "markdown_body_line_end": 692,
+      "heading": "VISUAL FIRST",
+      "preview": "THE RULE OF LAW INDEX ATTRIBUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 110
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 389.424
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 338.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 720,
+      "markdown_body_line_end": 727,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 681.273
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 739,
+      "markdown_body_line_end": 739,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Four measurement instruments at four scales should be analysed as a relation among Four measurement instruments at four different scales, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 517.873
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 451.205
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 754,
+      "markdown_body_line_end": 758,
+      "heading": "VISUAL FIRST",
+      "preview": "FOUR MEASUREMENT INSTRUMENTS AT FOUR SCALES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 114
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 786,
+      "markdown_body_line_end": 793,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 356.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 250.873
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 805,
+      "markdown_body_line_end": 805,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Norms to instruments: legality, transparency and answerability should be analysed as a relation among Norms to instruments: legality, transparency and answerability, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 820,
+      "markdown_body_line_end": 824,
+      "heading": "VISUAL FIRST",
+      "preview": "NORMS TO INSTRUMENTS: LEGALITY, TRANSPARENCY AND ANSWERABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 482.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 852,
+      "markdown_body_line_end": 859,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 89.024
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 710.223
+        }
+      },
+      "pdf_pages": [
+        25,
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 871,
+      "markdown_body_line_end": 871,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Norms to instruments: participation, responsiveness, equity and effectiveness should be analysed as a relation among Norms to instruments: participation, responsiveness, equity and effectiveness, not as a list of virtues attached to the wor",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 513.623
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 432.755
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 886,
+      "markdown_body_line_end": 890,
+      "heading": "VISUAL FIRST",
+      "preview": "NORMS TO INSTRUMENTS: PARTICIPATION, RESPONSIVENESS, EQUITY AND EFFECTIVENESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 169
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 918,
+      "markdown_body_line_end": 925,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 257.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 143.123
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 937,
+      "markdown_body_line_end": 937,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Where a norm stops becoming an outcome should be analysed as a relation among The seven-stage chain from norm to outcome, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 952,
+      "markdown_body_line_end": 956,
+      "heading": "VISUAL FIRST",
+      "preview": "WHERE A NORM STOPS BECOMING AN OUTCOME",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 133
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 356.224
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 305.224
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 984,
+      "markdown_body_line_end": 991,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 637.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 523.523
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1003,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Critically examining an index and answering the objections should be analysed as a relation among Five tests for any governance index and Counter-arguments and the behavioural-insights anchor, not as a list of virtues attached to the word g",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 326.923
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 246.055
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1018,
+      "markdown_body_line_end": 1025,
+      "heading": "VISUAL FIRST",
+      "preview": "CRITICALLY EXAMINING AN INDEX AND ANSWERING THE OBJECTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 137
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1061,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 139.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        30,
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1065,
+      "markdown_body_line_end": 1071,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Governance | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II. **Core area:** Governance vs government; the meaning and measurement of \"good governance.\" **Grounded in:** 2nd ARC 12th Report *Citizen-Centric Administration*",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 770.323
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 646.855
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1075,
+      "markdown_body_line_end": 1099,
+      "heading": "1. Visual foundation",
+      "preview": "GOVERNMENT                         GOVERNANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 624.855
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 383.855
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1108,
+      "markdown_body_line_end": 1114,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 319.255
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 54.254
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1232,
+      "markdown_body_line_end": 1235,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Good governance is not a synonym for good government; it is the normative standard — rule of law, transparency, accountability, responsiveness and effectiveness — against which the exercise of public authority by state an",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1258,
+      "markdown_body_line_end": 1261,
+      "heading": "13. Answer architecture (10/15/20-mark support)",
+      "preview": "**Scope of this section.** Everything a directive-sensitive, thesis-led GS-II answer on *good governance as a concept and as a measured standard* requires is held **in this file**. `advanced/01` is optional deeper reading on transmission mo",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 471.824
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 390.956
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1265,
+      "markdown_body_line_end": 1272,
+      "heading": "13.1 Demand map - what each directive actually asks",
+      "preview": "Stem pattern | What is really being tested | Opening move that scores",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Stem pattern",
+          "What is really being tested",
+          "Opening move that scores"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 368.956
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 82.754
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1337,
+      "markdown_body_line_end": 1345,
+      "heading": "13.4 Evidence bank A - the seven norms with Indian anchors",
+      "preview": "Norm | Named Indian anchor | Mechanism | Limitation / status caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Norm",
+          "Named Indian anchor",
+          "Mechanism",
+          "Limitation / status caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 739.691
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 435.79
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1349,
+      "markdown_body_line_end": 1356,
+      "heading": "13.5 Evidence bank B - the measurement layer (distinct from Bank A)",
+      "preview": "Instrument | What it measures | Governance function | Limitation you must state",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Instrument",
+          "What it measures",
+          "Governance function",
+          "Limitation you must state"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 413.79
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 140.888
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1365,
+      "markdown_body_line_end": 1374,
+      "heading": "13.6 Causal mechanism - how a norm becomes (or fails to become) an outcome",
+      "preview": "NORM (e.g. transparency)",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 696.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1416,
+      "markdown_body_line_end": 1421,
+      "heading": "13.8A Behavioural insights as a governance tool",
+      "preview": "Tool | Indian anchor | Why it can work | Limitation / ethical check",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Tool",
+          "Indian anchor",
+          "Why it can work",
+          "Limitation / ethical check"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 586.89
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1469,
+      "markdown_body_line_end": 1471,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1477,
+      "markdown_body_line_end": 1479,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 676.824
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 590.422
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1485,
+      "markdown_body_line_end": 1485,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 551.222
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 506.554
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2341,
+      "markdown_body_line_end": 2343,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 651.891
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 571.024
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2349,
+      "markdown_body_line_end": 2351,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 519.424
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 433.022
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2357,
+      "markdown_body_line_end": 2357,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 78,
+          "frame_y": 393.822
+        },
+        "end": {
+          "page": 78,
+          "frame_y": 349.154
+        }
+      },
+      "pdf_pages": [
+        78
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2596,
+      "markdown_body_line_end": 2601,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Governance | **Tier:** Advanced | **GS Paper:** GS-II. **Core area:** Governance vs government; the meaning and measurement of \"good governance.\" **Grounded in:** 2nd ARC 4th and 12th Reports; World Bank WGI methodology; UNDP g",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 313.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 226.024
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2605,
+      "markdown_body_line_end": 2622,
+      "heading": "1. Architecture",
+      "preview": "MEASUREMENT LAYER                    NORMATIVE LAYER",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2631,
+      "markdown_body_line_end": 2637,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 537.491
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 216.49
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2823,
+      "markdown_body_line_end": 2829,
+      "heading": "Good Governance: Concepts and Frameworks: ANSWER-WRITING SPINE",
+      "preview": "NAME THE NORM OR PROBLEM -> IDENTIFY THE DUTY-HOLDER AND THE BINDING FORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 304.691
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 243.691
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2839,
+      "markdown_body_line_end": 2845,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Three terms, one test",
+      "preview": "GOVERNMENT -> legislature, executive, judiciary; the formal authority-holders",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 701.291
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2849,
+      "markdown_body_line_end": 2854,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Measurement layer against normative layer",
+      "preview": "MEASUREMENT -> Worldwide Governance Indicators, six dimensions, aggregated perception",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 627.491
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2858,
+      "markdown_body_line_end": 2863,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: The six named dimensions",
+      "preview": "VOICE AND ACCOUNTABILITY | POLITICAL STABILITY AND ABSENCE OF VIOLENCE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 605.491
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 553.691
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2867,
+      "markdown_body_line_end": 2872,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Good Governance Index edition card",
+      "preview": "LAUNCH -> 25 December 2019 by the Department of Administrative Reforms and Public Grievances",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 531.691
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 479.891
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2876,
+      "markdown_body_line_end": 2881,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: What may not be asserted",
+      "preview": "SAFE -> launch date, located edition, edition-specific grouping, Good Governance Day since 2014",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 457.891
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 406.091
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2885,
+      "markdown_body_line_end": 2891,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Attribution discipline",
+      "preview": "WORLD BANK -> Worldwide Governance Indicators, six dimensions, cross-country",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 384.091
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 322.091
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2895,
+      "markdown_body_line_end": 2900,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Four objects at four scales",
+      "preview": "CROSS-COUNTRY -> Worldwide Governance Indicators benchmark over time",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 300.091
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 248.291
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2904,
+      "markdown_body_line_end": 2909,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Norm to instrument, legality half",
+      "preview": "RULE OF LAW -> Article 14 non-arbitrariness and reasoned orders; uneven below the regulator tier",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2913,
+      "markdown_body_line_end": 2918,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Norm to instrument, delivery half",
+      "preview": "PARTICIPATION -> Section 17 Gram Sabha social audit; Pre-Legislative Consultation Policy, 2014",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2922,
+      "markdown_body_line_end": 2927,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Seven stages from norm to outcome",
+      "preview": "LEGAL FORM -> Act, rule, guideline or executive policy, and who is bound",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2931,
+      "markdown_body_line_end": 2936,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Five index tests",
+      "preview": "INDICATOR VALIDITY -> does it measure the governed outcome or an easily counted input",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2940,
+      "markdown_body_line_end": 2946,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Answer spine and answered objections",
+      "preview": "OPEN -> separate the institution set, the decision process and the normative standard",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 430.091
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2354 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-05\\g3\\governance-05_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-05\\g3\\governance-05_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "governance-05",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "E-Governance Models and User-Centricity - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-02. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 29,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 461.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-05\\g3\\assets\\governance-05_Teaching-Navigation_2026-09-02.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "What e-governance is and who is on the other side should be analysed as a relation among The five classical e-governance models and E-governance across four interaction domains, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 265.756
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 184.888
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 85,
+      "heading": "VISUAL FIRST",
+      "preview": "WHAT E-GOVERNANCE IS AND WHO IS ON THE OTHER SIDE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 177
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 719.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 638.491
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 114,
+      "markdown_body_line_end": 121,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 57.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 688.923
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 133,
+      "markdown_body_line_end": 133,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Interactive Service Model against the other four should be analysed as a relation among The Interactive Service Model, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 520.723
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 454.055
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 148,
+      "markdown_body_line_end": 152,
+      "heading": "VISUAL FIRST",
+      "preview": "THE INTERACTIVE SERVICE MODEL AGAINST THE OTHER FOUR",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 132
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 187,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 356.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 250.873
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 199,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Digitisation is not e-governance should be analysed as a relation among Digitisation as precondition, not goal, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 101.673
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 801.024
+        }
+      },
+      "pdf_pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 214,
+      "markdown_body_line_end": 218,
+      "heading": "VISUAL FIRST",
+      "preview": "DIGITISATION IS NOT E-GOVERNANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 592.024
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 551.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 246,
+      "markdown_body_line_end": 253,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 200.024
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 94.005
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 265,
+      "markdown_body_line_end": 265,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The maturity axis kept separate from the model axis should be analysed as a relation among The maturity axis kept separate from the model axis, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 280,
+      "markdown_body_line_end": 284,
+      "heading": "VISUAL FIRST",
+      "preview": "THE MATURITY AXIS KEPT SEPARATE FROM THE MODEL AXIS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 135
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 356.224
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 305.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 312,
+      "markdown_body_line_end": 319,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 666.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 560.273
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 331,
+      "markdown_body_line_end": 331,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Digital India as umbrella and its exact boundary should be analysed as a relation among Digital India as the umbrella programme, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 396.873
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 330.205
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 346,
+      "markdown_body_line_end": 350,
+      "heading": "VISUAL FIRST",
+      "preview": "DIGITAL INDIA AS UMBRELLA AND ITS EXACT BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 136
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 378,
+      "markdown_body_line_end": 385,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 328.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 214.123
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 397,
+      "markdown_body_line_end": 397,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The assessment framework and its listed parameters should be analysed as a relation among NeSDA and its assessed portal parameters, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 717.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 412,
+      "markdown_body_line_end": 416,
+      "heading": "VISUAL FIRST",
+      "preview": "THE ASSESSMENT FRAMEWORK AND ITS LISTED PARAMETERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 126
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 508.424
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 457.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 444,
+      "markdown_body_line_end": 451,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 63.824
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 718.573
+        }
+      },
+      "pdf_pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 463,
+      "markdown_body_line_end": 463,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The twin service-completion parameters should be analysed as a relation among The twin service-completion parameters, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 555.173
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 488.505
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 478,
+      "markdown_body_line_end": 482,
+      "heading": "VISUAL FIRST",
+      "preview": "THE TWIN SERVICE-COMPLETION PARAMETERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 109
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 510,
+      "markdown_body_line_end": 517,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 385.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 279.273
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 529,
+      "markdown_body_line_end": 529,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Dated implementation figures and the launch rule should be analysed as a relation among NeSDA-Way Forward and a dated implementation figure and Portal launch is not a published assessment, not as a list of virtues attached to the word gover",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 544,
+      "markdown_body_line_end": 551,
+      "heading": "VISUAL FIRST",
+      "preview": "DATED IMPLEMENTATION FIGURES AND THE LAUNCH RULE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 134
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 519.424
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 438.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 580,
+      "markdown_body_line_end": 587,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 699.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 585.123
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 599,
+      "markdown_body_line_end": 599,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Why the back-end bias is structural should be analysed as a relation among Why the back-end bias is structural and Higher ambition carries higher design risk, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 421.723
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 355.055
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 614,
+      "markdown_body_line_end": 621,
+      "heading": "VISUAL FIRST",
+      "preview": "WHY THE BACK-END BIAS IS STRUCTURAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 127
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 650,
+      "markdown_body_line_end": 657,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 110.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 669,
+      "markdown_body_line_end": 669,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Transparency separated from accountability should be analysed as a relation among Transparency separated from accountability, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 606.923
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 540.255
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 684,
+      "markdown_body_line_end": 688,
+      "heading": "VISUAL FIRST",
+      "preview": "TRANSPARENCY SEPARATED FROM ACCOUNTABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 331.255
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 290.255
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 716,
+      "markdown_body_line_end": 723,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 630.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 524.073
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 735,
+      "markdown_body_line_end": 735,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Availability, accessibility and use value should be analysed as a relation among Availability, accessibility and use value, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 360.673
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 294.005
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 750,
+      "markdown_body_line_end": 754,
+      "heading": "VISUAL FIRST",
+      "preview": "AVAILABILITY, ACCESSIBILITY AND USE VALUE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 782,
+      "markdown_body_line_end": 789,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 324.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 209.923
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 801,
+      "markdown_body_line_end": 801,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Seven vital factors in an information-technology project should be analysed as a relation among Seven vital factors in an information-technology project, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 717.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 816,
+      "markdown_body_line_end": 820,
+      "heading": "VISUAL FIRST",
+      "preview": "SEVEN VITAL FACTORS IN AN INFORMATION-TECHNOLOGY PROJECT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 116
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 508.424
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 457.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 848,
+      "markdown_body_line_end": 855,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 672.923
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 867,
+      "markdown_body_line_end": 867,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Fourth Industrial Revolution claim, bounded should be analysed as a relation among The Fourth Industrial Revolution claim, bounded, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 490.523
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 423.855
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 882,
+      "markdown_body_line_end": 886,
+      "heading": "VISUAL FIRST",
+      "preview": "THE FOURTH INDUSTRIAL REVOLUTION CLAIM, BOUNDED",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 914,
+      "markdown_body_line_end": 921,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 310.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 204.073
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 933,
+      "markdown_body_line_end": 933,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The three inadequacy buckets and the exclusion checklist should be analysed as a relation among The three inadequacy buckets and The inclusion and exclusion checklist, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 689.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 948,
+      "markdown_body_line_end": 955,
+      "heading": "VISUAL FIRST",
+      "preview": "THE THREE INADEQUACY BUCKETS AND THE EXCLUSION CHECKLIST",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 122
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 480.024
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 399.024
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 984,
+      "markdown_body_line_end": 991,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 524.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 418.673
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1003,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The mediated interface and honest question ownership should be analysed as a relation among The intermediary is the real interface and Verified question ownership across two ledgers, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 222.073
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 141.205
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1018,
+      "markdown_body_line_end": 1025,
+      "heading": "VISUAL FIRST",
+      "preview": "THE MEDIATED INTERFACE AND HONEST QUESTION OWNERSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 152
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 685.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 604.091
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1061,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 685.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 570.923
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1065,
+      "markdown_body_line_end": 1072,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Governance | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II. **Core area:** The five classical e-governance models, maturity stages, Digital India/NeSDA and user-centric service design. **Grounded in:** Digital India prog",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 570.923
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 447.455
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1076,
+      "markdown_body_line_end": 1089,
+      "heading": "1. Visual foundation",
+      "preview": "FIVE MODELS OF E-GOVERNANCE (standard Indian public-administration typology)",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 425.455
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 294.455
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1098,
+      "markdown_body_line_end": 1104,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 410.29
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1208,
+      "markdown_body_line_end": 1211,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** E-governance ranges from one-way information broadcasting to fully interactive, accountable service transactions; genuine citizen-centric e-governance is achieved only when platform design starts from the citizen's task a",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 593.091
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 534.224
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1233,
+      "markdown_body_line_end": 1236,
+      "heading": "13. Answer architecture (10/15/20-mark support)",
+      "preview": "**Scope.** All marks-bearing content for the *e-governance — applications, models, successes, limitations and potential* clause, including the four demands the 2018–2023 ledger routed to `advanced/05`, is held **in this file**. `advanced/05",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 278.824
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 197.956
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1304,
+      "markdown_body_line_end": 1311,
+      "heading": "13.1 Demand map",
+      "preview": "Stem pattern | What is being tested | Opening move",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Stem pattern",
+          "What is being tested",
+          "Opening move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 297.691
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 78.69
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1346,
+      "markdown_body_line_end": 1350,
+      "heading": "13.4 Evidence bank A - the three analytical axes (never collapse them)",
+      "preview": "Axis | Categories | What it answers | Error it prevents",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Axis",
+          "Categories",
+          "What it answers",
+          "Error it prevents"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 455.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 296.59
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1358,
+      "markdown_body_line_end": 1366,
+      "heading": "13.5 Evidence bank B - Indian anchors",
+      "preview": "Anchor | What it is | Mechanism | Limitation / caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Anchor",
+          "What it is",
+          "Mechanism",
+          "Limitation / caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 399.39
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1370,
+      "markdown_body_line_end": 1388,
+      "heading": "13.6 Causal mechanism - why the back-end bias is structural",
+      "preview": "1 PROCUREMENT INCENTIVE   a tender can specify databases and features precisely;",
+      "metadata": {
+        "language": "text",
+        "line_count": 17,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 377.39
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 196.39
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1455,
+      "markdown_body_line_end": 1456,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 108.891
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 42.224
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1462,
+      "markdown_body_line_end": 1465,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 751.691
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 592.29
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1472,
+      "markdown_body_line_end": 1472,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 535.89
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 491.222
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1479,
+      "markdown_body_line_end": 1481,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 491.222
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 410.354
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1487,
+      "markdown_body_line_end": 1489,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 358.754
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 272.353
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1495,
+      "markdown_body_line_end": 1495,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 233.153
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 188.485
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2381,
+      "markdown_body_line_end": 2382,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 601.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 534.624
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2388,
+      "markdown_body_line_end": 2391,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 483.024
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 323.622
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2398,
+      "markdown_body_line_end": 2398,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 267.222
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 222.554
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2405,
+      "markdown_body_line_end": 2407,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 222.554
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 141.687
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2413,
+      "markdown_body_line_end": 2415,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 716.89
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2421,
+      "markdown_body_line_end": 2421,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 677.69
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 633.022
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2436,
+      "markdown_body_line_end": 2437,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 509.822
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 443.154
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2443,
+      "markdown_body_line_end": 2448,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 391.554
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 107.153
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2457,
+      "markdown_body_line_end": 2457,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 768.891
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 724.224
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2857,
+      "markdown_body_line_end": 2863,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Governance | **Tier:** Advanced | **GS Paper:** GS-II. **Core area:** The five classical e-governance models, maturity stages, NeSDA and user-centric service design. **Grounded in:** Digital India programme; NeSDA (DARPG); audi",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 722.691
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 635.424
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2867,
+      "markdown_body_line_end": 2876,
+      "heading": "1. Architecture",
+      "preview": "FIVE COMPLEMENTARY INFORMATION/INTERACTION STRATEGIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 613.424
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 522.424
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2885,
+      "markdown_body_line_end": 2890,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 112,
+          "frame_y": 443.624
+        },
+        "end": {
+          "page": 112,
+          "frame_y": 110.222
+        }
+      },
+      "pdf_pages": [
+        112
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3048,
+      "markdown_body_line_end": 3049,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 443.691
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 377.024
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3055,
+      "markdown_body_line_end": 3060,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 4,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 325.424
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 41.022
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3069,
+      "markdown_body_line_end": 3069,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 116,
+          "frame_y": 718.491
+        },
+        "end": {
+          "page": 116,
+          "frame_y": 673.824
+        }
+      },
+      "pdf_pages": [
+        116
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3118,
+      "markdown_body_line_end": 3124,
+      "heading": "E-Governance Models and User-Centricity: ANSWER-WRITING SPINE",
+      "preview": "NAME THE NORM OR PROBLEM -> IDENTIFY THE DUTY-HOLDER AND THE BINDING FORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 119,
+          "frame_y": 761.091
+        },
+        "end": {
+          "page": 119,
+          "frame_y": 700.091
+        }
+      },
+      "pdf_pages": [
+        119
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3134,
+      "markdown_body_line_end": 3142,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Five models, one typology",
+      "preview": "BROADCASTING -> wide one-way dissemination of government information",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 119,
+          "frame_y": 424.291
+        },
+        "end": {
+          "page": 119,
+          "frame_y": 341.891
+        }
+      },
+      "pdf_pages": [
+        119
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3146,
+      "markdown_body_line_end": 3151,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Three axes that must not collapse",
+      "preview": "MODEL AXIS -> which information or interaction function is performed",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 119,
+          "frame_y": 319.891
+        },
+        "end": {
+          "page": 119,
+          "frame_y": 268.091
+        }
+      },
+      "pdf_pages": [
+        119
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3155,
+      "markdown_body_line_end": 3160,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Interactive Service Model card",
+      "preview": "DEFINING FEATURE -> apply, pay, track and appeal within one accountable transaction",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3164,
+      "markdown_body_line_end": 3169,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Digitisation against e-governance",
+      "preview": "DIGITISATION -> paper and process converted to digital form; a precondition",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3173,
+      "markdown_body_line_end": 3178,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Programme and assessment card",
+      "preview": "DIGITAL INDIA -> umbrella programme of the Ministry of Electronics and Information Technology",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3182,
+      "markdown_body_line_end": 3188,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Twin service-completion parameters",
+      "preview": "END SERVICE DELIVERY -> is the service completed online, not merely initiated",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 503.891
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3192,
+      "markdown_body_line_end": 3197,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Dated status controls",
+      "preview": "LATEST COMPLETED ASSESSMENT LOCATED -> NeSDA 2021",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 481.891
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 430.091
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3201,
+      "markdown_body_line_end": 3207,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Why the back-end bias is structural",
+      "preview": "1 PROCUREMENT -> a tender specifies databases and features, not task completion",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 408.091
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 346.091
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3211,
+      "markdown_body_line_end": 3217,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Use value of information",
+      "preview": "AVAILABILITY -> the information exists somewhere; digitisation supplies this almost free",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 324.091
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 262.091
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3221,
+      "markdown_body_line_end": 3226,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Seven implementation factors",
+      "preview": "PROCESS -> re-engineer before digitising; ownership continuity across transfers",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 121,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 121,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        121
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3230,
+      "markdown_body_line_end": 3235,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Three inadequacy buckets",
+      "preview": "EFFECTIVENESS -> unreformed process, poor source data, online start with offline finish",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 121,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 121,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        121
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3239,
+      "markdown_body_line_end": 3245,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Answer spine for an e-governance evaluation",
+      "preview": "OPEN -> name the model, the interaction domain and the maturity stage separately",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 121,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 121,
+          "frame_y": 577.691
+        }
+      },
+      "pdf_pages": [
+        121
+      ]
+    }
+  ]
+}

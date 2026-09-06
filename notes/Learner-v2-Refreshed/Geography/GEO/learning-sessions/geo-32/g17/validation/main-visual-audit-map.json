@@ -1,0 +1,2607 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g17\\geography-32-industries-and-industrial-regions_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g17\\geography-32-industries-and-industrial-regions_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "geography-32-industries-and-industrial-regions",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 13,
+      "markdown_body_line_end": 21,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 4,
+          "frame_y": 607.291
+        },
+        "end": {
+          "page": 4,
+          "frame_y": 367.09
+        }
+      },
+      "pdf_pages": [
+        4
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 46,
+      "markdown_body_line_end": 46,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g17\\assets\\geography-32_Teaching-Navigation_2026-08-23.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 638.291
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 330.756
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 51,
+      "markdown_body_line_end": 51,
+      "heading": "LEARNING ROAD MAP: ASK THE LOCATION QUESTION IN THE RIGHT ORDER",
+      "preview": "Road map from definitions to location, regions and answers",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g17\\assets\\01_topic-roadmap.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 272.356
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 59,
+      "markdown_body_line_end": 66,
+      "heading": "LEARNING ROAD MAP: ASK THE LOCATION QUESTION IN THE RIGHT ORDER",
+      "preview": "What is being produced?",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 445.065
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 374.065
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 80,
+      "markdown_body_line_end": 80,
+      "heading": "LEARNING ROAD MAP: ASK THE LOCATION QUESTION IN THE RIGHT ORDER",
+      "preview": "**Trap:** A named factory is evidence only when it proves a mechanism. Do not substitute plant lists for explanation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 203.065
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 172.598
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 89,
+      "markdown_body_line_end": 100,
+      "heading": "VISUAL FIRST",
+      "preview": "TERMINOLOGY FIREWALL: INDUSTRY, MANUFACTURING, FACTORY AND INDUSTRIAL REGION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 735.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 624.291
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 112,
+      "markdown_body_line_end": 112,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mini recap: Industry is the ecosystem; manufacturing is the activity; factory is the site; region is the connected landscape.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 521.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 454.624
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 125,
+      "markdown_body_line_end": 125,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Terminology and classification firewall",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g17\\assets\\02_industry-classification-firewall.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 296.024
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 139,
+      "markdown_body_line_end": 146,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Term | Think of it as | Avoid this error",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Term",
+          "Think of it as",
+          "Avoid this error"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 301.265
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 149.464
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 156,
+      "markdown_body_line_end": 156,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Trap:** Manufacturing data, factory-sector data and employment generated by a scheme have different boundaries.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 164,
+      "markdown_body_line_end": 181,
+      "heading": "CLOSING RECALL FLOW - TERMINOLOGY FIREWALL: INDUSTRY, MANUFACTURING, FACTORY AND INDUSTRIAL REGION",
+      "preview": "START / CONCEPT: TERMINOLOGY FIREWALL: INDUSTRY, MANUFACTURING, FACTORY AND INDUSTRIAL REGION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 173
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 702.924
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 481.924
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 186,
+      "markdown_body_line_end": 197,
+      "heading": "VISUAL FIRST",
+      "preview": "MAIN LOCATION FACTORS: BUILD A RANKED FACTOR SYSTEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 402.924
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 291.924
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 209,
+      "markdown_body_line_end": 209,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Main Location Factors: Build A Ranked Factor System comprises Main Location Factors, Build A Ranked Factor System and Simple explanation as its core connected dimensions.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 174.724
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 108.056
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 222,
+      "markdown_body_line_end": 222,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Industrial location factor wheel",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g17\\assets\\03_location-factor-wheel.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 704.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 403.465
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 228,
+      "markdown_body_line_end": 238,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Factor | Why it matters | Typical pull",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 9,
+        "headers": [
+          "Factor",
+          "Why it matters",
+          "Typical pull"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 487.09
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 260,
+      "markdown_body_line_end": 260,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Trap:** No single factor explains all industries, and one industry can have different orientations at different stages.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 224.09
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 193.622
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 268,
+      "markdown_body_line_end": 285,
+      "heading": "CLOSING RECALL FLOW - MAIN LOCATION FACTORS: BUILD A RANKED FACTOR SYSTEM",
+      "preview": "START / CONCEPT: MAIN LOCATION FACTORS: BUILD A RANKED FACTOR SYSTEM",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 199
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 290,
+      "markdown_body_line_end": 301,
+      "heading": "VISUAL FIRST",
+      "preview": "WEBER'S LEAST-COST THEORY: LEARN IT IN SIX STEPS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 487.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 376.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 313,
+      "markdown_body_line_end": 313,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "For “assess Weber,” do not reject the theory.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 287.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 235.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 326,
+      "markdown_body_line_end": 326,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Weber material index, transport minimum and isodapane",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g17\\assets\\04_weber-material-index-isodapane.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 340,
+      "markdown_body_line_end": 346,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "MATERIAL INDEX = weight of localised raw material used / weight of finished product",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 344.865
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 283.865
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 358,
+      "markdown_body_line_end": 361,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Net gain from moving = labour saving - extra transport cost",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 159.465
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 128.465
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 387,
+      "markdown_body_line_end": 387,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Trap:** Weber did not explain transport alone; labour and agglomeration are central to the model.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 561.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 531.024
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 395,
+      "markdown_body_line_end": 412,
+      "heading": "CLOSING RECALL FLOW - WEBER'S LEAST-COST THEORY: LEARN IT IN SIX STEPS",
+      "preview": "START / CONCEPT: WEBER'S LEAST-COST THEORY: LEARN IT IN SIX STEPS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 232
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 474.124
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 263.124
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 417,
+      "markdown_body_line_end": 428,
+      "heading": "VISUAL FIRST",
+      "preview": "TYPES OF INDUSTRIAL ORIENTATION: COMPARE STAGES, NOT LABELS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 440,
+      "markdown_body_line_end": 440,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The term “orientation” does not imprison an industry in one place.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 587.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 535.024
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 453,
+      "markdown_body_line_end": 453,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Stage-by-factor matrix for industrial orientation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g17\\assets\\40_sector-location-matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 362.224
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 61.598
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 457,
+      "markdown_body_line_end": 464,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Orientation | Core logic | India-centric example | Qualification",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Orientation",
+          "Core logic",
+          "India-centric example",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 559.99
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 478,
+      "markdown_body_line_end": 478,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Trap:** Footloose means flexible among suitable sites, not free from skills, utilities, logistics or regulation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 387.99
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 357.522
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 486,
+      "markdown_body_line_end": 503,
+      "heading": "CLOSING RECALL FLOW - TYPES OF INDUSTRIAL ORIENTATION: COMPARE STAGES, NOT LABELS",
+      "preview": "START / CONCEPT: TYPES OF INDUSTRIAL ORIENTATION: COMPARE STAGES, NOT LABELS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 180
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 314.822
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 103.822
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 508,
+      "markdown_body_line_end": 519,
+      "heading": "VISUAL FIRST",
+      "preview": "MAJOR WORLD INDUSTRIAL REGIONS: MAP THE MECHANISM BEHIND EACH BELT",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 735.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 624.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 531,
+      "markdown_body_line_end": 531,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "An industrial region is a historical accumulation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 521.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 468.824
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 544,
+      "markdown_body_line_end": 544,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Schematic major world industrial regions",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g17\\assets\\10_global-industrial-regions.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 296.024
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 548,
+      "markdown_body_line_end": 554,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Region | Classical identity | Why it emerged | What it teaches",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Region",
+          "Classical identity",
+          "Why it emerged",
+          "What it teaches"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 469.265
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 269.364
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 568,
+      "markdown_body_line_end": 568,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Trap:** Contemporary output leadership can shift. Use these as textbook locational frames, not undated rank claims.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 111.564
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 81.096
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 576,
+      "markdown_body_line_end": 593,
+      "heading": "CLOSING RECALL FLOW - MAJOR WORLD INDUSTRIAL REGIONS: MAP THE MECHANISM BEHIND EACH BELT",
+      "preview": "START / CONCEPT: MAJOR WORLD INDUSTRIAL REGIONS: MAP THE MECHANISM BEHIND EACH BELT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 222
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 563.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 598,
+      "markdown_body_line_end": 609,
+      "heading": "VISUAL FIRST",
+      "preview": "AGGLOMERATION, DEGLOMERATION AND INDUSTRIAL INERTIA",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 484.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 373.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 621,
+      "markdown_body_line_end": 621,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Yet inertia is not permanent if technology, demand and transferable skills erode.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 284.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 232.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 634,
+      "markdown_body_line_end": 634,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Agglomeration economies and diseconomies",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g17\\assets\\07_agglomeration-diseconomy.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 650,
+      "markdown_body_line_end": 650,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Location lock-in, shock and relocation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g17\\assets\\37_location-lockin-relocation.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 311.465
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        20,
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 670,
+      "markdown_body_line_end": 670,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Trap:** Inertia is not a guarantee of survival; it is a mechanism that can be overcome by technological, market or ecological change.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 273.065
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 228.398
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 678,
+      "markdown_body_line_end": 695,
+      "heading": "CLOSING RECALL FLOW - AGGLOMERATION, DEGLOMERATION AND INDUSTRIAL INERTIA",
+      "preview": "START / CONCEPT: AGGLOMERATION, DEGLOMERATION AND INDUSTRIAL INERTIA",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 218
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 700,
+      "markdown_body_line_end": 711,
+      "heading": "VISUAL FIRST",
+      "preview": "ACTORS, INSTITUTIONS AND PLANNED LOCATION: THE STATE CAN SUPPORT, NOT INVENT, EVERY LINKAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 477.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 366.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 723,
+      "markdown_body_line_end": 723,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mini recap: The state can coordinate location and manufacture initial agglomeration, but firms and local linkages must make it self-sustaining.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 263.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 196.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 736,
+      "markdown_body_line_end": 736,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Corridor and logistics architecture",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g17\\assets\\25_corridor-logistics-architecture.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 502.665
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 740,
+      "markdown_body_line_end": 746,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Actor/institution | Geographic role",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Actor/institution",
+          "Geographic role"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 483.465
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 352.864
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 754,
+      "markdown_body_line_end": 759,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Approval is not operation.",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 266.864
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 215.864
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 771,
+      "markdown_body_line_end": 771,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Trap:** An industrial corridor is not simply a highway; it is an integrated manufacturing-freight-urban-utility system.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 77.264
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 46.796
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 779,
+      "markdown_body_line_end": 796,
+      "heading": "CLOSING RECALL FLOW - ACTORS, INSTITUTIONS AND PLANNED LOCATION: THE STATE CAN SUPPORT, NOT INVENT, EVERY LINKAGE",
+      "preview": "START / CONCEPT: ACTORS, INSTITUTIONS AND PLANNED LOCATION: THE STATE CAN SUPPORT, NOT INVENT, EVERY LINKAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 195
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 733.391
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 502.391
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 801,
+      "markdown_body_line_end": 812,
+      "heading": "VISUAL FIRST",
+      "preview": "WHAT CHANGED AFTER WEBER - AND WHAT DID NOT",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 423.391
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 312.391
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 824,
+      "markdown_body_line_end": 824,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "(15 marks) Explain why old industrial regions persist after the original resource advantage weakens.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 223.591
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 171.124
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 837,
+      "markdown_body_line_end": 837,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Evolution from classical location theory to modern risk and capability",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g17\\assets\\36_theory-evolution-tree.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 755.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 455.065
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 841,
+      "markdown_body_line_end": 850,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Change | Locational effect",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Change",
+          "Locational effect"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 421.665
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 227.464
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 864,
+      "markdown_body_line_end": 864,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Trap:** Digitalisation reduces some distance costs but does not erase the geography of people, energy, logistics or regulation.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 871,
+      "markdown_body_line_end": 871,
+      "heading": "BASIC ANSWER ARCHITECTURE AND EVIDENCE UNITS",
+      "preview": "UPSC industrial-geography answer spine",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g17\\assets\\35_upsc-answer-spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 716.924
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 416.298
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 877,
+      "markdown_body_line_end": 882,
+      "heading": "BASIC ANSWER ARCHITECTURE AND EVIDENCE UNITS",
+      "preview": "Directive | What to do | What not to do",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Directive",
+          "What to do",
+          "What not to do"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 377.898
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 234.896
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 894,
+      "markdown_body_line_end": 896,
+      "heading": "BASIC ANSWER ARCHITECTURE AND EVIDENCE UNITS",
+      "preview": "Claim -> named evidence/example -> analysis -> qualification -> verdict",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 786.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 928,
+      "markdown_body_line_end": 928,
+      "heading": "BASIC ANSWER ARCHITECTURE AND EVIDENCE UNITS",
+      "preview": "**Trap:** Do not use unverified plant dates, production rankings, investment values or employment claims from memory.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 386.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 342.024
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 934,
+      "markdown_body_line_end": 951,
+      "heading": "CLOSING RECALL FLOW - WHAT CHANGED AFTER WEBER - AND WHAT DID NOT",
+      "preview": "START / CONCEPT: WHAT CHANGED AFTER WEBER - AND WHAT DID NOT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 175
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 300.824
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 79.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 963,
+      "markdown_body_line_end": 967,
+      "heading": "VISUAL FIRST",
+      "preview": "INPUTS → TRANSFORMATION → OUTPUT → MARKET",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 574.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 533.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 977,
+      "markdown_body_line_end": 982,
+      "heading": "VISUAL FIRST",
+      "preview": "WEBER: transport + labour + agglomeration → least-cost site",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 439.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 388.891
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 992,
+      "markdown_body_line_end": 997,
+      "heading": "VISUAL FIRST",
+      "preview": "Ruhr: coal/steel/river/market → restructuring",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1006,
+      "markdown_body_line_end": 1012,
+      "heading": "VISUAL FIRST",
+      "preview": "Chotanagpur → metals/heavy industry",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 642.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 581.891
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1022,
+      "markdown_body_line_end": 1025,
+      "heading": "VISUAL FIRST",
+      "preview": "freight backbone → planned node → trunk works → allotment",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 469.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 438.491
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1035,
+      "markdown_body_line_end": 1041,
+      "heading": "VISUAL FIRST",
+      "preview": "steel/cement → material-energy heavy",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 326.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 265.091
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1051,
+      "markdown_body_line_end": 1058,
+      "heading": "VISUAL FIRST",
+      "preview": "ASI factory sector ≠ all manufacturing",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1640,
+      "markdown_body_line_end": 1640,
+      "heading": "36. Current official evidence dashboard as of 20 August 2026",
+      "preview": "36. Current official evidence dashboard as of 20 August 2026",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g17\\assets\\33_monitoring-dashboard.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 698.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 397.665
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2125,
+      "markdown_body_line_end": 2125,
+      "heading": "1. India's industrial geography: from inherited belts to designed corridors",
+      "preview": "Schematic industrial regions of India",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g17\\assets\\12_india-industrial-regions.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 569.091
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 268.465
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2133,
+      "markdown_body_line_end": 2141,
+      "heading": "1. India's industrial geography: from inherited belts to designed corridors",
+      "preview": "Classical region | Geographic base | Broad industrial character",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Classical region",
+          "Geographic base",
+          "Broad industrial character"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 596.69
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2151,
+      "markdown_body_line_end": 2151,
+      "heading": "1. India's industrial geography: from inherited belts to designed corridors",
+      "preview": "**Trap:** New nodes do not make brownfield regions irrelevant; old regions retain suppliers, skills and sunk infrastructure.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 491.49
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 446.822
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2159,
+      "markdown_body_line_end": 2159,
+      "heading": "2. Corridors and planned industrial space",
+      "preview": "India corridor nodes and broad alignments",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g17\\assets\\26_india-corridor-nodes.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 401.122
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 100.496
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2163,
+      "markdown_body_line_end": 2170,
+      "heading": "2. Corridors and planned industrial space",
+      "preview": "Freight spine / expressway / port",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2172,
+      "markdown_body_line_end": 2177,
+      "heading": "2. Corridors and planned industrial space",
+      "preview": "Corridor/programme | Geographic importance",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Corridor/programme",
+          "Geographic importance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 736.291
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 615.69
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2191,
+      "markdown_body_line_end": 2191,
+      "heading": "2. Corridors and planned industrial space",
+      "preview": "**Trap:** A completed freight asset does not establish that every connected industrial node is occupied or producing.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 457.89
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 427.422
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2199,
+      "markdown_body_line_end": 2199,
+      "heading": "3. PLI and the new sector-specific industrial map",
+      "preview": "PLI status chain from outlay to outcome",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g17\\assets\\24_pli-status-chain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 381.722
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 81.096
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2207,
+      "markdown_body_line_end": 2213,
+      "heading": "3. PLI and the new sector-specific industrial map",
+      "preview": "Sectoral shift | Geographic implication",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Sectoral shift",
+          "Geographic implication"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 750.691
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 608.89
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2227,
+      "markdown_body_line_end": 2227,
+      "heading": "3. PLI and the new sector-specific industrial map",
+      "preview": "**Trap:** PLI is not “only economics,” but neither does the incentive formula by itself prove a new industrial region.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 451.09
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 420.622
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2235,
+      "markdown_body_line_end": 2235,
+      "heading": "4. Institutions, regional imbalance and the spread-backwash test",
+      "preview": "Spread and backwash effects of industrial concentration",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g17\\assets\\38_spread-backwash.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 374.922
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 74.296
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2239,
+      "markdown_body_line_end": 2244,
+      "heading": "4. Institutions, regional imbalance and the spread-backwash test",
+      "preview": "Institution/actor | Role",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Institution/actor",
+          "Role"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 693.89
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2262,
+      "markdown_body_line_end": 2262,
+      "heading": "4. Institutions, regional imbalance and the spread-backwash test",
+      "preview": "**Trap:** Resource endowment, infrastructure spending or an anchor firm does not automatically produce regional convergence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 426.69
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 382.022
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2270,
+      "markdown_body_line_end": 2270,
+      "heading": "5. Advanced facts, traps and current linkage",
+      "preview": "Current-status and claim firewall",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g17\\assets\\34_current-status-firewall.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 336.322
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 799.89
+        }
+      },
+      "pdf_pages": [
+        58,
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2303,
+      "markdown_body_line_end": 2303,
+      "heading": "6. Historical PYQ integration and advanced answer routes",
+      "preview": "Answer route for advanced industrial geography",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g17\\assets\\35_upsc-answer-spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 379.79
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 79.164
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2307,
+      "markdown_body_line_end": 2313,
+      "heading": "6. Historical PYQ integration and advanced answer routes",
+      "preview": "Year | Paper | Demand | Directive / format | Owner requirement",
+      "metadata": {
+        "column_count": 5,
+        "row_count": 5,
+        "headers": [
+          "Year",
+          "Paper",
+          "Demand",
+          "Directive / format",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 613.89
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2327,
+      "markdown_body_line_end": 2327,
+      "heading": "6. Historical PYQ integration and advanced answer routes",
+      "preview": "**Trap:** Optional depth should sharpen a core argument, not overcrowd it with policy names.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 442.89
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 412.422
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2335,
+      "markdown_body_line_end": 2335,
+      "heading": "CORE BASIC - rapid revision sheet",
+      "preview": "Core Basic answer and recall spine",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g17\\assets\\35_upsc-answer-spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 335.222
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 799.89
+        }
+      },
+      "pdf_pages": [
+        60,
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2361,
+      "markdown_body_line_end": 2368,
+      "heading": "Weber in one page",
+      "preview": "Transport-minimum point",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 467.69
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 396.69
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2377,
+      "markdown_body_line_end": 2384,
+      "heading": "Orientation examples",
+      "preview": "Orientation | Recall example | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Orientation",
+          "Recall example",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 308.89
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 157.088
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2421,
+      "markdown_body_line_end": 2429,
+      "heading": "Core answer route",
+      "preview": "Define exact unit",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 33
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 368.091
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2433,
+      "markdown_body_line_end": 2433,
+      "heading": "OPTIONAL ADVANCED - enrichment register",
+      "preview": "Optional Advanced India industrial geography",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-32\\g17\\assets\\12_india-industrial-regions.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 343.091
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 42.465
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2496,
+      "markdown_body_line_end": 2524,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Industrial geography: terminology and location question",
+      "preview": "+---------------- INDUSTRIAL GEOGRAPHY ----------------+",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 27,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 476.891
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2528,
+      "markdown_body_line_end": 2549,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Ranked location factors and industrial orientation",
+      "preview": "FIRST ASK: Which cost, risk or capability dominates this industry?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 454.891
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 239.891
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2553,
+      "markdown_body_line_end": 2575,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Weber's least-cost theory in six analytical steps",
+      "preview": "1. LOCATE raw-material sources and market",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 21,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 562.091
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2579,
+      "markdown_body_line_end": 2600,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Major world industrial regions and their geographic mechanisms",
+      "preview": "+----------------------+--------------------------------------------+",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 540.091
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 325.091
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2604,
+      "markdown_body_line_end": 2621,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: India's layered industrial map: belts, clusters and corridors",
+      "preview": "INDIA'S LAYERED INDUSTRIAL GEOGRAPHY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 16,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 303.091
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 128.891
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2625,
+      "markdown_body_line_end": 2644,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Agglomeration, deglomeration, inertia and regional divergence",
+      "preview": "AGGLOMERATION LOOP",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 592.691
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2648,
+      "markdown_body_line_end": 2668,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: State, corridors, PLI and the industrial intervention stack",
+      "preview": "NATIONAL POLICY: DPIIT / ministries define frameworks and incentives",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 570.691
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 365.891
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2672,
+      "markdown_body_line_end": 2694,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Map-answer and Mains spine for industrial location and regions",
+      "preview": "QUESTION: How is India's industrial geography being reorganised?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 21,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 343.891
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 118.691
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2698,
+      "markdown_body_line_end": 2704,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Evidence ladder and confidence control",
+      "preview": "EVIDENCE LADDER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2708,
+      "markdown_body_line_end": 2722,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Examiner traps and contested boundaries",
+      "preview": "CLOSE DISTINCTIONS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 559.691
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2726,
+      "markdown_body_line_end": 2740,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Integrated answer spine and qualified conclusion",
+      "preview": "ANSWER SPINE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 13,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 537.691
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 394.091
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2744,
+      "markdown_body_line_end": 2750,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Evidence ladder and confidence control - DEEP-REVIEW SYNTHESIS 2",
+      "preview": "EVIDENCE LADDER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 359.091
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 297.091
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    }
+  ]
+}

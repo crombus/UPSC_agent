@@ -1,0 +1,1132 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-society-06",
+  "subject": "Indian-Society",
+  "title": "POPULATION AND ASSOCIATED ISSUES",
+  "short_route": "POPULATION AS A SOCIAL → DETERMINANT INTERACTION → ATTITUDE AND METRIC → POLICY CARD → EVIDENCE-STATUS LADDER → AGGREGATE AGAINST DIVERGENCE",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-society-06-deep-review-2026-09-05-g3.json",
+  "ascii_spec_sha256": "f97fcde2a24d933f8f5a1dc5a519195e95364dccc80529ea373c3cdb7d00c4fe",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "POPULATION AS A SOCIAL PROCESS",
+      "structural_type": "root-axes",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "POPULATION AS A SOCIAL PROCESS",
+          "role": "mechanism"
+        },
+        {
+          "text": "SCHOOLING, MARRIAGE TIMING, DESIRED FAMILY SIZE, SON PREFERENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "CONTRACEPTIVE ACCESS AND MATERNAL AND CHILD HEALTH PROVISION",
+          "role": "comparison"
+        },
+        {
+          "text": "STAGE-BASED TRANSITION MODEL AND DIVIDEND THEORY OWNED BY GEOGRAPHY",
+          "role": "evidence"
+        },
+        {
+          "text": "A SOCIAL EXPLANATION, NOT A MODEL RECITAL",
+          "role": "caution"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "outcome"
+        },
+        {
+          "text": "POPULATION ANALYSIS SEPARATES SIZE, GROWTH, FERTILITY, MORTALITY, AGE STRUCTURE",
+          "role": "comparison"
+        },
+        {
+          "text": "DEMOGRAPHIC TRANSITION AND DIVIDEND ARE CONDITIONAL PROCESSES SHAPED BY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "ENTRY → schooling, marriage timing, desired family size, son preference",
+        "SERVICES → contraceptive access and maternal and child health provision",
+        "EXCLUDED → stage-based transition model and dividend theory owned by Geography",
+        "OUTPUT → a social explanation, not a model recital",
+        "MUST REMEMBER: Population analysis separates size, growth, fertility, mortality, age"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ENTRY → schooling, marriage timing, desired family size, son preference",
+            "SERVICES → contraceptive access and maternal and child health provision",
+            "EXCLUDED → stage-based transition model and dividend theory owned by Geography"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OUTPUT → a social explanation, not a model recital",
+            "MUST REMEMBER: Population analysis separates size, growth, fertility, mortality, age",
+            "structure, sex composition, density, distribution, migration and human capability"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "demographic transition and dividend are conditional processes shaped by health, education, gender agency and employment."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "demographic transition and dividend are conditional processes shaped by health, education, gender agency and employment.",
+      "source_references": [
+        "How population becomes a social question",
+        "The determinant set behind fertility",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "DETERMINANT INTERACTION",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "DETERMINANT INTERACTION",
+          "role": "primary"
+        },
+        {
+          "text": "LATER MARRIAGE PLUS CONTRACEPTIVE KNOWLEDGE AND WIDER OPTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "MARRIAGE TIMING",
+          "role": "comparison"
+        },
+        {
+          "text": "COMPRESSED REPRODUCTIVE WINDOW, BETTER MATERNAL OUTCOMES",
+          "role": "evidence"
+        },
+        {
+          "text": "COST OF CHILDREN",
+          "role": "primary"
+        },
+        {
+          "text": "URBAN HOUSING, SCHOOLING AND FOREGONE EARNINGS",
+          "role": "outcome"
+        },
+        {
+          "text": "DETERMINANTS INTERACT; NO SINGLE FACTOR IS THE SOLE CAUSE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "EDUCATION → later marriage plus contraceptive knowledge and wider options",
+        "MARRIAGE TIMING → compressed reproductive window, better maternal outcomes",
+        "COST OF CHILDREN → urban housing, schooling and foregone earnings",
+        "RULE → determinants interact; no single factor is the sole cause"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EDUCATION → later marriage plus contraceptive knowledge and wider options",
+            "MARRIAGE TIMING → compressed reproductive window, better maternal outcomes"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COST OF CHILDREN → urban housing, schooling and foregone earnings",
+            "RULE → determinants interact; no single factor is the sole cause"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EDUCATION → later marriage plus contraceptive knowledge and wider options",
+            "MARRIAGE TIMING → compressed reproductive window, better maternal outcomes"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → determinants interact; no single factor is the sole cause.",
+      "source_references": [
+        "Women's education as the central pathway",
+        "Marriage timing and the reproductive window",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "ATTITUDE AND METRIC",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "ATTITUDE AND METRIC",
+          "role": "primary"
+        },
+        {
+          "text": "SON PREFERENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "ATTITUDE ROOTED IN INHERITANCE AND OLD-AGE EXPECTATIONS",
+          "role": "comparison"
+        },
+        {
+          "text": "SEX RATIO AT BIRTH",
+          "role": "evidence"
+        },
+        {
+          "text": "THE MEASURABLE DEMOGRAPHIC OUTCOME",
+          "role": "primary"
+        },
+        {
+          "text": "SMALLER DESIRED FAMILY SIZE WITH CONTINUED SON-SEEKING",
+          "role": "outcome"
+        },
+        {
+          "text": "SEX-SELECTION LAW BELONGS TO SOCIAL JUSTICE AND POLITY",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "SON PREFERENCE → attitude rooted in inheritance and old-age expectations",
+        "SEX RATIO AT BIRTH → the measurable demographic outcome",
+        "COEXISTENCE → smaller desired family size with continued son-seeking",
+        "OWNERSHIP → sex-selection law belongs to Social Justice and Polity"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SON PREFERENCE → attitude rooted in inheritance and old-age expectations",
+          "COEXISTENCE → smaller desired family size with continued son-seeking",
+          "SON PREFERENCE → attitude rooted in inheritance and old-age expectations"
+        ],
+        [
+          "SEX RATIO AT BIRTH → the measurable demographic outcome",
+          "OWNERSHIP → sex-selection law belongs to Social Justice and Polity",
+          "SEX RATIO AT BIRTH → the measurable demographic outcome"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SON PREFERENCE → attitude rooted in inheritance and old-age expectations",
+            "SEX RATIO AT BIRTH → the measurable demographic outcome"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COEXISTENCE → smaller desired family size with continued son-seeking",
+            "OWNERSHIP → sex-selection law belongs to Social Justice and Polity"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "SON PREFERENCE → attitude rooted in inheritance and old-age expectations",
+            "SEX RATIO AT BIRTH → the measurable demographic outcome"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OWNERSHIP → sex-selection law belongs to Social Justice and Polity.",
+      "source_references": [
+        "Son preference as a persisting attitude",
+        "Sex ratio at birth as the measured outcome",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "POLICY CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "POLICY CARD",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL POPULATION POLICY, 2000, MINISTRY OF HEALTH AND FAMILY",
+          "role": "outcome"
+        },
+        {
+          "text": "ADDRESS UNMET CONTRACEPTIVE NEED",
+          "role": "comparison"
+        },
+        {
+          "text": "MEDIUM TERM",
+          "role": "evidence"
+        },
+        {
+          "text": "BRING TOTAL FERTILITY RATE TO REPLACEMENT LEVEL",
+          "role": "primary"
+        },
+        {
+          "text": "LONG TERM",
+          "role": "outcome"
+        },
+        {
+          "text": "STABLE POPULATION BY AROUND 2045 WITH SUSTAINABLE DEVELOPMENT",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DOCUMENT → National Population Policy, 2000, Ministry of Health and Family Welfare",
+        "IMMEDIATE → address unmet contraceptive need",
+        "MEDIUM TERM → bring Total Fertility Rate to replacement level",
+        "LONG TERM → stable population by around 2045 with sustainable development"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DOCUMENT → National Population Policy, 2000, Ministry of Health and Family Welfare",
+          "MEDIUM TERM → bring Total Fertility Rate to replacement level",
+          "DOCUMENT → National Population Policy, 2000, Ministry of Health and Family Welfare"
+        ],
+        [
+          "IMMEDIATE → address unmet contraceptive need",
+          "LONG TERM → stable population by around 2045 with sustainable development",
+          "IMMEDIATE → address unmet contraceptive need"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DOCUMENT → National Population Policy, 2000, Ministry of Health and Family Welfare",
+            "IMMEDIATE → address unmet contraceptive need"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MEDIUM TERM → bring Total Fertility Rate to replacement level",
+            "LONG TERM → stable population by around 2045 with sustainable development"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DOCUMENT → National Population Policy, 2000, Ministry of Health and Family Welfare",
+            "IMMEDIATE → address unmet contraceptive need"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "LONG TERM → stable population by around 2045 with sustainable development.",
+      "source_references": [
+        "The National Population Policy, 2000",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "EVIDENCE-STATUS LADDER",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "EVIDENCE-STATUS LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "RELEASED 29 MAY 2026, TOTAL 2.0, URBAN 1.6, RURAL",
+          "role": "outcome"
+        },
+        {
+          "text": "2019-21 ROUND, TOTAL FERTILITY RATE 2.0, HISTORICAL COMPARATOR",
+          "role": "comparison"
+        },
+        {
+          "text": "2011 IS THE LAST COMPLETED FULL COUNT; CENSUS 2027",
+          "role": "evidence"
+        },
+        {
+          "text": "NO SURVEY AVERAGE MAY BE QUOTED AS A STATE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "NFHS-6 → released 29 May 2026, total 2.0, urban 1.6, rural 2.1, provisional",
+        "NFHS-5 → 2019-21 round, Total Fertility Rate 2.0, historical comparator",
+        "CENSUS → 2011 is the last completed full count; Census 2027 is prospective",
+        "PROHIBITION → no survey average may be quoted as a state or current stock"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NFHS-6 → released 29 May 2026, total 2.0, urban 1.6, rural 2.1, provisional",
+            "NFHS-5 → 2019-21 round, Total Fertility Rate 2.0, historical comparator"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CENSUS → 2011 is the last completed full count; Census 2027 is prospective",
+            "PROHIBITION → no survey average may be quoted as a state or current stock"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NFHS-6 → released 29 May 2026, total 2.0, urban 1.6, rural 2.1, provisional",
+            "NFHS-5 → 2019-21 round, Total Fertility Rate 2.0, historical comparator"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PROHIBITION → no survey average may be quoted as a state or current stock.",
+      "source_references": [
+        "Reading the two survey rounds honestly",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "AGGREGATE AGAINST DIVERGENCE",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AGGREGATE AGAINST DIVERGENCE",
+          "role": "primary"
+        },
+        {
+          "text": "A WEIGHTED SUMMARY OF STATES IN DIFFERENT TRANSITION PHASES",
+          "role": "outcome"
+        },
+        {
+          "text": "BELOW REPLACEMENT",
+          "role": "comparison"
+        },
+        {
+          "text": "AGEING PRESSURE AND WORKFORCE-SHRINKAGE RISK",
+          "role": "caution"
+        },
+        {
+          "text": "ABOVE REPLACEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "YOUNG STRUCTURE WITH AN OPEN DIVIDEND WINDOW",
+          "role": "outcome"
+        },
+        {
+          "text": "THE HONEST ANSWER IS STATE-GRADED, NOT NATION-UNIFORM",
+          "role": "caution"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "NATIONAL → a weighted summary of states in different transition phases",
+        "BELOW REPLACEMENT → ageing pressure and workforce-shrinkage risk",
+        "ABOVE REPLACEMENT → young structure with an open dividend window",
+        "VERDICT → the honest answer is state-graded, not nation-uniform",
+        "CLOSE DISTINCTION: Population growth is not fertility, replacement fertility is not zero growth, density is"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "NATIONAL → a weighted summary of states in different transition phases",
+          "VERDICT → the honest answer is state-graded, not nation-uniform",
+          "survey flow, and demographic dividend is an opportunity rather than an automatic bonus."
+        ],
+        [
+          "BELOW REPLACEMENT → ageing pressure and workforce-shrinkage risk",
+          "CLOSE DISTINCTION: Population growth is not fertility, replacement fertility is not zero growth, density is",
+          ""
+        ],
+        [
+          "ABOVE REPLACEMENT → young structure with an open dividend window",
+          "not pressure, sex ratio at birth is not overall sex ratio, Census stock is not",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NATIONAL → a weighted summary of states in different transition phases",
+            "BELOW REPLACEMENT → ageing pressure and workforce-shrinkage risk",
+            "ABOVE REPLACEMENT → young structure with an open dividend window"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "VERDICT → the honest answer is state-graded, not nation-uniform",
+            "CLOSE DISTINCTION: Population growth is not fertility, replacement fertility is not zero growth, density is",
+            "not pressure, sex ratio at birth is not overall sex ratio, Census stock is not"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "survey flow, and demographic dividend is an opportunity rather than an automatic bonus."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT → the honest answer is state-graded, not nation-uniform.",
+      "source_references": [
+        "Sub-national divergence",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "WINTER AND DIVIDEND",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "WINTER AND DIVIDEND",
+          "role": "primary"
+        },
+        {
+          "text": "DEMOGRAPHIC WINTER",
+          "role": "outcome"
+        },
+        {
+          "text": "SUSTAINED SUB-REPLACEMENT FERTILITY WITH AGEING AND DECLINE",
+          "role": "caution"
+        },
+        {
+          "text": "DEMOGRAPHIC DIVIDEND",
+          "role": "evidence"
+        },
+        {
+          "text": "LARGEST WORKING-AGE SHARE, GROWTH-FAVOURABLE WINDOW",
+          "role": "primary"
+        },
+        {
+          "text": "NEAR-OPPOSITE PHASES OF THE SAME TRANSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "A LARGE COUNTRY CAN DISPLAY BOTH ACROSS ITS REGIONS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "DEMOGRAPHIC WINTER → sustained sub-replacement fertility with ageing and decline",
+        "DEMOGRAPHIC DIVIDEND → largest working-age share, growth-favourable window",
+        "RELATION → near-opposite phases of the same transition",
+        "CAUTION → a large country can display both across its regions"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DEMOGRAPHIC WINTER → sustained sub-replacement fertility with ageing and decline",
+          "RELATION → near-opposite phases of the same transition",
+          "DEMOGRAPHIC WINTER → sustained sub-replacement fertility with ageing and decline"
+        ],
+        [
+          "DEMOGRAPHIC DIVIDEND → largest working-age share, growth-favourable window",
+          "CAUTION → a large country can display both across its regions",
+          "DEMOGRAPHIC DIVIDEND → largest working-age share, growth-favourable window"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DEMOGRAPHIC WINTER → sustained sub-replacement fertility with ageing and decline",
+            "DEMOGRAPHIC DIVIDEND → largest working-age share, growth-favourable window"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RELATION → near-opposite phases of the same transition",
+            "CAUTION → a large country can display both across its regions"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DEMOGRAPHIC WINTER → sustained sub-replacement fertility with ageing and decline",
+            "DEMOGRAPHIC DIVIDEND → largest working-age share, growth-favourable window"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → a large country can display both across its regions.",
+      "source_references": [
+        "Demographic winter beside the dividend",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "AGEING DOUBLE READING",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "AGEING DOUBLE READING",
+          "role": "primary"
+        },
+        {
+          "text": "LONGER LIFE FROM SUCCESSFUL MORTALITY AND HEALTH TRANSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "RISING OLD-AGE DEPENDENCY AND WORKFORCE RECOMPOSITION",
+          "role": "comparison"
+        },
+        {
+          "text": "FAMILY-BASED CARE WEAKENED BY NUCLEARISATION",
+          "role": "evidence"
+        },
+        {
+          "text": "FORMAL OLD-AGE SECURITY NOT YET SCALED WHERE FERTILITY FELL",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ACHIEVEMENT → longer life from successful mortality and health transition",
+        "BURDEN → rising old-age dependency and workforce recomposition",
+        "SUPPORT → family-based care weakened by nuclearisation",
+        "GAP → formal old-age security not yet scaled where fertility fell earliest"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "ACHIEVEMENT → longer life from successful mortality and health transition",
+          "SUPPORT → family-based care weakened by nuclearisation",
+          "ACHIEVEMENT → longer life from successful mortality and health transition"
+        ],
+        [
+          "BURDEN → rising old-age dependency and workforce recomposition",
+          "GAP → formal old-age security not yet scaled where fertility fell earliest",
+          "BURDEN → rising old-age dependency and workforce recomposition"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ACHIEVEMENT → longer life from successful mortality and health transition",
+            "BURDEN → rising old-age dependency and workforce recomposition"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SUPPORT → family-based care weakened by nuclearisation",
+            "GAP → formal old-age security not yet scaled where fertility fell earliest"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ACHIEVEMENT → longer life from successful mortality and health transition",
+            "BURDEN → rising old-age dependency and workforce recomposition"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GAP → formal old-age security not yet scaled where fertility fell earliest.",
+      "source_references": [
+        "Ageing as achievement and as burden",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "TWO TRANSITION FRAMEWORKS",
+      "structural_type": "labelled-system",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "TWO TRANSITION FRAMEWORKS",
+          "role": "primary"
+        },
+        {
+          "text": "FIRST TRANSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "MORTALITY DECLINE FOLLOWED BY FERTILITY DECLINE",
+          "role": "caution"
+        },
+        {
+          "text": "SECOND TRANSITION",
+          "role": "evidence"
+        },
+        {
+          "text": "VALUE AND FAMILY-FORMATION SHIFT BELOW REPLACEMENT",
+          "role": "primary"
+        },
+        {
+          "text": "THE SECOND FRAMEWORK IS LARGELY EUROPEAN IN DERIVATION",
+          "role": "outcome"
+        },
+        {
+          "text": "AN ANALYTICAL LENS, NEVER AN ESTABLISHED INDIAN DIAGNOSIS",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "FIRST TRANSITION → mortality decline followed by fertility decline",
+        "SECOND TRANSITION → value and family-formation shift below replacement",
+        "ORIGIN → the second framework is largely European in derivation",
+        "STATUS → an analytical lens, never an established Indian diagnosis"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FIRST TRANSITION → mortality decline followed by fertility decline",
+            "SECOND TRANSITION → value and family-formation shift below replacement"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ORIGIN → the second framework is largely European in derivation",
+            "STATUS → an analytical lens, never an established Indian diagnosis"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "FIRST TRANSITION → mortality decline followed by fertility decline",
+            "SECOND TRANSITION → value and family-formation shift below replacement"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SECOND TRANSITION → value and family-formation shift below replacement.",
+      "source_references": [
+        "First and second demographic transition",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "MIGRATION OFFSET",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "MIGRATION OFFSET",
+          "role": "primary"
+        },
+        {
+          "text": "RECEIVING REGION",
+          "role": "outcome"
+        },
+        {
+          "text": "WORKING-AGE INFLOW CUSHIONS WORKFORCE SHRINKAGE",
+          "role": "comparison"
+        },
+        {
+          "text": "SENDING REGION",
+          "role": "evidence"
+        },
+        {
+          "text": "ELDERLY PARENTS LEFT WITH THINNER HOUSEHOLD SUPPORT",
+          "role": "primary"
+        },
+        {
+          "text": "NET EFFECT",
+          "role": "outcome"
+        },
+        {
+          "text": "THE AGEING PROBLEM IS REDISTRIBUTED, NOT REMOVED",
+          "role": "caution"
+        },
+        {
+          "text": "ANSWER USE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RECEIVING REGION → working-age inflow cushions workforce shrinkage",
+        "SENDING REGION → elderly parents left with thinner household support",
+        "NET EFFECT → the ageing problem is redistributed, not removed",
+        "ANSWER USE → state the regional trade-off before recommending mobility"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RECEIVING REGION → working-age inflow cushions workforce shrinkage",
+            "SENDING REGION → elderly parents left with thinner household support"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "NET EFFECT → the ageing problem is redistributed, not removed",
+            "ANSWER USE → state the regional trade-off before recommending mobility"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RECEIVING REGION → working-age inflow cushions workforce shrinkage",
+            "SENDING REGION → elderly parents left with thinner household support"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ANSWER USE → state the regional trade-off before recommending mobility.",
+      "source_references": [
+        "Migration as an offset with a cost",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "POPULATION EDUCATION DESIGN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "POPULATION EDUCATION DESIGN",
+          "role": "primary"
+        },
+        {
+          "text": "AGE-APPROPRIATE, SCIENTIFIC AND RIGHTS-RESPECTING INSTRUCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "HEALTH INFORMATION, GENDER EQUALITY, VOLUNTARY CHOICE, RESOURCE AWARENESS",
+          "role": "comparison"
+        },
+        {
+          "text": "SCHOOLS, COMMUNITY OUTREACH AND HEALTH SERVICES",
+          "role": "evidence"
+        },
+        {
+          "text": "CAPABILITY BUILDING, NEVER A DEMOGRAPHIC TARGET",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "CONTENT → age-appropriate, scientific and rights-respecting instruction",
+        "OBJECTIVES → health information, gender equality, voluntary choice, resource awareness",
+        "DELIVERY → schools, community outreach and health services",
+        "SAFEGUARD → capability building, never a demographic target"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CONTENT → age-appropriate, scientific and rights-respecting instruction",
+            "OBJECTIVES → health information, gender equality, voluntary choice, resource awareness"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DELIVERY → schools, community outreach and health services",
+            "SAFEGUARD → capability building, never a demographic target"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CONTENT → age-appropriate, scientific and rights-respecting instruction",
+            "OBJECTIVES → health information, gender equality, voluntary choice, resource awareness"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "SAFEGUARD → capability building, never a demographic target.",
+      "source_references": [
+        "Population education and its safeguards",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "POPULATION ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "POPULATION ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "DEFINE THE TERM PRECISELY AND NAME THE SOCIAL MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "DATED ANCHOR, THEN IMMEDIATE DISAGGREGATION BY STATE",
+          "role": "institution"
+        },
+        {
+          "text": "AGEING PRESSURE AGAINST CONTINUING DIVIDEND CONDITIONS",
+          "role": "evidence"
+        },
+        {
+          "text": "GRADED VERDICT WITH THE SURVEY-VERSUS-CENSUS CAVEAT",
+          "role": "comparison"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "CENSUS 2011 IS THE LATEST COMPLETED CENSUS BASELINE AS",
+          "role": "comparison"
+        },
+        {
+          "text": "NFHS-5 AND PROJECTIONS HAVE DIFFERENT DATES AND METHODS; COMPARE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "OPEN → define the term precisely and name the social mechanism",
+        "BODY → dated anchor, then immediate disaggregation by state",
+        "TEST → ageing pressure against continuing dividend conditions",
+        "CLOSE → graded verdict with the survey-versus-census caveat",
+        "EVIDENCE LIMIT: Census 2011 is the latest completed census baseline as of review, while SRS"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → define the term precisely and name the social mechanism",
+            "BODY → dated anchor, then immediate disaggregation by state",
+            "TEST → ageing pressure against continuing dividend conditions"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CLOSE → graded verdict with the survey-versus-census caveat",
+            "EVIDENCE LIMIT: Census 2011 is the latest completed census baseline as of review, while SRS,",
+            "NFHS-5 and projections have different dates and methods; compare Kerala/Tamil Nadu ageing,"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EAG-state youth and migration destinations without causal claims from state averages alone."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → graded verdict with the survey-versus-census caveat.",
+      "source_references": [
+        "Question ownership and the answer spine",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\06_Population-and-Associated-Issues.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-06\\g3\\indian-society-06_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "NATIONAL POPULATION POLICY, 2000 (CROSS-LINKED, NOT RESTATED IN MECHANISM",
+          "role": "caution"
+        },
+        {
+          "text": "STATE-SPECIFIC VARIATION",
+          "role": "institution"
+        },
+        {
+          "text": "AGE STRUCTURE, FERTILITY AND ELDER-CARE CAPACITY VARY",
+          "role": "evidence"
+        },
+        {
+          "text": "BOUNDARY CASE 1 — LOCALISED DEMOGRAPHIC WINTER",
+          "role": "primary"
+        },
+        {
+          "text": "A STATE WITH TFR MEANINGFULLY BELOW",
+          "role": "institution"
+        },
+        {
+          "text": "BOUNDARY CASE 2 — CONTINUED DIVIDEND WINDOW",
+          "role": "comparison"
+        },
+        {
+          "text": "A STATE WITH TFR STILL ABOVE",
+          "role": "institution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "National Population Policy, 2000 (cross-linked, not restated in mechanism form):",
+            "CAUTION: State-specific variation: age structure, fertility and elder-care capacity vary",
+            "CAUTION: Boundary case 1 — localised demographic winter: a state with TFR meaningfully below",
+            "CAUTION: Boundary case 2 — continued dividend window: a state with TFR still above"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Boundary case 3 — son-preference persistence amid falling family size: a household",
+            "CAUTION: Aggregate-versus-disaggregated-analysis trade-off: citing only the national TFR",
+            "CAUTION: Policy-lag trade-off: National Population Policy 2000's high-fertility-era framing",
+            "CAUTION: Migration-as-offset trade-off: using internal migration to offset regional"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "NFHS-5 (2019-21) recorded India's national TFR at 2.0, near replacement level. It is",
+            "National Population Policy, 2000 set immediate (unmet contraceptive need), medium-term",
+            "CAUTION: Sub-national fertility variation in India is substantial: several states are already",
+            "CAUTION: “Second demographic transition” theory is an analytical lens for value-linked"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

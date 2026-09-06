@@ -1,0 +1,1889 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-15\\g3\\governance-15_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-15\\g3\\governance-15_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "governance-15",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Monitoring, Evaluation and Outcomes - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-02. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 29,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 682.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 388.69
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-15\\g3\\assets\\governance-15_Teaching-Navigation_2026-09-02.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 735.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 427.956
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "What the evidence layer owns and why it transfers should be analysed as a relation among What this owner holds and why it is built for transfer, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 212.156
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 145.488
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 82,
+      "heading": "VISUAL FIRST",
+      "preview": "WHAT THE EVIDENCE LAYER OWNS AND WHY IT TRANSFERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 716.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 675.491
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 110,
+      "markdown_body_line_end": 117,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 267.691
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 170.023
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 129,
+      "markdown_body_line_end": 129,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The results chain from input to impact should be analysed as a relation among Input, activity, output, outcome and impact and The results chain as the spine of every evaluative answer, not as a list of virtues attached to the word governanc",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 636.691
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 555.824
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 144,
+      "markdown_body_line_end": 151,
+      "heading": "VISUAL FIRST",
+      "preview": "THE RESULTS CHAIN FROM INPUT TO IMPACT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 361.024
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 290.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 187,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 463.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 348.723
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 199,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Classifying the examiner's own statistic should be analysed as a relation among Classify the examiner's own statistic, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 199.523
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 132.855
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 214,
+      "markdown_body_line_end": 218,
+      "heading": "VISUAL FIRST",
+      "preview": "CLASSIFYING THE EXAMINER'S OWN STATISTIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 699.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 658.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 246,
+      "markdown_body_line_end": 253,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 307.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 209.623
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 265,
+      "markdown_body_line_end": 265,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The evaluation office and its criteria should be analysed as a relation among The Development Monitoring and Evaluation Office and its mandate and The REESI plus coherence and equity criteria, not as a list of virtues attached to the word g",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 703.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 280,
+      "markdown_body_line_end": 287,
+      "heading": "VISUAL FIRST",
+      "preview": "THE EVALUATION OFFICE AND ITS CRITERIA",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 494.224
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 423.224
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 316,
+      "markdown_body_line_end": 323,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 581.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 467.123
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 335,
+      "markdown_body_line_end": 335,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The budget framework and its coverage rule should be analysed as a relation among The Output-Outcome Monitoring Framework and its coverage rule, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 303.723
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 237.055
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 350,
+      "markdown_body_line_end": 354,
+      "heading": "VISUAL FIRST",
+      "preview": "THE BUDGET FRAMEWORK AND ITS COVERAGE RULE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 382,
+      "markdown_body_line_end": 389,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 310.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 204.073
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 401,
+      "markdown_body_line_end": 401,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Outcome budgeting against output and input budgeting should be analysed as a relation among Outcome budgeting against output and input budgeting, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 717.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 416,
+      "markdown_body_line_end": 420,
+      "heading": "VISUAL FIRST",
+      "preview": "OUTCOME BUDGETING AGAINST OUTPUT AND INPUT BUDGETING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 508.424
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 457.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 448,
+      "markdown_body_line_end": 455,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 49.624
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 705.623
+        }
+      },
+      "pdf_pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 467,
+      "markdown_body_line_end": 467,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The district programme and its dashboard should be analysed as a relation among The Aspirational Districts Programme and its dashboard architecture, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 528.023
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 461.355
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 482,
+      "markdown_body_line_end": 486,
+      "heading": "VISUAL FIRST",
+      "preview": "THE DISTRICT PROGRAMME AND ITS DASHBOARD",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 514,
+      "markdown_body_line_end": 521,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 338.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 232.473
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 533,
+      "markdown_body_line_end": 533,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ranking by improvement rather than level should be analysed as a relation among Delta ranking against absolute ranking, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 548,
+      "markdown_body_line_end": 552,
+      "heading": "VISUAL FIRST",
+      "preview": "RANKING BY IMPROVEMENT RATHER THAN LEVEL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 580,
+      "markdown_body_line_end": 587,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 99.024
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 726.923
+        }
+      },
+      "pdf_pages": [
+        19,
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 599,
+      "markdown_body_line_end": 599,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The block programme as a separate exercise should be analysed as a relation among The Aspirational Blocks Programme as a separate exercise, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 563.523
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 496.855
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 614,
+      "markdown_body_line_end": 618,
+      "heading": "VISUAL FIRST",
+      "preview": "THE BLOCK PROGRAMME AS A SEPARATE EXERCISE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 302.055
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 261.055
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 646,
+      "markdown_body_line_end": 653,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 666.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 560.273
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 665,
+      "markdown_body_line_end": 665,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Monitoring against evaluation should be analysed as a relation among Monitoring and evaluation are complementary and distinct, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 396.873
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 330.205
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 680,
+      "markdown_body_line_end": 684,
+      "heading": "VISUAL FIRST",
+      "preview": "MONITORING AGAINST EVALUATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 712,
+      "markdown_body_line_end": 719,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 366.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 269.223
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 731,
+      "markdown_body_line_end": 731,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Self-reporting with a validation layer should be analysed as a relation among Self-reported data with a validation layer, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 120.023
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 53.355
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 746,
+      "markdown_body_line_end": 750,
+      "heading": "VISUAL FIRST",
+      "preview": "SELF-REPORTING WITH A VALIDATION LAYER",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 573.491
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 778,
+      "markdown_body_line_end": 785,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 194.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 88.073
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 797,
+      "markdown_body_line_end": 797,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Attribution, the baseline and the method set should be analysed as a relation among Attribution is the hard problem and the baseline is the precondition and What each evaluation method can and cannot establish, not as a list of virtues atta",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 636.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 555.824
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 812,
+      "markdown_body_line_end": 819,
+      "heading": "VISUAL FIRST",
+      "preview": "ATTRIBUTION, THE BASELINE AND THE METHOD SET",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 361.024
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 290.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 848,
+      "markdown_body_line_end": 855,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 349.491
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 235.123
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 867,
+      "markdown_body_line_end": 867,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Indicator properties and their failure modes should be analysed as a relation among What makes an indicator usable and The six indicator failure modes and their corrections, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 882,
+      "markdown_body_line_end": 889,
+      "heading": "VISUAL FIRST",
+      "preview": "INDICATOR PROPERTIES AND THEIR FAILURE MODES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 476.824
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 918,
+      "markdown_body_line_end": 925,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 609.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 503.873
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 937,
+      "markdown_body_line_end": 937,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Independence and the publication condition should be analysed as a relation among Third-party evaluation and the conditions on its independence, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 321.473
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 254.805
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 952,
+      "markdown_body_line_end": 956,
+      "heading": "VISUAL FIRST",
+      "preview": "INDEPENDENCE AND THE PUBLICATION CONDITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 984,
+      "markdown_body_line_end": 991,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 338.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 240.823
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1003,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Learning, trade-offs, incidence and ownership should be analysed as a relation among Learning against accountability, and the other honest trade-offs and Incidence, the learning loop and honest question ownership, not as a list of virtues a",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1018,
+      "markdown_body_line_end": 1025,
+      "heading": "VISUAL FIRST",
+      "preview": "LEARNING, TRADE-OFFS, INCIDENCE AND OWNERSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 103
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 519.424
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 438.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1061,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 292.691
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 178.323
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1065,
+      "markdown_body_line_end": 1073,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Governance | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II, with GS-III public-finance links. **Core area:** DMEO, the Output-Outcome Monitoring Framework, outcome budgeting, the Aspirational Districts Programme and thir",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 178.323
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 54.855
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1077,
+      "markdown_body_line_end": 1098,
+      "heading": "1. Visual foundation",
+      "preview": "OUTPUT                                    OUTCOME",
+      "metadata": {
+        "language": "text",
+        "line_count": 20,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1108,
+      "markdown_body_line_end": 1115,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 497.491
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 121.69
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1222,
+      "markdown_body_line_end": 1226,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Effective governance monitoring requires measuring outcomes, not merely outputs, and India's evolving evaluation architecture — the Output-Outcome Monitoring Framework, DMEO's evaluation function, and the Aspirational Dis",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 303.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 230.024
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1250,
+      "markdown_body_line_end": 1255,
+      "heading": "13. Answer architecture (10/15/20-mark support)",
+      "preview": "**Scope.** All marks-bearing content for *monitoring, evaluation and outcomes* is held **in this file**. `advanced/15` is optional enrichment only. ⚠️ This topic has **no routed 2018–2025 Mains PYQ of its own**, which makes it a classic unf",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 713.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 618.224
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1259,
+      "markdown_body_line_end": 1266,
+      "heading": "13.1 Demand map",
+      "preview": "Stem pattern | What is being tested | Opening move",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Stem pattern",
+          "What is being tested",
+          "Opening move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 596.224
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 377.222
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1298,
+      "markdown_body_line_end": 1309,
+      "heading": "13.4 The results chain - the spine of every evaluative answer",
+      "preview": "INPUT      money, staff, materials committed          \"we allocated ₹X and Y posts\"",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1318,
+      "markdown_body_line_end": 1326,
+      "heading": "13.5 Attribution and method (what a 20-mark answer must be able to say)",
+      "preview": "Method | What it can establish | Honest limitation",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Method",
+          "What it can establish",
+          "Honest limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 611.691
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 326.69
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1338,
+      "markdown_body_line_end": 1345,
+      "heading": "13.6 Indicator design and its failure modes",
+      "preview": "Failure mode | What it looks like | Correction",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Failure mode",
+          "What it looks like",
+          "Correction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 561.89
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1349,
+      "markdown_body_line_end": 1357,
+      "heading": "13.7 Evidence bank - India's M&E architecture",
+      "preview": "Anchor | What it is | Function | Limitation / caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Anchor",
+          "What it is",
+          "Function",
+          "Limitation / caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 539.89
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 141.488
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2514,
+      "markdown_body_line_end": 2521,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Governance | **Tier:** Advanced | **GS Paper:** GS-II, with GS-III public-finance links. **Core area:** DMEO, the Output-Outcome Monitoring Framework, outcome budgeting, the Aspirational Districts Programme and third-party eval",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 689.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 587.824
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2525,
+      "markdown_body_line_end": 2541,
+      "heading": "1. Architecture",
+      "preview": "MONITORING (continuous, self-reported)     EVALUATION (periodic, often",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 565.824
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 404.824
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2552,
+      "markdown_body_line_end": 2558,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 320.69
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2774,
+      "markdown_body_line_end": 2780,
+      "heading": "Monitoring, Evaluation and Outcomes: ANSWER-WRITING SPINE",
+      "preview": "NAME THE NORM OR PROBLEM -> IDENTIFY THE DUTY-HOLDER AND THE BINDING FORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 114,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 114,
+          "frame_y": 724.291
+        }
+      },
+      "pdf_pages": [
+        114
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2790,
+      "markdown_body_line_end": 2798,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Results chain",
+      "preview": "INPUT -> money, staff and materials committed to the intervention",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 704.891
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2802,
+      "markdown_body_line_end": 2807,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Classify the statistic",
+      "preview": "OUTPUT CLAIM -> share of households covered; number of facilities constructed",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 631.091
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2811,
+      "markdown_body_line_end": 2817,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Institutional map",
+      "preview": "EVALUATION OFFICE -> attached office of NITI Aayog; constituted September 2015",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 609.091
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 547.091
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2821,
+      "markdown_body_line_end": 2826,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Evaluation criteria set",
+      "preview": "RELEVANCE -> was the intervention the right response to the problem",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 525.091
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2830,
+      "markdown_body_line_end": 2835,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Coverage discipline card",
+      "preview": "RULE -> the budget framework does not cover every scheme in every year",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 399.491
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2839,
+      "markdown_body_line_end": 2845,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Three budgeting modes",
+      "preview": "INPUT BUDGETING -> line items; how much money was allocated to a category",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 377.491
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 315.491
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2849,
+      "markdown_body_line_end": 2855,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: District and block programmes kept separate",
+      "preview": "DISTRICT PROGRAMME -> 112 districts; 49 key performance indicators; five themes",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 116,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 116,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        116
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2859,
+      "markdown_body_line_end": 2865,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Ranking design",
+      "preview": "ABSOLUTE RANKING -> compares present level; already-advantaged units stay on top",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 116,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 116,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        116
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2869,
+      "markdown_body_line_end": 2875,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Monitoring against evaluation",
+      "preview": "MONITORING -> continuous, high frequency, typically self-reported administrative data",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 116,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 116,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        116
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2879,
+      "markdown_body_line_end": 2886,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Method and limit table",
+      "preview": "BEFORE AND AFTER -> shows movement; cannot separate the intervention from everything else",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 116,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 116,
+          "frame_y": 463.091
+        }
+      },
+      "pdf_pages": [
+        116
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2890,
+      "markdown_body_line_end": 2897,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Indicator failure modes and corrections",
+      "preview": "GOODHART -> a measure with consequences is produced rather than observed; use a basket",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 116,
+          "frame_y": 441.091
+        },
+        "end": {
+          "page": 116,
+          "frame_y": 368.891
+        }
+      },
+      "pdf_pages": [
+        116
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2901,
+      "markdown_body_line_end": 2907,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Answer spine for an evaluate demand",
+      "preview": "OPEN -> say what an output claim proves and what it does not, before citing anything",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 116,
+          "frame_y": 346.891
+        },
+        "end": {
+          "page": 116,
+          "frame_y": 284.891
+        }
+      },
+      "pdf_pages": [
+        116
+      ]
+    }
+  ]
+}

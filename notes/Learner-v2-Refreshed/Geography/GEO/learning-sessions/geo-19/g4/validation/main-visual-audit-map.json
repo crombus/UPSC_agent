@@ -1,0 +1,1910 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-19\\g4\\geography-19_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-19\\g4\\geography-19_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "geography-19",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Mediterranean Climate - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 389.624
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 160.622
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 50,
+      "markdown_body_line_end": 50,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-19\\g4\\assets\\geography-19_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 466.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 158.756
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 64,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cs western-margin map must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 85,
+      "heading": "VISUAL FIRST",
+      "preview": "CS WESTERN-MARGIN MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 449.224
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 378.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 114,
+      "markdown_body_line_end": 121,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 689.623
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 133,
+      "markdown_body_line_end": 133,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Summer subtropical high must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 568.823
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 502.155
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 148,
+      "markdown_body_line_end": 152,
+      "heading": "VISUAL FIRST",
+      "preview": "SUMMER SUBTROPICAL HIGH",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 321.555
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 280.555
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 187,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 767.091
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 677.773
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 199,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Winter westerly rain must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 556.973
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 490.305
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 212,
+      "markdown_body_line_end": 216,
+      "heading": "VISUAL FIRST",
+      "preview": "WINTER WESTERLY RAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 344.105
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 303.105
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 244,
+      "markdown_body_line_end": 251,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 697.973
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 263,
+      "markdown_body_line_end": 263,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Summer-dry winter-wet identity must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 562.973
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 496.305
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 278,
+      "markdown_body_line_end": 282,
+      "heading": "VISUAL FIRST",
+      "preview": "SUMMER-DRY WINTER-WET IDENTITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 315.705
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 274.705
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 310,
+      "markdown_body_line_end": 317,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 636.223
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 329,
+      "markdown_body_line_end": 329,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sirocco, Mistral and Bora must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 515.423
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 448.755
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 343,
+      "markdown_body_line_end": 347,
+      "heading": "VISUAL FIRST",
+      "preview": "SIROCCO, MISTRAL AND BORA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 375,
+      "markdown_body_line_end": 382,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 466.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 376.973
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 394,
+      "markdown_body_line_end": 394,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sclerophyll adaptations must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 256.173
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 189.505
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 409,
+      "markdown_body_line_end": 413,
+      "heading": "VISUAL FIRST",
+      "preview": "SCLEROPHYLL ADAPTATIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 706.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 441,
+      "markdown_body_line_end": 448,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 426.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 337.573
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 460,
+      "markdown_body_line_end": 460,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Maquis, chaparral and mallee must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 216.773
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 150.105
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 475,
+      "markdown_body_line_end": 479,
+      "heading": "VISUAL FIRST",
+      "preview": "MAQUIS, CHAPARRAL AND MALLEE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 730.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 689.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 507,
+      "markdown_body_line_end": 514,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 409.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 320.373
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 526,
+      "markdown_body_line_end": 526,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Seasonal growth rhythm must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 199.573
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 132.905
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 539,
+      "markdown_body_line_end": 543,
+      "heading": "VISUAL FIRST",
+      "preview": "SEASONAL GROWTH RHYTHM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 706.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 571,
+      "markdown_body_line_end": 578,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 426.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 337.573
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 590,
+      "markdown_body_line_end": 590,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Orchards and irrigated horticulture must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 202.573
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 135.905
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 603,
+      "markdown_body_line_end": 607,
+      "heading": "VISUAL FIRST",
+      "preview": "ORCHARDS AND IRRIGATED HORTICULTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 706.891
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 635,
+      "markdown_body_line_end": 642,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 412.691
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 315.023
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 654,
+      "markdown_body_line_end": 654,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Winter cereals and viticulture must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 194.223
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 127.555
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 667,
+      "markdown_body_line_end": 671,
+      "heading": "VISUAL FIRST",
+      "preview": "WINTER CEREALS AND VITICULTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 706.891
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 699,
+      "markdown_body_line_end": 706,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 426.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 337.573
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 718,
+      "markdown_body_line_end": 718,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Wildfire geography must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 216.773
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 150.105
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 732,
+      "markdown_body_line_end": 736,
+      "heading": "VISUAL FIRST",
+      "preview": "WILDFIRE GEOGRAPHY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 706.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 764,
+      "markdown_body_line_end": 771,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 412.691
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 332.873
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 783,
+      "markdown_body_line_end": 783,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India analogue boundary must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 212.073
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 145.405
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 798,
+      "markdown_body_line_end": 802,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA ANALOGUE BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 730.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 689.691
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 830,
+      "markdown_body_line_end": 837,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 409.691
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 320.373
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 849,
+      "markdown_body_line_end": 849,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Himalayan fruit regions must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 185.373
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 118.705
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 864,
+      "markdown_body_line_end": 871,
+      "heading": "VISUAL FIRST",
+      "preview": "HIMALAYAN FRUIT REGIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 696.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 625.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 900,
+      "markdown_body_line_end": 907,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 271.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 173.623
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 919,
+      "markdown_body_line_end": 919,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Chilling, perishability and grapes must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 934,
+      "markdown_body_line_end": 944,
+      "heading": "VISUAL FIRST",
+      "preview": "CHILLING, PERISHABILITY AND GRAPES",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 417.824
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 316.824
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 974,
+      "markdown_body_line_end": 981,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 644.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 538.273
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 993,
+      "markdown_body_line_end": 993,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "ICAR adaptation and PYQ boundary must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 403.273
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 336.605
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1008,
+      "markdown_body_line_end": 1015,
+      "heading": "VISUAL FIRST",
+      "preview": "ICAR ADAPTATION AND PYQ BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1044,
+      "markdown_body_line_end": 1051,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 333.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 236.223
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1055,
+      "markdown_body_line_end": 1058,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*. ✅ = from source book · ⚠️ = inference ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 236.223
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 141.155
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1064,
+      "markdown_body_line_end": 1070,
+      "heading": "1. What & Where (G.C. Leong)",
+      "preview": "Region | ✅ Mediterranean-climate area",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Region",
+          "✅ Mediterranean-climate area"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 672.69
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1072,
+      "markdown_body_line_end": 1072,
+      "heading": "1. What & Where (G.C. Leong)",
+      "preview": "🔑 Trap: Mediterranean climate is the **winter-rain** climate, not a summer-monsoon climate.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 672.69
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 642.222
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1078,
+      "markdown_body_line_end": 1083,
+      "heading": "2. Climatic Mechanism",
+      "preview": "Season | ✅ Dominant control | ✅ Weather",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Season",
+          "✅ Dominant control",
+          "✅ Weather"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 572.622
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 463.22
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1091,
+      "markdown_body_line_end": 1096,
+      "heading": "3. Local Winds",
+      "preview": "Wind | ✅ Character | Region / direction",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Wind",
+          "✅ Character",
+          "Region / direction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 365.22
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 255.819
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1098,
+      "markdown_body_line_end": 1098,
+      "heading": "3. Local Winds",
+      "preview": "🔑 Trap: Sirocco and Mistral are **not both hot**; Sirocco is hot, Mistral is cold.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 255.819
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 225.351
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1107,
+      "markdown_body_line_end": 1114,
+      "heading": "4. Vegetation & Agriculture",
+      "preview": "Component | ✅ Book-grounded fact",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Component",
+          "✅ Book-grounded fact"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 651.49
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1152,
+      "markdown_body_line_end": 1156,
+      "heading": "9.1 Directive decoding",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 768.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 601.69
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1160,
+      "markdown_body_line_end": 1169,
+      "heading": "9.2 The mechanism, compressed",
+      "preview": "SUMMER: the subtropical high shifts poleward and sits over these coasts",
+      "metadata": {
+        "language": "text",
+        "line_count": 8,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 579.69
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 488.69
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1171,
+      "markdown_body_line_end": 1174,
+      "heading": "9.2 The mechanism, compressed",
+      "preview": "🔑 **Trap:** Mediterranean climate occurs on **western** continental margins in this latitude band because that is where the seasonal alternation between the subtropical high and the westerlies operates. Eastern margins at the same latitude ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 488.69
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 429.822
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1196,
+      "markdown_body_line_end": 1203,
+      "heading": "9.4 Evidence unit",
+      "preview": "**Claim:** identical climates on four continents produce a convergent agricultural landscape. **Evidence:** the Mediterranean basin, California, central Chile, the Cape region and south-western Australia all specialise in vines, olives or e",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 158.022
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 685.824
+        }
+      },
+      "pdf_pages": [
+        27,
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2279,
+      "markdown_body_line_end": 2282,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain + verified CA. ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 293.091
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 234.224
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2289,
+      "markdown_body_line_end": 2295,
+      "heading": "1. India's Mediterranean Analogue",
+      "preview": "Crop / system | ✅ Indian region | Mediterranean link",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Crop / system",
+          "✅ Indian region",
+          "Mediterranean link"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 672.69
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2297,
+      "markdown_body_line_end": 2297,
+      "heading": "1. India's Mediterranean Analogue",
+      "preview": "🔑 Trap: Kashmir is not a true Mediterranean climate; it is a **temperate horticultural analogue**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 672.69
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 642.222
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2307,
+      "markdown_body_line_end": 2314,
+      "heading": "2. Apple: Climatic Requirements & Regions",
+      "preview": "Requirement / region | ✅ Book-grounded fact",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Requirement / region",
+          "✅ Book-grounded fact"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 525.022
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 373.22
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2359,
+      "markdown_body_line_end": 2370,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Five-region world map",
+      "preview": "MEDITERRANEAN BASIN -> largest expression",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 463.691
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 350.691
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2374,
+      "markdown_body_line_end": 2379,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Seasonal pressure switch",
+      "preview": "SUMMER -> subtropical high shifts poleward",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 328.691
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 276.891
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2383,
+      "markdown_body_line_end": 2388,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Climate identity firewall",
+      "preview": "MEDITERRANEAN -> summer dry / winter wet",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2392,
+      "markdown_body_line_end": 2397,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Local-wind matrix",
+      "preview": "SIROCCO -> hot, dusty, Sahara origin",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2401,
+      "markdown_body_line_end": 2406,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Sclerophyll design",
+      "preview": "LEAF -> small, hard, waxy or leathery",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2410,
+      "markdown_body_line_end": 2415,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Regional scrub names",
+      "preview": "MAQUIS -> Mediterranean basin",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2419,
+      "markdown_body_line_end": 2424,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Growth-season calendar",
+      "preview": "AUTUMN -> rain returns after drought",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2428,
+      "markdown_body_line_end": 2433,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Agricultural system",
+      "preview": "WINTER RAIN -> cereals and soil recharge",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2437,
+      "markdown_body_line_end": 2442,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Wildfire chain",
+      "preview": "WET SEASON -> biomass and fine fuel",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 40
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 292.691
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2446,
+      "markdown_body_line_end": 2457,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: India analogue map",
+      "preview": "KASHMIR -> temperate fruit valleys",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2461,
+      "markdown_body_line_end": 2472,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Apple viability ladder",
+      "preview": "WINTER CHILL -> cultivar-specific dormancy",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 539.291
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2476,
+      "markdown_body_line_end": 2481,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Mediterranean answer spine",
+      "preview": "LOCATE -> western margins at 30-45 degrees",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 517.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 465.491
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    }
+  ]
+}

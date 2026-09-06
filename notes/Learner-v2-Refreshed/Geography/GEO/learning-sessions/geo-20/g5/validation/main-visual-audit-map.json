@@ -1,0 +1,1939 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\geography-20_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "geography-20",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Temperate Continental Steppe Climate - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 418.024
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 189.022
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 51,
+      "markdown_body_line_end": 51,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-20\\g5\\assets\\geography-20_Teaching-Navigation_2026-08-22.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 155.756
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Steppe location and continental setting must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 79,
+      "markdown_body_line_end": 83,
+      "heading": "VISUAL FIRST",
+      "preview": "STEPPE LOCATION AND CONTINENTAL SETTING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 435.024
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 394.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 111,
+      "markdown_body_line_end": 118,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 85.624
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 726.923
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 130,
+      "markdown_body_line_end": 130,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Local grassland names must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 606.123
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 539.455
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 145,
+      "markdown_body_line_end": 149,
+      "heading": "VISUAL FIRST",
+      "preview": "LOCAL GRASSLAND NAMES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 344.655
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 303.655
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 177,
+      "markdown_body_line_end": 184,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 636.223
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 196,
+      "markdown_body_line_end": 196,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Continentality and temperature range must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 515.423
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 448.755
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 209,
+      "markdown_body_line_end": 213,
+      "heading": "VISUAL FIRST",
+      "preview": "CONTINENTALITY AND TEMPERATURE RANGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 241,
+      "markdown_body_line_end": 248,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 437.891
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 348.573
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 260,
+      "markdown_body_line_end": 260,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rainfall regime and moisture deficit must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 227.773
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 161.105
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 273,
+      "markdown_body_line_end": 277,
+      "heading": "VISUAL FIRST",
+      "preview": "RAINFALL REGIME AND MOISTURE DEFICIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 305,
+      "markdown_body_line_end": 312,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 466.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 376.973
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 324,
+      "markdown_body_line_end": 324,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Hemisphere contrast must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 256.173
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 189.505
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 339,
+      "markdown_body_line_end": 343,
+      "heading": "VISUAL FIRST",
+      "preview": "HEMISPHERE CONTRAST",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 706.891
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 371,
+      "markdown_body_line_end": 378,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 426.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 337.573
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 390,
+      "markdown_body_line_end": 390,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Natural grassland and treelessness must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 202.573
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 135.905
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 405,
+      "markdown_body_line_end": 412,
+      "heading": "VISUAL FIRST",
+      "preview": "NATURAL GRASSLAND AND TREELESSNESS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 642.491
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 441,
+      "markdown_body_line_end": 448,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 316.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 219.223
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 460,
+      "markdown_body_line_end": 460,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Chernozem formation and fertility must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 474,
+      "markdown_body_line_end": 478,
+      "heading": "VISUAL FIRST",
+      "preview": "CHERNOZEM FORMATION AND FERTILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 579.224
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 538.224
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 506,
+      "markdown_body_line_end": 513,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 258.224
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 168.905
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 525,
+      "markdown_body_line_end": 525,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Granary identity and wheat belts must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 540,
+      "markdown_body_line_end": 547,
+      "heading": "VISUAL FIRST",
+      "preview": "GRANARY IDENTITY AND WHEAT BELTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 576,
+      "markdown_body_line_end": 583,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 767.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 669.423
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 595,
+      "markdown_body_line_end": 595,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Transport-conversion argument must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 534.423
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 467.755
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 610,
+      "markdown_body_line_end": 614,
+      "heading": "VISUAL FIRST",
+      "preview": "TRANSPORT-CONVERSION ARGUMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 642,
+      "markdown_body_line_end": 649,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 437.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 340.223
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 661,
+      "markdown_body_line_end": 661,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ecological cost of ploughing must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 219.423
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 152.755
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 676,
+      "markdown_body_line_end": 680,
+      "heading": "VISUAL FIRST",
+      "preview": "ECOLOGICAL COST OF PLOUGHING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 716.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 675.491
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 708,
+      "markdown_body_line_end": 715,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 381.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 291.973
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 727,
+      "markdown_body_line_end": 727,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India climate boundary must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 171.173
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 104.505
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 741,
+      "markdown_body_line_end": 745,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA CLIMATE BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 696.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 655.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 773,
+      "markdown_body_line_end": 780,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 361.091
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 271.773
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 792,
+      "markdown_body_line_end": 792,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Alluvial-chernozem distinction must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 136.773
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 70.105
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 807,
+      "markdown_body_line_end": 814,
+      "heading": "VISUAL FIRST",
+      "preview": "ALLUVIAL-CHERNOZEM DISTINCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 557.691
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 843,
+      "markdown_body_line_end": 850,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 217.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 120.223
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 862,
+      "markdown_body_line_end": 862,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Green Revolution and granary conversion must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 877,
+      "markdown_body_line_end": 884,
+      "heading": "VISUAL FIRST",
+      "preview": "GREEN REVOLUTION AND GRANARY CONVERSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 342.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 913,
+      "markdown_body_line_end": 920,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 713.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 616.023
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 932,
+      "markdown_body_line_end": 932,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sustainability and savanna-steppe comparison must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 462.023
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 395.355
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 945,
+      "markdown_body_line_end": 952,
+      "heading": "VISUAL FIRST",
+      "preview": "SUSTAINABILITY AND SAVANNA-STEPPE COMPARISON",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 981,
+      "markdown_body_line_end": 988,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 319.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 222.023
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1000,
+      "markdown_body_line_end": 1000,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "PYQ boundary and answer spine must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1013,
+      "markdown_body_line_end": 1017,
+      "heading": "VISUAL FIRST",
+      "preview": "PYQ BOUNDARY AND ANSWER SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 596.424
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 555.424
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1045,
+      "markdown_body_line_end": 1052,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 261.224
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 171.905
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1056,
+      "markdown_body_line_end": 1059,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*. ✅ = from source book · ⚠️ = inference ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 171.905
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 76.837
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1065,
+      "markdown_body_line_end": 1071,
+      "heading": "1. What & Where (G.C. Leong / Majid Husain)",
+      "preview": "Local name | ✅ Region / continent",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Local name",
+          "✅ Region / continent"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 725.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 594.89
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1073,
+      "markdown_body_line_end": 1073,
+      "heading": "1. What & Where (G.C. Leong / Majid Husain)",
+      "preview": "🔑 Trap: Temperate grasslands are not treeless because soils are poor; many have highly fertile soils.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 594.89
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 564.422
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1079,
+      "markdown_body_line_end": 1085,
+      "heading": "2. Climate: Continentality",
+      "preview": "Feature | ✅ Steppe / temperate grassland character",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Feature",
+          "✅ Steppe / temperate grassland character"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 480.622
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 350.02
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1096,
+      "markdown_body_line_end": 1102,
+      "heading": "3. Natural Vegetation & Soils",
+      "preview": "Vegetation / soil | ✅ Feature",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Vegetation / soil",
+          "✅ Feature"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 218.62
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 88.019
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1108,
+      "markdown_body_line_end": 1113,
+      "heading": "4. Economic Development: Granaries & Ranching",
+      "preview": "Economy | ✅ Region / feature",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Economy",
+          "✅ Region / feature"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 725.491
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 616.09
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1151,
+      "markdown_body_line_end": 1155,
+      "heading": "9.1 Directive decoding",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 768.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 635.29
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1159,
+      "markdown_body_line_end": 1164,
+      "heading": "9.2 The four-factor granary argument",
+      "preview": "Factor | Contribution",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Factor",
+          "Contribution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 613.29
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 436.688
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1166,
+      "markdown_body_line_end": 1169,
+      "heading": "9.2 The four-factor granary argument",
+      "preview": "🔑 **Trap:** the physical endowment did not create the granaries by itself. Rail penetration, ocean freight, mechanisation and external demand did — which is why these regions were pastoral or unexploited before the nineteenth century despit",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 436.688
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 363.62
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1205,
+      "markdown_body_line_end": 1211,
+      "heading": "9.6 Evidence units available in this file",
+      "preview": "**Claim:** treelessness in the temperate interiors is a moisture-and-disturbance outcome, not a soil-fertility outcome. **Evidence:** the steppe and prairie carry chernozem and prairie soils that are among the most fertile in the world, bui",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 688.091
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 564.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1213,
+      "markdown_body_line_end": 1219,
+      "heading": "9.6 Evidence units available in this file",
+      "preview": "**Claim:** a physical endowment becomes an economic resource only when access is created. **Evidence:** the temperate grasslands were pastoral or unexploited for centuries despite identical soils, and became world granaries only when railwa",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 564.624
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 463.156
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2298,
+      "markdown_body_line_end": 2301,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain + verified CA. ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 310.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 237.224
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2307,
+      "markdown_body_line_end": 2313,
+      "heading": "1. India's Steppe Analogue",
+      "preview": "Element | ✅ India-specific fact",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Element",
+          "✅ India-specific fact"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 672.69
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2315,
+      "markdown_body_line_end": 2315,
+      "heading": "1. India's Steppe Analogue",
+      "preview": "🔑 Trap: India’s wheat belt is **alluvial**, not black chernozem like the steppe.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 672.69
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 642.222
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2326,
+      "markdown_body_line_end": 2330,
+      "heading": "2. Punjab-Haryana Granary",
+      "preview": "State / region | ✅ Book-grounded details",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "State / region",
+          "✅ Book-grounded details"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 553.422
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 454.02
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2338,
+      "markdown_body_line_end": 2344,
+      "heading": "3. Green Revolution & Wheat Diffusion",
+      "preview": "Green Revolution input | ✅ Effect",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Green Revolution input",
+          "✅ Effect"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 384.42
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 253.819
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2394,
+      "markdown_body_line_end": 2406,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Temperate grassland world map",
+      "preview": "EURASIA -> steppes: Ukraine-Kazakhstan belt, continental interior",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 11,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 363.691
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 240.491
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2410,
+      "markdown_body_line_end": 2415,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Continentality mechanism",
+      "preview": "DISTANCE FROM SEA -> weak maritime moderation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2419,
+      "markdown_body_line_end": 2424,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Rainfall-moisture profile",
+      "preview": "TOTAL ANNUAL -> about 25-75 cm, low to moderate",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2428,
+      "markdown_body_line_end": 2433,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Hemisphere asymmetry",
+      "preview": "NORTHERN -> steppes and prairies: large continental mass, extreme range",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2437,
+      "markdown_body_line_end": 2442,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Chernozem-soil chain",
+      "preview": "GRASSLAND COVER -> deep root network decays in place",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2446,
+      "markdown_body_line_end": 2451,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Granary conversion timeline",
+      "preview": "NATURAL STATE -> pastoral grassland, low-density use",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2455,
+      "markdown_body_line_end": 2460,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Anti-determinism firewall",
+      "preview": "PHYSICAL BASE -> fertile soil + level relief + suitable climate",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2464,
+      "markdown_body_line_end": 2469,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Ecological-cost chain",
+      "preview": "SOD REMOVAL -> bare fine soil exposed to wind",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 292.691
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2473,
+      "markdown_body_line_end": 2478,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: India wheat granary map",
+      "preview": "PUNJAB-HARYANA-WESTERN UP -> Indo-Gangetic alluvial plain",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2482,
+      "markdown_body_line_end": 2493,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Green Revolution package",
+      "preview": "HYV SEMI-DWARF WHEAT -> raised yield potential",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2497,
+      "markdown_body_line_end": 2508,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Savanna-steppe comparison",
+      "preview": "LATITUDE -> tropical savanna versus temperate steppe/prairie",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 465.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2512,
+      "markdown_body_line_end": 2517,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Steppe answer spine",
+      "preview": "DEFINE -> continental interior grassland with large annual range",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 443.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 391.691
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    }
+  ]
+}

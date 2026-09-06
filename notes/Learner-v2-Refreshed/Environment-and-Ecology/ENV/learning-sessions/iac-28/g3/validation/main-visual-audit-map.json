@@ -1,0 +1,2283 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g3\\environment-and-ecology-28_Complete-Learning-Session_2026-09-06.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Environment-and-Ecology\\ENV\\learning-sessions\\iac-28\\g3\\environment-and-ecology-28_Complete-Learning-Session_2026-09-06.pdf",
+  "mode": "main",
+  "topic_key": "environment-and-ecology-28",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Species and Current Affairs Tracker - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-06. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 29,
+      "markdown_body_line_end": 41,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 433.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 80,
+      "markdown_body_line_end": 80,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Tracker record schema and evidence fields must be read through Tracker-record boundary and Taxonomic-identity boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 441.691
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 375.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 95,
+      "markdown_body_line_end": 102,
+      "heading": "VISUAL FIRST",
+      "preview": "TRACKER RECORD SCHEMA AND EVIDENCE FIELDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 131,
+      "markdown_body_line_end": 138,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 362.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 256.273
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 150,
+      "markdown_body_line_end": 150,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Scientific name common name and taxonomic rank must be read through Species-subspecies boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 102.273
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 801.024
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 165,
+      "markdown_body_line_end": 169,
+      "heading": "VISUAL FIRST",
+      "preview": "SCIENTIFIC NAME COMMON NAME AND TAXONOMIC RANK",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 620.424
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 197,
+      "markdown_body_line_end": 204,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 271.024
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 173.355
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 216,
+      "markdown_body_line_end": 216,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Species subspecies population and regional unit must be read through Common-name boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 231,
+      "markdown_body_line_end": 235,
+      "heading": "VISUAL FIRST",
+      "preview": "SPECIES SUBSPECIES POPULATION AND REGIONAL UNIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 263,
+      "markdown_body_line_end": 270,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 63.624
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 726.923
+        }
+      },
+      "pdf_pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 282,
+      "markdown_body_line_end": 282,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "IUCN category scope and assessment date must be read through IUCN-assessment boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 591.923
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 525.255
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 297,
+      "markdown_body_line_end": 301,
+      "heading": "VISUAL FIRST",
+      "preview": "IUCN CATEGORY SCOPE AND ASSESSMENT DATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 344.655
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 303.655
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 329,
+      "markdown_body_line_end": 336,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 636.223
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 348,
+      "markdown_body_line_end": 348,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Wildlife Protection Act schedule and legal date must be read through IUCN-date boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 501.223
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 434.555
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 363,
+      "markdown_body_line_end": 367,
+      "heading": "VISUAL FIRST",
+      "preview": "WILDLIFE PROTECTION ACT SCHEDULE AND LEGAL DATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 395,
+      "markdown_body_line_end": 402,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 437.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 340.223
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 414,
+      "markdown_body_line_end": 414,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "CITES Appendix trade-listing boundary must be read through WPA-legal boundary and CITES-listing boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 205.223
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 138.555
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 429,
+      "markdown_body_line_end": 436,
+      "heading": "VISUAL FIRST",
+      "preview": "CITES APPENDIX TRADE-LISTING BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 642.491
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 465,
+      "markdown_body_line_end": 472,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 288.491
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 182.473
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 484,
+      "markdown_body_line_end": 484,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "CMS Appendix instrument and migration boundary must be read through CMS-listing boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 717.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 499,
+      "markdown_body_line_end": 503,
+      "heading": "VISUAL FIRST",
+      "preview": "CMS APPENDIX INSTRUMENT AND MIGRATION BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 536.824
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 495.824
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 531,
+      "markdown_body_line_end": 538,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 187.424
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 89.755
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 550,
+      "markdown_body_line_end": 550,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Endemic native resident and migratory range must be read through Endemic-native boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 565,
+      "markdown_body_line_end": 569,
+      "heading": "VISUAL FIRST",
+      "preview": "ENDEMIC NATIVE RESIDENT AND MIGRATORY RANGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 597,
+      "markdown_body_line_end": 604,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 82.624
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 726.923
+        }
+      },
+      "pdf_pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 616,
+      "markdown_body_line_end": 616,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Occurrence record range and habitat association must be read through Range-record boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 572.923
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 506.255
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 631,
+      "markdown_body_line_end": 635,
+      "heading": "VISUAL FIRST",
+      "preview": "OCCURRENCE RECORD RANGE AND HABITAT ASSOCIATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 325.655
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 284.655
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 663,
+      "markdown_body_line_end": 670,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 636.223
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 682,
+      "markdown_body_line_end": 682,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Population size trend and risk category must be read through Habitat-range boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 501.223
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 434.555
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 697,
+      "markdown_body_line_end": 701,
+      "heading": "VISUAL FIRST",
+      "preview": "POPULATION SIZE TREND AND RISK CATEGORY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 729,
+      "markdown_body_line_end": 736,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 437.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 340.223
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 748,
+      "markdown_body_line_end": 748,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Dated trigger and static anchor separation must be read through Population-status boundary and Trigger-static boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 205.223
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 138.555
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 763,
+      "markdown_body_line_end": 770,
+      "heading": "VISUAL FIRST",
+      "preview": "DATED TRIGGER AND STATIC ANCHOR SEPARATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 642.491
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 799,
+      "markdown_body_line_end": 806,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 274.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 168.273
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 818,
+      "markdown_body_line_end": 818,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "News report notification and authoritative database must be read through News-notification boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 833,
+      "markdown_body_line_end": 837,
+      "heading": "VISUAL FIRST",
+      "preview": "NEWS REPORT NOTIFICATION AND AUTHORITATIVE DATABASE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 865,
+      "markdown_body_line_end": 872,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 63.624
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 726.923
+        }
+      },
+      "pdf_pages": [
+        22,
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 884,
+      "markdown_body_line_end": 884,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Status verbs and effective dates must be read through Status-verb boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 591.923
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 525.255
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 899,
+      "markdown_body_line_end": 903,
+      "heading": "VISUAL FIRST",
+      "preview": "STATUS VERBS AND EFFECTIVE DATES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 344.655
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 303.655
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 931,
+      "markdown_body_line_end": 938,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 636.223
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 950,
+      "markdown_body_line_end": 950,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rediscovery reassessment and cross-source reconciliation must be read through Rediscovery boundary and Cross-source reconciliation, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 468.023
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 387.155
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 965,
+      "markdown_body_line_end": 972,
+      "heading": "VISUAL FIRST",
+      "preview": "REDISCOVERY REASSESSMENT AND CROSS-SOURCE RECONCILIATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1001,
+      "markdown_body_line_end": 1008,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 348.091
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 242.073
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1020,
+      "markdown_body_line_end": 1020,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Stale-current firewall and update audit must be read through Stale-current firewall and Current evidence boundary, with the ecological level, system boundary and measured parameter fixed before the inference.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1035,
+      "markdown_body_line_end": 1042,
+      "heading": "VISUAL FIRST",
+      "preview": "STALE-CURRENT FIREWALL AND UPDATE AUDIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 491.024
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1071,
+      "markdown_body_line_end": 1078,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 122.824
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        26,
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1082,
+      "markdown_body_line_end": 1086,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Environment and Ecology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III (Environment) + Prelims, current-affairs integration across all GS papers. **Core area:** Dated species and policy current-affairs tracking methodo",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 745.323
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 643.855
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1090,
+      "markdown_body_line_end": 1104,
+      "heading": "1. Visual foundation",
+      "preview": "HOW TO USE THIS TRACKER FILE",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 621.855
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 480.855
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1115,
+      "markdown_body_line_end": 1120,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 402.055
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 214.254
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1359,
+      "markdown_body_line_end": 1359,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Pair every static Environment-and-Ecology concept (Topics 01-27) with this tracker's latest verified, source-dated current-affairs instance, and maintain strict verification discipline — omitting any unverifiable figure r",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1382,
+      "markdown_body_line_end": 1384,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 508.224
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 427.356
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1390,
+      "markdown_body_line_end": 1392,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 375.756
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 257.854
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1398,
+      "markdown_body_line_end": 1398,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 218.654
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 173.987
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1405,
+      "markdown_body_line_end": 1407,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 173.987
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 78.919
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1413,
+      "markdown_body_line_end": 1416,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 647.69
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1423,
+      "markdown_body_line_end": 1423,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 591.29
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 546.622
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1432,
+      "markdown_body_line_end": 1437,
+      "heading": "13.1 Current-affairs evidence protocol",
+      "preview": "Status verb | Safe use | Unsafe substitution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Status verb",
+          "Safe use",
+          "Unsafe substitution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 472.222
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 362.82
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1441,
+      "markdown_body_line_end": 1445,
+      "heading": "13.2 Reusable evidence units",
+      "preview": "Claim | Named evidence/example → significance | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Claim",
+          "Named evidence/example → significance",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 340.82
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 174.219
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1465,
+      "markdown_body_line_end": 1467,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 725.491
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 644.624
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1473,
+      "markdown_body_line_end": 1487,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 13,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 593.024
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 612.89
+        }
+      },
+      "pdf_pages": [
+        34,
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1505,
+      "markdown_body_line_end": 1505,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 367.29
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 322.622
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2335,
+      "markdown_body_line_end": 2337,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 383.891
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 303.024
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2343,
+      "markdown_body_line_end": 2345,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 251.424
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 133.522
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2351,
+      "markdown_body_line_end": 2351,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 94.322
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 49.654
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2358,
+      "markdown_body_line_end": 2360,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2024-2025.md`. **Answer-key rule:** The official 2024-2025 Prelims Set-A keys",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2366,
+      "markdown_body_line_end": 2369,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 662.624
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 524.222
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2376,
+      "markdown_body_line_end": 2376,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 467.822
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 423.154
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2381,
+      "markdown_body_line_end": 2383,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 423.154
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 342.287
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2389,
+      "markdown_body_line_end": 2403,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 13,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 290.687
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 300.89
+        }
+      },
+      "pdf_pages": [
+        57,
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2421,
+      "markdown_body_line_end": 2421,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2689,
+      "markdown_body_line_end": 2693,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Environment) + Prelims, current-affairs integration across all GS papers. **Core area:** Dated species and policy current-affairs tracking methodology. **Grou",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 310.091
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 208.624
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2709,
+      "markdown_body_line_end": 2715,
+      "heading": "2. Cross-topic synthesis: using tracker entries to build integrated Mains answers",
+      "preview": "Tracker entry | Cross-topic synthesis opportunity",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Tracker entry",
+          "Cross-topic synthesis opportunity"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 544.69
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2771,
+      "markdown_body_line_end": 2775,
+      "heading": "6. Recurring UPSC analytical tensions",
+      "preview": "Tension | Balanced framing",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Tension",
+          "Balanced framing"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 84,
+          "frame_y": 688.091
+        },
+        "end": {
+          "page": 84,
+          "frame_y": 543.89
+        }
+      },
+      "pdf_pages": [
+        84
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2810,
+      "markdown_body_line_end": 2814,
+      "heading": "9. CURRENT: Current anchor - analytical use",
+      "preview": "Verified current anchor | Topic-specific analytical use",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Verified current anchor",
+          "Topic-specific analytical use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 85,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 85,
+          "frame_y": 564.69
+        }
+      },
+      "pdf_pages": [
+        85
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2920,
+      "markdown_body_line_end": 2928,
+      "heading": "Species and Current Affairs Tracker: SPECIES CURRENT-AFFAIRS ANSWER SPINE",
+      "preview": "IDENTIFY SCIENTIFIC NAME TAXONOMIC RANK AND CLAIM UNIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 178.491
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 97.491
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2938,
+      "markdown_body_line_end": 2946,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Tracker entry template",
+      "preview": "TAXON -> scientific name and rank",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 676.691
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 594.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2950,
+      "markdown_body_line_end": 2956,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Taxonomic identity ladder",
+      "preview": "SCIENTIFIC NAME -> primary identity anchor",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 572.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 510.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2960,
+      "markdown_body_line_end": 2966,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Five-status firewall",
+      "preview": "IUCN -> extinction-risk assessment",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 488.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 426.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2970,
+      "markdown_body_line_end": 2976,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: IUCN assessment card",
+      "preview": "TAXON -> exact assessed unit",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 404.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 342.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2980,
+      "markdown_body_line_end": 2986,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Legal and treaty date rail",
+      "preview": "DOMESTIC SCHEDULE -> Act and applicable amendment date",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 88,
+          "frame_y": 320.291
+        },
+        "end": {
+          "page": 88,
+          "frame_y": 258.291
+        }
+      },
+      "pdf_pages": [
+        88
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2990,
+      "markdown_body_line_end": 2996,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Range vocabulary map",
+      "preview": "ENDEMIC -> naturally restricted to defined geography",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3000,
+      "markdown_body_line_end": 3006,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Habitat and population screen",
+      "preview": "HABITAT ASSOCIATION -> ecological use",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3010,
+      "markdown_body_line_end": 3016,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Trigger-static bridge",
+      "preview": "STATIC ANCHOR -> taxonomy ecology law or treaty concept",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 557.291
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3020,
+      "markdown_body_line_end": 3026,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: News-to-proof decision tree",
+      "preview": "NEWS OR PRESS RELEASE -> discovery lead",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 535.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 473.291
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3030,
+      "markdown_body_line_end": 3038,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Rediscovery firewall",
+      "preview": "NEW OBSERVATION -> possible rediscovery or locality record",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 451.291
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 368.891
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3042,
+      "markdown_body_line_end": 3050,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Cross-source reconciliation",
+      "preview": "IDENTITY QUESTION -> taxonomic source",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 89,
+          "frame_y": 346.891
+        },
+        "end": {
+          "page": 89,
+          "frame_y": 264.491
+        }
+      },
+      "pdf_pages": [
+        89
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3054,
+      "markdown_body_line_end": 3060,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Species tracker answer spine",
+      "preview": "IDENTIFY -> scientific name rank and claim unit",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 90,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 90,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        90
+      ]
+    }
+  ]
+}

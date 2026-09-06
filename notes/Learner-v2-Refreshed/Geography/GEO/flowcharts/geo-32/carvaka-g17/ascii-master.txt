@@ -1,0 +1,221 @@
+ASCII MASTER FLOW — PANEL 1/12: Industrial geography: terminology and location question
++---------------- INDUSTRIAL GEOGRAPHY ----------------+
+| CENTRAL QUESTION: Why does an activity locate here,  |
+| cluster there, persist, disperse or relocate?         |
++--------------------------------------------------------+
+                         |
+INDUSTRY = broad organised economic activity
+MANUFACTURING = transformation of material into products
+FACTORY = individual production establishment
+INDUSTRIAL REGION = dense interacting firms, labour and infrastructure
+                         |
+LOCATION FACTOR SYSTEM
+raw material + energy + water + labour + capital + market
++ transport + land + technology + policy + agglomeration
+                         |
+firm choice -> supplier links -> labour settlement -> shared services
+                         |
+cluster growth or failure depends on linkage quality and external costs
+
+Do not use factory, manufacturing and industrial region as synonyms.
+MUST REMEMBER: Industrial geography links raw material, energy, labour, capital, market,
+  transport, agglomeration and policy through Weber's least-cost theory, Lösch's market areas,
+  growth-pole and product-cycle/network perspectives, then maps old and new industrial regions
+  at world and India scales.
+MUST REMEMBER: Industrial geography links raw material, energy, labour, capital, market,
+  transport, agglomeration and policy through Weber's least-cost theory, Lösch's market areas,
+  growth-pole and product-cycle/network perspectives, then maps old and new industrial regions
+  at world and India scales.
+
+ASCII MASTER FLOW — PANEL 2/12: Ranked location factors and industrial orientation
+FIRST ASK: Which cost, risk or capability dominates this industry?
+                             |
+       +---------------------+----------------------+
+       |                     |                      |
+RAW-MATERIAL            MARKET                 FOOTLOOSE / SKILL
+weight loss             perishability          high value-to-weight
+bulk or fragility       custom demand          knowledge and networks
+       |                     |                      |
+ore processing          food/bakery             electronics / IT-linked
+       +---------------------+----------------------+
+                             |
+PORT ORIENTATION: imported input + export market + deep logistics
+POWER ORIENTATION: energy-intensive process
+LABOUR ORIENTATION: skill, wage, productivity and labour ecosystem
+STATE ORIENTATION: serviced land, trunk utility and policy support
+                             |
+RANK FACTORS BY PROCESS STAGE
+input -> transformation -> assembly -> distribution -> after-sales
+
+A multi-stage value chain can split across several locations.
+
+ASCII MASTER FLOW — PANEL 3/12: Weber's least-cost theory in six analytical steps
+1. LOCATE raw-material sources and market
+                         |
+2. CLASSIFY inputs: ubiquitous or localised; pure or weight-losing
+                         |
+3. COMPARE transport burden through the material index
+                         |
+4. FIND transport-minimum point within the locational triangle
+                         |
+5. TEST labour saving against added transport cost
+                         |
+6. TEST agglomeration saving against congestion and dispersion cost
+                         |
+                 LEAST TOTAL COST LOCATION
+
+TRANSPORT COST + LABOUR COST + AGGLOMERATION ECONOMY
+                         |
+MODERN QUALIFICATION
+containers + roads + reliable power + data + regulation + value chains
+alter cost surfaces, but distance, weight, time and reliability still matter.
+
+Weber explains a baseline mechanism, not every final location.
+
+ASCII MASTER FLOW — PANEL 4/12: Major world industrial regions and their geographic mechanisms
++----------------------+--------------------------------------------+
+| REGION               | MECHANISM                                  |
++----------------------+--------------------------------------------+
+| NE United States     | market + Great Lakes + transport + skills  |
+| Ruhr / NW Europe     | coal legacy + Rhine links + dense markets  |
+| Midlands / N Italy   | old industry + SMEs + European networks    |
+| Japan Pacific Belt   | ports + imported inputs + coastal markets  |
+| China coastal belt   | ports + labour + FDI + supplier depth      |
+| South Korea corridor | ports + chaebol networks + technology      |
++----------------------+--------------------------------------------+
+
+COMMON EVOLUTION
+resource or port advantage -> firm concentration -> suppliers and labour
+-> infrastructure and knowledge -> diversification -> industrial inertia
+
+RESTRUCTURING PRESSURE
+old plant + pollution + land cost + global competition
+-> upgrading, decline, relocation or service transition
+
+The same label hides different factor combinations and historical paths.
+
+ASCII MASTER FLOW — PANEL 5/12: India's layered industrial map: belts, clusters and corridors
+INDIA'S LAYERED INDUSTRIAL GEOGRAPHY
+Chota Nagpur / Damodar : coal + ore + rail -> steel, power, engineering
+Mumbai-Pune            : port + market + capital -> diversified industry
+Ahmedabad-Vadodara     : cotton + enterprise -> textile, chemical, engineering
+Chennai-Bengaluru      : ports + skill -> auto, electronics, machinery
+Coimbatore-Tiruppur    : textile base + SMEs -> knitwear, pumps, machinery
+Delhi-NCR              : market + policy + logistics -> diversified cluster
+Visakhapatnam/east     : port + mineral hinterland -> metal and petro industry
+                         |
+CORRIDOR OVERLAY
+freight spine / expressway / port -> planned node -> trunk utilities
+-> firms and suppliers -> labour settlements -> possible industrial region
+                         |
+DMIC west | AKIC east | Chennai-Bengaluru | Vizag-Chennai
+
+New corridors overlay inherited belts; they do not erase brownfield depth.
+
+ASCII MASTER FLOW — PANEL 6/12: Agglomeration, deglomeration, inertia and regional divergence
+AGGLOMERATION LOOP
+firms cluster -> shared suppliers + labour + services + knowledge
+-> lower transaction cost -> more firms and skill -> deeper cluster
+                         |
+                 CONGESTION THRESHOLD
+land cost + traffic + pollution + water stress + labour pressure
+                         |
+DEGLOMERATION
+selected plants or stages move outward to cheaper connected sites
+                         |
+INDUSTRIAL INERTIA
+sunk capital + supplier ties + skill + reputation keep old region active
+
+REGIONAL OUTCOME TEST
+SPREAD: local suppliers + training + demand + infrastructure diffusion
+BACKWASH: talent/capital drain + enclave links + land displacement
+                         |
+A large plant creates convergence only when local capability and linkages grow.
+
+ASCII MASTER FLOW — PANEL 7/12: State, corridors, PLI and the industrial intervention stack
+NATIONAL POLICY: DPIIT / ministries define frameworks and incentives
+                         |
+CORRIDOR GOVERNANCE: NICDIT / SPVs plan nodes and trunk systems
+                         |
+STATE AGENCIES: land + utilities + approvals + local industrial estates
+                         |
+NETWORK ACTORS: rail freight + ports + roads + power + digital systems
+                         |
+FIRM ECOSYSTEM: anchor producer + suppliers + skills + testing + finance
+                         |
+URBAN SUPPORT: housing + mobility + water + waste + social services
+                         |
+OUTCOME: production + jobs + local linkages + lower logistics cost
+
+STATUS FIREWALL
+outlay -> application -> investment -> production -> incentive -> wider outcome
+
+PLI may reinforce capable clusters unless weaker regions gain real ecosystems.
+A transport line becomes a corridor only through functioning nodes and linkages.
+
+ASCII MASTER FLOW — PANEL 8/12: Map-answer and Mains spine for industrial location and regions
+QUESTION: How is India's industrial geography being reorganised?
+                             |
+1. DEFINE: factory, manufacturing, cluster, region and corridor
+                             |
+2. MAP: mineral east | western port belt | southern skill arcs | NCR
+                             |
+3. EXPLAIN INHERITED LOCATION
+   raw material + port + market + labour + transport + agglomeration
+                             |
+4. ADD NEW NETWORK LOGIC
+   freight corridor + planned node + supplier ecosystem + incentives
+                             |
+5. TEST REGIONAL EFFECT
+   jobs + local procurement + skill transfer versus enclave/backwash
+                             |
+6. QUALIFY STATUS
+   announcement, construction, operation and outcome need separate evidence
+                             |
+7. VERDICT
+   designed concentration becomes development only when logistics,
+   suppliers, skills, settlements, ecology and institutions work together.
+
+ASCII MASTER FLOW — PANEL 9/12: Evidence ladder and confidence control
+EVIDENCE LADDER
+1. = grounded source = synthesis / exam heuristic = verified dated...
+2. Raw material Weight-losing or bulky industries may stay near source
+3. Material index If raw materials are bulky / weight-losing, source...
+VERDICT: Source type controls the strength and limits of the historical claim.
+
+ASCII MASTER FLOW — PANEL 10/12: Examiner traps and contested boundaries
+CLOSE DISTINCTIONS
+1. Trap: A named factory is evidence only when it proves a mechanism. Do...
+2. SCALE + MODEL / DATA / POLICY LIMIT
+3. Trap: Manufacturing data, factory-sector data and employment...
+VERDICT: Qualification earns marks; false certainty is a hard failure.
+CLOSE DISTINCTION: Industry, manufacturing and factory employment are not synonyms;
+  localisation economies differ from urbanisation economies, industrial corridor from a single
+  estate or transport line, footloose from location-free, and deindustrialisation can be
+  relative employment/output change rather than disappearance.
+CLOSE DISTINCTION: Industry, manufacturing and factory employment are not synonyms;
+  localisation economies differ from urbanisation economies, industrial corridor from a single
+  estate or transport line, footloose from location-free, and deindustrialisation can be
+  relative employment/output change rather than disappearance.
+
+ASCII MASTER FLOW — PANEL 11/12: Integrated answer spine and qualified conclusion
+ANSWER SPINE
+1. Practice contract Every solved item has demand decoding, a detailed...
+2. Visual first: the topic moves from precise terms to factors, theory,...
+3. ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM
+VERDICT: Claim, named evidence, analysis and qualification lead to a graded...
+EVIDENCE LIMIT: Chotanagpur, Mumbai–Pune, Gujarat, Hugli, Bengaluru–Tamil Nadu, NCR and
+  Visakhapatnam–Guntur contrast with Ruhr, Great Lakes, Japan's Pacific Belt and China's
+  coast; Jamshedpur, petrochemical ports, auto clusters, electronics/services and DMIC show
+  changing weights of material, market, skills and logistics.
+EVIDENCE LIMIT: Chotanagpur, Mumbai–Pune, Gujarat, Hugli, Bengaluru–Tamil Nadu, NCR and
+  Visakhapatnam–Guntur contrast with Ruhr, Great Lakes, Japan's Pacific Belt and China's
+  coast; Jamshedpur, petrochemical ports, auto clusters, electronics/services and DMIC show
+  changing weights of material, market, skills and logistics.
+
+ASCII MASTER FLOW — PANEL 12/12: Evidence ladder and confidence control — DEEP-REVIEW SYNTHESIS 2
+EVIDENCE LADDER
+1. = grounded source = synthesis / exam heuristic = verified dated...
+2. Raw material Weight-losing or bulky industries may stay near source
+3. Material index If raw materials are bulky / weight-losing, source...
+VERDICT: Source type controls the strength and limits of the historical claim.

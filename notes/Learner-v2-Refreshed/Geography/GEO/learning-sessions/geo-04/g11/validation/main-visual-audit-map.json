@@ -1,0 +1,4392 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\geography-04_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "geography-04",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 5,
+      "markdown_body_line_end": 9,
+      "heading": "Geography 04 - Weathering, Mass Movement, Groundwater / India Erosion-Landslides-Groundwater",
+      "preview": "**Syllabus ownership:** Exogenic geomorphic processes, India’s erosion and slope-hazard geography, and groundwater as a physical resource system. Detailed incident command belongs to Disaster Management; pollution regulation and coastal eco",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 717.891
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 602.224
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 11,
+      "markdown_body_line_end": 18,
+      "heading": "Geography 04 - Weathering, Mass Movement, Groundwater / India Erosion-Landslides-Groundwater",
+      "preview": "Package component | Authored coverage",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Package component",
+          "Authored coverage"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 602.224
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 439.222
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 37,
+      "markdown_body_line_end": 45,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 755.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 526.29
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 69,
+      "markdown_body_line_end": 69,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\assets\\geography-04_Teaching-Navigation_2026-08-23.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 76,
+      "markdown_body_line_end": 87,
+      "heading": "VISUAL FIRST",
+      "preview": "THE EXOGENIC PROCESS SYSTEM: WEATHERING, EROSION, TRANSPORT, DEPOSITION, MASS WASTING AND STORAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 364.356
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 253.356
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 99,
+      "markdown_body_line_end": 99,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Denudation is a connected source–transfer–storage system, but weathering, erosion and mass wasting must still be distinguished by whether material remains in place, is carried by an agent, or moves mainly under gravity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 136.156
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 69.488
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 114,
+      "markdown_body_line_end": 128,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "UPLIFT / EXPOSED ROCK",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 603.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 462.091
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 130,
+      "markdown_body_line_end": 137,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Term | Exact boundary | Exam use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Term",
+          "Exact boundary",
+          "Exam use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 462.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 299.09
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 141,
+      "markdown_body_line_end": 141,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM:** Denudation is a connected source–transfer–storage system, but weathering, erosion and mass wasting must still be distinguished by whether material remains in place, is carried by an agent,",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 265.69
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 206.822
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 149,
+      "markdown_body_line_end": 149,
+      "heading": "Examiner traps",
+      "preview": "Weathering-regolith-erosion-mass movement system",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\assets\\01_weathering_regolith_erosion_mass_movement_system.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 508.775
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 153,
+      "markdown_body_line_end": 170,
+      "heading": "CLOSING RECALL FLOW - THE EXOGENIC PROCESS SYSTEM: WEATHERING, EROSION, TRANSPORT, DEPOSITION, MASS WASTING AND STORAGE",
+      "preview": "START / CONCEPT: THE EXOGENIC PROCESS SYSTEM: WEATHERING, EROSION, TRANSPORT, DEPOSITION, MASS WASTING AND STORAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 248
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 473.775
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 232.775
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 175,
+      "markdown_body_line_end": 186,
+      "heading": "VISUAL FIRST",
+      "preview": "CONTROLS OF WEATHERING: ROCK, STRUCTURE, CLIMATE, RELIEF, ORGANISMS, TIME AND LAND USE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 198,
+      "markdown_body_line_end": 198,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Weathering is controlled not by climate alone but by the interaction of energy and moisture with mineralogy, discontinuities, relief, biota, time and land use.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 559.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 492.424
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 213,
+      "markdown_body_line_end": 221,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Control | Mechanism | Example / qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Mechanism",
+          "Example / qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 551.89
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 225,
+      "markdown_body_line_end": 225,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM:** Weathering is controlled not by climate alone but by the interaction of energy and moisture with mineralogy, discontinuities, relief, biota, time and land use.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 518.49
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 473.822
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 229,
+      "markdown_body_line_end": 234,
+      "heading": "Quick comparison",
+      "preview": "HIGH WATER + WARMTH + REACTIVE MINERALS + JOINTS -> faster chemical alteration",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 451.822
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 400.822
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 238,
+      "markdown_body_line_end": 255,
+      "heading": "CLOSING RECALL FLOW - CONTROLS OF WEATHERING: ROCK, STRUCTURE, CLIMATE, RELIEF, ORGANISMS, TIME AND LAND USE",
+      "preview": "START / CONCEPT: CONTROLS OF WEATHERING: ROCK, STRUCTURE, CLIMATE, RELIEF, ORGANISMS, TIME AND LAND USE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 188
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 365.822
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 154.822
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 260,
+      "markdown_body_line_end": 271,
+      "heading": "VISUAL FIRST",
+      "preview": "MECHANICAL, CHEMICAL AND BIOLOGICAL WEATHERING",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 735.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 624.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 283,
+      "markdown_body_line_end": 283,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Wrong: Chemical weathering is absent from a seasonal monsoon setting.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 521.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 468.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 298,
+      "markdown_body_line_end": 298,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Three weathering families",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\assets\\02_weathering_mechanical_chemical_biological.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 262.624
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 518.9
+        }
+      },
+      "pdf_pages": [
+        13,
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 304,
+      "markdown_body_line_end": 308,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Family | Mechanism cue | Product / India use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Family",
+          "Mechanism cue",
+          "Product / India use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 482.7
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 372.098
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 339,
+      "markdown_body_line_end": 352,
+      "heading": "Complete process table",
+      "preview": "Family | Process | Mechanism | Diagnostic caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 12,
+        "headers": [
+          "Family",
+          "Process",
+          "Mechanism",
+          "Diagnostic caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 700.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 304.79
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 356,
+      "markdown_body_line_end": 356,
+      "heading": "Complete process table",
+      "preview": "**Mnemonic:** **M-FSTUW** = Mechanical: Frost, Salt, Thermal, Unloading, Wetting–drying. **C-SCHHO** = Chemical: Solution, Carbonation, Hydration, Hydrolysis, Oxidation/reduction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 271.39
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 226.722
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 360,
+      "markdown_body_line_end": 377,
+      "heading": "CLOSING RECALL FLOW - MECHANICAL, CHEMICAL AND BIOLOGICAL WEATHERING",
+      "preview": "START / CONCEPT: MECHANICAL, CHEMICAL AND BIOLOGICAL WEATHERING",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 153
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 382,
+      "markdown_body_line_end": 393,
+      "heading": "VISUAL FIRST",
+      "preview": "REGOLITH, PEDOGENESIS, SOIL HORIZONS AND BLACK SOIL",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 507.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 396.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 405,
+      "markdown_body_line_end": 405,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Pedogenesis begins with weathered parent material but becomes soil formation only when organic activity, translocation and time create an organised profile; black soil illustrates how basaltic parent material and seasonal moisture regimes s",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 236.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 155.624
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 420,
+      "markdown_body_line_end": 425,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**Why this section exists:** weathering produces regolith, and regolith becomes soil — yet **no file in this folder taught soil formation or any soil type**, although this file is the routed owner for *black cotton soil formation from volca",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 719.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 632.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 429,
+      "markdown_body_line_end": 437,
+      "heading": "From rock to soil",
+      "preview": "PARENT ROCK",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 610.024
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 529.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 441,
+      "markdown_body_line_end": 447,
+      "heading": "From rock to soil",
+      "preview": "Factor | How it acts | Diagnostic consequence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Factor",
+          "How it acts",
+          "Diagnostic consequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 509.824
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 300.822
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 449,
+      "markdown_body_line_end": 451,
+      "heading": "From rock to soil",
+      "preview": "🔑 **Trap:** soil is not \"crushed rock\". Regolith becomes soil only when organic matter, biological activity and water movement have produced **horizon differentiation**. This is exactly why alluvium deposited last season is fertile but imma",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 300.822
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 241.954
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 455,
+      "markdown_body_line_end": 462,
+      "heading": "The soil profile",
+      "preview": "Horizon | Content | Exam significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Horizon",
+          "Content",
+          "Exam significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 579.49
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 469,
+      "markdown_body_line_end": 476,
+      "heading": "The two great pedogenic directions",
+      "preview": "Process | Climatic setting | What happens | Resulting soil character",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Process",
+          "Climatic setting",
+          "What happens",
+          "Resulting soil character"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 526.09
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 253.188
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 478,
+      "markdown_body_line_end": 482,
+      "heading": "The two great pedogenic directions",
+      "preview": "🔑 **Trap** (routed as a Prelims demand): **rainforest soils are not rich**. The equatorial biome's luxuriance rests on a *rapid nutrient cycle held in the living biomass*, not in the soil. Heavy rainfall leaches bases quickly, decomposition",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 253.188
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 165.92
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 489,
+      "markdown_body_line_end": 498,
+      "heading": "India's principal soil groups",
+      "preview": "Soil | Origin and distribution | Key properties | Crop / management consequence",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 8,
+        "headers": [
+          "Soil",
+          "Origin and distribution",
+          "Key properties",
+          "Crop / management consequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 363.39
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 500,
+      "markdown_body_line_end": 502,
+      "heading": "India's principal soil groups",
+      "preview": "🔑 **Trap:** black soil is derived from **basaltic lava**, not from \"black minerals\" and not from alluvium. Its cotton suitability follows from **moisture retention plus self-mulching cracking**, not from exceptional chemical richness — it i",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 363.39
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 304.522
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 504,
+      "markdown_body_line_end": 505,
+      "heading": "India's principal soil groups",
+      "preview": "🔑 **Trap:** laterite forms under a **wet-and-dry** regime, not under perpetually wet equatorial conditions. The alternation is what allows the iron crust to harden.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 304.522
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 259.854
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 509,
+      "markdown_body_line_end": 516,
+      "heading": "Soil degradation: the applied half",
+      "preview": "Degradation type | Mechanism | Where it bites",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Degradation type",
+          "Mechanism",
+          "Where it bites"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 237.854
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 41.253
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 524,
+      "markdown_body_line_end": 527,
+      "heading": "Soil degradation: the applied half",
+      "preview": "⚠️ **Factual caution:** do **not** quote a national percentage of degraded land, a soil-loss rate in tonnes per hectare, an ICAR survey figure or a soil-organic-carbon value from memory. The classification, process and consequence are the m",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 738.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 665.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 531,
+      "markdown_body_line_end": 538,
+      "heading": "Black-soil causal chain",
+      "preview": "DECCAN TRAP BASALT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 643.424
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 572.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 542,
+      "markdown_body_line_end": 542,
+      "heading": "Black-soil causal chain",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM:** Pedogenesis begins with weathered parent material but becomes soil formation only when organic activity, translocation and time create an organised profile; black soil illustrates how basa",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 524.824
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 465.956
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 546,
+      "markdown_body_line_end": 563,
+      "heading": "CLOSING RECALL FLOW - REGOLITH, PEDOGENESIS, SOIL HORIZONS AND BLACK SOIL",
+      "preview": "START / CONCEPT: REGOLITH, PEDOGENESIS, SOIL HORIZONS AND BLACK SOIL",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 479
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 443.956
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 182.956
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 568,
+      "markdown_body_line_end": 579,
+      "heading": "VISUAL FIRST",
+      "preview": "SOIL EROSION: SHEET, RILL, GULLY, RAVINE AND BOUNDED WIND/COASTAL LINKS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 591,
+      "markdown_body_line_end": 591,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rain-splash and overland flow can progress from sheet erosion to rills, gullies and ravines where flow concentrates and protection/drainage fail.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 601.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 535.024
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 606,
+      "markdown_body_line_end": 606,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Erosion concentration sequence",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\assets\\03_sheet_rill_gully_ravine_sequence.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 328.824
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 799.89
+        }
+      },
+      "pdf_pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 612,
+      "markdown_body_line_end": 617,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Form | Hydrological signal | Mechanism-matched response",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Form",
+          "Hydrological signal",
+          "Mechanism-matched response"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 763.69
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 654.288
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 649,
+      "markdown_body_line_end": 653,
+      "heading": "Bounded agent comparison",
+      "preview": "Agent | Relevant process | Bounded use in this topic",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Agent",
+          "Relevant process",
+          "Bounded use in this topic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 185.888
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 75.287
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 659,
+      "markdown_body_line_end": 676,
+      "heading": "CLOSING RECALL FLOW - SOIL EROSION: SHEET, RILL, GULLY, RAVINE AND BOUNDED WIND/COASTAL LINKS",
+      "preview": "START / CONCEPT: SOIL EROSION: SHEET, RILL, GULLY, RAVINE AND BOUNDED WIND/COASTAL LINKS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 174
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 749.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 538.091
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 681,
+      "markdown_body_line_end": 692,
+      "heading": "VISUAL FIRST",
+      "preview": "MASS-MOVEMENT TAXONOMY: CREEP, SOLIFLUCTION, FALLS, SLIDES, SLUMPS, FLOWS AND AVALANCHES",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 440.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 329.091
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 704,
+      "markdown_body_line_end": 704,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "“Landslide” is a broad popular term; exam precision improves when the actual fall–slide–flow–creep class is named.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 240.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 187.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 719,
+      "markdown_body_line_end": 719,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Slope-force and water mechanism",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\assets\\04_slope_stability_force_water_mechanism.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 722.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 435.228
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 725,
+      "markdown_body_line_end": 731,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Movement | Typical material / behaviour | Diagnostic clue",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Movement",
+          "Typical material / behaviour",
+          "Diagnostic clue"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 399.028
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 268.427
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 762,
+      "markdown_body_line_end": 773,
+      "heading": "Full movement taxonomy",
+      "preview": "Movement | Material / water | Surface / style | Speed cue",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 10,
+        "headers": [
+          "Movement",
+          "Material / water",
+          "Surface / style",
+          "Speed cue"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 598.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 359.29
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 779,
+      "markdown_body_line_end": 796,
+      "heading": "CLOSING RECALL FLOW - MASS-MOVEMENT TAXONOMY: CREEP, SOLIFLUCTION, FALLS, SLIDES, SLUMPS, FLOWS AND AVALANCHES",
+      "preview": "START / CONCEPT: MASS-MOVEMENT TAXONOMY: CREEP, SOLIFLUCTION, FALLS, SLIDES, SLUMPS, FLOWS AND AVALANCHES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 185
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 290.89
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 79.89
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 801,
+      "markdown_body_line_end": 812,
+      "heading": "VISUAL FIRST",
+      "preview": "SLOPE STABILITY: SHEAR STRESS, SHEAR STRENGTH, WATER AND TRIGGERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 735.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 624.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 824,
+      "markdown_body_line_end": 824,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Landslides occur at a threshold where driving stress exceeds resisting strength; water is especially important because it can simultaneously add weight, raise pore pressure and weaken material.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 521.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 454.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 839,
+      "markdown_body_line_end": 850,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "DRIVING STRESS rises with:",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 262.624
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 151.624
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 852,
+      "markdown_body_line_end": 859,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Predisposition | Trigger/amplifier | Why it matters",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Predisposition",
+          "Trigger/amplifier",
+          "Why it matters"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 629.09
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 863,
+      "markdown_body_line_end": 863,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM:** Landslides occur at a threshold where driving stress exceeds resisting strength; water is especially important because it can simultaneously add weight, raise pore pressure and weaken mate",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 595.69
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 536.822
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 865,
+      "markdown_body_line_end": 865,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Slope force and water mechanism",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\assets\\04_slope_stability_force_water_mechanism.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 536.822
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 249.759
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 869,
+      "markdown_body_line_end": 886,
+      "heading": "CLOSING RECALL FLOW - SLOPE STABILITY: SHEAR STRESS, SHEAR STRENGTH, WATER AND TRIGGERS",
+      "preview": "START / CONCEPT: SLOPE STABILITY: SHEAR STRESS, SHEAR STRENGTH, WATER AND TRIGGERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 222
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 543.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 891,
+      "markdown_body_line_end": 902,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA LANDSLIDE GEOGRAPHY: HIMALAYA, NORTH-EAST, WESTERN GHATS AND NILGIRIS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 464.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 353.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 914,
+      "markdown_body_line_end": 914,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India's landslide-prone terrain includes the Himalaya and North-East, and parts of the Western Ghats/Nilgiris.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 250.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 197.824
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 929,
+      "markdown_body_line_end": 929,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Himalaya–Western Ghats comparison",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\assets\\05_himalaya_western_ghats_landslide_comparison.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 755.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 480.092
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 935,
+      "markdown_body_line_end": 939,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Setting | Dominant answer cues | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Setting",
+          "Dominant answer cues",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 443.892
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 310.89
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 970,
+      "markdown_body_line_end": 981,
+      "heading": "India map recall",
+      "preview": "NORTH / NORTH-EAST",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 613.891
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 502.891
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 987,
+      "markdown_body_line_end": 1004,
+      "heading": "CLOSING RECALL FLOW - INDIA LANDSLIDE GEOGRAPHY: HIMALAYA, NORTH-EAST, WESTERN GHATS AND NILGIRIS",
+      "preview": "START / CONCEPT: INDIA LANDSLIDE GEOGRAPHY: HIMALAYA, NORTH-EAST, WESTERN GHATS AND NILGIRIS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 193
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 420.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 209.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1009,
+      "markdown_body_line_end": 1020,
+      "heading": "VISUAL FIRST",
+      "preview": "LANDSLIDE INVENTORY, SUSCEPTIBILITY, FORECASTING LIMITS AND MITIGATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1032,
+      "markdown_body_line_end": 1032,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "GSI is India’s principal geoscientific agency for national landslide inventory, susceptibility/hazard studies, post-event investigation and the National Landslide Forecasting Centre ecosystem.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 559.091
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 492.424
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1047,
+      "markdown_body_line_end": 1052,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Product | Main input | What it supports | Main limitation",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Product",
+          "Main input",
+          "What it supports",
+          "Main limitation"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 272.024
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 124.122
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1058,
+      "markdown_body_line_end": 1066,
+      "heading": "Mitigation hierarchy",
+      "preview": "AVOID -> susceptibility-sensitive land use; setbacks; carrying-capacity checks",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1070,
+      "markdown_body_line_end": 1070,
+      "heading": "Mitigation hierarchy",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM:** India needs a layered landslide strategy—avoid unsafe exposure, control water, stabilise diagnosed slopes, maintain infrastructure, and connect forecasts to last-mile action.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 672.891
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 614.024
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1074,
+      "markdown_body_line_end": 1091,
+      "heading": "CLOSING RECALL FLOW - LANDSLIDE INVENTORY, SUSCEPTIBILITY, FORECASTING LIMITS AND MITIGATION",
+      "preview": "START / CONCEPT: LANDSLIDE INVENTORY, SUSCEPTIBILITY, FORECASTING LIMITS AND MITIGATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 233
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 579.024
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 338.024
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1096,
+      "markdown_body_line_end": 1107,
+      "heading": "VISUAL FIRST",
+      "preview": "SUBSIDENCE VERSUS LANDSLIDE: THE BOUNDED JOSHIMATH FRAME",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1119,
+      "markdown_body_line_end": 1119,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Subsidence is lowering/settlement of ground; a landslide is a downslope mass movement.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 601.691
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 549.224
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1134,
+      "markdown_body_line_end": 1134,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Multi-causal Joshimath evidence frame",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\assets\\06_joshimath_multicausal_subsidence.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 314.624
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 799.89
+        }
+      },
+      "pdf_pages": [
+        33,
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1140,
+      "markdown_body_line_end": 1145,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Evidence layer | What it can support | What it cannot prove alone",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Evidence layer",
+          "What it can support",
+          "What it cannot prove alone"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 763.69
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 620.688
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1176,
+      "markdown_body_line_end": 1179,
+      "heading": "Distinction",
+      "preview": "Process | Dominant displacement | Typical mechanism",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Process",
+          "Dominant displacement",
+          "Typical mechanism"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 155.288
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 77.087
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1185,
+      "markdown_body_line_end": 1202,
+      "heading": "CLOSING RECALL FLOW - SUBSIDENCE VERSUS LANDSLIDE: THE BOUNDED JOSHIMATH FRAME",
+      "preview": "START / CONCEPT: SUBSIDENCE VERSUS LANDSLIDE: THE BOUNDED JOSHIMATH FRAME",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 222
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 526.891
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1207,
+      "markdown_body_line_end": 1218,
+      "heading": "VISUAL FIRST",
+      "preview": "GROUNDWATER IN THE HYDROLOGIC CYCLE AND THE WATER BUDGET",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 447.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 336.891
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1230,
+      "markdown_body_line_end": 1230,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Groundwater is a dynamic stock governed by recharge, discharge, pumping, inter-aquifer flow and quality; annual recharge is therefore not a licence to abstract the same quantity everywhere.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 248.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 181.424
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1245,
+      "markdown_body_line_end": 1255,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "PRECIPITATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 722.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 621.291
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1259,
+      "markdown_body_line_end": 1261,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "CHANGE IN STORAGE = RECHARGE + INFLOW - NATURAL DISCHARGE - PUMPING - OUTFLOW",
+      "metadata": {
+        "language": "text",
+        "line_count": 1,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 602.091
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 581.091
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1265,
+      "markdown_body_line_end": 1270,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Term | Exam-safe meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Term",
+          "Exam-safe meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 533.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 412.89
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1272,
+      "markdown_body_line_end": 1272,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM:** Groundwater is a dynamic stock governed by recharge, discharge, pumping, inter-aquifer flow and quality; annual recharge is therefore not a licence to abstract the same quantity everywhere",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 412.89
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 354.022
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1274,
+      "markdown_body_line_end": 1274,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Aquifer water budget and cross-section",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\assets\\07_groundwater_aquifer_water_table_recharge_discharge.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 354.022
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 70.783
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1278,
+      "markdown_body_line_end": 1295,
+      "heading": "CLOSING RECALL FLOW - GROUNDWATER IN THE HYDROLOGIC CYCLE AND THE WATER BUDGET",
+      "preview": "START / CONCEPT: GROUNDWATER IN THE HYDROLOGIC CYCLE AND THE WATER BUDGET",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 218
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1300,
+      "markdown_body_line_end": 1311,
+      "heading": "VISUAL FIRST",
+      "preview": "POROSITY, PERMEABILITY, INFILTRATION, PERCOLATION AND SUBSURFACE ZONES",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 477.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 366.291
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1323,
+      "markdown_body_line_end": 1323,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Infiltration is water entering soil/surface material; percolation is its downward movement through pores/fractures.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 277.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 225.024
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1338,
+      "markdown_body_line_end": 1338,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Aquifer cross-section",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\assets\\07_groundwater_aquifer_water_table_recharge_discharge.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 500.852
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1344,
+      "markdown_body_line_end": 1350,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Term | Meaning | Prelims elimination cue",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Term",
+          "Meaning",
+          "Prelims elimination cue"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 450.452
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 319.851
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1381,
+      "markdown_body_line_end": 1387,
+      "heading": "Complete close-option table",
+      "preview": "Pair | First term | Second term",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Pair",
+          "First term",
+          "Second term"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 633.091
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 491.29
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1393,
+      "markdown_body_line_end": 1410,
+      "heading": "CLOSING RECALL FLOW - POROSITY, PERMEABILITY, INFILTRATION, PERCOLATION AND SUBSURFACE ZONES",
+      "preview": "START / CONCEPT: POROSITY, PERMEABILITY, INFILTRATION, PERCOLATION AND SUBSURFACE ZONES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 177
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 408.69
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 197.69
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1415,
+      "markdown_body_line_end": 1426,
+      "heading": "VISUAL FIRST",
+      "preview": "AQUIFER TYPES, SPRINGS AND WELLS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1438,
+      "markdown_body_line_end": 1438,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "In an artesian condition, water in a confined aquifer rises in a well to its potentiometric level; it flows at ground surface only where that level is above ground.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 573.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 506.624
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1453,
+      "markdown_body_line_end": 1453,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Confined/unconfined/artesian comparison",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\assets\\08_confined_unconfined_artesian.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 300.424
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 54.253
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1459,
+      "markdown_body_line_end": 1465,
+      "heading": "Evidence / comparison matrix",
+      "preview": "System | Boundary / pressure | Answer caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "System",
+          "Boundary / pressure",
+          "Answer caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1495,
+      "markdown_body_line_end": 1502,
+      "heading": "Additional forms",
+      "preview": "Form | Condition | Key caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Form",
+          "Condition",
+          "Key caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 251.09
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 76.888
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1504,
+      "markdown_body_line_end": 1504,
+      "heading": "Additional forms",
+      "preview": "Confined and unconfined aquifer comparison",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\assets\\08_confined_unconfined_artesian.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 557.121
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1508,
+      "markdown_body_line_end": 1525,
+      "heading": "CLOSING RECALL FLOW - AQUIFER TYPES, SPRINGS AND WELLS",
+      "preview": "START / CONCEPT: AQUIFER TYPES, SPRINGS AND WELLS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 193
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 535.121
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 314.121
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1530,
+      "markdown_body_line_end": 1541,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA'S HYDROGEOLOGICAL REGIONS AND ASSESSMENT VOCABULARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1553,
+      "markdown_body_line_end": 1553,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The 6 August 2026 official release attributes the quoted national values to the 2025 assessment; they are dated assessment figures, not a forecast or universal local condition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 544.891
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 478.224
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1570,
+      "markdown_body_line_end": 1575,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Assessment term | What it means | Do not substitute",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Assessment term",
+          "What it means",
+          "Do not substitute"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 240.824
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 109.022
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1606,
+      "markdown_body_line_end": 1610,
+      "heading": "Three-region comparison",
+      "preview": "Region | Storage/transmission | Typical management issue",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Region",
+          "Storage/transmission",
+          "Typical management issue"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 405.491
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 283.69
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1618,
+      "markdown_body_line_end": 1635,
+      "heading": "CLOSING RECALL FLOW - INDIA'S HYDROGEOLOGICAL REGIONS AND ASSESSMENT VOCABULARY",
+      "preview": "START / CONCEPT: INDIA'S HYDROGEOLOGICAL REGIONS AND ASSESSMENT VOCABULARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 241
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1640,
+      "markdown_body_line_end": 1651,
+      "heading": "VISUAL FIRST",
+      "preview": "GROUNDWATER DEPLETION, AGRICULTURE-ENERGY INCENTIVES, FOOD SECURITY AND SUBSIDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 448.291
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 337.291
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1663,
+      "markdown_body_line_end": 1663,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Food security is more than aggregate grain output: small farmers’ ability to deepen wells, buy energy or switch crops affects access and stability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 220.091
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 153.424
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1678,
+      "markdown_body_line_end": 1678,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Groundwater decline to food security",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\assets\\09_gangetic_groundwater_food_security_chain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 690.891
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 420.293
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1684,
+      "markdown_body_line_end": 1689,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Food-security pillar | Groundwater transmission route | Equity / policy implication",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Food-security pillar",
+          "Groundwater transmission route",
+          "Equity / policy implication"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 384.093
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 274.692
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1720,
+      "markdown_body_line_end": 1734,
+      "heading": "Depletion driver chain",
+      "preview": "ASSURED/UNDERPRICED ENERGY + WATER-INTENSIVE CROPS + PROCUREMENT SIGNALS",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 593.691
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 452.691
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1742,
+      "markdown_body_line_end": 1759,
+      "heading": "CLOSING RECALL FLOW - GROUNDWATER DEPLETION, AGRICULTURE-ENERGY INCENTIVES, FOOD SECURITY AND SUBSIDENCE",
+      "preview": "START / CONCEPT: GROUNDWATER DEPLETION, AGRICULTURE-ENERGY INCENTIVES, FOOD SECURITY AND SUBSIDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 176
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 322.491
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 111.491
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1764,
+      "markdown_body_line_end": 1775,
+      "heading": "VISUAL FIRST",
+      "preview": "GROUNDWATER QUALITY: ARSENIC, FLUORIDE, NITRATE, SALINITY AND CONTAMINATION PATHWAYS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 735.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 624.291
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1787,
+      "markdown_body_line_end": 1787,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Arsenic, fluoride, nitrate and salinity are legitimate UPSC categories, but their geography and source mechanisms differ.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 521.291
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 454.624
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1802,
+      "markdown_body_line_end": 1802,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Quantity–quality matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\assets\\11_groundwater_quality_quantity_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 248.424
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 508.953
+        }
+      },
+      "pdf_pages": [
+        48,
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1808,
+      "markdown_body_line_end": 1813,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Issue | Safe geographic framing | Do not claim without evidence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Issue",
+          "Safe geographic framing",
+          "Do not claim without evidence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 472.753
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 352.152
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1844,
+      "markdown_body_line_end": 1850,
+      "heading": "Contaminant mechanism matrix",
+      "preview": "Issue | Common pathway | Exam-safe management",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Issue",
+          "Common pathway",
+          "Exam-safe management"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 700.691
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 502.89
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1854,
+      "markdown_body_line_end": 1854,
+      "heading": "Contaminant mechanism matrix",
+      "preview": "Groundwater quantity and quality matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\assets\\11_groundwater_quality_quantity_matrix.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 441.09
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 146.752
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1858,
+      "markdown_body_line_end": 1875,
+      "heading": "CLOSING RECALL FLOW - GROUNDWATER QUALITY: ARSENIC, FLUORIDE, NITRATE, SALINITY AND CONTAMINATION PATHWAYS",
+      "preview": "START / CONCEPT: GROUNDWATER QUALITY: ARSENIC, FLUORIDE, NITRATE, SALINITY AND CONTAMINATION PATHWAYS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 150
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 563.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1880,
+      "markdown_body_line_end": 1891,
+      "heading": "VISUAL FIRST",
+      "preview": "COASTAL AQUIFERS: SEAWATER INTRUSION AND UPCONING",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 484.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 373.291
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1903,
+      "markdown_body_line_end": 1903,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Seawater intrusion is landward/upward movement of saline water into a coastal freshwater aquifer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 270.291
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 217.824
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1918,
+      "markdown_body_line_end": 1918,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Freshwater head, saline interface and pumping-induced upconing",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\assets\\10_coastal_seawater_intrusion_upconing.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 755.691
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 465.039
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1924,
+      "markdown_body_line_end": 1929,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Driver | Hydrogeological effect | Matched remedy",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Driver",
+          "Hydrogeological effect",
+          "Matched remedy"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 428.839
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 285.838
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1958,
+      "markdown_body_line_end": 1966,
+      "heading": "Study link",
+      "preview": "NORMAL: freshwater head toward coast -> saline interface held seaward/deep",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 635.891
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 554.891
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1968,
+      "markdown_body_line_end": 1968,
+      "heading": "Study link",
+      "preview": "Seawater intrusion and upconing",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\assets\\10_coastal_seawater_intrusion_upconing.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 554.891
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 264.239
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1972,
+      "markdown_body_line_end": 1989,
+      "heading": "CLOSING RECALL FLOW - COASTAL AQUIFERS: SEAWATER INTRUSION AND UPCONING",
+      "preview": "START / CONCEPT: COASTAL AQUIFERS: SEAWATER INTRUSION AND UPCONING",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 178
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1994,
+      "markdown_body_line_end": 2005,
+      "heading": "VISUAL FIRST",
+      "preview": "RAINWATER HARVESTING, MANAGED AQUIFER RECHARGE AND SUITABILITY LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 487.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 376.291
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2017,
+      "markdown_body_line_end": 2017,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rainwater harvesting becomes effective only when capture, water quality, aquifer suitability, maintenance and demand control are treated as one urban water-budget system.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 273.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 206.624
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2032,
+      "markdown_body_line_end": 2032,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Recharge, demand and governance intervention stack",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\assets\\12_recharge_harvesting_pumping_intervention_stack.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 755.691
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 459.743
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2038,
+      "markdown_body_line_end": 2044,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Condition | Why it matters | Evidence / maintenance question",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Condition",
+          "Why it matters",
+          "Evidence / maintenance question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 423.543
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 292.941
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2075,
+      "markdown_body_line_end": 2080,
+      "heading": "Storage versus recharge decision",
+      "preview": "Question | Storage | Managed aquifer recharge",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Question",
+          "Storage",
+          "Managed aquifer recharge"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 618.891
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 498.29
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2084,
+      "markdown_body_line_end": 2084,
+      "heading": "Storage versus recharge decision",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM:** Rainwater harvesting becomes effective only when capture, water quality, aquifer suitability, maintenance and demand control are treated as one urban water-budget system.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 422.29
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 363.422
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2088,
+      "markdown_body_line_end": 2105,
+      "heading": "CLOSING RECALL FLOW - RAINWATER HARVESTING, MANAGED AQUIFER RECHARGE AND SUITABILITY LIMITS",
+      "preview": "START / CONCEPT: RAINWATER HARVESTING, MANAGED AQUIFER RECHARGE AND SUITABILITY LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 199
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 328.422
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 107.422
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2110,
+      "markdown_body_line_end": 2121,
+      "heading": "VISUAL FIRST",
+      "preview": "WATERSHED, SPRING-SHED AND DEMAND MANAGEMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 735.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 624.291
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2133,
+      "markdown_body_line_end": 2133,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A spring-shed is the hydrogeological recharge area feeding one or more springs; it may cross the visible surface-water divide.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 521.291
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 454.624
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2148,
+      "markdown_body_line_end": 2148,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Intervention stack: diagnose to govern",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\assets\\12_recharge_harvesting_pumping_intervention_stack.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 234.224
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 507.343
+        }
+      },
+      "pdf_pages": [
+        57,
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2154,
+      "markdown_body_line_end": 2159,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Problem mechanism | Useful response families | Boundary / condition",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Problem mechanism",
+          "Useful response families",
+          "Boundary / condition"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 471.143
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 316.941
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2190,
+      "markdown_body_line_end": 2197,
+      "heading": "Scale ladder",
+      "preview": "PLOT: cover, soil structure, efficient irrigation",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 599.691
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 528.691
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2205,
+      "markdown_body_line_end": 2222,
+      "heading": "CLOSING RECALL FLOW - WATERSHED, SPRING-SHED AND DEMAND MANAGEMENT",
+      "preview": "START / CONCEPT: WATERSHED, SPRING-SHED AND DEMAND MANAGEMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 202
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 411.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 180.491
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2227,
+      "markdown_body_line_end": 2238,
+      "heading": "VISUAL FIRST",
+      "preview": "INSTITUTIONS, PROGRAMMES, HAZARD-RISK LANGUAGE AND ANSWER-WRITING MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2250,
+      "markdown_body_line_end": 2250,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A map should label broad regions (Himalaya, Western Ghats/Nilgiris, Chambal, Ganga plain, coast) only where it advances the question; state ‘schematic/not to scale’ where appropriate.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 559.091
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 492.424
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2265,
+      "markdown_body_line_end": 2265,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Answer-writing map and flow",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\assets\\13_answer_writing_map_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 272.024
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 508.061
+        }
+      },
+      "pdf_pages": [
+        60,
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2271,
+      "markdown_body_line_end": 2276,
+      "heading": "Evidence / comparison matrix",
+      "preview": "Directive | What examiner needs | Best visual",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Directive",
+          "What examiner needs",
+          "Best visual"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 471.861
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 351.259
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2307,
+      "markdown_body_line_end": 2315,
+      "heading": "Verified institutional stack",
+      "preview": "Institution / programme | Verified role/status | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Institution / programme",
+          "Verified role/status",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 666.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 370.09
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2319,
+      "markdown_body_line_end": 2327,
+      "heading": "Hazard-risk-vulnerability distinction",
+      "preview": "HAZARD = potentially damaging physical process",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 348.09
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 267.09
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2331,
+      "markdown_body_line_end": 2338,
+      "heading": "India answer map",
+      "preview": "HIMALAYA/NE -> slope failure, springs, road/drainage and seismic links",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 76
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 245.09
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 174.09
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2340,
+      "markdown_body_line_end": 2340,
+      "heading": "India answer map",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM:** Good geography answers move from process to spatial pattern, then from consequence to a mechanism-matched and institutionally realistic response.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 174.09
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 129.422
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2342,
+      "markdown_body_line_end": 2342,
+      "heading": "India answer map",
+      "preview": "Answer-writing map and flow",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-04\\g11\\assets\\13_answer_writing_map_flow.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 508.061
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2346,
+      "markdown_body_line_end": 2363,
+      "heading": "CLOSING RECALL FLOW - INSTITUTIONS, PROGRAMMES, HAZARD-RISK LANGUAGE AND ANSWER-WRITING MAP",
+      "preview": "START / CONCEPT: INSTITUTIONS, PROGRAMMES, HAZARD-RISK LANGUAGE AND ANSWER-WRITING MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 212
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 473.061
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 242.061
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3219,
+      "markdown_body_line_end": 3224,
+      "heading": "SUPPLEMENTARY CROSS-OWNED PYQ 8 - UPSC Mains GS-I 2021 Q4, 10 marks",
+      "preview": "Himalayan region | Western Ghats",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Himalayan region",
+          "Western Ghats"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 581.69
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3304,
+      "markdown_body_line_end": 3309,
+      "heading": "SUPPLEMENTARY CROSS-OWNED PYQ 10 - UPSC Mains GS-I 2024 Q14, 15 marks",
+      "preview": "falling head/yield -> deeper pumping + higher energy cost",
+      "metadata": {
+        "language": "text",
+        "line_count": 4,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 79,
+          "frame_y": 291.091
+        },
+        "end": {
+          "page": 79,
+          "frame_y": 240.091
+        }
+      },
+      "pdf_pages": [
+        79
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3551,
+      "markdown_body_line_end": 3554,
+      "heading": "Diagram 1 - weathering to storage",
+      "preview": "ROCK -> weathering -> regolith -> [gravity movement / agent transport]",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 413.091
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 382.091
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3558,
+      "markdown_body_line_end": 3561,
+      "heading": "Diagram 2 - slope force and water",
+      "preview": "rain -> infiltration -> weight + pore pressure -> lower effective strength",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 360.091
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 329.091
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3565,
+      "markdown_body_line_end": 3568,
+      "heading": "Diagram 3 - aquifer section",
+      "preview": "recharge area -> unconfined water table -> aquitard -> confined aquifer",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 307.091
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 276.091
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3572,
+      "markdown_body_line_end": 3575,
+      "heading": "Diagram 4 - coastal upconing",
+      "preview": "coast | freshwater wedge over saline water",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 254.091
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 223.091
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3579,
+      "markdown_body_line_end": 3583,
+      "heading": "Map 5 - India recall",
+      "preview": "Himalaya/NE: landslides + springs | Western Ghats/Nilgiris: rain-weathered slopes",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 201.091
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 160.091
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3587,
+      "markdown_body_line_end": 3590,
+      "heading": "Answer skeleton 6",
+      "preview": "definition -> labelled diagram/map -> mechanism -> India evidence",
+      "metadata": {
+        "language": "text",
+        "line_count": 2,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 138.091
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 107.091
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3726,
+      "markdown_body_line_end": 3756,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Exogenic source-transfer-storage system",
+      "preview": "+-------------- EXOGENIC LANDSCAPE SYSTEM --------------+",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 29,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 480.491
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3760,
+      "markdown_body_line_end": 3784,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Weathering taxonomy, controls, regolith and soil formation",
+      "preview": "WEATHERING",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 23,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 458.491
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 212.891
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3788,
+      "markdown_body_line_end": 3810,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Soil erosion sequence and watershed control logic",
+      "preview": "RAINDROP IMPACT + BARE SOIL + RUNOFF CONCENTRATION",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 21,
+        "max_source_line_length": 74
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 562.091
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0159",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3814,
+      "markdown_body_line_end": 3836,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Mass-movement taxonomy and slope-stability mechanism",
+      "preview": "MASS MOVEMENT",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 21,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 93,
+          "frame_y": 540.091
+        },
+        "end": {
+          "page": 93,
+          "frame_y": 314.891
+        }
+      },
+      "pdf_pages": [
+        93
+      ]
+    },
+    {
+      "visual_id": "visual-0160",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3840,
+      "markdown_body_line_end": 3861,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: India landslide geography, risk production and mitigation stack",
+      "preview": "INDIA LANDSLIDE GEOGRAPHY",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 572.291
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0161",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3865,
+      "markdown_body_line_end": 3885,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Groundwater architecture from recharge to wells",
+      "preview": "rain -> infiltration -> soil moisture -> percolation -> recharge",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 19,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 550.291
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 345.491
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0162",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3889,
+      "markdown_body_line_end": 3910,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: India groundwater depletion, quality and subsidence geography",
+      "preview": "+----------------+----------------------+-------------------------+",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 94,
+          "frame_y": 323.491
+        },
+        "end": {
+          "page": 94,
+          "frame_y": 108.491
+        }
+      },
+      "pdf_pages": [
+        94
+      ]
+    },
+    {
+      "visual_id": "visual-0163",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3914,
+      "markdown_body_line_end": 3937,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Recharge, demand governance and integrated Mains answer spine",
+      "preview": "GROUNDWATER SECURITY REQUIRES TWO CONVERGING ARMS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 22,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 551.891
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0164",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3941,
+      "markdown_body_line_end": 3947,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Evidence ladder and confidence control",
+      "preview": "EVIDENCE LADDER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 529.891
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 467.891
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0165",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3951,
+      "markdown_body_line_end": 3960,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Examiner traps and contested boundaries",
+      "preview": "CLOSE DISTINCTIONS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 445.891
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 353.291
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0166",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3964,
+      "markdown_body_line_end": 3973,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Integrated answer spine and qualified conclusion",
+      "preview": "ANSWER SPINE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 95,
+          "frame_y": 331.291
+        },
+        "end": {
+          "page": 95,
+          "frame_y": 238.691
+        }
+      },
+      "pdf_pages": [
+        95
+      ]
+    },
+    {
+      "visual_id": "visual-0167",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3977,
+      "markdown_body_line_end": 3983,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Evidence ladder and confidence control - DEEP-REVIEW SYNTHESIS 2",
+      "preview": "EVIDENCE LADDER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 712.291
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    }
+  ]
+}

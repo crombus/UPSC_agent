@@ -1,0 +1,1842 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-08\\g5\\geography-08_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-08\\g5\\geography-08_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "geography-08",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Limestone and Karst Landforms / India Caves-Meghalayan Age - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 418.024
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 189.022
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 51,
+      "markdown_body_line_end": 51,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-08\\g5\\assets\\geography-08_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 434.891
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 127.356
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Karst, cave and cavern must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 82,
+      "heading": "VISUAL FIRST",
+      "preview": "KARST, CAVE AND CAVERN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 480.624
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 439.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 110,
+      "markdown_body_line_end": 117,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 159.624
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 70.305
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 129,
+      "markdown_body_line_end": 129,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Carbonation and calcite reversal must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 142,
+      "markdown_body_line_end": 146,
+      "heading": "VISUAL FIRST",
+      "preview": "CARBONATION AND CALCITE REVERSAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 466.424
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 425.424
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 174,
+      "markdown_body_line_end": 181,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 145.424
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 47.755
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 193,
+      "markdown_body_line_end": 193,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rock, structure, recharge and base level must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 660.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 593.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 208,
+      "markdown_body_line_end": 212,
+      "heading": "VISUAL FIRST",
+      "preview": "ROCK, STRUCTURE, RECHARGE AND BASE LEVEL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 413.024
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 372.024
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 240,
+      "markdown_body_line_end": 247,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 77.824
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 735.273
+        }
+      },
+      "pdf_pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 259,
+      "markdown_body_line_end": 259,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Epikarst, vadose and phreatic zones must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 600.273
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 533.605
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 273,
+      "markdown_body_line_end": 277,
+      "heading": "VISUAL FIRST",
+      "preview": "EPIKARST, VADOSE AND PHREATIC ZONES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 356.005
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 315.005
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 305,
+      "markdown_body_line_end": 312,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 697.973
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 324,
+      "markdown_body_line_end": 324,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Surface karst landforms must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 577.173
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 510.505
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 337,
+      "markdown_body_line_end": 341,
+      "heading": "VISUAL FIRST",
+      "preview": "SURFACE KARST LANDFORMS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 364.305
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 323.305
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 369,
+      "markdown_body_line_end": 376,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 43.305
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 713.973
+        }
+      },
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 388,
+      "markdown_body_line_end": 388,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Cave development and modification must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 578.973
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 512.305
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 402,
+      "markdown_body_line_end": 406,
+      "heading": "VISUAL FIRST",
+      "preview": "CAVE DEVELOPMENT AND MODIFICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 348.905
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 307.905
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 434,
+      "markdown_body_line_end": 441,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 697.973
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 453,
+      "markdown_body_line_end": 453,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Speleothems and deposition must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 577.173
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 510.505
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 466,
+      "markdown_body_line_end": 470,
+      "heading": "VISUAL FIRST",
+      "preview": "SPELEOTHEMS AND DEPOSITION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 364.305
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 323.305
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 498,
+      "markdown_body_line_end": 505,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 43.305
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 713.973
+        }
+      },
+      "pdf_pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 517,
+      "markdown_body_line_end": 517,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Monsoon recharge and cave hazard must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 593.173
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 526.505
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 531,
+      "markdown_body_line_end": 535,
+      "heading": "VISUAL FIRST",
+      "preview": "MONSOON RECHARGE AND CAVE HAZARD",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 348.905
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 307.905
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 563,
+      "markdown_body_line_end": 570,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 697.973
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 582,
+      "markdown_body_line_end": 582,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Indian natural-cave map must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 577.173
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 510.505
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 597,
+      "markdown_body_line_end": 601,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIAN NATURAL-CAVE MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 329.905
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 288.905
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 629,
+      "markdown_body_line_end": 636,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 767.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 677.773
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 648,
+      "markdown_body_line_end": 648,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Natural versus rock-cut caves must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 556.973
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 490.305
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 663,
+      "markdown_body_line_end": 667,
+      "heading": "VISUAL FIRST",
+      "preview": "NATURAL VERSUS ROCK-CUT CAVES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 309.705
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 268.705
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 695,
+      "markdown_body_line_end": 702,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 644.573
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 714,
+      "markdown_body_line_end": 714,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Speleothems as climate proxies must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 509.573
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 442.905
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 729,
+      "markdown_body_line_end": 733,
+      "heading": "VISUAL FIRST",
+      "preview": "SPELEOTHEMS AS CLIMATE PROXIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 761,
+      "markdown_body_line_end": 768,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 452.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 362.773
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 780,
+      "markdown_body_line_end": 780,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Time hierarchy and GSSP must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 227.773
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 161.105
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 794,
+      "markdown_body_line_end": 801,
+      "heading": "VISUAL FIRST",
+      "preview": "TIME HIERARCHY AND GSSP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 676.891
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 830,
+      "markdown_body_line_end": 837,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 351.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 253.623
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 849,
+      "markdown_body_line_end": 849,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mawmluh and the Meghalayan must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 118.623
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 51.955
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 862,
+      "markdown_body_line_end": 869,
+      "heading": "VISUAL FIRST",
+      "preview": "MAWMLUH AND THE MEGHALAYAN",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 663.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 592.091
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 898,
+      "markdown_body_line_end": 905,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 238.091
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 140.423
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 917,
+      "markdown_body_line_end": 917,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "4.2 ka and Anthropocene cautions must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 930,
+      "markdown_body_line_end": 937,
+      "heading": "VISUAL FIRST",
+      "preview": "4.2 KA AND ANTHROPOCENE CAUTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 452.224
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 381.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 966,
+      "markdown_body_line_end": 973,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 55.624
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 705.623
+        }
+      },
+      "pdf_pages": [
+        22,
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 985,
+      "markdown_body_line_end": 985,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Values, threats, PYQ boundary and conservation must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 537.423
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 470.755
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1000,
+      "markdown_body_line_end": 1010,
+      "heading": "VISUAL FIRST",
+      "preview": "VALUES, THREATS, PYQ BOUNDARY AND CONSERVATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1040,
+      "markdown_body_line_end": 1047,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 258.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 160.623
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1051,
+      "markdown_body_line_end": 1054,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*. ✅ = from source book · ⚠️ = inference ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 160.623
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 65.555
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1079,
+      "markdown_body_line_end": 1090,
+      "heading": "2. Key classification / data",
+      "preview": "Type | Landform / term | What it is",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 10,
+        "headers": [
+          "Type",
+          "Landform / term",
+          "What it is"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 406.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 114.29
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1094,
+      "markdown_body_line_end": 1095,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Geography → Physical → Karst/Limestone (GC Leong: Underground Water; Majid: Karst Geomorphology) **Study link:** ✅ Geography → Karst → Aquifers & Mining (applied CA)",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 114.29
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 47.622
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1114,
+      "markdown_body_line_end": 1114,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Do not confuse similar-looking landforms, processes, scales or Indian locations; UPSC often tests the exact mechanism and setting.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 597.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 530.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1145,
+      "markdown_body_line_end": 1148,
+      "heading": "8. Caves as a climate archive, and the geological time scale",
+      "preview": "**Promoted into Core (13 Aug 2026):** the *concept* of how the geological time scale is formally defined, and of how cave deposits record past climate, are general methods rather than India applications. The Indian cave inventory and the Me",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 148.224
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 67.356
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1165,
+      "markdown_body_line_end": 1166,
+      "heading": "8. Caves as a climate archive, and the geological time scale",
+      "preview": "⚠️ **Factual caution:** do not quote the age of any geological boundary, a stalagmite growth rate, or a cave's surveyed length from memory.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 611.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 567.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1172,
+      "markdown_body_line_end": 1176,
+      "heading": "9.1 Directive decoding for this topic",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 526.224
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 370.822
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1193,
+      "markdown_body_line_end": 1194,
+      "heading": "9.2 The applied dimension this topic is usually asked through",
+      "preview": "⚠️ **Factual caution:** do not quote cave lengths, depths or rankings from memory — surveyed lengths change as exploration proceeds. Name the system and the state, not a number.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 146.422
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 101.754
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1215,
+      "markdown_body_line_end": 1220,
+      "heading": "9.4 Evidence units available in this file",
+      "preview": "**Claim:** rock chemistry, not climate alone, can determine an entire landscape's hydrology. **Evidence:** limestone uplands carry dry valleys and disappearing streams while adjoining impermeable rocks in the same rainfall regime carry ordi",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 584.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 475.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2396,
+      "markdown_body_line_end": 2399,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain, *India geography* + verified CA. ✅ = from source book · ⚠️ = inference / stan",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 219.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 146.224
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2427,
+      "markdown_body_line_end": 2435,
+      "heading": "2. Key classification / data",
+      "preview": "Site / item | Location | Book-grounded note",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Site / item",
+          "Location",
+          "Book-grounded note"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 495.891
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 289.29
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2439,
+      "markdown_body_line_end": 2440,
+      "heading": "3. Study links",
+      "preview": "**Study link:** ✅ Geography → India → Karst Caves & Cave Tourism (Khullar: Tourism / Physiography) **Study link:** ✅ Geography → Karst → Palaeoclimate / GSSP (applied CA)",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 289.29
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 222.622
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2458,
+      "markdown_body_line_end": 2458,
+      "heading": "5. UPSC Traps",
+      "preview": "🔑 Trap: Do not confuse similar-looking landforms, processes, scales or Indian locations; UPSC often tests the exact mechanism and setting.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 786.091
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 719.424
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2494,
+      "markdown_body_line_end": 2505,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Karst coupled system",
+      "preview": "RECHARGE -> joints, bedding and sink points",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2509,
+      "markdown_body_line_end": 2514,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Carbonate cycle",
+      "preview": "CO2 + WATER -> weak carbonic acid",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2518,
+      "markdown_body_line_end": 2523,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Karst prerequisites",
+      "preview": "ROCK -> soluble, thick and exposed to recharge",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 526.691
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2527,
+      "markdown_body_line_end": 2532,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Hydrological zones",
+      "preview": "EPKARST -> shallow storage and routing",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 504.691
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2536,
+      "markdown_body_line_end": 2541,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Surface-karst ladder",
+      "preview": "KARREN -> small solution grooves",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 430.891
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 379.091
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2545,
+      "markdown_body_line_end": 2550,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Cave-development sequence",
+      "preview": "INCEPTION -> favourable fracture or bedding plane",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 357.091
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2554,
+      "markdown_body_line_end": 2559,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Speleothem map",
+      "preview": "STALACTITE -> roof drip deposit",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2563,
+      "markdown_body_line_end": 2568,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: India cave firewall",
+      "preview": "MAWMLUH / MAWSMAI / SIJU -> Meghalaya limestone",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2572,
+      "markdown_body_line_end": 2577,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Proxy pipeline",
+      "preview": "CLIMATE -> rainfall, vegetation and soil CO2",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2581,
+      "markdown_body_line_end": 2592,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Meghalayan hierarchy",
+      "preview": "QUATERNARY -> Period",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2596,
+      "markdown_body_line_end": 2607,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Status and narrative caution",
+      "preview": "4.2 ka EVENT -> correlation guide",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 430.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 317.891
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2611,
+      "markdown_body_line_end": 2616,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Karst conservation spine",
+      "preview": "MAP -> recharge, passages, springs and values",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    }
+  ]
+}

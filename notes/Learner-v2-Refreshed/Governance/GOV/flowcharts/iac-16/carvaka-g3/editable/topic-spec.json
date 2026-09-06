@@ -1,0 +1,1146 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "governance-16",
+  "subject": "Governance",
+  "title": "SPORTS GOVERNANCE, INSTITUTIONS AND MAJOR TOURNAMENTS",
+  "short_route": "GOVERNANCE LAYER MAP → PARALLEL INTEGRITY AND DISPUTE → THREE FUNCTIONS KEPT APART → AUTONOMY AGAINST ACCOUNTABILITY → GRAND SLAM ARCHITECTURE CARD → FOUR ENTRY ROUTES",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-16\\g3\\governance-16_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\governance-16-deep-review-2026-09-05-g3.json",
+  "ascii_spec_sha256": "2636246a6020ff5284f54f6e44f32fe937d5b714ab0692707028618eec45c7c2",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "GOVERNANCE LAYER MAP",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "GOVERNANCE LAYER MAP",
+          "role": "primary"
+        },
+        {
+          "text": "OLYMPIC BODY",
+          "role": "outcome"
+        },
+        {
+          "text": "THE OLYMPIC MOVEMENT AND THE GAMES; NOT THE RULE-MAKER",
+          "role": "caution"
+        },
+        {
+          "text": "INTERNATIONAL FEDERATION",
+          "role": "evidence"
+        },
+        {
+          "text": "COMMON SPORT RULES AND INTERNATIONAL RECOGNITION",
+          "role": "primary"
+        },
+        {
+          "text": "CONTINENTAL AND NATIONAL FEDERATION",
+          "role": "outcome"
+        },
+        {
+          "text": "GOVERNS AND REPRESENTS THE SPORT IN TERRITORY",
+          "role": "comparison"
+        },
+        {
+          "text": "ORGANISER OR LEAGUE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "OLYMPIC BODY → the Olympic Movement and the Games; not the rule-maker for each sport",
+        "INTERNATIONAL FEDERATION → common sport rules and international recognition",
+        "CONTINENTAL AND NATIONAL FEDERATION → governs and represents the sport in territory",
+        "ORGANISER OR LEAGUE → entry conditions and conduct of its own event",
+        "ATHLETE → eligibility, entry, discipline and safeguarding sit at the end of the chain"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OLYMPIC BODY → the Olympic Movement and the Games; not the rule-maker for each sport",
+            "INTERNATIONAL FEDERATION → common sport rules and international recognition"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONTINENTAL AND NATIONAL FEDERATION → governs and represents the sport in territory",
+            "ORGANISER OR LEAGUE → entry conditions and conduct of its own event"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ATHLETE → eligibility, entry, discipline and safeguarding sit at the end of the chain",
+            "MUST REMEMBER: Sports governance allocates policy, recognition, funding, selection,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "OLYMPIC BODY → the Olympic Movement and the Games; not the rule-maker for each sport.",
+      "source_references": [
+        "The layered governance map of organised sport",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-16\\g3\\governance-16_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "PARALLEL INTEGRITY AND DISPUTE LAYERS",
+      "structural_type": "root-axes",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "PARALLEL INTEGRITY AND DISPUTE LAYERS",
+          "role": "primary"
+        },
+        {
+          "text": "INTEGRITY LAYER",
+          "role": "outcome"
+        },
+        {
+          "text": "GLOBAL ANTI-DOPING CODE, THEN THE NATIONAL ANTI-DOPING ORGANISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "DISPUTE LAYER",
+          "role": "evidence"
+        },
+        {
+          "text": "INTERNAL APPEAL, THEN A SPORT TRIBUNAL OR ARBITRATION WHERE",
+          "role": "primary"
+        },
+        {
+          "text": "THE CODE WRITER DOES NOT ORGANISE EVENTS; THE ARBITRAL",
+          "role": "caution"
+        },
+        {
+          "text": "STRICT LIABILITY",
+          "role": "comparison"
+        },
+        {
+          "text": "THE ATHLETE ANSWERS FOR WHAT IS IN THE BODY",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INTEGRITY LAYER → global anti-doping code, then the national anti-doping organisation",
+        "DISPUTE LAYER → internal appeal, then a sport tribunal or arbitration where applicable",
+        "SEPARATION → the code writer does not organise events; the arbitral forum makes no rules",
+        "STRICT LIABILITY → the athlete answers for what is in the body, irrespective of intent"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INTEGRITY LAYER → global anti-doping code, then the national anti-doping organisation",
+            "DISPUTE LAYER → internal appeal, then a sport tribunal or arbitration where applicable"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SEPARATION → the code writer does not organise events; the arbitral forum makes no rules",
+            "STRICT LIABILITY → the athlete answers for what is in the body, irrespective of intent"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INTEGRITY LAYER → global anti-doping code, then the national anti-doping organisation",
+            "DISPUTE LAYER → internal appeal, then a sport tribunal or arbitration where applicable"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "STRICT LIABILITY → the athlete answers for what is in the body, irrespective of intent.",
+      "source_references": [
+        "The distinct roles of the named institutions",
+        "Layered anti-doping jurisdiction and strict liability",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-16\\g3\\governance-16_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "THREE FUNCTIONS KEPT APART",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "THREE FUNCTIONS KEPT APART",
+          "role": "primary"
+        },
+        {
+          "text": "WHO IS ENTITLED TO REPRESENT THE SPORT, ON PUBLISHED",
+          "role": "outcome"
+        },
+        {
+          "text": "WHO IS CHOSEN TO COMPETE, ON CRITERIA PUBLISHED BEFORE",
+          "role": "comparison"
+        },
+        {
+          "text": "WHO MAY ENTER THIS EVENT, ON THE ORGANISER'S OWN",
+          "role": "evidence"
+        },
+        {
+          "text": "LOCATE THE COMPLAINT IN ONE FUNCTION BEFORE PROPOSING A",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "RECOGNITION → who is entitled to represent the sport, on published criteria",
+        "SELECTION → who is chosen to compete, on criteria published before the cycle",
+        "ORGANISATION → who may enter this event, on the organiser's own entry rules",
+        "USE → locate the complaint in one function before proposing a remedy"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "RECOGNITION → who is entitled to represent the sport, on published criteria",
+          "ORGANISATION → who may enter this event, on the organiser's own entry rules",
+          "RECOGNITION → who is entitled to represent the sport, on published criteria"
+        ],
+        [
+          "SELECTION → who is chosen to compete, on criteria published before the cycle",
+          "USE → locate the complaint in one function before proposing a remedy",
+          "SELECTION → who is chosen to compete, on criteria published before the cycle"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RECOGNITION → who is entitled to represent the sport, on published criteria",
+            "SELECTION → who is chosen to compete, on criteria published before the cycle"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "ORGANISATION → who may enter this event, on the organiser's own entry rules",
+            "USE → locate the complaint in one function before proposing a remedy"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RECOGNITION → who is entitled to represent the sport, on published criteria",
+            "SELECTION → who is chosen to compete, on criteria published before the cycle"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "USE → locate the complaint in one function before proposing a remedy.",
+      "source_references": [
+        "Recognition, selection and organisation are three different functions",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-16\\g3\\governance-16_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "AUTONOMY AGAINST ACCOUNTABILITY",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "AUTONOMY AGAINST ACCOUNTABILITY",
+          "role": "primary"
+        },
+        {
+          "text": "AUTONOMY PROTECTS",
+          "role": "outcome"
+        },
+        {
+          "text": "TECHNICAL RULES AND SELECTION JUDGEMENT FROM POLITICAL DIRECTION",
+          "role": "comparison"
+        },
+        {
+          "text": "ONE FEDERATION PER SPORT AND NO EXIT FOR THE",
+          "role": "caution"
+        },
+        {
+          "text": "PUBLIC POWER IN SUBSTANCE",
+          "role": "mechanism"
+        },
+        {
+          "text": "LIVELIHOOD AND CAREER DEPEND ON THE BODY'S DECISION",
+          "role": "outcome"
+        },
+        {
+          "text": "OVERSIGHT OF GOVERNANCE, FINANCE AND RIGHTS IS NOT INTERFERENCE",
+          "role": "caution"
+        },
+        {
+          "text": "RISK IF CROSSED",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "AUTONOMY PROTECTS → technical rules and selection judgement from political direction",
+        "MONOPOLY: one federation per sport and no exit for the athlete",
+        "PUBLIC POWER IN SUBSTANCE: livelihood and career depend on the body's decision",
+        "OVERSIGHT OF GOVERNANCE, FINANCE AND RIGHTS is not interference in selection",
+        "RISK IF CROSSED → interference in selection can expose a body to charter consequences"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "AUTONOMY PROTECTS → technical rules and selection judgement from political direction",
+            "MONOPOLY: one federation per sport and no exit for the athlete"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PUBLIC POWER IN SUBSTANCE: livelihood and career depend on the body's decision",
+            "OVERSIGHT OF GOVERNANCE, FINANCE AND RIGHTS is not interference in selection"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RISK IF CROSSED → interference in selection can expose a body to charter consequences",
+            "AUTONOMY PROTECTS → technical rules and selection judgement from political direction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RISK IF CROSSED → interference in selection can expose a body to charter consequences.",
+      "source_references": [
+        "Autonomy is a functional protection and never a jurisdictional immunity",
+        "Structural monopoly is the reason sport needs governing",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-16\\g3\\governance-16_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "GRAND SLAM ARCHITECTURE CARD",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "GRAND SLAM ARCHITECTURE CARD",
+          "role": "primary"
+        },
+        {
+          "text": "THE FOUR",
+          "role": "outcome"
+        },
+        {
+          "text": "AUSTRALIAN OPEN, ROLAND-GARROS, WIMBLEDON AND THE US OPEN",
+          "role": "comparison"
+        },
+        {
+          "text": "EACH EVENT HAS ITS OWN ORGANISER AND ITS OWN",
+          "role": "evidence"
+        },
+        {
+          "text": "A SHARED GOVERNANCE STRUCTURE AND A COMMON GRAND SLAM",
+          "role": "primary"
+        },
+        {
+          "text": "FALSE PROPOSITION",
+          "role": "outcome"
+        },
+        {
+          "text": "SHARED GOVERNANCE MEANS ONE OWNER OPERATES ALL FOUR",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "THE FOUR → Australian Open, Roland-Garros, Wimbledon and the US Open",
+        "OWNERSHIP → each event has its own organiser and its own operation",
+        "COOPERATION → a shared governance structure and a common Grand Slam Rule Book",
+        "FALSE PROPOSITION → shared governance means one owner operates all four"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "THE FOUR → Australian Open, Roland-Garros, Wimbledon and the US Open",
+          "COOPERATION → a shared governance structure and a common Grand Slam Rule Book",
+          "THE FOUR → Australian Open, Roland-Garros, Wimbledon and the US Open"
+        ],
+        [
+          "OWNERSHIP → each event has its own organiser and its own operation",
+          "FALSE PROPOSITION → shared governance means one owner operates all four",
+          "OWNERSHIP → each event has its own organiser and its own operation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "THE FOUR → Australian Open, Roland-Garros, Wimbledon and the US Open",
+            "OWNERSHIP → each event has its own organiser and its own operation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "COOPERATION → a shared governance structure and a common Grand Slam Rule Book",
+            "FALSE PROPOSITION → shared governance means one owner operates all four"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "THE FOUR → Australian Open, Roland-Garros, Wimbledon and the US Open",
+            "OWNERSHIP → each event has its own organiser and its own operation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "COOPERATION → a shared governance structure and a common Grand Slam Rule Book.",
+      "source_references": [
+        "The Grand Slam architecture and the ownership distinction",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-16\\g3\\governance-16_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "FOUR ENTRY ROUTES",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "FOUR ENTRY ROUTES",
+          "role": "primary"
+        },
+        {
+          "text": "DIRECT RANKING ACCEPTANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "ENTRY EARNED BY POSITION ON THE APPLICABLE RANKING",
+          "role": "comparison"
+        },
+        {
+          "text": "A SEPARATE STAGE WITH ITS OWN DRAW SIZE AND",
+          "role": "evidence"
+        },
+        {
+          "text": "WILD CARD",
+          "role": "primary"
+        },
+        {
+          "text": "DISCRETIONARY ENTRY OUTSIDE ORDINARY RANKING ACCEPTANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "PROTECTED OR SPECIAL ENTRY",
+          "role": "comparison"
+        },
+        {
+          "text": "A DEFINED EXCEPTION ROUTE UNDER THE RULE BOOK",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "DIRECT RANKING ACCEPTANCE → entry earned by position on the applicable ranking",
+        "QUALIFYING → a separate stage with its own draw size and its own entry route",
+        "WILD CARD → discretionary entry outside ordinary ranking acceptance",
+        "PROTECTED OR SPECIAL ENTRY → a defined exception route under the rule book",
+        "RULE → eligibility is a condition; acceptance into a draw is an outcome"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DIRECT RANKING ACCEPTANCE → entry earned by position on the applicable ranking",
+          "WILD CARD → discretionary entry outside ordinary ranking acceptance",
+          "RULE → eligibility is a condition; acceptance into a draw is an outcome"
+        ],
+        [
+          "QUALIFYING → a separate stage with its own draw size and its own entry route",
+          "PROTECTED OR SPECIAL ENTRY → a defined exception route under the rule book",
+          "CLOSE DISTINCTION: The Ministry of Youth Affairs and Sports is an executive ministry,..."
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DIRECT RANKING ACCEPTANCE → entry earned by position on the applicable ranking",
+            "QUALIFYING → a separate stage with its own draw size and its own entry route"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "WILD CARD → discretionary entry outside ordinary ranking acceptance",
+            "PROTECTED OR SPECIAL ENTRY → a defined exception route under the rule book"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RULE → eligibility is a condition; acceptance into a draw is an outcome",
+            "CLOSE DISTINCTION: The Ministry of Youth Affairs and Sports is an executive ministry,..."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → eligibility is a condition; acceptance into a draw is an outcome.",
+      "source_references": [
+        "The four distinct entry routes and the eligibility distinction",
+        "Main draw, qualifying and the meaning of an age threshold",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-16\\g3\\governance-16_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "WILD-CARD PROPOSITION TEST",
+      "structural_type": "labelled-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "WILD-CARD PROPOSITION TEST",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT IT IS",
+          "role": "outcome"
+        },
+        {
+          "text": "DISCRETIONARY ENTRY BYPASSING ORDINARY RANKING ACCEPTANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "WHAT IT IS NOT",
+          "role": "caution"
+        },
+        {
+          "text": "AN EXEMPTION FROM ELIGIBILITY, CONDUCT OR ANTI-DOPING RULES",
+          "role": "primary"
+        },
+        {
+          "text": "SLOT LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "A CAP ON WILD-CARD PLACES AVAILABLE WITHIN A GIVEN",
+          "role": "comparison"
+        },
+        {
+          "text": "PLAYER CAP",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "WHAT IT IS → discretionary entry bypassing ordinary ranking acceptance",
+        "WHAT IT IS NOT → an exemption from eligibility, conduct or anti-doping rules",
+        "SLOT LIMIT → a cap on wild-card places available within a given draw",
+        "PLAYER CAP → a separate proposition about one player over a career; test it alone"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "WHAT IT IS → discretionary entry bypassing ordinary ranking acceptance",
+            "WHAT IT IS NOT → an exemption from eligibility, conduct or anti-doping rules"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "SLOT LIMIT → a cap on wild-card places available within a given draw",
+            "PLAYER CAP → a separate proposition about one player over a career; test it alone"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "WHAT IT IS → discretionary entry bypassing ordinary ranking acceptance",
+            "WHAT IT IS NOT → an exemption from eligibility, conduct or anti-doping rules"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "PLAYER CAP → a separate proposition about one player over a career; test it alone.",
+      "source_references": [
+        "Wild-card precision",
+        "The statement-by-statement method for objective demands",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-16\\g3\\governance-16_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "STATUTORY TRAIL OF THE 2025 ACT",
+      "structural_type": "timeline",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "STATUTORY TRAIL OF THE 2025 ACT",
+          "role": "institution"
+        },
+        {
+          "text": "23 JULY 2025",
+          "role": "outcome"
+        },
+        {
+          "text": "INTRODUCED IN THE LOK SABHA",
+          "role": "comparison"
+        },
+        {
+          "text": "11 AND 12 AUGUST 2025",
+          "role": "evidence"
+        },
+        {
+          "text": "PASSED BY THE LOK SABHA AND THE RAJYA SABHA",
+          "role": "primary"
+        },
+        {
+          "text": "18 AUGUST 2025",
+          "role": "outcome"
+        },
+        {
+          "text": "ASSENT; THE NATIONAL SPORTS GOVERNANCE ACT, 2025, ACT NO.",
+          "role": "caution"
+        },
+        {
+          "text": "1 JANUARY 2026",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "23 JULY 2025 → introduced in the Lok Sabha",
+        "11 AND 12 AUGUST 2025 → passed by the Lok Sabha and the Rajya Sabha",
+        "18 AUGUST 2025 → assent; the National Sports Governance Act, 2025, Act No. 25 of",
+        "1 JANUARY 2026 → first tranche of select provisions in force",
+        "12 MAY 2026 → second tranche under S.O. 2406(E); rules framed during 2026"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "23 JULY 2025 → introduced in the Lok Sabha",
+            "11 AND 12 AUGUST 2025 → passed by the Lok Sabha and the Rajya Sabha"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "18 AUGUST 2025 → assent; the National Sports Governance Act, 2025, Act No. 25 of 2025",
+            "1 JANUARY 2026 → first tranche of select provisions in force"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "12 MAY 2026 → second tranche under S.O. 2406(E); rules framed during 2026",
+            "23 JULY 2025 → introduced in the Lok Sabha"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "12 MAY 2026 → second tranche under S.O. 2406(E); rules framed during 2026.",
+      "source_references": [
+        "The National Sports Governance Act, 2025 and its legislative trail",
+        "Phased commencement and the gazette-verified tranche",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-16\\g3\\governance-16_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "STATUS LADDER DISCIPLINE",
+      "structural_type": "process-flow",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "STATUS LADDER DISCIPLINE",
+          "role": "primary"
+        },
+        {
+          "text": "THE ACT HAS RECEIVED ASSENT AND CARRIES A NUMBER",
+          "role": "institution"
+        },
+        {
+          "text": "PROVISION COMMENCED",
+          "role": "comparison"
+        },
+        {
+          "text": "ONLY THE NOTIFIED TRANCHES ARE IN FORCE",
+          "role": "evidence"
+        },
+        {
+          "text": "RULES FRAMED",
+          "role": "primary"
+        },
+        {
+          "text": "EXISTENCE RECORDED; INDIVIDUAL CONTENTS NEED VERIFICATION",
+          "role": "outcome"
+        },
+        {
+          "text": "INSTITUTION CONSTITUTED",
+          "role": "institution"
+        },
+        {
+          "text": "CREATION IN LAW IS NOT THE EXERCISE OF A",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ENACTED → the Act has received assent and carries a number",
+        "PROVISION COMMENCED: only the notified tranches are in force",
+        "RULES FRAMED: existence recorded; individual contents need verification",
+        "INSTITUTION CONSTITUTED: creation in law is not the exercise of a power",
+        "JURISDICTION OPERATIONAL: not asserted, so the 2011 Code still governs recognition"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ENACTED → the Act has received assent and carries a number",
+            "PROVISION COMMENCED: only the notified tranches are in force"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RULES FRAMED: existence recorded; individual contents need verification",
+            "INSTITUTION CONSTITUTED: creation in law is not the exercise of a power"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "JURISDICTION OPERATIONAL: not asserted, so the 2011 Code still governs recognition",
+            "ENACTED → the Act has received assent and carries a number"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "JURISDICTION OPERATIONAL: not asserted, so the 2011 Code still governs recognition.",
+      "source_references": [
+        "The status ladder that must appear in any answer",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-16\\g3\\governance-16_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "INSTITUTIONAL LEGAL CHARACTER",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "INSTITUTIONAL LEGAL CHARACTER",
+          "role": "primary"
+        },
+        {
+          "text": "SPORTS AUTHORITY OF INDIA",
+          "role": "outcome"
+        },
+        {
+          "text": "SOCIETY UNDER THE SOCIETIES REGISTRATION ACT, 1860",
+          "role": "institution"
+        },
+        {
+          "text": "NATIONAL ANTI-DOPING ORGANISATION",
+          "role": "evidence"
+        },
+        {
+          "text": "STATUTORY UNDER THE 2022 ACT; A REAL 2022 CHANGE",
+          "role": "institution"
+        },
+        {
+          "text": "BOARD AND TRIBUNAL",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUTORY CREATIONS UNDER THE 2025 ACT; POWERS NOT ALL",
+          "role": "caution"
+        },
+        {
+          "text": "NATIONAL FEDERATIONS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SPORTS AUTHORITY OF INDIA → society under the Societies Registration Act, 1860",
+        "NATIONAL ANTI-DOPING ORGANISATION → statutory under the 2022 Act; a real 2022 change",
+        "BOARD AND TRIBUNAL → statutory creations under the 2025 Act; powers not all commenced",
+        "NATIONAL FEDERATIONS → private associations that require recognition to represent",
+        "ARBITRAL FORUM → an international arbitral institution at Lausanne, established 1984"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "SPORTS AUTHORITY OF INDIA → society under the Societies Registration Act, 1860",
+          "BOARD AND TRIBUNAL → statutory creations under the 2025 Act; powers not all commenced",
+          "ARBITRAL FORUM → an international arbitral institution at Lausanne, established 1984"
+        ],
+        [
+          "NATIONAL ANTI-DOPING ORGANISATION → statutory under the 2022 Act; a real 2022 change",
+          "NATIONAL FEDERATIONS → private associations that require recognition to represent",
+          "SPORTS AUTHORITY OF INDIA → society under the Societies Registration Act, 1860"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SPORTS AUTHORITY OF INDIA → society under the Societies Registration Act, 1860",
+            "NATIONAL ANTI-DOPING ORGANISATION → statutory under the 2022 Act; a real 2022 change"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "BOARD AND TRIBUNAL → statutory creations under the 2025 Act; powers not all commenced",
+            "NATIONAL FEDERATIONS → private associations that require recognition to represent"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ARBITRAL FORUM → an international arbitral institution at Lausanne, established 1984",
+            "SPORTS AUTHORITY OF INDIA → society under the Societies Registration Act, 1860"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ARBITRAL FORUM → an international arbitral institution at Lausanne, established 1984.",
+      "source_references": [
+        "Institutional legal character, the distinction most often got wrong",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-16\\g3\\governance-16_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "SIX-TEST CHECKLIST FOR A SPORTS BODY",
+      "structural_type": "path-consequence",
+      "layout": "timeline",
+      "pills": [
+        {
+          "text": "SIX-TEST CHECKLIST FOR A SPORTS BODY",
+          "role": "primary"
+        },
+        {
+          "text": "1 BASIS OF AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "STATUTE, RECOGNITION, CONTRACT OR A PRIVATE RULE BOOK",
+          "role": "comparison"
+        },
+        {
+          "text": "2 RECOGNITION",
+          "role": "evidence"
+        },
+        {
+          "text": "PUBLISHED CRITERIA, AND WITHDRAWAL WITH RECORDED REASONS",
+          "role": "primary"
+        },
+        {
+          "text": "3 INTERNAL GOVERNANCE",
+          "role": "outcome"
+        },
+        {
+          "text": "ELECTIONS, TENURE LIMITS, ATHLETE AND GENDER REPRESENTATION",
+          "role": "comparison"
+        },
+        {
+          "text": "4 SELECTION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "1 BASIS OF AUTHORITY → statute, recognition, contract or a private rule book",
+        "2 RECOGNITION → published criteria, and withdrawal with recorded reasons",
+        "3 INTERNAL GOVERNANCE → elections, tenure limits, athlete and gender representation",
+        "4 SELECTION → criteria published before the cycle and reasons given for exclusion",
+        "5 DISPUTE → independent forum with notice, hearing, reasons and appeal"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "1 BASIS OF AUTHORITY → statute, recognition, contract or a private rule book",
+            "2 RECOGNITION → published criteria, and withdrawal with recorded reasons"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "3 INTERNAL GOVERNANCE → elections, tenure limits, athlete and gender representation",
+            "4 SELECTION → criteria published before the cycle and reasons given for exclusion"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "5 DISPUTE → independent forum with notice, hearing, reasons and appeal",
+            "6 ATHLETE PROTECTION → safeguarding independent of coach, and no retaliation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "1 BASIS OF AUTHORITY → statute, recognition, contract or a private rule book.",
+      "source_references": [
+        "The six-test checklist for any sports body or governance failure",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-16\\g3\\governance-16_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "ANSWER SPINE FOR A SPORTS-GOVERNANCE DEMAND",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "ANSWER SPINE FOR A SPORTS-GOVERNANCE DEMAND",
+          "role": "primary"
+        },
+        {
+          "text": "NAME THE LAYER AND THE LEGAL CHARACTER OF THE",
+          "role": "outcome"
+        },
+        {
+          "text": "AUTONOMY AS PROTECTION FOR SPORTING JUDGEMENT, BOUNDED BY LAW",
+          "role": "comparison"
+        },
+        {
+          "text": "APPLY THE STATUS LADDER AND NEVER TREAT ENACTMENT AS",
+          "role": "evidence"
+        },
+        {
+          "text": "GRADED VERDICT ON BASIS OF AUTHORITY AGAINST PRACTICE, WITH",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "QUALIFY THE NATIONAL SPORTS DEVELOPMENT CODE",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "OPEN → name the layer and the legal character of the body actually in dispute",
+        "BUILD → autonomy as protection for sporting judgement, bounded by law and rights",
+        "CORRECT → apply the status ladder and never treat enactment as operation",
+        "CLOSE → graded verdict on basis of authority against practice, with no result cited",
+        "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Qualify the National Sports Development Code"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → name the layer and the legal character of the body actually in dispute",
+            "BUILD → autonomy as protection for sporting judgement, bounded by law and rights"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CORRECT → apply the status ladder and never treat enactment as operation",
+            "CLOSE → graded verdict on basis of authority against practice, with no result cited"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Qualify the National Sports Development Code,...",
+            "OPEN → name the layer and the legal character of the body actually in dispute"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → graded verdict on basis of authority against practice, with no result cited.",
+      "source_references": [
+        "Trade-offs, incidence and honest question ownership",
+        "upsc-ai-kit\\knowledge\\Governance\\basic\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Governance\\advanced\\16_Sports-Governance-Institutions-and-Major-Tournaments.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-16\\g3\\governance-16_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "GS PAPER",
+          "role": "outcome"
+        },
+        {
+          "text": "FEDERATION AUTONOMY, ATHLETE RIGHTS, INTEGRITY SYSTEMS AND TOURNAMENT-GOVERNANCE TRADE-OFFS",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTIFY THE RULE-MAKING BODY AND ITS LEGAL/INSTITUTIONAL CHARACTER.",
+          "role": "evidence"
+        },
+        {
+          "text": "SEPARATE TECHNICAL AUTONOMY FROM PUBLIC ACCOUNTABILITY.",
+          "role": "primary"
+        },
+        {
+          "text": "LOCATE ATHLETE RIGHTS",
+          "role": "outcome"
+        },
+        {
+          "text": "NOTICE, REASONS, HEARING, APPEAL, PRIVACY AND SAFEGUARDING.",
+          "role": "comparison"
+        },
+        {
+          "text": "IDENTIFY THE INTEGRITY LAYER",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "Subject: Governance | Tier: Advanced | GS Paper: GS-II.",
+            "Purpose: Federation autonomy, athlete rights, integrity systems and tournament-governance trade-offs beyond the Core rule distinctions.",
+            "Identify the rule-making body and its legal/institutional character."
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "Separate technical autonomy from public accountability.",
+            "Locate athlete rights: notice, reasons, hearing, appeal, privacy and safeguarding.",
+            "Identify the integrity layer: anti-doping, match manipulation and conflict of interest."
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "Recommend transparent rules and independent review without judicialising every sporting decision."
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

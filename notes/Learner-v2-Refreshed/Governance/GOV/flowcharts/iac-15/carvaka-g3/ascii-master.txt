@@ -1,0 +1,84 @@
+ASCII MASTER FLOW — PANEL 1/12: Results chain
+INPUT -> money, staff and materials committed to the intervention
+-> ACTIVITY: what was actually done, such as training conducted or pipes laid
+-> OUTPUT: what was directly produced, such as kilometres of road or schools built
+-> OUTCOME: the change in the target population, such as travel time or learning
+-> IMPACT: the wider, longer-term change in access, income or mobility
+REPORTING STOPS -> most Indian scheme reporting halts at the output rung
+MUST REMEMBER: Monitoring tracks implementation continuously, evaluation judges...
+
+ASCII MASTER FLOW — PANEL 2/12: Classify the statistic
+OUTPUT CLAIM -> share of households covered; number of facilities constructed
+OUTCOME CLAIM -> water quality at the point of use; measured learning level
+IMPACT CLAIM -> market access, household income, mobility over years
+EXAM MOVE -> name the rung of the figure the stem supplies before using it
+
+ASCII MASTER FLOW — PANEL 3/12: Institutional map
+EVALUATION OFFICE -> attached office of NITI Aayog; constituted September 2015
+FORMED BY MERGING -> Program Evaluation Office and Independent Evaluation Office
+BUDGET FRAMEWORK -> Ministry of Finance, Budget Division; dual output and outcome reporting
+DISTRICT PROGRAMME -> Champions of Change dashboard with delta ranking
+LIMIT -> the evaluator produces evidence and cannot redesign the scheme
+
+ASCII MASTER FLOW — PANEL 4/12: Evaluation criteria set
+RELEVANCE -> was the intervention the right response to the problem
+EFFECTIVENESS and EFFICIENCY -> was the objective met, and at what cost
+SUSTAINABILITY and IMPACT -> does the change persist, and how wide is it
+COHERENCE and EQUITY -> does it fit other policy, and who gained and who did not
+
+ASCII MASTER FLOW — PANEL 5/12: Coverage discipline card
+RULE -> the budget framework does not cover every scheme in every year
+OWNER-VERIFIED -> 2026-27 document covers 172 major schemes
+THRESHOLD -> an outlay of five hundred crore rupees or more in that document
+DISCIPLINE -> cite with the Budget year and never carry the figure forward
+
+ASCII MASTER FLOW — PANEL 6/12: Three budgeting modes
+INPUT BUDGETING -> line items; how much money was allocated to a category
+OUTPUT BUDGETING -> physical units produced for the allocation
+OUTCOME BUDGETING -> the change achieved relative to the allocation
+UNFINISHED -> outcome achievement carries no budgetary consequence
+CLOSE DISTINCTION: Indicator is not target, output is not outcome, outcome is not...
+
+ASCII MASTER FLOW — PANEL 7/12: District and block programmes kept separate
+DISTRICT PROGRAMME -> 112 districts; 49 key performance indicators; five themes
+FIVE THEMES -> health and nutrition; education; agriculture and water resources
+FIVE THEMES -> financial inclusion and skill development; basic infrastructure
+BLOCK PROGRAMME -> 513 blocks in current NITI Aayog material; a finer unit
+ERROR TO AVOID -> merging district and block counts or their indicator sets
+
+ASCII MASTER FLOW — PANEL 8/12: Ranking design
+ABSOLUTE RANKING -> compares present level; already-advantaged units stay on top
+DELTA RANKING -> compares the rate of improvement over a defined period
+GAIN -> a historically disadvantaged district is not permanently placed at the bottom
+RISK -> baseline understatement inflates apparent improvement
+CONDITION -> careful baseline-setting plus independent validation of the data
+
+ASCII MASTER FLOW — PANEL 9/12: Monitoring against evaluation
+MONITORING -> continuous, high frequency, typically self-reported administrative data
+ITS USE -> rapid course correction while the programme is running
+EVALUATION -> periodic, often independent, assesses whether outcomes were achieved
+ITS USE -> scheme redesign and resource reallocation after the evidence is in
+RULE -> neither substitutes for the other and each fails in a different way
+
+ASCII MASTER FLOW — PANEL 10/12: Method and limit table
+BEFORE AND AFTER -> shows movement; cannot separate the intervention from everything else
+WITH AND WITHOUT -> plausible counterfactual; the comparison group may differ systematically
+RANDOMISED TRIAL -> causal effect for the design studied; limited external validity
+QUASI-EXPERIMENTAL -> causal inference without randomisation; assumptions can fail
+PROCESS EVALUATION -> explains why an outcome occurred; no effect size
+ADMINISTRATIVE DATA -> continuous and cheap; only as good as the reporter's incentive
+
+ASCII MASTER FLOW — PANEL 11/12: Indicator failure modes and corrections
+GOODHART -> a measure with consequences is produced rather than observed; use a basket
+SELF-REPORTED -> the judged entity generates the number; validate a sample independently
+AGGREGATION MASKING -> the average hides block and group failure; disaggregate by rule
+OUTPUT SUBSTITUTION -> effort moves to what is counted; add quality and outcome measures
+SELECTION EFFECTS -> only reachable beneficiaries are measured; report drop-off
+DEFINITION DRIFT -> the definition changes between years; publish definitions and breaks
+
+ASCII MASTER FLOW — PANEL 12/12: Answer spine for an evaluate demand
+OPEN -> say what an output claim proves and what it does not, before citing anything
+BUILD -> place the evidence on the results chain and name the missing baseline
+CORRECT -> state the counterfactual required and the gaming risk in the indicator
+CLOSE -> graded verdict about the evaluation design as much as about the scheme
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use Aspirational Districts, outcome...

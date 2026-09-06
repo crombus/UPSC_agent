@@ -1,0 +1,2001 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-16\\g3\\governance-16_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-16\\g3\\governance-16_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "governance-16",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Sports Governance, Institutions and Major Tournaments - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-02. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 29,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 469.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 175.69
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-16\\g3\\assets\\governance-16_Teaching-Navigation_2026-09-02.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 514.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 207.356
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "What the sports-governance owner holds should be analysed as a relation among What this owner holds and the two ways it is examined, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 82,
+      "heading": "VISUAL FIRST",
+      "preview": "WHAT THE SPORTS-GOVERNANCE OWNER HOLDS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 107
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 356.224
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 305.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 110,
+      "markdown_body_line_end": 117,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 666.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 560.273
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 129,
+      "markdown_body_line_end": 129,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The layered governance map should be analysed as a relation among The layered governance map of organised sport and The distinct roles of the named institutions, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 396.873
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 330.205
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 144,
+      "markdown_body_line_end": 151,
+      "heading": "VISUAL FIRST",
+      "preview": "THE LAYERED GOVERNANCE MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 187,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 92.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 718.573
+        }
+      },
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 199,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Three functions and one autonomy limit should be analysed as a relation among Recognition, selection and organisation are three different functions and Autonomy is a functional protection and never a jurisdictional immunity, not as a list o",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 526.773
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 445.905
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 214,
+      "markdown_body_line_end": 221,
+      "heading": "VISUAL FIRST",
+      "preview": "THREE FUNCTIONS AND ONE AUTONOMY LIMIT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 250,
+      "markdown_body_line_end": 257,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 177.691
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 54.973
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 269,
+      "markdown_body_line_end": 269,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Why the absence of exit changes everything should be analysed as a relation among Structural monopoly is the reason sport needs governing, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 650.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 584.224
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 284,
+      "markdown_body_line_end": 288,
+      "heading": "VISUAL FIRST",
+      "preview": "WHY THE ABSENCE OF EXIT CHANGES EVERYTHING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 389.424
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 348.424
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 316,
+      "markdown_body_line_end": 323,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 636.223
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 335,
+      "markdown_body_line_end": 335,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Grand Slam architecture should be analysed as a relation among The Grand Slam architecture and the ownership distinction, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 472.823
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 406.155
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 350,
+      "markdown_body_line_end": 354,
+      "heading": "VISUAL FIRST",
+      "preview": "THE GRAND SLAM ARCHITECTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 382,
+      "markdown_body_line_end": 389,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 366.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 269.223
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 401,
+      "markdown_body_line_end": 401,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Four entry routes and the eligibility distinction should be analysed as a relation among The four distinct entry routes and the eligibility distinction, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 105.823
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 39.155
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 416,
+      "markdown_body_line_end": 420,
+      "heading": "VISUAL FIRST",
+      "preview": "FOUR ENTRY ROUTES AND THE ELIGIBILITY DISTINCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 573.491
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 448,
+      "markdown_body_line_end": 455,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 208.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 110.623
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 467,
+      "markdown_body_line_end": 467,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Wild-card precision should be analysed as a relation among Wild-card precision, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 665.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 482,
+      "markdown_body_line_end": 486,
+      "heading": "VISUAL FIRST",
+      "preview": "WILD-CARD PRECISION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 403.624
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 362.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 514,
+      "markdown_body_line_end": 521,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 636.223
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 533,
+      "markdown_body_line_end": 533,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Stages, thresholds and the statement method should be analysed as a relation among Main draw, qualifying and the meaning of an age threshold and The statement-by-statement method for objective demands, not as a list of virtues attached to t",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 458.623
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 377.755
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 548,
+      "markdown_body_line_end": 555,
+      "heading": "VISUAL FIRST",
+      "preview": "STAGES, THRESHOLDS AND THE STATEMENT METHOD",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 584,
+      "markdown_body_line_end": 591,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 220.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 105.923
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 603,
+      "markdown_body_line_end": 603,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The statute and its legislative trail should be analysed as a relation among The National Sports Governance Act, 2025 and its legislative trail, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 650.891
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 584.224
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 618,
+      "markdown_body_line_end": 622,
+      "heading": "VISUAL FIRST",
+      "preview": "THE STATUTE AND ITS LEGISLATIVE TRAIL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 389.424
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 348.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 650,
+      "markdown_body_line_end": 657,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 627.873
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 669,
+      "markdown_body_line_end": 669,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Phased commencement and the gazette record should be analysed as a relation among Phased commencement and the gazette-verified tranche, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 445.473
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 378.805
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 684,
+      "markdown_body_line_end": 688,
+      "heading": "VISUAL FIRST",
+      "preview": "PHASED COMMENCEMENT AND THE GAZETTE RECORD",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 101
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 716,
+      "markdown_body_line_end": 723,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 328.491
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 222.473
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 735,
+      "markdown_body_line_end": 735,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "What the Act actually creates should be analysed as a relation among What the Act creates as examinable governance content, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 750,
+      "markdown_body_line_end": 754,
+      "heading": "VISUAL FIRST",
+      "preview": "WHAT THE ACT ACTUALLY CREATES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 547.824
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 506.824
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 782,
+      "markdown_body_line_end": 789,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 84.824
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 718.573
+        }
+      },
+      "pdf_pages": [
+        25,
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 801,
+      "markdown_body_line_end": 801,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The status ladder discipline should be analysed as a relation among The status ladder that must appear in any answer, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 555.173
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 488.505
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 816,
+      "markdown_body_line_end": 820,
+      "heading": "VISUAL FIRST",
+      "preview": "THE STATUS LADDER DISCIPLINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 848,
+      "markdown_body_line_end": 855,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 310.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 204.073
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 867,
+      "markdown_body_line_end": 867,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Anti-doping law and strict liability should be analysed as a relation among The anti-doping statutory layer and the amendment recorded as unverified and Layered anti-doping jurisdiction and strict liability, not as a list of virtues attache",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 703.224
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 882,
+      "markdown_body_line_end": 889,
+      "heading": "VISUAL FIRST",
+      "preview": "ANTI-DOPING LAW AND STRICT LIABILITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 508.424
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 437.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 918,
+      "markdown_body_line_end": 925,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 510.491
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 396.123
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 937,
+      "markdown_body_line_end": 937,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Legal character and the six-test checklist should be analysed as a relation among Institutional legal character, the distinction most often got wrong and The six-test checklist for any sports body or governance failure, not as a list of vir",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 199.523
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 118.655
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 952,
+      "markdown_body_line_end": 959,
+      "heading": "VISUAL FIRST",
+      "preview": "LEGAL CHARACTER AND THE SIX-TEST CHECKLIST",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 96
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 682.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 611.091
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 988,
+      "markdown_body_line_end": 995,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 595.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 481.323
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1007,
+      "markdown_body_line_end": 1007,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Trade-offs, incidence and honest ownership should be analysed as a relation among Trade-offs, incidence and honest question ownership, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 298.923
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 232.255
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1022,
+      "markdown_body_line_end": 1026,
+      "heading": "VISUAL FIRST",
+      "preview": "TRADE-OFFS, INCIDENCE AND HONEST OWNERSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1061,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 281.491
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 175.473
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1065,
+      "markdown_body_line_end": 1069,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Governance | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II + Prelims. **Core area:** International and Indian sports-governance layers, federation autonomy, tournament rule-making, eligibility, anti-doping and dispute re",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 175.473
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 37.805
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1073,
+      "markdown_body_line_end": 1086,
+      "heading": "1. Governance map",
+      "preview": "IOC / international event owner",
+      "metadata": {
+        "language": "text",
+        "line_count": 12,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 656.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1090,
+      "markdown_body_line_end": 1099,
+      "heading": "2. Institution types",
+      "preview": "Institution | Primary role",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 8,
+        "headers": [
+          "Institution",
+          "Primary role"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 634.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 395.29
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1105,
+      "markdown_body_line_end": 1111,
+      "heading": "3. Grand Slam tennis architecture",
+      "preview": "Layer | Exam-ready distinction",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Layer",
+          "Exam-ready distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 325.69
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 150.288
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1143,
+      "markdown_body_line_end": 1149,
+      "heading": "6.1 The National Sports Governance Act, 2025",
+      "preview": "Stage | Position",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Stage",
+          "Position"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 474.891
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 321.89
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1195,
+      "markdown_body_line_end": 1203,
+      "heading": "6.3 Institutional legal character - the distinction most often got wrong",
+      "preview": "Body | Legal character | Precision point",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Body",
+          "Legal character",
+          "Precision point"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 527.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 175.09
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1207,
+      "markdown_body_line_end": 1210,
+      "heading": "7. Answer architecture (10/15/20-mark support)",
+      "preview": "**Scope.** This topic is examined in two very different ways: as **Prelims factual precision** about tournament and institutional rules, and as a **GS-II governance case study** on autonomy, accountability and rights in a self-regulating se",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 175.09
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 94.222
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1214,
+      "markdown_body_line_end": 1221,
+      "heading": "7.1 Demand map",
+      "preview": "Stem pattern | What is being tested | Opening move",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Stem pattern",
+          "What is being tested",
+          "Opening move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 534.69
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1378,
+      "markdown_body_line_end": 1380,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 706.424
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1386,
+      "markdown_body_line_end": 1388,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 654.824
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 536.922
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1394,
+      "markdown_body_line_end": 1394,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 497.722
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 453.054
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2243,
+      "markdown_body_line_end": 2245,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 351.491
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 270.624
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2251,
+      "markdown_body_line_end": 2253,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 98,
+          "frame_y": 219.024
+        },
+        "end": {
+          "page": 98,
+          "frame_y": 101.122
+        }
+      },
+      "pdf_pages": [
+        98
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2259,
+      "markdown_body_line_end": 2259,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 99,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 99,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        99
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2521,
+      "markdown_body_line_end": 2523,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Governance | **Tier:** Advanced | **GS Paper:** GS-II. **Purpose:** Federation autonomy, athlete rights, integrity systems and tournament-governance trade-offs beyond the Core rule distinctions. *Companion: `basic/16_Sports-Gov",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 114,
+          "frame_y": 344.691
+        },
+        "end": {
+          "page": 114,
+          "frame_y": 285.824
+        }
+      },
+      "pdf_pages": [
+        114
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2527,
+      "markdown_body_line_end": 2531,
+      "heading": "1. Central tension",
+      "preview": "sporting autonomy and expertise",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 114,
+          "frame_y": 263.824
+        },
+        "end": {
+          "page": 114,
+          "frame_y": 222.824
+        }
+      },
+      "pdf_pages": [
+        114
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2537,
+      "markdown_body_line_end": 2544,
+      "heading": "2. Analytical matrix",
+      "preview": "Governance issue | Risk | Reform principle",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Governance issue",
+          "Risk",
+          "Reform principle"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 115,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 115,
+          "frame_y": 590.69
+        }
+      },
+      "pdf_pages": [
+        115
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2603,
+      "markdown_body_line_end": 2609,
+      "heading": "Sports Governance, Institutions and Major Tournaments: ANSWER-WRITING SPINE",
+      "preview": "NAME THE NORM OR PROBLEM -> IDENTIFY THE DUTY-HOLDER AND THE BINDING FORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 119,
+          "frame_y": 681.091
+        },
+        "end": {
+          "page": 119,
+          "frame_y": 620.091
+        }
+      },
+      "pdf_pages": [
+        119
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2619,
+      "markdown_body_line_end": 2626,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Governance layer map",
+      "preview": "OLYMPIC BODY -> the Olympic Movement and the Games; not the rule-maker for each sport",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 708.691
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 636.491
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2630,
+      "markdown_body_line_end": 2635,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Parallel integrity and dispute layers",
+      "preview": "INTEGRITY LAYER -> global anti-doping code, then the national anti-doping organisation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 562.691
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2639,
+      "markdown_body_line_end": 2644,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Three functions kept apart",
+      "preview": "RECOGNITION -> who is entitled to represent the sport, on published criteria",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 540.691
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 488.891
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2648,
+      "markdown_body_line_end": 2654,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Autonomy against accountability",
+      "preview": "AUTONOMY PROTECTS -> technical rules and selection judgement from political direction",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 466.891
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 404.891
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2658,
+      "markdown_body_line_end": 2663,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Grand Slam architecture card",
+      "preview": "THE FOUR -> Australian Open, Roland-Garros, Wimbledon and the US Open",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 382.891
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 331.091
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2667,
+      "markdown_body_line_end": 2674,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Four entry routes",
+      "preview": "DIRECT RANKING ACCEPTANCE -> entry earned by position on the applicable ranking",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 309.091
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 236.891
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2678,
+      "markdown_body_line_end": 2683,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Wild-card proposition test",
+      "preview": "WHAT IT IS -> discretionary entry bypassing ordinary ranking acceptance",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 121,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 121,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        121
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2687,
+      "markdown_body_line_end": 2693,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Statutory trail of the 2025 Act",
+      "preview": "23 JULY 2025 -> introduced in the Lok Sabha",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 121,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 121,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        121
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2697,
+      "markdown_body_line_end": 2703,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Status ladder discipline",
+      "preview": "ENACTED -> the Act has received assent and carries a number",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 121,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 121,
+          "frame_y": 567.491
+        }
+      },
+      "pdf_pages": [
+        121
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2707,
+      "markdown_body_line_end": 2713,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Institutional legal character",
+      "preview": "SPORTS AUTHORITY OF INDIA -> society under the Societies Registration Act, 1860",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 121,
+          "frame_y": 545.491
+        },
+        "end": {
+          "page": 121,
+          "frame_y": 483.491
+        }
+      },
+      "pdf_pages": [
+        121
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2717,
+      "markdown_body_line_end": 2724,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Six-test checklist for a sports body",
+      "preview": "1 BASIS OF AUTHORITY -> statute, recognition, contract or a private rule book",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 121,
+          "frame_y": 461.491
+        },
+        "end": {
+          "page": 121,
+          "frame_y": 389.291
+        }
+      },
+      "pdf_pages": [
+        121
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2728,
+      "markdown_body_line_end": 2734,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Answer spine for a sports-governance demand",
+      "preview": "OPEN -> name the layer and the legal character of the body actually in dispute",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 121,
+          "frame_y": 367.291
+        },
+        "end": {
+          "page": 121,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        121
+      ]
+    }
+  ]
+}

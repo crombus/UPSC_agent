@@ -1,0 +1,2152 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-14\\g4\\geography-14_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-14\\g4\\geography-14_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "geography-14",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Climate Classification (Koppen) / India Climatic Regions - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 418.024
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 189.022
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 51,
+      "markdown_body_line_end": 51,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-14\\g4\\assets\\geography-14_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 141.556
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Why classify climate must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 82,
+      "heading": "VISUAL FIRST",
+      "preview": "WHY CLASSIFY CLIMATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 480.624
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 439.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 110,
+      "markdown_body_line_end": 117,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 159.624
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 70.305
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 129,
+      "markdown_body_line_end": 129,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Koppen's empirical design must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 144,
+      "markdown_body_line_end": 151,
+      "heading": "VISUAL FIRST",
+      "preview": "KOPPEN'S EMPIRICAL DESIGN",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 180,
+      "markdown_body_line_end": 187,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 705.623
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 199,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Tropical A climates must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 570.623
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 503.955
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 213,
+      "markdown_body_line_end": 220,
+      "heading": "VISUAL FIRST",
+      "preview": "TROPICAL A CLIMATES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 340.555
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 269.555
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 249,
+      "markdown_body_line_end": 256,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 680.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 582.823
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 268,
+      "markdown_body_line_end": 268,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Dry B climates must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 462.023
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 395.355
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 283,
+      "markdown_body_line_end": 287,
+      "heading": "VISUAL FIRST",
+      "preview": "DRY B CLIMATES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 315,
+      "markdown_body_line_end": 322,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 466.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 386.473
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 334,
+      "markdown_body_line_end": 334,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Temperate C and continental D must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 265.673
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 199.005
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 349,
+      "markdown_body_line_end": 353,
+      "heading": "VISUAL FIRST",
+      "preview": "TEMPERATE C AND CONTINENTAL D",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 53
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 381,
+      "markdown_body_line_end": 388,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 466.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 376.973
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 400,
+      "markdown_body_line_end": 400,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Polar E and highland H must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 256.173
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 189.505
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 415,
+      "markdown_body_line_end": 419,
+      "heading": "VISUAL FIRST",
+      "preview": "POLAR E AND HIGHLAND H",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 706.891
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 447,
+      "markdown_body_line_end": 454,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 426.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 337.573
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 466,
+      "markdown_body_line_end": 466,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Second-letter grammar must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 216.773
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 150.105
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 481,
+      "markdown_body_line_end": 485,
+      "heading": "VISUAL FIRST",
+      "preview": "SECOND-LETTER GRAMMAR",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 35
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 730.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 689.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 513,
+      "markdown_body_line_end": 520,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 409.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 320.373
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 532,
+      "markdown_body_line_end": 532,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Third-letter grammar must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 185.373
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 118.705
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 546,
+      "markdown_body_line_end": 553,
+      "heading": "VISUAL FIRST",
+      "preview": "THIRD-LETTER GRAMMAR",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 642.491
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 582,
+      "markdown_body_line_end": 589,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 316.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 219.223
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 601,
+      "markdown_body_line_end": 601,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Normals and reference periods must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 98.423
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 615,
+      "markdown_body_line_end": 619,
+      "heading": "VISUAL FIRST",
+      "preview": "NORMALS AND REFERENCE PERIODS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 579.224
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 538.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 647,
+      "markdown_body_line_end": 654,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 258.224
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 168.905
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 666,
+      "markdown_body_line_end": 666,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Anomaly, variability and trend must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 679,
+      "markdown_body_line_end": 683,
+      "heading": "VISUAL FIRST",
+      "preview": "ANOMALY, VARIABILITY AND TREND",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 480.624
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 439.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 711,
+      "markdown_body_line_end": 718,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 159.624
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 70.305
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 730,
+      "markdown_body_line_end": 730,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Mapped boundaries and scale must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 743,
+      "markdown_body_line_end": 747,
+      "heading": "VISUAL FIRST",
+      "preview": "MAPPED BOUNDARIES AND SCALE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 480.624
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 439.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 775,
+      "markdown_body_line_end": 782,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 159.624
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 70.305
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 794,
+      "markdown_body_line_end": 794,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Controls of India's climatic mosaic must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 808,
+      "markdown_body_line_end": 812,
+      "heading": "VISUAL FIRST",
+      "preview": "CONTROLS OF INDIA'S CLIMATIC MOSAIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 463.424
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 422.424
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 840,
+      "markdown_body_line_end": 847,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 142.424
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 53.105
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 859,
+      "markdown_body_line_end": 859,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Koppen regions applied to India must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 872,
+      "markdown_body_line_end": 876,
+      "heading": "VISUAL FIRST",
+      "preview": "KOPPEN REGIONS APPLIED TO INDIA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 466.424
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 425.424
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 904,
+      "markdown_body_line_end": 911,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 131.224
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 41.905
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 923,
+      "markdown_body_line_end": 923,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Trewartha, Thornthwaite and planning regions must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 938,
+      "markdown_body_line_end": 948,
+      "heading": "VISUAL FIRST",
+      "preview": "TREWARTHA, THORNTHWAITE AND PLANNING REGIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 283.624
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 978,
+      "markdown_body_line_end": 985,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 630.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 524.073
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 997,
+      "markdown_body_line_end": 997,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Classification evidence and exam application must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 370.073
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 303.405
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1010,
+      "markdown_body_line_end": 1014,
+      "heading": "VISUAL FIRST",
+      "preview": "CLASSIFICATION EVIDENCE AND EXAM APPLICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1042,
+      "markdown_body_line_end": 1049,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 437.891
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 348.573
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1053,
+      "markdown_body_line_end": 1056,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*. ✅ = from source book · ⚠️ = inference ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 348.573
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 253.505
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1062,
+      "markdown_body_line_end": 1062,
+      "heading": "1. What Koppen did",
+      "preview": "🔑 Trap: Koppen is vegetation-linked and data-based; it is not a causal/genetic classification.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 169.705
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 139.237
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1066,
+      "markdown_body_line_end": 1073,
+      "heading": "2. Major groups and criteria",
+      "preview": "Group | Name | Defining criterion from source notes",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Group",
+          "Name",
+          "Defining criterion from source notes"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 613.09
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1077,
+      "markdown_body_line_end": 1082,
+      "heading": "3. Letter code logic",
+      "preview": "Letter position | Symbols | Meaning",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Letter position",
+          "Symbols",
+          "Meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 591.09
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 459.288
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1086,
+      "markdown_body_line_end": 1098,
+      "heading": "4. Common full codes",
+      "preview": "Code | Climate meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 11,
+        "headers": [
+          "Code",
+          "Climate meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 437.288
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 179.487
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1102,
+      "markdown_body_line_end": 1102,
+      "heading": "➕ Isohyet & Isotherm (climatic-map PYQ gap)",
+      "preview": "✅ Grounded in Majid Husain + ⚠️ standard geography. Added to close a UPSC gap.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 179.487
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 127.019
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1109,
+      "markdown_body_line_end": 1113,
+      "heading": "➕ Isohyet & Isotherm (climatic-map PYQ gap)",
+      "preview": "Isoline | Joins equal values of | UPSC use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Isoline",
+          "Joins equal values of",
+          "UPSC use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 771.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 683.69
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1115,
+      "markdown_body_line_end": 1115,
+      "heading": "➕ Isohyet & Isotherm (climatic-map PYQ gap)",
+      "preview": "🔑 Trap: An isohyet is **rainfall**, not humidity; an isotherm is **temperature**, not heat budget.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 683.69
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 653.222
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1127,
+      "markdown_body_line_end": 1127,
+      "heading": "5. Must-Know Facts (Prelims) and UPSC traps",
+      "preview": "🔑 Trap: In Koppen, **B** is dry climate, not the second-coldest climate. It can be hot (BWh/BSh) or cold (BWk/BSk).",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 496.622
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 451.954
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1141,
+      "markdown_body_line_end": 1144,
+      "heading": "CA Anchor - Updating Köppen-Geiger Maps under Climate Change",
+      "preview": "Region | Old zone (1990s) | New trend (2025/26)",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Region",
+          "Old zone (1990s)",
+          "New trend (2025/26)"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 314.754
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 225.353
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1175,
+      "markdown_body_line_end": 1177,
+      "heading": "9. Applying and criticising the classification",
+      "preview": "**Why this section exists:** the file taught the Koppen code system but neither applied it to India nor placed it against the alternatives — so it could support a definition question but not an application or evaluation question.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 552.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 486.224
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1184,
+      "markdown_body_line_end": 1192,
+      "heading": "9.1 Koppen applied to India",
+      "preview": "Broad Koppen type | Physical cause | Indian expression | Consequence",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Broad Koppen type",
+          "Physical cause",
+          "Indian expression",
+          "Consequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 430.824
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 137.422
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1194,
+      "markdown_body_line_end": 1197,
+      "heading": "9.1 Koppen applied to India",
+      "preview": "🔑 **Trap:** the Western Ghats' windward slope and the Deccan interior lie at the **same latitude** and fall in **different Koppen groups**. Latitude alone therefore explains almost nothing here; relief and the moisture-bearing wind directio",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 137.422
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 64.354
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1199,
+      "markdown_body_line_end": 1201,
+      "heading": "9.1 Koppen applied to India",
+      "preview": "🔑 **Trap:** the same letter code appears in different continents with quite different vegetation and land use, because Koppen classifies **climate**, not biome or economy. Do not slide from a code to a livelihood without stating the interve",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1205,
+      "markdown_body_line_end": 1210,
+      "heading": "9.2 Koppen against the alternatives",
+      "preview": "Scheme | Basis | Strength | Weakness",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Scheme",
+          "Basis",
+          "Strength",
+          "Weakness"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 722.424
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 501.022
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1231,
+      "markdown_body_line_end": 1234,
+      "heading": "9.3 When climate zones move",
+      "preview": "⚠️ **Factual caution:** do **not** quote a percentage of area shifting class, a projected zone boundary for a given year, or a national-scale reclassification statistic. The file's existing caution against unsourced shift figures applies to",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 267.422
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 208.554
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1240,
+      "markdown_body_line_end": 1245,
+      "heading": "10.1 Directive decoding for this topic",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 768.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 580.49
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1267,
+      "markdown_body_line_end": 1272,
+      "heading": "10.3 Evidence units available in this file",
+      "preview": "**Claim:** climate classification is an argument about causes disguised as a system of labels. **Evidence:** the windward Western Ghats and the leeward Deccan interior share a latitude but fall into different Koppen groups. **Significance:*",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 324.89
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 215.622
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2348,
+      "markdown_body_line_end": 2351,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I & GS-III **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain + verified CA. ✅ = from source book · ⚠️ = inference / standard knowl",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 655.891
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 582.824
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2359,
+      "markdown_body_line_end": 2359,
+      "heading": "1. Koppen applied to India",
+      "preview": "🔑 Trap: India does not show all Koppen groups uniformly; D/E-type conditions are essentially high-altitude Himalayan, not lowland Indian climates.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 513.224
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 468.556
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2363,
+      "markdown_body_line_end": 2371,
+      "heading": "2. Koppen climatic regions of India",
+      "preview": "Koppen code | Climate type | Indian region",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Koppen code",
+          "Climate type",
+          "Indian region"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 446.556
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 228.754
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2375,
+      "markdown_body_line_end": 2379,
+      "heading": "3. Alternative schemes",
+      "preview": "Scheme | Basis | India-use note",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Scheme",
+          "Basis",
+          "India-use note"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 206.754
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 73.753
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2400,
+      "markdown_body_line_end": 2400,
+      "heading": "5. Must-Know Facts (Prelims) and UPSC traps",
+      "preview": "🔑 Trap: West Coast is **Amw**, not Aw; Aw is mainly peninsular interior savanna/dry-winter climate.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 530.491
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 500.024
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2414,
+      "markdown_body_line_end": 2418,
+      "heading": "CA Anchor - IMD Climate Hazards and Vulnerability Atlas of India",
+      "preview": "Layer | What it shows | Analytical caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Layer",
+          "What it shows",
+          "Analytical caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 348.624
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 249.222
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2451,
+      "markdown_body_line_end": 2462,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Classification design gate",
+      "preview": "PURPOSE -> comparison, explanation or planning",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 606.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 493.291
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2466,
+      "markdown_body_line_end": 2471,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Koppen major groups",
+      "preview": "A -> tropical thermal regime",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 471.291
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 419.491
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2475,
+      "markdown_body_line_end": 2480,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Tropical code grammar",
+      "preview": "Af -> no dry season",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 397.491
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 345.691
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2484,
+      "markdown_body_line_end": 2489,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Dry-climate gate",
+      "preview": "TEMPERATURE + RAIN SEASON -> dryness threshold",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 323.691
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 271.891
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2493,
+      "markdown_body_line_end": 2498,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: C-D threshold firewall",
+      "preview": "COLDEST MONTH -> C/D discriminator",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2502,
+      "markdown_body_line_end": 2507,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Normal-to-trend ladder",
+      "preview": "NORMAL -> stated 30-year reference",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2511,
+      "markdown_body_line_end": 2516,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Climate-boundary model",
+      "preview": "STATIONS / GRIDS -> measured variables",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 39
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2520,
+      "markdown_body_line_end": 2525,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: India control matrix",
+      "preview": "LATITUDE + ALTITUDE -> thermal structure",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2529,
+      "markdown_body_line_end": 2534,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: India code-map boundary",
+      "preview": "COMMON TYPES -> tropical, dry, subtropical, highland",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2538,
+      "markdown_body_line_end": 2549,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Classification comparison",
+      "preview": "KOPPEN -> temperature + precipitation thresholds",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2553,
+      "markdown_body_line_end": 2564,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Planning overlay",
+      "preview": "CLIMATE TYPE -> long-period thermal-rain pattern",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2568,
+      "markdown_body_line_end": 2573,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Climate answer spine",
+      "preview": "DEFINE -> purpose, variables and period",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 46
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    }
+  ]
+}

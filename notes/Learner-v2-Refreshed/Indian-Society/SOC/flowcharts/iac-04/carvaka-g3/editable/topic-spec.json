@@ -1,0 +1,1102 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "indian-society-04",
+  "subject": "Indian-Society",
+  "title": "FAMILY, MARRIAGE AND KINSHIP",
+  "short_route": "HOUSEHOLD FORMS → TWO KINDS OF NUCLEARISATION → NUCLEARISATION CHAIN → MARRIAGE RULE STACK → DESCENT SYSTEMS → FAMILY AS TRANSMITTER",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g3 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g3\\indian-society-04_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\indian-society-04-deep-review-2026-09-05-g3.json",
+  "ascii_spec_sha256": "d3f851856889f96370125860e2c19b79b7b372091e54b4c0ee0f80063aea8278",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "HOUSEHOLD FORMS",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "HOUSEHOLD FORMS",
+          "role": "primary"
+        },
+        {
+          "text": "MULTI-GENERATIONAL, MAY SHARE RESIDENCE OR PROPERTY",
+          "role": "outcome"
+        },
+        {
+          "text": "PARENTS AND UNMARRIED CHILDREN IN ONE HOUSEHOLD",
+          "role": "comparison"
+        },
+        {
+          "text": "SHARED FEATURE",
+          "role": "evidence"
+        },
+        {
+          "text": "OBLIGATION CAN OUTLIVE SHARED RESIDENCE",
+          "role": "primary"
+        },
+        {
+          "text": "CLASSIFY THE FORM, THEN TEST THE FUNCTION SEPARATELY",
+          "role": "outcome"
+        },
+        {
+          "text": "MUST REMEMBER",
+          "role": "comparison"
+        },
+        {
+          "text": "FAMILY, HOUSEHOLD, MARRIAGE AND KINSHIP ARE SEPARATE BUT CONNECTED",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "JOINT → multi-generational, may share residence or property",
+        "NUCLEAR → parents and unmarried children in one household",
+        "SHARED FEATURE → obligation can outlive shared residence",
+        "RULE → classify the form, then test the function separately",
+        "MUST REMEMBER: Family, household, marriage and kinship are separate but connected"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "JOINT → multi-generational, may share residence or property",
+          "RULE → classify the form, then test the function separately",
+          "nuclearisation, migration, education, work and law alter functions more than they simply dissolve families."
+        ],
+        [
+          "NUCLEAR → parents and unmarried children in one household",
+          "MUST REMEMBER: Family, household, marriage and kinship are separate but connected",
+          ""
+        ],
+        [
+          "SHARED FEATURE → obligation can outlive shared residence",
+          "institutions organising reproduction, care, property, residence, descent, alliance and identity",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "JOINT → multi-generational, may share residence or property",
+            "NUCLEAR → parents and unmarried children in one household",
+            "SHARED FEATURE → obligation can outlive shared residence"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "RULE → classify the form, then test the function separately",
+            "MUST REMEMBER: Family, household, marriage and kinship are separate but connected",
+            "institutions organising reproduction, care, property, residence, descent, alliance and identity"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "nuclearisation, migration, education, work and law alter functions more than they simply dissolve families."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → classify the form, then test the function separately.",
+      "source_references": [
+        "Joint and nuclear as forms",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g3\\indian-society-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "TWO KINDS OF NUCLEARISATION",
+      "structural_type": "dialectic",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "TWO KINDS OF NUCLEARISATION",
+          "role": "primary"
+        },
+        {
+          "text": "SEPARATE, SMALLER HOUSEHOLD RESIDENCE",
+          "role": "outcome"
+        },
+        {
+          "text": "INDEPENDENCE FROM SUPPORT AND DECISION AUTHORITY",
+          "role": "comparison"
+        },
+        {
+          "text": "STRUCTURE MOVES FIRST, FUNCTION LAGS BEHIND",
+          "role": "evidence"
+        },
+        {
+          "text": "ERROR PREVENTED",
+          "role": "primary"
+        },
+        {
+          "text": "READING SEPARATE RESIDENCE AS FAMILY DECLINE",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "STRUCTURAL → separate, smaller household residence",
+        "FUNCTIONAL → independence from support and decision authority",
+        "OBSERVED → structure moves first, function lags behind",
+        "ERROR PREVENTED → reading separate residence as family decline"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "STRUCTURAL → separate, smaller household residence",
+            "FUNCTIONAL → independence from support and decision authority"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OBSERVED → structure moves first, function lags behind",
+            "ERROR PREVENTED → reading separate residence as family decline"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "STRUCTURAL → separate, smaller household residence",
+            "FUNCTIONAL → independence from support and decision authority"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "ERROR PREVENTED → reading separate residence as family decline.",
+      "source_references": [
+        "Structural versus functional nuclearisation",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g3\\indian-society-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "NUCLEARISATION CHAIN",
+      "structural_type": "process-flow",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "NUCLEARISATION CHAIN",
+          "role": "primary"
+        },
+        {
+          "text": "EMPLOYMENT PULLS A UNIT OUT OF THE ANCESTRAL HOME",
+          "role": "outcome"
+        },
+        {
+          "text": "URBAN COST AND SPACE MAKE JOINT RESIDENCE IMPRACTICAL",
+          "role": "comparison"
+        },
+        {
+          "text": "REMITTANCE AND RITUAL PARTICIPATION CONTINUE",
+          "role": "evidence"
+        },
+        {
+          "text": "GENERATIONAL DRIFT",
+          "role": "primary"
+        },
+        {
+          "text": "TIES WEAKEN FOR THE MIGRANT'S CHILDREN",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "MIGRATION → employment pulls a unit out of the ancestral home",
+        "HOUSING → urban cost and space make joint residence impractical",
+        "PERSISTENCE → remittance and ritual participation continue",
+        "GENERATIONAL DRIFT → ties weaken for the migrant's children"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "MIGRATION → employment pulls a unit out of the ancestral home",
+            "HOUSING → urban cost and space make joint residence impractical"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PERSISTENCE → remittance and ritual participation continue",
+            "GENERATIONAL DRIFT → ties weaken for the migrant's children"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MIGRATION → employment pulls a unit out of the ancestral home",
+            "HOUSING → urban cost and space make joint residence impractical"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GENERATIONAL DRIFT → ties weaken for the migrant's children.",
+      "source_references": [
+        "The nuclearisation chain",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g3\\indian-society-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "MARRIAGE RULE STACK",
+      "structural_type": "hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MARRIAGE RULE STACK",
+          "role": "primary"
+        },
+        {
+          "text": "OUTER BOUNDARY IS THE CASTE OR SUB-CASTE",
+          "role": "outcome"
+        },
+        {
+          "text": "GOTRA EXOGAMY",
+          "role": "comparison"
+        },
+        {
+          "text": "CLAN LINEAGE EXCLUDED INSIDE THAT BOUNDARY",
+          "role": "evidence"
+        },
+        {
+          "text": "MONOGAMY, ARRANGED, SELF-CHOICE, RARE POLYGAMY",
+          "role": "primary"
+        },
+        {
+          "text": "REGION, CLASS, EDUCATION AND GENERATION",
+          "role": "outcome"
+        }
+      ],
+      "sequence": [
+        "ENDOGAMY → outer boundary is the caste or sub-caste",
+        "GOTRA EXOGAMY → clan lineage excluded inside that boundary",
+        "FORMS → monogamy, arranged, self-choice, rare polygamy",
+        "VARIATION → region, class, education and generation"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ENDOGAMY → outer boundary is the caste or sub-caste",
+            "GOTRA EXOGAMY → clan lineage excluded inside that boundary"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "FORMS → monogamy, arranged, self-choice, rare polygamy",
+            "VARIATION → region, class, education and generation"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "ENDOGAMY → outer boundary is the caste or sub-caste",
+            "GOTRA EXOGAMY → clan lineage excluded inside that boundary"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GOTRA EXOGAMY → clan lineage excluded inside that boundary.",
+      "source_references": [
+        "Endogamy and exogamy",
+        "Forms of marriage",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g3\\indian-society-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "DESCENT SYSTEMS",
+      "structural_type": "comparison",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DESCENT SYSTEMS",
+          "role": "primary"
+        },
+        {
+          "text": "DESCENT, SURNAME AND PROPERTY VIA THE FATHER",
+          "role": "outcome"
+        },
+        {
+          "text": "KHASI OF MEGHALAYA, TRADITIONALLY NAIR OF KERALA",
+          "role": "comparison"
+        },
+        {
+          "text": "KHASI DETAIL",
+          "role": "evidence"
+        },
+        {
+          "text": "YOUNGEST DAUGHTER CUSTOMARILY INHERITS THE HOME",
+          "role": "primary"
+        },
+        {
+          "text": "MATRILINY IS DESCENT, NOT MATRIARCHAL AUTHORITY",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "PATRILINEAL → descent, surname and property via the father",
+        "MATRILINEAL → Khasi of Meghalaya, traditionally Nair of Kerala",
+        "KHASI DETAIL → youngest daughter customarily inherits the home",
+        "CAUTION → matriliny is descent, not matriarchal authority"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "PATRILINEAL → descent, surname and property via the father",
+          "KHASI DETAIL → youngest daughter customarily inherits the home",
+          "PATRILINEAL → descent, surname and property via the father"
+        ],
+        [
+          "MATRILINEAL → Khasi of Meghalaya, traditionally Nair of Kerala",
+          "CAUTION → matriliny is descent, not matriarchal authority",
+          "MATRILINEAL → Khasi of Meghalaya, traditionally Nair of Kerala"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "PATRILINEAL → descent, surname and property via the father",
+            "MATRILINEAL → Khasi of Meghalaya, traditionally Nair of Kerala"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "KHASI DETAIL → youngest daughter customarily inherits the home",
+            "CAUTION → matriliny is descent, not matriarchal authority"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "PATRILINEAL → descent, surname and property via the father",
+            "MATRILINEAL → Khasi of Meghalaya, traditionally Nair of Kerala"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CAUTION → matriliny is descent, not matriarchal authority.",
+      "source_references": [
+        "Patrilineal descent",
+        "Matrilineal exceptions",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g3\\indian-society-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "FAMILY AS TRANSMITTER",
+      "structural_type": "causal-system",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "FAMILY AS TRANSMITTER",
+          "role": "primary"
+        },
+        {
+          "text": "CASTE, RELIGIOUS AND GENDER NORMS OF THE PREVIOUS GENERATION",
+          "role": "outcome"
+        },
+        {
+          "text": "SOCIALISATION OF CHILDREN INSIDE THE HOUSEHOLD",
+          "role": "comparison"
+        },
+        {
+          "text": "REPRODUCTION OR CONTESTATION OF THOSE NORMS",
+          "role": "evidence"
+        },
+        {
+          "text": "SOCIAL CHANGE APPEARS HERE BEFORE IT APPEARS IN LAW",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "FAMILY IS NOT HOUSEHOLD, JOINT IS NOT NECESSARILY CO-RESIDENT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "INPUT → caste, religious and gender norms of the previous generation",
+        "PROCESS → socialisation of children inside the household",
+        "OUTPUT → reproduction or contestation of those norms",
+        "SIGNAL → social change appears here before it appears in law",
+        "CLOSE DISTINCTION: Family is not household, joint is not necessarily co-resident, monogamy is not gender"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INPUT → caste, religious and gender norms of the previous generation",
+            "PROCESS → socialisation of children inside the household"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "OUTPUT → reproduction or contestation of those norms",
+            "SIGNAL → social change appears here before it appears in law"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "CLOSE DISTINCTION: Family is not household, joint is not necessarily co-resident, monogamy is not gender equality, patriarchy is",
+            "not identical across communities, and patriliny, matriliny, patrilocality, matrilocality, inheritance and authority must be compared on separate axes."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE DISTINCTION: Family is not household, joint is not necessarily co-resident, monogamy is not gender equality, patriarchy is not identical across communities, and patriliny, matriliny, patrilocality, matrilocality, inheritance and authority must be compared on separate axes.",
+      "source_references": [
+        "Family as socialisation unit",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g3\\indian-society-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "LAW AGAINST ACCEPTANCE",
+      "structural_type": "matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "LAW AGAINST ACCEPTANCE",
+          "role": "primary"
+        },
+        {
+          "text": "LEGALLY PROHIBITED, SOCIOLOGICALLY PERSISTENT",
+          "role": "outcome"
+        },
+        {
+          "text": "PROTECTION EXPANDED FASTER THAN SOCIAL NORMALISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "CIVIL MARRIAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "SPECIAL MARRIAGE ACT, 1954 ROUTE EXISTS",
+          "role": "institution"
+        },
+        {
+          "text": "A LEGAL ROUTE IS NOT A SOCIAL PERMISSION",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DOWRY → legally prohibited, sociologically persistent",
+        "LIVE-IN → protection expanded faster than social normalisation",
+        "CIVIL MARRIAGE → Special Marriage Act, 1954 route exists",
+        "RULE → a legal route is not a social permission"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "DOWRY → legally prohibited, sociologically persistent",
+          "CIVIL MARRIAGE → Special Marriage Act, 1954 route exists",
+          "DOWRY → legally prohibited, sociologically persistent"
+        ],
+        [
+          "LIVE-IN → protection expanded faster than social normalisation",
+          "RULE → a legal route is not a social permission",
+          "LIVE-IN → protection expanded faster than social normalisation"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DOWRY → legally prohibited, sociologically persistent",
+            "LIVE-IN → protection expanded faster than social normalisation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CIVIL MARRIAGE → Special Marriage Act, 1954 route exists",
+            "RULE → a legal route is not a social permission"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DOWRY → legally prohibited, sociologically persistent",
+            "LIVE-IN → protection expanded faster than social normalisation"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → a legal route is not a social permission.",
+      "source_references": [
+        "Dowry and the legal-social gap",
+        "Civil route versus social boundary",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g3\\indian-society-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "TWO BOUNDARIES COMPARED",
+      "structural_type": "comparison-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "TWO BOUNDARIES COMPARED",
+          "role": "primary"
+        },
+        {
+          "text": "PARITY PROTECTS FAMILY STATUS AND RESOURCES",
+          "role": "outcome"
+        },
+        {
+          "text": "BELONGING, KINSHIP AND COMMUNITY SANCTION",
+          "role": "comparison"
+        },
+        {
+          "text": "A CIVIL ROUTE EXISTS, SO LAW IS NOT THE",
+          "role": "caution"
+        },
+        {
+          "text": "DIFFERENT GUARDS PRODUCE DIFFERENT SPEEDS",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "INTERCASTE → parity protects family status and resources",
+        "INTERRELIGIOUS → belonging, kinship and community sanction",
+        "TEST → a civil route exists, so law is not the operative barrier",
+        "VERDICT → different guards produce different speeds"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "INTERCASTE → parity protects family status and resources",
+          "TEST → a civil route exists, so law is not the operative barrier",
+          "INTERCASTE → parity protects family status and resources"
+        ],
+        [
+          "INTERRELIGIOUS → belonging, kinship and community sanction",
+          "VERDICT → different guards produce different speeds",
+          "INTERRELIGIOUS → belonging, kinship and community sanction"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INTERCASTE → parity protects family status and resources",
+            "INTERRELIGIOUS → belonging, kinship and community sanction"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "TEST → a civil route exists, so law is not the operative barrier",
+            "VERDICT → different guards produce different speeds"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INTERCASTE → parity protects family status and resources",
+            "INTERRELIGIOUS → belonging, kinship and community sanction"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "TEST → a civil route exists, so law is not the operative barrier.",
+      "source_references": [
+        "Why the two marriage boundaries differ",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g3\\indian-society-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "WORK FROM HOME AUDIT",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "WORK FROM HOME AUDIT",
+          "role": "primary"
+        },
+        {
+          "text": "PRESENCE AT HOME, FLEXIBLE CARE, LESS COMMUTING",
+          "role": "outcome"
+        },
+        {
+          "text": "BLURRED WORK-CARE BOUNDARY IN SHARED SPACE",
+          "role": "comparison"
+        },
+        {
+          "text": "DOMESTIC LABOUR LOAD REPRODUCED BY GENDER NORMS",
+          "role": "evidence"
+        },
+        {
+          "text": "HOUSING, OCCUPATION AND CONTROL OVER TIME DECIDE",
+          "role": "primary"
+        }
+      ],
+      "sequence": [
+        "GAIN → presence at home, flexible care, less commuting",
+        "STRAIN → blurred work-care boundary in shared space",
+        "INEQUALITY → domestic labour load reproduced by gender norms",
+        "CONDITION → housing, occupation and control over time decide"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "GAIN → presence at home, flexible care, less commuting",
+            "STRAIN → blurred work-care boundary in shared space"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "INEQUALITY → domestic labour load reproduced by gender norms",
+            "CONDITION → housing, occupation and control over time decide"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "GAIN → presence at home, flexible care, less commuting",
+            "STRAIN → blurred work-care boundary in shared space"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CONDITION → housing, occupation and control over time decide.",
+      "source_references": [
+        "Work from home and family relationships",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g3\\indian-society-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "MEDIATED SOCIALISATION TEST",
+      "structural_type": "decision-tree",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "MEDIATED SOCIALISATION TEST",
+          "role": "primary"
+        },
+        {
+          "text": "WHAT DIRECT INTERACTION IS BEING REPLACED",
+          "role": "outcome"
+        },
+        {
+          "text": "AGE AND CONTEXT",
+          "role": "comparison"
+        },
+        {
+          "text": "WHAT THE CHILD NEEDS AT THIS STAGE",
+          "role": "evidence"
+        },
+        {
+          "text": "IS AN ADULT PRESENT IN THE DIGITAL INTERACTION",
+          "role": "primary"
+        },
+        {
+          "text": "CONTACT AND LEARNING THAT WOULD NOT OTHERWISE OCCUR",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "DISPLACED → what direct interaction is being replaced",
+        "AGE AND CONTEXT → what the child needs at this stage",
+        "MEDIATION → is an adult present in the digital interaction",
+        "GAIN → contact and learning that would not otherwise occur"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "DISPLACED → what direct interaction is being replaced",
+            "AGE AND CONTEXT → what the child needs at this stage"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MEDIATION → is an adult present in the digital interaction",
+            "GAIN → contact and learning that would not otherwise occur"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "DISPLACED → what direct interaction is being replaced",
+            "AGE AND CONTEXT → what the child needs at this stage"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "GAIN → contact and learning that would not otherwise occur.",
+      "source_references": [
+        "Mediated childhood socialisation",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g3\\indian-society-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "DATA BOUNDARY",
+      "structural_type": "evidence-table",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "DATA BOUNDARY",
+          "role": "primary"
+        },
+        {
+          "text": "NFHS-5 2019-21",
+          "role": "outcome"
+        },
+        {
+          "text": "NATIONAL TOTAL FERTILITY RATE OF 2.0",
+          "role": "comparison"
+        },
+        {
+          "text": "NFHS-6 2023-24",
+          "role": "evidence"
+        },
+        {
+          "text": "RELEASED ON 29 MAY 2026",
+          "role": "primary"
+        },
+        {
+          "text": "FERTILITY, NOT HOUSEHOLD FORM OR MARRIAGE ACCEPTANCE",
+          "role": "caution"
+        },
+        {
+          "text": "QUOTE A METRIC ONLY FROM ITS RELEASED FACT SHEET",
+          "role": "comparison"
+        }
+      ],
+      "sequence": [
+        "NFHS-5 2019-21 → national Total Fertility Rate of 2.0",
+        "NFHS-6 2023-24 → released on 29 May 2026",
+        "MEASURES → fertility, not household form or marriage acceptance",
+        "RULE → quote a metric only from its released fact sheet"
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "NFHS-5 2019-21 → national Total Fertility Rate of 2.0",
+          "MEASURES → fertility, not household form or marriage acceptance",
+          "NFHS-5 2019-21 → national Total Fertility Rate of 2.0"
+        ],
+        [
+          "NFHS-6 2023-24 → released on 29 May 2026",
+          "RULE → quote a metric only from its released fact sheet",
+          "NFHS-6 2023-24 → released on 29 May 2026"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "NFHS-5 2019-21 → national Total Fertility Rate of 2.0",
+            "NFHS-6 2023-24 → released on 29 May 2026"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "MEASURES → fertility, not household form or marriage acceptance",
+            "RULE → quote a metric only from its released fact sheet"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "NFHS-5 2019-21 → national Total Fertility Rate of 2.0",
+            "NFHS-6 2023-24 → released on 29 May 2026"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RULE → quote a metric only from its released fact sheet.",
+      "source_references": [
+        "Data boundaries and the answer spine",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g3\\indian-society-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "FAMILY ANSWER SPINE",
+      "structural_type": "answer-spine",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "FAMILY ANSWER SPINE",
+          "role": "primary"
+        },
+        {
+          "text": "REDISTRIBUTION OF FUNCTIONS, NOT INSTITUTIONAL DECLINE",
+          "role": "caution"
+        },
+        {
+          "text": "RESIDENCE, OBLIGATION, MARRIAGE BOUNDARY, SOCIALISATION",
+          "role": "comparison"
+        },
+        {
+          "text": "REGION, CLASS, GENDER NORMS AND MEDIATION",
+          "role": "evidence"
+        },
+        {
+          "text": "DIFFERENTIATED VERDICT WITH THE DATA CAVEAT",
+          "role": "primary"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "USE HINDU SUCCESSION REFORM, PERSONAL-LAW AND SPECIAL MARRIAGE ACT",
+          "role": "institution"
+        }
+      ],
+      "sequence": [
+        "OPEN → redistribution of functions, not institutional decline",
+        "BODY → residence, obligation, marriage boundary, socialisation",
+        "CONDITION → region, class, gender norms and mediation",
+        "CLOSE → differentiated verdict with the data caveat",
+        "EVIDENCE LIMIT: Use Hindu Succession reform, personal-law and Special Marriage Act boundaries with Khasi/Garo, Nair"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "OPEN → redistribution of functions, not institutional decline",
+            "BODY → residence, obligation, marriage boundary, socialisation"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CONDITION → region, class, gender norms and mediation",
+            "CLOSE → differentiated verdict with the data caveat"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "EVIDENCE LIMIT: Use Hindu Succession reform, personal-law and Special Marriage Act boundaries with Khasi/Garo, Nair, north Indian and",
+            "legal capacity and formal equality must not be reported as automatic bargaining power or social acceptance."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "CLOSE → differentiated verdict with the data caveat.",
+      "source_references": [
+        "Data boundaries and the answer spine",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\basic\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Indian-Society\\advanced\\04_Family-Marriage-and-Kinship.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Indian-Society\\SOC\\learning-sessions\\iac-04\\g3\\indian-society-04_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "MATRILINEAL SYSTEM'S AUTHORITY GAP",
+          "role": "outcome"
+        },
+        {
+          "text": "AMONG THE KHASI, PROPERTY PASSES THROUGH THE",
+          "role": "comparison"
+        },
+        {
+          "text": "LIVE-IN RELATIONSHIP JURISPRUDENCE (CROSS-LINKED)",
+          "role": "evidence"
+        },
+        {
+          "text": "PROTECTIVE RECOGNITION OF",
+          "role": "primary"
+        },
+        {
+          "text": "BOUNDARY CASE 1 — FUNCTIONAL JOINT FAMILY",
+          "role": "outcome"
+        },
+        {
+          "text": "AN URBAN NUCLEAR HOUSEHOLD THAT SENDS",
+          "role": "comparison"
+        },
+        {
+          "text": "BOUNDARY CASE 2 — GENUINE NUCLEARISATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "CAUTION: Matrilineal system's authority gap: among the Khasi, property passes through the",
+            "CAUTION: Live-in relationship jurisprudence (cross-linked): protective recognition of",
+            "CAUTION: Boundary case 1 — functional joint family: an urban nuclear household that sends",
+            "CAUTION: Boundary case 2 — genuine nuclearisation: a second-generation urban household with"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "CAUTION: Boundary case 3 — status-parity intercaste acceptance: two economically equal",
+            "CAUTION: Generalisation risk in nuclearisation claims: \"joint family is disappearing\" claims",
+            "CAUTION: Personal-law reform trade-off: unifying marriage/inheritance law across religions",
+            "CAUTION: Freedom-versus-family-cohesion trade-off: globalisation-driven personal-freedom"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "NFHS-5 (2019-21) recorded India's Total Fertility Rate at 2.0.",
+            "It is a historical comparator",
+            "the current released provisional national fact-sheet round is NFHS-6 (2023-24) and is relevant to family size, not",
+            "Among the Khasi, property passes through the youngest daughter, but customary public"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

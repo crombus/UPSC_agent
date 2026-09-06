@@ -1,0 +1,2051 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\geography-15_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "geography-15",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Hot Wet Equatorial Climate - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 403.824
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 174.822
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 50,
+      "markdown_body_line_end": 50,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-15\\g4\\assets\\geography-15_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 480.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 172.956
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 64,
+      "markdown_body_line_end": 64,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Af location and equatorial setting must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 77,
+      "markdown_body_line_end": 81,
+      "heading": "VISUAL FIRST",
+      "preview": "AF LOCATION AND EQUATORIAL SETTING",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 480.624
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 439.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 109,
+      "markdown_body_line_end": 116,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 131.224
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 128,
+      "markdown_body_line_end": 128,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Equatorial low and convection must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 649.523
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 582.855
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 143,
+      "markdown_body_line_end": 147,
+      "heading": "VISUAL FIRST",
+      "preview": "EQUATORIAL LOW AND CONVECTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 402.255
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 361.255
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 175,
+      "markdown_body_line_end": 182,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 81.255
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 735.273
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 194,
+      "markdown_body_line_end": 194,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Uniform heat and annual range must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 614.473
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 547.805
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 207,
+      "markdown_body_line_end": 211,
+      "heading": "VISUAL FIRST",
+      "preview": "UNIFORM HEAT AND ANNUAL RANGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 401.605
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 360.605
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 239,
+      "markdown_body_line_end": 246,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 66.405
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 735.273
+        }
+      },
+      "pdf_pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 258,
+      "markdown_body_line_end": 258,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Diurnal range exceeds annual range must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 600.273
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 533.605
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 273,
+      "markdown_body_line_end": 277,
+      "heading": "VISUAL FIRST",
+      "preview": "DIURNAL RANGE EXCEEDS ANNUAL RANGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 353.005
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 312.005
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 305,
+      "markdown_body_line_end": 312,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 697.973
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 324,
+      "markdown_body_line_end": 324,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Year-round rainfall regime must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 577.173
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 510.505
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 339,
+      "markdown_body_line_end": 343,
+      "heading": "VISUAL FIRST",
+      "preview": "YEAR-ROUND RAINFALL REGIME",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 329.905
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 288.905
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 371,
+      "markdown_body_line_end": 378,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 767.091
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 677.773
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 390,
+      "markdown_body_line_end": 390,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Afternoon storms and equinox maxima must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 542.773
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 476.105
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 405,
+      "markdown_body_line_end": 409,
+      "heading": "VISUAL FIRST",
+      "preview": "AFTERNOON STORMS AND EQUINOX MAXIMA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 437,
+      "markdown_body_line_end": 444,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 437.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 348.573
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 456,
+      "markdown_body_line_end": 456,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rainforest layers must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 227.773
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 161.105
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 469,
+      "markdown_body_line_end": 473,
+      "heading": "VISUAL FIRST",
+      "preview": "RAINFOREST LAYERS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 501,
+      "markdown_body_line_end": 508,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 452.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 363.923
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 520,
+      "markdown_body_line_end": 520,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Climbers, epiphytes and hardwood mix must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 228.923
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 162.255
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 534,
+      "markdown_body_line_end": 538,
+      "heading": "VISUAL FIRST",
+      "preview": "CLIMBERS, EPIPHYTES AND HARDWOOD MIX",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 706.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 566,
+      "markdown_body_line_end": 573,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 412.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 315.023
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 585,
+      "markdown_body_line_end": 585,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Nutrient paradox must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 194.223
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 127.555
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 600,
+      "markdown_body_line_end": 604,
+      "heading": "VISUAL FIRST",
+      "preview": "NUTRIENT PARADOX",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 672.491
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 632,
+      "markdown_body_line_end": 639,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 378.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 298.473
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 651,
+      "markdown_body_line_end": 651,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Shifting cultivation and fallow must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 177.673
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 111.005
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 665,
+      "markdown_body_line_end": 669,
+      "heading": "VISUAL FIRST",
+      "preview": "SHIFTING CULTIVATION AND FALLOW",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 672.491
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 697,
+      "markdown_body_line_end": 704,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 378.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 288.973
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 716,
+      "markdown_body_line_end": 716,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plantations and commercial forestry must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 153.973
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 87.305
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 731,
+      "markdown_body_line_end": 738,
+      "heading": "VISUAL FIRST",
+      "preview": "PLANTATIONS AND COMMERCIAL FORESTRY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 661.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 590.891
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 767,
+      "markdown_body_line_end": 774,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 251.091
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 153.423
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 786,
+      "markdown_body_line_end": 786,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India's equatorial-type boundary must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 801,
+      "markdown_body_line_end": 805,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA'S EQUATORIAL-TYPE BOUNDARY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 833,
+      "markdown_body_line_end": 840,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 111.024
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        20,
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 852,
+      "markdown_body_line_end": 852,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Indian evergreen distribution must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 635.323
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 568.655
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 867,
+      "markdown_body_line_end": 874,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIAN EVERGREEN DISTRIBUTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 57
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 388.055
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 317.055
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 903,
+      "markdown_body_line_end": 910,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 713.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 616.023
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 922,
+      "markdown_body_line_end": 922,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Biodiversity, jhum and FSI evidence must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 481.023
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 414.355
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 935,
+      "markdown_body_line_end": 945,
+      "heading": "VISUAL FIRST",
+      "preview": "BIODIVERSITY, JHUM AND FSI EVIDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 686.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 975,
+      "markdown_body_line_end": 982,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 244.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 138.073
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 994,
+      "markdown_body_line_end": 994,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Verified rainforest PYQ routes must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1009,
+      "markdown_body_line_end": 1016,
+      "heading": "VISUAL FIRST",
+      "preview": "VERIFIED RAINFOREST PYQ ROUTES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1045,
+      "markdown_body_line_end": 1052,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 636.223
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1056,
+      "markdown_body_line_end": 1059,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*. ✅ = from source book · ⚠️ = inference ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 636.223
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 541.155
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1065,
+      "markdown_body_line_end": 1071,
+      "heading": "1. What & Where (G.C. Leong)",
+      "preview": "Parameter | Book-grounded fact | UPSC significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Parameter",
+          "Book-grounded fact",
+          "UPSC significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 457.355
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 326.754
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1073,
+      "markdown_body_line_end": 1073,
+      "heading": "1. What & Where (G.C. Leong)",
+      "preview": "🔑 Trap: Equatorial climate is not a “summer-rainfall” climate like the monsoon; it has **rainfall all year round**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 326.754
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 282.086
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1081,
+      "markdown_body_line_end": 1088,
+      "heading": "2. Temperature & Rainfall Rhythm",
+      "preview": "Element | ✅ Characteristic | Why it matters",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Element",
+          "✅ Characteristic",
+          "Why it matters"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 651.49
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1090,
+      "markdown_body_line_end": 1090,
+      "heading": "2. Temperature & Rainfall Rhythm",
+      "preview": "🔑 Trap: Heavy rainfall does **not** create a large annual temperature range; the annual range is **very small**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 651.49
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 621.022
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1098,
+      "markdown_body_line_end": 1106,
+      "heading": "3. Tropical Rainforest / Selva",
+      "preview": "Layer / feature | ✅ Description",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Layer / feature",
+          "✅ Description"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 489.622
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 316.62
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1108,
+      "markdown_body_line_end": 1108,
+      "heading": "3. Tropical Rainforest / Selva",
+      "preview": "🔑 Trap: The hallmark of rainforest is **layered structure**, not uniform tree height.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 316.62
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 286.153
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1119,
+      "markdown_body_line_end": 1125,
+      "heading": "4. Human Response & Economic Use",
+      "preview": "Activity | ✅ Book-grounded point",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Activity",
+          "✅ Book-grounded point"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 661.49
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1165,
+      "markdown_body_line_end": 1169,
+      "heading": "9.1 Directive decoding",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 768.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 601.69
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1173,
+      "markdown_body_line_end": 1181,
+      "heading": "9.2 The nutrient paradox - the single most valuable idea in this topic",
+      "preview": "**Claim:** the richest vegetation on Earth stands on some of the poorest soils. **Evidence:** in the hot, perpetually wet equatorial regime, decomposition is extremely rapid and heavy rainfall leaches bases downward, so the nutrient capital",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 601.69
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 464.022
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1213,
+      "markdown_body_line_end": 1215,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1221,
+      "markdown_body_line_end": 1224,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 676.824
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 538.422
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1231,
+      "markdown_body_line_end": 1231,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 482.022
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 437.354
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2085,
+      "markdown_body_line_end": 2087,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 405.491
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 324.624
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2093,
+      "markdown_body_line_end": 2096,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 273.024
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 134.622
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2103,
+      "markdown_body_line_end": 2103,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2389,
+      "markdown_body_line_end": 2392,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain + verified CA. ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 486.691
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 427.824
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2401,
+      "markdown_body_line_end": 2406,
+      "heading": "1. India's Equatorial Analogue",
+      "preview": "Region | ✅ Book-grounded vegetation note | Exam hook",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Region",
+          "✅ Book-grounded vegetation note",
+          "Exam hook"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 344.024
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 201.022
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2408,
+      "markdown_body_line_end": 2408,
+      "heading": "1. India's Equatorial Analogue",
+      "preview": "🔑 Trap: India has **equatorial-type evergreen forests**, not a true equatorial climate zone.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 201.022
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 170.554
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2416,
+      "markdown_body_line_end": 2423,
+      "heading": "2. Climate Controls & Forest Structure",
+      "preview": "Feature | ✅ India-specific expression",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Feature",
+          "✅ India-specific expression"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 640.29
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2477,
+      "markdown_body_line_end": 2488,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Equatorial climate map",
+      "preview": "EQUATOR -> persistent high solar receipt",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 565.691
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 452.691
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2492,
+      "markdown_body_line_end": 2497,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Convection day cycle",
+      "preview": "MORNING SUN -> moist surface heating",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 430.691
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 378.891
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2501,
+      "markdown_body_line_end": 2506,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Temperature-range firewall",
+      "preview": "ANNUAL RANGE -> usually very small",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 42
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 356.891
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 305.091
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2510,
+      "markdown_body_line_end": 2515,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Rainfall identity",
+      "preview": "RAIN ALL MONTHS -> supports Af reading",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2519,
+      "markdown_body_line_end": 2524,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Rainforest vertical profile",
+      "preview": "EMERGENTS -> crowns above main roof",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 37
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2528,
+      "markdown_body_line_end": 2533,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Nutrient-cycle loop",
+      "preview": "LITTER -> rapid warm-wet decomposition",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2537,
+      "markdown_body_line_end": 2542,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Fallow decision",
+      "preview": "SMALL CLEARING + LONG FALLOW -> recovery",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 43
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 514.091
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2546,
+      "markdown_body_line_end": 2551,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Humid-tropics economy",
+      "preview": "PLANTATION -> capital + labour + export crop",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 492.091
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 440.291
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2555,
+      "markdown_body_line_end": 2560,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: India analogue map",
+      "preview": "WESTERN GHATS -> windward evergreen belt",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 418.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 366.491
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2564,
+      "markdown_body_line_end": 2575,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Official evidence firewall",
+      "preview": "FSI REPORT -> dated biennial assessment",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 344.491
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 231.491
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2579,
+      "markdown_body_line_end": 2590,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Verified PYQ pair",
+      "preview": "2021 -> rainforest vegetation structure",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2594,
+      "markdown_body_line_end": 2599,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Equatorial answer spine",
+      "preview": "LOCATE -> equatorial lowland belt",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    }
+  ]
+}

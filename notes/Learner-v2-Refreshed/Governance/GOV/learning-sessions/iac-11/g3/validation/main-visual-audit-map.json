@@ -1,0 +1,2024 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-11\\g3\\governance-11_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-11\\g3\\governance-11_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "governance-11",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Regulatory Governance and Independent Regulators - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-02. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 29,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 682.491
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 388.69
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-11\\g3\\assets\\governance-11_Teaching-Navigation_2026-09-02.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 766.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 459.356
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Why independent sectoral regulators exist should be analysed as a relation among Why independent sectoral regulators exist, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 243.556
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 176.888
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 82,
+      "heading": "VISUAL FIRST",
+      "preview": "WHY INDEPENDENT SECTORAL REGULATORS EXIST",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 99
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 719.491
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 678.491
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 110,
+      "markdown_body_line_end": 117,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 299.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 193.073
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 129,
+      "markdown_body_line_end": 129,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Every regulator is a creature of its own statute should be analysed as a relation among Every regulator is a creature of its own statute, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 769.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 703.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 144,
+      "markdown_body_line_end": 148,
+      "heading": "VISUAL FIRST",
+      "preview": "EVERY REGULATOR IS A CREATURE OF ITS OWN STATUTE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 508.424
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 467.424
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 176,
+      "markdown_body_line_end": 183,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 59.624
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 718.573
+        }
+      },
+      "pdf_pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 195,
+      "markdown_body_line_end": 195,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The autonomy, accountability and expertise trilemma should be analysed as a relation among The autonomy, accountability and expertise trilemma, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 536.173
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 469.505
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 210,
+      "markdown_body_line_end": 214,
+      "heading": "VISUAL FIRST",
+      "preview": "THE AUTONOMY, ACCOUNTABILITY AND EXPERTISE TRILEMMA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 242,
+      "markdown_body_line_end": 249,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 366.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 260.873
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 261,
+      "markdown_body_line_end": 261,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Pairing autonomy features with accountability counterparts should be analysed as a relation among Autonomy features paired with their accountability counterparts, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 276,
+      "markdown_body_line_end": 280,
+      "heading": "VISUAL FIRST",
+      "preview": "PAIRING AUTONOMY FEATURES WITH ACCOUNTABILITY COUNTERPARTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 93
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 492.624
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 308,
+      "markdown_body_line_end": 315,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 84.824
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 718.573
+        }
+      },
+      "pdf_pages": [
+        13,
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 327,
+      "markdown_body_line_end": 327,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "De jure against de facto independence should be analysed as a relation among De jure against de facto independence, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 555.173
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 488.505
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 342,
+      "markdown_body_line_end": 346,
+      "heading": "VISUAL FIRST",
+      "preview": "DE JURE AGAINST DE FACTO INDEPENDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 374,
+      "markdown_body_line_end": 381,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 395.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 289.273
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 393,
+      "markdown_body_line_end": 393,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The independence spectrum as the analytical question should be analysed as a relation among The independence spectrum as the analytical question, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 106.873
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 40.205
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 408,
+      "markdown_body_line_end": 412,
+      "heading": "VISUAL FIRST",
+      "preview": "THE INDEPENDENCE SPECTRUM AS THE ANALYTICAL QUESTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 600.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 559.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 440,
+      "markdown_body_line_end": 447,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 208.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 102.273
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 459,
+      "markdown_body_line_end": 459,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Regulatory capture without any illegal transaction should be analysed as a relation among Regulatory capture without any illegal transaction, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 474,
+      "markdown_body_line_end": 478,
+      "heading": "VISUAL FIRST",
+      "preview": "REGULATORY CAPTURE WITHOUT ANY ILLEGAL TRANSACTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 356.224
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 315.224
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 506,
+      "markdown_body_line_end": 513,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 666.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 568.623
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 525,
+      "markdown_body_line_end": 525,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ministerial capture and the procedural correctives should be analysed as a relation among The opposite failure of ministerial capture, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 386.223
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 319.555
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 540,
+      "markdown_body_line_end": 544,
+      "heading": "VISUAL FIRST",
+      "preview": "MINISTERIAL CAPTURE AND THE PROCEDURAL CORRECTIVES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 572,
+      "markdown_body_line_end": 579,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 366.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 269.223
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 591,
+      "markdown_body_line_end": 591,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The six-test regulator design checklist should be analysed as a relation among The six-test regulator design checklist, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 105.823
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 39.155
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 606,
+      "markdown_body_line_end": 610,
+      "heading": "VISUAL FIRST",
+      "preview": "THE SIX-TEST REGULATOR DESIGN CHECKLIST",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 600.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 559.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 638,
+      "markdown_body_line_end": 645,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 151.491
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 45.473
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 657,
+      "markdown_body_line_end": 657,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Process legitimacy and impact assessment should be analysed as a relation among Process legitimacy and regulatory impact assessment, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 650.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 584.224
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 672,
+      "markdown_body_line_end": 676,
+      "heading": "VISUAL FIRST",
+      "preview": "PROCESS LEGITIMACY AND IMPACT ASSESSMENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 103
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 375.224
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 324.224
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 704,
+      "markdown_body_line_end": 711,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 666.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 560.273
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 723,
+      "markdown_body_line_end": 723,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The competition regulator and its parent statute should be analysed as a relation among The competition regulator and its parent statute, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 377.873
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 311.205
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 738,
+      "markdown_body_line_end": 742,
+      "heading": "VISUAL FIRST",
+      "preview": "THE COMPETITION REGULATOR AND ITS PARENT STATUTE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 770,
+      "markdown_body_line_end": 777,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 328.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 222.473
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 789,
+      "markdown_body_line_end": 789,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Dominance, abuse and the two regulatory clocks should be analysed as a relation among Dominance is not unlawful and the forms abuse takes and Ex-ante sector regulation against ex-post conduct regulation, not as a list of virtues attached to",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 703.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 804,
+      "markdown_body_line_end": 811,
+      "heading": "VISUAL FIRST",
+      "preview": "DOMINANCE, ABUSE AND THE TWO REGULATORY CLOCKS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 494.224
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 423.224
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 840,
+      "markdown_body_line_end": 847,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 595.691
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 481.323
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 859,
+      "markdown_body_line_end": 859,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Tribunalisation and what the 2021 statute actually did should be analysed as a relation among Tribunalisation with its dual rationale and dual risk and What the Tribunals Reforms Act, 2021 actually did, not as a list of virtues attached to ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 284.723
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 203.855
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 874,
+      "markdown_body_line_end": 881,
+      "heading": "VISUAL FIRST",
+      "preview": "TRIBUNALISATION AND WHAT THE 2021 STATUTE ACTUALLY DID",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 691.091
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 910,
+      "markdown_body_line_end": 917,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 152.491
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 38.123
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 929,
+      "markdown_body_line_end": 929,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The 2025 judgment and the unresolved commission should be analysed as a relation among The 2025 judgment and its four heads of invalidation and The interim continuity order and the unresolved commission, not as a list of virtues attached to",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 617.691
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 536.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 944,
+      "markdown_body_line_end": 951,
+      "heading": "VISUAL FIRST",
+      "preview": "THE 2025 JUDGMENT AND THE UNRESOLVED COMMISSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 327.824
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 256.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 980,
+      "markdown_body_line_end": 987,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 420.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 306.123
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 999,
+      "markdown_body_line_end": 999,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Architecture reform, trust-based regulation and honest ownership should be analysed as a relation among The financial-sector commission and regulation by activity, Trust-based regulation and proportionate decriminalisation and Verified ques",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1014,
+      "markdown_body_line_end": 1024,
+      "heading": "VISUAL FIRST",
+      "preview": "ARCHITECTURE REFORM, TRUST-BASED REGULATION AND HONEST OWNERSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 104
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 505.224
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 394.224
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1061,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 247.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 116.023
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1065,
+      "markdown_body_line_end": 1072,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Governance | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II. **Core area:** Sectoral regulators, the autonomy-accountability-expertise trilemma, regulatory capture, tribunalisation and the Tribunals Reforms Act, 2021. **G",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 685.824
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1076,
+      "markdown_body_line_end": 1100,
+      "heading": "1. Visual foundation",
+      "preview": "WHY INDEPENDENT SECTORAL REGULATORS EXIST",
+      "metadata": {
+        "language": "text",
+        "line_count": 23,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 663.824
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 422.824
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1110,
+      "markdown_body_line_end": 1117,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 277.09
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1242,
+      "markdown_body_line_end": 1246,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Independent regulators and specialised tribunals exist to bring technical expertise and speed to complex sectoral governance, but both require continuous institutional calibration of autonomy against accountability to avo",
+      "metadata": {
+        "line_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 157.891
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 84.824
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1273,
+      "markdown_body_line_end": 1278,
+      "heading": "13. Answer architecture (10/15/20-mark support)",
+      "preview": "**Scope.** All marks-bearing content for the *statutory, regulatory and quasi-judicial bodies* clause, as it concerns **regulatory governance**, is held **in this file**, including the CCI demand routed here. `advanced/11` is optional enric",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 508.091
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 384.624
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1327,
+      "markdown_body_line_end": 1334,
+      "heading": "13.1 Demand map",
+      "preview": "Stem pattern | What is being tested | Opening move",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Stem pattern",
+          "What is being tested",
+          "Opening move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 577.491
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 358.49
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1369,
+      "markdown_body_line_end": 1375,
+      "heading": "13.4 Evidence bank A - autonomy and accountability as design features",
+      "preview": "Autonomy feature | What it protects | Accountability feature | What it restores",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Autonomy feature",
+          "What it protects",
+          "Accountability feature",
+          "What it restores"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 724.491
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 535.09
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1398,
+      "markdown_body_line_end": 1414,
+      "heading": "13.6 Causal chain - from independence design to capture (and correction)",
+      "preview": "TECHNICAL COMPLEXITY + NEED FOR PREDICTABILITY -> statutory regulator created",
+      "metadata": {
+        "language": "text",
+        "line_count": 15,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 263.49
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 102.49
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1422,
+      "markdown_body_line_end": 1430,
+      "heading": "13.7 Evidence bank B - Indian anchors",
+      "preview": "Anchor | What it is | Governance point | Caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Anchor",
+          "What it is",
+          "Governance point",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 241.89
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1501,
+      "markdown_body_line_end": 1503,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** Th",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 136.691
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 41.624
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1509,
+      "markdown_body_line_end": 1513,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 751.691
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 529.79
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1521,
+      "markdown_body_line_end": 1521,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 456.19
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 411.522
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2408,
+      "markdown_body_line_end": 2410,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** Th",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2416,
+      "markdown_body_line_end": 2420,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 3,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 662.624
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 440.722
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2428,
+      "markdown_body_line_end": 2428,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 92,
+          "frame_y": 367.122
+        },
+        "end": {
+          "page": 92,
+          "frame_y": 322.454
+        }
+      },
+      "pdf_pages": [
+        92
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2757,
+      "markdown_body_line_end": 2764,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Governance | **Tier:** Advanced | **GS Paper:** GS-II. **Core area:** Sectoral regulators, the autonomy-accountability-expertise trilemma, regulatory capture, tribunalisation and the Tribunals Reforms Act, 2021. **Grounded in:*",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 110,
+          "frame_y": 341.691
+        },
+        "end": {
+          "page": 110,
+          "frame_y": 240.224
+        }
+      },
+      "pdf_pages": [
+        110
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2768,
+      "markdown_body_line_end": 2785,
+      "heading": "1. Architecture",
+      "preview": "REGULATORY INDEPENDENCE SPECTRUM",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 616.291
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2794,
+      "markdown_body_line_end": 2799,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 111,
+          "frame_y": 537.491
+        },
+        "end": {
+          "page": 111,
+          "frame_y": 103.29
+        }
+      },
+      "pdf_pages": [
+        111
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3030,
+      "markdown_body_line_end": 3036,
+      "heading": "Regulatory Governance and Independent Regulators: ANSWER-WRITING SPINE",
+      "preview": "NAME THE NORM OR PROBLEM -> IDENTIFY THE DUTY-HOLDER AND THE BINDING FORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 118,
+          "frame_y": 632.491
+        },
+        "end": {
+          "page": 118,
+          "frame_y": 571.491
+        }
+      },
+      "pdf_pages": [
+        118
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3046,
+      "markdown_body_line_end": 3052,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Why a statutory regulator is created",
+      "preview": "TECHNICAL COMPLEXITY -> generalist departments cannot set or police detailed sector rules",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 119,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 119,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        119
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3056,
+      "markdown_body_line_end": 3062,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Trilemma with paired design features",
+      "preview": "AUTONOMY: fixed-term appointment -> ACCOUNTABILITY: annual report laid before Parliament",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 119,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 119,
+          "frame_y": 641.291
+        }
+      },
+      "pdf_pages": [
+        119
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3066,
+      "markdown_body_line_end": 3071,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Independence spectrum",
+      "preview": "LOW END -> a ministry-controlled department: strong political control, weak insulation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 119,
+          "frame_y": 619.291
+        },
+        "end": {
+          "page": 119,
+          "frame_y": 567.491
+        }
+      },
+      "pdf_pages": [
+        119
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3075,
+      "markdown_body_line_end": 3081,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: How capture happens lawfully",
+      "preview": "INFORMATION ASYMMETRY -> the industry knows the sector better than the regulator",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 119,
+          "frame_y": 545.491
+        },
+        "end": {
+          "page": 119,
+          "frame_y": 483.491
+        }
+      },
+      "pdf_pages": [
+        119
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3085,
+      "markdown_body_line_end": 3090,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Two directions of failure",
+      "preview": "INDUSTRY CAPTURE -> rules that serve incumbents and exclude entrants",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 119,
+          "frame_y": 461.491
+        },
+        "end": {
+          "page": 119,
+          "frame_y": 409.691
+        }
+      },
+      "pdf_pages": [
+        119
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3094,
+      "markdown_body_line_end": 3102,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Six-test design checklist",
+      "preview": "1 STATUTORY MANDATE -> what exactly is it empowered to do, and by which Act",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 7,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 119,
+          "frame_y": 387.691
+        },
+        "end": {
+          "page": 119,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        119
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3106,
+      "markdown_body_line_end": 3112,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Competition regulator card",
+      "preview": "PARENT STATUTE -> the Competition Act, 2002",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 86
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 725.291
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3116,
+      "markdown_body_line_end": 3121,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Dominance against abuse",
+      "preview": "LAWFUL -> holding a dominant position in a defined relevant market",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 703.291
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3125,
+      "markdown_body_line_end": 3130,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Two regulatory clocks",
+      "preview": "SECTOR REGULATOR -> ex-ante: licences, tariffs, technical standards, entry conditions",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 85
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 629.491
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 577.691
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3134,
+      "markdown_body_line_end": 3141,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Tribunal reform timeline",
+      "preview": "2021 -> the Tribunals Reforms Act abolishes named appellate bodies, functions to High Courts",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 6,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 555.691
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 483.491
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3145,
+      "markdown_body_line_end": 3150,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Architecture proposal against adoption",
+      "preview": "PROPOSAL -> a Unified Financial Agency on a regulation-by-activity principle, 2013",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 84
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 461.491
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 409.691
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3154,
+      "markdown_body_line_end": 3160,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Answer spine for a regulatory demand",
+      "preview": "OPEN -> statutory character first: statutory, not constitutional, not executive-created",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 90
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 120,
+          "frame_y": 387.691
+        },
+        "end": {
+          "page": 120,
+          "frame_y": 325.691
+        }
+      },
+      "pdf_pages": [
+        120
+      ]
+    }
+  ]
+}

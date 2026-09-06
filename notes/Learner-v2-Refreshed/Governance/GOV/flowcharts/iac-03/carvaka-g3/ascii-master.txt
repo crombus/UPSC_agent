@@ -1,0 +1,74 @@
+ASCII MASTER FLOW — PANEL 1/12: Four actors, one system
+FUNDERS -> bilateral and multilateral donors, foundations, corporate programmes
+LEGAL VEHICLES -> public charitable trust, society, Section 8 company
+IMPLEMENTERS -> non-governmental organisations and self-help group federations
+RULE -> separate funding source from legal vehicle from last-mile implementer
+MUST REMEMBER: Development processes join state institutions, markets, communities, civil...
+
+ASCII MASTER FLOW — PANEL 2/12: Legal vehicle card
+TRUST -> deed plus state public-trust law; the 1882 Trusts Act excludes charitable endowments
+SOCIETY -> Societies Registration Act, 1860 and state variants; membership-based accountability
+SECTION 8 COMPANY -> Companies Act, 2013; profits may not be distributed to members
+SCRUTINY LADDER -> trust below society below Section 8 company in external disclosure
+
+ASCII MASTER FLOW — PANEL 3/12: Corporate social responsibility card
+SECTION 135 -> statutory minimum spend of two per cent of average net profits of preceding years
+APPLICABILITY -> companies crossing specified net worth, turnover or net profit thresholds
+SCHEDULE VII -> bounded activity list: health, education, poverty, environment, rural development
+RULES LAYER -> CSR-2 reporting and impact assessment come from the CSR Policy Rules, not the section
+
+ASCII MASTER FLOW — PANEL 4/12: Four regulatory layers
+INCORPORATION -> state registrar or Registrar of Companies; legal existence only
+FOREIGN FUNDING -> Ministry of Home Affairs under the 2010 Act as amended in 2020
+TAX STATUS -> Income Tax Department, Sections 12A and 80G; exemption and donor deduction
+GRANT IDENTITY -> NITI Aayog NGO Darpan unique identification; not permission
+
+ASCII MASTER FLOW — PANEL 5/12: The foreign-contribution gate
+ROUTE ONE -> registration for ongoing receipt of foreign contribution
+ROUTE TWO -> case-specific prior permission for a defined contribution
+CONDITIONS -> designated account at the State Bank of India main branch, New Delhi
+LIMITS -> administrative-expense proportion capped; sub-granting between entities restricted
+
+ASCII MASTER FLOW — PANEL 6/12: Funding to outcome
+FUNDING SOURCE -> project cycle, founder priority or Schedule VII compliance sets the frame
+LEGAL VEHICLE -> determines disclosure and governance quality available to a beneficiary
+IMPLEMENTER -> local social capital and capacity determine last-mile fidelity
+ACCOUNTABILITY -> upward to donor and regulator; never downward to the beneficiary
+CLOSE DISTINCTION: Development industry is an analytical label for organisations,...
+
+ASCII MASTER FLOW — PANEL 7/12: Five-test grid
+ADDITIONALITY -> adds capacity, or substitutes for a public obligation still owed
+NEED-FIT -> chosen from disaggregated exclusion data, or from the funder priority
+ACCOUNTABILITY -> can a beneficiary obtain records, complain and force correction
+SUSTAINABILITY AND FIT -> who operates after the grant, and is it converged with the district plan
+
+ASCII MASTER FLOW — PANEL 8/12: Substitution against complementarity
+SUBSTITUTION -> non-state delivery is a symptom of state failure and may entrench it
+COMPLEMENTARITY -> flexibility, speed and risk-taking are structurally easier outside procurement
+RESOLUTION -> the additionality test decides the case rather than the thesis
+AGGREGATE RISK -> duplication and visible-need bias where convergence is absent
+
+ASCII MASTER FLOW — PANEL 9/12: Visible-need bias
+DRIVER -> Schedule VII list plus reputational incentive
+EFFECT -> crowding into school buildings, sanitation hardware and other legible sectors
+SHORTFALL -> mental health, care work, legal aid and disability access stay underfunded
+DIAGNOSIS -> a convergence failure, not a failure of generosity
+
+ASCII MASTER FLOW — PANEL 10/12: Multi-level planning card
+TIERS -> Union, state, district and local plan what each is best placed to know
+CONSOLIDATION -> District Planning Committee under Article 243ZD; operationalisation uneven
+FISCAL PRECONDITION -> the State Finance Commission
+DEMONSTRATION -> Kerala People's Plan Campaign, 1996; funds, functions and functionaries together
+
+ASCII MASTER FLOW — PANEL 11/12: Four donor-distortion channels
+AGENDA -> donor priority sets the problem before local need is assessed
+METRIC -> reporting rewards countable outputs, so participatory process is cut first
+CYCLE -> project-based time-bound grants mismatch a multi-year institution-building horizon
+ACCOUNTABILITY SUBSTITUTION -> upward reporting replaces downward answerability
+
+ASCII MASTER FLOW — PANEL 12/12: Answer spine for a distance demand
+OPEN -> name distance as an institutional property of the funding chain, not only of the state
+BUILD -> four channels, then the five-test grid applied to one case
+CORRECT -> convergence with the local plan, co-decision, exit planning, disclosed funding and cost
+CLOSE -> graded verdict recording the one open routing conflict rather than concealing it
+EVIDENCE LIMIT: AUTHORITY / IMPLEMENTATION: Use SHG-bank linkage, district missions,...

@@ -1,0 +1,2202 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g5\\geography-09_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g5\\geography-09_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "geography-09",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Lakes / India Lakes and Wetlands - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 418.024
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 189.022
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 54,
+      "markdown_body_line_end": 54,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-09\\g5\\assets\\geography-09_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 369.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 61.556
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 68,
+      "markdown_body_line_end": 68,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Lake, pond, reservoir and wetland must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 634.891
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 568.224
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 82,
+      "markdown_body_line_end": 86,
+      "heading": "VISUAL FIRST",
+      "preview": "LAKE, POND, RESERVOIR AND WETLAND",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 404.824
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 363.824
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 114,
+      "markdown_body_line_end": 121,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 83.824
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 726.923
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 133,
+      "markdown_body_line_end": 133,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "How lake basins form must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 606.123
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 539.455
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 147,
+      "markdown_body_line_end": 151,
+      "heading": "VISUAL FIRST",
+      "preview": "HOW LAKE BASINS FORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 376.055
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 335.055
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 179,
+      "markdown_body_line_end": 186,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 55.055
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 713.973
+        }
+      },
+      "pdf_pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 198,
+      "markdown_body_line_end": 198,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Lake water budget must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 593.173
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 526.505
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 212,
+      "markdown_body_line_end": 216,
+      "heading": "VISUAL FIRST",
+      "preview": "LAKE WATER BUDGET",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 348.905
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 307.905
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 244,
+      "markdown_body_line_end": 251,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 707.473
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 263,
+      "markdown_body_line_end": 263,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Stratification, turnover and residence must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 586.673
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 520.005
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 276,
+      "markdown_body_line_end": 280,
+      "heading": "VISUAL FIRST",
+      "preview": "STRATIFICATION, TURNOVER AND RESIDENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 373.805
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 332.805
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 308,
+      "markdown_body_line_end": 315,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 38.605
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 713.973
+        }
+      },
+      "pdf_pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 327,
+      "markdown_body_line_end": 327,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Trophic states and eutrophication must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 578.973
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 512.305
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 341,
+      "markdown_body_line_end": 348,
+      "heading": "VISUAL FIRST",
+      "preview": "TROPHIC STATES AND EUTROPHICATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 348.905
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 277.905
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 377,
+      "markdown_body_line_end": 384,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 713.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 616.023
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 396,
+      "markdown_body_line_end": 396,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Two modes of lake loss must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 481.023
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 414.355
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 411,
+      "markdown_body_line_end": 418,
+      "heading": "VISUAL FIRST",
+      "preview": "TWO MODES OF LAKE LOSS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 447,
+      "markdown_body_line_end": 454,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 376.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 278.823
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 466,
+      "markdown_body_line_end": 466,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Wetland functions and limits must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 158.023
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 91.355
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 481,
+      "markdown_body_line_end": 485,
+      "heading": "VISUAL FIRST",
+      "preview": "WETLAND FUNCTIONS AND LIMITS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 679.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 638.091
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 513,
+      "markdown_body_line_end": 520,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 358.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 268.773
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 532,
+      "markdown_body_line_end": 532,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Hydroperiod and connectivity must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 147.973
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 81.305
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 547,
+      "markdown_body_line_end": 551,
+      "heading": "VISUAL FIRST",
+      "preview": "HYDROPERIOD AND CONNECTIVITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 661.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 620.891
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 579,
+      "markdown_body_line_end": 586,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 340.891
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 243.223
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 598,
+      "markdown_body_line_end": 598,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Indian lake-origin map must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 122.423
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 55.755
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 611,
+      "markdown_body_line_end": 615,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIAN LAKE-ORIGIN MAP",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 663.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 622.091
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 643,
+      "markdown_body_line_end": 650,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 342.091
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 252.773
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 662,
+      "markdown_body_line_end": 662,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "River-lake and phumdi hooks must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 131.973
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 65.305
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 677,
+      "markdown_body_line_end": 681,
+      "heading": "VISUAL FIRST",
+      "preview": "RIVER-LAKE AND PHUMDI HOOKS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 587.691
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 709,
+      "markdown_body_line_end": 716,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 307.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 218.373
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 728,
+      "markdown_body_line_end": 728,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Urban reclamation must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 743,
+      "markdown_body_line_end": 747,
+      "heading": "VISUAL FIRST",
+      "preview": "URBAN RECLAMATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 562.024
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 521.024
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 775,
+      "markdown_body_line_end": 782,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 241.024
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 161.205
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 794,
+      "markdown_body_line_end": 794,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Threat diagnosis and restoration must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 808,
+      "markdown_body_line_end": 815,
+      "heading": "VISUAL FIRST",
+      "preview": "THREAT DIAGNOSIS AND RESTORATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 435.024
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 364.024
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 844,
+      "markdown_body_line_end": 851,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 689.623
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 863,
+      "markdown_body_line_end": 863,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Ramsar wise use and Montreux must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 554.623
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 487.955
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 876,
+      "markdown_body_line_end": 883,
+      "heading": "VISUAL FIRST",
+      "preview": "RAMSAR WISE USE AND MONTREUX",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 80
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 327.555
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 256.555
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 912,
+      "markdown_body_line_end": 919,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 680.491
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 582.823
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 931,
+      "markdown_body_line_end": 931,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Wetlands Rules and programmes must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 447.823
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 381.155
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 945,
+      "markdown_body_line_end": 952,
+      "heading": "VISUAL FIRST",
+      "preview": "WETLANDS RULES AND PROGRAMMES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 75
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 981,
+      "markdown_body_line_end": 988,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 362.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 264.623
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1000,
+      "markdown_body_line_end": 1000,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Verified routes and final wetland spine must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 129.623
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 62.955
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1014,
+      "markdown_body_line_end": 1021,
+      "heading": "VISUAL FIRST",
+      "preview": "VERIFIED ROUTES AND FINAL WETLAND SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 631.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 560.691
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1050,
+      "markdown_body_line_end": 1057,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 164.091
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 66.423
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1061,
+      "markdown_body_line_end": 1064,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*. ✅ = from source book · ⚠️ = inference ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1070,
+      "markdown_body_line_end": 1070,
+      "heading": "1. What is a lake?",
+      "preview": "🔑 Trap: Classify a lake by its **dominant basin-forming process**, not by its present water quality alone.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 644.624
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 614.156
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1074,
+      "markdown_body_line_end": 1082,
+      "heading": "2. Classification by origin",
+      "preview": "Origin | Basin-forming process | Lake type | Examples from source",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Origin",
+          "Basin-forming process",
+          "Lake type",
+          "Examples from source"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 592.156
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 361.754
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1159,
+      "markdown_body_line_end": 1161,
+      "heading": "9. Shrinking and dying lakes: the change-in-critical-features demand",
+      "preview": "**Why this section exists:** the syllabus explicitly names *changes in critical geographical features, including water bodies* and their effects, and a routed Prelims demand concerns lake shrinkage through human activity. The file taught la",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 152.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 71.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1165,
+      "markdown_body_line_end": 1173,
+      "heading": "9.1 The two ways a lake dies",
+      "preview": "A. HYDROLOGICAL DEATH - the water budget fails",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1180,
+      "markdown_body_line_end": 1184,
+      "heading": "9.2 Worked cases of induced shrinkage",
+      "preview": "Lake | Mechanism of change | Effects",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Lake",
+          "Mechanism of change",
+          "Effects"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 652.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 318.29
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1186,
+      "markdown_body_line_end": 1188,
+      "heading": "9.2 Worked cases of induced shrinkage",
+      "preview": "🔑 **Trap:** a lake with **no outlet** is not \"stagnant\"; it loses water by evaporation, which is precisely why it concentrates salts and why it is hypersensitive to any reduction in inflow. This is the mechanical reason inland drainage basi",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 318.29
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 259.422
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1205,
+      "markdown_body_line_end": 1206,
+      "heading": "9.3 Eutrophication: death by enrichment",
+      "preview": "⚠️ **Factual caution:** do not quote a lake's area loss percentage, a date of splitting, a salinity value or a fish-catch figure from memory. Describe the mechanism and the direction of change.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1212,
+      "markdown_body_line_end": 1217,
+      "heading": "10.1 Directive decoding for this topic",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 717.624
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 507.422
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1240,
+      "markdown_body_line_end": 1246,
+      "heading": "10.3 Evidence units available in this file",
+      "preview": "**Claim:** an irrigation decision taken hundreds of kilometres upstream can destroy a fishery, a port function and a regional climate buffer. **Evidence:** diversion of the Amu Darya and Syr Darya for irrigation caused the Aral Sea to fall,",
+      "metadata": {
+        "line_count": 7
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 202.222
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 78.754
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1248,
+      "markdown_body_line_end": 1253,
+      "heading": "10.3 Evidence units available in this file",
+      "preview": "**Claim:** lagoons and lakes deliver services whose value is invisible until they fail. **Evidence:** Chilika, a brackish lagoon and an early Indian Ramsar site, sustains fisheries and migratory-bird habitat whose condition depends on the s",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 716.024
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1259,
+      "markdown_body_line_end": 1261,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 716.024
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 635.156
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1267,
+      "markdown_body_line_end": 1269,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 583.556
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 476.154
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1275,
+      "markdown_body_line_end": 1275,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 436.954
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 392.287
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1282,
+      "markdown_body_line_end": 1284,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 392.287
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 311.419
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1290,
+      "markdown_body_line_end": 1296,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 5,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 508.89
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1306,
+      "markdown_body_line_end": 1306,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 400.89
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 356.222
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2259,
+      "markdown_body_line_end": 2261,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 285.291
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 204.424
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2267,
+      "markdown_body_line_end": 2269,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 152.824
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 45.422
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2275,
+      "markdown_body_line_end": 2275,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 770.091
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 725.424
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2282,
+      "markdown_body_line_end": 2284,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`. **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not he",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 725.424
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 644.556
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2290,
+      "markdown_body_line_end": 2296,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 5,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 592.956
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 298.554
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2306,
+      "markdown_body_line_end": 2306,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 190.554
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 145.887
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2686,
+      "markdown_body_line_end": 2689,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I & GS-III (Environment) **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain + verified CA. ✅ = from source book · ⚠️ = inference / ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 293.091
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 234.224
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2695,
+      "markdown_body_line_end": 2695,
+      "heading": "1. India lake map: geomorphic logic",
+      "preview": "🔑 Trap: Do not transfer Himalayan glacial-lake logic to Peninsular India; Peninsular lakes are mainly lagoonal, tectonic/crater, tank/reservoir, ox-bow or salt-lake types.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 164.624
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 119.956
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2699,
+      "markdown_body_line_end": 2711,
+      "heading": "2. Indian lakes by origin",
+      "preview": "Lake / group | Origin | Location / note",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 11,
+        "headers": [
+          "Lake / group",
+          "Origin",
+          "Location / note"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 507.09
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2789,
+      "markdown_body_line_end": 2800,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Category boundary",
+      "preview": "LAKE -> standing water in an inland basin",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2804,
+      "markdown_body_line_end": 2809,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Lake-origin tree",
+      "preview": "EARTH MOVEMENT -> tectonic or volcanic basin",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2813,
+      "markdown_body_line_end": 2818,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Water-budget equation",
+      "preview": "INPUT -> rain + river + groundwater",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 526.691
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2822,
+      "markdown_body_line_end": 2827,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Lake-change firewall",
+      "preview": "SUCCESSION -> sediment and organic infilling",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 504.691
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2831,
+      "markdown_body_line_end": 2836,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Wetland hydroperiod",
+      "preview": "TIMING -> season of inundation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 430.891
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 379.091
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2840,
+      "markdown_body_line_end": 2845,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: India lake map",
+      "preview": "WULAR -> Jhelum-linked Kashmir basin",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 357.091
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2849,
+      "markdown_body_line_end": 2854,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: River-lake traps",
+      "preview": "WULAR -> linked to Jhelum",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2858,
+      "markdown_body_line_end": 2863,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Urban reclamation chain",
+      "preview": "FILL / NARROW -> storage and drainage lost",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2867,
+      "markdown_body_line_end": 2872,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Threat-response matrix",
+      "preview": "SEWAGE / NUTRIENT -> source control + treatment",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2876,
+      "markdown_body_line_end": 2887,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Ramsar status firewall",
+      "preview": "CRITERION -> at least one can support listing",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 89
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2891,
+      "markdown_body_line_end": 2902,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: India governance chain",
+      "preview": "INVENTORY -> identify and delineate system",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 430.891
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 317.891
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2906,
+      "markdown_body_line_end": 2911,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Lake-wetland answer spine",
+      "preview": "DEFINE -> basin, wetland and status",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    }
+  ]
+}

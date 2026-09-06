@@ -1,0 +1,2215 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-03\\g3\\governance-03_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-03\\g3\\governance-03_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "governance-03",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Development Processes and the Development Industry - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-02. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 29,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 491.49
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 49,
+      "markdown_body_line_end": 49,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Governance\\GOV\\learning-sessions\\iac-03\\g3\\assets\\governance-03_Teaching-Navigation_2026-09-02.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 495.756
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 63,
+      "markdown_body_line_end": 63,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The development industry as a system, not a list of donors should be analysed as a relation among The development industry as a system, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 279.956
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 213.288
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 78,
+      "markdown_body_line_end": 82,
+      "heading": "VISUAL FIRST",
+      "preview": "THE DEVELOPMENT INDUSTRY AS A SYSTEM, NOT A LIST OF DONORS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 134
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 762.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 711.091
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 110,
+      "markdown_body_line_end": 117,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 289.091
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 174.723
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 129,
+      "markdown_body_line_end": 129,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Public charitable trusts and the 1882 exclusion should be analysed as a relation among Public charitable trusts and the 1882 exclusion, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 144,
+      "markdown_body_line_end": 148,
+      "heading": "VISUAL FIRST",
+      "preview": "PUBLIC CHARITABLE TRUSTS AND THE 1882 EXCLUSION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 112
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 356.224
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 305.224
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 176,
+      "markdown_body_line_end": 183,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 713.691
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 607.673
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 195,
+      "markdown_body_line_end": 195,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Societies and Section 8 companies should be analysed as a relation among Societies under the 1860 Act and Section 8 companies under the Companies Act, 2013, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 430.073
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 363.405
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 210,
+      "markdown_body_line_end": 217,
+      "heading": "VISUAL FIRST",
+      "preview": "SOCIETIES AND SECTION 8 COMPANIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 134
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 246,
+      "markdown_body_line_end": 253,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 238.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 132.673
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 265,
+      "markdown_body_line_end": 265,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Corporate social responsibility as a statutory obligation should be analysed as a relation among Corporate social responsibility as a statutory obligation and Rule-based reporting distinct from the section, not as a list of virtues attached",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 617.691
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 536.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 280,
+      "markdown_body_line_end": 287,
+      "heading": "VISUAL FIRST",
+      "preview": "CORPORATE SOCIAL RESPONSIBILITY AS A STATUTORY OBLIGATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 136
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 327.824
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 246.824
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 316,
+      "markdown_body_line_end": 323,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 448.891
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 334.523
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 335,
+      "markdown_body_line_end": 335,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Multilateral and bilateral development finance should be analysed as a relation among Multilateral and bilateral development finance, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 171.123
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 104.455
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 350,
+      "markdown_body_line_end": 354,
+      "heading": "VISUAL FIRST",
+      "preview": "MULTILATERAL AND BILATERAL DEVELOPMENT FINANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 106
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 650.691
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 599.691
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 382,
+      "markdown_body_line_end": 389,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 262.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 156.873
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 401,
+      "markdown_body_line_end": 401,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The foreign-contribution gate should be analysed as a relation among The foreign-contribution gate, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 665.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 598.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 416,
+      "markdown_body_line_end": 420,
+      "heading": "VISUAL FIRST",
+      "preview": "THE FOREIGN-CONTRIBUTION GATE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 130
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 389.424
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 338.424
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 448,
+      "markdown_body_line_end": 455,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 699.491
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 593.473
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 467,
+      "markdown_body_line_end": 467,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Four regulatory layers kept apart should be analysed as a relation among Four separate regulatory layers, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 430.073
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 363.405
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 482,
+      "markdown_body_line_end": 486,
+      "heading": "VISUAL FIRST",
+      "preview": "FOUR REGULATORY LAYERS KEPT APART",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 122
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 514,
+      "markdown_body_line_end": 521,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 385.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 279.273
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 533,
+      "markdown_body_line_end": 533,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Donor-driven against demand-driven design should be analysed as a relation among Donor-driven against demand-driven development, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 115.873
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 49.205
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 548,
+      "markdown_body_line_end": 552,
+      "heading": "VISUAL FIRST",
+      "preview": "DONOR-DRIVEN AGAINST DEMAND-DRIVEN DESIGN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 114
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 600.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 549.291
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 580,
+      "markdown_body_line_end": 587,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 198.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 92.273
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 599,
+      "markdown_body_line_end": 599,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Accountability direction and its consequences should be analysed as a relation among Accountability direction as the defining feature, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 650.891
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 584.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 614,
+      "markdown_body_line_end": 618,
+      "heading": "VISUAL FIRST",
+      "preview": "ACCOUNTABILITY DIRECTION AND ITS CONSEQUENCES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 122
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 375.224
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 324.224
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 646,
+      "markdown_body_line_end": 653,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 627.873
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 665,
+      "markdown_body_line_end": 665,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The funding-to-outcome causal chain should be analysed as a relation among The funding-to-outcome causal chain, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 464.473
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 397.805
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 680,
+      "markdown_body_line_end": 684,
+      "heading": "VISUAL FIRST",
+      "preview": "THE FUNDING-TO-OUTCOME CAUSAL CHAIN",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 126
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 736.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 712,
+      "markdown_body_line_end": 719,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 342.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 236.673
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 731,
+      "markdown_body_line_end": 731,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The five-test evaluation grid should be analysed as a relation among The five-test evaluation grid, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 746,
+      "markdown_body_line_end": 750,
+      "heading": "VISUAL FIRST",
+      "preview": "THE FIVE-TEST EVALUATION GRID",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 117
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 533.624
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 482.624
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 778,
+      "markdown_body_line_end": 785,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 103.224
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 718.573
+        }
+      },
+      "pdf_pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 797,
+      "markdown_body_line_end": 797,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Substitution against complementarity should be analysed as a relation among Substitution against complementarity and Fragmentation and visible-need bias, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 555.173
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 488.505
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 812,
+      "markdown_body_line_end": 819,
+      "heading": "VISUAL FIRST",
+      "preview": "SUBSTITUTION AGAINST COMPLEMENTARITY",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 154
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 848,
+      "markdown_body_line_end": 855,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 181.891
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 75.873
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 867,
+      "markdown_body_line_end": 867,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Multi-level planning under the neo-liberal paradigm should be analysed as a relation among Multi-level planning under the neo-liberal paradigm, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 631.891
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 565.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 882,
+      "markdown_body_line_end": 886,
+      "heading": "VISUAL FIRST",
+      "preview": "MULTI-LEVEL PLANNING UNDER THE NEO-LIBERAL PARADIGM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 129
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 356.224
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 305.224
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 914,
+      "markdown_body_line_end": 921,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 615.891
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 509.873
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 933,
+      "markdown_body_line_end": 933,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Donor-distortion channels and decision distance should be analysed as a relation among Four donor-distortion channels and Distance between decision, information and execution, not as a list of virtues attached to the word governance.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 313.273
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 232.405
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 948,
+      "markdown_body_line_end": 955,
+      "heading": "VISUAL FIRST",
+      "preview": "DONOR-DISTORTION CHANNELS AND DECISION DISTANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 149
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 706.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 984,
+      "markdown_body_line_end": 991,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 153.491
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 39.123
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1003,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Fragmented regulation and honest question ownership should be analysed as a relation among No single unified regulator and Verified question ownership and one recorded routing conflict, not as a list of virtues attached to the word governan",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 617.691
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 536.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1018,
+      "markdown_body_line_end": 1025,
+      "heading": "VISUAL FIRST",
+      "preview": "FRAGMENTED REGULATION AND HONEST QUESTION OWNERSHIP",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 164
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 313.624
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 232.624
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1061,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 392.091
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 277.723
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1065,
+      "markdown_body_line_end": 1073,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Governance | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II. **Core area:** Donors, charities, trusts, foundations and CSR as non-state actors in the development process. **Grounded in:** state public-trust/charitable-end",
+      "metadata": {
+        "line_count": 9
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 277.723
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 140.055
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1077,
+      "markdown_body_line_end": 1098,
+      "heading": "1. Visual foundation",
+      "preview": "THE \"DEVELOPMENT INDUSTRY\"",
+      "metadata": {
+        "language": "text",
+        "line_count": 20,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 576.291
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1107,
+      "markdown_body_line_end": 1114,
+      "heading": "2. Essential definitions",
+      "preview": "Concept | Exam-ready meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Concept",
+          "Exam-ready meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 511.691
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 124.69
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1220,
+      "markdown_body_line_end": 1223,
+      "heading": "10. Mains angles",
+      "preview": "**Answer thesis:** Charitable trusts, foundations and CSR-funded programmes expand India's development capacity beyond the state by targeting vital public issues with flexibility and speed — but their contribution to genuine inclusion depen",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 222.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 163.424
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1245,
+      "markdown_body_line_end": 1247,
+      "heading": "13. Answer architecture (10/15/20-mark support)",
+      "preview": "**Scope.** All marks-bearing content for the *development processes and development industry* clause — including the demands the 2018–2023 ledger routed to `advanced/03` — is held **in this file**. `advanced/03` is optional enrichment only.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 651.691
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 570.824
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1324,
+      "markdown_body_line_end": 1331,
+      "heading": "13.1 Demand map",
+      "preview": "Stem pattern | What is being tested | Opening move",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Stem pattern",
+          "What is being tested",
+          "Opening move"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 400.491
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 159.09
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1368,
+      "markdown_body_line_end": 1376,
+      "heading": "13.4 Evidence bank - legal vehicles, funding forms and their governance consequences",
+      "preview": "Vehicle / form | Governing law | Governance consequence | Limitation / caution",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 7,
+        "headers": [
+          "Vehicle / form",
+          "Governing law",
+          "Governance consequence",
+          "Limitation / caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 520.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 121.89
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1380,
+      "markdown_body_line_end": 1386,
+      "heading": "13.5 Five-test evaluation grid (use verbatim for any non-state intervention)",
+      "preview": "Test | The question to ask | Why it discriminates",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Test",
+          "The question to ask",
+          "Why it discriminates"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 600.69
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1390,
+      "markdown_body_line_end": 1404,
+      "heading": "13.6 Causal chain - funding to inclusion (or to exclusion)",
+      "preview": "FUNDING SOURCE          sets the incentive frame before any need assessment",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 578.69
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 437.69
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1476,
+      "markdown_body_line_end": 1477,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 247.291
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 180.624
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1483,
+      "markdown_body_line_end": 1485,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 706.39
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1491,
+      "markdown_body_line_end": 1491,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 667.19
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 622.522
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2372,
+      "markdown_body_line_end": 2373,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "**Status:** 2024-2025 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 255.891
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 189.224
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2379,
+      "markdown_body_line_end": 2381,
+      "heading": "Recent PYQ Integration (2024-2025)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 82,
+          "frame_y": 137.624
+        },
+        "end": {
+          "page": 82,
+          "frame_y": 40.722
+        }
+      },
+      "pdf_pages": [
+        82
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2387,
+      "markdown_body_line_end": 2387,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 770.091
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 725.424
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2401,
+      "markdown_body_line_end": 2402,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 602.224
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 535.556
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2408,
+      "markdown_body_line_end": 2411,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 483.956
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 324.554
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2418,
+      "markdown_body_line_end": 2418,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 83,
+          "frame_y": 268.154
+        },
+        "end": {
+          "page": 83,
+          "frame_y": 223.487
+        }
+      },
+      "pdf_pages": [
+        83
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2733,
+      "markdown_body_line_end": 2740,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Governance | **Tier:** Advanced | **GS Paper:** GS-II. **Core area:** Donors, charities, trusts, foundations and CSR as non-state actors in the development process. **Grounded in:** applicable state public-trust/endowment law; ",
+      "metadata": {
+        "line_count": 8
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 780.291
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 693.024
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2744,
+      "markdown_body_line_end": 2758,
+      "heading": "1. Architecture",
+      "preview": "FUNDING LAYER              LEGAL-VEHICLE LAYER          ACCOUNTABILITY LAYER",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 82
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 671.024
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 530.024
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2767,
+      "markdown_body_line_end": 2772,
+      "heading": "2. Concepts and distinctions",
+      "preview": "Concept | Precise meaning",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 4,
+        "headers": [
+          "Concept",
+          "Precise meaning"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 451.224
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 129.022
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2797,
+      "markdown_body_line_end": 2803,
+      "heading": "Evaluation grid for a non-state development intervention",
+      "preview": "Test | Question",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Test",
+          "Question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 586.891
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 456.29
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2943,
+      "markdown_body_line_end": 2944,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 282.891
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 216.224
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2950,
+      "markdown_body_line_end": 2953,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 2,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 643.89
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2960,
+      "markdown_body_line_end": 2960,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 587.49
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 542.822
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3009,
+      "markdown_body_line_end": 3015,
+      "heading": "Development Processes and the Development Industry: ANSWER-WRITING SPINE",
+      "preview": "NAME THE NORM OR PROBLEM -> IDENTIFY THE DUTY-HOLDER AND THE BINDING FORM",
+      "metadata": {
+        "language": "text",
+        "line_count": 5,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 785.291
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 724.291
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3025,
+      "markdown_body_line_end": 3031,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Four actors, one system",
+      "preview": "FUNDERS -> bilateral and multilateral donors, foundations, corporate programmes",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 477.091
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 415.091
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3035,
+      "markdown_body_line_end": 3040,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Legal vehicle card",
+      "preview": "TRUST -> deed plus state public-trust law; the 1882 Trusts Act excludes charitable endowments",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 95
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 393.091
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 341.291
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3044,
+      "markdown_body_line_end": 3049,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Corporate social responsibility card",
+      "preview": "SECTION 135 -> statutory minimum spend of two per cent of average net profits of preceding years",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 100
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 319.291
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 267.491
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3053,
+      "markdown_body_line_end": 3058,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Four regulatory layers",
+      "preview": "INCORPORATION -> state registrar or Registrar of Companies; legal existence only",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3062,
+      "markdown_body_line_end": 3067,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: The foreign-contribution gate",
+      "preview": "ROUTE ONE -> registration for ongoing receipt of foreign contribution",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3071,
+      "markdown_body_line_end": 3077,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Funding to outcome",
+      "preview": "FUNDING SOURCE -> project cycle, founder priority or Schedule VII compliance sets the frame",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 577.691
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3081,
+      "markdown_body_line_end": 3086,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Five-test grid",
+      "preview": "ADDITIONALITY -> adds capacity, or substitutes for a public obligation still owed",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 555.691
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 503.891
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3090,
+      "markdown_body_line_end": 3095,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Substitution against complementarity",
+      "preview": "SUBSTITUTION -> non-state delivery is a symptom of state failure and may entrench it",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 481.891
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 430.091
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3099,
+      "markdown_body_line_end": 3104,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Visible-need bias",
+      "preview": "DRIVER -> Schedule VII list plus reputational incentive",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 87
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 408.091
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 356.291
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3108,
+      "markdown_body_line_end": 3113,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Multi-level planning card",
+      "preview": "TIERS -> Union, state, district and local plan what each is best placed to know",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 97
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 108,
+          "frame_y": 334.291
+        },
+        "end": {
+          "page": 108,
+          "frame_y": 282.491
+        }
+      },
+      "pdf_pages": [
+        108
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3117,
+      "markdown_body_line_end": 3122,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Four donor-distortion channels",
+      "preview": "AGENDA -> donor priority sets the problem before local need is assessed",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 3126,
+      "markdown_body_line_end": 3132,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Answer spine for a distance demand",
+      "preview": "OPEN -> name distance as an institutional property of the funding chain, not only of the state",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 98
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 109,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 109,
+          "frame_y": 651.491
+        }
+      },
+      "pdf_pages": [
+        109
+      ]
+    }
+  ]
+}

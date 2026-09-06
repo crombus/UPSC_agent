@@ -1,0 +1,2710 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-16\\g4\\geography-16_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-16\\g4\\geography-16_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "geography-16",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Tropical Monsoon and Marine Climate - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 403.824
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 174.822
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 51,
+      "markdown_body_line_end": 51,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-16\\g4\\assets\\geography-16_Teaching-Navigation_2026-09-01.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 449.091
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 141.556
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Monsoon and tropical marine identities must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 80,
+      "markdown_body_line_end": 87,
+      "heading": "VISUAL FIRST",
+      "preview": "MONSOON AND TROPICAL MARINE IDENTITIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 361.024
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 116,
+      "markdown_body_line_end": 123,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 636.223
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 135,
+      "markdown_body_line_end": 135,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Seasonal reversal must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 515.423
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 448.755
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 150,
+      "markdown_body_line_end": 154,
+      "heading": "VISUAL FIRST",
+      "preview": "SEASONAL REVERSAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 182,
+      "markdown_body_line_end": 189,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 466.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 386.473
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 201,
+      "markdown_body_line_end": 201,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Thermal, ITCZ and upper-air mechanism must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 232.473
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 165.805
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 214,
+      "markdown_body_line_end": 218,
+      "heading": "VISUAL FIRST",
+      "preview": "THERMAL, ITCZ AND UPPER-AIR MECHANISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 246,
+      "markdown_body_line_end": 253,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 452.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 362.773
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 265,
+      "markdown_body_line_end": 265,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India's four-season circulation must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 241.973
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 175.305
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 280,
+      "markdown_body_line_end": 284,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA'S FOUR-SEASON CIRCULATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 747.891
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 706.891
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 312,
+      "markdown_body_line_end": 319,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 412.691
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 323.373
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 331,
+      "markdown_body_line_end": 331,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Burst and onset must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 202.573
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 135.905
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 346,
+      "markdown_body_line_end": 350,
+      "heading": "VISUAL FIRST",
+      "preview": "BURST AND ONSET",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 672.491
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 378,
+      "markdown_body_line_end": 385,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 378.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 298.473
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 397,
+      "markdown_body_line_end": 397,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Arabian Sea branch must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 177.673
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 111.005
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 412,
+      "markdown_body_line_end": 416,
+      "heading": "VISUAL FIRST",
+      "preview": "ARABIAN SEA BRANCH",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 696.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 655.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 444,
+      "markdown_body_line_end": 451,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 375.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 285.973
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 463,
+      "markdown_body_line_end": 463,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Bay branch and depressions must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 165.173
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 98.505
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 478,
+      "markdown_body_line_end": 482,
+      "heading": "VISUAL FIRST",
+      "preview": "BAY BRANCH AND DEPRESSIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 679.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 638.091
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 510,
+      "markdown_body_line_end": 517,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 358.091
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 268.773
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 529,
+      "markdown_body_line_end": 529,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Tropical marine coasts must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 147.973
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 81.305
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 542,
+      "markdown_body_line_end": 546,
+      "heading": "VISUAL FIRST",
+      "preview": "TROPICAL MARINE COASTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 64
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 696.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 655.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 574,
+      "markdown_body_line_end": 581,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 361.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 271.773
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 593,
+      "markdown_body_line_end": 593,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rainfall reliability and vegetation must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 136.773
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 70.105
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 607,
+      "markdown_body_line_end": 614,
+      "heading": "VISUAL FIRST",
+      "preview": "RAINFALL RELIABILITY AND VEGETATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 645.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 574.891
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 643,
+      "markdown_body_line_end": 650,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 220.891
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 123.223
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 662,
+      "markdown_body_line_end": 662,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Active and break monsoon must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 675,
+      "markdown_body_line_end": 679,
+      "heading": "VISUAL FIRST",
+      "preview": "ACTIVE AND BREAK MONSOON",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 480.624
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 439.624
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 707,
+      "markdown_body_line_end": 714,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 145.424
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 56.105
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 726,
+      "markdown_body_line_end": 726,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Jet-stream reorganisation must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 741,
+      "markdown_body_line_end": 745,
+      "heading": "VISUAL FIRST",
+      "preview": "JET-STREAM REORGANISATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 446.224
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 405.224
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 773,
+      "markdown_body_line_end": 780,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 125.224
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 770.323
+        }
+      },
+      "pdf_pages": [
+        19,
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 792,
+      "markdown_body_line_end": 792,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Western disturbances must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 635.323
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 568.655
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 807,
+      "markdown_body_line_end": 811,
+      "heading": "VISUAL FIRST",
+      "preview": "WESTERN DISTURBANCES",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 388.055
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 347.055
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 839,
+      "markdown_body_line_end": 846,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 67.055
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 726.923
+        }
+      },
+      "pdf_pages": [
+        20,
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 858,
+      "markdown_body_line_end": 858,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "ENSO, IOD and MJO must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 606.123
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 539.455
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 873,
+      "markdown_body_line_end": 880,
+      "heading": "VISUAL FIRST",
+      "preview": "ENSO, IOD AND MJO",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 358.855
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 287.855
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 909,
+      "markdown_body_line_end": 916,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 713.691
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 616.023
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 928,
+      "markdown_body_line_end": 928,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Northeast monsoon and IMD products must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 481.023
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 414.355
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 943,
+      "markdown_body_line_end": 950,
+      "heading": "VISUAL FIRST",
+      "preview": "NORTHEAST MONSOON AND IMD PRODUCTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 979,
+      "markdown_body_line_end": 986,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 348.091
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 250.423
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 998,
+      "markdown_body_line_end": 998,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Verified Purvaiya and island PYQs must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 115.423
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 48.755
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1013,
+      "markdown_body_line_end": 1020,
+      "heading": "VISUAL FIRST",
+      "preview": "VERIFIED PURVAIYA AND ISLAND PYQS",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 71
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 628.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 557.691
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1049,
+      "markdown_body_line_end": 1056,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 203.691
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 106.023
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1060,
+      "markdown_body_line_end": 1063,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*. ✅ = from source book · ⚠️ = inference ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 714.224
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1071,
+      "markdown_body_line_end": 1074,
+      "heading": "1. What & Where (G.C. Leong)",
+      "preview": "Climate | ✅ Location / wind setting | ✅ Rainfall character",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 2,
+        "headers": [
+          "Climate",
+          "✅ Location / wind setting",
+          "✅ Rainfall character"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 568.624
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 501.622
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1076,
+      "markdown_body_line_end": 1076,
+      "heading": "1. What & Where (G.C. Leong)",
+      "preview": "🔑 Trap: Tropical monsoon and tropical marine climates are related to Trade Winds, but **not identical**.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 501.622
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 471.154
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1082,
+      "markdown_body_line_end": 1087,
+      "heading": "2. Monsoon Mechanism & Seasons",
+      "preview": "Season | ✅ Wind / process | ✅ Weather",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Season",
+          "✅ Wind / process",
+          "✅ Weather"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 401.554
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 269.753
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1092,
+      "markdown_body_line_end": 1092,
+      "heading": "2. Monsoon Mechanism & Seasons",
+      "preview": "🔑 Trap: The **burst** is the sudden **onset** of monsoon rain, not its withdrawal.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 222.153
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 191.685
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1100,
+      "markdown_body_line_end": 1105,
+      "heading": "3. Rainfall, Retreat & Tropical Marine Variant",
+      "preview": "Feature | ✅ Tropical monsoon | ✅ Tropical marine",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Feature",
+          "✅ Tropical monsoon",
+          "✅ Tropical marine"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 693.89
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1115,
+      "markdown_body_line_end": 1116,
+      "heading": "➕ Atmospheric River (extreme-rainfall gap)",
+      "preview": "✅ Grounded in adjacent moisture/rainfall/jet-stream book passages + ⚠️ standard geography. Added to close a UPSC gap. ⚠️ Source note: not in core books as a named concept; book query returned hydrological-cycle, moisture and precipitation-c",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 590.89
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 510.022
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1123,
+      "markdown_body_line_end": 1127,
+      "heading": "➕ Atmospheric River (extreme-rainfall gap)",
+      "preview": "Ingredient | Role in atmospheric-river rain | UPSC link",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Ingredient",
+          "Role in atmospheric-river rain",
+          "UPSC link"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 384.422
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 296.22
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1129,
+      "markdown_body_line_end": 1129,
+      "heading": "➕ Atmospheric River (extreme-rainfall gap)",
+      "preview": "🔑 Trap: An atmospheric river is a **vapour transport corridor**, not a literal river in the sky and not identical to a monsoon current.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 296.22
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 251.553
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1166,
+      "markdown_body_line_end": 1171,
+      "heading": "9. The monsoon in operational detail: onset, jets, breaks and withdrawal",
+      "preview": "**Why this section exists:** a Core-only stress test found that a 20-mark question requiring the monsoon mechanism at the level of **upper-air jets, western disturbances and intra-seasonal breaks** could not be answered from Core, because t",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 498.091
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 388.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1175,
+      "markdown_body_line_end": 1200,
+      "heading": "9.1 The seasonal sequence as one circulation story",
+      "preview": "WINTER (roughly Dec-Feb)",
+      "metadata": {
+        "language": "text",
+        "line_count": 24,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 366.824
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 115.824
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1225,
+      "markdown_body_line_end": 1229,
+      "heading": "9.2 Breaks: variability inside the season",
+      "preview": "Timescale | Controlling influence | What it governs",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Timescale",
+          "Controlling influence",
+          "What it governs"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 588.891
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 467.09
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1231,
+      "markdown_body_line_end": 1233,
+      "heading": "9.2 Breaks: variability inside the season",
+      "preview": "🔑 **Trap:** a **western disturbance** is an extra-tropical, frontal, winter system arriving from the west in the westerly flow. It is not part of the monsoon and does not operate on monsoon physics. Confusing the two is a standard and easil",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 467.09
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 408.222
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1235,
+      "markdown_body_line_end": 1237,
+      "heading": "9.2 Breaks: variability inside the season",
+      "preview": "⚠️ **Factual caution:** do **not** quote onset or withdrawal dates, long-period-average rainfall, jet-stream speeds or a given year's departure from normal without citing the issuing agency and the bulletin date. Normal dates are periodical",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 408.222
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 349.354
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1243,
+      "markdown_body_line_end": 1248,
+      "heading": "10.1 Directive decoding",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 308.354
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 98.153
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1263,
+      "markdown_body_line_end": 1266,
+      "heading": "10.2 The mechanism, stated at three levels",
+      "preview": "⚠️ These are complementary levels of one explanation, not competing theories. A strong answer says so explicitly and uses the level appropriate to the question's scale. India-specific mechanism depth, jet-stream detail and western disturban",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 682.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 609.824
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1270,
+      "markdown_body_line_end": 1275,
+      "heading": "10.3 Variability: the four dimensions that actually matter",
+      "preview": "Dimension | What varies | Agricultural consequence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Dimension",
+          "What varies",
+          "Agricultural consequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 587.824
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 422.422
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1300,
+      "markdown_body_line_end": 1305,
+      "heading": "10.5 Evidence units available in this file",
+      "preview": "**Claim:** rainfall reliability matters more than rainfall quantity. **Evidence:** the monsoon delivers a large seasonal total in a small number of months, with breaks that can coincide with the crop's critical growth stage. **Significance:",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 700.024
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1307,
+      "markdown_body_line_end": 1312,
+      "heading": "10.5 Evidence units available in this file",
+      "preview": "**Claim:** a single climatic mechanism can organise an entire civilisation's calendar. **Evidence:** the kharif-rabi cropping cycle, the festival and agricultural calendar and the retreat-fed Coromandel rainy season all follow from the seas",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 700.024
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 612.756
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1318,
+      "markdown_body_line_end": 1320,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 612.756
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 531.888
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1326,
+      "markdown_body_line_end": 1328,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 480.288
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 362.387
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1334,
+      "markdown_body_line_end": 1334,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 323.187
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 278.519
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2199,
+      "markdown_body_line_end": 2201,
+      "heading": "2026 PYQ Integration",
+      "preview": "**Status:** 2026 question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2026.md`. **Answer-key rule:** The 2026 Prelims and CSAT Set-A keys held locally a",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 299.491
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 218.624
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2207,
+      "markdown_body_line_end": 2209,
+      "heading": "2026 PYQ Integration",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 167.024
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 49.122
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2215,
+      "markdown_body_line_end": 2215,
+      "heading": "What this owner must now support",
+      "preview": "This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 770.091
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 725.424
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2220,
+      "markdown_body_line_end": 2221,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 725.424
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 658.756
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2227,
+      "markdown_body_line_end": 2229,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 607.156
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 510.254
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2235,
+      "markdown_body_line_end": 2235,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 471.054
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 426.387
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2516,
+      "markdown_body_line_end": 2519,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I **Grounded in:** D.R. Khullar, *India: A Comprehensive Geography* + Majid Husain + verified CA. ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 486.691
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 413.624
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2525,
+      "markdown_body_line_end": 2532,
+      "heading": "1. Beyond Land-Sea Contrast",
+      "preview": "Control | ✅ Role in monsoon mechanism",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 6,
+        "headers": [
+          "Control",
+          "✅ Role in monsoon mechanism"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 329.824
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 166.822
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2539,
+      "markdown_body_line_end": 2544,
+      "heading": "2. Onset, Branches & Rainfall",
+      "preview": "Branch | ✅ Route / barrier | ✅ Rainfall effect",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Branch",
+          "✅ Route / barrier",
+          "✅ Rainfall effect"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 682.69
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2546,
+      "markdown_body_line_end": 2546,
+      "heading": "2. Onset, Branches & Rainfall",
+      "preview": "🔑 Trap: Monsoon rainfall is not only orographic; **Bay depressions** are crucial.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 682.69
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 652.222
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2555,
+      "markdown_body_line_end": 2560,
+      "heading": "3. Jet Streams, Breaks & Withdrawal",
+      "preview": "Phenomenon | ✅ Meaning | UPSC use",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Phenomenon",
+          "✅ Meaning",
+          "UPSC use"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 520.822
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 411.42
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2568,
+      "markdown_body_line_end": 2569,
+      "heading": "➕ El Nino Modoki (ENSO high-yield gap)",
+      "preview": "✅ Grounded in adjacent ENSO book passages + ⚠️ standard geography. Added to close a UPSC gap. ⚠️ Source note: not in core books as a named concept; book query returned standard El Nino/La Nina passages only.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 341.82
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 260.953
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2576,
+      "markdown_body_line_end": 2580,
+      "heading": "➕ El Nino Modoki (ENSO high-yield gap)",
+      "preview": "ENSO type | Warmest anomaly | Broad monsoon reading",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "ENSO type",
+          "Warmest anomaly",
+          "Broad monsoon reading"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 135.353
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 47.151
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2582,
+      "markdown_body_line_end": 2582,
+      "heading": "➕ El Nino Modoki (ENSO high-yield gap)",
+      "preview": "🔑 Trap: Modoki is **not absence of El Nino**; it is a different spatial pattern of Pacific warming.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 772.824
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2586,
+      "markdown_body_line_end": 2587,
+      "heading": "➕ Madden-Julian Oscillation (MJO) (active-break monsoon gap)",
+      "preview": "✅ Grounded in adjacent active-break monsoon book passages + ⚠️ standard geography. Added to close a UPSC gap. ⚠️ Source note: not in core books as a named concept; book query returned active/break monsoon and TEJ-convection passages.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 772.824
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 691.956
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2594,
+      "markdown_body_line_end": 2598,
+      "heading": "➕ Madden-Julian Oscillation (MJO) (active-break monsoon gap)",
+      "preview": "MJO phase over region | Convection | Monsoon implication",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "MJO phase over region",
+          "Convection",
+          "Monsoon implication"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 566.356
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 478.154
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2600,
+      "markdown_body_line_end": 2600,
+      "heading": "➕ Madden-Julian Oscillation (MJO) (active-break monsoon gap)",
+      "preview": "🔑 Trap: MJO is **intra-seasonal** variability; ENSO is inter-annual. Do not treat them as the same timescale.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 478.154
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 447.687
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2604,
+      "markdown_body_line_end": 2605,
+      "heading": "➕ Pacific Decadal Oscillation (PDO) (teleconnection gap)",
+      "preview": "✅ Grounded in adjacent Pacific SST/ENSO book passages + ⚠️ standard geography. Added to close a UPSC gap. ⚠️ Source note: not in core books as a named concept; book query returned ENSO/Pacific SST passages only.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 447.687
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 366.819
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2612,
+      "markdown_body_line_end": 2616,
+      "heading": "➕ Pacific Decadal Oscillation (PDO) (teleconnection gap)",
+      "preview": "Signal | Timescale | Basin focus | UPSC distinction",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Signal",
+          "Timescale",
+          "Basin focus",
+          "UPSC distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 241.219
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 155.817
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2618,
+      "markdown_body_line_end": 2618,
+      "heading": "➕ Pacific Decadal Oscillation (PDO) (teleconnection gap)",
+      "preview": "🔑 Trap: PDO is not just a slow El Nino; it is a **decadal North Pacific pattern**, while ENSO is equatorial Pacific variability.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 155.817
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 111.15
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2657,
+      "markdown_body_line_end": 2658,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "**Status:** Question-level PYQ demand is integrated into this owner. **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 371.691
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 305.024
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2664,
+      "markdown_body_line_end": 2666,
+      "heading": "Historical PYQ Integration (2018-2023)",
+      "preview": "Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement",
+      "metadata": {
+        "column_count": 7,
+        "row_count": 1,
+        "headers": [
+          "Year",
+          "Paper",
+          "Q",
+          "PYQ demand (neutral rendering)",
+          "Directive / format",
+          "Source status",
+          "Owner requirement"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 253.424
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 156.522
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2672,
+      "markdown_body_line_end": 2672,
+      "heading": "What this owner must now support",
+      "preview": "The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 117.322
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 72.654
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2681,
+      "markdown_body_line_end": 2692,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Climate-type discriminator",
+      "preview": "MONSOON Am -> seasonal wind reversal",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 94
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 733.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 620.291
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2696,
+      "markdown_body_line_end": 2701,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Three-level monsoon engine",
+      "preview": "THERMAL -> land-sea pressure reversal",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 598.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 546.491
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2705,
+      "markdown_body_line_end": 2710,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Seasonal circulation rail",
+      "preview": "MAR-MAY -> thermal low and local storms",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 524.491
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 472.691
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2714,
+      "markdown_body_line_end": 2719,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Onset evidence ladder",
+      "preview": "NORMAL DATE -> long-period reference",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 450.691
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 398.891
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2723,
+      "markdown_body_line_end": 2728,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Arabian Sea branch map",
+      "preview": "ARABIAN SEA -> moisture-bearing branch",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 376.891
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 325.091
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2732,
+      "markdown_body_line_end": 2737,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Bay branch map",
+      "preview": "BAY OF BENGAL -> branch and depressions",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 41
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 303.091
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 251.291
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2741,
+      "markdown_body_line_end": 2746,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Active-break switch",
+      "preview": "TROUGH OVER PLAINS -> widespread active rain",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 45
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2750,
+      "markdown_body_line_end": 2755,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Jet and WD firewall",
+      "preview": "STWJ -> winter upper-air westerly regime",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2759,
+      "markdown_body_line_end": 2764,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Variability timescales",
+      "preview": "MJO -> weeks / active-break modulation",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 38
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2768,
+      "markdown_body_line_end": 2779,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Coromandel rain chain",
+      "preview": "SW MONSOON WITHDRAWS -> flow reverses",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2783,
+      "markdown_body_line_end": 2794,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Verified PYQ routes",
+      "preview": "2023 GS-I -> Purvaiya and cultural ethos",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 430.891
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 317.891
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2798,
+      "markdown_body_line_end": 2803,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Monsoon answer spine",
+      "preview": "DEFINE -> reversal and marine contrast",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 44
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    }
+  ]
+}

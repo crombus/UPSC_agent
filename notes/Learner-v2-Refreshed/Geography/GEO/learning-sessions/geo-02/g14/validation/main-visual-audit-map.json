@@ -1,0 +1,5930 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\geography-02_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\geography-02_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "geography-02",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 13,
+      "markdown_body_line_end": 21,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 5,
+          "frame_y": 593.091
+        },
+        "end": {
+          "page": 5,
+          "frame_y": 364.09
+        }
+      },
+      "pdf_pages": [
+        5
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 43,
+      "markdown_body_line_end": 43,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\geography-02_Teaching-Navigation_2026-08-23.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 749.691
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 442.156
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 50,
+      "markdown_body_line_end": 50,
+      "heading": "1. Source audit, syllabus ownership and evidence firewall",
+      "preview": "Master two-half roadmap",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\01_master-roadmap.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 364.556
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 67.414
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 56,
+      "markdown_body_line_end": 62,
+      "heading": "Repository-first audit",
+      "preview": "Source owner | Retained completely | Ownership boundary",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Source owner",
+          "Retained completely",
+          "Ownership boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 522.29
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 83,
+      "markdown_body_line_end": 94,
+      "heading": "VISUAL FIRST",
+      "preview": "MASTER VOCABULARY: WHAT EXACTLY ARE WE STUDYING?",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 735.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 624.291
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 106,
+      "markdown_body_line_end": 106,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Geological structure is the age, composition and architecture of rocks and tectonic features beneath a region, while physiography is their broad surface expression and geomorphology explains the processes that reshape it.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 521.291
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 454.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 121,
+      "markdown_body_line_end": 121,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Scope terms",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\02_scope-terms.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 276.824
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 123,
+      "markdown_body_line_end": 131,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Term | Immediate plain-English meaning | Why it matters",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 7,
+        "headers": [
+          "Term",
+          "Immediate plain-English meaning",
+          "Why it matters"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 506.15
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 277.148
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 135,
+      "markdown_body_line_end": 135,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Geological structure is the age, composition and architecture of rocks and tectonic features beneath a region, while physiography is their broad surface expression and geomorphology explain",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 229.548
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 170.68
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 139,
+      "markdown_body_line_end": 156,
+      "heading": "CLOSING RECALL FLOW - MASTER VOCABULARY: WHAT EXACTLY ARE WE STUDYING?",
+      "preview": "START / CONCEPT: MASTER VOCABULARY: WHAT EXACTLY ARE WE STUDYING?",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 250
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 161,
+      "markdown_body_line_end": 172,
+      "heading": "VISUAL FIRST",
+      "preview": "CRUST AND LITHOSPHERE: RELATED, NOT IDENTICAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 487.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 376.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 184,
+      "markdown_body_line_end": 184,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The crust is Earth’s outer compositional shell, whereas the lithosphere is the stronger mechanical layer comprising the crust plus the rigid uppermost mantle.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 273.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 206.624
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 199,
+      "markdown_body_line_end": 199,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Crust and lithosphere",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\03_crust-lithosphere.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 784.091
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 486.95
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 201,
+      "markdown_body_line_end": 206,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Contrast | Continental setting | Oceanic setting",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Contrast",
+          "Continental setting",
+          "Oceanic setting"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 486.95
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 377.548
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 214,
+      "markdown_body_line_end": 214,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The crust is Earth’s outer compositional shell, whereas the lithosphere is the stronger mechanical layer comprising the crust plus the rigid uppermost mantle.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 234.748
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 190.08
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 218,
+      "markdown_body_line_end": 235,
+      "heading": "CLOSING RECALL FLOW - CRUST AND LITHOSPHERE: RELATED, NOT IDENTICAL",
+      "preview": "START / CONCEPT: CRUST AND LITHOSPHERE: RELATED, NOT IDENTICAL",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 187
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 240,
+      "markdown_body_line_end": 251,
+      "heading": "VISUAL FIRST",
+      "preview": "THE COMPLETE ROCK CYCLE: A NETWORK, NOT A CONVEYOR BELT",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 507.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 396.291
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 263,
+      "markdown_body_line_end": 263,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The rock cycle is an open network in which melting, crystallisation, weathering, lithification, metamorphism and uplift can connect any rock family through multiple pathways rather than one fixed sequence.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 293.291
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 226.624
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 278,
+      "markdown_body_line_end": 278,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Complete rock cycle",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\04_complete-rock-cycle.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 280,
+      "markdown_body_line_end": 294,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "MELTING",
+      "metadata": {
+        "language": "text",
+        "line_count": 13,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 506.15
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 365.15
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 301,
+      "markdown_body_line_end": 301,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The rock cycle is an open network in which melting, crystallisation, weathering, lithification, metamorphism and uplift can connect any rock family through multiple pathways rather than one",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 267.95
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 209.082
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 305,
+      "markdown_body_line_end": 322,
+      "heading": "CLOSING RECALL FLOW - THE COMPLETE ROCK CYCLE: A NETWORK, NOT A CONVEYOR BELT",
+      "preview": "START / CONCEPT: THE COMPLETE ROCK CYCLE: A NETWORK, NOT A CONVEYOR BELT",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 234
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 327,
+      "markdown_body_line_end": 338,
+      "heading": "VISUAL FIRST",
+      "preview": "IGNEOUS ROCKS: COOLING HISTORY, COMPOSITION AND TEXTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 477.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 366.291
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 350,
+      "markdown_body_line_end": 350,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "“Primary rock” is an older genetic phrase for igneous rock because crystallisation creates the original mineral framework.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 277.491
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 210.824
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 365,
+      "markdown_body_line_end": 365,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Igneous texture and composition tree",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\05_igneous-tree.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 369,
+      "markdown_body_line_end": 372,
+      "heading": "Intrusive and extrusive occurrence",
+      "preview": "Setting | Cooling | Common texture | Examples",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 2,
+        "headers": [
+          "Setting",
+          "Cooling",
+          "Common texture",
+          "Examples"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 484.15
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 398.248
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 376,
+      "markdown_body_line_end": 380,
+      "heading": "Composition pairs",
+      "preview": "Composition | Intrusive partner | Extrusive partner | Exam-safe cue",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 3,
+        "headers": [
+          "Composition",
+          "Intrusive partner",
+          "Extrusive partner",
+          "Exam-safe cue"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 376.248
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 290.846
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 387,
+      "markdown_body_line_end": 387,
+      "heading": "Composition pairs",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Igneous rocks record the cooling history and composition of magma or lava: slow intrusive cooling favours coarse crystals, while rapid extrusive cooling favours fine, glassy or vesicular te",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 179.446
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 120.579
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 391,
+      "markdown_body_line_end": 408,
+      "heading": "CLOSING RECALL FLOW - IGNEOUS ROCKS: COOLING HISTORY, COMPOSITION AND TEXTURE",
+      "preview": "START / CONCEPT: IGNEOUS ROCKS: COOLING HISTORY, COMPOSITION AND TEXTURE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 187
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 413,
+      "markdown_body_line_end": 424,
+      "heading": "VISUAL FIRST",
+      "preview": "SEDIMENTARY ROCKS: SEDIMENT PATHWAY AND FIELD CLUES",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 507.291
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 396.291
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 436,
+      "markdown_body_line_end": 436,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "They are sediments/deposits unless lithification into rock is demonstrated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 321.691
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 269.224
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 451,
+      "markdown_body_line_end": 451,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Sedimentary formation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\06_sedimentary-process.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 453,
+      "markdown_body_line_end": 463,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "ROCK / ORGANIC / DISSOLVED SOURCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 50
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 506.15
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 405.15
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 465,
+      "markdown_body_line_end": 469,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Family | Formation | Examples",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Family",
+          "Formation",
+          "Examples"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 405.15
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 316.948
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 476,
+      "markdown_body_line_end": 476,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Sedimentary rocks convert weathered, transported or chemically and biologically produced material into layered rock through deposition, compaction and cementation, while preserving clues su",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 219.748
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 160.88
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 480,
+      "markdown_body_line_end": 497,
+      "heading": "CLOSING RECALL FLOW - SEDIMENTARY ROCKS: SEDIMENT PATHWAY AND FIELD CLUES",
+      "preview": "START / CONCEPT: SEDIMENTARY ROCKS: SEDIMENT PATHWAY AND FIELD CLUES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 170
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 502,
+      "markdown_body_line_end": 513,
+      "heading": "VISUAL FIRST",
+      "preview": "METAMORPHIC ROCKS: PROTOLITH, GRADE AND FABRIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 487.291
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 376.291
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 525,
+      "markdown_body_line_end": 525,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Protolith means the parent rock before metamorphism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 301.691
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 249.224
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 540,
+      "markdown_body_line_end": 540,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Metamorphic grade and fabric",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\07_metamorphic-path.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 547,
+      "markdown_body_line_end": 552,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Fabric | Plain-English meaning | Distinction",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Fabric",
+          "Plain-English meaning",
+          "Distinction"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 408.95
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 299.548
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 556,
+      "markdown_body_line_end": 556,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Metamorphism changes a protolith in the solid state through heat, pressure, differential stress and reactive fluids, producing new minerals and fabrics without requiring complete melting.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 237.748
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 178.88
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 560,
+      "markdown_body_line_end": 577,
+      "heading": "CLOSING RECALL FLOW - METAMORPHIC ROCKS: PROTOLITH, GRADE AND FABRIC",
+      "preview": "START / CONCEPT: METAMORPHIC ROCKS: PROTOLITH, GRADE AND FABRIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 173
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 582,
+      "markdown_body_line_end": 593,
+      "heading": "VISUAL FIRST",
+      "preview": "ROCK PROPERTIES AND APPLIED GEOGRAPHY",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 526.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 415.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 605,
+      "markdown_body_line_end": 605,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Rock name alone never determines land use: porosity, permeability, fractures, weathering, structure and site conditions jointly control groundwater, soils, foundations, dams and slope behaviour.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 312.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 245.624
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 620,
+      "markdown_body_line_end": 620,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Rock properties and applications",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\08_properties-applications.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 622,
+      "markdown_body_line_end": 629,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Property/process | What it controls | Qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Property/process",
+          "What it controls",
+          "Qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 506.15
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 343.148
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 636,
+      "markdown_body_line_end": 636,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Rock name alone never determines land use: porosity, permeability, fractures, weathering, structure and site conditions jointly control groundwater, soils, foundations, dams and slope behav",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 217.548
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 158.68
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 640,
+      "markdown_body_line_end": 657,
+      "heading": "CLOSING RECALL FLOW - ROCK PROPERTIES AND APPLIED GEOGRAPHY",
+      "preview": "START / CONCEPT: ROCK PROPERTIES AND APPLIED GEOGRAPHY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 223
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 662,
+      "markdown_body_line_end": 673,
+      "heading": "VISUAL FIRST",
+      "preview": "CONTINENTAL DRIFT: WEGENER’S EVIDENCE AND LIMITATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 477.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 366.291
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 685,
+      "markdown_body_line_end": 685,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Continental drift became persuasive because shelf-edge fit, matching rock belts, fossils, palaeoclimate and palaeomagnetism independently point to former continental connections, even though Wegener lacked an adequate mechanism.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 263.291
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 182.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 700,
+      "markdown_body_line_end": 700,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Drift evidence",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\09_drift-evidence.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 750.691
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 453.55
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 702,
+      "markdown_body_line_end": 708,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Evidence | Observation | Logic",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Evidence",
+          "Observation",
+          "Logic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 453.55
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 278.148
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 714,
+      "markdown_body_line_end": 714,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Continental drift became persuasive because shelf-edge fit, matching rock belts, fossils, palaeoclimate and palaeomagnetism independently point to former continental connections, even thoug",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 198.148
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 139.28
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 718,
+      "markdown_body_line_end": 735,
+      "heading": "CLOSING RECALL FLOW - CONTINENTAL DRIFT: WEGENER'S EVIDENCE AND LIMITATION",
+      "preview": "START / CONCEPT: CONTINENTAL DRIFT: WEGENER’S EVIDENCE AND LIMITATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 257
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 586.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 740,
+      "markdown_body_line_end": 751,
+      "heading": "VISUAL FIRST",
+      "preview": "SEA-FLOOR SPREADING: OCEANIC EVIDENCE AND MASS BALANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 507.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 396.291
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 763,
+      "markdown_body_line_end": 763,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Sea-floor spreading creates young oceanic crust at mid-ocean ridges, records symmetrical magnetic stripes and balances creation by consuming older lithosphere at trenches, so the Earth does not expand.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 293.291
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 226.624
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 778,
+      "markdown_body_line_end": 778,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Sea-floor spreading",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\10_seafloor-spreading.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 780,
+      "markdown_body_line_end": 790,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "UPWELLING AT MID-OCEAN RIDGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 9,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 506.15
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 405.15
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 797,
+      "markdown_body_line_end": 797,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Sea-floor spreading creates young oceanic crust at mid-ocean ridges, records symmetrical magnetic stripes and balances creation by consuming older lithosphere at trenches, so the Earth does",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 336.35
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 277.482
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 801,
+      "markdown_body_line_end": 818,
+      "heading": "CLOSING RECALL FLOW - SEA-FLOOR SPREADING: OCEANIC EVIDENCE AND MASS BALANCE",
+      "preview": "START / CONCEPT: SEA-FLOOR SPREADING: OCEANIC EVIDENCE AND MASS BALANCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 230
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 255.482
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 44.482
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 823,
+      "markdown_body_line_end": 834,
+      "heading": "VISUAL FIRST",
+      "preview": "PLATE TECTONICS: BOUNDARY MATRIX AND LANDFORM DIAGNOSIS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 735.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 624.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 846,
+      "markdown_body_line_end": 846,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Plate boundaries are diagnosed by motion and products: divergence creates crust, subduction destroys oceanic crust, continent collision thickens crust, and transform motion conserves crust while generating shallow earthquakes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 507.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 440.424
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 861,
+      "markdown_body_line_end": 861,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Plate-boundary matrix",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\10b_plate-boundaries.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 262.624
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        26,
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 863,
+      "markdown_body_line_end": 869,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Boundary | Motion | Diagnostic products | Example logic",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 5,
+        "headers": [
+          "Boundary",
+          "Motion",
+          "Diagnostic products",
+          "Example logic"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 506.15
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 327.248
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 875,
+      "markdown_body_line_end": 875,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Plate boundaries are diagnosed by motion and products: divergence creates crust, subduction destroys oceanic crust, continent collision thickens crust, and transform motion conserves crust ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 247.248
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 188.38
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 879,
+      "markdown_body_line_end": 896,
+      "heading": "CLOSING RECALL FLOW - PLATE TECTONICS: BOUNDARY MATRIX AND LANDFORM DIAGNOSIS",
+      "preview": "START / CONCEPT: PLATE TECTONICS: BOUNDARY MATRIX AND LANDFORM DIAGNOSIS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 255
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 556.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 901,
+      "markdown_body_line_end": 912,
+      "heading": "VISUAL FIRST",
+      "preview": "OCEAN-BASIN EVOLUTION: WILSON-CYCLE ANALOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 477.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 366.291
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 924,
+      "markdown_body_line_end": 924,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Wilson cycle is an analogy for rifting, ocean opening, subduction, closure and suturing, not a fixed destiny that every ocean basin must complete.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 263.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 196.624
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 939,
+      "markdown_body_line_end": 939,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Wilson-cycle analogy",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\11_wilson-cycle.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 764.891
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 467.75
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 941,
+      "markdown_body_line_end": 948,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Stage model | Process | Present-day analogy",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Stage model",
+          "Process",
+          "Present-day analogy"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 467.75
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 315.948
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0071",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 954,
+      "markdown_body_line_end": 954,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The Wilson cycle is an analogy for rifting, ocean opening, subduction, closure and suturing, not a fixed destiny that every ocean basin must complete.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 29,
+          "frame_y": 264.348
+        },
+        "end": {
+          "page": 29,
+          "frame_y": 219.68
+        }
+      },
+      "pdf_pages": [
+        29
+      ]
+    },
+    {
+      "visual_id": "visual-0072",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 958,
+      "markdown_body_line_end": 975,
+      "heading": "CLOSING RECALL FLOW - OCEAN-BASIN EVOLUTION: WILSON-CYCLE ANALOGY",
+      "preview": "START / CONCEPT: OCEAN-BASIN EVOLUTION: WILSON-CYCLE ANALOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 179
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 566.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0073",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 980,
+      "markdown_body_line_end": 991,
+      "heading": "VISUAL FIRST",
+      "preview": "ISOSTASY AND OROGENY",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 506.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 395.291
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0074",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1003,
+      "markdown_body_line_end": 1003,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Isostasy explains vertical crustal adjustment, while orogeny explains mountain building through shortening, thickening and uplift; erosion and unloading can then trigger further isostatic response.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 30,
+          "frame_y": 292.291
+        },
+        "end": {
+          "page": 30,
+          "frame_y": 225.624
+        }
+      },
+      "pdf_pages": [
+        30
+      ]
+    },
+    {
+      "visual_id": "visual-0075",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1018,
+      "markdown_body_line_end": 1018,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Isostasy and orogeny",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\11b_isostasy-orogeny.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0076",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1028,
+      "markdown_body_line_end": 1028,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Isostasy explains vertical crustal adjustment, while orogeny explains mountain building through shortening, thickening and uplift; erosion and unloading can then trigger further isostatic r",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 357.35
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 298.482
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0077",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1032,
+      "markdown_body_line_end": 1049,
+      "heading": "CLOSING RECALL FLOW - ISOSTASY AND OROGENY",
+      "preview": "START / CONCEPT: ISOSTASY AND OROGENY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 226
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 31,
+          "frame_y": 276.482
+        },
+        "end": {
+          "page": 31,
+          "frame_y": 55.482
+        }
+      },
+      "pdf_pages": [
+        31
+      ]
+    },
+    {
+      "visual_id": "visual-0078",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1054,
+      "markdown_body_line_end": 1065,
+      "heading": "VISUAL FIRST",
+      "preview": "WORLD-TO-INDIA TRANSITION: STRUCTURE EXPRESSED AS RELIEF",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 56
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 735.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 624.291
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0079",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1077,
+      "markdown_body_line_end": 1077,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Structure controls broad relief and resource opportunity, while climate, weathering, rivers and human use modify it.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 521.291
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 468.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0080",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1092,
+      "markdown_body_line_end": 1100,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "ANCIENT PENINSULAR SHIELD",
+      "metadata": {
+        "language": "text",
+        "line_count": 7,
+        "max_source_line_length": 51
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 32,
+          "frame_y": 276.824
+        },
+        "end": {
+          "page": 32,
+          "frame_y": 195.824
+        }
+      },
+      "pdf_pages": [
+        32
+      ]
+    },
+    {
+      "visual_id": "visual-0081",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1106,
+      "markdown_body_line_end": 1113,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Broad physiographic expression | Structural mechanism | Consequence only at this owner’s boundary",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 6,
+        "headers": [
+          "Broad physiographic expression",
+          "Structural mechanism",
+          "Consequence only at this owner’s boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 573.09
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0082",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1119,
+      "markdown_body_line_end": 1136,
+      "heading": "CLOSING RECALL FLOW - WORLD-TO-INDIA TRANSITION: STRUCTURE EXPRESSED AS RELIEF",
+      "preview": "START / CONCEPT: WORLD-TO-INDIA TRANSITION: STRUCTURE EXPRESSED AS RELIEF",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 227
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 33,
+          "frame_y": 531.89
+        },
+        "end": {
+          "page": 33,
+          "frame_y": 290.89
+        }
+      },
+      "pdf_pages": [
+        33
+      ]
+    },
+    {
+      "visual_id": "visual-0083",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1141,
+      "markdown_body_line_end": 1152,
+      "heading": "VISUAL FIRST",
+      "preview": "SCOPE: GEOLOGICAL STRUCTURE VERSUS PHYSIOGRAPHY AND GEOMORPHOLOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0084",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1164,
+      "markdown_body_line_end": 1164,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India’s geological skeleton consists of an ancient Peninsular shield, an active Himalayan fold-thrust belt and a sediment-filled Indo-Ganga-Brahmaputra foreland basin linked by collision, flexure, erosion and deposition.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 559.091
+        },
+        "end": {
+          "page": 34,
+          "frame_y": 492.424
+        }
+      },
+      "pdf_pages": [
+        34
+      ]
+    },
+    {
+      "visual_id": "visual-0085",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1179,
+      "markdown_body_line_end": 1179,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Three-province national skeleton",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\14_three-province-cross-section.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 34,
+          "frame_y": 300.424
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        34,
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0086",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1197,
+      "markdown_body_line_end": 1201,
+      "heading": "Evidence/recall matrix",
+      "preview": "Term | What it asks | India example",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "Term",
+          "What it asks",
+          "India example"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 35,
+          "frame_y": 260.35
+        },
+        "end": {
+          "page": 35,
+          "frame_y": 172.148
+        }
+      },
+      "pdf_pages": [
+        35
+      ]
+    },
+    {
+      "visual_id": "visual-0087",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1219,
+      "markdown_body_line_end": 1219,
+      "heading": "Common UPSC traps",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** India’s geological skeleton consists of an ancient Peninsular shield, an active Himalayan fold-thrust belt and a sediment-filled Indo-Ganga-Brahmaputra foreland basin linked by collision, f",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 719.291
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 660.424
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0088",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1223,
+      "markdown_body_line_end": 1240,
+      "heading": "CLOSING RECALL FLOW - SCOPE: GEOLOGICAL STRUCTURE VERSUS PHYSIOGRAPHY AND GEOMORPHOLOGY",
+      "preview": "START / CONCEPT: SCOPE: GEOLOGICAL STRUCTURE VERSUS PHYSIOGRAPHY AND GEOMORPHOLOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 249
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 625.424
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 394.424
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0089",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1245,
+      "markdown_body_line_end": 1256,
+      "heading": "VISUAL FIRST",
+      "preview": "GEOLOGICAL TIME, EVIDENCE AND DATING CAUTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 315.424
+        },
+        "end": {
+          "page": 36,
+          "frame_y": 204.424
+        }
+      },
+      "pdf_pages": [
+        36
+      ]
+    },
+    {
+      "visual_id": "visual-0090",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1268,
+      "markdown_body_line_end": 1268,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A safe geological chronology combines superposition, cross-cutting relations, unconformities, fossils, radiometric event ages, palaeomagnetism and geophysics; relative order is often safer than memorised numerical ages.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 36,
+          "frame_y": 101.424
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        36,
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0091",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1283,
+      "markdown_body_line_end": 1283,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Geological evidence ladder",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\12_geological-evidence-ladder.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 37,
+          "frame_y": 550.624
+        },
+        "end": {
+          "page": 37,
+          "frame_y": 253.482
+        }
+      },
+      "pdf_pages": [
+        37
+      ]
+    },
+    {
+      "visual_id": "visual-0092",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1305,
+      "markdown_body_line_end": 1311,
+      "heading": "Evidence/recall matrix",
+      "preview": "Evidence | What it can establish | Caution",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Evidence",
+          "What it can establish",
+          "Caution"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 719.491
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 588.89
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0093",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1329,
+      "markdown_body_line_end": 1329,
+      "heading": "Common UPSC traps",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** A safe geological chronology combines superposition, cross-cutting relations, unconformities, fossils, radiometric event ages, palaeomagnetism and geophysics; relative order is often safer ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 380.89
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 322.022
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0094",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1333,
+      "markdown_body_line_end": 1350,
+      "heading": "CLOSING RECALL FLOW - GEOLOGICAL TIME, EVIDENCE AND DATING CAUTIONS",
+      "preview": "START / CONCEPT: GEOLOGICAL TIME, EVIDENCE AND DATING CAUTIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 248
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 38,
+          "frame_y": 300.022
+        },
+        "end": {
+          "page": 38,
+          "frame_y": 79.022
+        }
+      },
+      "pdf_pages": [
+        38
+      ]
+    },
+    {
+      "visual_id": "visual-0095",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1355,
+      "markdown_body_line_end": 1366,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIAN PLATE: GONDWANA ORIGIN, BREAK-UP, DRIFT AND COLLISION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 735.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 624.291
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0096",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1378,
+      "markdown_body_line_end": 1378,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Indian plate journey links Gondwana rifting, northward motion, Tethyan ocean closure and prolonged India-Eurasia collision to Himalayan uplift, foreland subsidence and continuing seismicity.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 521.291
+        },
+        "end": {
+          "page": 39,
+          "frame_y": 454.624
+        }
+      },
+      "pdf_pages": [
+        39
+      ]
+    },
+    {
+      "visual_id": "visual-0097",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1393,
+      "markdown_body_line_end": 1393,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Indian plate journey",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\13_indian-plate-journey.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 39,
+          "frame_y": 276.824
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        39,
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0098",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1413,
+      "markdown_body_line_end": 1419,
+      "heading": "Evidence/recall matrix",
+      "preview": "Stage | Process | Indian geological result",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Stage",
+          "Process",
+          "Indian geological result"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 40,
+          "frame_y": 241.15
+        },
+        "end": {
+          "page": 40,
+          "frame_y": 110.548
+        }
+      },
+      "pdf_pages": [
+        40
+      ]
+    },
+    {
+      "visual_id": "visual-0099",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1437,
+      "markdown_body_line_end": 1437,
+      "heading": "Common UPSC traps",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The Indian plate journey links Gondwana rifting, northward motion, Tethyan ocean closure and prolonged India-Eurasia collision to Himalayan uplift, foreland subsidence and continuing seismi",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 671.891
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 613.024
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0100",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1441,
+      "markdown_body_line_end": 1458,
+      "heading": "CLOSING RECALL FLOW - INDIAN PLATE: GONDWANA ORIGIN, BREAK-UP, DRIFT AND COLLISION",
+      "preview": "START / CONCEPT: INDIAN PLATE: GONDWANA ORIGIN, BREAK-UP, DRIFT AND COLLISION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 223
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 591.024
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 380.024
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0101",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1463,
+      "markdown_body_line_end": 1474,
+      "heading": "VISUAL FIRST",
+      "preview": "CRATONS, SHIELDS AND THE STABILISED PENINSULAR BLOCK",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 52
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 41,
+          "frame_y": 301.024
+        },
+        "end": {
+          "page": 41,
+          "frame_y": 190.024
+        }
+      },
+      "pdf_pages": [
+        41
+      ]
+    },
+    {
+      "visual_id": "visual-0102",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1486,
+      "markdown_body_line_end": 1486,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Peninsular India is a mosaic of cratons and mobile belts later cut by faults, rifts, dykes and basins and partly covered by younger sediments and lava, so stable never means uniform, flat or earthquake-free.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0103",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1501,
+      "markdown_body_line_end": 1501,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Peninsular cratons and mobile belts",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\15_craton-mobile-belt-map.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 42,
+          "frame_y": 564.824
+        },
+        "end": {
+          "page": 42,
+          "frame_y": 267.682
+        }
+      },
+      "pdf_pages": [
+        42
+      ]
+    },
+    {
+      "visual_id": "visual-0104",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1521,
+      "markdown_body_line_end": 1527,
+      "heading": "Evidence/recall matrix",
+      "preview": "Block/belt | Broad region | Exam-safe cue",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Block/belt",
+          "Broad region",
+          "Exam-safe cue"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 752.891
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 611.09
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0105",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1545,
+      "markdown_body_line_end": 1545,
+      "heading": "Common UPSC traps",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Peninsular India is a mosaic of cratons and mobile belts later cut by faults, rifts, dykes and basins and partly covered by younger sediments and lava, so stable never means uniform, flat o",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 403.09
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 344.222
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0106",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1549,
+      "markdown_body_line_end": 1566,
+      "heading": "CLOSING RECALL FLOW - CRATONS, SHIELDS AND THE STABILISED PENINSULAR BLOCK",
+      "preview": "START / CONCEPT: CRATONS, SHIELDS AND THE STABILISED PENINSULAR BLOCK",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 236
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 43,
+          "frame_y": 322.222
+        },
+        "end": {
+          "page": 43,
+          "frame_y": 71.222
+        }
+      },
+      "pdf_pages": [
+        43
+      ]
+    },
+    {
+      "visual_id": "visual-0107",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1571,
+      "markdown_body_line_end": 1582,
+      "heading": "VISUAL FIRST",
+      "preview": "ARCHAEAN AND DHARWAR SYSTEMS: DISTRIBUTION AND TERMINOLOGY CONTROL",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 735.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 624.291
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0108",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1594,
+      "markdown_body_line_end": 1594,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Archaean granitoid-gneiss basement and Dharwar-type supracrustal belts form distinct parts of the ancient shield, and their ore associations reflect specific magmatic, sedimentary, metamorphic and hydrothermal histories rather than age alon",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 521.291
+        },
+        "end": {
+          "page": 44,
+          "frame_y": 440.424
+        }
+      },
+      "pdf_pages": [
+        44
+      ]
+    },
+    {
+      "visual_id": "visual-0109",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1609,
+      "markdown_body_line_end": 1609,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Archaean and Dharwar sequence",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\16_archaean-purana-sequence.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 44,
+          "frame_y": 262.624
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        44,
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0110",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1629,
+      "markdown_body_line_end": 1634,
+      "heading": "Evidence/recall matrix",
+      "preview": "Unit | Exam-safe description | Distribution hook",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Unit",
+          "Exam-safe description",
+          "Distribution hook"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 45,
+          "frame_y": 241.15
+        },
+        "end": {
+          "page": 45,
+          "frame_y": 109.348
+        }
+      },
+      "pdf_pages": [
+        45
+      ]
+    },
+    {
+      "visual_id": "visual-0111",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1652,
+      "markdown_body_line_end": 1652,
+      "heading": "Common UPSC traps",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Archaean granitoid-gneiss basement and Dharwar-type supracrustal belts form distinct parts of the ancient shield, and their ore associations reflect specific magmatic, sedimentary, metamorp",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 671.891
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 613.024
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0112",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1656,
+      "markdown_body_line_end": 1673,
+      "heading": "CLOSING RECALL FLOW - ARCHAEAN AND DHARWAR SYSTEMS: DISTRIBUTION AND TERMINOLOGY CONTROL",
+      "preview": "START / CONCEPT: ARCHAEAN AND DHARWAR SYSTEMS: DISTRIBUTION AND TERMINOLOGY CONTROL",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 271
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 46,
+          "frame_y": 578.024
+        },
+        "end": {
+          "page": 46,
+          "frame_y": 347.024
+        }
+      },
+      "pdf_pages": [
+        46
+      ]
+    },
+    {
+      "visual_id": "visual-0113",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1678,
+      "markdown_body_line_end": 1689,
+      "heading": "VISUAL FIRST",
+      "preview": "PROTEROZOIC PURANA BASINS: CUDDAPAH AND VINDHYAN",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 48
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0114",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1701,
+      "markdown_body_line_end": 1701,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Purana is an older Indian label for Proterozoic basin successions such as Cuddapah and Vindhyan, which rest unconformably on older basement and record long-lived sedimentation rather than one uniform mineral province.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 559.091
+        },
+        "end": {
+          "page": 47,
+          "frame_y": 492.424
+        }
+      },
+      "pdf_pages": [
+        47
+      ]
+    },
+    {
+      "visual_id": "visual-0115",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1716,
+      "markdown_body_line_end": 1716,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Purana basin sequence",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\16_archaean-purana-sequence.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 47,
+          "frame_y": 300.424
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        47,
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0116",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1736,
+      "markdown_body_line_end": 1739,
+      "heading": "Evidence/recall matrix",
+      "preview": "System | Broad lithology | Distribution | Significance",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 2,
+        "headers": [
+          "System",
+          "Broad lithology",
+          "Distribution",
+          "Significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 48,
+          "frame_y": 226.95
+        },
+        "end": {
+          "page": 48,
+          "frame_y": 141.048
+        }
+      },
+      "pdf_pages": [
+        48
+      ]
+    },
+    {
+      "visual_id": "visual-0117",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1757,
+      "markdown_body_line_end": 1757,
+      "heading": "Common UPSC traps",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Purana is an older Indian label for Proterozoic basin successions such as Cuddapah and Vindhyan, which rest unconformably on older basement and record long-lived sedimentation rather than o",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 686.091
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 627.224
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0118",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1761,
+      "markdown_body_line_end": 1778,
+      "heading": "CLOSING RECALL FLOW - PROTEROZOIC PURANA BASINS: CUDDAPAH AND VINDHYAN",
+      "preview": "START / CONCEPT: PROTEROZOIC PURANA BASINS: CUDDAPAH AND VINDHYAN",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 246
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 49,
+          "frame_y": 605.224
+        },
+        "end": {
+          "page": 49,
+          "frame_y": 374.224
+        }
+      },
+      "pdf_pages": [
+        49
+      ]
+    },
+    {
+      "visual_id": "visual-0119",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1783,
+      "markdown_body_line_end": 1794,
+      "heading": "VISUAL FIRST",
+      "preview": "GONDWANA SUPERGROUP: RIFT BASINS, COAL AND CONTINENTAL SEDIMENTATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0120",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1806,
+      "markdown_body_line_end": 1806,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Gondwana Supergroup is a fault-basin continental sedimentary succession with important coal measures; it must not be confused with Gondwana, the southern palaeocontinent.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 573.291
+        },
+        "end": {
+          "page": 50,
+          "frame_y": 506.624
+        }
+      },
+      "pdf_pages": [
+        50
+      ]
+    },
+    {
+      "visual_id": "visual-0121",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1821,
+      "markdown_body_line_end": 1821,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Gondwana rift basins",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\17_gondwana-basins.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 50,
+          "frame_y": 328.824
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 799.89
+        }
+      },
+      "pdf_pages": [
+        50,
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0122",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1841,
+      "markdown_body_line_end": 1846,
+      "heading": "Evidence/recall matrix",
+      "preview": "Basin belt | Named anchors | Structural cue",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Basin belt",
+          "Named anchors",
+          "Structural cue"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 549.09
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 439.688
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0123",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1864,
+      "markdown_body_line_end": 1864,
+      "heading": "Common UPSC traps",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The Gondwana Supergroup is a fault-basin continental sedimentary succession with important coal measures; it must not be confused with Gondwana, the southern palaeocontinent.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 51,
+          "frame_y": 231.688
+        },
+        "end": {
+          "page": 51,
+          "frame_y": 172.82
+        }
+      },
+      "pdf_pages": [
+        51
+      ]
+    },
+    {
+      "visual_id": "visual-0124",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1868,
+      "markdown_body_line_end": 1885,
+      "heading": "CLOSING RECALL FLOW - GONDWANA SUPERGROUP: RIFT BASINS, COAL AND CONTINENTAL SEDIMENTATION",
+      "preview": "START / CONCEPT: GONDWANA SUPERGROUP: RIFT BASINS, COAL AND CONTINENTAL SEDIMENTATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 203
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 563.291
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0125",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1890,
+      "markdown_body_line_end": 1901,
+      "heading": "VISUAL FIRST",
+      "preview": "MARINE SEDIMENTARY BASINS, COASTS AND OFFSHORE PETROLEUM LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 484.291
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 373.291
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0126",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1913,
+      "markdown_body_line_end": 1913,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Do not claim every named basin is equally productive or that all offshore oil is young.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 52,
+          "frame_y": 298.691
+        },
+        "end": {
+          "page": 52,
+          "frame_y": 246.224
+        }
+      },
+      "pdf_pages": [
+        52
+      ]
+    },
+    {
+      "visual_id": "visual-0127",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 1928,
+      "markdown_body_line_end": 1928,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Petroleum-system logic",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\18_petroleum-system.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0128",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1948,
+      "markdown_body_line_end": 1953,
+      "heading": "Evidence/recall matrix",
+      "preview": "Setting | Examples | Geological significance",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Setting",
+          "Examples",
+          "Geological significance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 53,
+          "frame_y": 226.95
+        },
+        "end": {
+          "page": 53,
+          "frame_y": 117.548
+        }
+      },
+      "pdf_pages": [
+        53
+      ]
+    },
+    {
+      "visual_id": "visual-0129",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1971,
+      "markdown_body_line_end": 1971,
+      "heading": "Common UPSC traps",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** A sedimentary basin offers petroleum potential only when source, maturation, migration, reservoir, seal, trap and timing form a complete preserved system, whether onshore or offshore.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 686.091
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 627.224
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0130",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1975,
+      "markdown_body_line_end": 1992,
+      "heading": "CLOSING RECALL FLOW - MARINE SEDIMENTARY BASINS, COASTS AND OFFSHORE PETROLEUM LOGIC",
+      "preview": "START / CONCEPT: MARINE SEDIMENTARY BASINS, COASTS AND OFFSHORE PETROLEUM LOGIC",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 188
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 54,
+          "frame_y": 592.224
+        },
+        "end": {
+          "page": 54,
+          "frame_y": 371.224
+        }
+      },
+      "pdf_pages": [
+        54
+      ]
+    },
+    {
+      "visual_id": "visual-0131",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1997,
+      "markdown_body_line_end": 2008,
+      "heading": "VISUAL FIRST",
+      "preview": "DECCAN TRAP: FLOOD-BASALT PROVINCE AND BOUNDED SURFACE LINKAGES",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 676.291
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0132",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2020,
+      "markdown_body_line_end": 2020,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Deccan Trap is a Late Cretaceous flood-basalt province of stacked fissure-fed flows whose contacts, fractures, vesicular zones and weathering create step relief, black-soil parent material and highly variable aquifers.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 559.091
+        },
+        "end": {
+          "page": 55,
+          "frame_y": 492.424
+        }
+      },
+      "pdf_pages": [
+        55
+      ]
+    },
+    {
+      "visual_id": "visual-0133",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2035,
+      "markdown_body_line_end": 2035,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Deccan Trap cross-section",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\19_deccan-trap-section.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 55,
+          "frame_y": 314.624
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        55,
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0134",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2057,
+      "markdown_body_line_end": 2062,
+      "heading": "Evidence/recall matrix",
+      "preview": "Feature | Geological cause | Surface/resource effect",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Feature",
+          "Geological cause",
+          "Surface/resource effect"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 56,
+          "frame_y": 221.95
+        },
+        "end": {
+          "page": 56,
+          "frame_y": 112.548
+        }
+      },
+      "pdf_pages": [
+        56
+      ]
+    },
+    {
+      "visual_id": "visual-0135",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2080,
+      "markdown_body_line_end": 2080,
+      "heading": "Common UPSC traps",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The Deccan Trap is a Late Cretaceous flood-basalt province of stacked fissure-fed flows whose contacts, fractures, vesicular zones and weathering create step relief, black-soil parent mater",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 686.091
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 627.224
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0136",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2084,
+      "markdown_body_line_end": 2101,
+      "heading": "CLOSING RECALL FLOW - DECCAN TRAP: FLOOD-BASALT PROVINCE AND BOUNDED SURFACE LINKAGES",
+      "preview": "START / CONCEPT: DECCAN TRAP: FLOOD-BASALT PROVINCE AND BOUNDED SURFACE LINKAGES",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 251
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 592.224
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 381.224
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0137",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2106,
+      "markdown_body_line_end": 2117,
+      "heading": "VISUAL FIRST",
+      "preview": "HIMALAYA: FROM GEOSYNCLINAL LANGUAGE TO MODERN PLATE TECTONICS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 57,
+          "frame_y": 302.224
+        },
+        "end": {
+          "page": 57,
+          "frame_y": 191.224
+        }
+      },
+      "pdf_pages": [
+        57
+      ]
+    },
+    {
+      "visual_id": "visual-0138",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2129,
+      "markdown_body_line_end": 2129,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Himalaya is a continent-collision fold-thrust orogen containing sedimentary, metamorphic and crystalline belts; unlike the Andes, it is not primarily a volcanic subduction arc.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0139",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2144,
+      "markdown_body_line_end": 2144,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Himalayan structural order",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\20_himalayan-thrust-section.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 58,
+          "frame_y": 550.624
+        },
+        "end": {
+          "page": 58,
+          "frame_y": 253.482
+        }
+      },
+      "pdf_pages": [
+        58
+      ]
+    },
+    {
+      "visual_id": "visual-0140",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2166,
+      "markdown_body_line_end": 2171,
+      "heading": "Evidence/recall matrix",
+      "preview": "South-north belt | Broad character | High-yield boundary",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "South-north belt",
+          "Broad character",
+          "High-yield boundary"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 686.091
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 543.09
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0141",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2189,
+      "markdown_body_line_end": 2189,
+      "heading": "Common UPSC traps",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The Himalaya is a continent-collision fold-thrust orogen containing sedimentary, metamorphic and crystalline belts; unlike the Andes, it is not primarily a volcanic subduction arc.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 349.29
+        },
+        "end": {
+          "page": 59,
+          "frame_y": 290.422
+        }
+      },
+      "pdf_pages": [
+        59
+      ]
+    },
+    {
+      "visual_id": "visual-0142",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2193,
+      "markdown_body_line_end": 2210,
+      "heading": "CLOSING RECALL FLOW - HIMALAYA: FROM GEOSYNCLINAL LANGUAGE TO MODERN PLATE TECTONICS",
+      "preview": "START / CONCEPT: HIMALAYA: FROM GEOSYNCLINAL LANGUAGE TO MODERN PLATE TECTONICS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 209
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 59,
+          "frame_y": 255.422
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 803.291
+        }
+      },
+      "pdf_pages": [
+        59,
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0143",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2215,
+      "markdown_body_line_end": 2226,
+      "heading": "VISUAL FIRST",
+      "preview": "INDO-GANGA-BRAHMAPUTRA FORELAND BASIN AND ALLUVIAL FILL",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 55
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 735.291
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 624.291
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0144",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2238,
+      "markdown_body_line_end": 2238,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "The Indo-Ganga-Brahmaputra Plain is not structureless alluvium but a flexural foreland basin whose thick sediment supports fertile soils and aquifers while also influencing floods, subsidence and seismic site response.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 492.891
+        },
+        "end": {
+          "page": 60,
+          "frame_y": 426.224
+        }
+      },
+      "pdf_pages": [
+        60
+      ]
+    },
+    {
+      "visual_id": "visual-0145",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2253,
+      "markdown_body_line_end": 2253,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Foreland basin",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\21_foreland-plain.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 60,
+          "frame_y": 234.224
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        60,
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0146",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2273,
+      "markdown_body_line_end": 2278,
+      "heading": "Evidence/recall matrix",
+      "preview": "Process | Result | Exam linkage",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Process",
+          "Result",
+          "Exam linkage"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 61,
+          "frame_y": 255.35
+        },
+        "end": {
+          "page": 61,
+          "frame_y": 145.948
+        }
+      },
+      "pdf_pages": [
+        61
+      ]
+    },
+    {
+      "visual_id": "visual-0147",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2296,
+      "markdown_body_line_end": 2296,
+      "heading": "Common UPSC traps",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The Indo-Ganga-Brahmaputra Plain is not structureless alluvium but a flexural foreland basin whose thick sediment supports fertile soils and aquifers while also influencing floods, subsiden",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 719.291
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 660.424
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0148",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2300,
+      "markdown_body_line_end": 2317,
+      "heading": "CLOSING RECALL FLOW - INDO-GANGA-BRAHMAPUTRA FORELAND BASIN AND ALLUVIAL FILL",
+      "preview": "START / CONCEPT: INDO-GANGA-BRAHMAPUTRA FORELAND BASIN AND ALLUVIAL FILL",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 247
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 638.424
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 417.424
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0149",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2322,
+      "markdown_body_line_end": 2333,
+      "heading": "VISUAL FIRST",
+      "preview": "COASTS, OFFSHORE BASINS AND ISLAND-ARC VERSUS CORAL-ISLAND DISTINCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 338.424
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 227.424
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0150",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2345,
+      "markdown_body_line_end": 2345,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Andaman-Nicobar belongs to an active subduction-related arc-forearc system, whereas Lakshadweep consists of coral atolls on a submarine volcanic-ridge foundation; Indian island geology is therefore not uniform.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 62,
+          "frame_y": 124.424
+        },
+        "end": {
+          "page": 62,
+          "frame_y": 57.756
+        }
+      },
+      "pdf_pages": [
+        62
+      ]
+    },
+    {
+      "visual_id": "visual-0151",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2360,
+      "markdown_body_line_end": 2360,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Coasts and islands",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\22_coasts-islands.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 63,
+          "frame_y": 617.291
+        },
+        "end": {
+          "page": 63,
+          "frame_y": 320.15
+        }
+      },
+      "pdf_pages": [
+        63
+      ]
+    },
+    {
+      "visual_id": "visual-0152",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2380,
+      "markdown_body_line_end": 2385,
+      "heading": "Evidence/recall matrix",
+      "preview": "Island/coast | Foundation | Surface expression | Hazard cue",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 4,
+        "headers": [
+          "Island/coast",
+          "Foundation",
+          "Surface expression",
+          "Hazard cue"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 639.39
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0153",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2403,
+      "markdown_body_line_end": 2403,
+      "heading": "Common UPSC traps",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Andaman-Nicobar belongs to an active subduction-related arc-forearc system, whereas Lakshadweep consists of coral atolls on a submarine volcanic-ridge foundation; Indian island geology is t",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 445.59
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 386.722
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0154",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2407,
+      "markdown_body_line_end": 2424,
+      "heading": "CLOSING RECALL FLOW - COASTS, OFFSHORE BASINS AND ISLAND-ARC VERSUS CORAL-ISLAND DISTINCTION",
+      "preview": "START / CONCEPT: COASTS, OFFSHORE BASINS AND ISLAND-ARC VERSUS CORAL-ISLAND DISTINCTION",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 239
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 351.722
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 120.722
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0155",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2429,
+      "markdown_body_line_end": 2440,
+      "heading": "VISUAL FIRST",
+      "preview": "MAJOR LINEAMENTS, FAULTS AND RIFTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 47
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 754.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 643.291
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0156",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2452,
+      "markdown_body_line_end": 2452,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "A rift is an extensional crustal zone, a graben is a down-dropped fault block, and a lineament is a mapped linear feature that is not automatically an active fault.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 554.491
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 487.824
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0157",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2467,
+      "markdown_body_line_end": 2467,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Faults and rifts",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\23_faults-rifts-lineaments.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 310.024
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        65,
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0158",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2487,
+      "markdown_body_line_end": 2493,
+      "heading": "Evidence/recall matrix",
+      "preview": "System | Orientation/region | Key geological link",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "System",
+          "Orientation/region",
+          "Key geological link"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 269.55
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 138.948
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0159",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2511,
+      "markdown_body_line_end": 2511,
+      "heading": "Common UPSC traps",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** A rift is an extensional crustal zone, a graben is a down-dropped fault block, and a lineament is a mapped linear feature that is not automatically an active fault.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 671.891
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 627.224
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0160",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2515,
+      "markdown_body_line_end": 2532,
+      "heading": "CLOSING RECALL FLOW - MAJOR LINEAMENTS, FAULTS AND RIFTS",
+      "preview": "START / CONCEPT: MAJOR LINEAMENTS, FAULTS AND RIFTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 193
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 605.224
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 404.224
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0161",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2537,
+      "markdown_body_line_end": 2548,
+      "heading": "VISUAL FIRST",
+      "preview": "STRUCTURAL CONTROL OF RELIEF, DRAINAGE, GROUNDWATER AND WATERFALLS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 325.224
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 214.224
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0162",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2560,
+      "markdown_body_line_end": 2560,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Geological structure becomes examinable when it explains why relief, rivers, groundwater and resource patterns are spatially organised.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 125.424
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 58.756
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0163",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2575,
+      "markdown_body_line_end": 2575,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Structure and surface applications",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\24_structure-applications.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 631.491
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 334.35
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    },
+    {
+      "visual_id": "visual-0164",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2595,
+      "markdown_body_line_end": 2601,
+      "heading": "Evidence/recall matrix",
+      "preview": "Structural element | Geomorphic/hydrologic expression | Named India cue",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Structural element",
+          "Geomorphic/hydrologic expression",
+          "Named India cue"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 656.69
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0165",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2619,
+      "markdown_body_line_end": 2619,
+      "heading": "Common UPSC traps",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Geological structure guides scarps, valleys, drainage patterns, waterfalls and groundwater through rock contrasts, bedding, joints and faults, but climate, erosion, base level and human act",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 448.69
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 389.822
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0166",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2623,
+      "markdown_body_line_end": 2640,
+      "heading": "CLOSING RECALL FLOW - STRUCTURAL CONTROL OF RELIEF, DRAINAGE, GROUNDWATER AND WATERFALLS",
+      "preview": "START / CONCEPT: STRUCTURAL CONTROL OF RELIEF, DRAINAGE, GROUNDWATER AND WATERFALLS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 164
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 69,
+          "frame_y": 354.822
+        },
+        "end": {
+          "page": 69,
+          "frame_y": 153.822
+        }
+      },
+      "pdf_pages": [
+        69
+      ]
+    },
+    {
+      "visual_id": "visual-0167",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2645,
+      "markdown_body_line_end": 2656,
+      "heading": "VISUAL FIRST",
+      "preview": "GEOLOGY, MINERALS, COAL AND PETROLEUM: ASSOCIATION WITHOUT DETERMINISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 735.291
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 624.291
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0168",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2668,
+      "markdown_body_line_end": 2668,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Shield belts, Gondwana basins and sedimentary margins are associated respectively with many metallic ores, coal and petroleum, but exploration, grade, preservation, technology, economics and environmental limits decide usable resources.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 535.491
+        },
+        "end": {
+          "page": 70,
+          "frame_y": 454.624
+        }
+      },
+      "pdf_pages": [
+        70
+      ]
+    },
+    {
+      "visual_id": "visual-0169",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2683,
+      "markdown_body_line_end": 2683,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Geology and resources",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\24_structure-applications.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 70,
+          "frame_y": 276.824
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        70,
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0170",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2705,
+      "markdown_body_line_end": 2711,
+      "heading": "Evidence/recall matrix",
+      "preview": "Geological setting | Likely resource association | Essential qualification",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Geological setting",
+          "Likely resource association",
+          "Essential qualification"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 71,
+          "frame_y": 221.95
+        },
+        "end": {
+          "page": 71,
+          "frame_y": 91.348
+        }
+      },
+      "pdf_pages": [
+        71
+      ]
+    },
+    {
+      "visual_id": "visual-0171",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2729,
+      "markdown_body_line_end": 2729,
+      "heading": "Common UPSC traps",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Shield belts, Gondwana basins and sedimentary margins are associated respectively with many metallic ores, coal and petroleum, but exploration, grade, preservation, technology, economics an",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 680.091
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 621.224
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0172",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2733,
+      "markdown_body_line_end": 2750,
+      "heading": "CLOSING RECALL FLOW - GEOLOGY, MINERALS, COAL AND PETROLEUM: ASSOCIATION WITHOUT DETERMINISM",
+      "preview": "START / CONCEPT: GEOLOGY, MINERALS, COAL AND PETROLEUM: ASSOCIATION WITHOUT DETERMINISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 265
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 586.224
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 385.224
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0173",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2755,
+      "markdown_body_line_end": 2766,
+      "heading": "VISUAL FIRST",
+      "preview": "SEISMICITY: HIMALAYA, KACHCHH AND PENINSULAR INTRAPLATE EVENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 10,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 72,
+          "frame_y": 306.224
+        },
+        "end": {
+          "page": 72,
+          "frame_y": 195.224
+        }
+      },
+      "pdf_pages": [
+        72
+      ]
+    },
+    {
+      "visual_id": "visual-0174",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2778,
+      "markdown_body_line_end": 2778,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India’s seismicity reflects active Himalayan and Andaman plate boundaries plus reactivation of inherited structures such as Kachchh and selected Peninsular faults; seismic zoning is a design generalisation, not earthquake prediction.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 728.424
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0175",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2793,
+      "markdown_body_line_end": 2793,
+      "heading": "MUST-WRITE KEYWORDS",
+      "preview": "Bounded seismic application",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\24_structure-applications.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 73,
+          "frame_y": 550.624
+        },
+        "end": {
+          "page": 73,
+          "frame_y": 253.482
+        }
+      },
+      "pdf_pages": [
+        73
+      ]
+    },
+    {
+      "visual_id": "visual-0176",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2815,
+      "markdown_body_line_end": 2821,
+      "heading": "Evidence/recall matrix",
+      "preview": "Tectonic setting | India region | Principal geological control",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Tectonic setting",
+          "India region",
+          "Principal geological control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 719.491
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 588.89
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0177",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2839,
+      "markdown_body_line_end": 2839,
+      "heading": "Common UPSC traps",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** India’s seismicity reflects active Himalayan and Andaman plate boundaries plus reactivation of inherited structures such as Kachchh and selected Peninsular faults; seismic zoning is a desig",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 380.89
+        },
+        "end": {
+          "page": 74,
+          "frame_y": 322.022
+        }
+      },
+      "pdf_pages": [
+        74
+      ]
+    },
+    {
+      "visual_id": "visual-0178",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2844,
+      "markdown_body_line_end": 2844,
+      "heading": "REGIONAL COMPARISONS, MAP SKILLS AND ANSWER ARCHITECTURE",
+      "preview": "Regional comparison and answer architecture",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\25_regional-ncmm-answer-spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 74,
+          "frame_y": 280.822
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 506.15
+        }
+      },
+      "pdf_pages": [
+        74,
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0179",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2864,
+      "markdown_body_line_end": 2870,
+      "heading": "Evidence/recall matrix",
+      "preview": "Demand | Best visual | Core evidence",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 5,
+        "headers": [
+          "Demand",
+          "Best visual",
+          "Core evidence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 75,
+          "frame_y": 241.15
+        },
+        "end": {
+          "page": 75,
+          "frame_y": 110.548
+        }
+      },
+      "pdf_pages": [
+        75
+      ]
+    },
+    {
+      "visual_id": "visual-0180",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 2890,
+      "markdown_body_line_end": 2890,
+      "heading": "NATIONAL CRITICAL MINERAL MISSION: BOUNDED CURRENT ANCHOR",
+      "preview": "NCMM bounded anchor and answer spine",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-02\\g14\\assets\\25_regional-ncmm-answer-spine.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 664.091
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 366.95
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0181",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2900,
+      "markdown_body_line_end": 2900,
+      "heading": "NATIONAL CRITICAL MINERAL MISSION: BOUNDED CURRENT ANCHOR",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The National Critical Mineral Mission, approved on 29 January 2025, links domestic and offshore exploration with mining, processing, recycling, research, stockpiling and overseas acquisitio",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 219.15
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 160.282
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0182",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2902,
+      "markdown_body_line_end": 2902,
+      "heading": "NATIONAL CRITICAL MINERAL MISSION: BOUNDED CURRENT ANCHOR",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** India’s surface geography is best explained as inherited geological structure filtered through tectonics, weathering, climate, erosion, sediment transfer and human use, so every high-scorin",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 76,
+          "frame_y": 160.282
+        },
+        "end": {
+          "page": 76,
+          "frame_y": 101.414
+        }
+      },
+      "pdf_pages": [
+        76
+      ]
+    },
+    {
+      "visual_id": "visual-0183",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2906,
+      "markdown_body_line_end": 2923,
+      "heading": "CLOSING RECALL FLOW - SEISMICITY: HIMALAYA, KACHCHH AND PENINSULAR INTRAPLATE EVENTS",
+      "preview": "START / CONCEPT: SEISMICITY: HIMALAYA, KACHCHH AND PENINSULAR INTRAPLATE EVENTS",
+      "metadata": {
+        "language": "text",
+        "line_count": 16,
+        "max_source_line_length": 262
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 77,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 77,
+          "frame_y": 546.291
+        }
+      },
+      "pdf_pages": [
+        77
+      ]
+    },
+    {
+      "visual_id": "visual-0184",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3504,
+      "markdown_body_line_end": 3514,
+      "heading": "35. Audited PYQ ledger: nine genuinely relevant or adjacent routes",
+      "preview": "# | Year/paper | Route | Status and provenance",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 9,
+        "headers": [
+          "#",
+          "Year/paper",
+          "Route",
+          "Status and provenance"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 86,
+          "frame_y": 395.691
+        },
+        "end": {
+          "page": 86,
+          "frame_y": 155.79
+        }
+      },
+      "pdf_pages": [
+        86
+      ]
+    },
+    {
+      "visual_id": "visual-0185",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3542,
+      "markdown_body_line_end": 3547,
+      "heading": "38. UPSC Prelims 2024 Q10 - fold/block mountain matching",
+      "preview": "Region | Mountain range | Type stated in question",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Region",
+          "Mountain range",
+          "Type stated in question"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 87,
+          "frame_y": 207.491
+        },
+        "end": {
+          "page": 87,
+          "frame_y": 98.09
+        }
+      },
+      "pdf_pages": [
+        87
+      ]
+    },
+    {
+      "visual_id": "visual-0186",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3840,
+      "markdown_body_line_end": 3847,
+      "heading": "Mains answer replication grid",
+      "preview": "Practice route | Non-negotiable opening | Visual/structure to reproduce | Qualification that prevents overclaim",
+      "metadata": {
+        "column_count": 4,
+        "row_count": 6,
+        "headers": [
+          "Practice route",
+          "Non-negotiable opening",
+          "Visual/structure to reproduce",
+          "Qualification that prevents overclaim"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 96,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 96,
+          "frame_y": 566.89
+        }
+      },
+      "pdf_pages": [
+        96
+      ]
+    },
+    {
+      "visual_id": "visual-0187",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 3881,
+      "markdown_body_line_end": 3886,
+      "heading": "47. Older Indian rock-system schemes: useful only when declared",
+      "preview": "Older label | Broad textbook use | Control",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Older label",
+          "Broad textbook use",
+          "Control"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 97,
+          "frame_y": 549.891
+        },
+        "end": {
+          "page": 97,
+          "frame_y": 429.29
+        }
+      },
+      "pdf_pages": [
+        97
+      ]
+    },
+    {
+      "visual_id": "visual-0188",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3997,
+      "markdown_body_line_end": 3997,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Geological structure is the age, composition and architecture of rocks and tectonic features beneath a region, while physiography is their broad surface expression and geomorphology explain",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 681.091
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 622.224
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0189",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3999,
+      "markdown_body_line_end": 3999,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The crust is Earth’s outer compositional shell, whereas the lithosphere is the stronger mechanical layer comprising the crust plus the rigid uppermost mantle.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 622.224
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 577.556
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0190",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4001,
+      "markdown_body_line_end": 4001,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The rock cycle is an open network in which melting, crystallisation, weathering, lithification, metamorphism and uplift can connect any rock family through multiple pathways rather than one",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 577.556
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 518.688
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0191",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4003,
+      "markdown_body_line_end": 4003,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Igneous rocks record the cooling history and composition of magma or lava: slow intrusive cooling favours coarse crystals, while rapid extrusive cooling favours fine, glassy or vesicular te",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 518.688
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 459.82
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0192",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4005,
+      "markdown_body_line_end": 4005,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Sedimentary rocks convert weathered, transported or chemically and biologically produced material into layered rock through deposition, compaction and cementation, while preserving clues su",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 459.82
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 400.953
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0193",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4007,
+      "markdown_body_line_end": 4007,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Metamorphism changes a protolith in the solid state through heat, pressure, differential stress and reactive fluids, producing new minerals and fabrics without requiring complete melting.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 400.953
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 342.085
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0194",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4009,
+      "markdown_body_line_end": 4009,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Rock name alone never determines land use: porosity, permeability, fractures, weathering, structure and site conditions jointly control groundwater, soils, foundations, dams and slope behav",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 342.085
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 283.217
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0195",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4011,
+      "markdown_body_line_end": 4011,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Continental drift became persuasive because shelf-edge fit, matching rock belts, fossils, palaeoclimate and palaeomagnetism independently point to former continental connections, even thoug",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 283.217
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 224.35
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0196",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4013,
+      "markdown_body_line_end": 4013,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Sea-floor spreading creates young oceanic crust at mid-ocean ridges, records symmetrical magnetic stripes and balances creation by consuming older lithosphere at trenches, so the Earth does",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 224.35
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 165.482
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0197",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4015,
+      "markdown_body_line_end": 4015,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Plate boundaries are diagnosed by motion and products: divergence creates crust, subduction destroys oceanic crust, continent collision thickens crust, and transform motion conserves crust ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 165.482
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 106.614
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0198",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4017,
+      "markdown_body_line_end": 4017,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The Wilson cycle is an analogy for rifting, ocean opening, subduction, closure and suturing, not a fixed destiny that every ocean basin must complete.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 100,
+          "frame_y": 106.614
+        },
+        "end": {
+          "page": 100,
+          "frame_y": 61.946
+        }
+      },
+      "pdf_pages": [
+        100
+      ]
+    },
+    {
+      "visual_id": "visual-0199",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4019,
+      "markdown_body_line_end": 4019,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Isostasy explains vertical crustal adjustment, while orogeny explains mountain building through shortening, thickening and uplift; erosion and unloading can then trigger further isostatic r",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 744.424
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0200",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4021,
+      "markdown_body_line_end": 4021,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** India’s geological skeleton consists of an ancient Peninsular shield, an active Himalayan fold-thrust belt and a sediment-filled Indo-Ganga-Brahmaputra foreland basin linked by collision, f",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 744.424
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 685.556
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0201",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4023,
+      "markdown_body_line_end": 4023,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** A safe geological chronology combines superposition, cross-cutting relations, unconformities, fossils, radiometric event ages, palaeomagnetism and geophysics; relative order is often safer ",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 685.556
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 626.688
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0202",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4025,
+      "markdown_body_line_end": 4025,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The Indian plate journey links Gondwana rifting, northward motion, Tethyan ocean closure and prolonged India-Eurasia collision to Himalayan uplift, foreland subsidence and continuing seismi",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 626.688
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 567.82
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0203",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4027,
+      "markdown_body_line_end": 4027,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Peninsular India is a mosaic of cratons and mobile belts later cut by faults, rifts, dykes and basins and partly covered by younger sediments and lava, so stable never means uniform, flat o",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 567.82
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 508.953
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0204",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4029,
+      "markdown_body_line_end": 4029,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Archaean granitoid-gneiss basement and Dharwar-type supracrustal belts form distinct parts of the ancient shield, and their ore associations reflect specific magmatic, sedimentary, metamorp",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 508.953
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 450.085
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0205",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4031,
+      "markdown_body_line_end": 4031,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Purana is an older Indian label for Proterozoic basin successions such as Cuddapah and Vindhyan, which rest unconformably on older basement and record long-lived sedimentation rather than o",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 450.085
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 391.217
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0206",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4033,
+      "markdown_body_line_end": 4033,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The Gondwana Supergroup is a fault-basin continental sedimentary succession with important coal measures; it must not be confused with Gondwana, the southern palaeocontinent.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 391.217
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 332.35
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0207",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4035,
+      "markdown_body_line_end": 4035,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** A sedimentary basin offers petroleum potential only when source, maturation, migration, reservoir, seal, trap and timing form a complete preserved system, whether onshore or offshore.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 332.35
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 273.482
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0208",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4037,
+      "markdown_body_line_end": 4037,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The Deccan Trap is a Late Cretaceous flood-basalt province of stacked fissure-fed flows whose contacts, fractures, vesicular zones and weathering create step relief, black-soil parent mater",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 273.482
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 214.614
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0209",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4039,
+      "markdown_body_line_end": 4039,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The Himalaya is a continent-collision fold-thrust orogen containing sedimentary, metamorphic and crystalline belts; unlike the Andes, it is not primarily a volcanic subduction arc.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 214.614
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 155.746
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0210",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4041,
+      "markdown_body_line_end": 4041,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The Indo-Ganga-Brahmaputra Plain is not structureless alluvium but a flexural foreland basin whose thick sediment supports fertile soils and aquifers while also influencing floods, subsiden",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 155.746
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 96.879
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0211",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4043,
+      "markdown_body_line_end": 4043,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Andaman-Nicobar belongs to an active subduction-related arc-forearc system, whereas Lakshadweep consists of coral atolls on a submarine volcanic-ridge foundation; Indian island geology is t",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 101,
+          "frame_y": 96.879
+        },
+        "end": {
+          "page": 101,
+          "frame_y": 38.011
+        }
+      },
+      "pdf_pages": [
+        101
+      ]
+    },
+    {
+      "visual_id": "visual-0212",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4045,
+      "markdown_body_line_end": 4045,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** A rift is an extensional crustal zone, a graben is a down-dropped fault block, and a lineament is a mapped linear feature that is not automatically an active fault.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 758.624
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0213",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4047,
+      "markdown_body_line_end": 4047,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Geological structure guides scarps, valleys, drainage patterns, waterfalls and groundwater through rock contrasts, bedding, joints and faults, but climate, erosion, base level and human act",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 758.624
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 699.756
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0214",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4049,
+      "markdown_body_line_end": 4049,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** Shield belts, Gondwana basins and sedimentary margins are associated respectively with many metallic ores, coal and petroleum, but exploration, grade, preservation, technology, economics an",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 699.756
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 640.888
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0215",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4051,
+      "markdown_body_line_end": 4051,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** India’s seismicity reflects active Himalayan and Andaman plate boundaries plus reactivation of inherited structures such as Kachchh and selected Peninsular faults; seismic zoning is a desig",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 640.888
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 582.02
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0216",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4053,
+      "markdown_body_line_end": 4053,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** The National Critical Mineral Mission, approved on 29 January 2025, links domestic and offshore exploration with mining, processing, recycling, research, stockpiling and overseas acquisitio",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 582.02
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 523.153
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0217",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4055,
+      "markdown_body_line_end": 4055,
+      "heading": "59. Thirty exam-ready answer lines",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** India’s surface geography is best explained as inherited geological structure filtered through tectonics, weathering, climate, erosion, sediment transfer and human use, so every high-scorin",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 523.153
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 464.285
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0218",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 4059,
+      "markdown_body_line_end": 4069,
+      "heading": "60. Last-minute PYQ routes, traps and answer spine",
+      "preview": "Route | Recall",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 9,
+        "headers": [
+          "Route",
+          "Recall"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 439.285
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 223.883
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0219",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 4075,
+      "markdown_body_line_end": 4075,
+      "heading": "60. Last-minute PYQ routes, traps and answer spine",
+      "preview": "**ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM** India’s surface geography is best explained as inherited geological structure filtered through tectonics, weathering, climate, erosion, sediment transfer and human use, so every high-scorin",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 102,
+          "frame_y": 128.683
+        },
+        "end": {
+          "page": 102,
+          "frame_y": 69.816
+        }
+      },
+      "pdf_pages": [
+        102
+      ]
+    },
+    {
+      "visual_id": "visual-0220",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4081,
+      "markdown_body_line_end": 4109,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Crust, lithosphere and the rock-cycle network",
+      "preview": "+---------------- EARTH MATERIAL SYSTEM ----------------+",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 27,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 763.291
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 476.891
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0221",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4113,
+      "markdown_body_line_end": 4131,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Igneous, sedimentary and metamorphic diagnostic matrix",
+      "preview": "+--------------+----------------------+---------------------------+",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 17,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 103,
+          "frame_y": 454.891
+        },
+        "end": {
+          "page": 103,
+          "frame_y": 270.491
+        }
+      },
+      "pdf_pages": [
+        103
+      ]
+    },
+    {
+      "visual_id": "visual-0222",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4135,
+      "markdown_body_line_end": 4159,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: From continental drift to plate tectonics and Wilson-cycle closure",
+      "preview": "WEGENER'S DRIFT CLAIM",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 23,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 541.691
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0223",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4163,
+      "markdown_body_line_end": 4184,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Indian Plate journey and the three-part geological skeleton",
+      "preview": "Gondwana rifting -> northward Indian Plate drift -> Tethys closure",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 104,
+          "frame_y": 519.691
+        },
+        "end": {
+          "page": 104,
+          "frame_y": 304.691
+        }
+      },
+      "pdf_pages": [
+        104
+      ]
+    },
+    {
+      "visual_id": "visual-0224",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4188,
+      "markdown_body_line_end": 4207,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Indian rock systems, basins and resource associations",
+      "preview": "+------------------+-------------------------+----------------------+",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 18,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 592.691
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0225",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4211,
+      "markdown_body_line_end": 4232,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Himalaya, foreland, coasts, islands and structural controls",
+      "preview": "HIMALAYA",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 570.691
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 355.691
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0226",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4236,
+      "markdown_body_line_end": 4257,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: India seismic expression and geology-to-risk translation",
+      "preview": "TECTONIC AND INHERITED STRUCTURE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 20,
+        "max_source_line_length": 73
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 105,
+          "frame_y": 333.691
+        },
+        "end": {
+          "page": 105,
+          "frame_y": 118.691
+        }
+      },
+      "pdf_pages": [
+        105
+      ]
+    },
+    {
+      "visual_id": "visual-0227",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4261,
+      "markdown_body_line_end": 4284,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Map-answer and Mains spine for India's geological architecture",
+      "preview": "QUESTION: How does geological structure shape India's surface geography?",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 22,
+        "max_source_line_length": 77
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 551.891
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0228",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4288,
+      "markdown_body_line_end": 4294,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Evidence ladder and confidence control",
+      "preview": "EVIDENCE LADDER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 529.891
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 467.891
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0229",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4298,
+      "markdown_body_line_end": 4307,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Examiner traps and contested boundaries",
+      "preview": "CLOSE DISTINCTIONS",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 445.891
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 353.291
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0230",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4311,
+      "markdown_body_line_end": 4320,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Integrated answer spine and qualified conclusion",
+      "preview": "ANSWER SPINE",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 8,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 106,
+          "frame_y": 331.291
+        },
+        "end": {
+          "page": 106,
+          "frame_y": 238.691
+        }
+      },
+      "pdf_pages": [
+        106
+      ]
+    },
+    {
+      "visual_id": "visual-0231",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 4324,
+      "markdown_body_line_end": 4330,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Evidence ladder and confidence control - DEEP-REVIEW SYNTHESIS 2",
+      "preview": "EVIDENCE LADDER",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 5,
+        "max_source_line_length": 78
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 107,
+          "frame_y": 774.291
+        },
+        "end": {
+          "page": 107,
+          "frame_y": 712.291
+        }
+      },
+      "pdf_pages": [
+        107
+      ]
+    }
+  ]
+}

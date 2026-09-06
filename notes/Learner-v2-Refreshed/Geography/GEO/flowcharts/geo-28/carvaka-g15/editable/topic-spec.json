@@ -1,0 +1,1230 @@
+{
+  "schema_version": 2,
+  "renderer": "carvaka-continuous-at-a-glance-graphical-v2",
+  "renderer_version": "2.0",
+  "topic_key": "geography-28-human-settlements-and-urbanisation",
+  "subject": "Geography",
+  "title": "HUMAN SETTLEMENTS AND URBANISATION",
+  "short_route": "SETTLEMENT-READING SYSTEM: GROUND, FORM → RURAL SETTLEMENT FORMS AND → CENTRAL-PLACE THEORY: THRESHOLD, RANGE → URBAN-SYSTEM AND MORPHOLOGY MODELS → INDIA'S STATISTICAL, LEGAL AND → URBAN PROBLEM SYSTEM: SPRAWL",
+  "reading_note": "Read the thick cyan rail from Stage 00 to the final core synthesis. Each card uses a concept-appropriate structure; the grey E card is optional enrichment only and never repairs missing core content.",
+  "status": {
+    "approved": false,
+    "review": "PENDING USER REVIEW",
+    "line": "Approval: FALSE • Pending user review • source generation g15 and all prior artifacts unchanged"
+  },
+  "source_markdown": "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g15\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-05.md",
+  "ascii_spec": "upsc-ai-kit\\manifests\\retrofits\\ascii-panel-specs\\geography-28-human-settlements-and-urbanisation-deep-review-2026-09-05-g15.json",
+  "ascii_spec_sha256": "08ba1bdc62f7212029a3476e40ec78a98fe2ab8da950345f37219a0a5e9d1ed0",
+  "reference_folder": "notes\\Philosophy\\flowcharts\\philosophy-paper-i-indian-philosophy-01\\continuous-at-a-glance-core-first",
+  "reference_sha256": "c9ae34e995375348a6998885784ded0680c0a8f8e3cd6cb82bb4cd5385e85c62",
+  "design_contract": {
+    "core_before_extra": true,
+    "continuous_numbered_rail": true,
+    "stage_zero": true,
+    "final_grey_extra_node": true,
+    "answer_strip_label": "ANSWER-GRABBING LINE — WRITE/ADAPT IN THE EXAM",
+    "ascii_master_remains_separate": true
+  },
+  "stages": [
+    {
+      "id": "00",
+      "role": "core",
+      "title": "SETTLEMENT-READING SYSTEM: GROUND, FORM, WORK AND NETWORK",
+      "structural_type": "process-system-overview",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "SETTLEMENT-READING SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "GROUND, FORM, WORK AND NETWORK",
+          "role": "outcome"
+        },
+        {
+          "text": "SETTLEMENT GEOGRAPHY",
+          "role": "comparison"
+        },
+        {
+          "text": "WHY DO PEOPLE SETTLE HERE, IN THIS FORM, FOR",
+          "role": "evidence"
+        },
+        {
+          "text": "EXACT GROUND SITUATION",
+          "role": "primary"
+        },
+        {
+          "text": "LINKS FUNCTION",
+          "role": "outcome"
+        },
+        {
+          "text": "WORK RELIEF, SOIL, WATER ROUTE, RIVER, CITY FARM, TRADE",
+          "role": "comparison"
+        },
+        {
+          "text": "SETTLEMENT FORM COMPACT",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "SETTLEMENT GEOGRAPHY",
+        "CENTRAL QUESTION: Why do people settle here, in this form, for these functions, within this",
+        "SITE: exact ground SITUATION: links FUNCTION: work relief, soil, water route, river, city farm, trade",
+        "SETTLEMENT FORM compact",
+        "PATTERN: linear"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "SETTLEMENT GEOGRAPHY",
+            "CENTRAL QUESTION: Why do people settle here, in this form, for these functions, within this wider network?",
+            "SITE: exact ground SITUATION: links FUNCTION: work relief, soil, water route, river, city farm, trade, service",
+            "SETTLEMENT FORM compact"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "PATTERN: linear",
+            "HIERARCHY: village → town → city → metropolis",
+            "conurbation → megalopolis",
+            "Ground → shape → work → network; no single dimension is sufficient."
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "MUST REMEMBER: Settlement geography connects site and situation, rural form, central-place hierarchy, rank-size and primate-city patterns, urban",
+            "morphology, suburbanisation, peri-urbanisation and metropolitan regions to India's statutory town, census town, urban agglomeration and outgrowth categories."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MUST REMEMBER: Settlement geography connects site and situation, rural form, central-place hierarchy, rank-size and primate-city patterns, urban morphology, suburbanisation, peri-urbanisation and metropolitan regions to India's statutory town, census town, urban agglomeration and outgrowth categories.",
+      "source_references": [
+        "{'sessions': [1, 2, 3, 4], 'sections': ['BASIC LEARNING SESSION', 'Settlement-reading grid'], 'markdown_lines': ['57-417', '2444-2470']}",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g13\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g15\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "01",
+      "role": "core",
+      "title": "RURAL SETTLEMENT FORMS AND THE RURAL-URBAN CONTINUUM",
+      "structural_type": "classification-tree-and-continuum",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "RURAL SETTLEMENT FORMS AND THE RURAL-URBAN CONTINUUM",
+          "role": "primary"
+        },
+        {
+          "text": "RURAL MORPHOLOGY",
+          "role": "outcome"
+        },
+        {
+          "text": "COMMON CONTROL",
+          "role": "comparison"
+        },
+        {
+          "text": "SAFE INTERPRETATION",
+          "role": "evidence"
+        },
+        {
+          "text": "SECURITY, WATER",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE HOUSES, NOT URBAN",
+          "role": "caution"
+        },
+        {
+          "text": "CASTE/CLAN, TERRAIN",
+          "role": "comparison"
+        },
+        {
+          "text": "LINKED SMALL CLUSTERS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "RURAL MORPHOLOGY",
+        "COMMON CONTROL",
+        "SAFE INTERPRETATION",
+        "security, water",
+        "close houses, not urban"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "RURAL MORPHOLOGY",
+            "COMMON CONTROL",
+            "SAFE INTERPRETATION",
+            "security, water",
+            "close houses, not urban"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "linked small clusters",
+            "slopes, farms",
+            "rational adaptation",
+            "road, river, canal",
+            "corridor alignment"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Urbanisation = share change + work change + services + networks + land use",
+            "UA = continuous urban spread",
+            "conurbation = coalesced towns metropolis = command city",
+            "megalopolis = multi-metropolitan region",
+            "The continuum replaces a false binary but does not erase legal categories."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "The continuum replaces a false binary but does not erase legal categories.",
+      "source_references": [
+        "{'sessions': [2, 3, 4], 'sections': ['BASIC LEARNING SESSION', 'Rural morphology and urbanisation'], 'markdown_lines': ['149-417', '2471-2480']}",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g13\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g15\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "02",
+      "role": "core",
+      "title": "CENTRAL-PLACE THEORY: THRESHOLD, RANGE, HIERARCHY AND INDIAN FIT",
+      "structural_type": "branching-market-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "CENTRAL-PLACE THEORY",
+          "role": "primary"
+        },
+        {
+          "text": "THRESHOLD, RANGE, HIERARCHY AND INDIAN FIT",
+          "role": "outcome"
+        },
+        {
+          "text": "CENTRAL PLACE",
+          "role": "comparison"
+        },
+        {
+          "text": "THRESHOLD RANGE MINIMUM VIABLE DEMAND MAXIMUM ACCEPTED TRAVEL/COST LOW-ORDER",
+          "role": "evidence"
+        },
+        {
+          "text": "PLACE HIERARCHY",
+          "role": "primary"
+        },
+        {
+          "text": "K=3 MARKETING",
+          "role": "outcome"
+        },
+        {
+          "text": "K=4 TRANSPORT",
+          "role": "comparison"
+        },
+        {
+          "text": "K=7 ADMINISTRATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CENTRAL PLACE",
+        "THRESHOLD RANGE minimum viable demand maximum accepted travel/cost low-order goods",
+        "high-order goods small threshold, short range large threshold, long range",
+        "PLACE HIERARCHY",
+        "K=3 marketing"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CENTRAL PLACE",
+            "THRESHOLD RANGE minimum viable demand maximum accepted travel/cost low-order goods",
+            "high-order goods small threshold, short range large threshold, long range",
+            "PLACE HIERARCHY"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "K=3 marketing",
+            "K=4 transport",
+            "K=7 administration",
+            "INDIAN FIT: alluvial plains, periodic markets, facility planning"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "INDIAN BREAKS: hills, forests, deserts, deltas, coasts, history, better transport and metropolitan dominance",
+            "VERDICT: hexagonal geometry is weak; threshold, range and hierarchy endure."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: hexagonal geometry is weak; threshold, range and hierarchy endure.",
+      "answer_line": "hexagonal geometry is weak; threshold, range and hierarchy endure.",
+      "source_references": [
+        "{'sessions': [5, 6, 7], 'sections': ['BASIC LEARNING SESSION', 'Central-place recall'], 'markdown_lines': ['418-681', '2493-2505']}",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g13\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g15\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "03",
+      "role": "core",
+      "title": "URBAN-SYSTEM AND MORPHOLOGY MODELS COMPARED",
+      "structural_type": "comparison-table-with-city-cross-sections",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "URBAN-SYSTEM AND MORPHOLOGY MODELS COMPARED",
+          "role": "primary"
+        },
+        {
+          "text": "CORE MECHANISM",
+          "role": "mechanism"
+        },
+        {
+          "text": "MAIN LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "SIZE FALLS WITH RANK",
+          "role": "evidence"
+        },
+        {
+          "text": "SYSTEM BOUNDARY MATTERS",
+          "role": "primary"
+        },
+        {
+          "text": "ONE CITY DOMINATES",
+          "role": "outcome"
+        },
+        {
+          "text": "SCALE CHANGES VERDICT",
+          "role": "comparison"
+        },
+        {
+          "text": "CONCENTRIC RINGS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CORE MECHANISM",
+        "MAIN LIMIT",
+        "size falls with rank",
+        "system boundary matters",
+        "one city dominates"
+      ],
+      "matrix": [
+        [
+          "MODEL",
+          "CORE MECHANISM",
+          "MAIN LIMIT"
+        ],
+        [
+          "Rank-size",
+          "size falls with rank",
+          "system boundary matters"
+        ],
+        [
+          "Primacy",
+          "one city dominates",
+          "scale changes verdict"
+        ],
+        [
+          "Burgess",
+          "concentric rings",
+          "monocentric assumption"
+        ],
+        [
+          "Hoyt",
+          "corridor sectors",
+          "underplays later nodes"
+        ],
+        [
+          "Harris-Ullman",
+          "specialised nuclei",
+          "more descriptive"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CORE MECHANISM",
+            "MAIN LIMIT",
+            "size falls with rank",
+            "system boundary matters",
+            "one city dominates"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "concentric rings",
+            "monocentric assumption",
+            "corridor sectors",
+            "underplays later nodes",
+            "specialised nuclei"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "BURGESS: CBD → transition → worker housing → better housing → commuters",
+            "HOYT : CBD with wedges extending along transport corridors",
+            "NUCLEI : CBD + industry + airport + university + suburban business nodes",
+            "REAL INDIAN METROPOLIS historic core + colonial axis + industry + corridors + informal growth",
+            "Use models as layered lenses; none is a literal photograph of the city."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Primacy | one city dominates | scale changes verdict.",
+      "source_references": [
+        "{'sessions': [8, 9, 10, 11], 'sections': ['BASIC LEARNING SESSION', 'Model comparison'], 'markdown_lines': ['682-995', '2481-2492']}",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g13\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g15\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "04",
+      "role": "core",
+      "title": "INDIA'S STATISTICAL, LEGAL AND PHYSICAL URBANISATION",
+      "structural_type": "india-definition-hierarchy",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INDIA'S STATISTICAL, LEGAL AND PHYSICAL URBANISATION",
+          "role": "primary"
+        },
+        {
+          "text": "INDIA'S URBAN REALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "LEGAL STATISTICAL PHYSICAL STATUTORY TOWN CENSUS TOWN BUILT-UP CONTINUITY",
+          "role": "comparison"
+        },
+        {
+          "text": "UA MAY NOT COINCIDE",
+          "role": "caution"
+        },
+        {
+          "text": "HIDDEN URBANISATION FUNCTIONAL AND CENSUS CHANGE AHEAD OF MUNICIPAL",
+          "role": "primary"
+        },
+        {
+          "text": "CENSUS 2011 OBSERVED BASELINE URBAN POPULATION 377.1 MILLION",
+          "role": "outcome"
+        },
+        {
+          "text": "URBAN SHARE 31.16%",
+          "role": "comparison"
+        },
+        {
+          "text": "7,935 TOWNS",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "INDIA'S URBAN REALITY",
+        "LEGAL STATISTICAL PHYSICAL statutory town census town built-up continuity urban local body urban criteria peri-urban",
+        "HIDDEN URBANISATION functional and census change ahead of municipal institutions",
+        "CENSUS 2011 OBSERVED BASELINE urban population 377.1 million",
+        "urban share 31.16%"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "INDIA'S URBAN REALITY",
+            "LEGAL STATISTICAL PHYSICAL statutory town census town built-up continuity urban local body urban criteria peri-urban spread / UA may not coincide",
+            "HIDDEN URBANISATION functional and census change ahead of municipal institutions"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "CENSUS 2011 OBSERVED BASELINE urban population 377.1 million",
+            "urban share 31.16%",
+            "7,935 towns = 4,041 statutory + 3,894 census towns"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "53 million-plus urban agglomerations / cities",
+            "Always attach source and year; projections and mission counts are not Census."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "Always attach source and year; projections and mission counts are not Census.",
+      "source_references": [
+        "{'sessions': [12], 'sections': ['BASIC LEARNING SESSION', 'India definition firewall', 'Dated India baseline'], 'markdown_lines': ['996-1081', '2506-2524', '2539-2553']}",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g13\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g15\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "05",
+      "role": "core",
+      "title": "URBAN PROBLEM SYSTEM: SPRAWL, HOUSING, MOBILITY, FLOOD AND HEAT",
+      "structural_type": "causal-convergence-and-risk-panel",
+      "layout": "process",
+      "pills": [
+        {
+          "text": "URBAN PROBLEM SYSTEM",
+          "role": "primary"
+        },
+        {
+          "text": "SPRAWL, HOUSING, MOBILITY, FLOOD AND HEAT",
+          "role": "outcome"
+        },
+        {
+          "text": "URBAN EXPANSION OUTRUNS PLANNING AND SERVICES",
+          "role": "comparison"
+        },
+        {
+          "text": "SPRAWL HOUSING FAILURE SEALED LAND LONGER NETWORKS INFORMALITY FASTER",
+          "role": "evidence"
+        },
+        {
+          "text": "DARK SURFACES + LOW TREE COVER",
+          "role": "primary"
+        },
+        {
+          "text": "RETAINED HEAT",
+          "role": "outcome"
+        },
+        {
+          "text": "HEALTH INEQUALITY",
+          "role": "comparison"
+        },
+        {
+          "text": "DISTANT WATER + LEAKS + UNTREATED SEWAGE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "URBAN EXPANSION OUTRUNS PLANNING AND SERVICES",
+        "SPRAWL HOUSING FAILURE SEALED LAND longer networks informality faster runoff longer",
+        "trips hazardous sites lost storage congestion unequal service urban flood",
+        "DARK SURFACES + LOW TREE COVER → retained heat → health inequality",
+        "DISTANT WATER + LEAKS + UNTREATED SEWAGE → basin-scale water stress"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "URBAN EXPANSION OUTRUNS PLANNING AND SERVICES",
+            "SPRAWL HOUSING FAILURE SEALED LAND longer networks informality faster runoff longer",
+            "trips hazardous sites lost storage congestion unequal service urban flood"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "DARK SURFACES + LOW TREE COVER → retained heat → health inequality",
+            "DISTANT WATER + LEAKS + UNTREATED SEWAGE → basin-scale water stress",
+            "EXPOSURE FILTER income, tenure, occupation, age, gender, disability and warning access"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "RESPONSE compact serviced growth + affordable housing + transit + blue-green systems",
+            "drainage maintenance + heat action + water reuse + risk-sensitive zoning"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "RESPONSE compact serviced growth + affordable housing + transit + blue-green systems drainage maintenance + heat action + water reuse + risk-sensitive zoning.",
+      "source_references": [
+        "{'sessions': [13, 14], 'sections': ['BASIC LEARNING SESSION', 'Problem mechanisms'], 'markdown_lines': ['1082-1282', '2525-2538']}",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g13\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g15\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "06",
+      "role": "core",
+      "title": "FUNCTIONAL CITY VERSUS FRAGMENTED GOVERNANCE",
+      "structural_type": "institutional-intervention-stack",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "FUNCTIONAL CITY VERSUS FRAGMENTED GOVERNANCE",
+          "role": "comparison"
+        },
+        {
+          "text": "FUNCTIONAL URBAN REGION JOBS + HOUSING + TRANSPORT +",
+          "role": "outcome"
+        },
+        {
+          "text": "GOVERNING MAP",
+          "role": "comparison"
+        },
+        {
+          "text": "ULB A",
+          "role": "evidence"
+        },
+        {
+          "text": "ULB B",
+          "role": "primary"
+        },
+        {
+          "text": "DEVELOPMENT AUTHORITY",
+          "role": "outcome"
+        },
+        {
+          "text": "STATE AGENCY FRAGMENTED MANDATE + FINANCE + DATA +",
+          "role": "institution"
+        },
+        {
+          "text": "INTEGRATION STACK METROPOLITAN PLANNING",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "FUNCTIONAL URBAN REGION jobs + housing + transport + water + waste + ecology cross",
+        "GOVERNING MAP",
+        "ULB A",
+        "ULB B",
+        "development authority"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "FUNCTIONAL URBAN REGION jobs + housing + transport + water + waste + ecology cross boundaries",
+            "GOVERNING MAP",
+            "ULB A",
+            "ULB B"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "development authority",
+            "state agency fragmented mandate + finance + data + accountability uneven service, delayed infrastructure and risk transfer",
+            "INTEGRATION STACK metropolitan planning → empowered ULBs → stable finance",
+            "ward participation → common data → transit-land-use alignment"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "utility coordination → outcome audits",
+            "MISSION FIREWALL announcement → sanction → project → completion → service outcome",
+            "A dated project count is not proof of universal liveability.",
+            "Polycentric growth needs integrated mobility and governance, otherwise multiple nodes become multiple accountability gaps."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "MISSION FIREWALL announcement → sanction → project → completion → service outcome.",
+      "source_references": [
+        "{'sessions': [15, 16], 'sections': ['BASIC LEARNING SESSION', 'Metropolitan quality and mission firewall', 'Debates'], 'markdown_lines': ['1283-1514', '2554-2574']}",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g13\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g15\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "07",
+      "role": "core",
+      "title": "MAP-ANSWER AND MAINS SPINE FOR INDIAN URBANISATION",
+      "structural_type": "map-answer-and-mains-spine",
+      "layout": "spatial",
+      "pills": [
+        {
+          "text": "MAP-ANSWER AND MAINS SPINE FOR INDIAN URBANISATION",
+          "role": "primary"
+        },
+        {
+          "text": "IS INDIAN URBANISATION PRODUCTIVE, INCLUSIVE AND RESILIENT?",
+          "role": "outcome"
+        },
+        {
+          "text": "1. DEFINE THE URBAN LENS LEGAL + STATISTICAL +",
+          "role": "comparison"
+        },
+        {
+          "text": "2. MAP THE SYSTEM METROS",
+          "role": "evidence"
+        },
+        {
+          "text": "INTERMEDIATE TOWNS",
+          "role": "primary"
+        },
+        {
+          "text": "CENSUS TOWNS",
+          "role": "outcome"
+        },
+        {
+          "text": "PERI-URBAN BELTS",
+          "role": "comparison"
+        },
+        {
+          "text": "3. EXPLAIN BENEFITS AGGLOMERATION",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "QUESTION: Is Indian urbanisation productive, inclusive and resilient?",
+        "1. DEFINE THE URBAN LENS legal + statistical + physical + functional urbanisation",
+        "2. MAP THE SYSTEM metros → corridors → intermediate towns → census towns → peri-urban",
+        "3. EXPLAIN BENEFITS agglomeration → matching → innovation → shared infrastructure",
+        "4. DIAGNOSE MECHANISMS sprawl"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "QUESTION: Is Indian urbanisation productive, inclusive and resilient?",
+            "1. DEFINE THE URBAN LENS legal + statistical + physical + functional urbanisation",
+            "2. MAP THE SYSTEM metros → corridors → intermediate towns → census towns → peri-urban belts"
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "3. EXPLAIN BENEFITS agglomeration → matching → innovation → shared infrastructure",
+            "4. DIAGNOSE MECHANISMS sprawl",
+            "5. LOCATE GOVERNANCE GAP functional region exceeds municipal boundary and capacity"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "6. QUALIFY WITH DATED EVIDENCE",
+            "Census baseline is observed; mission outputs require outcome checks",
+            "7. VERDICT capture density and connectivity while building inclusive services, ecological safeguards and accountable metropolitan institutions."
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "7. VERDICT capture density and connectivity while building inclusive services, ecological safeguards and accountable metropolitan institutions.",
+      "source_references": [
+        "{'sessions': [7, 8, 12, 13, 14, 15], 'sections': ['PYQS AND ANSWER PRACTICE', 'CONSOLIDATED REGISTER NOTES'], 'markdown_lines': ['1898-2199', '2506-2574']}",
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g13\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g15\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "08",
+      "role": "core",
+      "title": "EVIDENCE LADDER AND CONFIDENCE CONTROL",
+      "structural_type": "evidence-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EVIDENCE LADDER AND CONFIDENCE CONTROL",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "1. GROUNDED IN",
+          "role": "comparison"
+        },
+        {
+          "text": "MAJID HUSAIN, INDIAN & WORLD GEOGRAPHY + G.C. LEONG",
+          "role": "evidence"
+        },
+        {
+          "text": "FROM SOURCE BOOK OR OFFICIAL SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "3. SITE EXACT GROUND ON WHICH THE SETTLEMENT STANDS",
+          "role": "outcome"
+        },
+        {
+          "text": "SOURCE TYPE CONTROLS THE STRENGTH AND LIMITS OF THE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EVIDENCE LADDER",
+        "1. Grounded in: Majid Husain, Indian & World Geography + G.C. Leong for",
+        "2. = from source book or official source = inference / standard",
+        "3. Site Exact ground on which the settlement stands",
+        "VERDICT: Source type controls the strength and limits of the historical claim."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "EVIDENCE LADDER",
+          "2. = from source book or official source = inference / standard...",
+          "VERDICT: Source type controls the strength and limits of the historical claim."
+        ],
+        [
+          "1. Grounded in: Majid Husain, Indian & World Geography + G.C. Leong for...",
+          "3. Site Exact ground on which the settlement stands",
+          "EVIDENCE LADDER"
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EVIDENCE LADDER",
+            "1. Grounded in: Majid Husain, Indian & World Geography + G.C. Leong for..."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "2. = from source book or official source = inference / standard...",
+            "3. Site Exact ground on which the settlement stands"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT: Source type controls the strength and limits of the historical claim.",
+            "EVIDENCE LADDER"
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Source type controls the strength and limits of the historical claim.",
+      "answer_line": "Source type controls the strength and limits of the historical claim.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g13\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g15\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "09",
+      "role": "core",
+      "title": "EXAMINER TRAPS AND CONTESTED BOUNDARIES",
+      "structural_type": "trap-matrix",
+      "layout": "matrix",
+      "pills": [
+        {
+          "text": "EXAMINER TRAPS AND CONTESTED BOUNDARIES",
+          "role": "primary"
+        },
+        {
+          "text": "CLOSE DISTINCTIONS",
+          "role": "outcome"
+        },
+        {
+          "text": "1. SCALE + MODEL",
+          "role": "comparison"
+        },
+        {
+          "text": "POLICY LIMIT",
+          "role": "caution"
+        },
+        {
+          "text": "2. TRAP",
+          "role": "caution"
+        },
+        {
+          "text": "TREATING SITE AND SITUATION AS SYNONYMS.",
+          "role": "outcome"
+        },
+        {
+          "text": "3. TRAP",
+          "role": "caution"
+        },
+        {
+          "text": "ASSUMING PRESENT SIZE WAS DETERMINED BY NATURE ALONE.",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "CLOSE DISTINCTIONS",
+        "1. SCALE + MODEL / DATA / POLICY LIMIT",
+        "2. Trap: treating site and situation as synonyms.",
+        "3. Trap: assuming present size was determined by nature alone.",
+        "VERDICT: Qualification earns marks; false certainty is a hard failure."
+      ],
+      "matrix": [
+        [
+          "CORE CLAIM",
+          "MECHANISM",
+          "CONSEQUENCE / LIMIT"
+        ],
+        [
+          "CLOSE DISTINCTIONS",
+          "3. Trap: assuming present size was determined by nature alone.",
+          "municipality status does not equal Census urban classification, conurbation differs from megalopolis, slum from all informal settlement, and"
+        ],
+        [
+          "1. SCALE + MODEL / DATA / POLICY LIMIT",
+          "VERDICT: Qualification earns marks; false certainty is a hard failure.",
+          "Smart Cities Mission from AMRUT and PMAY-U mandates."
+        ],
+        [
+          "2. Trap: treating site and situation as synonyms.",
+          "CLOSE DISTINCTION: Urbanisation is a rising urban share and structural-spatial transformation, not merely urban population growth",
+          ""
+        ]
+      ],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "CLOSE DISTINCTIONS",
+            "1. SCALE + MODEL / DATA / POLICY LIMIT",
+            "2. Trap: treating site and situation as synonyms."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "3. Trap: assuming present size was determined by nature alone.",
+            "VERDICT: Qualification earns marks; false certainty is a hard failure.",
+            "CLOSE DISTINCTION: Urbanisation is a rising urban share and structural-spatial transformation, not merely urban population growth"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "municipality status does not equal Census urban classification, conurbation differs from megalopolis, slum from all informal settlement, and",
+            "Smart Cities Mission from AMRUT and PMAY-U mandates."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Qualification earns marks; false certainty is a hard failure.",
+      "answer_line": "Qualification earns marks; false certainty is a hard failure.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g13\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g15\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "10",
+      "role": "core",
+      "title": "INTEGRATED ANSWER SPINE AND QUALIFIED CONCLUSION",
+      "structural_type": "answer-synthesis",
+      "layout": "hierarchy",
+      "pills": [
+        {
+          "text": "INTEGRATED ANSWER SPINE AND QUALIFIED CONCLUSION",
+          "role": "primary"
+        },
+        {
+          "text": "ANSWER SPINE",
+          "role": "outcome"
+        },
+        {
+          "text": "1. NOT NEEDED TO UNDERSTAND OR WRITE A SOUND",
+          "role": "caution"
+        },
+        {
+          "text": "2. PRACTICE CONTRACT EVERY SOLVED ITEM HAS DEMAND DECODING",
+          "role": "evidence"
+        },
+        {
+          "text": "3. COMPARE SETTLEMENTS",
+          "role": "comparison"
+        },
+        {
+          "text": "RURAL FORMS, URBAN PLACES AND THE RURAL-URBAN",
+          "role": "outcome"
+        },
+        {
+          "text": "CLAIM, NAMED EVIDENCE, ANALYSIS AND QUALIFICATION LEAD TO A",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE LIMIT",
+          "role": "caution"
+        }
+      ],
+      "sequence": [
+        "ANSWER SPINE",
+        "1. not needed to understand or write a sound core answer.",
+        "2. Practice contract Every solved item has demand decoding, a detailed",
+        "3. Compare settlements: rural forms, urban places and the rural-urban",
+        "VERDICT: Claim, named evidence, analysis and qualification lead to a graded"
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "ANSWER SPINE",
+            "1. not needed to understand or write a sound core answer.",
+            "2. Practice contract Every solved item has demand decoding, a detailed..."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "3. Compare settlements: rural forms, urban places and the rural-urban...",
+            "VERDICT: Claim, named evidence, analysis and qualification lead to a graded...",
+            "EVIDENCE LIMIT: Delhi–NCR, Mumbai Metropolitan Region, Bengaluru, Surat, Chandigarh, Jaipur and Kerala's dispersed settlement provide contrasting map anchors"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "Burgess, Hoyt,",
+            "Harris-Ullman and Christaller are simplified models whose assumptions, scale and",
+            "Global-South informality limits must be explicit."
+          ]
+        }
+      ],
+      "mechanism_strip": "VERDICT: Claim, named evidence, analysis and qualification lead to a graded...",
+      "answer_line": "Claim, named evidence, analysis and qualification lead to a graded.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g13\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g15\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "11",
+      "role": "synthesis",
+      "title": "EVIDENCE LADDER AND CONFIDENCE CONTROL — DEEP-REVIEW SYNTHESIS 2",
+      "structural_type": "evidence-matrix",
+      "layout": "synthesis",
+      "pills": [
+        {
+          "text": "EVIDENCE LADDER AND CONFIDENCE CONTROL — DEEP-REVIEW SYNTHESIS 2",
+          "role": "evidence"
+        },
+        {
+          "text": "EVIDENCE LADDER",
+          "role": "evidence"
+        },
+        {
+          "text": "1. GROUNDED IN",
+          "role": "comparison"
+        },
+        {
+          "text": "MAJID HUSAIN, INDIAN & WORLD GEOGRAPHY + G.C. LEONG",
+          "role": "evidence"
+        },
+        {
+          "text": "FROM SOURCE BOOK OR OFFICIAL SOURCE",
+          "role": "evidence"
+        },
+        {
+          "text": "3. SITE EXACT GROUND ON WHICH THE SETTLEMENT STANDS",
+          "role": "outcome"
+        },
+        {
+          "text": "SOURCE TYPE CONTROLS THE STRENGTH AND LIMITS OF THE",
+          "role": "evidence"
+        }
+      ],
+      "sequence": [
+        "EVIDENCE LADDER",
+        "1. Grounded in: Majid Husain, Indian & World Geography + G.C. Leong for",
+        "2. = from source book or official source = inference / standard",
+        "3. Site Exact ground on which the settlement stands",
+        "VERDICT: Source type controls the strength and limits of the historical claim."
+      ],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "CORE CLAIM",
+          "role": "primary",
+          "items": [
+            "EVIDENCE LADDER",
+            "1. Grounded in: Majid Husain, Indian & World Geography + G.C. Leong for..."
+          ]
+        },
+        {
+          "heading": "MECHANISM",
+          "role": "mechanism",
+          "items": [
+            "2. = from source book or official source = inference / standard...",
+            "3. Site Exact ground on which the settlement stands"
+          ]
+        },
+        {
+          "heading": "CONSEQUENCE / LIMIT",
+          "role": "caution",
+          "items": [
+            "VERDICT: Source type controls the strength and limits of the historical claim.",
+            "EVIDENCE LADDER"
+          ]
+        }
+      ],
+      "mechanism_strip": "",
+      "answer_line": "VERDICT: Source type controls the strength and limits of the historical claim.",
+      "source_references": [
+        "upsc-ai-kit\\knowledge\\Geography\\basic\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Geography\\advanced\\28_Human-Settlements-and-Urbanisation.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g13\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g14\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-02.md",
+        "upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-28\\g15\\geography-28-human-settlements-and-urbanisation_Complete-Learning-Session_2026-09-05.md"
+      ]
+    },
+    {
+      "id": "E",
+      "role": "extra",
+      "title": "SUBORDINATE ENRICHMENT — ONLY AFTER THE COMPLETE CORE",
+      "structural_type": "optional-advanced-enrichment",
+      "layout": "columns",
+      "pills": [
+        {
+          "text": "OPTIONAL ADVANCED ENRICHMENT",
+          "role": "primary"
+        },
+        {
+          "text": "1. INDIA'S OFFICIAL URBAN BASELINE",
+          "role": "outcome"
+        },
+        {
+          "text": "USE THE RIGHT DATE",
+          "role": "comparison"
+        },
+        {
+          "text": "2. KHULLAR'S THREE PHASES OF INDIA'S URBANISATION",
+          "role": "evidence"
+        },
+        {
+          "text": "3. HIDDEN URBANISATION AND PERI-URBAN BELTS",
+          "role": "primary"
+        },
+        {
+          "text": "4. METROPOLITANISATION, SLUMS AND UNEVEN URBAN QUALITY",
+          "role": "outcome"
+        },
+        {
+          "text": "5. TOWN PLANNING AND MISSION EVIDENCE",
+          "role": "evidence"
+        },
+        {
+          "text": "DATED OUTPUTS, NOT AUTOMATIC OUTCOMES",
+          "role": "caution"
+        }
+      ],
+      "sequence": [],
+      "matrix": [],
+      "groups": [
+        {
+          "heading": "OPTIONAL SOURCE DEPTH",
+          "role": "evidence",
+          "items": [
+            "1. India's official urban baseline: use the right date",
+            "2. Khullar's three phases of India's urbanisation",
+            "3. Hidden urbanisation and peri-urban belts",
+            "4. Metropolitanisation, slums and uneven urban quality"
+          ]
+        },
+        {
+          "heading": "ADVANCED DEBATE",
+          "role": "comparison",
+          "items": [
+            "5. Town planning and mission evidence: dated outputs, not automatic outcomes",
+            "6. The quality-of-urbanisation debate",
+            "7. Advanced traps and answer routes",
+            "8. Optional Advanced mastery recap"
+          ]
+        },
+        {
+          "heading": "LEGACY / NUANCE",
+          "role": "neutral",
+          "items": [
+            "A Census 2011 provisional slum release cited in the Advanced owner recorded 13.71 million",
+            "Status safeguard: this is a historical 2011 benchmark, not a current estimate.",
+            "CAUTION: India's dual urbanism combines globally connected metropolitan landscapes with deficits in",
+            "CAUTION: Jobless urbanisation is a debate phrase for population concentration growing faster than"
+          ]
+        }
+      ],
+      "mechanism_strip": "This optional depth is unnecessary for a competent core answer; use it only for added nuance after the complete core has been written.",
+      "answer_line": "",
+      "source_references": [
+        "OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER"
+      ]
+    }
+  ]
+}

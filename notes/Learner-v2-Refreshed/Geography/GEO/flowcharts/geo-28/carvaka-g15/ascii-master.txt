@@ -1,0 +1,238 @@
+ASCII MASTER FLOW — PANEL 1/12: Settlement-reading system: ground, form, work and network
++---------------- SETTLEMENT GEOGRAPHY ----------------+
+| CENTRAL QUESTION: Why do people settle here, in this  |
+| form, for these functions, within this wider network? |
++--------------------------------------------------------+
+                         |
+       +-----------------+-----------------+
+       |                 |                 |
+SITE: exact ground   SITUATION: links   FUNCTION: work
+relief, soil, water  route, river, city  farm, trade, service
+       \                 |                 /
+        +----------- SETTLEMENT FORM ------+
+       compact | semi-compact | hamleted | dispersed
+                         |
+PATTERN: linear | grid | radial | circular | irregular
+                         |
+HIERARCHY: village -> town -> city -> metropolis
+           -> conurbation -> megalopolis
+
+Ground -> shape -> work -> network; no single dimension is sufficient.
+MUST REMEMBER: Settlement geography connects site and situation, rural form, central-place
+  hierarchy, rank-size and primate-city patterns, urban morphology, suburbanisation,
+  peri-urbanisation and metropolitan regions to India's statutory town, census town, urban
+  agglomeration and outgrowth categories.
+MUST REMEMBER: Settlement geography connects site and situation, rural form, central-place
+  hierarchy, rank-size and primate-city patterns, urban morphology, suburbanisation,
+  peri-urbanisation and metropolitan regions to India's statutory town, census town, urban
+  agglomeration and outgrowth categories.
+MUST REMEMBER: Settlement geography connects site and situation, rural form, central-place
+  hierarchy, rank-size and primate-city patterns, urban morphology, suburbanisation,
+  peri-urbanisation and metropolitan regions to India's statutory town, census town, urban
+  agglomeration and outgrowth categories.
+
+ASCII MASTER FLOW — PANEL 2/12: Rural settlement forms and the rural-urban continuum
+RURAL MORPHOLOGY
++----------------+----------------------+-------------------------+
+| FORM           | COMMON CONTROL       | SAFE INTERPRETATION     |
++----------------+----------------------+-------------------------+
+| Compact        | security, water      | close houses, not urban |
+| Hamleted       | caste/clan, terrain  | linked small clusters   |
+| Dispersed      | slopes, farms        | rational adaptation     |
+| Linear         | road, river, canal   | corridor alignment      |
++----------------+----------------------+-------------------------+
+
+RURAL <----------------------------------------------------> URBAN
+primary work      mixed livelihoods       non-primary work/services
+low density       peri-urban change       dense networked land use
+                         |
+Urbanisation = share change + work change + services + networks + land use
+                         |
+UA = continuous urban spread | conurbation = coalesced towns
+metropolis = command city | megalopolis = multi-metropolitan region
+
+The continuum replaces a false binary but does not erase legal categories.
+
+ASCII MASTER FLOW — PANEL 3/12: Central-place theory: threshold, range, hierarchy and Indian fit
+                      CENTRAL PLACE
+                           |
+       +-------------------+-------------------+
+       |                                       |
+THRESHOLD                              RANGE
+minimum viable demand                  maximum accepted travel/cost
+       |                                       |
+low-order goods                       high-order goods
+small threshold, short range          large threshold, long range
+       \                                       /
+        +------------ PLACE HIERARCHY --------+
+                           |
+K=3 marketing | K=4 transport | K=7 administration
+                           |
+INDIAN FIT: alluvial plains, periodic markets, facility planning
+INDIAN BREAKS: hills, forests, deserts, deltas, coasts, history,
+               better transport and metropolitan dominance
+                           |
+VERDICT: hexagonal geometry is weak; threshold, range and hierarchy endure.
+
+ASCII MASTER FLOW — PANEL 4/12: Urban-system and morphology models compared
++----------------+-----------------------+------------------------+
+| MODEL          | CORE MECHANISM        | MAIN LIMIT             |
++----------------+-----------------------+------------------------+
+| Rank-size      | size falls with rank  | system boundary matters|
+| Primacy        | one city dominates    | scale changes verdict  |
+| Burgess        | concentric rings      | monocentric assumption |
+| Hoyt           | corridor sectors      | underplays later nodes |
+| Harris-Ullman  | specialised nuclei    | more descriptive       |
++----------------+-----------------------+------------------------+
+
+BURGESS: CBD -> transition -> worker housing -> better housing -> commuters
+HOYT   : CBD with wedges extending along transport corridors
+NUCLEI : CBD + industry + airport + university + suburban business nodes
+                         |
+REAL INDIAN METROPOLIS
+historic core + colonial axis + industry + corridors + informal growth
+                         |
+Use models as layered lenses; none is a literal photograph of the city.
+
+ASCII MASTER FLOW — PANEL 5/12: India's statistical, legal and physical urbanisation
+                    INDIA'S URBAN REALITY
+                            |
+       +--------------------+---------------------+
+       |                    |                     |
+LEGAL                  STATISTICAL             PHYSICAL
+statutory town         census town             built-up continuity
+urban local body       urban criteria          peri-urban spread / UA
+       |                    |                     |
+       +----------- may not coincide -------------+
+                            |
+HIDDEN URBANISATION
+functional and census change ahead of municipal institutions
+                            |
+CENSUS 2011 OBSERVED BASELINE
+urban population 377.1 million | urban share 31.16%
+7,935 towns = 4,041 statutory + 3,894 census towns
+53 million-plus urban agglomerations / cities
+
+Always attach source and year; projections and mission counts are not Census.
+
+ASCII MASTER FLOW — PANEL 6/12: Urban problem system: sprawl, housing, mobility, flood and heat
+URBAN EXPANSION OUTRUNS PLANNING AND SERVICES
+                         |
+       +-----------------+------------------+
+       |                 |                  |
+SPRAWL               HOUSING FAILURE      SEALED LAND
+longer networks      informality          faster runoff
+longer trips         hazardous sites      lost storage
+congestion           unequal service      urban flood
+       |                 |                  |
+       +-----------------+------------------+
+                         |
+DARK SURFACES + LOW TREE COVER -> retained heat -> health inequality
+DISTANT WATER + LEAKS + UNTREATED SEWAGE -> basin-scale water stress
+                         |
+EXPOSURE FILTER
+income, tenure, occupation, age, gender, disability and warning access
+                         |
+RESPONSE
+compact serviced growth + affordable housing + transit + blue-green systems
++ drainage maintenance + heat action + water reuse + risk-sensitive zoning
+
+ASCII MASTER FLOW — PANEL 7/12: Functional city versus fragmented governance
+FUNCTIONAL URBAN REGION
+jobs + housing + transport + water + waste + ecology cross boundaries
+                         |
+GOVERNING MAP
+ULB A | ULB B | development authority | utility | district | state agency
+                         |
+fragmented mandate + finance + data + accountability
+                         |
+uneven service, delayed infrastructure and risk transfer
+                         |
+INTEGRATION STACK
+metropolitan planning -> empowered ULBs -> stable finance
+-> ward participation -> common data -> transit-land-use alignment
+-> utility coordination -> outcome audits
+
+MISSION FIREWALL
+announcement -> sanction -> project -> completion -> service outcome
+A dated project count is not proof of universal liveability.
+
+Polycentric growth needs integrated mobility and governance,
+otherwise multiple nodes become multiple accountability gaps.
+
+ASCII MASTER FLOW — PANEL 8/12: Map-answer and Mains spine for Indian urbanisation
+QUESTION: Is Indian urbanisation productive, inclusive and resilient?
+                             |
+1. DEFINE THE URBAN LENS
+   legal + statistical + physical + functional urbanisation
+                             |
+2. MAP THE SYSTEM
+   metros -> corridors -> intermediate towns -> census towns -> peri-urban belts
+                             |
+3. EXPLAIN BENEFITS
+   agglomeration -> matching -> innovation -> shared infrastructure
+                             |
+4. DIAGNOSE MECHANISMS
+   sprawl | housing | mobility | flood | heat | water | sanitation
+                             |
+5. LOCATE GOVERNANCE GAP
+   functional region exceeds municipal boundary and capacity
+                             |
+6. QUALIFY WITH DATED EVIDENCE
+   Census baseline is observed; mission outputs require outcome checks
+                             |
+7. VERDICT
+   capture density and connectivity while building inclusive services,
+   ecological safeguards and accountable metropolitan institutions.
+
+ASCII MASTER FLOW — PANEL 9/12: Evidence ladder and confidence control
+EVIDENCE LADDER
+1. Grounded in: Majid Husain, Indian & World Geography + G.C. Leong for...
+2. = from source book or official source = inference / standard...
+3. Site Exact ground on which the settlement stands
+VERDICT: Source type controls the strength and limits of the historical claim.
+
+ASCII MASTER FLOW — PANEL 10/12: Examiner traps and contested boundaries
+CLOSE DISTINCTIONS
+1. SCALE + MODEL / DATA / POLICY LIMIT
+2. Trap: treating site and situation as synonyms.
+3. Trap: assuming present size was determined by nature alone.
+VERDICT: Qualification earns marks; false certainty is a hard failure.
+CLOSE DISTINCTION: Urbanisation is a rising urban share and structural-spatial transformation,
+  not merely urban population growth; municipality status does not equal Census urban
+  classification, conurbation differs from megalopolis, slum from all informal settlement, and
+  Smart Cities Mission from AMRUT and PMAY-U mandates.
+CLOSE DISTINCTION: Urbanisation is a rising urban share and structural-spatial transformation,
+  not merely urban population growth; municipality status does not equal Census urban
+  classification, conurbation differs from megalopolis, slum from all informal settlement, and
+  Smart Cities Mission from AMRUT and PMAY-U mandates.
+CLOSE DISTINCTION: Urbanisation is a rising urban share and structural-spatial transformation,
+  not merely urban population growth; municipality status does not equal Census urban
+  classification, conurbation differs from megalopolis, slum from all informal settlement, and
+  Smart Cities Mission from AMRUT and PMAY-U mandates.
+
+ASCII MASTER FLOW — PANEL 11/12: Integrated answer spine and qualified conclusion
+ANSWER SPINE
+1. not needed to understand or write a sound core answer.
+2. Practice contract Every solved item has demand decoding, a detailed...
+3. Compare settlements: rural forms, urban places and the rural-urban...
+VERDICT: Claim, named evidence, analysis and qualification lead to a graded...
+EVIDENCE LIMIT: Delhi–NCR, Mumbai Metropolitan Region, Bengaluru, Surat, Chandigarh, Jaipur
+  and Kerala's dispersed settlement provide contrasting map anchors; Burgess, Hoyt,
+  Harris-Ullman and Christaller are simplified models whose assumptions, scale and
+  Global-South informality limits must be explicit.
+EVIDENCE LIMIT: Delhi–NCR, Mumbai Metropolitan Region, Bengaluru, Surat, Chandigarh, Jaipur
+  and Kerala's dispersed settlement provide contrasting map anchors; Burgess, Hoyt,
+  Harris-Ullman and Christaller are simplified models whose assumptions, scale and
+  Global-South informality limits must be explicit.
+EVIDENCE LIMIT: Delhi–NCR, Mumbai Metropolitan Region, Bengaluru, Surat, Chandigarh, Jaipur
+  and Kerala's dispersed settlement provide contrasting map anchors; Burgess, Hoyt,
+  Harris-Ullman and Christaller are simplified models whose assumptions, scale and
+  Global-South informality limits must be explicit.
+
+ASCII MASTER FLOW — PANEL 12/12: Evidence ladder and confidence control — DEEP-REVIEW SYNTHESIS 2
+EVIDENCE LADDER
+1. Grounded in: Majid Husain, Indian & World Geography + G.C. Leong for...
+2. = from source book or official source = inference / standard...
+3. Site Exact ground on which the settlement stands
+VERDICT: Source type controls the strength and limits of the historical claim.

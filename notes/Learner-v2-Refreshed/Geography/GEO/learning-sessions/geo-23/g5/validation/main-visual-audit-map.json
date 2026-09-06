@@ -1,0 +1,1774 @@
+{
+  "schema_version": 1,
+  "source": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g5\\geography-23_Complete-Learning-Session_2026-09-05.md",
+  "output_pdf": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\notes\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g5\\geography-23_Complete-Learning-Session_2026-09-05.pdf",
+  "mode": "main",
+  "topic_key": "geography-23",
+  "visual_blocks": [
+    {
+      "visual_id": "visual-0001",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 3,
+      "markdown_body_line_end": 3,
+      "heading": "Cool Temperate Continental Siberian - Learner-v2 Complete Learning Session",
+      "preview": "**Authoring-only generation:** 2026-09-01. No PDF was rendered and no tracker or index was mutated.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 720.824
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0002",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 19,
+      "markdown_body_line_end": 27,
+      "heading": "DEEP-REVIEW LEARNING CONTRACT",
+      "preview": "Control | Binding rule for this package",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 7,
+        "headers": [
+          "Control",
+          "Binding rule for this package"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 6,
+          "frame_y": 418.024
+        },
+        "end": {
+          "page": 6,
+          "frame_y": 189.022
+        }
+      },
+      "pdf_pages": [
+        6
+      ]
+    },
+    {
+      "visual_id": "visual-0003",
+      "kind": "embedded-image",
+      "markdown_body_line_start": 51,
+      "markdown_body_line_end": 51,
+      "heading": "EVIDENCE, PYQ AND CURRENT-STATUS CONTROL",
+      "preview": "Refreshed teaching navigation",
+      "metadata": {
+        "image_path": "C:\\Users\\pulkitkundra\\Downloads\\pk-workspace\\upsc-agent\\upsc-ai-kit\\knowledge\\Learner-v2-Refreshed\\Geography\\GEO\\learning-sessions\\geo-23\\g5\\assets\\geography-23_Teaching-Navigation_2026-08-22.png"
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 7,
+          "frame_y": 463.291
+        },
+        "end": {
+          "page": 7,
+          "frame_y": 155.756
+        }
+      },
+      "pdf_pages": [
+        7
+      ]
+    },
+    {
+      "visual_id": "visual-0004",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 65,
+      "markdown_body_line_end": 65,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Northern Hemisphere exclusivity and boundaries must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 646.091
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 579.424
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0005",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 80,
+      "markdown_body_line_end": 87,
+      "heading": "VISUAL FIRST",
+      "preview": "NORTHERN HEMISPHERE EXCLUSIVITY AND BOUNDARIES",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 8,
+          "frame_y": 384.624
+        },
+        "end": {
+          "page": 8,
+          "frame_y": 313.624
+        }
+      },
+      "pdf_pages": [
+        8
+      ]
+    },
+    {
+      "visual_id": "visual-0006",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 116,
+      "markdown_body_line_end": 123,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 666.291
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 560.273
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0007",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 135,
+      "markdown_body_line_end": 135,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Climate character must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 9,
+          "frame_y": 425.273
+        },
+        "end": {
+          "page": 9,
+          "frame_y": 358.605
+        }
+      },
+      "pdf_pages": [
+        9
+      ]
+    },
+    {
+      "visual_id": "visual-0008",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 150,
+      "markdown_body_line_end": 157,
+      "heading": "VISUAL FIRST",
+      "preview": "CLIMATE CHARACTER",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0009",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 186,
+      "markdown_body_line_end": 193,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 362.291
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 274.123
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0010",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 205,
+      "markdown_body_line_end": 205,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Taiga identity and extent must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 10,
+          "frame_y": 139.123
+        },
+        "end": {
+          "page": 10,
+          "frame_y": 72.455
+        }
+      },
+      "pdf_pages": [
+        10
+      ]
+    },
+    {
+      "visual_id": "visual-0011",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 220,
+      "markdown_body_line_end": 227,
+      "heading": "VISUAL FIRST",
+      "preview": "TAIGA IDENTITY AND EXTENT",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 543.491
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0012",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 256,
+      "markdown_body_line_end": 263,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 11,
+          "frame_y": 189.491
+        },
+        "end": {
+          "page": 11,
+          "frame_y": 91.823
+        }
+      },
+      "pdf_pages": [
+        11
+      ]
+    },
+    {
+      "visual_id": "visual-0013",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 275,
+      "markdown_body_line_end": 275,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Conifer adaptations must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0014",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 290,
+      "markdown_body_line_end": 294,
+      "heading": "VISUAL FIRST",
+      "preview": "CONIFER ADAPTATIONS",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 67
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 12,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        12
+      ]
+    },
+    {
+      "visual_id": "visual-0015",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 322,
+      "markdown_body_line_end": 329,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 12,
+          "frame_y": 96.824
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 726.923
+        }
+      },
+      "pdf_pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0016",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 341,
+      "markdown_body_line_end": 341,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Softwood economic value must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 591.923
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 525.255
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0017",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 356,
+      "markdown_body_line_end": 363,
+      "heading": "VISUAL FIRST",
+      "preview": "SOFTWOOD ECONOMIC VALUE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 54
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 13,
+          "frame_y": 330.455
+        },
+        "end": {
+          "page": 13,
+          "frame_y": 259.455
+        }
+      },
+      "pdf_pages": [
+        13
+      ]
+    },
+    {
+      "visual_id": "visual-0018",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 392,
+      "markdown_body_line_end": 399,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 644.291
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 546.623
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0019",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 411,
+      "markdown_body_line_end": 411,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Biological poverty as commercial advantage must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 14,
+          "frame_y": 397.423
+        },
+        "end": {
+          "page": 14,
+          "frame_y": 330.755
+        }
+      },
+      "pdf_pages": [
+        14
+      ]
+    },
+    {
+      "visual_id": "visual-0020",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 426,
+      "markdown_body_line_end": 433,
+      "heading": "VISUAL FIRST",
+      "preview": "BIOLOGICAL POVERTY AS COMMERCIAL ADVANTAGE",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 60
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0021",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 462,
+      "markdown_body_line_end": 469,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 333.891
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 227.873
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0022",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 481,
+      "markdown_body_line_end": 481,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Carbon storage mechanism must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 15,
+          "frame_y": 107.073
+        },
+        "end": {
+          "page": 15,
+          "frame_y": 40.405
+        }
+      },
+      "pdf_pages": [
+        15
+      ]
+    },
+    {
+      "visual_id": "visual-0023",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 496,
+      "markdown_body_line_end": 500,
+      "heading": "VISUAL FIRST",
+      "preview": "CARBON STORAGE MECHANISM",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 59
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 614.491
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 573.491
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0024",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 528,
+      "markdown_body_line_end": 535,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 16,
+          "frame_y": 265.091
+        },
+        "end": {
+          "page": 16,
+          "frame_y": 167.423
+        }
+      },
+      "pdf_pages": [
+        16
+      ]
+    },
+    {
+      "visual_id": "visual-0025",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 547,
+      "markdown_body_line_end": 547,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Fire-thaw feedback and sink-to-source risk must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 679.291
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 612.624
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0026",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 562,
+      "markdown_body_line_end": 566,
+      "heading": "VISUAL FIRST",
+      "preview": "FIRE-THAW FEEDBACK AND SINK-TO-SOURCE RISK",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 17,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        17
+      ]
+    },
+    {
+      "visual_id": "visual-0027",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 594,
+      "markdown_body_line_end": 601,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 17,
+          "frame_y": 68.424
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 735.273
+        }
+      },
+      "pdf_pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0028",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 613,
+      "markdown_body_line_end": 613,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Permafrost engineering consequence must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 600.273
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 533.605
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0029",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 628,
+      "markdown_body_line_end": 632,
+      "heading": "VISUAL FIRST",
+      "preview": "PERMAFROST ENGINEERING CONSEQUENCE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 70
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 18,
+          "frame_y": 338.805
+        },
+        "end": {
+          "page": 18,
+          "frame_y": 297.805
+        }
+      },
+      "pdf_pages": [
+        18
+      ]
+    },
+    {
+      "visual_id": "visual-0030",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 660,
+      "markdown_body_line_end": 667,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 733.891
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 636.223
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0031",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 679,
+      "markdown_body_line_end": 679,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "India has no continental taiga must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 19,
+          "frame_y": 515.423
+        },
+        "end": {
+          "page": 19,
+          "frame_y": 448.755
+        }
+      },
+      "pdf_pages": [
+        19
+      ]
+    },
+    {
+      "visual_id": "visual-0032",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 694,
+      "markdown_body_line_end": 698,
+      "heading": "VISUAL FIRST",
+      "preview": "INDIA HAS NO CONTINENTAL TAIGA",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 61
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0033",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 726,
+      "markdown_body_line_end": 733,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 466.291
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 376.973
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0034",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 745,
+      "markdown_body_line_end": 745,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Himalayan altitudinal zonation must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 20,
+          "frame_y": 241.973
+        },
+        "end": {
+          "page": 20,
+          "frame_y": 175.305
+        }
+      },
+      "pdf_pages": [
+        20
+      ]
+    },
+    {
+      "visual_id": "visual-0035",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 758,
+      "markdown_body_line_end": 765,
+      "heading": "VISUAL FIRST",
+      "preview": "HIMALAYAN ALTITUDINAL ZONATION",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 81
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 716.291
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0036",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 794,
+      "markdown_body_line_end": 801,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 319.691
+        },
+        "end": {
+          "page": 21,
+          "frame_y": 222.023
+        }
+      },
+      "pdf_pages": [
+        21
+      ]
+    },
+    {
+      "visual_id": "visual-0037",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 813,
+      "markdown_body_line_end": 813,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Chir pine and fire ecology must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 21,
+          "frame_y": 101.223
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 742.624
+        }
+      },
+      "pdf_pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0038",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 826,
+      "markdown_body_line_end": 830,
+      "heading": "VISUAL FIRST",
+      "preview": "CHIR PINE AND FIRE ECOLOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 63
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 596.424
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 555.424
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0039",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 858,
+      "markdown_body_line_end": 865,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 22,
+          "frame_y": 261.224
+        },
+        "end": {
+          "page": 22,
+          "frame_y": 171.905
+        }
+      },
+      "pdf_pages": [
+        22
+      ]
+    },
+    {
+      "visual_id": "visual-0040",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 877,
+      "markdown_body_line_end": 877,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Treeline and alpine ecology must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 693.491
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 626.824
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0041",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 892,
+      "markdown_body_line_end": 896,
+      "heading": "VISUAL FIRST",
+      "preview": "TREELINE AND ALPINE ECOLOGY",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 68
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 432.024
+        },
+        "end": {
+          "page": 23,
+          "frame_y": 391.024
+        }
+      },
+      "pdf_pages": [
+        23
+      ]
+    },
+    {
+      "visual_id": "visual-0042",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 924,
+      "markdown_body_line_end": 931,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 23,
+          "frame_y": 96.824
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 726.923
+        }
+      },
+      "pdf_pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0043",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 943,
+      "markdown_body_line_end": 943,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "Savanna-steppe-taiga comparison must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 591.923
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 525.255
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0044",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 958,
+      "markdown_body_line_end": 965,
+      "heading": "VISUAL FIRST",
+      "preview": "SAVANNA-STEPPE-TAIGA COMPARISON",
+      "metadata": {
+        "language": "text",
+        "line_count": 6,
+        "max_source_line_length": 88
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 24,
+          "frame_y": 330.455
+        },
+        "end": {
+          "page": 24,
+          "frame_y": 259.455
+        }
+      },
+      "pdf_pages": [
+        24
+      ]
+    },
+    {
+      "visual_id": "visual-0045",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 994,
+      "markdown_body_line_end": 1001,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 644.291
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 546.623
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0046",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1013,
+      "markdown_body_line_end": 1013,
+      "heading": "ANSWER-GRABBING OPENING - WRITE/ADAPT IN THE EXAM",
+      "preview": "PYQ boundary and answer spine must be explained as a process-to-pattern chain, not as an unconnected catalogue of landforms, places or schemes.",
+      "metadata": {
+        "line_count": 1
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 25,
+          "frame_y": 411.623
+        },
+        "end": {
+          "page": 25,
+          "frame_y": 344.955
+        }
+      },
+      "pdf_pages": [
+        25
+      ]
+    },
+    {
+      "visual_id": "visual-0047",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 1028,
+      "markdown_body_line_end": 1032,
+      "heading": "VISUAL FIRST",
+      "preview": "PYQ BOUNDARY AND ANSWER SPINE",
+      "metadata": {
+        "language": "text",
+        "line_count": 3,
+        "max_source_line_length": 49
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 746.291
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0048",
+      "kind": "closure-flow",
+      "markdown_body_line_start": 1060,
+      "markdown_body_line_end": 1067,
+      "heading": "CLOSING RECALL FLOW",
+      "preview": "SUBTOPIC CLOSURE FLOW",
+      "metadata": {
+        "field_count": 5
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 452.091
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 362.773
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0049",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1071,
+      "markdown_body_line_end": 1074,
+      "heading": "COMPLETE BASIC OWNER EVIDENCE BANK",
+      "preview": "**Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*. ✅ = from source book · ⚠️ = inference ",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 362.773
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 267.705
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0050",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1083,
+      "markdown_body_line_end": 1085,
+      "heading": "1. What & Where (G.C. Leong)",
+      "preview": "🔑 Trap: There is **no Siberian-type climate in the Southern Hemisphere** — the continents there are too narrow at those latitudes; only **mountain uplands** (S. Chile, NZ, Tasmania, SE Australia) carry similar coniferous forest.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 26,
+          "frame_y": 183.905
+        },
+        "end": {
+          "page": 26,
+          "frame_y": 125.037
+        }
+      },
+      "pdf_pages": [
+        26
+      ]
+    },
+    {
+      "visual_id": "visual-0051",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1089,
+      "markdown_body_line_end": 1093,
+      "heading": "2. Climate",
+      "preview": "Element | Character",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 3,
+        "headers": [
+          "Element",
+          "Character"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 699.09
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0052",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1138,
+      "markdown_body_line_end": 1142,
+      "heading": "9.1 Directive decoding",
+      "preview": "If the question says | It is really asking for | Do **not**",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 3,
+        "headers": [
+          "If the question says",
+          "It is really asking for",
+          "Do **not**"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 27,
+          "frame_y": 195.89
+        },
+        "end": {
+          "page": 27,
+          "frame_y": 40.488
+        }
+      },
+      "pdf_pages": [
+        27
+      ]
+    },
+    {
+      "visual_id": "visual-0053",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 1146,
+      "markdown_body_line_end": 1152,
+      "heading": "9.2 Why a hostile environment became an economic asset",
+      "preview": "Property of the taiga | Economic consequence",
+      "metadata": {
+        "column_count": 2,
+        "row_count": 5,
+        "headers": [
+          "Property of the taiga",
+          "Economic consequence"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 589.49
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0054",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1154,
+      "markdown_body_line_end": 1156,
+      "heading": "9.2 Why a hostile environment became an economic asset",
+      "preview": "🔑 **Trap:** biological poverty can be an economic **advantage**. The taiga's low diversity is precisely what makes it commercially tractable. Stating this inverts the expected answer and is a genuine analytical point.",
+      "metadata": {
+        "line_count": 3
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 589.49
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 544.822
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0055",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1173,
+      "markdown_body_line_end": 1174,
+      "heading": "9.3 The carbon and permafrost dimension",
+      "preview": "⚠️ **Factual caution:** do not quote a boreal carbon-stock figure, a permafrost area, a burned-area statistic or a thaw rate from memory; tie any number to a named monitoring source and period.",
+      "metadata": {
+        "line_count": 2
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 334.622
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 289.954
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0056",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 1178,
+      "markdown_body_line_end": 1183,
+      "heading": "9.4 Evidence unit",
+      "preview": "**Claim:** the same climatic severity that limits settlement creates a globally significant carbon store. **Evidence:** cold slows decomposition more than it slows growth, so organic matter accumulates in boreal soils, peat and permafrost. ",
+      "metadata": {
+        "line_count": 6
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 28,
+          "frame_y": 289.954
+        },
+        "end": {
+          "page": 28,
+          "frame_y": 180.687
+        }
+      },
+      "pdf_pages": [
+        28
+      ]
+    },
+    {
+      "visual_id": "visual-0057",
+      "kind": "recall-callout",
+      "markdown_body_line_start": 2374,
+      "markdown_body_line_end": 2377,
+      "heading": "OPTIONAL ADVANCED DEPTH - NOT REQUIRED FOR A CORE ANSWER",
+      "preview": "**Subject:** Geography · **Tier:** Advanced (India-applied) · **GS Paper:** GS-I / GS-III **Grounded in:** Majid Husain, *India geography* + D.R. Khullar, *India: A Comprehensive Geography* + verified CA. ✅ = from source book · ⚠️ = inferen",
+      "metadata": {
+        "line_count": 4
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 64,
+          "frame_y": 324.491
+        },
+        "end": {
+          "page": 64,
+          "frame_y": 251.424
+        }
+      },
+      "pdf_pages": [
+        64
+      ]
+    },
+    {
+      "visual_id": "visual-0058",
+      "kind": "markdown-table",
+      "markdown_body_line_start": 2391,
+      "markdown_body_line_end": 2396,
+      "heading": "1. Himalayan altitudinal zonation (Majid Husain)",
+      "preview": "Conifer (softwood) | Altitude / area | Note",
+      "metadata": {
+        "column_count": 3,
+        "row_count": 4,
+        "headers": [
+          "Conifer (softwood)",
+          "Altitude / area",
+          "Note"
+        ]
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 65,
+          "frame_y": 803.291
+        },
+        "end": {
+          "page": 65,
+          "frame_y": 660.29
+        }
+      },
+      "pdf_pages": [
+        65
+      ]
+    },
+    {
+      "visual_id": "visual-0059",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2439,
+      "markdown_body_line_end": 2450,
+      "heading": "ASCII MASTER FLOW - PANEL 1/12: Siberian climate world distribution",
+      "preview": "SIBERIA -> largest single taiga band, continental interior",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 91
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 674.291
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0060",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2454,
+      "markdown_body_line_end": 2459,
+      "heading": "ASCII MASTER FLOW - PANEL 2/12: Climate character profile",
+      "preview": "WINTER -> bitterly cold, long, sub-Arctic; very large annual range",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 79
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 652.291
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 600.491
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0061",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2463,
+      "markdown_body_line_end": 2468,
+      "heading": "ASCII MASTER FLOW - PANEL 3/12: Conifer adaptation chain",
+      "preview": "CONICAL SHAPE -> sheds snow load, prevents branch breakage",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 66
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 578.491
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 526.691
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0062",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2472,
+      "markdown_body_line_end": 2477,
+      "heading": "ASCII MASTER FLOW - PANEL 4/12: Softwood economic chain",
+      "preview": "UNIFORM LOW-DIVERSITY STANDS -> mechanised extraction feasible",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 504.691
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0063",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2481,
+      "markdown_body_line_end": 2486,
+      "heading": "ASCII MASTER FLOW - PANEL 5/12: Carbon storage mechanism",
+      "preview": "COLD SLOWS DECOMPOSITION -> organic matter accumulates in soil and peat",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 72
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 430.891
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 379.091
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0064",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2490,
+      "markdown_body_line_end": 2495,
+      "heading": "ASCII MASTER FLOW - PANEL 6/12: Fire-thaw feedback loop",
+      "preview": "WARMING -> lengthens fire season and thaws permafrost",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 69
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 66,
+          "frame_y": 357.091
+        },
+        "end": {
+          "page": 66,
+          "frame_y": 305.291
+        }
+      },
+      "pdf_pages": [
+        66
+      ]
+    },
+    {
+      "visual_id": "visual-0065",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2499,
+      "markdown_body_line_end": 2504,
+      "heading": "ASCII MASTER FLOW - PANEL 7/12: Permafrost engineering impact",
+      "preview": "THAWING PERMAFROST -> ground loses bearing capacity",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 62
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0066",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2508,
+      "markdown_body_line_end": 2513,
+      "heading": "ASCII MASTER FLOW - PANEL 8/12: Himalayan altitudinal zonation",
+      "preview": "SUBTROPICAL -> chir pine belt, 100-200 cm rain, fire-prone",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 58
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 713.491
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 661.691
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0067",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2517,
+      "markdown_body_line_end": 2522,
+      "heading": "ASCII MASTER FLOW - PANEL 9/12: Himalayan conifer identification",
+      "preview": "SILVER-FIR (Abies) -> 2200-3000 m; planking, pulp, paper, matches",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 65
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 639.691
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 587.891
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0068",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2526,
+      "markdown_body_line_end": 2537,
+      "heading": "ASCII MASTER FLOW - PANEL 10/12: Treeline and alpine pastures",
+      "preview": "CONIFEROUS FOREST -> gives way at the treeline altitude",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 565.891
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 452.891
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0069",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2541,
+      "markdown_body_line_end": 2552,
+      "heading": "ASCII MASTER FLOW - PANEL 11/12: Biome comparison strip",
+      "preview": "TAIGA -> high-latitude coniferous, below-ground carbon, softwood economy",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 10,
+        "max_source_line_length": 92
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 67,
+          "frame_y": 430.891
+        },
+        "end": {
+          "page": 67,
+          "frame_y": 317.891
+        }
+      },
+      "pdf_pages": [
+        67
+      ]
+    },
+    {
+      "visual_id": "visual-0070",
+      "kind": "fenced-preformatted",
+      "markdown_body_line_start": 2556,
+      "markdown_body_line_end": 2561,
+      "heading": "ASCII MASTER FLOW - PANEL 12/12: Siberian climate answer spine",
+      "preview": "DEFINE -> Northern Hemisphere boreal coniferous belt with extreme continental range",
+      "metadata": {
+        "language": "ascii-master",
+        "line_count": 4,
+        "max_source_line_length": 83
+      },
+      "rendered_positions": {
+        "start": {
+          "page": 68,
+          "frame_y": 787.291
+        },
+        "end": {
+          "page": 68,
+          "frame_y": 735.491
+        }
+      },
+      "pdf_pages": [
+        68
+      ]
+    }
+  ]
+}

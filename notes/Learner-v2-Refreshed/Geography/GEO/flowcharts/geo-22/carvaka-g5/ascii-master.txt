@@ -1,0 +1,89 @@
+ASCII MASTER FLOW — PANEL 1/12: British-type world map
+NW EUROPE -> Britain, France, Belgium, Netherlands, Denmark, Norway
+NORTH AMERICA -> British Columbia coast (Rockies block inland)
+SOUTHERN HEMISPHERE -> S. Chile, Tasmania, NZ South Island
+LATITUDE BELT -> about 45-65 degrees N and S
+MUST REMEMBER: Cool temperate western-margin British type follows year-round westerlies,
+  maritime moderation, frequent frontal cyclones and orographic rain, producing mild winters,
+  cool summers, small annual range and deciduous/mixed vegetation.
+MUST REMEMBER: Cool temperate western-margin British type follows year-round westerlies,
+  maritime moderation, frequent frontal cyclones and orographic rain, producing mild winters,
+  cool summers, small annual range and deciduous/mixed vegetation.
+
+ASCII MASTER FLOW — PANEL 2/12: Westerly-ocean mechanism
+WESTERLIES -> permanent onshore flow from warm ocean
+NORTH ATLANTIC DRIFT -> warm current on seaward side
+CYCLONIC ACTIVITY -> travelling frontal depressions
+RESULT -> mild winters, cool summers, small annual range, rain all year
+
+ASCII MASTER FLOW — PANEL 3/12: Rockies-barrier contrast
+NW EUROPE -> no major barrier, oceanic influence far inland
+NORTH AMERICA -> Rockies block Westerlies, narrow BC coastal strip
+SOUTHERN HEMISPHERE -> narrow landmasses, strong maritime influence
+CAUSE -> mountain barriers and land width determine inland reach
+
+ASCII MASTER FLOW — PANEL 4/12: East-west asymmetry diagram
+WESTERN MARGIN -> onshore Westerlies, warm current, mild/small range
+EASTERN MARGIN -> offshore Westerlies, cold current, cold/large range
+WESTERN RAIN -> all year, autumn-winter max, frontal depressions
+EASTERN RAIN -> summer max, winter snow, ports freeze
+
+ASCII MASTER FLOW — PANEL 5/12: Four-type comparison matrix
+BRITISH -> mild winter, cool summer, small range, all-year rain
+LAURENTIAN -> cold winter, warm summer, large range, summer rain
+SIBERIAN -> bitterly cold winter, short summer, very large range
+CHINA TYPE -> cool-cold winter, hot summer, large range, monsoon rain
+
+ASCII MASTER FLOW — PANEL 6/12: Fog-fisheries mechanism
+WARM CURRENT meets COLD CURRENT -> air chilled from below
+RESULT -> dense persistent fog (navigation hazard)
+MIXING + NUTRIENT SUPPLY -> over broad shallow continental shelf
+RESULT -> major fishing ground (but productivity depends on catch levels)
+
+ASCII MASTER FLOW — PANEL 7/12: Deciduous-vegetation identity
+BRITISH TYPE -> deciduous: oak, ash, beech, elm, birch
+LAURENTIAN -> mixed and coniferous forest
+SIBERIAN -> taiga (boreal coniferous)
+EXAM TRAP -> British type is deciduous, NOT coniferous
+
+ASCII MASTER FLOW — PANEL 8/12: Maritime economy
+DAIRYING + MIXED FARMING -> long grass-growing season, reliable moisture
+ICE-FREE PORTS -> year-round trade and shipping
+TEMPERATE CEREALS -> reliable growing conditions
+EARLY INDUSTRIALISATION -> ports, water, equable climate in NW Europe
+
+ASCII MASTER FLOW — PANEL 9/12: India Himalayan temperate map
+MOIST TEMPERATE -> J&K to Arunachal, 1500-3300 m: deodar, oak, fir
+CHIR PINE BELT -> NW Himalaya, HP, Uttarakhand, NE: fire-prone
+DRY TEMPERATE -> Ladakh margins, Lahaul-Spiti, Kinnaur: chilgoza, juniper
+CONTROL -> altitude replaces latitude as the zonation driver
+
+ASCII MASTER FLOW — PANEL 10/12: Deodar species firewall
+DEODAR -> Cedrus deodara, a CONIFER (cedar family)
+EXAM TRAP -> frequently tested: deodar is NOT a broadleaf tree
+CHILGOZA -> dry-temperate conifer (Pinus gerardiana)
+CHIR PINE -> subtropical montane, highly resinous and fire-prone
+CLOSE DISTINCTION: Marine west coast differs from Mediterranean summer-dry climate and
+  continental interiors; 'British type' is a climatic shorthand extending to other western
+  margins, not a statement that all Britain is uniform.
+CLOSE DISTINCTION: Marine west coast differs from Mediterranean summer-dry climate and
+  continental interiors; 'British type' is a climatic shorthand extending to other western
+  margins, not a statement that all Britain is uniform.
+
+ASCII MASTER FLOW — PANEL 11/12: Water-security-fire chain
+FOREST FLOOR SPONGE -> absorbs rain, feeds springs and rivers
+FOREST LOSS -> reduced infiltration, spring decline, downstream shortage
+CHIR PINE + DRY WEATHER -> fuel accumulation, rapid fire spread
+FIRE DAMAGE -> soil loss, regeneration failure, catchment degradation
+EVIDENCE LIMIT: North Atlantic circulation, latitude, relief and changing storm tracks jointly
+  matter; Himalayan temperate forests are altitudinal analogues under monsoon influence, not
+  marine-west-coast equivalents.
+EVIDENCE LIMIT: North Atlantic circulation, latitude, relief and changing storm tracks jointly
+  matter; Himalayan temperate forests are altitudinal analogues under monsoon influence, not
+  marine-west-coast equivalents.
+
+ASCII MASTER FLOW — PANEL 12/12: British-type answer spine
+DEFINE -> cool temperate western margin under permanent Westerlies
+COMPARE -> east-west asymmetry: same latitude, opposite climate
+EXPLAIN -> maritime moderation, frontal rain, deciduous vegetation
+APPLY -> India's Himalayan temperate forests as altitude-based analogue
